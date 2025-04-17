@@ -7,185 +7,219 @@ public class Game
     private readonly string _teamsFolder;
     private int _currentTurn;
     private SkillsManager _skillsManager;
-    private Boolean _gameOver;
+    private Boolean _isGameOver;
     private int _winnerTeam;
+    private Team _teamPlayer1;
+    private Team _teamPlayer2;
+    
+    // Constantes para reemplazar valores mágicos
+    private const int ATTACK_ACTION = 1;
+    private const int SHOOT_ACTION = 2;
+    private const int SKILL_ACTION = 3;
+    private const int INVOKE_ACTION = 4;
+    private const int PASS_TURN_ACTION = 5;
+    private const int SURRENDER_ACTION = 6;
+    
+    private const int MONSTER_ACTION_OFFSET = 10;
+    private const int CANCEL_TARGET_SELECTION = 5;
+    
+    private const int ATTACK_DAMAGE_MODIFIER = 54;
+    private const int SHOOT_DAMAGE_MODIFIER = 80;
 
     public Game(View view, string teamsFolderInitializer)
     {
         _view = view;
         _teamsFolder = teamsFolderInitializer;
         _currentTurn = 1;
-        _gameOver = false;
+        _isGameOver = false;
         _winnerTeam = 0;
     }
 
     public void Play()
     {
+        var teamFiles = LoadTeamFiles();
+        _skillsManager = new SkillsManager();
+        
+        var teamsInitialized = InitializeTeams(teamFiles);
+        if (!teamsInitialized)
+            return;
+            
+        PrintLine();
+        PrintPlayerRound();
+        PrintLine();
+        RunGameLoop();
+        DisplayWinner();
+    }
+
+    private string[] LoadTeamFiles()
+    {
         _view.WriteLine("Elige un archivo para cargar los equipos");
         var teamFiles = Directory.GetFiles(_teamsFolder);
         ShowFiles(teamFiles);
-        _skillsManager = new SkillsManager();
-        var (teamPlayer1, teamPlayer2) = InitializeTeams(teamFiles);
-        if (teamPlayer1 == null || teamPlayer2 == null)
-            return;
-        PrintLine();
-        PrintPlayerRound(teamPlayer1, teamPlayer2);
-        PrintLine();
-        RunGameLoop(teamPlayer1, teamPlayer2);
-        DisplayWinner(teamPlayer1, teamPlayer2);
+        return teamFiles;
     }
 
-    private (Team, Team) InitializeTeams(string[] teamFiles)
+    private bool InitializeTeams(string[] teamFiles)
     {
         int chosenFileIndex = int.Parse(_view.ReadLine());
         string chosenFile = teamFiles[chosenFileIndex];
         var teamsInfo = File.ReadAllLines(chosenFile);
-        var (unitsPlayer1, unitsPlayer2) = SplitTeams(teamsInfo);
-        var teamPlayer1 = new Team("J1");
-        var teamPlayer2 = new Team("J2");
-        bool teamOneValid = teamPlayer1.IsValidTeam(unitsPlayer1);
-        bool teamTwoValid = teamPlayer2.IsValidTeam(unitsPlayer2);
-        teamPlayer1.InitializeOrderList();
-        teamPlayer2.InitializeOrderList();
-        teamPlayer1.SetMaxFullTurns();
-        teamPlayer2.SetMaxFullTurns();
-        if (!teamOneValid || !teamTwoValid)
+        
+        var (unitsPlayer1Names, unitsPlayer2Names) = ExtractTeamUnitNames(teamsInfo);
+        
+        _teamPlayer1 = new Team("J1");
+        _teamPlayer2 = new Team("J2");
+        
+        bool isTeamOneValid = _teamPlayer1.IsValidTeam(unitsPlayer1Names);
+        bool isTeamTwoValid = _teamPlayer2.IsValidTeam(unitsPlayer2Names);
+        
+        InitializeTeamOrders();
+        
+        if (!isTeamOneValid || !isTeamTwoValid)
         {
             _view.WriteLine("Archivo de equipos inválido");
-            return (null, null);
+            return false;
         }
-        return (teamPlayer1, teamPlayer2);
+        return true;
+    }
+    
+    private void InitializeTeamOrders()
+    {
+        _teamPlayer1.InitializeOrderList();
+        _teamPlayer2.InitializeOrderList();
+        _teamPlayer1.SetMaxFullTurns();
+        _teamPlayer2.SetMaxFullTurns();
     }
 
-    private void RunGameLoop(Team teamPlayer1, Team teamPlayer2)
+    private void RunGameLoop()
     {
-        while (_gameOver == false)
+        while (!_isGameOver)
         {
-            var currentTeam = (_currentTurn % 2 != 0) ? teamPlayer1 : teamPlayer2;
+            var currentTeam = GetCurrentTeam();
             currentTeam.SetMaxFullTurns();
 
-            DisplayGameState(teamPlayer1, teamPlayer2);
-            ProcessTurn(teamPlayer1, teamPlayer2);
+            DisplayGameState();
+            ProcessTurn();
 
-            CheckGameOver(teamPlayer1, teamPlayer2);
-            HandleTurnTransition(teamPlayer1, teamPlayer2, currentTeam);
+            CheckGameOver();
+            HandleTurnTransition(currentTeam);
 
-            teamPlayer1.RemoveDeadUnits();
-            teamPlayer2.RemoveDeadUnits();
+            _teamPlayer1.RemoveDeadUnits();
+            _teamPlayer2.RemoveDeadUnits();
         }
     }
 
-    private void DisplayGameState(Team teamPlayer1, Team teamPlayer2)
+    private void DisplayGameState()
     {
-        PrintTeamsState(teamPlayer1, teamPlayer2);
+        PrintTeamsState();
         PrintLine();
-        PrintTurnInfo(teamPlayer1, teamPlayer2);
+        PrintTurnInfo();
         PrintLine();
-        ShowTeamOrder(teamPlayer1, teamPlayer2);
+        ShowTeamOrder();
         PrintLine();
     }
 
-    private void ProcessTurn(Team teamPlayer1, Team teamPlayer2)
+    private void ProcessTurn()
     {
-        GameFlow(teamPlayer1, teamPlayer2);
+        ExecuteGameFlow();
         PrintLine();
-        if (_gameOver != true)
+        if (!_isGameOver)
         {
-            PrintTurnsUsed(GetCurrentTeam(teamPlayer1, teamPlayer2));
+            PrintTurnsUsed(GetCurrentTeam());
             PrintLine();
         }
     }
 
-    private void CheckGameOver(Team teamPlayer1, Team teamPlayer2)
+    private void CheckGameOver()
     {
-        if (teamPlayer1.AllUnitsDead())
+        if (_teamPlayer1.AreAllUnitsDead())
         {
-            _gameOver = true;
+            _isGameOver = true;
             _winnerTeam = 2;
         }
-        if (teamPlayer2.AllUnitsDead())
+        if (_teamPlayer2.AreAllUnitsDead())
         {
-            _gameOver = true;
+            _isGameOver = true;
             _winnerTeam = 1;
         }
     }
 
-    private void HandleTurnTransition(Team teamPlayer1, Team teamPlayer2, Team currentTeam)
+    private void HandleTurnTransition(Team currentTeam)
     {
-        if (currentTeam.HasCompletedAllTurns() && _gameOver == false)
+        if (currentTeam.HasCompletedAllTurns() && !_isGameOver)
         {
             _currentTurn++;
-            PrintPlayerRound(teamPlayer1, teamPlayer2);
+            PrintPlayerRound();
             PrintLine();
             currentTeam.ResetTurns();
         }
     }
 
-    private void GameFlow(Team teamPlayer1, Team teamPlayer2)
+    private void ExecuteGameFlow()
     {
-        var currentTeam = GetCurrentTeam(teamPlayer1, teamPlayer2);
+        var currentTeam = GetCurrentTeam();
         var currentUnit = currentTeam.OrderList[0];
         int selectedAction = GetUnitAction(currentUnit);
         PrintLine();
-        ProcessAction(teamPlayer1, teamPlayer2, currentTeam, currentUnit, selectedAction);
+        ProcessAction(currentTeam, currentUnit, selectedAction);
     }
 
     private int GetUnitAction(object currentUnit)
     {
         if (currentUnit is Samurai samurai)
         {
-            return SamuraiActionOptions(samurai);
+            return GetSamuraiActionOptions(samurai);
         }
         else
         {
-            return MonsterActionOptions((Monster)currentUnit);
+            return GetMonsterActionOptions((Monster)currentUnit);
         }
     }
 
-    private void ProcessAction(Team teamPlayer1, Team teamPlayer2, Team currentTeam, object currentUnit, int action)
+    private void ProcessAction(Team currentTeam, object currentUnit, int action)
     {
-        int actionCode = currentUnit is Monster ? action + 10 : action;
+        int actionCode = currentUnit is Monster ? action + MONSTER_ACTION_OFFSET : action;
         switch (actionCode)
         {
-            case 1: case 2: case 11: 
-                ProcessAttackAction(teamPlayer1, teamPlayer2, currentTeam, currentUnit, action); break;
-            case 3: case 12:
-                ProcessSkillAction(teamPlayer1, teamPlayer2, currentUnit); break;
-            case 4: case 13:
+            case ATTACK_ACTION: case SHOOT_ACTION: case ATTACK_ACTION + MONSTER_ACTION_OFFSET: 
+                ProcessAttackAction(currentTeam, currentUnit, action); break;
+            case SKILL_ACTION: case SKILL_ACTION + MONSTER_ACTION_OFFSET:
+                ProcessSkillAction(currentUnit); break;
+            case INVOKE_ACTION: case INVOKE_ACTION + MONSTER_ACTION_OFFSET:
                 ProcessInvokeAction(); break;
-            case 5: case 14:
+            case PASS_TURN_ACTION: case PASS_TURN_ACTION + MONSTER_ACTION_OFFSET:
                 ProcessPassTurnAction(currentTeam); break;
-            case 6:
+            case SURRENDER_ACTION:
                 ProcessSurrenderAction(currentTeam); break;
         }
     }
 
-    private void ProcessAttackAction(Team teamPlayer1, Team teamPlayer2, Team currentTeam, object currentUnit, int action)
+    private void ProcessAttackAction(Team currentTeam, object currentUnit, int action)
     {
-        var enemyTeam = GetEnemyTeam(teamPlayer1, teamPlayer2);
+        var enemyTeam = GetEnemyTeam();
         int targetIndex = ChooseUnitToAttack(enemyTeam, currentUnit);
-        if (targetIndex == 5)
+        if (targetIndex == CANCEL_TARGET_SELECTION)
         {
             PrintLine();
-            GameFlow(teamPlayer1, teamPlayer2);
+            ExecuteGameFlow();
             return;
         }
         PrintLine();
         object targetUnit = GetTarget(enemyTeam, targetIndex);
 
-        if (action == 1)
+        if (action == ATTACK_ACTION)
             Attack(currentUnit, targetUnit);
         else
             Shoot(currentUnit, targetUnit);
         currentTeam.RotateOrderList();
-        currentTeam.TurnComplete();
+        currentTeam.CompleteTurn();
     }
 
-    private void ProcessSkillAction(Team teamPlayer1, Team teamPlayer2, object currentUnit)
+    private void ProcessSkillAction(object currentUnit)
     {
-        var (selectedIndex, abilities) = UseSkill(currentUnit);
+        var skillInfo = GetSkillSelection(currentUnit);
         PrintLine();
-        GameFlow(teamPlayer1, teamPlayer2);
+        ExecuteGameFlow();
     }
 
     private void ProcessInvokeAction()
@@ -195,24 +229,24 @@ public class Game
     private void ProcessPassTurnAction(Team currentTeam)
     {
         currentTeam.RotateOrderList();
-        currentTeam.TurnComplete();
+        currentTeam.CompleteTurn();
     }
 
     private void ProcessSurrenderAction(Team currentTeam)
     {
         _view.WriteLine($"{currentTeam.Samurai.Name} ({currentTeam.Player}) se rinde");
-        _gameOver = true;
+        _isGameOver = true;
         _winnerTeam = (_currentTurn % 2 != 0) ? 2 : 1;
     }
 
-    private Team GetCurrentTeam(Team teamPlayer1, Team teamPlayer2)
+    private Team GetCurrentTeam()
     {
-        return (_currentTurn % 2 != 0) ? teamPlayer1 : teamPlayer2;
+        return (_currentTurn % 2 != 0) ? _teamPlayer1 : _teamPlayer2;
     }
 
-    private Team GetEnemyTeam(Team teamPlayer1, Team teamPlayer2)
+    private Team GetEnemyTeam()
     {
-        return (_currentTurn % 2 != 0) ? teamPlayer2 : teamPlayer1;
+        return (_currentTurn % 2 != 0) ? _teamPlayer2 : _teamPlayer1;
     }
 
     private void PrintLine()
@@ -220,31 +254,23 @@ public class Game
         _view.WriteLine("----------------------------------------");
     }
 
-    private void PrintPlayerRound(Team teamPlayer1, Team teamPlayer2)
+    private void PrintPlayerRound()
     {
-        string playerInfo = (_currentTurn % 2 != 0)
-            ? $"Ronda de {teamPlayer1.Samurai.Name} ({teamPlayer1.Player})"
-            : $"Ronda de {teamPlayer2.Samurai.Name} ({teamPlayer2.Player})";
+        Team currentTeam = GetCurrentTeam();
+        string playerInfo = $"Ronda de {currentTeam.Samurai.Name} ({currentTeam.Player})";
         _view.WriteLine(playerInfo);
     }
 
-    private void PrintTurnInfo(Team teamPlayer1, Team teamPlayer2)
+    private void PrintTurnInfo()
     {
-        if (_currentTurn % 2 != 0)
-        {
-            _view.WriteLine($"Full Turns: {teamPlayer1.MaxFullTurns - teamPlayer1.FullTurns}");
-            _view.WriteLine($"Blinking Turns: {teamPlayer1.BlinkingTurns}");
-        }
-        else
-        {
-            _view.WriteLine($"Full Turns: {teamPlayer2.MaxFullTurns - teamPlayer2.FullTurns}");
-            _view.WriteLine($"Blinking Turns: {teamPlayer2.BlinkingTurns}");
-        }
+        Team currentTeam = GetCurrentTeam();
+        _view.WriteLine($"Full Turns: {currentTeam.MaxFullTurns - currentTeam.FullTurns}");
+        _view.WriteLine($"Blinking Turns: {currentTeam.BlinkingTurns}");
     }
 
-    private void ShowTeamOrder(Team teamPlayer1, Team teamPlayer2)
+    private void ShowTeamOrder()
     {
-        Team currentTeam = (_currentTurn % 2 != 0) ? teamPlayer1 : teamPlayer2;
+        Team currentTeam = GetCurrentTeam();
 
         _view.WriteLine("Orden:");
 
@@ -267,7 +293,7 @@ public class Game
         }
     }
 
-    private (List<string> unitsPlayer1, List<string> unitsPlayer2) SplitTeams(string[] teamsInfo)
+    private (List<string> unitsPlayer1, List<string> unitsPlayer2) ExtractTeamUnitNames(string[] teamsInfo)
     {
         var unitsPlayer1 = new List<string>();
         var unitsPlayer2 = new List<string>();
@@ -287,10 +313,10 @@ public class Game
         return (unitsPlayer1, unitsPlayer2);
     }
 
-    private void PrintTeamsState(Team teamPlayer1, Team teamPlayer2)
+    private void PrintTeamsState()
     {
-        PrintTeamState(teamPlayer1);
-        PrintTeamState(teamPlayer2);
+        PrintTeamState(_teamPlayer1);
+        PrintTeamState(_teamPlayer2);
     }
 
     private void PrintTeamState(Team team)
@@ -314,23 +340,28 @@ public class Game
         char monsterLabel = 'B';
         for (int monsterIndex = 0; monsterIndex < 3; monsterIndex++)
         {
-            if (monsterIndex < team.Units.Count)
-            {
-                var monster = team.Units[monsterIndex];
-                if (monster.IsDead())
-                    _view.WriteLine($"{monsterLabel}-");
-                else
-                    _view.WriteLine($"{monsterLabel}-{monster.Name} HP:{monster.Hp}/{monster.OriginalHp} MP:{monster.Mp}/{monster.OriginalMp}");
-            }
-            else
-            {
-                _view.WriteLine($"{monsterLabel}-");
-            }
+            PrintMonsterState(team, monsterIndex, monsterLabel);
             monsterLabel++;
         }
     }
+    
+    private void PrintMonsterState(Team team, int monsterIndex, char monsterLabel)
+    {
+        if (monsterIndex < team.Units.Count)
+        {
+            var monster = team.Units[monsterIndex];
+            if (monster.IsDead())
+                _view.WriteLine($"{monsterLabel}-");
+            else
+                _view.WriteLine($"{monsterLabel}-{monster.Name} HP:{monster.Hp}/{monster.OriginalHp} MP:{monster.Mp}/{monster.OriginalMp}");
+        }
+        else
+        {
+            _view.WriteLine($"{monsterLabel}-");
+        }
+    }
 
-    private int SamuraiActionOptions(Samurai samurai)
+    private int GetSamuraiActionOptions(Samurai samurai)
     {
         _view.WriteLine($"Seleccione una acción para {samurai.Name}");
         _view.WriteLine("1: Atacar");
@@ -342,7 +373,7 @@ public class Game
         return int.Parse(_view.ReadLine());
     }
 
-    private int MonsterActionOptions(Monster monster)
+    private int GetMonsterActionOptions(Monster monster)
     {
         _view.WriteLine($"Seleccione una acción para {monster.Name}");
         _view.WriteLine("1: Atacar");
@@ -360,16 +391,27 @@ public class Game
         List<object> availableTargets = GetAvailableTargets(enemyTeam);
         DisplayTargets(availableTargets);
 
-        return ProcessTargetSelection(availableTargets, enemyTeam);
+        return GetTargetSelectionResult(availableTargets, enemyTeam);
     }
 
     private List<object> GetAvailableTargets(Team enemyTeam)
     {
         List<object> availableTargets = new List<object>();
+        AddSamuraiIfAvailable(enemyTeam, availableTargets);
+        AddAvailableMonsters(enemyTeam, availableTargets);
+        return availableTargets;
+    }
+    
+    private void AddSamuraiIfAvailable(Team enemyTeam, List<object> availableTargets)
+    {
         if (enemyTeam.Samurai != null && !enemyTeam.Samurai.IsDead())
         {
             availableTargets.Add(enemyTeam.Samurai);
         }
+    }
+    
+    private void AddAvailableMonsters(Team enemyTeam, List<object> availableTargets)
+    {
         int maxVisibleMonsters = Math.Min(enemyTeam.Units.Count, 3);
         for (int monsterIndex = 0; monsterIndex < maxVisibleMonsters; monsterIndex++)
         {
@@ -379,32 +421,35 @@ public class Game
                 availableTargets.Add(monster);
             }
         }
-        return availableTargets;
     }
 
     private void DisplayTargets(List<object> availableTargets)
     {
         for (int targetIndex = 0; targetIndex < availableTargets.Count; targetIndex++)
         {
-            var target = availableTargets[targetIndex];
-            if (target is Samurai samurai)
-            {
-                _view.WriteLine($"{targetIndex+1}-{samurai.Name} HP:{samurai.Hp}/{samurai.OriginalHp} MP:{samurai.Mp}/{samurai.OriginalMp}");
-            }
-            else if (target is Monster monster)
-            {
-                _view.WriteLine($"{targetIndex+1}-{monster.Name} HP:{monster.Hp}/{monster.OriginalHp} MP:{monster.Mp}/{monster.OriginalMp}");
-            }
+            DisplayTarget(availableTargets[targetIndex], targetIndex);
         }
         _view.WriteLine($"{availableTargets.Count + 1}-Cancelar");
     }
+    
+    private void DisplayTarget(object target, int targetIndex)
+    {
+        if (target is Samurai samurai)
+        {
+            _view.WriteLine($"{targetIndex+1}-{samurai.Name} HP:{samurai.Hp}/{samurai.OriginalHp} MP:{samurai.Mp}/{samurai.OriginalMp}");
+        }
+        else if (target is Monster monster)
+        {
+            _view.WriteLine($"{targetIndex+1}-{monster.Name} HP:{monster.Hp}/{monster.OriginalHp} MP:{monster.Mp}/{monster.OriginalMp}");
+        }
+    }
 
-    private int ProcessTargetSelection(List<object> availableTargets, Team enemyTeam)
+    private int GetTargetSelectionResult(List<object> availableTargets, Team enemyTeam)
     {
         int selection = int.Parse(_view.ReadLine());
 
         if (selection == availableTargets.Count + 1)
-            return 5;
+            return CANCEL_TARGET_SELECTION;
         if (selection > 0 && selection <= availableTargets.Count)
         {
             var selectedTarget = availableTargets[selection - 1];
@@ -413,18 +458,18 @@ public class Game
             else
                 return enemyTeam.Units.IndexOf((Monster)selectedTarget) + 2;
         }
-        return 5;
+        return CANCEL_TARGET_SELECTION;
     }
 
     private void Attack(object attacker, object target)
     {
-        int damage = CalculateDamage(attacker, 54);
+        int damage = CalculateDamage(attacker, ATTACK_DAMAGE_MODIFIER);
         ApplyDamage(attacker, target, damage, "ataca");
     }
 
     private void Shoot(object attacker, object target)
     {
-        int damage = CalculateDamage(attacker, 80);
+        int damage = CalculateDamage(attacker, SHOOT_DAMAGE_MODIFIER);
         ApplyDamage(attacker, target, damage, "dispara");
     }
 
@@ -446,24 +491,27 @@ public class Game
     {
         if (target is Samurai samurai)
         {
-            samurai.Hp -= damage;
-            if (samurai.Hp < 0) samurai.Hp = 0;
-            _view.WriteLine($"{samurai.Name} termina con HP:{samurai.Hp}/{samurai.OriginalHp}");
+            UpdateUnitHealth(samurai, damage);
         }
         else if (target is Monster monster)
         {
-            monster.Hp -= damage;
-            if (monster.Hp < 0) monster.Hp = 0;
-            _view.WriteLine($"{monster.Name} termina con HP:{monster.Hp}/{monster.OriginalHp}");
+            UpdateUnitHealth(monster, damage);
         }
+    }
+    
+    private void UpdateUnitHealth(dynamic unit, int damage)
+    {
+        unit.Hp -= damage;
+        if (unit.Hp < 0) unit.Hp = 0;
+        _view.WriteLine($"{unit.Name} termina con HP:{unit.Hp}/{unit.OriginalHp}");
     }
 
     private int CalculateDamage(object attacker, int modifier)
     {
         int baseStat = attacker switch
         {
-            Samurai samurai => modifier == 54 ? samurai.Str : samurai.Skl,
-            Monster monster => modifier == 54 ? monster.Str : monster.Skl,
+            Samurai samurai => modifier == ATTACK_DAMAGE_MODIFIER ? samurai.Str : samurai.Skl,
+            Monster monster => modifier == ATTACK_DAMAGE_MODIFIER ? monster.Str : monster.Skl,
             _ => 0
         };
         return Convert.ToInt32(Math.Floor(baseStat * modifier * 0.0114));
@@ -479,35 +527,40 @@ public class Game
         };
     }
 
-    private (int, List<string>) UseSkill(object attacker)
+    private UnitSkillInfo GetUnitSkillInfo(object attacker)
     {
-        var (unitName, abilities, currentMp) = GetUnitSkillInfo(attacker);
-        _view.WriteLine($"Seleccione una habilidad para que {unitName} use");
-        List<string> affordableAbilities = GetAffordableAbilities(abilities, currentMp);
-        _view.WriteLine($"{affordableAbilities.Count + 1}-Cancelar");
-        int selectedOption = int.Parse(_view.ReadLine());
-        return MapSelectedSkill(selectedOption, affordableAbilities, abilities);
-    }
-
-    private (string name, List<string> abilities, int currentMp) GetUnitSkillInfo(object attacker)
-    {
-        return attacker switch
+        if (attacker is Samurai samurai)
         {
-            Samurai samurai => (samurai.Name, samurai.Abilities, samurai.Mp),
-            Monster monster => (monster.Name, monster.Abilities, monster.Mp),
-            _ => (string.Empty, new List<string>(), 0)
-        };
+            return new UnitSkillInfo(samurai.Name, samurai.Abilities, samurai.Mp);
+        }
+        else if (attacker is Monster monster)
+        {
+            return new UnitSkillInfo(monster.Name, monster.Abilities, monster.Mp);
+        }
+        return new UnitSkillInfo(string.Empty, new List<string>(), 0);
     }
 
-    private List<string> GetAffordableAbilities(List<string> abilities, int currentMp)
+    private SkillSelectionResult GetSkillSelection(object attacker)
+    {
+        var skillInfo = GetUnitSkillInfo(attacker);
+        _view.WriteLine($"Seleccione una habilidad para que {skillInfo.Name} use");
+        
+        List<string> affordableAbilities = GetAffordableAbilities(skillInfo);
+        _view.WriteLine($"{affordableAbilities.Count + 1}-Cancelar");
+        
+        int selectedOption = int.Parse(_view.ReadLine());
+        return MapSkillSelectionToResult(selectedOption, affordableAbilities, skillInfo.Abilities);
+    }
+
+    private List<string> GetAffordableAbilities(UnitSkillInfo skillInfo)
     {
         List<string> affordableAbilities = new List<string>();
-        for (int abilityIndex = 0; abilityIndex < abilities.Count; abilityIndex++)
+        for (int abilityIndex = 0; abilityIndex < skillInfo.Abilities.Count; abilityIndex++)
         {
-            string ability = abilities[abilityIndex];
+            string ability = skillInfo.Abilities[abilityIndex];
             int abilityCost = _skillsManager.GetSkillCost(ability);
 
-            if (abilityCost <= currentMp)
+            if (abilityCost <= skillInfo.CurrentMp)
             {
                 affordableAbilities.Add(ability);
                 _view.WriteLine($"{affordableAbilities.Count}-{ability} MP:{abilityCost}");
@@ -516,15 +569,15 @@ public class Game
         return affordableAbilities;
     }
 
-    private (int, List<string>) MapSelectedSkill(int selectedOption, List<string> affordableAbilities, List<string> abilities)
+    private SkillSelectionResult MapSkillSelectionToResult(int selectedOption, List<string> affordableAbilities, List<string> allAbilities)
     {
         if (selectedOption > 0 && selectedOption <= affordableAbilities.Count)
         {
             string selectedAbility = affordableAbilities[selectedOption - 1];
-            int originalIndex = abilities.IndexOf(selectedAbility);
-            return (originalIndex + 1, abilities);
+            int originalIndex = allAbilities.IndexOf(selectedAbility);
+            return new SkillSelectionResult(originalIndex + 1, allAbilities);
         }
-        return (affordableAbilities.Count + 1, abilities);
+        return new SkillSelectionResult(affordableAbilities.Count + 1, allAbilities);
     }
 
     private void PrintTurnsUsed(Team currentTeam)
@@ -533,11 +586,14 @@ public class Game
         _view.WriteLine("Se han obtenido 0 Blinking Turn(s)");
     }
 
-    private void DisplayWinner(Team teamPlayer1, Team teamPlayer2)
+    private void DisplayWinner()
     {
         if (_winnerTeam == 1)
-            _view.WriteLine($"Ganador: {teamPlayer1.Samurai.Name} ({teamPlayer1.Player})");
+            _view.WriteLine($"Ganador: {_teamPlayer1.Samurai.Name} ({_teamPlayer1.Player})");
         else
-            _view.WriteLine($"Ganador: {teamPlayer2.Samurai.Name} ({teamPlayer2.Player})");
+            _view.WriteLine($"Ganador: {_teamPlayer2.Samurai.Name} ({_teamPlayer2.Player})");
     }
 }
+
+
+

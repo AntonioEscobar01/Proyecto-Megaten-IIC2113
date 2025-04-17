@@ -1,8 +1,11 @@
-﻿
-namespace Shin_Megami_Tensei;
+﻿namespace Shin_Megami_Tensei;
 
 public class Team
 {
+    private const int MAX_SAMURAI_ALLOWED = 1;
+    private const int MAX_ABILITIES_ALLOWED = 8;
+    private const int MAX_VISIBLE_MONSTERS = 3;
+    
     public string Player { get; private set; }
     public List<Monster> Units { get; private set; }
     public Samurai? Samurai { get; private set; }
@@ -23,10 +26,21 @@ public class Team
     public void InitializeOrderList()
     {
         OrderList.Clear();
+        AddUnitsToOrderList();
+        SortOrderListBySpeed();
+    }
+    
+    private void AddUnitsToOrderList()
+    {
         if (Samurai != null)
             OrderList.Add(Samurai);
-        for (int i = 0; i < Math.Min(Units.Count, 3); i++)
+            
+        for (int i = 0; i < Math.Min(Units.Count, MAX_VISIBLE_MONSTERS); i++)
             OrderList.Add(Units[i]);
+    }
+    
+    private void SortOrderListBySpeed()
+    {
         if (OrderList.Count > 1)
             OrderList = OrderList
                 .OrderByDescending(unit => unit is Monster m ? m.Spd : 
@@ -46,32 +60,69 @@ public class Team
 
     public bool IsValidTeam(List<string> possibleUnits)
     {
-        if (possibleUnits.Count > 8) return false;
+        if (HasTooManyUnits(possibleUnits)) return false;
+        
         HashSet<string> uniqueUnits = new HashSet<string>();
         int samuraiCount = 0;
+        
         foreach (var unit in possibleUnits)
         {
-            if (!uniqueUnits.Add(unit)) return false;
+            if (IsDuplicateUnit(uniqueUnits, unit)) return false;
         
             if (unit.StartsWith("[Samurai]"))
             {
-                if (++samuraiCount > 1) return false;
-                if (!ProcessSamuraiUnit(unit)) return false;
+                if (ExceedsSamuraiLimit(++samuraiCount)) return false;
+                if (!TryAddSamuraiToTeam(unit)) return false;
             }
-            else ProcessMonsterUnit(unit);
+            else 
+            {
+                AddMonsterToTeam(unit);
+            }
         }
-        return samuraiCount == 1;
+        
+        return HasCorrectSamuraiCount(samuraiCount);
+    }
+    
+    private bool HasTooManyUnits(List<string> units)
+    {
+        return units.Count > MAX_ABILITIES_ALLOWED;
+    }
+    
+    private bool IsDuplicateUnit(HashSet<string> uniqueUnits, string unit)
+    {
+        return !uniqueUnits.Add(unit);
+    }
+    
+    private bool ExceedsSamuraiLimit(int samuraiCount)
+    {
+        return samuraiCount > MAX_SAMURAI_ALLOWED;
+    }
+    
+    private bool HasCorrectSamuraiCount(int samuraiCount)
+    {
+        return samuraiCount == MAX_SAMURAI_ALLOWED;
     }
 
-    private bool ProcessSamuraiUnit(string unit)
+    private bool TryAddSamuraiToTeam(string unit)
     {
         List<string> abilities = ExtractAbilities(unit);
     
-        if (abilities.Count > 8 || abilities.Distinct().Count() != abilities.Count)
+        if (HasTooManyAbilities(abilities) || HasDuplicateAbilities(abilities))
             return false;
+            
         var samuraiName = unit.Replace("[Samurai]", "").Split('(')[0].Trim();
         Samurai = new Samurai(samuraiName, abilities);
         return true;
+    }
+    
+    private bool HasTooManyAbilities(List<string> abilities)
+    {
+        return abilities.Count > MAX_ABILITIES_ALLOWED;
+    }
+    
+    private bool HasDuplicateAbilities(List<string> abilities)
+    {
+        return abilities.Distinct().Count() != abilities.Count;
     }
 
     private List<string> ExtractAbilities(string unit)
@@ -82,7 +133,7 @@ public class Team
         return new List<string>();
     }
 
-    private void ProcessMonsterUnit(string unit)
+    private void AddMonsterToTeam(string unit)
     {
         Units.Add(new Monster(unit));
     }
@@ -110,7 +161,7 @@ public class Team
         return FullTurns == MaxFullTurns;
     }
     
-    public void TurnComplete()
+    public void CompleteTurn()
     {
         if (FullTurns >= 0)
         {
@@ -118,7 +169,7 @@ public class Team
         }
     }
     
-    public bool AllUnitsDead()
+    public bool AreAllUnitsDead()
     {
         return !OrderList.Any(unit => 
             (unit is Monster monster && !monster.IsDead()) || 
