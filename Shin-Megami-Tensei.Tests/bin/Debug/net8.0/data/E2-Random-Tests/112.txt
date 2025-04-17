@@ -1,0 +1,6004 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+120: 121.txt
+121: 122.txt
+122: 123.txt
+123: 124.txt
+124: 125.txt
+125: 126.txt
+126: 127.txt
+127: 128.txt
+128: 129.txt
+129: 130.txt
+130: 131.txt
+131: 132.txt
+132: 133.txt
+133: 134.txt
+134: 135.txt
+135: 136.txt
+136: 137.txt
+137: 138.txt
+138: 139.txt
+139: 140.txt
+140: 141.txt
+141: 142.txt
+142: 143.txt
+143: 144.txt
+144: 145.txt
+145: 146.txt
+146: 147.txt
+147: 148.txt
+148: 149.txt
+149: 150.txt
+150: 151.txt
+151: 152.txt
+152: 153.txt
+153: 154.txt
+154: 155.txt
+155: 156.txt
+156: 157.txt
+157: 158.txt
+158: 159.txt
+159: 160.txt
+160: 161.txt
+161: 162.txt
+162: 163.txt
+163: 164.txt
+164: 165.txt
+165: 166.txt
+166: 167.txt
+167: 168.txt
+168: 169.txt
+169: 170.txt
+170: 171.txt
+171: 172.txt
+172: 173.txt
+173: 174.txt
+174: 175.txt
+175: 176.txt
+176: 177.txt
+177: 178.txt
+178: 179.txt
+179: 180.txt
+180: 181.txt
+181: 182.txt
+182: 183.txt
+183: 184.txt
+184: 185.txt
+185: 186.txt
+186: 187.txt
+187: 188.txt
+188: 189.txt
+189: 190.txt
+190: 191.txt
+191: 192.txt
+192: 193.txt
+193: 194.txt
+194: 195.txt
+195: 196.txt
+196: 197.txt
+197: 198.txt
+198: 199.txt
+199: 200.txt
+INPUT: 111
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Da Peng HP:634/634 MP:126/126
+C-Nebiros HP:249/249 MP:242/242
+D-Gryphon HP:123/123 MP:23/23
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Tam Lin HP:218/218 MP:43/43
+C-Lilith HP:380/380 MP:369/369
+D-Tsuchigumo HP:280/280 MP:126/126
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Nebiros
+3-Tamaki
+4-Gryphon
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Da Peng use
+1-Zandyne MP:14
+2-Panic Voice MP:15
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Da Peng
+1-Aleph HP:1309/1309 MP:613/613
+2-Tam Lin HP:218/218 MP:43/43
+3-Lilith HP:380/380 MP:369/369
+4-Tsuchigumo HP:280/280 MP:126/126
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Da Peng lanza viento a Aleph
+Aleph recibe 106 de daño
+Aleph termina con HP:1203/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Da Peng HP:634/634 MP:112/126
+C-Nebiros HP:249/249 MP:242/242
+D-Gryphon HP:123/123 MP:23/23
+Equipo de Aleph (J2)
+A-Aleph HP:1203/1309 MP:613/613
+B-Tam Lin HP:218/218 MP:43/43
+C-Lilith HP:380/380 MP:369/369
+D-Tsuchigumo HP:280/280 MP:126/126
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nebiros
+2-Tamaki
+3-Gryphon
+4-Da Peng
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nebiros use
+1-Mudoon MP:10
+2-Sabbatma MP:20
+3-Pulinpa MP:5
+4-Megidola MP:40
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Da Peng HP:634/634 MP:112/126
+C-Nebiros HP:249/249 MP:242/242
+D-Gryphon HP:123/123 MP:23/23
+Equipo de Aleph (J2)
+A-Aleph HP:1203/1309 MP:613/613
+B-Tam Lin HP:218/218 MP:43/43
+C-Lilith HP:380/380 MP:369/369
+D-Tsuchigumo HP:280/280 MP:126/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Gryphon
+3-Da Peng
+4-Nebiros
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Agilao MP:8
+2-Samarecarm MP:40
+3-Axel Claw MP:15
+4-Stigma Attack MP:20
+5-Zionga MP:8
+6-Sabbatma MP:20
+7-Diarahan MP:16
+8-Berserker God MP:12
+9-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Aleph HP:1203/1309 MP:613/613
+2-Tam Lin HP:218/218 MP:43/43
+3-Lilith HP:380/380 MP:369/369
+4-Tsuchigumo HP:280/280 MP:126/126
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Tamaki ataca a Tsuchigumo
+Tsuchigumo recibe 81 de daño
+Tamaki ataca a Tsuchigumo
+Tsuchigumo recibe 81 de daño
+Tsuchigumo termina con HP:118/280
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:527/542
+B-Da Peng HP:634/634 MP:112/126
+C-Nebiros HP:249/249 MP:242/242
+D-Gryphon HP:123/123 MP:23/23
+Equipo de Aleph (J2)
+A-Aleph HP:1203/1309 MP:613/613
+B-Tam Lin HP:218/218 MP:43/43
+C-Lilith HP:380/380 MP:369/369
+D-Tsuchigumo HP:118/280 MP:126/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gryphon
+2-Da Peng
+3-Nebiros
+4-Tamaki
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:527/542
+B-Da Peng HP:634/634 MP:112/126
+C-Nebiros HP:249/249 MP:242/242
+D-Gryphon HP:123/123 MP:23/23
+Equipo de Aleph (J2)
+A-Aleph HP:1203/1309 MP:613/613
+B-Tam Lin HP:218/218 MP:43/43
+C-Lilith HP:380/380 MP:369/369
+D-Tsuchigumo HP:118/280 MP:126/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Da Peng
+2-Nebiros
+3-Tamaki
+4-Gryphon
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:527/542
+B-Da Peng HP:634/634 MP:112/126
+C-Nebiros HP:249/249 MP:242/242
+D-Gryphon HP:123/123 MP:23/23
+Equipo de Aleph (J2)
+A-Aleph HP:1203/1309 MP:613/613
+B-Tam Lin HP:218/218 MP:43/43
+C-Lilith HP:380/380 MP:369/369
+D-Tsuchigumo HP:118/280 MP:126/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nebiros
+2-Tamaki
+3-Gryphon
+4-Da Peng
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:527/542
+B-Da Peng HP:634/634 MP:112/126
+C-Nebiros HP:249/249 MP:242/242
+D-Gryphon HP:123/123 MP:23/23
+Equipo de Aleph (J2)
+A-Aleph HP:1203/1309 MP:613/613
+B-Tam Lin HP:218/218 MP:43/43
+C-Lilith HP:380/380 MP:369/369
+D-Tsuchigumo HP:118/280 MP:126/126
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Gryphon
+3-Da Peng
+4-Nebiros
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Aleph HP:1203/1309 MP:613/613
+2-Tam Lin HP:218/218 MP:43/43
+3-Lilith HP:380/380 MP:369/369
+4-Tsuchigumo HP:118/280 MP:126/126
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Tamaki ataca a Tsuchigumo
+Tsuchigumo recibe 18 de daño
+Tsuchigumo termina con HP:100/280
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:527/542
+B-Da Peng HP:634/634 MP:112/126
+C-Nebiros HP:249/249 MP:242/242
+D-Gryphon HP:123/123 MP:23/23
+Equipo de Aleph (J2)
+A-Aleph HP:1203/1309 MP:613/613
+B-Tam Lin HP:218/218 MP:43/43
+C-Lilith HP:380/380 MP:369/369
+D-Tsuchigumo HP:100/280 MP:126/126
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Lilith
+3-Tsuchigumo
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Tamaki HP:999/999 MP:527/542
+2-Da Peng HP:634/634 MP:112/126
+3-Nebiros HP:249/249 MP:242/242
+4-Gryphon HP:123/123 MP:23/23
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Aleph dispara a Gryphon
+Gryphon es débil contra el ataque de Aleph
+Gryphon recibe 414 de daño
+Gryphon termina con HP:0/123
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:527/542
+B-Da Peng HP:634/634 MP:112/126
+C-Nebiros HP:249/249 MP:242/242
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1203/1309 MP:613/613
+B-Tam Lin HP:218/218 MP:43/43
+C-Lilith HP:380/380 MP:369/369
+D-Tsuchigumo HP:100/280 MP:126/126
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lilith
+2-Tsuchigumo
+3-Tam Lin
+4-Aleph
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:527/542
+B-Da Peng HP:634/634 MP:112/126
+C-Nebiros HP:249/249 MP:242/242
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1203/1309 MP:613/613
+B-Tam Lin HP:218/218 MP:43/43
+C-Lilith HP:380/380 MP:369/369
+D-Tsuchigumo HP:100/280 MP:126/126
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Tam Lin
+3-Aleph
+4-Lilith
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Aniel HP:567/567 MP:255/255
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:527/542
+B-Da Peng HP:634/634 MP:112/126
+C-Nebiros HP:249/249 MP:242/242
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1203/1309 MP:613/613
+B-Tam Lin HP:218/218 MP:43/43
+C-Lilith HP:380/380 MP:369/369
+D-Tsuchigumo HP:100/280 MP:126/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Aleph
+3-Lilith
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tam Lin use
+1-Hama MP:6
+2-Gram Slice MP:5
+3-Maragi MP:11
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Tamaki HP:999/999 MP:527/542
+2-Da Peng HP:634/634 MP:112/126
+3-Nebiros HP:249/249 MP:242/242
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Tam Lin ataca a Tamaki
+Tamaki es resistente el ataque de Tam Lin
+Tamaki recibe 23 de daño
+Tamaki termina con HP:976/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:976/999 MP:527/542
+B-Da Peng HP:634/634 MP:112/126
+C-Nebiros HP:249/249 MP:242/242
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1203/1309 MP:613/613
+B-Tam Lin HP:218/218 MP:38/43
+C-Lilith HP:380/380 MP:369/369
+D-Tsuchigumo HP:100/280 MP:126/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Lilith
+3-Tsuchigumo
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Bufu MP:5
+2-Diarahan MP:16
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Bufu MP:5
+2-Diarahan MP:16
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Tamaki HP:976/999 MP:527/542
+2-Da Peng HP:634/634 MP:112/126
+3-Nebiros HP:249/249 MP:242/242
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Aleph lanza hielo a Da Peng
+Da Peng recibe 78 de daño
+Da Peng termina con HP:556/634
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:976/999 MP:527/542
+B-Da Peng HP:556/634 MP:112/126
+C-Nebiros HP:249/249 MP:242/242
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1203/1309 MP:608/613
+B-Tam Lin HP:218/218 MP:38/43
+C-Lilith HP:380/380 MP:369/369
+D-Tsuchigumo HP:100/280 MP:126/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lilith
+2-Tsuchigumo
+3-Tam Lin
+4-Aleph
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Aniel HP:567/567 MP:255/255
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lilith
+1-Tamaki HP:976/999 MP:527/542
+2-Da Peng HP:556/634 MP:112/126
+3-Nebiros HP:249/249 MP:242/242
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Lilith ataca a Da Peng
+Da Peng recibe 40 de daño
+Da Peng termina con HP:516/634
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:976/999 MP:527/542
+B-Da Peng HP:516/634 MP:112/126
+C-Nebiros HP:249/249 MP:242/242
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1203/1309 MP:608/613
+B-Tam Lin HP:218/218 MP:38/43
+C-Lilith HP:380/380 MP:369/369
+D-Tsuchigumo HP:100/280 MP:126/126
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Nebiros
+3-Tamaki
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:976/999 MP:527/542
+B-Da Peng HP:516/634 MP:112/126
+C-Nebiros HP:249/249 MP:242/242
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1203/1309 MP:608/613
+B-Tam Lin HP:218/218 MP:38/43
+C-Lilith HP:380/380 MP:369/369
+D-Tsuchigumo HP:100/280 MP:126/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nebiros
+2-Tamaki
+3-Da Peng
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Aleph HP:1203/1309 MP:608/613
+2-Tam Lin HP:218/218 MP:38/43
+3-Lilith HP:380/380 MP:369/369
+4-Tsuchigumo HP:100/280 MP:126/126
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Nebiros ataca a Tsuchigumo
+Tsuchigumo recibe 26 de daño
+Tsuchigumo termina con HP:74/280
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:976/999 MP:527/542
+B-Da Peng HP:516/634 MP:112/126
+C-Nebiros HP:249/249 MP:242/242
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1203/1309 MP:608/613
+B-Tam Lin HP:218/218 MP:38/43
+C-Lilith HP:380/380 MP:369/369
+D-Tsuchigumo HP:74/280 MP:126/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+2-Da Peng
+3-Nebiros
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Aleph HP:1203/1309 MP:608/613
+2-Tam Lin HP:218/218 MP:38/43
+3-Lilith HP:380/380 MP:369/369
+4-Tsuchigumo HP:74/280 MP:126/126
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Aleph HP:1203/1309 MP:608/613
+2-Tam Lin HP:218/218 MP:38/43
+3-Lilith HP:380/380 MP:369/369
+4-Tsuchigumo HP:74/280 MP:126/126
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tamaki ataca a Aleph
+Aleph es resistente el ataque de Tamaki
+Aleph recibe 9 de daño
+Aleph termina con HP:1194/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:976/999 MP:527/542
+B-Da Peng HP:516/634 MP:112/126
+C-Nebiros HP:249/249 MP:242/242
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:608/613
+B-Tam Lin HP:218/218 MP:38/43
+C-Lilith HP:380/380 MP:369/369
+D-Tsuchigumo HP:74/280 MP:126/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Nebiros
+3-Tamaki
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Da Peng
+1-Aleph HP:1194/1309 MP:608/613
+2-Tam Lin HP:218/218 MP:38/43
+3-Lilith HP:380/380 MP:369/369
+4-Tsuchigumo HP:74/280 MP:126/126
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Da Peng ataca a Lilith
+Lilith recibe 48 de daño
+Lilith termina con HP:332/380
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:976/999 MP:527/542
+B-Da Peng HP:516/634 MP:112/126
+C-Nebiros HP:249/249 MP:242/242
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:608/613
+B-Tam Lin HP:218/218 MP:38/43
+C-Lilith HP:332/380 MP:369/369
+D-Tsuchigumo HP:74/280 MP:126/126
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Lilith
+3-Tsuchigumo
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Bufu MP:5
+2-Diarahan MP:16
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Tamaki HP:976/999 MP:527/542
+2-Da Peng HP:516/634 MP:112/126
+3-Nebiros HP:249/249 MP:242/242
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Aleph lanza hielo a Da Peng
+Da Peng recibe 78 de daño
+Da Peng termina con HP:438/634
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:976/999 MP:527/542
+B-Da Peng HP:438/634 MP:112/126
+C-Nebiros HP:249/249 MP:242/242
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:603/613
+B-Tam Lin HP:218/218 MP:38/43
+C-Lilith HP:332/380 MP:369/369
+D-Tsuchigumo HP:74/280 MP:126/126
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lilith
+2-Tsuchigumo
+3-Tam Lin
+4-Aleph
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Aniel HP:567/567 MP:255/255
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lilith use
+1-Lullaby MP:11
+2-Spirit Drain MP:5
+3-Charm Lightning MP:45
+4-Mediarahan MP:40
+5-Invitation MP:45
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:976/999 MP:527/542
+B-Da Peng HP:438/634 MP:112/126
+C-Nebiros HP:249/249 MP:242/242
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:603/613
+B-Tam Lin HP:218/218 MP:38/43
+C-Lilith HP:332/380 MP:369/369
+D-Tsuchigumo HP:74/280 MP:126/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Tam Lin
+3-Aleph
+4-Lilith
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Tamaki HP:976/999 MP:527/542
+2-Da Peng HP:438/634 MP:112/126
+3-Nebiros HP:249/249 MP:242/242
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Aniel HP:567/567 MP:255/255
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tsuchigumo use
+1-Poison Claw MP:9
+2-Zionga MP:8
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Tamaki HP:976/999 MP:527/542
+2-Da Peng HP:438/634 MP:112/126
+3-Nebiros HP:249/249 MP:242/242
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Aniel HP:567/567 MP:255/255
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Tamaki HP:976/999 MP:527/542
+2-Da Peng HP:438/634 MP:112/126
+3-Nebiros HP:249/249 MP:242/242
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Tsuchigumo ataca a Da Peng
+Da Peng recibe 22 de daño
+Da Peng termina con HP:416/634
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:976/999 MP:527/542
+B-Da Peng HP:416/634 MP:112/126
+C-Nebiros HP:249/249 MP:242/242
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:603/613
+B-Tam Lin HP:218/218 MP:38/43
+C-Lilith HP:332/380 MP:369/369
+D-Tsuchigumo HP:74/280 MP:126/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Aleph
+3-Lilith
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Tamaki HP:976/999 MP:527/542
+2-Da Peng HP:416/634 MP:112/126
+3-Nebiros HP:249/249 MP:242/242
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Tam Lin ataca a Nebiros
+Nebiros bloquea el ataque de Tam Lin
+Nebiros termina con HP:249/249
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:976/999 MP:527/542
+B-Da Peng HP:416/634 MP:112/126
+C-Nebiros HP:249/249 MP:242/242
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:603/613
+B-Tam Lin HP:218/218 MP:38/43
+C-Lilith HP:332/380 MP:369/369
+D-Tsuchigumo HP:74/280 MP:126/126
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Nebiros
+3-Tamaki
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Da Peng
+1-Aleph HP:1194/1309 MP:603/613
+2-Tam Lin HP:218/218 MP:38/43
+3-Lilith HP:332/380 MP:369/369
+4-Tsuchigumo HP:74/280 MP:126/126
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:976/999 MP:527/542
+B-Da Peng HP:416/634 MP:112/126
+C-Nebiros HP:249/249 MP:242/242
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:603/613
+B-Tam Lin HP:218/218 MP:38/43
+C-Lilith HP:332/380 MP:369/369
+D-Tsuchigumo HP:74/280 MP:126/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nebiros
+2-Tamaki
+3-Da Peng
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:976/999 MP:527/542
+B-Da Peng HP:416/634 MP:112/126
+C-Nebiros HP:249/249 MP:242/242
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:603/613
+B-Tam Lin HP:218/218 MP:38/43
+C-Lilith HP:332/380 MP:369/369
+D-Tsuchigumo HP:74/280 MP:126/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+2-Da Peng
+3-Nebiros
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Aleph HP:1194/1309 MP:603/613
+2-Tam Lin HP:218/218 MP:38/43
+3-Lilith HP:332/380 MP:369/369
+4-Tsuchigumo HP:74/280 MP:126/126
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tamaki dispara a Tam Lin
+Tam Lin recibe 15 de daño
+Tam Lin termina con HP:203/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:976/999 MP:527/542
+B-Da Peng HP:416/634 MP:112/126
+C-Nebiros HP:249/249 MP:242/242
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:603/613
+B-Tam Lin HP:203/218 MP:38/43
+C-Lilith HP:332/380 MP:369/369
+D-Tsuchigumo HP:74/280 MP:126/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Nebiros
+3-Tamaki
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Da Peng
+1-Aleph HP:1194/1309 MP:603/613
+2-Tam Lin HP:203/218 MP:38/43
+3-Lilith HP:332/380 MP:369/369
+4-Tsuchigumo HP:74/280 MP:126/126
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:976/999 MP:527/542
+B-Da Peng HP:416/634 MP:112/126
+C-Nebiros HP:249/249 MP:242/242
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:603/613
+B-Tam Lin HP:203/218 MP:38/43
+C-Lilith HP:332/380 MP:369/369
+D-Tsuchigumo HP:74/280 MP:126/126
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nebiros
+2-Tamaki
+3-Da Peng
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nebiros use
+1-Mudoon MP:10
+2-Sabbatma MP:20
+3-Pulinpa MP:5
+4-Megidola MP:40
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nebiros use
+1-Mudoon MP:10
+2-Sabbatma MP:20
+3-Pulinpa MP:5
+4-Megidola MP:40
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:976/999 MP:527/542
+B-Da Peng HP:416/634 MP:112/126
+C-Nebiros HP:249/249 MP:242/242
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:603/613
+B-Tam Lin HP:203/218 MP:38/43
+C-Lilith HP:332/380 MP:369/369
+D-Tsuchigumo HP:74/280 MP:126/126
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Lilith
+3-Tsuchigumo
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Bufu MP:5
+2-Diarahan MP:16
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:976/999 MP:527/542
+B-Da Peng HP:416/634 MP:112/126
+C-Nebiros HP:249/249 MP:242/242
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:603/613
+B-Tam Lin HP:203/218 MP:38/43
+C-Lilith HP:332/380 MP:369/369
+D-Tsuchigumo HP:74/280 MP:126/126
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lilith
+2-Tsuchigumo
+3-Tam Lin
+4-Aleph
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lilith
+1-Tamaki HP:976/999 MP:527/542
+2-Da Peng HP:416/634 MP:112/126
+3-Nebiros HP:249/249 MP:242/242
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Lilith ataca a Da Peng
+Da Peng recibe 40 de daño
+Da Peng termina con HP:376/634
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:976/999 MP:527/542
+B-Da Peng HP:376/634 MP:112/126
+C-Nebiros HP:249/249 MP:242/242
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:603/613
+B-Tam Lin HP:203/218 MP:38/43
+C-Lilith HP:332/380 MP:369/369
+D-Tsuchigumo HP:74/280 MP:126/126
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Tam Lin
+3-Aleph
+4-Lilith
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Aniel HP:567/567 MP:255/255
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Tamaki HP:976/999 MP:527/542
+2-Da Peng HP:376/634 MP:112/126
+3-Nebiros HP:249/249 MP:242/242
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Tsuchigumo ataca a Nebiros
+Nebiros bloquea el ataque de Tsuchigumo
+Nebiros termina con HP:249/249
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:976/999 MP:527/542
+B-Da Peng HP:376/634 MP:112/126
+C-Nebiros HP:249/249 MP:242/242
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:603/613
+B-Tam Lin HP:203/218 MP:38/43
+C-Lilith HP:332/380 MP:369/369
+D-Tsuchigumo HP:74/280 MP:126/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Aleph
+3-Lilith
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Tamaki HP:976/999 MP:527/542
+2-Da Peng HP:376/634 MP:112/126
+3-Nebiros HP:249/249 MP:242/242
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Aniel HP:567/567 MP:255/255
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aniel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:976/999 MP:527/542
+B-Da Peng HP:376/634 MP:112/126
+C-Nebiros HP:249/249 MP:242/242
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:603/613
+B-Aniel HP:567/567 MP:255/255
+C-Lilith HP:332/380 MP:369/369
+D-Tsuchigumo HP:74/280 MP:126/126
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aleph
+2-Lilith
+3-Tsuchigumo
+4-Aniel
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:976/999 MP:527/542
+B-Da Peng HP:376/634 MP:112/126
+C-Nebiros HP:249/249 MP:242/242
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:603/613
+B-Aniel HP:567/567 MP:255/255
+C-Lilith HP:332/380 MP:369/369
+D-Tsuchigumo HP:74/280 MP:126/126
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Nebiros
+3-Tamaki
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Da Peng
+1-Aleph HP:1194/1309 MP:603/613
+2-Aniel HP:567/567 MP:255/255
+3-Lilith HP:332/380 MP:369/369
+4-Tsuchigumo HP:74/280 MP:126/126
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Da Peng ataca a Aniel
+Aniel recibe 48 de daño
+Aniel termina con HP:519/567
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:976/999 MP:527/542
+B-Da Peng HP:376/634 MP:112/126
+C-Nebiros HP:249/249 MP:242/242
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:603/613
+B-Aniel HP:519/567 MP:255/255
+C-Lilith HP:332/380 MP:369/369
+D-Tsuchigumo HP:74/280 MP:126/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nebiros
+2-Tamaki
+3-Da Peng
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:976/999 MP:527/542
+B-Da Peng HP:376/634 MP:112/126
+C-Nebiros HP:249/249 MP:242/242
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:603/613
+B-Aniel HP:519/567 MP:255/255
+C-Lilith HP:332/380 MP:369/369
+D-Tsuchigumo HP:74/280 MP:126/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Da Peng
+3-Nebiros
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Aleph HP:1194/1309 MP:603/613
+2-Aniel HP:519/567 MP:255/255
+3-Lilith HP:332/380 MP:369/369
+4-Tsuchigumo HP:74/280 MP:126/126
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tamaki dispara a Aniel
+Aniel recibe 15 de daño
+Aniel termina con HP:504/567
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:976/999 MP:527/542
+B-Da Peng HP:376/634 MP:112/126
+C-Nebiros HP:249/249 MP:242/242
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:603/613
+B-Aniel HP:504/567 MP:255/255
+C-Lilith HP:332/380 MP:369/369
+D-Tsuchigumo HP:74/280 MP:126/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Nebiros
+3-Tamaki
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:976/999 MP:527/542
+B-Da Peng HP:376/634 MP:112/126
+C-Nebiros HP:249/249 MP:242/242
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:603/613
+B-Aniel HP:504/567 MP:255/255
+C-Lilith HP:332/380 MP:369/369
+D-Tsuchigumo HP:74/280 MP:126/126
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nebiros
+2-Tamaki
+3-Da Peng
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Aleph HP:1194/1309 MP:603/613
+2-Aniel HP:504/567 MP:255/255
+3-Lilith HP:332/380 MP:369/369
+4-Tsuchigumo HP:74/280 MP:126/126
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Nebiros ataca a Tsuchigumo
+Tsuchigumo recibe 26 de daño
+Tsuchigumo termina con HP:48/280
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:976/999 MP:527/542
+B-Da Peng HP:376/634 MP:112/126
+C-Nebiros HP:249/249 MP:242/242
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:603/613
+B-Aniel HP:504/567 MP:255/255
+C-Lilith HP:332/380 MP:369/369
+D-Tsuchigumo HP:48/280 MP:126/126
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Aniel
+3-Lilith
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Tamaki HP:976/999 MP:527/542
+2-Da Peng HP:376/634 MP:112/126
+3-Nebiros HP:249/249 MP:242/242
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Aleph dispara a Nebiros
+Nebiros recibe 276 de daño
+Nebiros termina con HP:0/249
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:976/999 MP:527/542
+B-Da Peng HP:376/634 MP:112/126
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:603/613
+B-Aniel HP:504/567 MP:255/255
+C-Lilith HP:332/380 MP:369/369
+D-Tsuchigumo HP:48/280 MP:126/126
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Lilith
+3-Tsuchigumo
+4-Aleph
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Tamaki HP:976/999 MP:527/542
+2-Da Peng HP:376/634 MP:112/126
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tam Lin HP:203/218 MP:38/43
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tam Lin ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:976/999 MP:527/542
+B-Da Peng HP:376/634 MP:112/126
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:603/613
+B-Tam Lin HP:203/218 MP:38/43
+C-Lilith HP:332/380 MP:369/369
+D-Tsuchigumo HP:48/280 MP:126/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lilith
+2-Tsuchigumo
+3-Aleph
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lilith use
+1-Lullaby MP:11
+2-Spirit Drain MP:5
+3-Charm Lightning MP:45
+4-Mediarahan MP:40
+5-Invitation MP:45
+6-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Aniel HP:504/567 MP:255/255
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Tam Lin HP:203/218 MP:38/43 (Puesto 2)
+2-Lilith HP:332/380 MP:369/369 (Puesto 3)
+3-Tsuchigumo HP:48/280 MP:126/126 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Aniel ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:976/999 MP:527/542
+B-Da Peng HP:376/634 MP:112/126
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:603/613
+B-Tam Lin HP:203/218 MP:38/43
+C-Lilith HP:332/380 MP:324/369
+D-Aniel HP:504/567 MP:255/255
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Aleph
+3-Tam Lin
+4-Lilith
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Tamaki HP:976/999 MP:527/542
+2-Da Peng HP:376/634 MP:112/126
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Aniel ataca a Da Peng
+Da Peng recibe 47 de daño
+Da Peng termina con HP:329/634
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:976/999 MP:527/542
+B-Da Peng HP:329/634 MP:112/126
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:603/613
+B-Tam Lin HP:203/218 MP:38/43
+C-Lilith HP:332/380 MP:324/369
+D-Aniel HP:504/567 MP:255/255
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Tam Lin
+3-Lilith
+4-Aniel
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Bufu MP:5
+2-Diarahan MP:16
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Tamaki HP:976/999 MP:527/542
+2-Da Peng HP:329/634 MP:112/126
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Aleph dispara a Da Peng
+Da Peng es débil contra el ataque de Aleph
+Da Peng recibe 414 de daño
+Da Peng termina con HP:0/634
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:976/999 MP:527/542
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:603/613
+B-Tam Lin HP:203/218 MP:38/43
+C-Lilith HP:332/380 MP:324/369
+D-Aniel HP:504/567 MP:255/255
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Lilith
+3-Aniel
+4-Aleph
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tam Lin use
+1-Hama MP:6
+2-Gram Slice MP:5
+3-Maragi MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tam Lin use
+1-Hama MP:6
+2-Gram Slice MP:5
+3-Maragi MP:11
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Tamaki HP:976/999 MP:527/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tam Lin ataca a Tamaki
+Tamaki es resistente el ataque de Tam Lin
+Tamaki recibe 23 de daño
+Tamaki termina con HP:953/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:953/999 MP:527/542
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:603/613
+B-Tam Lin HP:203/218 MP:33/43
+C-Lilith HP:332/380 MP:324/369
+D-Aniel HP:504/567 MP:255/255
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Aleph HP:1194/1309 MP:603/613
+2-Tam Lin HP:203/218 MP:33/43
+3-Lilith HP:332/380 MP:324/369
+4-Aniel HP:504/567 MP:255/255
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tamaki ataca a Tam Lin
+Tam Lin recibe 18 de daño
+Tam Lin termina con HP:185/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:953/999 MP:527/542
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:603/613
+B-Tam Lin HP:185/218 MP:33/43
+C-Lilith HP:332/380 MP:324/369
+D-Aniel HP:504/567 MP:255/255
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Aniel
+3-Lilith
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Tamaki HP:953/999 MP:527/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph ataca a Tamaki
+Tamaki es resistente el ataque de Aleph
+Tamaki recibe 78 de daño
+Tamaki termina con HP:875/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:875/999 MP:527/542
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:603/613
+B-Tam Lin HP:185/218 MP:33/43
+C-Lilith HP:332/380 MP:324/369
+D-Aniel HP:504/567 MP:255/255
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Lilith
+3-Tam Lin
+4-Aleph
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Aniel use
+1-Ziodyne MP:14
+2-Diarama MP:9
+3-Pulinpa MP:5
+4-Hamaon MP:10
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:875/999 MP:527/542
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:603/613
+B-Tam Lin HP:185/218 MP:33/43
+C-Lilith HP:332/380 MP:324/369
+D-Aniel HP:504/567 MP:255/255
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lilith
+2-Tam Lin
+3-Aleph
+4-Aniel
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:875/999 MP:527/542
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:603/613
+B-Tam Lin HP:185/218 MP:33/43
+C-Lilith HP:332/380 MP:324/369
+D-Aniel HP:504/567 MP:255/255
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Aleph
+3-Aniel
+4-Lilith
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:875/999 MP:527/542
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:603/613
+B-Tam Lin HP:185/218 MP:33/43
+C-Lilith HP:332/380 MP:324/369
+D-Aniel HP:504/567 MP:255/255
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aleph
+2-Aniel
+3-Lilith
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tsuchigumo HP:48/280 MP:126/126
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Tamaki HP:875/999 MP:527/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Tamaki HP:875/999 MP:527/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph dispara a Tamaki
+Tamaki es resistente el ataque de Aleph
+Tamaki recibe 138 de daño
+Tamaki termina con HP:737/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:737/999 MP:527/542
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:603/613
+B-Tam Lin HP:185/218 MP:33/43
+C-Lilith HP:332/380 MP:324/369
+D-Aniel HP:504/567 MP:255/255
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Lilith
+3-Tam Lin
+4-Aleph
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:737/999 MP:527/542
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:603/613
+B-Tam Lin HP:185/218 MP:33/43
+C-Lilith HP:332/380 MP:324/369
+D-Aniel HP:504/567 MP:255/255
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lilith
+2-Tam Lin
+3-Aleph
+4-Aniel
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lilith
+1-Tamaki HP:737/999 MP:527/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lilith
+1-Tamaki HP:737/999 MP:527/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lilith ataca a Tamaki
+Tamaki es resistente el ataque de Lilith
+Tamaki recibe 20 de daño
+Tamaki termina con HP:717/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:717/999 MP:527/542
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:603/613
+B-Tam Lin HP:185/218 MP:33/43
+C-Lilith HP:332/380 MP:324/369
+D-Aniel HP:504/567 MP:255/255
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Agilao MP:8
+2-Samarecarm MP:40
+3-Axel Claw MP:15
+4-Stigma Attack MP:20
+5-Zionga MP:8
+6-Sabbatma MP:20
+7-Diarahan MP:16
+8-Berserker God MP:12
+9-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Da Peng HP:0/634 MP:112/126
+2-Nebiros HP:0/249 MP:242/242
+3-Gryphon HP:0/123 MP:23/23
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Tamaki revive a Da Peng
+Da Peng recibe 634 de HP
+Da Peng termina con HP:634/634
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:717/999 MP:487/542
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:603/613
+B-Tam Lin HP:185/218 MP:33/43
+C-Lilith HP:332/380 MP:324/369
+D-Aniel HP:504/567 MP:255/255
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Aniel
+3-Lilith
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tsuchigumo HP:48/280 MP:126/126
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Tamaki HP:717/999 MP:487/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:717/999 MP:487/542
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:603/613
+B-Tam Lin HP:185/218 MP:33/43
+C-Lilith HP:332/380 MP:324/369
+D-Aniel HP:504/567 MP:255/255
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aniel
+2-Lilith
+3-Tam Lin
+4-Aleph
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Aniel use
+1-Ziodyne MP:14
+2-Diarama MP:9
+3-Pulinpa MP:5
+4-Hamaon MP:10
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Tamaki HP:717/999 MP:487/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aniel lanza electricidad a Tamaki
+Tamaki es resistente el ataque de Aniel
+Tamaki recibe 63 de daño
+Tamaki termina con HP:654/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:654/999 MP:487/542
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:603/613
+B-Tam Lin HP:185/218 MP:33/43
+C-Lilith HP:332/380 MP:324/369
+D-Aniel HP:504/567 MP:241/255
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lilith
+2-Tam Lin
+3-Aleph
+4-Aniel
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lilith use
+1-Lullaby MP:11
+2-Spirit Drain MP:5
+3-Charm Lightning MP:45
+4-Mediarahan MP:40
+5-Invitation MP:45
+6-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tsuchigumo HP:48/280 MP:126/126
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Tam Lin HP:185/218 MP:33/43 (Puesto 2)
+2-Lilith HP:332/380 MP:324/369 (Puesto 3)
+3-Aniel HP:504/567 MP:241/255 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Tsuchigumo ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:654/999 MP:487/542
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:603/613
+B-Tam Lin HP:185/218 MP:33/43
+C-Lilith HP:332/380 MP:279/369
+D-Tsuchigumo HP:48/280 MP:126/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Aleph
+3-Tsuchigumo
+4-Lilith
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tam Lin use
+1-Hama MP:6
+2-Gram Slice MP:5
+3-Maragi MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Aniel HP:504/567 MP:241/255
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Aniel HP:504/567 MP:241/255
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Aniel HP:504/567 MP:241/255
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aniel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:654/999 MP:487/542
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:603/613
+B-Aniel HP:504/567 MP:241/255
+C-Lilith HP:332/380 MP:279/369
+D-Tsuchigumo HP:48/280 MP:126/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aleph
+2-Tsuchigumo
+3-Lilith
+4-Aniel
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Bufu MP:5
+2-Diarahan MP:16
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Tamaki HP:654/999 MP:487/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph lanza hielo a Tamaki
+Tamaki es resistente el ataque de Aleph
+Tamaki recibe 39 de daño
+Tamaki termina con HP:615/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:615/999 MP:487/542
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:598/613
+B-Aniel HP:504/567 MP:241/255
+C-Lilith HP:332/380 MP:279/369
+D-Tsuchigumo HP:48/280 MP:126/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Lilith
+3-Aniel
+4-Aleph
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:615/999 MP:487/542
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:598/613
+B-Aniel HP:504/567 MP:241/255
+C-Lilith HP:332/380 MP:279/369
+D-Tsuchigumo HP:48/280 MP:126/126
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lilith
+2-Aniel
+3-Aleph
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lilith
+1-Tamaki HP:615/999 MP:487/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lilith ataca a Tamaki
+Tamaki es resistente el ataque de Lilith
+Tamaki recibe 20 de daño
+Tamaki termina con HP:595/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:595/999 MP:487/542
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:598/613
+B-Aniel HP:504/567 MP:241/255
+C-Lilith HP:332/380 MP:279/369
+D-Tsuchigumo HP:48/280 MP:126/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Aleph HP:1194/1309 MP:598/613
+2-Aniel HP:504/567 MP:241/255
+3-Lilith HP:332/380 MP:279/369
+4-Tsuchigumo HP:48/280 MP:126/126
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Tamaki dispara a Lilith
+Lilith es débil contra el ataque de Tamaki
+Lilith recibe 23 de daño
+Lilith termina con HP:309/380
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:595/999 MP:487/542
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:598/613
+B-Aniel HP:504/567 MP:241/255
+C-Lilith HP:309/380 MP:279/369
+D-Tsuchigumo HP:48/280 MP:126/126
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:595/999 MP:487/542
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:598/613
+B-Aniel HP:504/567 MP:241/255
+C-Lilith HP:309/380 MP:279/369
+D-Tsuchigumo HP:48/280 MP:126/126
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Aniel
+3-Lilith
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Tamaki HP:595/999 MP:487/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph dispara a Tamaki
+Tamaki es resistente el ataque de Aleph
+Tamaki recibe 138 de daño
+Tamaki termina con HP:457/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:457/999 MP:487/542
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1194/1309 MP:598/613
+B-Aniel HP:504/567 MP:241/255
+C-Lilith HP:309/380 MP:279/369
+D-Tsuchigumo HP:48/280 MP:126/126
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Lilith
+3-Tsuchigumo
+4-Aleph
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Aniel use
+1-Ziodyne MP:14
+2-Diarama MP:9
+3-Pulinpa MP:5
+4-Hamaon MP:10
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Aleph HP:1194/1309 MP:598/613
+2-Aniel HP:504/567 MP:241/255
+3-Lilith HP:309/380 MP:279/369
+4-Tsuchigumo HP:48/280 MP:126/126
+5-Tam Lin HP:185/218 MP:33/43
+6-Cancelar
+INPUT: 1
+----------------------------------------
+Aniel cura a Aleph
+Aleph recibe 654 de HP
+Aleph termina con HP:1309/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:457/999 MP:487/542
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:598/613
+B-Aniel HP:504/567 MP:232/255
+C-Lilith HP:309/380 MP:279/369
+D-Tsuchigumo HP:48/280 MP:126/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lilith
+2-Tsuchigumo
+3-Aleph
+4-Aniel
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:457/999 MP:487/542
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:598/613
+B-Aniel HP:504/567 MP:232/255
+C-Lilith HP:309/380 MP:279/369
+D-Tsuchigumo HP:48/280 MP:126/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Aleph
+3-Aniel
+4-Lilith
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:457/999 MP:487/542
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:598/613
+B-Aniel HP:504/567 MP:232/255
+C-Lilith HP:309/380 MP:279/369
+D-Tsuchigumo HP:48/280 MP:126/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Aniel
+3-Lilith
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tam Lin HP:185/218 MP:33/43
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Aniel HP:504/567 MP:232/255 (Puesto 2)
+2-Lilith HP:309/380 MP:279/369 (Puesto 3)
+3-Tsuchigumo HP:48/280 MP:126/126 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Tamaki HP:457/999 MP:487/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph dispara a Tamaki
+Tamaki es resistente el ataque de Aleph
+Tamaki recibe 138 de daño
+Tamaki termina con HP:319/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:319/999 MP:487/542
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:598/613
+B-Aniel HP:504/567 MP:232/255
+C-Lilith HP:309/380 MP:279/369
+D-Tsuchigumo HP:48/280 MP:126/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Aleph HP:1309/1309 MP:598/613
+2-Aniel HP:504/567 MP:232/255
+3-Lilith HP:309/380 MP:279/369
+4-Tsuchigumo HP:48/280 MP:126/126
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Da Peng HP:634/634 MP:112/126
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Aleph HP:1309/1309 MP:598/613
+2-Aniel HP:504/567 MP:232/255
+3-Lilith HP:309/380 MP:279/369
+4-Tsuchigumo HP:48/280 MP:126/126
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Aleph HP:1309/1309 MP:598/613
+2-Aniel HP:504/567 MP:232/255
+3-Lilith HP:309/380 MP:279/369
+4-Tsuchigumo HP:48/280 MP:126/126
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tamaki dispara a Aleph
+Aleph bloquea el ataque de Tamaki
+Aleph termina con HP:1309/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:319/999 MP:487/542
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:598/613
+B-Aniel HP:504/567 MP:232/255
+C-Lilith HP:309/380 MP:279/369
+D-Tsuchigumo HP:48/280 MP:126/126
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Aniel
+3-Lilith
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Bufu MP:5
+2-Diarahan MP:16
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Aleph HP:1309/1309 MP:598/613
+2-Aniel HP:504/567 MP:232/255
+3-Lilith HP:309/380 MP:279/369
+4-Tsuchigumo HP:48/280 MP:126/126
+5-Tam Lin HP:185/218 MP:33/43
+6-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph cura a Aleph
+Aleph recibe 1309 de HP
+Aleph termina con HP:1309/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:319/999 MP:487/542
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:582/613
+B-Aniel HP:504/567 MP:232/255
+C-Lilith HP:309/380 MP:279/369
+D-Tsuchigumo HP:48/280 MP:126/126
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Lilith
+3-Tsuchigumo
+4-Aleph
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Tamaki HP:319/999 MP:487/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aniel ataca a Tamaki
+Tamaki es resistente el ataque de Aniel
+Tamaki recibe 23 de daño
+Tamaki termina con HP:296/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:296/999 MP:487/542
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:582/613
+B-Aniel HP:504/567 MP:232/255
+C-Lilith HP:309/380 MP:279/369
+D-Tsuchigumo HP:48/280 MP:126/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lilith
+2-Tsuchigumo
+3-Aleph
+4-Aniel
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tam Lin HP:185/218 MP:33/43
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tam Lin ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:296/999 MP:487/542
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:582/613
+B-Aniel HP:504/567 MP:232/255
+C-Tam Lin HP:185/218 MP:33/43
+D-Tsuchigumo HP:48/280 MP:126/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Aleph
+3-Aniel
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Tamaki HP:296/999 MP:487/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tsuchigumo ataca a Tamaki
+Tamaki es resistente el ataque de Tsuchigumo
+Tamaki recibe 11 de daño
+Tamaki termina con HP:285/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:285/999 MP:487/542
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:582/613
+B-Aniel HP:504/567 MP:232/255
+C-Tam Lin HP:185/218 MP:33/43
+D-Tsuchigumo HP:48/280 MP:126/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Aniel
+3-Tam Lin
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Tamaki HP:285/999 MP:487/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph dispara a Tamaki
+Tamaki es resistente el ataque de Aleph
+Tamaki recibe 138 de daño
+Tamaki termina con HP:147/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:147/999 MP:487/542
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:582/613
+B-Aniel HP:504/567 MP:232/255
+C-Tam Lin HP:185/218 MP:33/43
+D-Tsuchigumo HP:48/280 MP:126/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Da Peng HP:634/634 MP:112/126
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Da Peng HP:634/634 MP:112/126
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Da Peng HP:634/634 MP:112/126
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Da Peng HP:634/634 MP:112/126
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Vacío (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Da Peng ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:147/999 MP:487/542
+B-Da Peng HP:634/634 MP:112/126
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:582/613
+B-Aniel HP:504/567 MP:232/255
+C-Tam Lin HP:185/218 MP:33/43
+D-Tsuchigumo HP:48/280 MP:126/126
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Da Peng
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:147/999 MP:487/542
+B-Da Peng HP:634/634 MP:112/126
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:582/613
+B-Aniel HP:504/567 MP:232/255
+C-Tam Lin HP:185/218 MP:33/43
+D-Tsuchigumo HP:48/280 MP:126/126
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Aniel
+3-Tsuchigumo
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Bufu MP:5
+2-Diarahan MP:16
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Aleph HP:1309/1309 MP:582/613
+2-Aniel HP:504/567 MP:232/255
+3-Tam Lin HP:185/218 MP:33/43
+4-Tsuchigumo HP:48/280 MP:126/126
+5-Lilith HP:309/380 MP:279/369
+6-Cancelar
+INPUT: 5
+----------------------------------------
+Aleph cura a Lilith
+Lilith recibe 380 de HP
+Lilith termina con HP:380/380
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:147/999 MP:487/542
+B-Da Peng HP:634/634 MP:112/126
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:566/613
+B-Aniel HP:504/567 MP:232/255
+C-Tam Lin HP:185/218 MP:33/43
+D-Tsuchigumo HP:48/280 MP:126/126
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Tsuchigumo
+3-Tam Lin
+4-Aleph
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lilith HP:380/380 MP:279/369
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Tamaki HP:147/999 MP:487/542
+2-Da Peng HP:634/634 MP:112/126
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:147/999 MP:487/542
+B-Da Peng HP:634/634 MP:112/126
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:566/613
+B-Aniel HP:504/567 MP:232/255
+C-Tam Lin HP:185/218 MP:33/43
+D-Tsuchigumo HP:48/280 MP:126/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Tam Lin
+3-Aleph
+4-Aniel
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lilith HP:380/380 MP:279/369
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Tamaki HP:147/999 MP:487/542
+2-Da Peng HP:634/634 MP:112/126
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tsuchigumo use
+1-Poison Claw MP:9
+2-Zionga MP:8
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tsuchigumo use
+1-Poison Claw MP:9
+2-Zionga MP:8
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Tamaki HP:147/999 MP:487/542
+2-Da Peng HP:634/634 MP:112/126
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Tsuchigumo lanza electricidad a Da Peng
+Da Peng recibe 70 de daño
+Da Peng termina con HP:564/634
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:147/999 MP:487/542
+B-Da Peng HP:564/634 MP:112/126
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:566/613
+B-Aniel HP:504/567 MP:232/255
+C-Tam Lin HP:185/218 MP:33/43
+D-Tsuchigumo HP:48/280 MP:118/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Aleph
+3-Aniel
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:147/999 MP:487/542
+B-Da Peng HP:564/634 MP:112/126
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:566/613
+B-Aniel HP:504/567 MP:232/255
+C-Tam Lin HP:185/218 MP:33/43
+D-Tsuchigumo HP:48/280 MP:118/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aleph
+2-Aniel
+3-Tsuchigumo
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Tamaki HP:147/999 MP:487/542
+2-Da Peng HP:564/634 MP:112/126
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Aleph ataca a Da Peng
+Da Peng recibe 157 de daño
+Da Peng termina con HP:407/634
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:147/999 MP:487/542
+B-Da Peng HP:407/634 MP:112/126
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:566/613
+B-Aniel HP:504/567 MP:232/255
+C-Tam Lin HP:185/218 MP:33/43
+D-Tsuchigumo HP:48/280 MP:118/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Tsuchigumo
+3-Tam Lin
+4-Aleph
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Tamaki HP:147/999 MP:487/542
+2-Da Peng HP:407/634 MP:112/126
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Tamaki HP:147/999 MP:487/542
+2-Da Peng HP:407/634 MP:112/126
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Tamaki HP:147/999 MP:487/542
+2-Da Peng HP:407/634 MP:112/126
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lilith HP:380/380 MP:279/369
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lilith ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:147/999 MP:487/542
+B-Da Peng HP:407/634 MP:112/126
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:566/613
+B-Lilith HP:380/380 MP:279/369
+C-Tam Lin HP:185/218 MP:33/43
+D-Tsuchigumo HP:48/280 MP:118/126
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Tam Lin
+3-Aleph
+4-Lilith
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Aniel HP:504/567 MP:232/255
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tsuchigumo use
+1-Poison Claw MP:9
+2-Zionga MP:8
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Aniel HP:504/567 MP:232/255
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Tamaki HP:147/999 MP:487/542
+2-Da Peng HP:407/634 MP:112/126
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:147/999 MP:487/542
+B-Da Peng HP:407/634 MP:112/126
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:566/613
+B-Lilith HP:380/380 MP:279/369
+C-Tam Lin HP:185/218 MP:33/43
+D-Tsuchigumo HP:48/280 MP:118/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:147/999 MP:487/542
+B-Da Peng HP:407/634 MP:112/126
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:566/613
+B-Lilith HP:380/380 MP:279/369
+C-Tam Lin HP:185/218 MP:33/43
+D-Tsuchigumo HP:48/280 MP:118/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Da Peng
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:147/999 MP:487/542
+B-Da Peng HP:407/634 MP:112/126
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:566/613
+B-Lilith HP:380/380 MP:279/369
+C-Tam Lin HP:185/218 MP:33/43
+D-Tsuchigumo HP:48/280 MP:118/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Da Peng use
+1-Zandyne MP:14
+2-Panic Voice MP:15
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Da Peng
+1-Aleph HP:1309/1309 MP:566/613
+2-Lilith HP:380/380 MP:279/369
+3-Tam Lin HP:185/218 MP:33/43
+4-Tsuchigumo HP:48/280 MP:118/126
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Da Peng lanza viento a Tam Lin
+Tam Lin recibe 106 de daño
+Tam Lin termina con HP:79/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:147/999 MP:487/542
+B-Da Peng HP:407/634 MP:98/126
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:566/613
+B-Lilith HP:380/380 MP:279/369
+C-Tam Lin HP:79/218 MP:33/43
+D-Tsuchigumo HP:48/280 MP:118/126
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Lilith
+3-Tsuchigumo
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Bufu MP:5
+2-Diarahan MP:16
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Tamaki HP:147/999 MP:487/542
+2-Da Peng HP:407/634 MP:98/126
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph lanza hielo a Tamaki
+Tamaki es resistente el ataque de Aleph
+Tamaki recibe 39 de daño
+Tamaki termina con HP:108/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:108/999 MP:487/542
+B-Da Peng HP:407/634 MP:98/126
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:561/613
+B-Lilith HP:380/380 MP:279/369
+C-Tam Lin HP:79/218 MP:33/43
+D-Tsuchigumo HP:48/280 MP:118/126
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lilith
+2-Tsuchigumo
+3-Tam Lin
+4-Aleph
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:108/999 MP:487/542
+B-Da Peng HP:407/634 MP:98/126
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:561/613
+B-Lilith HP:380/380 MP:279/369
+C-Tam Lin HP:79/218 MP:33/43
+D-Tsuchigumo HP:48/280 MP:118/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Tam Lin
+3-Aleph
+4-Lilith
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Aniel HP:504/567 MP:232/255
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Tamaki HP:108/999 MP:487/542
+2-Da Peng HP:407/634 MP:98/126
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Tsuchigumo ataca a Tamaki
+Tamaki es resistente el ataque de Tsuchigumo
+Tamaki recibe 11 de daño
+Tamaki termina con HP:97/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:97/999 MP:487/542
+B-Da Peng HP:407/634 MP:98/126
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:561/613
+B-Lilith HP:380/380 MP:279/369
+C-Tam Lin HP:79/218 MP:33/43
+D-Tsuchigumo HP:48/280 MP:118/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Aleph
+3-Lilith
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Aniel HP:504/567 MP:232/255
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Aniel HP:504/567 MP:232/255
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aniel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:97/999 MP:487/542
+B-Da Peng HP:407/634 MP:98/126
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:561/613
+B-Lilith HP:380/380 MP:279/369
+C-Aniel HP:504/567 MP:232/255
+D-Tsuchigumo HP:48/280 MP:118/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aleph
+2-Lilith
+3-Tsuchigumo
+4-Aniel
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tam Lin HP:79/218 MP:33/43
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Lilith HP:380/380 MP:279/369 (Puesto 2)
+2-Aniel HP:504/567 MP:232/255 (Puesto 3)
+3-Tsuchigumo HP:48/280 MP:118/126 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Tamaki HP:97/999 MP:487/542
+2-Da Peng HP:407/634 MP:98/126
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph ataca a Tamaki
+Tamaki es resistente el ataque de Aleph
+Tamaki recibe 78 de daño
+Tamaki termina con HP:19/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:19/999 MP:487/542
+B-Da Peng HP:407/634 MP:98/126
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:561/613
+B-Lilith HP:380/380 MP:279/369
+C-Aniel HP:504/567 MP:232/255
+D-Tsuchigumo HP:48/280 MP:118/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lilith
+2-Tsuchigumo
+3-Aniel
+4-Aleph
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:19/999 MP:487/542
+B-Da Peng HP:407/634 MP:98/126
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:561/613
+B-Lilith HP:380/380 MP:279/369
+C-Aniel HP:504/567 MP:232/255
+D-Tsuchigumo HP:48/280 MP:118/126
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Aniel
+3-Aleph
+4-Lilith
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:19/999 MP:487/542
+B-Da Peng HP:407/634 MP:98/126
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:561/613
+B-Lilith HP:380/380 MP:279/369
+C-Aniel HP:504/567 MP:232/255
+D-Tsuchigumo HP:48/280 MP:118/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:19/999 MP:487/542
+B-Da Peng HP:407/634 MP:98/126
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:561/613
+B-Lilith HP:380/380 MP:279/369
+C-Aniel HP:504/567 MP:232/255
+D-Tsuchigumo HP:48/280 MP:118/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Da Peng
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:19/999 MP:487/542
+B-Da Peng HP:407/634 MP:98/126
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:561/613
+B-Lilith HP:380/380 MP:279/369
+C-Aniel HP:504/567 MP:232/255
+D-Tsuchigumo HP:48/280 MP:118/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:19/999 MP:487/542
+B-Da Peng HP:407/634 MP:98/126
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:561/613
+B-Lilith HP:380/380 MP:279/369
+C-Aniel HP:504/567 MP:232/255
+D-Tsuchigumo HP:48/280 MP:118/126
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Da Peng
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Agilao MP:8
+2-Samarecarm MP:40
+3-Axel Claw MP:15
+4-Stigma Attack MP:20
+5-Zionga MP:8
+6-Sabbatma MP:20
+7-Diarahan MP:16
+8-Berserker God MP:12
+9-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Nebiros HP:0/249 MP:242/242
+2-Gryphon HP:0/123 MP:23/23
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Tamaki revive a Gryphon
+Gryphon recibe 123 de HP
+Gryphon termina con HP:123/123
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:19/999 MP:447/542
+B-Da Peng HP:407/634 MP:98/126
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:561/613
+B-Lilith HP:380/380 MP:279/369
+C-Aniel HP:504/567 MP:232/255
+D-Tsuchigumo HP:48/280 MP:118/126
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Aniel
+3-Lilith
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Bufu MP:5
+2-Diarahan MP:16
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Tamaki HP:19/999 MP:447/542
+2-Da Peng HP:407/634 MP:98/126
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Aleph lanza hielo a Da Peng
+Da Peng recibe 78 de daño
+Da Peng termina con HP:329/634
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:19/999 MP:447/542
+B-Da Peng HP:329/634 MP:98/126
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:556/613
+B-Lilith HP:380/380 MP:279/369
+C-Aniel HP:504/567 MP:232/255
+D-Tsuchigumo HP:48/280 MP:118/126
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Lilith
+3-Tsuchigumo
+4-Aleph
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tam Lin HP:79/218 MP:33/43
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tam Lin ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:19/999 MP:447/542
+B-Da Peng HP:329/634 MP:98/126
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:556/613
+B-Lilith HP:380/380 MP:279/369
+C-Tam Lin HP:79/218 MP:33/43
+D-Tsuchigumo HP:48/280 MP:118/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lilith
+2-Tsuchigumo
+3-Aleph
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lilith use
+1-Lullaby MP:11
+2-Spirit Drain MP:5
+3-Charm Lightning MP:45
+4-Mediarahan MP:40
+5-Invitation MP:45
+6-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Aniel HP:504/567 MP:232/255
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:19/999 MP:447/542
+B-Da Peng HP:329/634 MP:98/126
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:556/613
+B-Lilith HP:380/380 MP:279/369
+C-Tam Lin HP:79/218 MP:33/43
+D-Tsuchigumo HP:48/280 MP:118/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Aleph
+3-Tam Lin
+4-Lilith
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Tamaki HP:19/999 MP:447/542
+2-Da Peng HP:329/634 MP:98/126
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:19/999 MP:447/542
+B-Da Peng HP:329/634 MP:98/126
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:556/613
+B-Lilith HP:380/380 MP:279/369
+C-Tam Lin HP:79/218 MP:33/43
+D-Tsuchigumo HP:48/280 MP:118/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aleph
+2-Tam Lin
+3-Lilith
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:19/999 MP:447/542
+B-Da Peng HP:329/634 MP:98/126
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:556/613
+B-Lilith HP:380/380 MP:279/369
+C-Tam Lin HP:79/218 MP:33/43
+D-Tsuchigumo HP:48/280 MP:118/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Lilith
+3-Tsuchigumo
+4-Aleph
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tam Lin use
+1-Hama MP:6
+2-Gram Slice MP:5
+3-Maragi MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:19/999 MP:447/542
+B-Da Peng HP:329/634 MP:98/126
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:556/613
+B-Lilith HP:380/380 MP:279/369
+C-Tam Lin HP:79/218 MP:33/43
+D-Tsuchigumo HP:48/280 MP:118/126
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lilith
+2-Tsuchigumo
+3-Aleph
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:19/999 MP:447/542
+B-Da Peng HP:329/634 MP:98/126
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:556/613
+B-Lilith HP:380/380 MP:279/369
+C-Tam Lin HP:79/218 MP:33/43
+D-Tsuchigumo HP:48/280 MP:118/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Da Peng use
+1-Zandyne MP:14
+2-Panic Voice MP:15
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Gryphon HP:123/123 MP:23/23
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Gryphon ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:19/999 MP:447/542
+B-Gryphon HP:123/123 MP:23/23
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:556/613
+B-Lilith HP:380/380 MP:279/369
+C-Tam Lin HP:79/218 MP:33/43
+D-Tsuchigumo HP:48/280 MP:118/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Gryphon
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Agilao MP:8
+2-Samarecarm MP:40
+3-Axel Claw MP:15
+4-Stigma Attack MP:20
+5-Zionga MP:8
+6-Sabbatma MP:20
+7-Diarahan MP:16
+8-Berserker God MP:12
+9-Cancelar
+INPUT: 9
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Agilao MP:8
+2-Samarecarm MP:40
+3-Axel Claw MP:15
+4-Stigma Attack MP:20
+5-Zionga MP:8
+6-Sabbatma MP:20
+7-Diarahan MP:16
+8-Berserker God MP:12
+9-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Aleph HP:1309/1309 MP:556/613
+2-Lilith HP:380/380 MP:279/369
+3-Tam Lin HP:79/218 MP:33/43
+4-Tsuchigumo HP:48/280 MP:118/126
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Agilao MP:8
+2-Samarecarm MP:40
+3-Axel Claw MP:15
+4-Stigma Attack MP:20
+5-Zionga MP:8
+6-Sabbatma MP:20
+7-Diarahan MP:16
+8-Berserker God MP:12
+9-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Aleph HP:1309/1309 MP:556/613
+2-Lilith HP:380/380 MP:279/369
+3-Tam Lin HP:79/218 MP:33/43
+4-Tsuchigumo HP:48/280 MP:118/126
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Tamaki ataca a Tsuchigumo
+Tsuchigumo recibe 81 de daño
+Tamaki ataca a Tsuchigumo
+Tsuchigumo recibe 81 de daño
+Tamaki ataca a Tsuchigumo
+Tsuchigumo recibe 81 de daño
+Tsuchigumo termina con HP:0/280
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:19/999 MP:432/542
+B-Gryphon HP:123/123 MP:23/23
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:556/613
+B-Lilith HP:380/380 MP:279/369
+C-Tam Lin HP:79/218 MP:33/43
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gryphon
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Gryphon use
+1-Bouncing Claw MP:4
+2-Lunge MP:6
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:19/999 MP:432/542
+B-Gryphon HP:123/123 MP:23/23
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:556/613
+B-Lilith HP:380/380 MP:279/369
+C-Tam Lin HP:79/218 MP:33/43
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Gryphon
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Da Peng HP:329/634 MP:98/126
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:19/999 MP:432/542
+B-Gryphon HP:123/123 MP:23/23
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:556/613
+B-Lilith HP:380/380 MP:279/369
+C-Tam Lin HP:79/218 MP:33/43
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Lilith
+3-Tam Lin
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Tamaki HP:19/999 MP:432/542
+2-Gryphon HP:123/123 MP:23/23
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph ataca a Tamaki
+Tamaki es resistente el ataque de Aleph
+Tamaki recibe 78 de daño
+Tamaki termina con HP:0/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:0/999 MP:432/542
+B-Gryphon HP:123/123 MP:23/23
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:556/613
+B-Lilith HP:380/380 MP:279/369
+C-Tam Lin HP:79/218 MP:33/43
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lilith
+2-Tam Lin
+3-Aleph
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Aniel HP:504/567 MP:232/255
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Aniel HP:504/567 MP:232/255
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aniel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:0/999 MP:432/542
+B-Gryphon HP:123/123 MP:23/23
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:556/613
+B-Aniel HP:504/567 MP:232/255
+C-Tam Lin HP:79/218 MP:33/43
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Aleph
+3-Aniel
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tam Lin use
+1-Hama MP:6
+2-Gram Slice MP:5
+3-Maragi MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:0/999 MP:432/542
+B-Gryphon HP:123/123 MP:23/23
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:556/613
+B-Aniel HP:504/567 MP:232/255
+C-Tam Lin HP:79/218 MP:33/43
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Aniel
+3-Tam Lin
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Gryphon HP:123/123 MP:23/23
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:0/999 MP:432/542
+B-Gryphon HP:123/123 MP:23/23
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:556/613
+B-Aniel HP:504/567 MP:232/255
+C-Tam Lin HP:79/218 MP:33/43
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aniel
+2-Tam Lin
+3-Aleph
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lilith HP:380/380 MP:279/369
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lilith ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:0/999 MP:432/542
+B-Gryphon HP:123/123 MP:23/23
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:556/613
+B-Lilith HP:380/380 MP:279/369
+C-Tam Lin HP:79/218 MP:33/43
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gryphon
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Da Peng HP:329/634 MP:98/126
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Da Peng ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:0/999 MP:432/542
+B-Da Peng HP:329/634 MP:98/126
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:556/613
+B-Lilith HP:380/380 MP:279/369
+C-Tam Lin HP:79/218 MP:33/43
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Da Peng
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Da Peng use
+1-Zandyne MP:14
+2-Panic Voice MP:15
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Gryphon HP:123/123 MP:23/23
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Gryphon ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:0/999 MP:432/542
+B-Gryphon HP:123/123 MP:23/23
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:556/613
+B-Lilith HP:380/380 MP:279/369
+C-Tam Lin HP:79/218 MP:33/43
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Lilith
+3-Tam Lin
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Gryphon HP:123/123 MP:23/23
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Bufu MP:5
+2-Diarahan MP:16
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Aleph HP:1309/1309 MP:556/613
+2-Lilith HP:380/380 MP:279/369
+3-Tam Lin HP:79/218 MP:33/43
+4-Aniel HP:504/567 MP:232/255
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Aleph cura a Aniel
+Aniel recibe 567 de HP
+Aniel termina con HP:567/567
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:0/999 MP:432/542
+B-Gryphon HP:123/123 MP:23/23
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:540/613
+B-Lilith HP:380/380 MP:279/369
+C-Tam Lin HP:79/218 MP:33/43
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lilith
+2-Tam Lin
+3-Aleph
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Aniel HP:567/567 MP:232/255
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lilith use
+1-Lullaby MP:11
+2-Spirit Drain MP:5
+3-Charm Lightning MP:45
+4-Mediarahan MP:40
+5-Invitation MP:45
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Aniel HP:567/567 MP:232/255
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:0/999 MP:432/542
+B-Gryphon HP:123/123 MP:23/23
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:540/613
+B-Lilith HP:380/380 MP:279/369
+C-Tam Lin HP:79/218 MP:33/43
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Aleph
+3-Lilith
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Gryphon HP:123/123 MP:23/23
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:0/999 MP:432/542
+B-Gryphon HP:123/123 MP:23/23
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:540/613
+B-Lilith HP:380/380 MP:279/369
+C-Tam Lin HP:79/218 MP:33/43
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Lilith
+3-Tam Lin
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Aniel HP:567/567 MP:232/255
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Lilith HP:380/380 MP:279/369 (Puesto 2)
+2-Tam Lin HP:79/218 MP:33/43 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Aniel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:0/999 MP:432/542
+B-Gryphon HP:123/123 MP:23/23
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:540/613
+B-Lilith HP:380/380 MP:279/369
+C-Aniel HP:567/567 MP:232/255
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lilith
+2-Aniel
+3-Aleph
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:0/999 MP:432/542
+B-Gryphon HP:123/123 MP:23/23
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:540/613
+B-Lilith HP:380/380 MP:279/369
+C-Aniel HP:567/567 MP:232/255
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gryphon
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:0/999 MP:432/542
+B-Gryphon HP:123/123 MP:23/23
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:540/613
+B-Lilith HP:380/380 MP:279/369
+C-Aniel HP:567/567 MP:232/255
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Gryphon
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Da Peng HP:329/634 MP:98/126
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gryphon
+1-Aleph HP:1309/1309 MP:540/613
+2-Lilith HP:380/380 MP:279/369
+3-Aniel HP:567/567 MP:232/255
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Gryphon ataca a Aniel
+Aniel recibe 5 de daño
+Aniel termina con HP:562/567
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:0/999 MP:432/542
+B-Gryphon HP:123/123 MP:23/23
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:540/613
+B-Lilith HP:380/380 MP:279/369
+C-Aniel HP:562/567 MP:232/255
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Aniel
+3-Lilith
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Gryphon HP:123/123 MP:23/23
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:0/999 MP:432/542
+B-Gryphon HP:123/123 MP:23/23
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:540/613
+B-Lilith HP:380/380 MP:279/369
+C-Aniel HP:562/567 MP:232/255
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aniel
+2-Lilith
+3-Aleph
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tam Lin HP:79/218 MP:33/43
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tam Lin HP:79/218 MP:33/43
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tam Lin ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:0/999 MP:432/542
+B-Gryphon HP:123/123 MP:23/23
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:540/613
+B-Lilith HP:380/380 MP:279/369
+C-Tam Lin HP:79/218 MP:33/43
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lilith
+2-Aleph
+3-Tam Lin
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Aniel HP:562/567 MP:232/255
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lilith use
+1-Lullaby MP:11
+2-Spirit Drain MP:5
+3-Charm Lightning MP:45
+4-Mediarahan MP:40
+5-Invitation MP:45
+6-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tsuchigumo HP:0/280 MP:118/126
+2-Aniel HP:562/567 MP:232/255
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lilith
+1-Gryphon HP:123/123 MP:23/23
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:0/999 MP:432/542
+B-Gryphon HP:123/123 MP:23/23
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:540/613
+B-Lilith HP:380/380 MP:279/369
+C-Tam Lin HP:79/218 MP:33/43
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aleph
+2-Tam Lin
+3-Lilith
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Gryphon HP:123/123 MP:23/23
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph dispara a Gryphon
+Gryphon es débil contra el ataque de Aleph
+Gryphon recibe 414 de daño
+Gryphon termina con HP:0/123
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Ganador: Aleph (J2)

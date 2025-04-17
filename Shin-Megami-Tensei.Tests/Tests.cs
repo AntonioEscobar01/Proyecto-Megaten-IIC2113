@@ -1,5 +1,4 @@
-﻿using System.ComponentModel.Design;
-using Shin_Megami_Tensei_View;
+﻿using Shin_Megami_Tensei_View;
 
 namespace Shin_Megami_Tensei.Tests;
 
@@ -18,6 +17,36 @@ public class Tests
     [Theory]
     [MemberData(nameof(GetTestsAssociatedWithThisFolder), parameters: "E1-Random")]
     public void TestE1_Random(string teamsFolder, string testFile)
+        => RunTest(teamsFolder, testFile);
+
+    [Theory]
+    [MemberData(nameof(GetTestsAssociatedWithThisFolder), parameters: "E2-AffinityAndBasicSkills")]
+    public void TestE2_AffinityAndBasicSkills(string teamsFolder, string testFile)
+        => RunTest(teamsFolder, testFile);
+
+    [Theory]
+    [MemberData(nameof(GetTestsAssociatedWithThisFolder), parameters: "E2-PassTurnSummon")]
+    public void TestE2_PassTurnSummon(string teamsFolder, string testFile)
+        => RunTest(teamsFolder, testFile);
+    
+    [Theory]
+    [MemberData(nameof(GetTestsAssociatedWithThisFolder), parameters: "E2-HealAndSabbatma")]
+    public void TestE2_HealAndSabbatma(string teamsFolder, string testFile)
+        => RunTest(teamsFolder, testFile);
+
+    [Theory]
+    [MemberData(nameof(GetTestsAssociatedWithThisFolder), parameters: "E2-Random")]
+    public void TestE2_Random(string teamsFolder, string testFile)
+        => RunTest(teamsFolder, testFile);
+    
+    [Theory]
+    [MemberData(nameof(GetTestsAssociatedWithThisFolder), parameters: "E3-SingleTargetInstaKill")]
+    public void TestE3_SingleTargetInstaKill(string teamsFolder, string testFile)
+        => RunTest(teamsFolder, testFile);
+    
+    [Theory]
+    [MemberData(nameof(GetTestsAssociatedWithThisFolder), parameters: "E3-RandomSingleTargetInstaKill")]
+    public void TestE3_RandomSingleTargetInstaKill(string teamsFolder, string testFile)
         => RunTest(teamsFolder, testFile);
     
     public static IEnumerable<object[]> GetTestsAssociatedWithThisFolder(string teamsfolder)
@@ -47,7 +76,7 @@ public class Tests
         
         var actualScript = view.GetScript();
         var expectedScript = File.ReadAllLines(testFile);
-        CompareScripts(expectedScript, actualScript);
+        CompareScripts(actualScript, expectedScript);
     }
     
     private static void CompareScripts(IReadOnlyList<string> actualScript, IReadOnlyList<string> expectedScript)

@@ -1,0 +1,6975 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 35
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Peri HP:483/483 MP:216/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:441/441 MP:428/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Peri use
+1-Diarahan MP:16
+2-Me Patra MP:15
+3-Panic Voice MP:15
+4-Maragidyne MP:32
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Nahobino HP:453/453 MP:389/389
+2-Peri HP:483/483 MP:216/216
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Peri use
+1-Diarahan MP:16
+2-Me Patra MP:15
+3-Panic Voice MP:15
+4-Maragidyne MP:32
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Nahobino HP:453/453 MP:389/389
+2-Peri HP:483/483 MP:216/216
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Peri cura a Nahobino
+Nahobino recibe 453 de HP
+Nahobino termina con HP:453/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Peri HP:483/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:441/441 MP:428/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Peri
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Peri HP:483/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:441/441 MP:428/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Peri use
+1-Diarahan MP:16
+2-Me Patra MP:15
+3-Panic Voice MP:15
+4-Maragidyne MP:32
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Peri HP:483/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:441/441 MP:428/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Nanashi
+3-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alilat use
+1-Diarahan MP:16
+2-Megidolaon MP:60
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Nanashi HP:140/140 MP:411/411
+2-Alilat HP:441/441 MP:428/428
+3-Persephone HP:315/315 MP:306/306
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Alilat cura a Alilat
+Alilat recibe 441 de HP
+Alilat termina con HP:441/441
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Peri HP:483/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:441/441 MP:412/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Persephone
+3-Alilat
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Nahobino HP:453/453 MP:389/389
+2-Peri HP:483/483 MP:200/216
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Nahobino HP:453/453 MP:389/389
+2-Peri HP:483/483 MP:200/216
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Nanashi ataca a Peri
+Peri recibe 92 de daño
+Peri termina con HP:391/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Peri HP:391/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:441/441 MP:412/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Alilat
+3-Nanashi
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Peri HP:391/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:441/441 MP:412/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Alilat
+2-Nanashi
+3-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Peri HP:391/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:441/441 MP:412/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Nanashi HP:140/140 MP:411/411
+2-Alilat HP:441/441 MP:412/428
+3-Persephone HP:315/315 MP:306/306
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Nanashi HP:140/140 MP:411/411
+2-Alilat HP:441/441 MP:412/428
+3-Persephone HP:315/315 MP:306/306
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Peri ataca a Nanashi
+Nanashi recibe 40 de daño
+Nanashi termina con HP:100/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Peri HP:391/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:100/140 MP:411/411
+B-Alilat HP:441/441 MP:412/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Peri
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nanashi HP:100/140 MP:411/411
+2-Alilat HP:441/441 MP:412/428
+3-Persephone HP:315/315 MP:306/306
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Nanashi
+Nanashi recibe 29 de daño
+Nanashi termina con HP:71/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Peri HP:391/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:71/140 MP:411/411
+B-Alilat HP:441/441 MP:412/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Nanashi
+3-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Peri HP:391/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:71/140 MP:411/411
+B-Alilat HP:441/441 MP:412/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Persephone
+3-Alilat
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Peri HP:391/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:71/140 MP:411/411
+B-Alilat HP:441/441 MP:412/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Alilat
+3-Nanashi
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Nahobino HP:453/453 MP:389/389
+2-Peri HP:391/483 MP:200/216
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Persephone use
+1-Bufudyne MP:14
+2-Death's Door MP:10
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Peri HP:391/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:71/140 MP:411/411
+B-Alilat HP:441/441 MP:412/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Alilat
+2-Nanashi
+3-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Nahobino HP:453/453 MP:389/389
+2-Peri HP:391/483 MP:200/216
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Peri HP:391/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:71/140 MP:411/411
+B-Alilat HP:441/441 MP:412/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Persephone
+3-Alilat
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Nahobino HP:453/453 MP:389/389
+2-Peri HP:391/483 MP:200/216
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Nanashi dispara a Peri
+Peri recibe 31 de daño
+Peri termina con HP:360/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Peri HP:360/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:71/140 MP:411/411
+B-Alilat HP:441/441 MP:412/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Nanashi HP:71/140 MP:411/411
+2-Alilat HP:441/441 MP:412/428
+3-Persephone HP:315/315 MP:306/306
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Peri ataca a Persephone
+Persephone recibe 40 de daño
+Persephone termina con HP:275/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Peri HP:360/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:71/140 MP:411/411
+B-Alilat HP:441/441 MP:412/428
+C-Persephone HP:275/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Peri
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nanashi HP:71/140 MP:411/411
+2-Alilat HP:441/441 MP:412/428
+3-Persephone HP:275/315 MP:306/306
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Nanashi
+Nanashi recibe 83 de daño
+Nanashi termina con HP:0/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Peri HP:360/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Alilat HP:441/441 MP:412/428
+C-Persephone HP:275/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alilat use
+1-Diarahan MP:16
+2-Megidolaon MP:60
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Nanashi HP:0/140 MP:411/411
+2-Alilat HP:441/441 MP:412/428
+3-Persephone HP:275/315 MP:306/306
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Alilat cura a Persephone
+Persephone recibe 315 de HP
+Persephone termina con HP:315/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Peri HP:360/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Alilat HP:441/441 MP:396/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Alilat
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Peri HP:360/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Alilat HP:441/441 MP:396/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Alilat
+2-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Nahobino HP:453/453 MP:389/389
+2-Peri HP:360/483 MP:200/216
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Alilat ataca a Nahobino
+Nahobino recibe 47 de daño
+Nahobino termina con HP:406/453
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:406/453 MP:389/389
+B-Peri HP:360/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Alilat HP:441/441 MP:396/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:406/453 MP:389/389
+B-Peri HP:360/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Alilat HP:441/441 MP:396/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Peri
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nahobino use
+1-Mudoon MP:10
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Alilat HP:441/441 MP:396/428
+2-Persephone HP:315/315 MP:306/306
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:406/453 MP:389/389
+B-Peri HP:360/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Alilat HP:441/441 MP:396/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Alilat HP:441/441 MP:396/428
+2-Persephone HP:315/315 MP:306/306
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Peri ataca a Persephone
+Persephone recibe 40 de daño
+Persephone termina con HP:275/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:406/453 MP:389/389
+B-Peri HP:360/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Alilat HP:441/441 MP:396/428
+C-Persephone HP:275/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:406/453 MP:389/389
+B-Peri HP:360/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Alilat HP:441/441 MP:396/428
+C-Persephone HP:275/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Persephone
+2-Alilat
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Nahobino HP:406/453 MP:389/389
+2-Peri HP:360/483 MP:200/216
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Persephone ataca a Nahobino
+Nahobino recibe 33 de daño
+Nahobino termina con HP:373/453
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:373/453 MP:389/389
+B-Peri HP:360/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Alilat HP:441/441 MP:396/428
+C-Persephone HP:275/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alilat use
+1-Diarahan MP:16
+2-Megidolaon MP:60
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Nanashi HP:0/140 MP:411/411
+2-Alilat HP:441/441 MP:396/428
+3-Persephone HP:275/315 MP:306/306
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Alilat cura a Nanashi
+Nanashi recibe 140 de HP
+Nanashi termina con HP:140/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:373/453 MP:389/389
+B-Peri HP:360/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:441/441 MP:380/428
+C-Persephone HP:275/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:373/453 MP:389/389
+B-Peri HP:360/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:441/441 MP:380/428
+C-Persephone HP:275/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Peri
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nanashi HP:140/140 MP:411/411
+2-Alilat HP:441/441 MP:380/428
+3-Persephone HP:275/315 MP:306/306
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino dispara a Persephone
+Persephone recibe 83 de daño
+Persephone termina con HP:192/315
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:373/453 MP:389/389
+B-Peri HP:360/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:441/441 MP:380/428
+C-Persephone HP:192/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Nanashi HP:140/140 MP:411/411
+2-Alilat HP:441/441 MP:380/428
+3-Persephone HP:192/315 MP:306/306
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Peri ataca a Nanashi
+Nanashi recibe 40 de daño
+Nanashi termina con HP:100/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:373/453 MP:389/389
+B-Peri HP:360/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:100/140 MP:411/411
+B-Alilat HP:441/441 MP:380/428
+C-Persephone HP:192/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:373/453 MP:389/389
+B-Peri HP:360/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:100/140 MP:411/411
+B-Alilat HP:441/441 MP:380/428
+C-Persephone HP:192/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Persephone
+2-Alilat
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:373/453 MP:389/389
+B-Peri HP:360/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:100/140 MP:411/411
+B-Alilat HP:441/441 MP:380/428
+C-Persephone HP:192/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alilat use
+1-Diarahan MP:16
+2-Megidolaon MP:60
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:373/453 MP:389/389
+B-Peri HP:360/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:100/140 MP:411/411
+B-Alilat HP:441/441 MP:380/428
+C-Persephone HP:192/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Persephone
+2-Alilat
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Nahobino HP:373/453 MP:389/389
+2-Peri HP:360/483 MP:200/216
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:373/453 MP:389/389
+B-Peri HP:360/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:100/140 MP:411/411
+B-Alilat HP:441/441 MP:380/428
+C-Persephone HP:192/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:373/453 MP:389/389
+B-Peri HP:360/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:100/140 MP:411/411
+B-Alilat HP:441/441 MP:380/428
+C-Persephone HP:192/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Peri
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nahobino use
+1-Mudoon MP:10
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nanashi HP:100/140 MP:411/411
+2-Alilat HP:441/441 MP:380/428
+3-Persephone HP:192/315 MP:306/306
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino ataca con oscuridad a Alilat
+Alilat bloquea el ataque de Nahobino
+Alilat termina con HP:441/441
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:373/453 MP:379/389
+B-Peri HP:360/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:100/140 MP:411/411
+B-Alilat HP:441/441 MP:380/428
+C-Persephone HP:192/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alilat use
+1-Diarahan MP:16
+2-Megidolaon MP:60
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Nanashi HP:100/140 MP:411/411
+2-Alilat HP:441/441 MP:380/428
+3-Persephone HP:192/315 MP:306/306
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Alilat cura a Persephone
+Persephone recibe 315 de HP
+Persephone termina con HP:315/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:373/453 MP:379/389
+B-Peri HP:360/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:100/140 MP:411/411
+B-Alilat HP:441/441 MP:364/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Alilat
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Nahobino HP:373/453 MP:379/389
+2-Peri HP:360/483 MP:200/216
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Persephone ataca a Nahobino
+Nahobino recibe 33 de daño
+Nahobino termina con HP:340/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:340/453 MP:379/389
+B-Peri HP:360/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:100/140 MP:411/411
+B-Alilat HP:441/441 MP:364/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Peri use
+1-Diarahan MP:16
+2-Me Patra MP:15
+3-Panic Voice MP:15
+4-Maragidyne MP:32
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Nanashi HP:100/140 MP:411/411
+2-Alilat HP:441/441 MP:364/428
+3-Persephone HP:315/315 MP:306/306
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:340/453 MP:379/389
+B-Peri HP:360/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:100/140 MP:411/411
+B-Alilat HP:441/441 MP:364/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Peri
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nanashi HP:100/140 MP:411/411
+2-Alilat HP:441/441 MP:364/428
+3-Persephone HP:315/315 MP:306/306
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino dispara a Alilat
+Alilat es resistente el ataque de Nahobino
+Alilat recibe 41 de daño
+Alilat termina con HP:400/441
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:340/453 MP:379/389
+B-Peri HP:360/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:100/140 MP:411/411
+B-Alilat HP:400/441 MP:364/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:340/453 MP:379/389
+B-Peri HP:360/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:100/140 MP:411/411
+B-Alilat HP:400/441 MP:364/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Peri
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nanashi HP:100/140 MP:411/411
+2-Alilat HP:400/441 MP:364/428
+3-Persephone HP:315/315 MP:306/306
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino ataca a Persephone
+Persephone recibe 29 de daño
+Persephone termina con HP:286/315
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:340/453 MP:379/389
+B-Peri HP:360/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:100/140 MP:411/411
+B-Alilat HP:400/441 MP:364/428
+C-Persephone HP:286/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:340/453 MP:379/389
+B-Peri HP:360/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:100/140 MP:411/411
+B-Alilat HP:400/441 MP:364/428
+C-Persephone HP:286/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Persephone
+2-Alilat
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Nahobino HP:340/453 MP:379/389
+2-Peri HP:360/483 MP:200/216
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Nahobino HP:340/453 MP:379/389
+2-Peri HP:360/483 MP:200/216
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Nahobino HP:340/453 MP:379/389
+2-Peri HP:360/483 MP:200/216
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Persephone ataca a Nahobino
+Nahobino recibe 33 de daño
+Nahobino termina con HP:307/453
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:307/453 MP:379/389
+B-Peri HP:360/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:100/140 MP:411/411
+B-Alilat HP:400/441 MP:364/428
+C-Persephone HP:286/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:307/453 MP:379/389
+B-Peri HP:360/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:100/140 MP:411/411
+B-Alilat HP:400/441 MP:364/428
+C-Persephone HP:286/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Persephone
+2-Alilat
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:307/453 MP:379/389
+B-Peri HP:360/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:100/140 MP:411/411
+B-Alilat HP:400/441 MP:364/428
+C-Persephone HP:286/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Peri use
+1-Diarahan MP:16
+2-Me Patra MP:15
+3-Panic Voice MP:15
+4-Maragidyne MP:32
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Nahobino HP:307/453 MP:379/389
+2-Peri HP:360/483 MP:200/216
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Nanashi HP:100/140 MP:411/411
+2-Alilat HP:400/441 MP:364/428
+3-Persephone HP:286/315 MP:306/306
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Peri ataca a Persephone
+Persephone recibe 40 de daño
+Persephone termina con HP:246/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:307/453 MP:379/389
+B-Peri HP:360/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:100/140 MP:411/411
+B-Alilat HP:400/441 MP:364/428
+C-Persephone HP:246/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Peri
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nahobino use
+1-Mudoon MP:10
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nahobino use
+1-Mudoon MP:10
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nanashi HP:100/140 MP:411/411
+2-Alilat HP:400/441 MP:364/428
+3-Persephone HP:246/315 MP:306/306
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nahobino use
+1-Mudoon MP:10
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nanashi HP:100/140 MP:411/411
+2-Alilat HP:400/441 MP:364/428
+3-Persephone HP:246/315 MP:306/306
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino dispara a Persephone
+Persephone recibe 83 de daño
+Persephone termina con HP:163/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:307/453 MP:379/389
+B-Peri HP:360/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:100/140 MP:411/411
+B-Alilat HP:400/441 MP:364/428
+C-Persephone HP:163/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Nahobino HP:307/453 MP:379/389
+2-Peri HP:360/483 MP:200/216
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Alilat ataca a Peri
+Peri recibe 47 de daño
+Peri termina con HP:313/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:307/453 MP:379/389
+B-Peri HP:313/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:100/140 MP:411/411
+B-Alilat HP:400/441 MP:364/428
+C-Persephone HP:163/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Alilat
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:307/453 MP:379/389
+B-Peri HP:313/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:100/140 MP:411/411
+B-Alilat HP:400/441 MP:364/428
+C-Persephone HP:163/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Alilat
+2-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:307/453 MP:379/389
+B-Peri HP:313/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:100/140 MP:411/411
+B-Alilat HP:400/441 MP:364/428
+C-Persephone HP:163/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:307/453 MP:379/389
+B-Peri HP:313/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:100/140 MP:411/411
+B-Alilat HP:400/441 MP:364/428
+C-Persephone HP:163/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Peri
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:307/453 MP:379/389
+B-Peri HP:313/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:100/140 MP:411/411
+B-Alilat HP:400/441 MP:364/428
+C-Persephone HP:163/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:307/453 MP:379/389
+B-Peri HP:313/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:100/140 MP:411/411
+B-Alilat HP:400/441 MP:364/428
+C-Persephone HP:163/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Peri
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nanashi HP:100/140 MP:411/411
+2-Alilat HP:400/441 MP:364/428
+3-Persephone HP:163/315 MP:306/306
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Nanashi
+Nanashi recibe 83 de daño
+Nanashi termina con HP:17/140
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:307/453 MP:379/389
+B-Peri HP:313/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:17/140 MP:411/411
+B-Alilat HP:400/441 MP:364/428
+C-Persephone HP:163/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alilat use
+1-Diarahan MP:16
+2-Megidolaon MP:60
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alilat use
+1-Diarahan MP:16
+2-Megidolaon MP:60
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Nanashi HP:17/140 MP:411/411
+2-Alilat HP:400/441 MP:364/428
+3-Persephone HP:163/315 MP:306/306
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Alilat cura a Persephone
+Persephone recibe 315 de HP
+Persephone termina con HP:315/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:307/453 MP:379/389
+B-Peri HP:313/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:17/140 MP:411/411
+B-Alilat HP:400/441 MP:348/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Alilat
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Nahobino HP:307/453 MP:379/389
+2-Peri HP:313/483 MP:200/216
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:307/453 MP:379/389
+B-Peri HP:313/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:17/140 MP:411/411
+B-Alilat HP:400/441 MP:348/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Alilat
+2-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Nahobino HP:307/453 MP:379/389
+2-Peri HP:313/483 MP:200/216
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Nahobino HP:307/453 MP:379/389
+2-Peri HP:313/483 MP:200/216
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Alilat ataca a Peri
+Peri recibe 47 de daño
+Peri termina con HP:266/483
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:307/453 MP:379/389
+B-Peri HP:266/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:17/140 MP:411/411
+B-Alilat HP:400/441 MP:348/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Peri use
+1-Diarahan MP:16
+2-Me Patra MP:15
+3-Panic Voice MP:15
+4-Maragidyne MP:32
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:307/453 MP:379/389
+B-Peri HP:266/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:17/140 MP:411/411
+B-Alilat HP:400/441 MP:348/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Peri
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:307/453 MP:379/389
+B-Peri HP:266/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:17/140 MP:411/411
+B-Alilat HP:400/441 MP:348/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:307/453 MP:379/389
+B-Peri HP:266/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:17/140 MP:411/411
+B-Alilat HP:400/441 MP:348/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Peri
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:307/453 MP:379/389
+B-Peri HP:266/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:17/140 MP:411/411
+B-Alilat HP:400/441 MP:348/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:307/453 MP:379/389
+B-Peri HP:266/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:17/140 MP:411/411
+B-Alilat HP:400/441 MP:348/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Persephone
+2-Alilat
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Nahobino HP:307/453 MP:379/389
+2-Peri HP:266/483 MP:200/216
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Persephone ataca a Peri
+Peri recibe 33 de daño
+Peri termina con HP:233/483
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:307/453 MP:379/389
+B-Peri HP:233/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:17/140 MP:411/411
+B-Alilat HP:400/441 MP:348/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Nahobino HP:307/453 MP:379/389
+2-Peri HP:233/483 MP:200/216
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:307/453 MP:379/389
+B-Peri HP:233/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:17/140 MP:411/411
+B-Alilat HP:400/441 MP:348/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Persephone
+2-Alilat
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Nahobino HP:307/453 MP:379/389
+2-Peri HP:233/483 MP:200/216
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Persephone ataca a Nahobino
+Nahobino recibe 33 de daño
+Nahobino termina con HP:274/453
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:274/453 MP:379/389
+B-Peri HP:233/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:17/140 MP:411/411
+B-Alilat HP:400/441 MP:348/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Peri use
+1-Diarahan MP:16
+2-Me Patra MP:15
+3-Panic Voice MP:15
+4-Maragidyne MP:32
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:274/453 MP:379/389
+B-Peri HP:233/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:17/140 MP:411/411
+B-Alilat HP:400/441 MP:348/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Peri
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nahobino use
+1-Mudoon MP:10
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nanashi HP:17/140 MP:411/411
+2-Alilat HP:400/441 MP:348/428
+3-Persephone HP:315/315 MP:306/306
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:274/453 MP:379/389
+B-Peri HP:233/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:17/140 MP:411/411
+B-Alilat HP:400/441 MP:348/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Nanashi HP:17/140 MP:411/411
+2-Alilat HP:400/441 MP:348/428
+3-Persephone HP:315/315 MP:306/306
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Peri use
+1-Diarahan MP:16
+2-Me Patra MP:15
+3-Panic Voice MP:15
+4-Maragidyne MP:32
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Peri use
+1-Diarahan MP:16
+2-Me Patra MP:15
+3-Panic Voice MP:15
+4-Maragidyne MP:32
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:274/453 MP:379/389
+B-Peri HP:233/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:17/140 MP:411/411
+B-Alilat HP:400/441 MP:348/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Peri
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nanashi HP:17/140 MP:411/411
+2-Alilat HP:400/441 MP:348/428
+3-Persephone HP:315/315 MP:306/306
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:274/453 MP:379/389
+B-Peri HP:233/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:17/140 MP:411/411
+B-Alilat HP:400/441 MP:348/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alilat use
+1-Diarahan MP:16
+2-Megidolaon MP:60
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Nanashi HP:17/140 MP:411/411
+2-Alilat HP:400/441 MP:348/428
+3-Persephone HP:315/315 MP:306/306
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Alilat cura a Persephone
+Persephone recibe 315 de HP
+Persephone termina con HP:315/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:274/453 MP:379/389
+B-Peri HP:233/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:17/140 MP:411/411
+B-Alilat HP:400/441 MP:332/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Alilat
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Nahobino HP:274/453 MP:379/389
+2-Peri HP:233/483 MP:200/216
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Nahobino HP:274/453 MP:379/389
+2-Peri HP:233/483 MP:200/216
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Persephone ataca a Nahobino
+Nahobino recibe 33 de daño
+Nahobino termina con HP:241/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:241/453 MP:379/389
+B-Peri HP:233/483 MP:200/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:17/140 MP:411/411
+B-Alilat HP:400/441 MP:332/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Nanashi HP:17/140 MP:411/411
+2-Alilat HP:400/441 MP:332/428
+3-Persephone HP:315/315 MP:306/306
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Nanashi HP:17/140 MP:411/411
+2-Alilat HP:400/441 MP:332/428
+3-Persephone HP:315/315 MP:306/306
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Peri use
+1-Diarahan MP:16
+2-Me Patra MP:15
+3-Panic Voice MP:15
+4-Maragidyne MP:32
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Nahobino HP:241/453 MP:379/389
+2-Peri HP:233/483 MP:200/216
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Peri cura a Peri
+Peri recibe 483 de HP
+Peri termina con HP:483/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:241/453 MP:379/389
+B-Peri HP:483/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:17/140 MP:411/411
+B-Alilat HP:400/441 MP:332/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Peri
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:241/453 MP:379/389
+B-Peri HP:483/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:17/140 MP:411/411
+B-Alilat HP:400/441 MP:332/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Peri use
+1-Diarahan MP:16
+2-Me Patra MP:15
+3-Panic Voice MP:15
+4-Maragidyne MP:32
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Nahobino HP:241/453 MP:379/389
+2-Peri HP:483/483 MP:184/216
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:241/453 MP:379/389
+B-Peri HP:483/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:17/140 MP:411/411
+B-Alilat HP:400/441 MP:332/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Nahobino HP:241/453 MP:379/389
+2-Peri HP:483/483 MP:184/216
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Alilat ataca a Peri
+Peri recibe 47 de daño
+Peri termina con HP:436/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:241/453 MP:379/389
+B-Peri HP:436/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:17/140 MP:411/411
+B-Alilat HP:400/441 MP:332/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Alilat
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Persephone use
+1-Bufudyne MP:14
+2-Death's Door MP:10
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Persephone use
+1-Bufudyne MP:14
+2-Death's Door MP:10
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Nahobino HP:241/453 MP:379/389
+2-Peri HP:436/483 MP:184/216
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Persephone ataca a Peri
+Peri recibe 33 de daño
+Peri termina con HP:403/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:241/453 MP:379/389
+B-Peri HP:403/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:17/140 MP:411/411
+B-Alilat HP:400/441 MP:332/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:241/453 MP:379/389
+B-Peri HP:403/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:17/140 MP:411/411
+B-Alilat HP:400/441 MP:332/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Peri
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nanashi HP:17/140 MP:411/411
+2-Alilat HP:400/441 MP:332/428
+3-Persephone HP:315/315 MP:306/306
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Nanashi
+Nanashi recibe 83 de daño
+Nanashi termina con HP:0/140
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:241/453 MP:379/389
+B-Peri HP:403/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Alilat HP:400/441 MP:332/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:241/453 MP:379/389
+B-Peri HP:403/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Alilat HP:400/441 MP:332/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Peri
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nahobino use
+1-Mudoon MP:10
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:241/453 MP:379/389
+B-Peri HP:403/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Alilat HP:400/441 MP:332/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Nahobino HP:241/453 MP:379/389
+2-Peri HP:403/483 MP:184/216
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Alilat ataca a Nahobino
+Nahobino recibe 47 de daño
+Nahobino termina con HP:194/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:194/453 MP:379/389
+B-Peri HP:403/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Alilat HP:400/441 MP:332/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Alilat
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Nahobino HP:194/453 MP:379/389
+2-Peri HP:403/483 MP:184/216
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Nahobino HP:194/453 MP:379/389
+2-Peri HP:403/483 MP:184/216
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Persephone ataca a Peri
+Peri recibe 33 de daño
+Peri termina con HP:370/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:194/453 MP:379/389
+B-Peri HP:370/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Alilat HP:400/441 MP:332/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:194/453 MP:379/389
+B-Peri HP:370/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Alilat HP:400/441 MP:332/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Peri
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nahobino use
+1-Mudoon MP:10
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Alilat HP:400/441 MP:332/428
+2-Persephone HP:315/315 MP:306/306
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino ataca con oscuridad a Persephone
+Persephone bloquea el ataque de Nahobino
+Persephone termina con HP:315/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:194/453 MP:369/389
+B-Peri HP:370/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Alilat HP:400/441 MP:332/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Nahobino HP:194/453 MP:369/389
+2-Peri HP:370/483 MP:184/216
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alilat use
+1-Diarahan MP:16
+2-Megidolaon MP:60
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Nanashi HP:0/140 MP:411/411
+2-Alilat HP:400/441 MP:332/428
+3-Persephone HP:315/315 MP:306/306
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Alilat cura a Nanashi
+Nanashi recibe 140 de HP
+Nanashi termina con HP:140/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:194/453 MP:369/389
+B-Peri HP:370/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:400/441 MP:316/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Alilat
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Persephone use
+1-Bufudyne MP:14
+2-Death's Door MP:10
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:194/453 MP:369/389
+B-Peri HP:370/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:400/441 MP:316/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Alilat
+2-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Nahobino HP:194/453 MP:369/389
+2-Peri HP:370/483 MP:184/216
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:194/453 MP:369/389
+B-Peri HP:370/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:400/441 MP:316/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:194/453 MP:369/389
+B-Peri HP:370/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:400/441 MP:316/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Peri
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:194/453 MP:369/389
+B-Peri HP:370/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:400/441 MP:316/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:194/453 MP:369/389
+B-Peri HP:370/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:400/441 MP:316/428
+C-Persephone HP:315/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Peri
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nanashi HP:140/140 MP:411/411
+2-Alilat HP:400/441 MP:316/428
+3-Persephone HP:315/315 MP:306/306
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino ataca a Persephone
+Persephone recibe 29 de daño
+Persephone termina con HP:286/315
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:194/453 MP:369/389
+B-Peri HP:370/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:400/441 MP:316/428
+C-Persephone HP:286/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alilat use
+1-Diarahan MP:16
+2-Megidolaon MP:60
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Nanashi HP:140/140 MP:411/411
+2-Alilat HP:400/441 MP:316/428
+3-Persephone HP:286/315 MP:306/306
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Alilat cura a Alilat
+Alilat recibe 441 de HP
+Alilat termina con HP:441/441
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:194/453 MP:369/389
+B-Peri HP:370/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:441/441 MP:300/428
+C-Persephone HP:286/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Alilat
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Nahobino HP:194/453 MP:369/389
+2-Peri HP:370/483 MP:184/216
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Persephone ataca a Peri
+Peri recibe 33 de daño
+Peri termina con HP:337/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:194/453 MP:369/389
+B-Peri HP:337/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:441/441 MP:300/428
+C-Persephone HP:286/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:194/453 MP:369/389
+B-Peri HP:337/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:441/441 MP:300/428
+C-Persephone HP:286/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Peri
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nanashi HP:140/140 MP:411/411
+2-Alilat HP:441/441 MP:300/428
+3-Persephone HP:286/315 MP:306/306
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nanashi HP:140/140 MP:411/411
+2-Alilat HP:441/441 MP:300/428
+3-Persephone HP:286/315 MP:306/306
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Nanashi
+Nanashi recibe 83 de daño
+Nanashi termina con HP:57/140
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:194/453 MP:369/389
+B-Peri HP:337/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:57/140 MP:411/411
+B-Alilat HP:441/441 MP:300/428
+C-Persephone HP:286/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Nanashi HP:57/140 MP:411/411
+2-Alilat HP:441/441 MP:300/428
+3-Persephone HP:286/315 MP:306/306
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:194/453 MP:369/389
+B-Peri HP:337/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:57/140 MP:411/411
+B-Alilat HP:441/441 MP:300/428
+C-Persephone HP:286/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Peri
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nanashi HP:57/140 MP:411/411
+2-Alilat HP:441/441 MP:300/428
+3-Persephone HP:286/315 MP:306/306
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:194/453 MP:369/389
+B-Peri HP:337/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:57/140 MP:411/411
+B-Alilat HP:441/441 MP:300/428
+C-Persephone HP:286/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:194/453 MP:369/389
+B-Peri HP:337/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:57/140 MP:411/411
+B-Alilat HP:441/441 MP:300/428
+C-Persephone HP:286/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Persephone
+2-Alilat
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Nahobino HP:194/453 MP:369/389
+2-Peri HP:337/483 MP:184/216
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Persephone ataca a Nahobino
+Nahobino recibe 33 de daño
+Nahobino termina con HP:161/453
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:161/453 MP:369/389
+B-Peri HP:337/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:57/140 MP:411/411
+B-Alilat HP:441/441 MP:300/428
+C-Persephone HP:286/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:161/453 MP:369/389
+B-Peri HP:337/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:57/140 MP:411/411
+B-Alilat HP:441/441 MP:300/428
+C-Persephone HP:286/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Persephone
+2-Alilat
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:161/453 MP:369/389
+B-Peri HP:337/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:57/140 MP:411/411
+B-Alilat HP:441/441 MP:300/428
+C-Persephone HP:286/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Nanashi HP:57/140 MP:411/411
+2-Alilat HP:441/441 MP:300/428
+3-Persephone HP:286/315 MP:306/306
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Nanashi HP:57/140 MP:411/411
+2-Alilat HP:441/441 MP:300/428
+3-Persephone HP:286/315 MP:306/306
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Peri ataca a Alilat
+Alilat es resistente el ataque de Peri
+Alilat recibe 20 de daño
+Alilat termina con HP:421/441
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:161/453 MP:369/389
+B-Peri HP:337/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:57/140 MP:411/411
+B-Alilat HP:421/441 MP:300/428
+C-Persephone HP:286/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Peri
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:161/453 MP:369/389
+B-Peri HP:337/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:57/140 MP:411/411
+B-Alilat HP:421/441 MP:300/428
+C-Persephone HP:286/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:161/453 MP:369/389
+B-Peri HP:337/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:57/140 MP:411/411
+B-Alilat HP:421/441 MP:300/428
+C-Persephone HP:286/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:161/453 MP:369/389
+B-Peri HP:337/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:57/140 MP:411/411
+B-Alilat HP:421/441 MP:300/428
+C-Persephone HP:286/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Persephone
+2-Alilat
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Nahobino HP:161/453 MP:369/389
+2-Peri HP:337/483 MP:184/216
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Persephone ataca a Nahobino
+Nahobino recibe 33 de daño
+Nahobino termina con HP:128/453
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:128/453 MP:369/389
+B-Peri HP:337/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:57/140 MP:411/411
+B-Alilat HP:421/441 MP:300/428
+C-Persephone HP:286/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Nahobino HP:128/453 MP:369/389
+2-Peri HP:337/483 MP:184/216
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Alilat ataca a Peri
+Peri recibe 47 de daño
+Peri termina con HP:290/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:128/453 MP:369/389
+B-Peri HP:290/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:57/140 MP:411/411
+B-Alilat HP:421/441 MP:300/428
+C-Persephone HP:286/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Nanashi HP:57/140 MP:411/411
+2-Alilat HP:421/441 MP:300/428
+3-Persephone HP:286/315 MP:306/306
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Nanashi HP:57/140 MP:411/411
+2-Alilat HP:421/441 MP:300/428
+3-Persephone HP:286/315 MP:306/306
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:128/453 MP:369/389
+B-Peri HP:290/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:57/140 MP:411/411
+B-Alilat HP:421/441 MP:300/428
+C-Persephone HP:286/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Peri
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:128/453 MP:369/389
+B-Peri HP:290/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:57/140 MP:411/411
+B-Alilat HP:421/441 MP:300/428
+C-Persephone HP:286/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Peri use
+1-Diarahan MP:16
+2-Me Patra MP:15
+3-Panic Voice MP:15
+4-Maragidyne MP:32
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:128/453 MP:369/389
+B-Peri HP:290/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:57/140 MP:411/411
+B-Alilat HP:421/441 MP:300/428
+C-Persephone HP:286/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Peri
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nanashi HP:57/140 MP:411/411
+2-Alilat HP:421/441 MP:300/428
+3-Persephone HP:286/315 MP:306/306
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nahobino use
+1-Mudoon MP:10
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nanashi HP:57/140 MP:411/411
+2-Alilat HP:421/441 MP:300/428
+3-Persephone HP:286/315 MP:306/306
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino ataca a Persephone
+Persephone recibe 29 de daño
+Persephone termina con HP:257/315
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:128/453 MP:369/389
+B-Peri HP:290/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:57/140 MP:411/411
+B-Alilat HP:421/441 MP:300/428
+C-Persephone HP:257/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alilat use
+1-Diarahan MP:16
+2-Megidolaon MP:60
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:128/453 MP:369/389
+B-Peri HP:290/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:57/140 MP:411/411
+B-Alilat HP:421/441 MP:300/428
+C-Persephone HP:257/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Persephone
+2-Alilat
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:128/453 MP:369/389
+B-Peri HP:290/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:57/140 MP:411/411
+B-Alilat HP:421/441 MP:300/428
+C-Persephone HP:257/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:128/453 MP:369/389
+B-Peri HP:290/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:57/140 MP:411/411
+B-Alilat HP:421/441 MP:300/428
+C-Persephone HP:257/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Persephone
+2-Alilat
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Persephone use
+1-Bufudyne MP:14
+2-Death's Door MP:10
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Nahobino HP:128/453 MP:369/389
+2-Peri HP:290/483 MP:184/216
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Persephone lanza hielo a Nahobino
+Nahobino recibe 112 de daño
+Nahobino termina con HP:16/453
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:16/453 MP:369/389
+B-Peri HP:290/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:57/140 MP:411/411
+B-Alilat HP:421/441 MP:300/428
+C-Persephone HP:257/315 MP:292/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Nanashi HP:57/140 MP:411/411
+2-Alilat HP:421/441 MP:300/428
+3-Persephone HP:257/315 MP:292/306
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Peri ataca a Nanashi
+Nanashi recibe 40 de daño
+Nanashi termina con HP:17/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:16/453 MP:369/389
+B-Peri HP:290/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:17/140 MP:411/411
+B-Alilat HP:421/441 MP:300/428
+C-Persephone HP:257/315 MP:292/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Peri
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Nanashi HP:17/140 MP:411/411
+2-Alilat HP:421/441 MP:300/428
+3-Persephone HP:257/315 MP:292/306
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Nanashi
+Nanashi recibe 83 de daño
+Nanashi termina con HP:0/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:16/453 MP:369/389
+B-Peri HP:290/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Alilat HP:421/441 MP:300/428
+C-Persephone HP:257/315 MP:292/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alilat use
+1-Diarahan MP:16
+2-Megidolaon MP:60
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alilat use
+1-Diarahan MP:16
+2-Megidolaon MP:60
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Nanashi HP:0/140 MP:411/411
+2-Alilat HP:421/441 MP:300/428
+3-Persephone HP:257/315 MP:292/306
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Alilat cura a Alilat
+Alilat recibe 441 de HP
+Alilat termina con HP:441/441
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:16/453 MP:369/389
+B-Peri HP:290/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Alilat HP:441/441 MP:284/428
+C-Persephone HP:257/315 MP:292/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Alilat
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Persephone use
+1-Bufudyne MP:14
+2-Death's Door MP:10
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Nahobino HP:16/453 MP:369/389
+2-Peri HP:290/483 MP:184/216
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Persephone ataca a Nahobino
+Nahobino recibe 33 de daño
+Nahobino termina con HP:0/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:369/389
+B-Peri HP:290/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Alilat HP:441/441 MP:284/428
+C-Persephone HP:257/315 MP:292/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Peri use
+1-Diarahan MP:16
+2-Me Patra MP:15
+3-Panic Voice MP:15
+4-Maragidyne MP:32
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Alilat HP:441/441 MP:284/428
+2-Persephone HP:257/315 MP:292/306
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Peri ataca a Alilat
+Alilat es resistente el ataque de Peri
+Alilat recibe 20 de daño
+Alilat termina con HP:421/441
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:369/389
+B-Peri HP:290/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Alilat HP:421/441 MP:284/428
+C-Persephone HP:257/315 MP:292/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alilat use
+1-Diarahan MP:16
+2-Megidolaon MP:60
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Nanashi HP:0/140 MP:411/411
+2-Alilat HP:421/441 MP:284/428
+3-Persephone HP:257/315 MP:292/306
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Alilat cura a Nanashi
+Nanashi recibe 140 de HP
+Nanashi termina con HP:140/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:369/389
+B-Peri HP:290/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:421/441 MP:268/428
+C-Persephone HP:257/315 MP:292/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Alilat
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:369/389
+B-Peri HP:290/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:421/441 MP:268/428
+C-Persephone HP:257/315 MP:292/306
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Alilat
+2-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alilat use
+1-Diarahan MP:16
+2-Megidolaon MP:60
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Nanashi HP:140/140 MP:411/411
+2-Alilat HP:421/441 MP:268/428
+3-Persephone HP:257/315 MP:292/306
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Alilat cura a Nanashi
+Nanashi recibe 140 de HP
+Nanashi termina con HP:140/140
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:369/389
+B-Peri HP:290/483 MP:184/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:421/441 MP:252/428
+C-Persephone HP:257/315 MP:292/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Peri use
+1-Diarahan MP:16
+2-Me Patra MP:15
+3-Panic Voice MP:15
+4-Maragidyne MP:32
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Nahobino HP:0/453 MP:369/389
+2-Peri HP:290/483 MP:184/216
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Peri cura a Peri
+Peri recibe 483 de HP
+Peri termina con HP:483/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:369/389
+B-Peri HP:483/483 MP:168/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:421/441 MP:252/428
+C-Persephone HP:257/315 MP:292/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:369/389
+B-Peri HP:483/483 MP:168/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:421/441 MP:252/428
+C-Persephone HP:257/315 MP:292/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Persephone
+2-Alilat
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:369/389
+B-Peri HP:483/483 MP:168/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:421/441 MP:252/428
+C-Persephone HP:257/315 MP:292/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:369/389
+B-Peri HP:483/483 MP:168/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:421/441 MP:252/428
+C-Persephone HP:257/315 MP:292/306
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Persephone
+2-Alilat
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Peri HP:483/483 MP:168/216
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Peri HP:483/483 MP:168/216
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Persephone use
+1-Bufudyne MP:14
+2-Death's Door MP:10
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Peri HP:483/483 MP:168/216
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Persephone lanza hielo a Peri
+Peri es débil contra el ataque de Persephone
+Peri recibe 168 de daño
+Peri termina con HP:315/483
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:369/389
+B-Peri HP:315/483 MP:168/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:421/441 MP:252/428
+C-Persephone HP:257/315 MP:278/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Nanashi HP:140/140 MP:411/411
+2-Alilat HP:421/441 MP:252/428
+3-Persephone HP:257/315 MP:278/306
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Peri ataca a Persephone
+Persephone recibe 40 de daño
+Persephone termina con HP:217/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:369/389
+B-Peri HP:315/483 MP:168/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:421/441 MP:252/428
+C-Persephone HP:217/315 MP:278/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Peri HP:315/483 MP:168/216
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Alilat ataca a Peri
+Peri recibe 47 de daño
+Peri termina con HP:268/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:369/389
+B-Peri HP:268/483 MP:168/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:421/441 MP:252/428
+C-Persephone HP:217/315 MP:278/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Alilat
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Persephone use
+1-Bufudyne MP:14
+2-Death's Door MP:10
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Peri HP:268/483 MP:168/216
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Persephone lanza hielo a Peri
+Peri es débil contra el ataque de Persephone
+Peri recibe 168 de daño
+Peri termina con HP:100/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:369/389
+B-Peri HP:100/483 MP:168/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:421/441 MP:252/428
+C-Persephone HP:217/315 MP:264/306
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Alilat
+2-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:369/389
+B-Peri HP:100/483 MP:168/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:421/441 MP:252/428
+C-Persephone HP:217/315 MP:264/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Peri use
+1-Diarahan MP:16
+2-Me Patra MP:15
+3-Panic Voice MP:15
+4-Maragidyne MP:32
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Nahobino HP:0/453 MP:369/389
+2-Peri HP:100/483 MP:168/216
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Nanashi HP:140/140 MP:411/411
+2-Alilat HP:421/441 MP:252/428
+3-Persephone HP:217/315 MP:264/306
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Peri use
+1-Diarahan MP:16
+2-Me Patra MP:15
+3-Panic Voice MP:15
+4-Maragidyne MP:32
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Peri use
+1-Diarahan MP:16
+2-Me Patra MP:15
+3-Panic Voice MP:15
+4-Maragidyne MP:32
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:369/389
+B-Peri HP:100/483 MP:168/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:421/441 MP:252/428
+C-Persephone HP:217/315 MP:264/306
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Peri
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:369/389
+B-Peri HP:100/483 MP:168/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:421/441 MP:252/428
+C-Persephone HP:217/315 MP:264/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alilat use
+1-Diarahan MP:16
+2-Megidolaon MP:60
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alilat use
+1-Diarahan MP:16
+2-Megidolaon MP:60
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alilat use
+1-Diarahan MP:16
+2-Megidolaon MP:60
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:369/389
+B-Peri HP:100/483 MP:168/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:421/441 MP:252/428
+C-Persephone HP:217/315 MP:264/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Persephone
+2-Alilat
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Persephone use
+1-Bufudyne MP:14
+2-Death's Door MP:10
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:369/389
+B-Peri HP:100/483 MP:168/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:421/441 MP:252/428
+C-Persephone HP:217/315 MP:264/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alilat use
+1-Diarahan MP:16
+2-Megidolaon MP:60
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Peri HP:100/483 MP:168/216
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Alilat ataca a Peri
+Peri recibe 47 de daño
+Peri termina con HP:53/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:369/389
+B-Peri HP:53/483 MP:168/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:421/441 MP:252/428
+C-Persephone HP:217/315 MP:264/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:369/389
+B-Peri HP:53/483 MP:168/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:421/441 MP:252/428
+C-Persephone HP:217/315 MP:264/306
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Peri
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:369/389
+B-Peri HP:53/483 MP:168/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:421/441 MP:252/428
+C-Persephone HP:217/315 MP:264/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alilat use
+1-Diarahan MP:16
+2-Megidolaon MP:60
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Peri HP:53/483 MP:168/216
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alilat use
+1-Diarahan MP:16
+2-Megidolaon MP:60
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Nanashi HP:140/140 MP:411/411
+2-Alilat HP:421/441 MP:252/428
+3-Persephone HP:217/315 MP:264/306
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Alilat cura a Persephone
+Persephone recibe 315 de HP
+Persephone termina con HP:315/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:369/389
+B-Peri HP:53/483 MP:168/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:421/441 MP:236/428
+C-Persephone HP:315/315 MP:264/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Alilat
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Peri HP:53/483 MP:168/216
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Persephone ataca a Peri
+Peri recibe 33 de daño
+Peri termina con HP:20/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:369/389
+B-Peri HP:20/483 MP:168/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Alilat HP:421/441 MP:236/428
+C-Persephone HP:315/315 MP:264/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Nanashi HP:140/140 MP:411/411
+2-Alilat HP:421/441 MP:236/428
+3-Persephone HP:315/315 MP:264/306
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Peri use
+1-Diarahan MP:16
+2-Me Patra MP:15
+3-Panic Voice MP:15
+4-Maragidyne MP:32
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Peri use
+1-Diarahan MP:16
+2-Me Patra MP:15
+3-Panic Voice MP:15
+4-Maragidyne MP:32
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Nanashi HP:140/140 MP:411/411
+2-Alilat HP:421/441 MP:236/428
+3-Persephone HP:315/315 MP:264/306
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Peri ataca a Nanashi
+Nanashi recibe 40 de daño
+Nanashi termina con HP:100/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:369/389
+B-Peri HP:20/483 MP:168/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:100/140 MP:411/411
+B-Alilat HP:421/441 MP:236/428
+C-Persephone HP:315/315 MP:264/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:369/389
+B-Peri HP:20/483 MP:168/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:100/140 MP:411/411
+B-Alilat HP:421/441 MP:236/428
+C-Persephone HP:315/315 MP:264/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Persephone
+2-Alilat
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:0/453 MP:369/389
+B-Peri HP:20/483 MP:168/216
+C-
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:100/140 MP:411/411
+B-Alilat HP:421/441 MP:236/428
+C-Persephone HP:315/315 MP:264/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Persephone
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Peri HP:20/483 MP:168/216
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Alilat ataca a Peri
+Peri recibe 47 de daño
+Peri termina con HP:0/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Nanashi (J2)

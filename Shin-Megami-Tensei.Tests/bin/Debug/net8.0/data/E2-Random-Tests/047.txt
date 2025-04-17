@@ -1,0 +1,5215 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+120: 121.txt
+121: 122.txt
+122: 123.txt
+123: 124.txt
+124: 125.txt
+125: 126.txt
+126: 127.txt
+127: 128.txt
+128: 129.txt
+129: 130.txt
+130: 131.txt
+131: 132.txt
+132: 133.txt
+133: 134.txt
+134: 135.txt
+135: 136.txt
+136: 137.txt
+137: 138.txt
+138: 139.txt
+139: 140.txt
+140: 141.txt
+141: 142.txt
+142: 143.txt
+143: 144.txt
+144: 145.txt
+145: 146.txt
+146: 147.txt
+147: 148.txt
+148: 149.txt
+149: 150.txt
+150: 151.txt
+151: 152.txt
+152: 153.txt
+153: 154.txt
+154: 155.txt
+155: 156.txt
+156: 157.txt
+157: 158.txt
+158: 159.txt
+159: 160.txt
+160: 161.txt
+161: 162.txt
+162: 163.txt
+163: 164.txt
+164: 165.txt
+165: 166.txt
+166: 167.txt
+167: 168.txt
+168: 169.txt
+169: 170.txt
+170: 171.txt
+171: 172.txt
+172: 173.txt
+173: 174.txt
+174: 175.txt
+175: 176.txt
+176: 177.txt
+177: 178.txt
+178: 179.txt
+179: 180.txt
+180: 181.txt
+181: 182.txt
+182: 183.txt
+183: 184.txt
+184: 185.txt
+185: 186.txt
+186: 187.txt
+187: 188.txt
+188: 189.txt
+189: 190.txt
+190: 191.txt
+191: 192.txt
+192: 193.txt
+193: 194.txt
+194: 195.txt
+195: 196.txt
+196: 197.txt
+197: 198.txt
+198: 199.txt
+199: 200.txt
+INPUT: 46
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Enku HP:235/235 MP:228/228
+C-Susano-o HP:927/927 MP:184/184
+D-Mokoi HP:74/74 MP:36/36
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Ometeotl HP:324/324 MP:315/315
+C-Pale Rider HP:693/693 MP:310/310
+D-Lord Nan Dou HP:549/549 MP:108/108
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Susano-o
+2-Joker
+3-Enku
+4-Mokoi
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Susano-o use
+1-Hades Blast MP:32
+2-Deadly Wind MP:22
+3-Sea of Chaos MP:45
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Susano-o
+1-Yu HP:597/597 MP:347/347
+2-Ometeotl HP:324/324 MP:315/315
+3-Pale Rider HP:693/693 MP:310/310
+4-Lord Nan Dou HP:549/549 MP:108/108
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Susano-o lanza viento a Lord Nan Dou
+Lord Nan Dou recibe 155 de daño
+Lord Nan Dou termina con HP:394/549
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Enku HP:235/235 MP:228/228
+C-Susano-o HP:927/927 MP:162/184
+D-Mokoi HP:74/74 MP:36/36
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Ometeotl HP:324/324 MP:315/315
+C-Pale Rider HP:693/693 MP:310/310
+D-Lord Nan Dou HP:394/549 MP:108/108
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Enku
+3-Mokoi
+4-Susano-o
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sandman HP:113/113 MP:108/108
+2-Raphael HP:623/623 MP:279/279
+3-Centaur HP:104/104 MP:19/19
+4-Tam Lin HP:218/218 MP:43/43
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Enku HP:235/235 MP:228/228 (Puesto 2)
+2-Susano-o HP:927/927 MP:162/184 (Puesto 3)
+3-Mokoi HP:74/74 MP:36/36 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Raphael ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Raphael HP:623/623 MP:279/279
+C-Susano-o HP:927/927 MP:162/184
+D-Mokoi HP:74/74 MP:36/36
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Ometeotl HP:324/324 MP:315/315
+C-Pale Rider HP:693/693 MP:310/310
+D-Lord Nan Dou HP:394/549 MP:108/108
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Raphael
+2-Mokoi
+3-Susano-o
+4-Joker
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Raphael use
+1-God's Tornado MP:50
+2-Diarahan MP:16
+3-Stigma Attack MP:20
+4-Serpent of Sheol MP:45
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Joker HP:597/597 MP:347/347
+2-Raphael HP:623/623 MP:279/279
+3-Susano-o HP:927/927 MP:162/184
+4-Mokoi HP:74/74 MP:36/36
+5-Enku HP:235/235 MP:228/228
+6-Sandman HP:113/113 MP:108/108
+7-Centaur HP:104/104 MP:19/19
+8-Tam Lin HP:218/218 MP:43/43
+9-Cancelar
+INPUT: 5
+----------------------------------------
+Raphael cura a Enku
+Enku recibe 235 de HP
+Enku termina con HP:235/235
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Raphael HP:623/623 MP:263/279
+C-Susano-o HP:927/927 MP:162/184
+D-Mokoi HP:74/74 MP:36/36
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Ometeotl HP:324/324 MP:315/315
+C-Pale Rider HP:693/693 MP:310/310
+D-Lord Nan Dou HP:394/549 MP:108/108
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mokoi
+2-Susano-o
+3-Joker
+4-Raphael
+----------------------------------------
+Seleccione una acción para Mokoi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Enku HP:235/235 MP:228/228
+2-Sandman HP:113/113 MP:108/108
+3-Centaur HP:104/104 MP:19/19
+4-Tam Lin HP:218/218 MP:43/43
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Centaur ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Raphael HP:623/623 MP:263/279
+C-Susano-o HP:927/927 MP:162/184
+D-Centaur HP:104/104 MP:19/19
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Ometeotl HP:324/324 MP:315/315
+C-Pale Rider HP:693/693 MP:310/310
+D-Lord Nan Dou HP:394/549 MP:108/108
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Susano-o
+2-Joker
+3-Raphael
+4-Centaur
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Raphael HP:623/623 MP:263/279
+C-Susano-o HP:927/927 MP:162/184
+D-Centaur HP:104/104 MP:19/19
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Ometeotl HP:324/324 MP:315/315
+C-Pale Rider HP:693/693 MP:310/310
+D-Lord Nan Dou HP:394/549 MP:108/108
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Raphael
+3-Centaur
+4-Susano-o
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Enku HP:235/235 MP:228/228
+2-Mokoi HP:74/74 MP:36/36
+3-Sandman HP:113/113 MP:108/108
+4-Tam Lin HP:218/218 MP:43/43
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una posición para invocar
+1-Raphael HP:623/623 MP:263/279 (Puesto 2)
+2-Susano-o HP:927/927 MP:162/184 (Puesto 3)
+3-Centaur HP:104/104 MP:19/19 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Tathlum Shot MP:7
+2-Sabbatma MP:20
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Enku HP:235/235 MP:228/228
+2-Mokoi HP:74/74 MP:36/36
+3-Sandman HP:113/113 MP:108/108
+4-Tam Lin HP:218/218 MP:43/43
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Raphael HP:623/623 MP:263/279 (Puesto 2)
+2-Susano-o HP:927/927 MP:162/184 (Puesto 3)
+3-Centaur HP:104/104 MP:19/19 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Mokoi ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:327/347
+B-Raphael HP:623/623 MP:263/279
+C-Mokoi HP:74/74 MP:36/36
+D-Centaur HP:104/104 MP:19/19
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Ometeotl HP:324/324 MP:315/315
+C-Pale Rider HP:693/693 MP:310/310
+D-Lord Nan Dou HP:394/549 MP:108/108
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Yu
+3-Lord Nan Dou
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pale Rider use
+1-Pandemic Bomb MP:11
+2-Death's Door MP:10
+3-Deadly Wind MP:22
+4-Debilitate MP:50
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Joker HP:597/597 MP:327/347
+2-Raphael HP:623/623 MP:263/279
+3-Mokoi HP:74/74 MP:36/36
+4-Centaur HP:104/104 MP:19/19
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Pale Rider lanza viento a Joker
+Joker recibe 168 de daño
+Joker termina con HP:429/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:429/597 MP:327/347
+B-Raphael HP:623/623 MP:263/279
+C-Mokoi HP:74/74 MP:36/36
+D-Centaur HP:104/104 MP:19/19
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Ometeotl HP:324/324 MP:315/315
+C-Pale Rider HP:693/693 MP:288/310
+D-Lord Nan Dou HP:394/549 MP:108/108
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Lord Nan Dou
+3-Ometeotl
+4-Pale Rider
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Recarm MP:20
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:429/597 MP:327/347
+B-Raphael HP:623/623 MP:263/279
+C-Mokoi HP:74/74 MP:36/36
+D-Centaur HP:104/104 MP:19/19
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Ometeotl HP:324/324 MP:315/315
+C-Pale Rider HP:693/693 MP:288/310
+D-Lord Nan Dou HP:394/549 MP:108/108
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Ometeotl
+3-Pale Rider
+4-Yu
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Fortuna HP:147/147 MP:66/66
+2-Lailah HP:212/212 MP:205/205
+3-Red Rider HP:917/917 MP:183/183
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Red Rider ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:429/597 MP:327/347
+B-Raphael HP:623/623 MP:263/279
+C-Mokoi HP:74/74 MP:36/36
+D-Centaur HP:104/104 MP:19/19
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Ometeotl HP:324/324 MP:315/315
+C-Pale Rider HP:693/693 MP:288/310
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Pale Rider
+3-Yu
+4-Red Rider
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lord Nan Dou HP:394/549 MP:108/108
+2-Fortuna HP:147/147 MP:66/66
+3-Lailah HP:212/212 MP:205/205
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Fortuna ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:429/597 MP:327/347
+B-Raphael HP:623/623 MP:263/279
+C-Mokoi HP:74/74 MP:36/36
+D-Centaur HP:104/104 MP:19/19
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Fortuna HP:147/147 MP:66/66
+C-Pale Rider HP:693/693 MP:288/310
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Yu
+3-Red Rider
+4-Fortuna
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pale Rider use
+1-Pandemic Bomb MP:11
+2-Death's Door MP:10
+3-Deadly Wind MP:22
+4-Debilitate MP:50
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Joker HP:429/597 MP:327/347
+2-Raphael HP:623/623 MP:263/279
+3-Mokoi HP:74/74 MP:36/36
+4-Centaur HP:104/104 MP:19/19
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Pale Rider ataca a Joker
+Joker recibe 58 de daño
+Joker termina con HP:371/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:371/597 MP:327/347
+B-Raphael HP:623/623 MP:263/279
+C-Mokoi HP:74/74 MP:36/36
+D-Centaur HP:104/104 MP:19/19
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Fortuna HP:147/147 MP:66/66
+C-Pale Rider HP:693/693 MP:288/310
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Red Rider
+3-Fortuna
+4-Pale Rider
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Joker HP:371/597 MP:327/347
+2-Raphael HP:623/623 MP:263/279
+3-Mokoi HP:74/74 MP:36/36
+4-Centaur HP:104/104 MP:19/19
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Yu dispara a Joker
+Joker recibe 72 de daño
+Joker termina con HP:299/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:299/597 MP:327/347
+B-Raphael HP:623/623 MP:263/279
+C-Mokoi HP:74/74 MP:36/36
+D-Centaur HP:104/104 MP:19/19
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Fortuna HP:147/147 MP:66/66
+C-Pale Rider HP:693/693 MP:288/310
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Joker
+3-Centaur
+4-Mokoi
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Enku HP:235/235 MP:228/228
+2-Susano-o HP:927/927 MP:162/184
+3-Sandman HP:113/113 MP:108/108
+4-Tam Lin HP:218/218 MP:43/43
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Raphael use
+1-God's Tornado MP:50
+2-Diarahan MP:16
+3-Stigma Attack MP:20
+4-Serpent of Sheol MP:45
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Yu HP:597/597 MP:347/347
+2-Fortuna HP:147/147 MP:66/66
+3-Pale Rider HP:693/693 MP:288/310
+4-Red Rider HP:917/917 MP:183/183
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Raphael ataca a Yu
+Yu es resistente el ataque de Raphael
+Yu recibe 26 de daño
+Yu termina con HP:571/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:299/597 MP:327/347
+B-Raphael HP:623/623 MP:263/279
+C-Mokoi HP:74/74 MP:36/36
+D-Centaur HP:104/104 MP:19/19
+Equipo de Yu (J2)
+A-Yu HP:571/597 MP:347/347
+B-Fortuna HP:147/147 MP:66/66
+C-Pale Rider HP:693/693 MP:288/310
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Centaur
+3-Mokoi
+4-Raphael
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Yu HP:571/597 MP:347/347
+2-Fortuna HP:147/147 MP:66/66
+3-Pale Rider HP:693/693 MP:288/310
+4-Red Rider HP:917/917 MP:183/183
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Joker ataca a Pale Rider
+Pale Rider recibe 28 de daño
+Pale Rider termina con HP:665/693
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:299/597 MP:327/347
+B-Raphael HP:623/623 MP:263/279
+C-Mokoi HP:74/74 MP:36/36
+D-Centaur HP:104/104 MP:19/19
+Equipo de Yu (J2)
+A-Yu HP:571/597 MP:347/347
+B-Fortuna HP:147/147 MP:66/66
+C-Pale Rider HP:665/693 MP:288/310
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Centaur
+2-Mokoi
+3-Raphael
+4-Joker
+----------------------------------------
+Seleccione una acción para Centaur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Enku HP:235/235 MP:228/228
+2-Susano-o HP:927/927 MP:162/184
+3-Sandman HP:113/113 MP:108/108
+4-Tam Lin HP:218/218 MP:43/43
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Susano-o ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:299/597 MP:327/347
+B-Raphael HP:623/623 MP:263/279
+C-Mokoi HP:74/74 MP:36/36
+D-Susano-o HP:927/927 MP:162/184
+Equipo de Yu (J2)
+A-Yu HP:571/597 MP:347/347
+B-Fortuna HP:147/147 MP:66/66
+C-Pale Rider HP:665/693 MP:288/310
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mokoi
+2-Raphael
+3-Joker
+4-Susano-o
+----------------------------------------
+Seleccione una acción para Mokoi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mokoi use
+1-Zio MP:5
+2-Dream Fist MP:9
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mokoi
+1-Yu HP:571/597 MP:347/347
+2-Fortuna HP:147/147 MP:66/66
+3-Pale Rider HP:665/693 MP:288/310
+4-Red Rider HP:917/917 MP:183/183
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Mokoi lanza electricidad a Fortuna
+Fortuna recibe 20 de daño
+Fortuna termina con HP:127/147
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:299/597 MP:327/347
+B-Raphael HP:623/623 MP:263/279
+C-Mokoi HP:74/74 MP:31/36
+D-Susano-o HP:927/927 MP:162/184
+Equipo de Yu (J2)
+A-Yu HP:571/597 MP:347/347
+B-Fortuna HP:127/147 MP:66/66
+C-Pale Rider HP:665/693 MP:288/310
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Joker
+3-Susano-o
+4-Mokoi
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Enku HP:235/235 MP:228/228
+2-Sandman HP:113/113 MP:108/108
+3-Centaur HP:104/104 MP:19/19
+4-Tam Lin HP:218/218 MP:43/43
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Enku HP:235/235 MP:228/228
+2-Sandman HP:113/113 MP:108/108
+3-Centaur HP:104/104 MP:19/19
+4-Tam Lin HP:218/218 MP:43/43
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Enku ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:299/597 MP:327/347
+B-Enku HP:235/235 MP:228/228
+C-Mokoi HP:74/74 MP:31/36
+D-Susano-o HP:927/927 MP:162/184
+Equipo de Yu (J2)
+A-Yu HP:571/597 MP:347/347
+B-Fortuna HP:127/147 MP:66/66
+C-Pale Rider HP:665/693 MP:288/310
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Susano-o
+3-Mokoi
+4-Enku
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Yu HP:571/597 MP:347/347
+2-Fortuna HP:127/147 MP:66/66
+3-Pale Rider HP:665/693 MP:288/310
+4-Red Rider HP:917/917 MP:183/183
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Tathlum Shot MP:7
+2-Sabbatma MP:20
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sandman HP:113/113 MP:108/108
+2-Raphael HP:623/623 MP:263/279
+3-Centaur HP:104/104 MP:19/19
+4-Tam Lin HP:218/218 MP:43/43
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Enku HP:235/235 MP:228/228 (Puesto 2)
+2-Mokoi HP:74/74 MP:31/36 (Puesto 3)
+3-Susano-o HP:927/927 MP:162/184 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Sandman ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:299/597 MP:307/347
+B-Enku HP:235/235 MP:228/228
+C-Mokoi HP:74/74 MP:31/36
+D-Sandman HP:113/113 MP:108/108
+Equipo de Yu (J2)
+A-Yu HP:571/597 MP:347/347
+B-Fortuna HP:127/147 MP:66/66
+C-Pale Rider HP:665/693 MP:288/310
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Red Rider
+3-Yu
+4-Fortuna
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ometeotl HP:324/324 MP:315/315
+2-Lord Nan Dou HP:394/549 MP:108/108
+3-Lailah HP:212/212 MP:205/205
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Ometeotl ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:299/597 MP:307/347
+B-Enku HP:235/235 MP:228/228
+C-Mokoi HP:74/74 MP:31/36
+D-Sandman HP:113/113 MP:108/108
+Equipo de Yu (J2)
+A-Yu HP:571/597 MP:347/347
+B-Fortuna HP:127/147 MP:66/66
+C-Ometeotl HP:324/324 MP:315/315
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Red Rider
+2-Yu
+3-Fortuna
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Red Rider
+1-Joker HP:299/597 MP:307/347
+2-Enku HP:235/235 MP:228/228
+3-Mokoi HP:74/74 MP:31/36
+4-Sandman HP:113/113 MP:108/108
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Red Rider ataca a Sandman
+Sandman recibe 71 de daño
+Sandman termina con HP:42/113
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:299/597 MP:307/347
+B-Enku HP:235/235 MP:228/228
+C-Mokoi HP:74/74 MP:31/36
+D-Sandman HP:42/113 MP:108/108
+Equipo de Yu (J2)
+A-Yu HP:571/597 MP:347/347
+B-Fortuna HP:127/147 MP:66/66
+C-Ometeotl HP:324/324 MP:315/315
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Fortuna
+3-Ometeotl
+4-Red Rider
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Joker HP:299/597 MP:307/347
+2-Enku HP:235/235 MP:228/228
+3-Mokoi HP:74/74 MP:31/36
+4-Sandman HP:42/113 MP:108/108
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Yu ataca a Enku
+Enku recibe 49 de daño
+Enku termina con HP:186/235
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:299/597 MP:307/347
+B-Enku HP:186/235 MP:228/228
+C-Mokoi HP:74/74 MP:31/36
+D-Sandman HP:42/113 MP:108/108
+Equipo de Yu (J2)
+A-Yu HP:571/597 MP:347/347
+B-Fortuna HP:127/147 MP:66/66
+C-Ometeotl HP:324/324 MP:315/315
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Fortuna
+2-Ometeotl
+3-Red Rider
+4-Yu
+----------------------------------------
+Seleccione una acción para Fortuna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Fortuna use
+1-Zan MP:5
+2-Media MP:12
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Fortuna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Fortuna use
+1-Zan MP:5
+2-Media MP:12
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Fortuna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Fortuna use
+1-Zan MP:5
+2-Media MP:12
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Fortuna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Pale Rider HP:665/693 MP:288/310
+2-Lord Nan Dou HP:394/549 MP:108/108
+3-Lailah HP:212/212 MP:205/205
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Lord Nan Dou ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:299/597 MP:307/347
+B-Enku HP:186/235 MP:228/228
+C-Mokoi HP:74/74 MP:31/36
+D-Sandman HP:42/113 MP:108/108
+Equipo de Yu (J2)
+A-Yu HP:571/597 MP:347/347
+B-Lord Nan Dou HP:394/549 MP:108/108
+C-Ometeotl HP:324/324 MP:315/315
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Red Rider
+3-Yu
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ometeotl use
+1-Agidyne MP:14
+2-Recarmdra MP:2
+3-Bufudyne MP:14
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Joker HP:299/597 MP:307/347
+2-Enku HP:186/235 MP:228/228
+3-Mokoi HP:74/74 MP:31/36
+4-Sandman HP:42/113 MP:108/108
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Ometeotl lanza fuego a Enku
+Enku absorbe 130 daño
+Enku termina con HP:235/235
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:299/597 MP:307/347
+B-Enku HP:235/235 MP:228/228
+C-Mokoi HP:74/74 MP:31/36
+D-Sandman HP:42/113 MP:108/108
+Equipo de Yu (J2)
+A-Yu HP:571/597 MP:347/347
+B-Lord Nan Dou HP:394/549 MP:108/108
+C-Ometeotl HP:324/324 MP:301/315
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Enku
+3-Sandman
+4-Mokoi
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Yu HP:571/597 MP:347/347
+2-Lord Nan Dou HP:394/549 MP:108/108
+3-Ometeotl HP:324/324 MP:301/315
+4-Red Rider HP:917/917 MP:183/183
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Yu HP:571/597 MP:347/347
+2-Lord Nan Dou HP:394/549 MP:108/108
+3-Ometeotl HP:324/324 MP:301/315
+4-Red Rider HP:917/917 MP:183/183
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Joker dispara a Ometeotl
+Ometeotl recibe 39 de daño
+Ometeotl termina con HP:285/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:299/597 MP:307/347
+B-Enku HP:235/235 MP:228/228
+C-Mokoi HP:74/74 MP:31/36
+D-Sandman HP:42/113 MP:108/108
+Equipo de Yu (J2)
+A-Yu HP:571/597 MP:347/347
+B-Lord Nan Dou HP:394/549 MP:108/108
+C-Ometeotl HP:285/324 MP:301/315
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Sandman
+3-Mokoi
+4-Joker
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Enku use
+1-Fire Breath MP:21
+2-Damascus Claw MP:7
+3-Energy Drain MP:10
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Yu HP:571/597 MP:347/347
+2-Lord Nan Dou HP:394/549 MP:108/108
+3-Ometeotl HP:285/324 MP:301/315
+4-Red Rider HP:917/917 MP:183/183
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Enku ataca a Ometeotl
+Ometeotl recibe 74 de daño
+Enku ataca a Ometeotl
+Ometeotl recibe 74 de daño
+Enku ataca a Ometeotl
+Ometeotl recibe 74 de daño
+Ometeotl termina con HP:63/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:299/597 MP:307/347
+B-Enku HP:235/235 MP:221/228
+C-Mokoi HP:74/74 MP:31/36
+D-Sandman HP:42/113 MP:108/108
+Equipo de Yu (J2)
+A-Yu HP:571/597 MP:347/347
+B-Lord Nan Dou HP:394/549 MP:108/108
+C-Ometeotl HP:63/324 MP:301/315
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sandman
+2-Mokoi
+3-Joker
+4-Enku
+----------------------------------------
+Seleccione una acción para Sandman
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Susano-o HP:927/927 MP:162/184
+2-Raphael HP:623/623 MP:263/279
+3-Centaur HP:104/104 MP:19/19
+4-Tam Lin HP:218/218 MP:43/43
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Centaur ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:299/597 MP:307/347
+B-Enku HP:235/235 MP:221/228
+C-Mokoi HP:74/74 MP:31/36
+D-Centaur HP:104/104 MP:19/19
+Equipo de Yu (J2)
+A-Yu HP:571/597 MP:347/347
+B-Lord Nan Dou HP:394/549 MP:108/108
+C-Ometeotl HP:63/324 MP:301/315
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mokoi
+2-Joker
+3-Enku
+4-Centaur
+----------------------------------------
+Seleccione una acción para Mokoi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mokoi
+1-Yu HP:571/597 MP:347/347
+2-Lord Nan Dou HP:394/549 MP:108/108
+3-Ometeotl HP:63/324 MP:301/315
+4-Red Rider HP:917/917 MP:183/183
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Mokoi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Susano-o HP:927/927 MP:162/184
+2-Sandman HP:42/113 MP:108/108
+3-Raphael HP:623/623 MP:263/279
+4-Tam Lin HP:218/218 MP:43/43
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Susano-o ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:299/597 MP:307/347
+B-Enku HP:235/235 MP:221/228
+C-Susano-o HP:927/927 MP:162/184
+D-Centaur HP:104/104 MP:19/19
+Equipo de Yu (J2)
+A-Yu HP:571/597 MP:347/347
+B-Lord Nan Dou HP:394/549 MP:108/108
+C-Ometeotl HP:63/324 MP:301/315
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Enku
+3-Centaur
+4-Susano-o
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Tathlum Shot MP:7
+2-Sabbatma MP:20
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Yu HP:571/597 MP:347/347
+2-Lord Nan Dou HP:394/549 MP:108/108
+3-Ometeotl HP:63/324 MP:301/315
+4-Red Rider HP:917/917 MP:183/183
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Joker ataca a Lord Nan Dou
+Lord Nan Dou recibe 28 de daño
+Lord Nan Dou termina con HP:366/549
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:299/597 MP:307/347
+B-Enku HP:235/235 MP:221/228
+C-Susano-o HP:927/927 MP:162/184
+D-Centaur HP:104/104 MP:19/19
+Equipo de Yu (J2)
+A-Yu HP:571/597 MP:347/347
+B-Lord Nan Dou HP:366/549 MP:108/108
+C-Ometeotl HP:63/324 MP:301/315
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Red Rider
+2-Yu
+3-Lord Nan Dou
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Red Rider
+1-Joker HP:299/597 MP:307/347
+2-Enku HP:235/235 MP:221/228
+3-Susano-o HP:927/927 MP:162/184
+4-Centaur HP:104/104 MP:19/19
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Red Rider ataca a Susano-o
+Susano-o es resistente el ataque de Red Rider
+Susano-o recibe 35 de daño
+Susano-o termina con HP:892/927
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:299/597 MP:307/347
+B-Enku HP:235/235 MP:221/228
+C-Susano-o HP:892/927 MP:162/184
+D-Centaur HP:104/104 MP:19/19
+Equipo de Yu (J2)
+A-Yu HP:571/597 MP:347/347
+B-Lord Nan Dou HP:366/549 MP:108/108
+C-Ometeotl HP:63/324 MP:301/315
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Lord Nan Dou
+3-Ometeotl
+4-Red Rider
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Recarm MP:20
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Joker HP:299/597 MP:307/347
+2-Enku HP:235/235 MP:221/228
+3-Susano-o HP:892/927 MP:162/184
+4-Centaur HP:104/104 MP:19/19
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Joker
+Joker recibe 49 de daño
+Joker termina con HP:250/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:250/597 MP:307/347
+B-Enku HP:235/235 MP:221/228
+C-Susano-o HP:892/927 MP:162/184
+D-Centaur HP:104/104 MP:19/19
+Equipo de Yu (J2)
+A-Yu HP:571/597 MP:347/347
+B-Lord Nan Dou HP:366/549 MP:108/108
+C-Ometeotl HP:63/324 MP:301/315
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Ometeotl
+3-Red Rider
+4-Yu
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:250/597 MP:307/347
+B-Enku HP:235/235 MP:221/228
+C-Susano-o HP:892/927 MP:162/184
+D-Centaur HP:104/104 MP:19/19
+Equipo de Yu (J2)
+A-Yu HP:571/597 MP:347/347
+B-Lord Nan Dou HP:366/549 MP:108/108
+C-Ometeotl HP:63/324 MP:301/315
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Red Rider
+3-Yu
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Pale Rider HP:665/693 MP:288/310
+2-Fortuna HP:127/147 MP:66/66
+3-Lailah HP:212/212 MP:205/205
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Pale Rider ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:250/597 MP:307/347
+B-Enku HP:235/235 MP:221/228
+C-Susano-o HP:892/927 MP:162/184
+D-Centaur HP:104/104 MP:19/19
+Equipo de Yu (J2)
+A-Yu HP:571/597 MP:347/347
+B-Lord Nan Dou HP:366/549 MP:108/108
+C-Pale Rider HP:665/693 MP:288/310
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Red Rider
+2-Yu
+3-Lord Nan Dou
+4-Pale Rider
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:250/597 MP:307/347
+B-Enku HP:235/235 MP:221/228
+C-Susano-o HP:892/927 MP:162/184
+D-Centaur HP:104/104 MP:19/19
+Equipo de Yu (J2)
+A-Yu HP:571/597 MP:347/347
+B-Lord Nan Dou HP:366/549 MP:108/108
+C-Pale Rider HP:665/693 MP:288/310
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Lord Nan Dou
+3-Pale Rider
+4-Red Rider
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Joker HP:250/597 MP:307/347
+2-Enku HP:235/235 MP:221/228
+3-Susano-o HP:892/927 MP:162/184
+4-Centaur HP:104/104 MP:19/19
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Joker
+Joker recibe 49 de daño
+Joker termina con HP:201/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:201/597 MP:307/347
+B-Enku HP:235/235 MP:221/228
+C-Susano-o HP:892/927 MP:162/184
+D-Centaur HP:104/104 MP:19/19
+Equipo de Yu (J2)
+A-Yu HP:571/597 MP:347/347
+B-Lord Nan Dou HP:366/549 MP:108/108
+C-Pale Rider HP:665/693 MP:288/310
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Susano-o
+2-Joker
+3-Enku
+4-Centaur
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:201/597 MP:307/347
+B-Enku HP:235/235 MP:221/228
+C-Susano-o HP:892/927 MP:162/184
+D-Centaur HP:104/104 MP:19/19
+Equipo de Yu (J2)
+A-Yu HP:571/597 MP:347/347
+B-Lord Nan Dou HP:366/549 MP:108/108
+C-Pale Rider HP:665/693 MP:288/310
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Enku
+3-Centaur
+4-Susano-o
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mokoi HP:74/74 MP:31/36
+2-Sandman HP:42/113 MP:108/108
+3-Raphael HP:623/623 MP:263/279
+4-Tam Lin HP:218/218 MP:43/43
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Enku HP:235/235 MP:221/228 (Puesto 2)
+2-Susano-o HP:892/927 MP:162/184 (Puesto 3)
+3-Centaur HP:104/104 MP:19/19 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Raphael ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:201/597 MP:307/347
+B-Raphael HP:623/623 MP:263/279
+C-Susano-o HP:892/927 MP:162/184
+D-Centaur HP:104/104 MP:19/19
+Equipo de Yu (J2)
+A-Yu HP:571/597 MP:347/347
+B-Lord Nan Dou HP:366/549 MP:108/108
+C-Pale Rider HP:665/693 MP:288/310
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Centaur
+3-Susano-o
+4-Joker
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Raphael use
+1-God's Tornado MP:50
+2-Diarahan MP:16
+3-Stigma Attack MP:20
+4-Serpent of Sheol MP:45
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Yu HP:571/597 MP:347/347
+2-Lord Nan Dou HP:366/549 MP:108/108
+3-Pale Rider HP:665/693 MP:288/310
+4-Red Rider HP:917/917 MP:183/183
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Raphael ataca a Yu
+Yu es resistente el ataque de Raphael
+Yu recibe 81 de daño
+Yu termina con HP:490/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:201/597 MP:307/347
+B-Raphael HP:623/623 MP:243/279
+C-Susano-o HP:892/927 MP:162/184
+D-Centaur HP:104/104 MP:19/19
+Equipo de Yu (J2)
+A-Yu HP:490/597 MP:347/347
+B-Lord Nan Dou HP:366/549 MP:108/108
+C-Pale Rider HP:665/693 MP:288/310
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Centaur
+2-Susano-o
+3-Joker
+4-Raphael
+----------------------------------------
+Seleccione una acción para Centaur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Enku HP:235/235 MP:221/228
+2-Mokoi HP:74/74 MP:31/36
+3-Sandman HP:42/113 MP:108/108
+4-Tam Lin HP:218/218 MP:43/43
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Sandman ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:201/597 MP:307/347
+B-Raphael HP:623/623 MP:243/279
+C-Susano-o HP:892/927 MP:162/184
+D-Sandman HP:42/113 MP:108/108
+Equipo de Yu (J2)
+A-Yu HP:490/597 MP:347/347
+B-Lord Nan Dou HP:366/549 MP:108/108
+C-Pale Rider HP:665/693 MP:288/310
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Susano-o
+2-Joker
+3-Raphael
+4-Sandman
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:201/597 MP:307/347
+B-Raphael HP:623/623 MP:243/279
+C-Susano-o HP:892/927 MP:162/184
+D-Sandman HP:42/113 MP:108/108
+Equipo de Yu (J2)
+A-Yu HP:490/597 MP:347/347
+B-Lord Nan Dou HP:366/549 MP:108/108
+C-Pale Rider HP:665/693 MP:288/310
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Raphael
+3-Sandman
+4-Susano-o
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Yu HP:490/597 MP:347/347
+2-Lord Nan Dou HP:366/549 MP:108/108
+3-Pale Rider HP:665/693 MP:288/310
+4-Red Rider HP:917/917 MP:183/183
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Joker ataca a Red Rider
+Red Rider recibe 28 de daño
+Red Rider termina con HP:889/917
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:201/597 MP:307/347
+B-Raphael HP:623/623 MP:243/279
+C-Susano-o HP:892/927 MP:162/184
+D-Sandman HP:42/113 MP:108/108
+Equipo de Yu (J2)
+A-Yu HP:490/597 MP:347/347
+B-Lord Nan Dou HP:366/549 MP:108/108
+C-Pale Rider HP:665/693 MP:288/310
+D-Red Rider HP:889/917 MP:183/183
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Red Rider
+3-Yu
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Joker HP:201/597 MP:307/347
+2-Raphael HP:623/623 MP:243/279
+3-Susano-o HP:892/927 MP:162/184
+4-Sandman HP:42/113 MP:108/108
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Pale Rider ataca a Susano-o
+Susano-o es resistente el ataque de Pale Rider
+Susano-o recibe 29 de daño
+Susano-o termina con HP:863/927
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:201/597 MP:307/347
+B-Raphael HP:623/623 MP:243/279
+C-Susano-o HP:863/927 MP:162/184
+D-Sandman HP:42/113 MP:108/108
+Equipo de Yu (J2)
+A-Yu HP:490/597 MP:347/347
+B-Lord Nan Dou HP:366/549 MP:108/108
+C-Pale Rider HP:665/693 MP:288/310
+D-Red Rider HP:889/917 MP:183/183
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Red Rider
+2-Yu
+3-Lord Nan Dou
+4-Pale Rider
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:201/597 MP:307/347
+B-Raphael HP:623/623 MP:243/279
+C-Susano-o HP:863/927 MP:162/184
+D-Sandman HP:42/113 MP:108/108
+Equipo de Yu (J2)
+A-Yu HP:490/597 MP:347/347
+B-Lord Nan Dou HP:366/549 MP:108/108
+C-Pale Rider HP:665/693 MP:288/310
+D-Red Rider HP:889/917 MP:183/183
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Lord Nan Dou
+3-Pale Rider
+4-Red Rider
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Joker HP:201/597 MP:307/347
+2-Raphael HP:623/623 MP:243/279
+3-Susano-o HP:863/927 MP:162/184
+4-Sandman HP:42/113 MP:108/108
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Yu ataca a Raphael
+Raphael recibe 49 de daño
+Raphael termina con HP:574/623
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:201/597 MP:307/347
+B-Raphael HP:574/623 MP:243/279
+C-Susano-o HP:863/927 MP:162/184
+D-Sandman HP:42/113 MP:108/108
+Equipo de Yu (J2)
+A-Yu HP:490/597 MP:347/347
+B-Lord Nan Dou HP:366/549 MP:108/108
+C-Pale Rider HP:665/693 MP:288/310
+D-Red Rider HP:889/917 MP:183/183
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Pale Rider
+3-Red Rider
+4-Yu
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lord Nan Dou use
+1-Maragidyne MP:32
+2-Berserker God MP:12
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lord Nan Dou use
+1-Maragidyne MP:32
+2-Berserker God MP:12
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:201/597 MP:307/347
+B-Raphael HP:574/623 MP:243/279
+C-Susano-o HP:863/927 MP:162/184
+D-Sandman HP:42/113 MP:108/108
+Equipo de Yu (J2)
+A-Yu HP:490/597 MP:347/347
+B-Lord Nan Dou HP:366/549 MP:108/108
+C-Pale Rider HP:665/693 MP:288/310
+D-Red Rider HP:889/917 MP:183/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Red Rider
+3-Yu
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Joker HP:201/597 MP:307/347
+2-Raphael HP:574/623 MP:243/279
+3-Susano-o HP:863/927 MP:162/184
+4-Sandman HP:42/113 MP:108/108
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Pale Rider ataca a Sandman
+Sandman recibe 58 de daño
+Sandman termina con HP:0/113
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:201/597 MP:307/347
+B-Raphael HP:574/623 MP:243/279
+C-Susano-o HP:863/927 MP:162/184
+D-
+Equipo de Yu (J2)
+A-Yu HP:490/597 MP:347/347
+B-Lord Nan Dou HP:366/549 MP:108/108
+C-Pale Rider HP:665/693 MP:288/310
+D-Red Rider HP:889/917 MP:183/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Red Rider
+2-Yu
+3-Lord Nan Dou
+4-Pale Rider
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Red Rider
+1-Joker HP:201/597 MP:307/347
+2-Raphael HP:574/623 MP:243/279
+3-Susano-o HP:863/927 MP:162/184
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Red Rider ataca a Joker
+Joker recibe 71 de daño
+Joker termina con HP:130/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:130/597 MP:307/347
+B-Raphael HP:574/623 MP:243/279
+C-Susano-o HP:863/927 MP:162/184
+D-
+Equipo de Yu (J2)
+A-Yu HP:490/597 MP:347/347
+B-Lord Nan Dou HP:366/549 MP:108/108
+C-Pale Rider HP:665/693 MP:288/310
+D-Red Rider HP:889/917 MP:183/183
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Susano-o
+2-Raphael
+3-Joker
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Susano-o use
+1-Hades Blast MP:32
+2-Deadly Wind MP:22
+3-Sea of Chaos MP:45
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:130/597 MP:307/347
+B-Raphael HP:574/623 MP:243/279
+C-Susano-o HP:863/927 MP:162/184
+D-
+Equipo de Yu (J2)
+A-Yu HP:490/597 MP:347/347
+B-Lord Nan Dou HP:366/549 MP:108/108
+C-Pale Rider HP:665/693 MP:288/310
+D-Red Rider HP:889/917 MP:183/183
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Raphael
+2-Joker
+3-Susano-o
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Yu HP:490/597 MP:347/347
+2-Lord Nan Dou HP:366/549 MP:108/108
+3-Pale Rider HP:665/693 MP:288/310
+4-Red Rider HP:889/917 MP:183/183
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Raphael ataca a Yu
+Yu es resistente el ataque de Raphael
+Yu recibe 26 de daño
+Yu termina con HP:464/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:130/597 MP:307/347
+B-Raphael HP:574/623 MP:243/279
+C-Susano-o HP:863/927 MP:162/184
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:347/347
+B-Lord Nan Dou HP:366/549 MP:108/108
+C-Pale Rider HP:665/693 MP:288/310
+D-Red Rider HP:889/917 MP:183/183
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Susano-o
+3-Raphael
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:130/597 MP:307/347
+B-Raphael HP:574/623 MP:243/279
+C-Susano-o HP:863/927 MP:162/184
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:347/347
+B-Lord Nan Dou HP:366/549 MP:108/108
+C-Pale Rider HP:665/693 MP:288/310
+D-Red Rider HP:889/917 MP:183/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Susano-o
+2-Raphael
+3-Joker
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:130/597 MP:307/347
+B-Raphael HP:574/623 MP:243/279
+C-Susano-o HP:863/927 MP:162/184
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:347/347
+B-Lord Nan Dou HP:366/549 MP:108/108
+C-Pale Rider HP:665/693 MP:288/310
+D-Red Rider HP:889/917 MP:183/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Joker
+3-Susano-o
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Yu HP:464/597 MP:347/347
+2-Lord Nan Dou HP:366/549 MP:108/108
+3-Pale Rider HP:665/693 MP:288/310
+4-Red Rider HP:889/917 MP:183/183
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Raphael ataca a Lord Nan Dou
+Lord Nan Dou recibe 52 de daño
+Lord Nan Dou termina con HP:314/549
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:130/597 MP:307/347
+B-Raphael HP:574/623 MP:243/279
+C-Susano-o HP:863/927 MP:162/184
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:347/347
+B-Lord Nan Dou HP:314/549 MP:108/108
+C-Pale Rider HP:665/693 MP:288/310
+D-Red Rider HP:889/917 MP:183/183
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Red Rider
+3-Yu
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pale Rider use
+1-Pandemic Bomb MP:11
+2-Death's Door MP:10
+3-Deadly Wind MP:22
+4-Debilitate MP:50
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Joker HP:130/597 MP:307/347
+2-Raphael HP:574/623 MP:243/279
+3-Susano-o HP:863/927 MP:162/184
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Pale Rider lanza viento a Susano-o
+Susano-o devuelve 168 daño a Pale Rider
+Pale Rider termina con HP:497/693
+----------------------------------------
+Se han consumido 4 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:130/597 MP:307/347
+B-Raphael HP:574/623 MP:243/279
+C-Susano-o HP:863/927 MP:162/184
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:347/347
+B-Lord Nan Dou HP:314/549 MP:108/108
+C-Pale Rider HP:497/693 MP:266/310
+D-Red Rider HP:889/917 MP:183/183
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Susano-o
+2-Raphael
+3-Joker
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Enku HP:235/235 MP:221/228
+2-Mokoi HP:74/74 MP:31/36
+3-Centaur HP:104/104 MP:19/19
+4-Tam Lin HP:218/218 MP:43/43
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Susano-o use
+1-Hades Blast MP:32
+2-Deadly Wind MP:22
+3-Sea of Chaos MP:45
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Susano-o use
+1-Hades Blast MP:32
+2-Deadly Wind MP:22
+3-Sea of Chaos MP:45
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Susano-o
+1-Yu HP:464/597 MP:347/347
+2-Lord Nan Dou HP:314/549 MP:108/108
+3-Pale Rider HP:497/693 MP:266/310
+4-Red Rider HP:889/917 MP:183/183
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Susano-o lanza viento a Lord Nan Dou
+Lord Nan Dou recibe 155 de daño
+Lord Nan Dou termina con HP:159/549
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:130/597 MP:307/347
+B-Raphael HP:574/623 MP:243/279
+C-Susano-o HP:863/927 MP:140/184
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:347/347
+B-Lord Nan Dou HP:159/549 MP:108/108
+C-Pale Rider HP:497/693 MP:266/310
+D-Red Rider HP:889/917 MP:183/183
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Joker
+3-Susano-o
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Yu HP:464/597 MP:347/347
+2-Lord Nan Dou HP:159/549 MP:108/108
+3-Pale Rider HP:497/693 MP:266/310
+4-Red Rider HP:889/917 MP:183/183
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Raphael ataca a Red Rider
+Red Rider recibe 52 de daño
+Red Rider termina con HP:837/917
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:130/597 MP:307/347
+B-Raphael HP:574/623 MP:243/279
+C-Susano-o HP:863/927 MP:140/184
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:347/347
+B-Lord Nan Dou HP:159/549 MP:108/108
+C-Pale Rider HP:497/693 MP:266/310
+D-Red Rider HP:837/917 MP:183/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Susano-o
+3-Raphael
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Enku HP:235/235 MP:221/228
+2-Mokoi HP:74/74 MP:31/36
+3-Centaur HP:104/104 MP:19/19
+4-Tam Lin HP:218/218 MP:43/43
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Raphael HP:574/623 MP:243/279 (Puesto 2)
+2-Susano-o HP:863/927 MP:140/184 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Centaur ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:130/597 MP:307/347
+B-Raphael HP:574/623 MP:243/279
+C-Centaur HP:104/104 MP:19/19
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:347/347
+B-Lord Nan Dou HP:159/549 MP:108/108
+C-Pale Rider HP:497/693 MP:266/310
+D-Red Rider HP:837/917 MP:183/183
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Centaur
+2-Raphael
+3-Joker
+----------------------------------------
+Seleccione una acción para Centaur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:130/597 MP:307/347
+B-Raphael HP:574/623 MP:243/279
+C-Centaur HP:104/104 MP:19/19
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:347/347
+B-Lord Nan Dou HP:159/549 MP:108/108
+C-Pale Rider HP:497/693 MP:266/310
+D-Red Rider HP:837/917 MP:183/183
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Red Rider
+3-Yu
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ometeotl HP:63/324 MP:301/315
+2-Fortuna HP:127/147 MP:66/66
+3-Lailah HP:212/212 MP:205/205
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Lailah ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:130/597 MP:307/347
+B-Raphael HP:574/623 MP:243/279
+C-Centaur HP:104/104 MP:19/19
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:347/347
+B-Lord Nan Dou HP:159/549 MP:108/108
+C-Lailah HP:212/212 MP:205/205
+D-Red Rider HP:837/917 MP:183/183
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Red Rider
+2-Yu
+3-Lord Nan Dou
+4-Lailah
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Red Rider use
+1-Antichthon MP:80
+2-War Cry MP:45
+3-Purple Smoke MP:14
+4-Trisagion MP:22
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Red Rider
+1-Joker HP:130/597 MP:307/347
+2-Raphael HP:574/623 MP:243/279
+3-Centaur HP:104/104 MP:19/19
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Red Rider ataca a Centaur
+Centaur recibe 71 de daño
+Centaur termina con HP:33/104
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:130/597 MP:307/347
+B-Raphael HP:574/623 MP:243/279
+C-Centaur HP:33/104 MP:19/19
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:347/347
+B-Lord Nan Dou HP:159/549 MP:108/108
+C-Lailah HP:212/212 MP:205/205
+D-Red Rider HP:837/917 MP:183/183
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Lord Nan Dou
+3-Lailah
+4-Red Rider
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ometeotl HP:63/324 MP:301/315
+2-Pale Rider HP:497/693 MP:266/310
+3-Fortuna HP:127/147 MP:66/66
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Joker HP:130/597 MP:307/347
+2-Raphael HP:574/623 MP:243/279
+3-Centaur HP:33/104 MP:19/19
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Yu ataca a Raphael
+Raphael recibe 49 de daño
+Raphael termina con HP:525/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:130/597 MP:307/347
+B-Raphael HP:525/623 MP:243/279
+C-Centaur HP:33/104 MP:19/19
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:347/347
+B-Lord Nan Dou HP:159/549 MP:108/108
+C-Lailah HP:212/212 MP:205/205
+D-Red Rider HP:837/917 MP:183/183
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Lailah
+3-Red Rider
+4-Yu
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Joker HP:130/597 MP:307/347
+2-Raphael HP:525/623 MP:243/279
+3-Centaur HP:33/104 MP:19/19
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Lord Nan Dou ataca a Joker
+Joker recibe 41 de daño
+Joker termina con HP:89/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:89/597 MP:307/347
+B-Raphael HP:525/623 MP:243/279
+C-Centaur HP:33/104 MP:19/19
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:347/347
+B-Lord Nan Dou HP:159/549 MP:108/108
+C-Lailah HP:212/212 MP:205/205
+D-Red Rider HP:837/917 MP:183/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lailah
+2-Red Rider
+3-Yu
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lailah use
+1-Recarm MP:20
+2-Mahama MP:18
+3-Hamaon MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lailah
+1-Joker HP:89/597 MP:307/347
+2-Raphael HP:525/623 MP:243/279
+3-Centaur HP:33/104 MP:19/19
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Lailah ataca a Centaur
+Centaur recibe 22 de daño
+Centaur termina con HP:11/104
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:89/597 MP:307/347
+B-Raphael HP:525/623 MP:243/279
+C-Centaur HP:11/104 MP:19/19
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:347/347
+B-Lord Nan Dou HP:159/549 MP:108/108
+C-Lailah HP:212/212 MP:205/205
+D-Red Rider HP:837/917 MP:183/183
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Joker
+3-Centaur
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:89/597 MP:307/347
+B-Raphael HP:525/623 MP:243/279
+C-Centaur HP:11/104 MP:19/19
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:347/347
+B-Lord Nan Dou HP:159/549 MP:108/108
+C-Lailah HP:212/212 MP:205/205
+D-Red Rider HP:837/917 MP:183/183
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Centaur
+3-Raphael
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:89/597 MP:307/347
+B-Raphael HP:525/623 MP:243/279
+C-Centaur HP:11/104 MP:19/19
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:347/347
+B-Lord Nan Dou HP:159/549 MP:108/108
+C-Lailah HP:212/212 MP:205/205
+D-Red Rider HP:837/917 MP:183/183
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Centaur
+2-Raphael
+3-Joker
+----------------------------------------
+Seleccione una acción para Centaur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Centaur use
+1-Bufu MP:5
+2-Needle Shot MP:4
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Centaur
+1-Yu HP:464/597 MP:347/347
+2-Lord Nan Dou HP:159/549 MP:108/108
+3-Lailah HP:212/212 MP:205/205
+4-Red Rider HP:837/917 MP:183/183
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Centaur lanza hielo a Lailah
+Lailah recibe 23 de daño
+Lailah termina con HP:189/212
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:89/597 MP:307/347
+B-Raphael HP:525/623 MP:243/279
+C-Centaur HP:11/104 MP:14/19
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:347/347
+B-Lord Nan Dou HP:159/549 MP:108/108
+C-Lailah HP:189/212 MP:205/205
+D-Red Rider HP:837/917 MP:183/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Joker
+3-Centaur
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Yu HP:464/597 MP:347/347
+2-Lord Nan Dou HP:159/549 MP:108/108
+3-Lailah HP:189/212 MP:205/205
+4-Red Rider HP:837/917 MP:183/183
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Yu HP:464/597 MP:347/347
+2-Lord Nan Dou HP:159/549 MP:108/108
+3-Lailah HP:189/212 MP:205/205
+4-Red Rider HP:837/917 MP:183/183
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Raphael ataca a Lailah
+Lailah recibe 52 de daño
+Lailah termina con HP:137/212
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:89/597 MP:307/347
+B-Raphael HP:525/623 MP:243/279
+C-Centaur HP:11/104 MP:14/19
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:347/347
+B-Lord Nan Dou HP:159/549 MP:108/108
+C-Lailah HP:137/212 MP:205/205
+D-Red Rider HP:837/917 MP:183/183
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Red Rider
+2-Yu
+3-Lord Nan Dou
+4-Lailah
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:89/597 MP:307/347
+B-Raphael HP:525/623 MP:243/279
+C-Centaur HP:11/104 MP:14/19
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:347/347
+B-Lord Nan Dou HP:159/549 MP:108/108
+C-Lailah HP:137/212 MP:205/205
+D-Red Rider HP:837/917 MP:183/183
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Lord Nan Dou
+3-Lailah
+4-Red Rider
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Joker HP:89/597 MP:307/347
+2-Raphael HP:525/623 MP:243/279
+3-Centaur HP:11/104 MP:14/19
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Yu dispara a Centaur
+Centaur es resistente el ataque de Yu
+Centaur recibe 36 de daño
+Centaur termina con HP:0/104
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:89/597 MP:307/347
+B-Raphael HP:525/623 MP:243/279
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:347/347
+B-Lord Nan Dou HP:159/549 MP:108/108
+C-Lailah HP:137/212 MP:205/205
+D-Red Rider HP:837/917 MP:183/183
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Lailah
+3-Red Rider
+4-Yu
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lord Nan Dou use
+1-Maragidyne MP:32
+2-Berserker God MP:12
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lord Nan Dou use
+1-Maragidyne MP:32
+2-Berserker God MP:12
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Joker HP:89/597 MP:307/347
+2-Raphael HP:525/623 MP:243/279
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Lord Nan Dou ataca a Joker
+Joker recibe 129 de daño
+Joker termina con HP:0/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:307/347
+B-Raphael HP:525/623 MP:243/279
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:347/347
+B-Lord Nan Dou HP:159/549 MP:96/108
+C-Lailah HP:137/212 MP:205/205
+D-Red Rider HP:837/917 MP:183/183
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lailah
+2-Red Rider
+3-Yu
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ometeotl HP:63/324 MP:301/315
+2-Pale Rider HP:497/693 MP:266/310
+3-Fortuna HP:127/147 MP:66/66
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Ometeotl ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:307/347
+B-Raphael HP:525/623 MP:243/279
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:347/347
+B-Lord Nan Dou HP:159/549 MP:96/108
+C-Ometeotl HP:63/324 MP:301/315
+D-Red Rider HP:837/917 MP:183/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Red Rider
+2-Yu
+3-Lord Nan Dou
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:307/347
+B-Raphael HP:525/623 MP:243/279
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:347/347
+B-Lord Nan Dou HP:159/549 MP:96/108
+C-Ometeotl HP:63/324 MP:301/315
+D-Red Rider HP:837/917 MP:183/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Lord Nan Dou
+3-Ometeotl
+4-Red Rider
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Recarm MP:20
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Raphael HP:525/623 MP:243/279
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Raphael
+Raphael recibe 49 de daño
+Raphael termina con HP:476/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:307/347
+B-Raphael HP:476/623 MP:243/279
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:347/347
+B-Lord Nan Dou HP:159/549 MP:96/108
+C-Ometeotl HP:63/324 MP:301/315
+D-Red Rider HP:837/917 MP:183/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Enku HP:235/235 MP:221/228
+2-Susano-o HP:863/927 MP:140/184
+3-Mokoi HP:74/74 MP:31/36
+4-Tam Lin HP:218/218 MP:43/43
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Tam Lin ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:307/347
+B-Tam Lin HP:218/218 MP:43/43
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:347/347
+B-Lord Nan Dou HP:159/549 MP:96/108
+C-Ometeotl HP:63/324 MP:301/315
+D-Red Rider HP:837/917 MP:183/183
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tam Lin
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Yu HP:464/597 MP:347/347
+2-Lord Nan Dou HP:159/549 MP:96/108
+3-Ometeotl HP:63/324 MP:301/315
+4-Red Rider HP:837/917 MP:183/183
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tam Lin ataca a Lord Nan Dou
+Lord Nan Dou recibe 14 de daño
+Lord Nan Dou termina con HP:145/549
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:307/347
+B-Tam Lin HP:218/218 MP:43/43
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:347/347
+B-Lord Nan Dou HP:145/549 MP:96/108
+C-Ometeotl HP:63/324 MP:301/315
+D-Red Rider HP:837/917 MP:183/183
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Red Rider
+2-Yu
+3-Lord Nan Dou
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Red Rider
+1-Tam Lin HP:218/218 MP:43/43
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Red Rider
+1-Tam Lin HP:218/218 MP:43/43
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Red Rider
+1-Tam Lin HP:218/218 MP:43/43
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Red Rider ataca a Tam Lin
+Tam Lin recibe 71 de daño
+Tam Lin termina con HP:147/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:307/347
+B-Tam Lin HP:147/218 MP:43/43
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:347/347
+B-Lord Nan Dou HP:145/549 MP:96/108
+C-Ometeotl HP:63/324 MP:301/315
+D-Red Rider HP:837/917 MP:183/183
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Lord Nan Dou
+3-Ometeotl
+4-Red Rider
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:307/347
+B-Tam Lin HP:147/218 MP:43/43
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:347/347
+B-Lord Nan Dou HP:145/549 MP:96/108
+C-Ometeotl HP:63/324 MP:301/315
+D-Red Rider HP:837/917 MP:183/183
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Ometeotl
+3-Red Rider
+4-Yu
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:307/347
+B-Tam Lin HP:147/218 MP:43/43
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:347/347
+B-Lord Nan Dou HP:145/549 MP:96/108
+C-Ometeotl HP:63/324 MP:301/315
+D-Red Rider HP:837/917 MP:183/183
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Red Rider
+3-Yu
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Pale Rider HP:497/693 MP:266/310
+2-Fortuna HP:127/147 MP:66/66
+3-Lailah HP:137/212 MP:205/205
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:307/347
+B-Tam Lin HP:147/218 MP:43/43
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:347/347
+B-Lord Nan Dou HP:145/549 MP:96/108
+C-Ometeotl HP:63/324 MP:301/315
+D-Red Rider HP:837/917 MP:183/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Red Rider
+2-Yu
+3-Lord Nan Dou
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:307/347
+B-Tam Lin HP:147/218 MP:43/43
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:347/347
+B-Lord Nan Dou HP:145/549 MP:96/108
+C-Ometeotl HP:63/324 MP:301/315
+D-Red Rider HP:837/917 MP:183/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Lord Nan Dou
+3-Ometeotl
+4-Red Rider
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Recarm MP:20
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tam Lin HP:147/218 MP:43/43
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tam Lin HP:147/218 MP:43/43
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu dispara a Tam Lin
+Tam Lin recibe 72 de daño
+Tam Lin termina con HP:75/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:307/347
+B-Tam Lin HP:75/218 MP:43/43
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:347/347
+B-Lord Nan Dou HP:145/549 MP:96/108
+C-Ometeotl HP:63/324 MP:301/315
+D-Red Rider HP:837/917 MP:183/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tam Lin use
+1-Hama MP:6
+2-Gram Slice MP:5
+3-Maragi MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:307/347
+B-Tam Lin HP:75/218 MP:43/43
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:347/347
+B-Lord Nan Dou HP:145/549 MP:96/108
+C-Ometeotl HP:63/324 MP:301/315
+D-Red Rider HP:837/917 MP:183/183
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tam Lin
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:307/347
+B-Tam Lin HP:75/218 MP:43/43
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:347/347
+B-Lord Nan Dou HP:145/549 MP:96/108
+C-Ometeotl HP:63/324 MP:301/315
+D-Red Rider HP:837/917 MP:183/183
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Red Rider
+2-Yu
+3-Lord Nan Dou
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:307/347
+B-Tam Lin HP:75/218 MP:43/43
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:347/347
+B-Lord Nan Dou HP:145/549 MP:96/108
+C-Ometeotl HP:63/324 MP:301/315
+D-Red Rider HP:837/917 MP:183/183
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Lord Nan Dou
+3-Ometeotl
+4-Red Rider
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tam Lin HP:75/218 MP:43/43
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tam Lin HP:75/218 MP:43/43
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tam Lin HP:75/218 MP:43/43
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:307/347
+B-Tam Lin HP:75/218 MP:43/43
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:347/347
+B-Lord Nan Dou HP:145/549 MP:96/108
+C-Ometeotl HP:63/324 MP:301/315
+D-Red Rider HP:837/917 MP:183/183
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Ometeotl
+3-Red Rider
+4-Yu
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:307/347
+B-Tam Lin HP:75/218 MP:43/43
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:347/347
+B-Lord Nan Dou HP:145/549 MP:96/108
+C-Ometeotl HP:63/324 MP:301/315
+D-Red Rider HP:837/917 MP:183/183
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Red Rider
+3-Yu
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Tam Lin HP:75/218 MP:43/43
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ometeotl use
+1-Agidyne MP:14
+2-Recarmdra MP:2
+3-Bufudyne MP:14
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Ometeotl cura a Yu
+Yu recibe 298 de HP
+Yu termina con HP:597/597
+Ometeotl cura a Lord Nan Dou
+Lord Nan Dou recibe 274 de HP
+Lord Nan Dou termina con HP:419/549
+Ometeotl cura a Red Rider
+Red Rider recibe 458 de HP
+Red Rider termina con HP:917/917
+Ometeotl cura a Pale Rider
+Pale Rider recibe 346 de HP
+Pale Rider termina con HP:693/693
+Ometeotl cura a Fortuna
+Fortuna recibe 73 de HP
+Fortuna termina con HP:147/147
+Ometeotl cura a Lailah
+Lailah recibe 106 de HP
+Lailah termina con HP:212/212
+Ometeotl termina con HP:0/324
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:307/347
+B-Tam Lin HP:75/218 MP:43/43
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Lord Nan Dou HP:419/549 MP:96/108
+C-
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Lord Nan Dou
+3-Red Rider
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Recarm MP:20
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Ometeotl HP:0/324 MP:299/315
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tam Lin HP:75/218 MP:43/43
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:307/347
+B-Tam Lin HP:75/218 MP:43/43
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Lord Nan Dou HP:419/549 MP:96/108
+C-
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Red Rider
+3-Yu
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:307/347
+B-Tam Lin HP:75/218 MP:43/43
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Lord Nan Dou HP:419/549 MP:96/108
+C-
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Red Rider
+2-Yu
+3-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Red Rider use
+1-Antichthon MP:80
+2-War Cry MP:45
+3-Purple Smoke MP:14
+4-Trisagion MP:22
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Red Rider
+1-Tam Lin HP:75/218 MP:43/43
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Pale Rider HP:693/693 MP:266/310
+2-Fortuna HP:147/147 MP:66/66
+3-Lailah HP:212/212 MP:205/205
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Fortuna ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:307/347
+B-Tam Lin HP:75/218 MP:43/43
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Lord Nan Dou HP:419/549 MP:96/108
+C-
+D-Fortuna HP:147/147 MP:66/66
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Lord Nan Dou
+3-Fortuna
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Recarm MP:20
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Recarm MP:20
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Recarm MP:20
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tam Lin HP:75/218 MP:43/43
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Recarm MP:20
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Recarm MP:20
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tam Lin HP:75/218 MP:43/43
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Tam Lin
+Tam Lin recibe 49 de daño
+Tam Lin termina con HP:26/218
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:307/347
+B-Tam Lin HP:26/218 MP:43/43
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Lord Nan Dou HP:419/549 MP:96/108
+C-
+D-Fortuna HP:147/147 MP:66/66
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Enku HP:235/235 MP:221/228
+2-Susano-o HP:863/927 MP:140/184
+3-Mokoi HP:74/74 MP:31/36
+4-Raphael HP:476/623 MP:243/279
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Susano-o ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:307/347
+B-Susano-o HP:863/927 MP:140/184
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Lord Nan Dou HP:419/549 MP:96/108
+C-
+D-Fortuna HP:147/147 MP:66/66
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Susano-o
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:307/347
+B-Susano-o HP:863/927 MP:140/184
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Lord Nan Dou HP:419/549 MP:96/108
+C-
+D-Fortuna HP:147/147 MP:66/66
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Lord Nan Dou
+3-Fortuna
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Susano-o HP:863/927 MP:140/184
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Pale Rider HP:693/693 MP:266/310
+2-Lailah HP:212/212 MP:205/205
+3-Red Rider HP:917/917 MP:183/183
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Recarm MP:20
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Ometeotl HP:0/324 MP:299/315
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Susano-o HP:863/927 MP:140/184
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Susano-o
+Susano-o es resistente el ataque de Yu
+Susano-o recibe 24 de daño
+Susano-o termina con HP:839/927
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:307/347
+B-Susano-o HP:839/927 MP:140/184
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Lord Nan Dou HP:419/549 MP:96/108
+C-
+D-Fortuna HP:147/147 MP:66/66
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Fortuna
+3-Yu
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:307/347
+B-Susano-o HP:839/927 MP:140/184
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Lord Nan Dou HP:419/549 MP:96/108
+C-
+D-Fortuna HP:147/147 MP:66/66
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Fortuna
+2-Yu
+3-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Fortuna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:307/347
+B-Susano-o HP:839/927 MP:140/184
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Lord Nan Dou HP:419/549 MP:96/108
+C-
+D-Fortuna HP:147/147 MP:66/66
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Lord Nan Dou
+3-Fortuna
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:307/347
+B-Susano-o HP:839/927 MP:140/184
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Lord Nan Dou HP:419/549 MP:96/108
+C-
+D-Fortuna HP:147/147 MP:66/66
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Fortuna
+3-Yu
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:307/347
+B-Susano-o HP:839/927 MP:140/184
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Lord Nan Dou HP:419/549 MP:96/108
+C-
+D-Fortuna HP:147/147 MP:66/66
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Susano-o
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:307/347
+B-Susano-o HP:839/927 MP:140/184
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Lord Nan Dou HP:419/549 MP:96/108
+C-
+D-Fortuna HP:147/147 MP:66/66
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Susano-o
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Susano-o use
+1-Hades Blast MP:32
+2-Deadly Wind MP:22
+3-Sea of Chaos MP:45
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Susano-o use
+1-Hades Blast MP:32
+2-Deadly Wind MP:22
+3-Sea of Chaos MP:45
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Susano-o
+1-Yu HP:597/597 MP:347/347
+2-Lord Nan Dou HP:419/549 MP:96/108
+3-Fortuna HP:147/147 MP:66/66
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Susano-o use
+1-Hades Blast MP:32
+2-Deadly Wind MP:22
+3-Sea of Chaos MP:45
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Susano-o
+1-Yu HP:597/597 MP:347/347
+2-Lord Nan Dou HP:419/549 MP:96/108
+3-Fortuna HP:147/147 MP:66/66
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Susano-o lanza viento a Lord Nan Dou
+Lord Nan Dou recibe 155 de daño
+Lord Nan Dou termina con HP:264/549
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:307/347
+B-Susano-o HP:839/927 MP:118/184
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Lord Nan Dou HP:264/549 MP:96/108
+C-
+D-Fortuna HP:147/147 MP:66/66
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Lord Nan Dou
+3-Fortuna
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:307/347
+B-Susano-o HP:839/927 MP:118/184
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Lord Nan Dou HP:264/549 MP:96/108
+C-
+D-Fortuna HP:147/147 MP:66/66
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Fortuna
+3-Yu
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:307/347
+B-Susano-o HP:839/927 MP:118/184
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Lord Nan Dou HP:264/549 MP:96/108
+C-
+D-Fortuna HP:147/147 MP:66/66
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Fortuna
+2-Yu
+3-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Fortuna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Fortuna use
+1-Zan MP:5
+2-Media MP:12
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Fortuna
+1-Susano-o HP:839/927 MP:118/184
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Fortuna lanza viento a Susano-o
+Susano-o devuelve 35 daño a Fortuna
+Fortuna termina con HP:112/147
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:307/347
+B-Susano-o HP:839/927 MP:118/184
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Lord Nan Dou HP:264/549 MP:96/108
+C-
+D-Fortuna HP:112/147 MP:61/66
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Susano-o
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Enku HP:235/235 MP:221/228
+2-Mokoi HP:74/74 MP:31/36
+3-Raphael HP:476/623 MP:243/279
+4-Tam Lin HP:26/218 MP:43/43
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:307/347
+B-Susano-o HP:839/927 MP:118/184
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Lord Nan Dou HP:264/549 MP:96/108
+C-
+D-Fortuna HP:112/147 MP:61/66
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Susano-o
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Enku HP:235/235 MP:221/228
+2-Mokoi HP:74/74 MP:31/36
+3-Raphael HP:476/623 MP:243/279
+4-Tam Lin HP:26/218 MP:43/43
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Enku HP:235/235 MP:221/228
+2-Mokoi HP:74/74 MP:31/36
+3-Raphael HP:476/623 MP:243/279
+4-Tam Lin HP:26/218 MP:43/43
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Mokoi ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:307/347
+B-Mokoi HP:74/74 MP:31/36
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Lord Nan Dou HP:264/549 MP:96/108
+C-
+D-Fortuna HP:112/147 MP:61/66
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Lord Nan Dou
+3-Fortuna
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Recarm MP:20
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Ometeotl HP:0/324 MP:299/315
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu revive a Ometeotl
+Ometeotl recibe 162 de HP
+Ometeotl termina con HP:162/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:307/347
+B-Mokoi HP:74/74 MP:31/36
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:327/347
+B-Lord Nan Dou HP:264/549 MP:96/108
+C-
+D-Fortuna HP:112/147 MP:61/66
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Fortuna
+3-Yu
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Mokoi HP:74/74 MP:31/36
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ometeotl HP:162/324 MP:299/315
+2-Pale Rider HP:693/693 MP:266/310
+3-Lailah HP:212/212 MP:205/205
+4-Red Rider HP:917/917 MP:183/183
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Mokoi HP:74/74 MP:31/36
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lord Nan Dou ataca a Mokoi
+Mokoi recibe 41 de daño
+Mokoi termina con HP:33/74
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:307/347
+B-Mokoi HP:33/74 MP:31/36
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:327/347
+B-Lord Nan Dou HP:264/549 MP:96/108
+C-
+D-Fortuna HP:112/147 MP:61/66
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Fortuna
+2-Yu
+3-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Fortuna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:307/347
+B-Mokoi HP:33/74 MP:31/36
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:327/347
+B-Lord Nan Dou HP:264/549 MP:96/108
+C-
+D-Fortuna HP:112/147 MP:61/66
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Lord Nan Dou
+3-Fortuna
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Recarm MP:20
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Mokoi HP:33/74 MP:31/36
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu dispara a Mokoi
+Mokoi recibe 72 de daño
+Mokoi termina con HP:0/74
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Yu (J2)

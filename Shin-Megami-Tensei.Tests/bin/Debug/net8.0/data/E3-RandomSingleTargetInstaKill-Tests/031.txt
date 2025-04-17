@@ -1,0 +1,5119 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 30
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Zouchouten HP:221/221 MP:214/214
+C-Hel HP:254/254 MP:246/246
+D-Bilwis HP:161/161 MP:31/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Jueyuan HP:154/154 MP:68/68
+C-Xi Wangmu HP:418/418 MP:405/405
+D-Fuxi HP:52/52 MP:49/49
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Zouchouten
+3-Kei
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Zouchouten HP:221/221 MP:214/214
+C-Hel HP:254/254 MP:246/246
+D-Bilwis HP:161/161 MP:31/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Jueyuan HP:154/154 MP:68/68
+C-Xi Wangmu HP:418/418 MP:405/405
+D-Fuxi HP:52/52 MP:49/49
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Zouchouten
+2-Kei
+3-Bilwis
+4-Hel
+----------------------------------------
+Seleccione una acción para Zouchouten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kama HP:574/574 MP:257/257
+2-Pisaca HP:454/454 MP:90/90
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kama ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kama HP:574/574 MP:257/257
+C-Hel HP:254/254 MP:246/246
+D-Bilwis HP:161/161 MP:31/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Jueyuan HP:154/154 MP:68/68
+C-Xi Wangmu HP:418/418 MP:405/405
+D-Fuxi HP:52/52 MP:49/49
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Bilwis
+3-Hel
+4-Kama
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kama HP:574/574 MP:257/257
+C-Hel HP:254/254 MP:246/246
+D-Bilwis HP:161/161 MP:31/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Jueyuan HP:154/154 MP:68/68
+C-Xi Wangmu HP:418/418 MP:405/405
+D-Fuxi HP:52/52 MP:49/49
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Bilwis
+2-Hel
+3-Kama
+4-Kei
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Bilwis use
+1-Poison Claw MP:9
+2-Dia MP:5
+3-Lunge MP:6
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Zouchouten HP:221/221 MP:214/214
+2-Pisaca HP:454/454 MP:90/90
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Pisaca ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kama HP:574/574 MP:257/257
+C-Hel HP:254/254 MP:246/246
+D-Pisaca HP:454/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Jueyuan HP:154/154 MP:68/68
+C-Xi Wangmu HP:418/418 MP:405/405
+D-Fuxi HP:52/52 MP:49/49
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Kama
+3-Kei
+4-Pisaca
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hel use
+1-Mamudo MP:18
+2-Sabbatma MP:20
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Nanashi HP:140/140 MP:411/411
+2-Jueyuan HP:154/154 MP:68/68
+3-Xi Wangmu HP:418/418 MP:405/405
+4-Fuxi HP:52/52 MP:49/49
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Hel ataca a Nanashi
+Nanashi recibe 26 de daño
+Nanashi termina con HP:114/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kama HP:574/574 MP:257/257
+C-Hel HP:254/254 MP:246/246
+D-Pisaca HP:454/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:114/140 MP:411/411
+B-Jueyuan HP:154/154 MP:68/68
+C-Xi Wangmu HP:418/418 MP:405/405
+D-Fuxi HP:52/52 MP:49/49
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Kei
+3-Pisaca
+4-Hel
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Nanashi HP:114/140 MP:411/411
+2-Jueyuan HP:154/154 MP:68/68
+3-Xi Wangmu HP:418/418 MP:405/405
+4-Fuxi HP:52/52 MP:49/49
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kama ataca a Jueyuan
+Jueyuan recibe 48 de daño
+Jueyuan termina con HP:106/154
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kama HP:574/574 MP:257/257
+C-Hel HP:254/254 MP:246/246
+D-Pisaca HP:454/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:114/140 MP:411/411
+B-Jueyuan HP:106/154 MP:68/68
+C-Xi Wangmu HP:418/418 MP:405/405
+D-Fuxi HP:52/52 MP:49/49
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Nanashi
+3-Jueyuan
+4-Fuxi
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Kei HP:760/760 MP:398/398
+2-Kama HP:574/574 MP:257/257
+3-Hel HP:254/254 MP:246/246
+4-Pisaca HP:454/454 MP:90/90
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Xi Wangmu ataca a Kama
+Kama es resistente el ataque de Xi Wangmu
+Kama recibe 22 de daño
+Kama termina con HP:552/574
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kama HP:552/574 MP:257/257
+C-Hel HP:254/254 MP:246/246
+D-Pisaca HP:454/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:114/140 MP:411/411
+B-Jueyuan HP:106/154 MP:68/68
+C-Xi Wangmu HP:418/418 MP:405/405
+D-Fuxi HP:52/52 MP:49/49
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Jueyuan
+3-Fuxi
+4-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:760/760 MP:398/398
+2-Kama HP:552/574 MP:257/257
+3-Hel HP:254/254 MP:246/246
+4-Pisaca HP:454/454 MP:90/90
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nanashi dispara a Hel
+Hel recibe 31 de daño
+Hel termina con HP:223/254
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kama HP:552/574 MP:257/257
+C-Hel HP:223/254 MP:246/246
+D-Pisaca HP:454/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:114/140 MP:411/411
+B-Jueyuan HP:106/154 MP:68/68
+C-Xi Wangmu HP:418/418 MP:405/405
+D-Fuxi HP:52/52 MP:49/49
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Jueyuan
+2-Fuxi
+3-Xi Wangmu
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Jueyuan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kama HP:552/574 MP:257/257
+C-Hel HP:223/254 MP:246/246
+D-Pisaca HP:454/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:114/140 MP:411/411
+B-Jueyuan HP:106/154 MP:68/68
+C-Xi Wangmu HP:418/418 MP:405/405
+D-Fuxi HP:52/52 MP:49/49
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Fuxi
+2-Xi Wangmu
+3-Nanashi
+4-Jueyuan
+----------------------------------------
+Seleccione una acción para Fuxi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kama HP:552/574 MP:257/257
+C-Hel HP:223/254 MP:246/246
+D-Pisaca HP:454/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:114/140 MP:411/411
+B-Jueyuan HP:106/154 MP:68/68
+C-Xi Wangmu HP:418/418 MP:405/405
+D-Fuxi HP:52/52 MP:49/49
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Nanashi
+3-Jueyuan
+4-Fuxi
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Knocker HP:126/126 MP:55/55
+2-Murmur HP:511/511 MP:229/229
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Murmur ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kama HP:552/574 MP:257/257
+C-Hel HP:223/254 MP:246/246
+D-Pisaca HP:454/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:114/140 MP:411/411
+B-Jueyuan HP:106/154 MP:68/68
+C-Murmur HP:511/511 MP:229/229
+D-Fuxi HP:52/52 MP:49/49
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Jueyuan
+3-Fuxi
+4-Murmur
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Xi Wangmu HP:418/418 MP:405/405
+2-Knocker HP:126/126 MP:55/55
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Jueyuan HP:106/154 MP:68/68 (Puesto 2)
+2-Murmur HP:511/511 MP:229/229 (Puesto 3)
+3-Fuxi HP:52/52 MP:49/49 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Xi Wangmu ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kama HP:552/574 MP:257/257
+C-Hel HP:223/254 MP:246/246
+D-Pisaca HP:454/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:114/140 MP:411/411
+B-Jueyuan HP:106/154 MP:68/68
+C-Murmur HP:511/511 MP:229/229
+D-Xi Wangmu HP:418/418 MP:405/405
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Pisaca
+3-Hel
+4-Kei
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Nanashi HP:114/140 MP:411/411
+2-Jueyuan HP:106/154 MP:68/68
+3-Murmur HP:511/511 MP:229/229
+4-Xi Wangmu HP:418/418 MP:405/405
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Kama ataca a Xi Wangmu
+Xi Wangmu recibe 48 de daño
+Xi Wangmu termina con HP:370/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kama HP:552/574 MP:257/257
+C-Hel HP:223/254 MP:246/246
+D-Pisaca HP:454/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:114/140 MP:411/411
+B-Jueyuan HP:106/154 MP:68/68
+C-Murmur HP:511/511 MP:229/229
+D-Xi Wangmu HP:370/418 MP:405/405
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pisaca
+2-Hel
+3-Kei
+4-Kama
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kama HP:552/574 MP:257/257
+C-Hel HP:223/254 MP:246/246
+D-Pisaca HP:454/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:114/140 MP:411/411
+B-Jueyuan HP:106/154 MP:68/68
+C-Murmur HP:511/511 MP:229/229
+D-Xi Wangmu HP:370/418 MP:405/405
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hel
+2-Kei
+3-Kama
+4-Pisaca
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hel use
+1-Mamudo MP:18
+2-Sabbatma MP:20
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Zouchouten HP:221/221 MP:214/214
+2-Bilwis HP:161/161 MP:31/31
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kama HP:552/574 MP:257/257
+C-Hel HP:223/254 MP:246/246
+D-Pisaca HP:454/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:114/140 MP:411/411
+B-Jueyuan HP:106/154 MP:68/68
+C-Murmur HP:511/511 MP:229/229
+D-Xi Wangmu HP:370/418 MP:405/405
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Kama
+3-Pisaca
+4-Hel
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kama HP:552/574 MP:257/257
+C-Hel HP:223/254 MP:246/246
+D-Pisaca HP:454/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:114/140 MP:411/411
+B-Jueyuan HP:106/154 MP:68/68
+C-Murmur HP:511/511 MP:229/229
+D-Xi Wangmu HP:370/418 MP:405/405
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kama
+2-Pisaca
+3-Hel
+4-Kei
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Zouchouten HP:221/221 MP:214/214
+2-Bilwis HP:161/161 MP:31/31
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Nanashi HP:114/140 MP:411/411
+2-Jueyuan HP:106/154 MP:68/68
+3-Murmur HP:511/511 MP:229/229
+4-Xi Wangmu HP:370/418 MP:405/405
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Kama ataca a Xi Wangmu
+Xi Wangmu recibe 48 de daño
+Xi Wangmu termina con HP:322/418
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kama HP:552/574 MP:257/257
+C-Hel HP:223/254 MP:246/246
+D-Pisaca HP:454/454 MP:90/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:114/140 MP:411/411
+B-Jueyuan HP:106/154 MP:68/68
+C-Murmur HP:511/511 MP:229/229
+D-Xi Wangmu HP:322/418 MP:405/405
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pisaca
+2-Hel
+3-Kei
+4-Kama
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pisaca use
+1-Bind Voice MP:15
+2-Life Drain MP:5
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Pisaca
+1-Nanashi HP:114/140 MP:411/411
+2-Jueyuan HP:106/154 MP:68/68
+3-Murmur HP:511/511 MP:229/229
+4-Xi Wangmu HP:322/418 MP:405/405
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Pisaca ataca con oscuridad a Murmur
+Pisaca ha fallado el ataque
+Murmur termina con HP:511/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kama HP:552/574 MP:257/257
+C-Hel HP:223/254 MP:246/246
+D-Pisaca HP:454/454 MP:80/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:114/140 MP:411/411
+B-Jueyuan HP:106/154 MP:68/68
+C-Murmur HP:511/511 MP:229/229
+D-Xi Wangmu HP:322/418 MP:405/405
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Murmur
+3-Nanashi
+4-Jueyuan
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Xi Wangmu use
+1-Makarakarn MP:50
+2-Myriad Arrows MP:30
+3-Invitation MP:45
+4-Megaton Press MP:17
+5-Doping MP:45
+6-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Fuxi HP:52/52 MP:49/49
+2-Knocker HP:126/126 MP:55/55
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Jueyuan HP:106/154 MP:68/68 (Puesto 2)
+2-Murmur HP:511/511 MP:229/229 (Puesto 3)
+3-Xi Wangmu HP:322/418 MP:405/405 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Fuxi ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Kama HP:552/574 MP:257/257
+C-Hel HP:223/254 MP:246/246
+D-Pisaca HP:454/454 MP:80/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:114/140 MP:411/411
+B-Jueyuan HP:106/154 MP:68/68
+C-Murmur HP:511/511 MP:229/229
+D-Fuxi HP:52/52 MP:49/49
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Murmur
+2-Nanashi
+3-Jueyuan
+4-Fuxi
+----------------------------------------
+Seleccione una acción para Murmur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Murmur
+1-Kei HP:760/760 MP:398/398
+2-Kama HP:552/574 MP:257/257
+3-Hel HP:223/254 MP:246/246
+4-Pisaca HP:454/454 MP:80/90
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Murmur ataca a Kei
+Kei es resistente el ataque de Murmur
+Kei recibe 21 de daño
+Kei termina con HP:739/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:739/760 MP:398/398
+B-Kama HP:552/574 MP:257/257
+C-Hel HP:223/254 MP:246/246
+D-Pisaca HP:454/454 MP:80/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:114/140 MP:411/411
+B-Jueyuan HP:106/154 MP:68/68
+C-Murmur HP:511/511 MP:229/229
+D-Fuxi HP:52/52 MP:49/49
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Jueyuan
+3-Fuxi
+4-Murmur
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:739/760 MP:398/398
+B-Kama HP:552/574 MP:257/257
+C-Hel HP:223/254 MP:246/246
+D-Pisaca HP:454/454 MP:80/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:114/140 MP:411/411
+B-Jueyuan HP:106/154 MP:68/68
+C-Murmur HP:511/511 MP:229/229
+D-Fuxi HP:52/52 MP:49/49
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Jueyuan
+2-Fuxi
+3-Murmur
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Jueyuan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Jueyuan
+1-Kei HP:739/760 MP:398/398
+2-Kama HP:552/574 MP:257/257
+3-Hel HP:223/254 MP:246/246
+4-Pisaca HP:454/454 MP:80/90
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Jueyuan ataca a Hel
+Hel recibe 11 de daño
+Hel termina con HP:212/254
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:739/760 MP:398/398
+B-Kama HP:552/574 MP:257/257
+C-Hel HP:212/254 MP:246/246
+D-Pisaca HP:454/454 MP:80/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:114/140 MP:411/411
+B-Jueyuan HP:106/154 MP:68/68
+C-Murmur HP:511/511 MP:229/229
+D-Fuxi HP:52/52 MP:49/49
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Fuxi
+2-Murmur
+3-Nanashi
+4-Jueyuan
+----------------------------------------
+Seleccione una acción para Fuxi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Xi Wangmu HP:322/418 MP:360/405
+2-Knocker HP:126/126 MP:55/55
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Knocker ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:739/760 MP:398/398
+B-Kama HP:552/574 MP:257/257
+C-Hel HP:212/254 MP:246/246
+D-Pisaca HP:454/454 MP:80/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:114/140 MP:411/411
+B-Jueyuan HP:106/154 MP:68/68
+C-Murmur HP:511/511 MP:229/229
+D-Knocker HP:126/126 MP:55/55
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Murmur
+2-Nanashi
+3-Jueyuan
+4-Knocker
+----------------------------------------
+Seleccione una acción para Murmur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Murmur
+1-Kei HP:739/760 MP:398/398
+2-Kama HP:552/574 MP:257/257
+3-Hel HP:212/254 MP:246/246
+4-Pisaca HP:454/454 MP:80/90
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Murmur ataca a Kama
+Kama es resistente el ataque de Murmur
+Kama recibe 21 de daño
+Kama termina con HP:531/574
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:739/760 MP:398/398
+B-Kama HP:531/574 MP:257/257
+C-Hel HP:212/254 MP:246/246
+D-Pisaca HP:454/454 MP:80/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:114/140 MP:411/411
+B-Jueyuan HP:106/154 MP:68/68
+C-Murmur HP:511/511 MP:229/229
+D-Knocker HP:126/126 MP:55/55
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Pisaca
+3-Hel
+4-Kei
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kama use
+1-Tetraja MP:15
+2-Madness Needle MP:11
+3-Diarahan MP:16
+4-Heaven's Bow MP:26
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Kei HP:739/760 MP:398/398
+2-Kama HP:531/574 MP:257/257
+3-Hel HP:212/254 MP:246/246
+4-Pisaca HP:454/454 MP:80/90
+5-Zouchouten HP:221/221 MP:214/214
+6-Bilwis HP:161/161 MP:31/31
+7-Cancelar
+INPUT: 7
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Nanashi HP:114/140 MP:411/411
+2-Jueyuan HP:106/154 MP:68/68
+3-Murmur HP:511/511 MP:229/229
+4-Knocker HP:126/126 MP:55/55
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Kama ataca a Knocker
+Knocker recibe 48 de daño
+Knocker termina con HP:78/126
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:739/760 MP:398/398
+B-Kama HP:531/574 MP:257/257
+C-Hel HP:212/254 MP:246/246
+D-Pisaca HP:454/454 MP:80/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:114/140 MP:411/411
+B-Jueyuan HP:106/154 MP:68/68
+C-Murmur HP:511/511 MP:229/229
+D-Knocker HP:78/126 MP:55/55
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pisaca
+2-Hel
+3-Kei
+4-Kama
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:739/760 MP:398/398
+B-Kama HP:531/574 MP:257/257
+C-Hel HP:212/254 MP:246/246
+D-Pisaca HP:454/454 MP:80/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:114/140 MP:411/411
+B-Jueyuan HP:106/154 MP:68/68
+C-Murmur HP:511/511 MP:229/229
+D-Knocker HP:78/126 MP:55/55
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hel
+2-Kei
+3-Kama
+4-Pisaca
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hel use
+1-Mamudo MP:18
+2-Sabbatma MP:20
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Zouchouten HP:221/221 MP:214/214
+2-Bilwis HP:161/161 MP:31/31
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Kama HP:531/574 MP:257/257 (Puesto 2)
+2-Hel HP:212/254 MP:246/246 (Puesto 3)
+3-Pisaca HP:454/454 MP:80/90 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Zouchouten ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:739/760 MP:398/398
+B-Zouchouten HP:221/221 MP:214/214
+C-Hel HP:212/254 MP:226/246
+D-Pisaca HP:454/454 MP:80/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:114/140 MP:411/411
+B-Jueyuan HP:106/154 MP:68/68
+C-Murmur HP:511/511 MP:229/229
+D-Knocker HP:78/126 MP:55/55
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Zouchouten
+3-Pisaca
+4-Hel
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Nanashi HP:114/140 MP:411/411
+2-Jueyuan HP:106/154 MP:68/68
+3-Murmur HP:511/511 MP:229/229
+4-Knocker HP:78/126 MP:55/55
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kei dispara a Nanashi
+Nanashi recibe 15 de daño
+Nanashi termina con HP:99/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:739/760 MP:398/398
+B-Zouchouten HP:221/221 MP:214/214
+C-Hel HP:212/254 MP:226/246
+D-Pisaca HP:454/454 MP:80/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:99/140 MP:411/411
+B-Jueyuan HP:106/154 MP:68/68
+C-Murmur HP:511/511 MP:229/229
+D-Knocker HP:78/126 MP:55/55
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zouchouten
+2-Pisaca
+3-Hel
+4-Kei
+----------------------------------------
+Seleccione una acción para Zouchouten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:739/760 MP:398/398
+B-Zouchouten HP:221/221 MP:214/214
+C-Hel HP:212/254 MP:226/246
+D-Pisaca HP:454/454 MP:80/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:99/140 MP:411/411
+B-Jueyuan HP:106/154 MP:68/68
+C-Murmur HP:511/511 MP:229/229
+D-Knocker HP:78/126 MP:55/55
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pisaca
+2-Hel
+3-Kei
+4-Zouchouten
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:739/760 MP:398/398
+B-Zouchouten HP:221/221 MP:214/214
+C-Hel HP:212/254 MP:226/246
+D-Pisaca HP:454/454 MP:80/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:99/140 MP:411/411
+B-Jueyuan HP:106/154 MP:68/68
+C-Murmur HP:511/511 MP:229/229
+D-Knocker HP:78/126 MP:55/55
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Murmur
+2-Nanashi
+3-Jueyuan
+4-Knocker
+----------------------------------------
+Seleccione una acción para Murmur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Xi Wangmu HP:322/418 MP:360/405
+2-Fuxi HP:52/52 MP:49/49
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Fuxi ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:739/760 MP:398/398
+B-Zouchouten HP:221/221 MP:214/214
+C-Hel HP:212/254 MP:226/246
+D-Pisaca HP:454/454 MP:80/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:99/140 MP:411/411
+B-Jueyuan HP:106/154 MP:68/68
+C-Fuxi HP:52/52 MP:49/49
+D-Knocker HP:78/126 MP:55/55
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Jueyuan
+3-Knocker
+4-Fuxi
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nanashi use
+1-Hama MP:6
+2-Sabbatma MP:20
+3-Zandyne MP:14
+4-Stigma Attack MP:20
+5-Agidyne MP:14
+6-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:739/760 MP:398/398
+2-Zouchouten HP:221/221 MP:214/214
+3-Hel HP:212/254 MP:226/246
+4-Pisaca HP:454/454 MP:80/90
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi lanza fuego a Kei
+Kei es resistente el ataque de Nanashi
+Kei recibe 33 de daño
+Kei termina con HP:706/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:706/760 MP:398/398
+B-Zouchouten HP:221/221 MP:214/214
+C-Hel HP:212/254 MP:226/246
+D-Pisaca HP:454/454 MP:80/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:99/140 MP:397/411
+B-Jueyuan HP:106/154 MP:68/68
+C-Fuxi HP:52/52 MP:49/49
+D-Knocker HP:78/126 MP:55/55
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Jueyuan
+2-Knocker
+3-Fuxi
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Jueyuan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Xi Wangmu HP:322/418 MP:360/405
+2-Murmur HP:511/511 MP:229/229
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Xi Wangmu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:706/760 MP:398/398
+B-Zouchouten HP:221/221 MP:214/214
+C-Hel HP:212/254 MP:226/246
+D-Pisaca HP:454/454 MP:80/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:99/140 MP:397/411
+B-Xi Wangmu HP:322/418 MP:360/405
+C-Fuxi HP:52/52 MP:49/49
+D-Knocker HP:78/126 MP:55/55
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Knocker
+2-Fuxi
+3-Nanashi
+4-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Knocker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Knocker use
+1-Bufu MP:5
+2-Rakukaja MP:15
+3-Taunt MP:20
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Knocker
+1-Kei HP:706/760 MP:398/398
+2-Zouchouten HP:221/221 MP:214/214
+3-Hel HP:212/254 MP:226/246
+4-Pisaca HP:454/454 MP:80/90
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Knocker lanza hielo a Zouchouten
+Zouchouten es débil contra el ataque de Knocker
+Zouchouten recibe 48 de daño
+Zouchouten termina con HP:173/221
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:706/760 MP:398/398
+B-Zouchouten HP:173/221 MP:214/214
+C-Hel HP:212/254 MP:226/246
+D-Pisaca HP:454/454 MP:80/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:99/140 MP:397/411
+B-Xi Wangmu HP:322/418 MP:360/405
+C-Fuxi HP:52/52 MP:49/49
+D-Knocker HP:78/126 MP:50/55
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Fuxi
+2-Nanashi
+3-Xi Wangmu
+4-Knocker
+----------------------------------------
+Seleccione una acción para Fuxi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Fuxi
+1-Kei HP:706/760 MP:398/398
+2-Zouchouten HP:173/221 MP:214/214
+3-Hel HP:212/254 MP:226/246
+4-Pisaca HP:454/454 MP:80/90
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Fuxi ataca a Kei
+Kei es resistente el ataque de Fuxi
+Kei recibe 2 de daño
+Kei termina con HP:704/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:704/760 MP:398/398
+B-Zouchouten HP:173/221 MP:214/214
+C-Hel HP:212/254 MP:226/246
+D-Pisaca HP:454/454 MP:80/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:99/140 MP:397/411
+B-Xi Wangmu HP:322/418 MP:360/405
+C-Fuxi HP:52/52 MP:49/49
+D-Knocker HP:78/126 MP:50/55
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Xi Wangmu
+3-Knocker
+4-Fuxi
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nanashi use
+1-Hama MP:6
+2-Sabbatma MP:20
+3-Zandyne MP:14
+4-Stigma Attack MP:20
+5-Agidyne MP:14
+6-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:704/760 MP:398/398
+2-Zouchouten HP:173/221 MP:214/214
+3-Hel HP:212/254 MP:226/246
+4-Pisaca HP:454/454 MP:80/90
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nanashi lanza fuego a Zouchouten
+Zouchouten bloquea el ataque de Nanashi
+Zouchouten termina con HP:173/221
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:704/760 MP:398/398
+B-Zouchouten HP:173/221 MP:214/214
+C-Hel HP:212/254 MP:226/246
+D-Pisaca HP:454/454 MP:80/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:99/140 MP:383/411
+B-Xi Wangmu HP:322/418 MP:360/405
+C-Fuxi HP:52/52 MP:49/49
+D-Knocker HP:78/126 MP:50/55
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pisaca
+2-Hel
+3-Zouchouten
+4-Kei
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:704/760 MP:398/398
+B-Zouchouten HP:173/221 MP:214/214
+C-Hel HP:212/254 MP:226/246
+D-Pisaca HP:454/454 MP:80/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:99/140 MP:383/411
+B-Xi Wangmu HP:322/418 MP:360/405
+C-Fuxi HP:52/52 MP:49/49
+D-Knocker HP:78/126 MP:50/55
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hel
+2-Zouchouten
+3-Kei
+4-Pisaca
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Bilwis HP:161/161 MP:31/31
+2-Kama HP:531/574 MP:257/257
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Bilwis ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:704/760 MP:398/398
+B-Zouchouten HP:173/221 MP:214/214
+C-Bilwis HP:161/161 MP:31/31
+D-Pisaca HP:454/454 MP:80/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:99/140 MP:383/411
+B-Xi Wangmu HP:322/418 MP:360/405
+C-Fuxi HP:52/52 MP:49/49
+D-Knocker HP:78/126 MP:50/55
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zouchouten
+2-Kei
+3-Pisaca
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Zouchouten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:704/760 MP:398/398
+B-Zouchouten HP:173/221 MP:214/214
+C-Bilwis HP:161/161 MP:31/31
+D-Pisaca HP:454/454 MP:80/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:99/140 MP:383/411
+B-Xi Wangmu HP:322/418 MP:360/405
+C-Fuxi HP:52/52 MP:49/49
+D-Knocker HP:78/126 MP:50/55
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Pisaca
+3-Bilwis
+4-Zouchouten
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Nanashi HP:99/140 MP:383/411
+2-Xi Wangmu HP:322/418 MP:360/405
+3-Fuxi HP:52/52 MP:49/49
+4-Knocker HP:78/126 MP:50/55
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Recarm MP:20
+2-Mudoon MP:10
+3-Ziodyne MP:14
+4-Tathlum Shot MP:7
+5-Agi MP:5
+6-Zan MP:5
+7-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Nanashi HP:99/140 MP:383/411
+2-Xi Wangmu HP:322/418 MP:360/405
+3-Fuxi HP:52/52 MP:49/49
+4-Knocker HP:78/126 MP:50/55
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Nanashi HP:99/140 MP:383/411
+2-Xi Wangmu HP:322/418 MP:360/405
+3-Fuxi HP:52/52 MP:49/49
+4-Knocker HP:78/126 MP:50/55
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Kei ataca a Knocker
+Knocker recibe 19 de daño
+Knocker termina con HP:59/126
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:704/760 MP:398/398
+B-Zouchouten HP:173/221 MP:214/214
+C-Bilwis HP:161/161 MP:31/31
+D-Pisaca HP:454/454 MP:80/90
+Equipo de Nanashi (J2)
+A-Nanashi HP:99/140 MP:383/411
+B-Xi Wangmu HP:322/418 MP:360/405
+C-Fuxi HP:52/52 MP:49/49
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pisaca
+2-Bilwis
+3-Zouchouten
+4-Kei
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hel HP:212/254 MP:226/246
+2-Kama HP:531/574 MP:257/257
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kama ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:704/760 MP:398/398
+B-Zouchouten HP:173/221 MP:214/214
+C-Bilwis HP:161/161 MP:31/31
+D-Kama HP:531/574 MP:257/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:99/140 MP:383/411
+B-Xi Wangmu HP:322/418 MP:360/405
+C-Fuxi HP:52/52 MP:49/49
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Bilwis
+2-Zouchouten
+3-Kei
+4-Kama
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hel HP:212/254 MP:226/246
+2-Pisaca HP:454/454 MP:80/90
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Hel ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:704/760 MP:398/398
+B-Zouchouten HP:173/221 MP:214/214
+C-Hel HP:212/254 MP:226/246
+D-Kama HP:531/574 MP:257/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:99/140 MP:383/411
+B-Xi Wangmu HP:322/418 MP:360/405
+C-Fuxi HP:52/52 MP:49/49
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zouchouten
+2-Kei
+3-Kama
+4-Hel
+----------------------------------------
+Seleccione una acción para Zouchouten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Bilwis HP:161/161 MP:31/31
+2-Pisaca HP:454/454 MP:80/90
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Bilwis ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:704/760 MP:398/398
+B-Bilwis HP:161/161 MP:31/31
+C-Hel HP:212/254 MP:226/246
+D-Kama HP:531/574 MP:257/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:99/140 MP:383/411
+B-Xi Wangmu HP:322/418 MP:360/405
+C-Fuxi HP:52/52 MP:49/49
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Kama
+3-Hel
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Nanashi HP:99/140 MP:383/411
+2-Xi Wangmu HP:322/418 MP:360/405
+3-Fuxi HP:52/52 MP:49/49
+4-Knocker HP:59/126 MP:50/55
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:704/760 MP:398/398
+B-Bilwis HP:161/161 MP:31/31
+C-Hel HP:212/254 MP:226/246
+D-Kama HP:531/574 MP:257/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:99/140 MP:383/411
+B-Xi Wangmu HP:322/418 MP:360/405
+C-Fuxi HP:52/52 MP:49/49
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Nanashi
+3-Knocker
+4-Fuxi
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Xi Wangmu use
+1-Makarakarn MP:50
+2-Myriad Arrows MP:30
+3-Invitation MP:45
+4-Megaton Press MP:17
+5-Doping MP:45
+6-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Jueyuan HP:106/154 MP:68/68
+2-Murmur HP:511/511 MP:229/229
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Xi Wangmu HP:322/418 MP:360/405 (Puesto 2)
+2-Fuxi HP:52/52 MP:49/49 (Puesto 3)
+3-Knocker HP:59/126 MP:50/55 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Murmur ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:704/760 MP:398/398
+B-Bilwis HP:161/161 MP:31/31
+C-Hel HP:212/254 MP:226/246
+D-Kama HP:531/574 MP:257/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:99/140 MP:383/411
+B-Murmur HP:511/511 MP:229/229
+C-Fuxi HP:52/52 MP:49/49
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Knocker
+3-Fuxi
+4-Murmur
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:704/760 MP:398/398
+B-Bilwis HP:161/161 MP:31/31
+C-Hel HP:212/254 MP:226/246
+D-Kama HP:531/574 MP:257/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:99/140 MP:383/411
+B-Murmur HP:511/511 MP:229/229
+C-Fuxi HP:52/52 MP:49/49
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Knocker
+2-Fuxi
+3-Murmur
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Knocker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Knocker use
+1-Bufu MP:5
+2-Rakukaja MP:15
+3-Taunt MP:20
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Knocker
+1-Kei HP:704/760 MP:398/398
+2-Bilwis HP:161/161 MP:31/31
+3-Hel HP:212/254 MP:226/246
+4-Kama HP:531/574 MP:257/257
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Knocker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:704/760 MP:398/398
+B-Bilwis HP:161/161 MP:31/31
+C-Hel HP:212/254 MP:226/246
+D-Kama HP:531/574 MP:257/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:99/140 MP:383/411
+B-Murmur HP:511/511 MP:229/229
+C-Fuxi HP:52/52 MP:49/49
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Fuxi
+2-Murmur
+3-Nanashi
+4-Knocker
+----------------------------------------
+Seleccione una acción para Fuxi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Fuxi use
+1-Zan MP:5
+2-Patra MP:5
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Fuxi
+1-Kei HP:704/760 MP:398/398
+2-Bilwis HP:161/161 MP:31/31
+3-Hel HP:212/254 MP:226/246
+4-Kama HP:531/574 MP:257/257
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Fuxi lanza viento a Bilwis
+Bilwis recibe 25 de daño
+Bilwis termina con HP:136/161
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:704/760 MP:398/398
+B-Bilwis HP:136/161 MP:31/31
+C-Hel HP:212/254 MP:226/246
+D-Kama HP:531/574 MP:257/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:99/140 MP:383/411
+B-Murmur HP:511/511 MP:229/229
+C-Fuxi HP:52/52 MP:44/49
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Murmur
+2-Nanashi
+3-Knocker
+4-Fuxi
+----------------------------------------
+Seleccione una acción para Murmur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:704/760 MP:398/398
+B-Bilwis HP:136/161 MP:31/31
+C-Hel HP:212/254 MP:226/246
+D-Kama HP:531/574 MP:257/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:99/140 MP:383/411
+B-Murmur HP:511/511 MP:229/229
+C-Fuxi HP:52/52 MP:44/49
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Knocker
+3-Fuxi
+4-Murmur
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:704/760 MP:398/398
+2-Bilwis HP:136/161 MP:31/31
+3-Hel HP:212/254 MP:226/246
+4-Kama HP:531/574 MP:257/257
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nanashi ataca a Bilwis
+Bilwis recibe 92 de daño
+Bilwis termina con HP:44/161
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:704/760 MP:398/398
+B-Bilwis HP:44/161 MP:31/31
+C-Hel HP:212/254 MP:226/246
+D-Kama HP:531/574 MP:257/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:99/140 MP:383/411
+B-Murmur HP:511/511 MP:229/229
+C-Fuxi HP:52/52 MP:44/49
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Hel
+3-Kei
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Zouchouten HP:173/221 MP:214/214
+2-Pisaca HP:454/454 MP:80/90
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:704/760 MP:398/398
+B-Bilwis HP:44/161 MP:31/31
+C-Hel HP:212/254 MP:226/246
+D-Kama HP:531/574 MP:257/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:99/140 MP:383/411
+B-Murmur HP:511/511 MP:229/229
+C-Fuxi HP:52/52 MP:44/49
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hel
+2-Kei
+3-Bilwis
+4-Kama
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hel use
+1-Mamudo MP:18
+2-Sabbatma MP:20
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Zouchouten HP:173/221 MP:214/214
+2-Pisaca HP:454/454 MP:80/90
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Bilwis HP:44/161 MP:31/31 (Puesto 2)
+2-Hel HP:212/254 MP:226/246 (Puesto 3)
+3-Kama HP:531/574 MP:257/257 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Nanashi HP:99/140 MP:383/411
+2-Murmur HP:511/511 MP:229/229
+3-Fuxi HP:52/52 MP:44/49
+4-Knocker HP:59/126 MP:50/55
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Hel ataca a Murmur
+Murmur recibe 26 de daño
+Murmur termina con HP:485/511
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:704/760 MP:398/398
+B-Bilwis HP:44/161 MP:31/31
+C-Hel HP:212/254 MP:226/246
+D-Kama HP:531/574 MP:257/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:99/140 MP:383/411
+B-Murmur HP:485/511 MP:229/229
+C-Fuxi HP:52/52 MP:44/49
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Bilwis
+3-Kama
+4-Hel
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Recarm MP:20
+2-Mudoon MP:10
+3-Ziodyne MP:14
+4-Tathlum Shot MP:7
+5-Agi MP:5
+6-Zan MP:5
+7-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Nanashi HP:99/140 MP:383/411
+2-Murmur HP:485/511 MP:229/229
+3-Fuxi HP:52/52 MP:44/49
+4-Knocker HP:59/126 MP:50/55
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kei lanza fuego a Nanashi
+Nanashi recibe 42 de daño
+Nanashi termina con HP:57/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:704/760 MP:393/398
+B-Bilwis HP:44/161 MP:31/31
+C-Hel HP:212/254 MP:226/246
+D-Kama HP:531/574 MP:257/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:57/140 MP:383/411
+B-Murmur HP:485/511 MP:229/229
+C-Fuxi HP:52/52 MP:44/49
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bilwis
+2-Kama
+3-Hel
+4-Kei
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:704/760 MP:393/398
+B-Bilwis HP:44/161 MP:31/31
+C-Hel HP:212/254 MP:226/246
+D-Kama HP:531/574 MP:257/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:57/140 MP:383/411
+B-Murmur HP:485/511 MP:229/229
+C-Fuxi HP:52/52 MP:44/49
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kama
+2-Hel
+3-Kei
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kama use
+1-Tetraja MP:15
+2-Madness Needle MP:11
+3-Diarahan MP:16
+4-Heaven's Bow MP:26
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Kei HP:704/760 MP:393/398
+2-Bilwis HP:44/161 MP:31/31
+3-Hel HP:212/254 MP:226/246
+4-Kama HP:531/574 MP:257/257
+5-Zouchouten HP:173/221 MP:214/214
+6-Pisaca HP:454/454 MP:80/90
+7-Cancelar
+INPUT: 2
+----------------------------------------
+Kama cura a Bilwis
+Bilwis recibe 161 de HP
+Bilwis termina con HP:161/161
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:704/760 MP:393/398
+B-Bilwis HP:161/161 MP:31/31
+C-Hel HP:212/254 MP:226/246
+D-Kama HP:531/574 MP:241/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:57/140 MP:383/411
+B-Murmur HP:485/511 MP:229/229
+C-Fuxi HP:52/52 MP:44/49
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Kei
+3-Bilwis
+4-Kama
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hel use
+1-Mamudo MP:18
+2-Sabbatma MP:20
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Zouchouten HP:173/221 MP:214/214
+2-Pisaca HP:454/454 MP:80/90
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Bilwis HP:161/161 MP:31/31 (Puesto 2)
+2-Hel HP:212/254 MP:226/246 (Puesto 3)
+3-Kama HP:531/574 MP:241/257 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Zouchouten ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:704/760 MP:393/398
+B-Zouchouten HP:173/221 MP:214/214
+C-Hel HP:212/254 MP:206/246
+D-Kama HP:531/574 MP:241/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:57/140 MP:383/411
+B-Murmur HP:485/511 MP:229/229
+C-Fuxi HP:52/52 MP:44/49
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Murmur
+2-Nanashi
+3-Knocker
+4-Fuxi
+----------------------------------------
+Seleccione una acción para Murmur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Murmur
+1-Kei HP:704/760 MP:393/398
+2-Zouchouten HP:173/221 MP:214/214
+3-Hel HP:212/254 MP:206/246
+4-Kama HP:531/574 MP:241/257
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Murmur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Murmur
+1-Kei HP:704/760 MP:393/398
+2-Zouchouten HP:173/221 MP:214/214
+3-Hel HP:212/254 MP:206/246
+4-Kama HP:531/574 MP:241/257
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Murmur ataca a Hel
+Hel recibe 42 de daño
+Hel termina con HP:170/254
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:704/760 MP:393/398
+B-Zouchouten HP:173/221 MP:214/214
+C-Hel HP:170/254 MP:206/246
+D-Kama HP:531/574 MP:241/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:57/140 MP:383/411
+B-Murmur HP:485/511 MP:229/229
+C-Fuxi HP:52/52 MP:44/49
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Knocker
+3-Fuxi
+4-Murmur
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nanashi use
+1-Hama MP:6
+2-Sabbatma MP:20
+3-Zandyne MP:14
+4-Stigma Attack MP:20
+5-Agidyne MP:14
+6-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Jueyuan HP:106/154 MP:68/68
+2-Xi Wangmu HP:322/418 MP:315/405
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Jueyuan HP:106/154 MP:68/68
+2-Xi Wangmu HP:322/418 MP:315/405
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Murmur HP:485/511 MP:229/229 (Puesto 2)
+2-Fuxi HP:52/52 MP:44/49 (Puesto 3)
+3-Knocker HP:59/126 MP:50/55 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Jueyuan HP:106/154 MP:68/68
+2-Xi Wangmu HP:322/418 MP:315/405
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Murmur HP:485/511 MP:229/229 (Puesto 2)
+2-Fuxi HP:52/52 MP:44/49 (Puesto 3)
+3-Knocker HP:59/126 MP:50/55 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Xi Wangmu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:704/760 MP:393/398
+B-Zouchouten HP:173/221 MP:214/214
+C-Hel HP:170/254 MP:206/246
+D-Kama HP:531/574 MP:241/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:57/140 MP:383/411
+B-Murmur HP:485/511 MP:229/229
+C-Xi Wangmu HP:322/418 MP:315/405
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Knocker
+2-Xi Wangmu
+3-Murmur
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Knocker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Jueyuan HP:106/154 MP:68/68
+2-Fuxi HP:52/52 MP:44/49
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Knocker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Knocker
+1-Kei HP:704/760 MP:393/398
+2-Zouchouten HP:173/221 MP:214/214
+3-Hel HP:170/254 MP:206/246
+4-Kama HP:531/574 MP:241/257
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Knocker ataca a Zouchouten
+Zouchouten recibe 8 de daño
+Zouchouten termina con HP:165/221
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:704/760 MP:393/398
+B-Zouchouten HP:165/221 MP:214/214
+C-Hel HP:170/254 MP:206/246
+D-Kama HP:531/574 MP:241/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:57/140 MP:383/411
+B-Murmur HP:485/511 MP:229/229
+C-Xi Wangmu HP:322/418 MP:315/405
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Murmur
+3-Nanashi
+4-Knocker
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:704/760 MP:393/398
+B-Zouchouten HP:165/221 MP:214/214
+C-Hel HP:170/254 MP:206/246
+D-Kama HP:531/574 MP:241/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:57/140 MP:383/411
+B-Murmur HP:485/511 MP:229/229
+C-Xi Wangmu HP:322/418 MP:315/405
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Murmur
+2-Nanashi
+3-Knocker
+4-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Murmur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Murmur
+1-Kei HP:704/760 MP:393/398
+2-Zouchouten HP:165/221 MP:214/214
+3-Hel HP:170/254 MP:206/246
+4-Kama HP:531/574 MP:241/257
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Murmur ataca a Zouchouten
+Zouchouten recibe 42 de daño
+Zouchouten termina con HP:123/221
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:704/760 MP:393/398
+B-Zouchouten HP:123/221 MP:214/214
+C-Hel HP:170/254 MP:206/246
+D-Kama HP:531/574 MP:241/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:57/140 MP:383/411
+B-Murmur HP:485/511 MP:229/229
+C-Xi Wangmu HP:322/418 MP:315/405
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Knocker
+3-Xi Wangmu
+4-Murmur
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Jueyuan HP:106/154 MP:68/68
+2-Fuxi HP:52/52 MP:44/49
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Jueyuan HP:106/154 MP:68/68
+2-Fuxi HP:52/52 MP:44/49
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Murmur HP:485/511 MP:229/229 (Puesto 2)
+2-Xi Wangmu HP:322/418 MP:315/405 (Puesto 3)
+3-Knocker HP:59/126 MP:50/55 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Jueyuan ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:704/760 MP:393/398
+B-Zouchouten HP:123/221 MP:214/214
+C-Hel HP:170/254 MP:206/246
+D-Kama HP:531/574 MP:241/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:57/140 MP:383/411
+B-Jueyuan HP:106/154 MP:68/68
+C-Xi Wangmu HP:322/418 MP:315/405
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Knocker
+2-Xi Wangmu
+3-Jueyuan
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Knocker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Knocker use
+1-Bufu MP:5
+2-Rakukaja MP:15
+3-Taunt MP:20
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Knocker
+1-Kei HP:704/760 MP:393/398
+2-Zouchouten HP:123/221 MP:214/214
+3-Hel HP:170/254 MP:206/246
+4-Kama HP:531/574 MP:241/257
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Knocker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Knocker
+1-Kei HP:704/760 MP:393/398
+2-Zouchouten HP:123/221 MP:214/214
+3-Hel HP:170/254 MP:206/246
+4-Kama HP:531/574 MP:241/257
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Knocker ataca a Kei
+Kei es resistente el ataque de Knocker
+Kei recibe 4 de daño
+Kei termina con HP:700/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:700/760 MP:393/398
+B-Zouchouten HP:123/221 MP:214/214
+C-Hel HP:170/254 MP:206/246
+D-Kama HP:531/574 MP:241/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:57/140 MP:383/411
+B-Jueyuan HP:106/154 MP:68/68
+C-Xi Wangmu HP:322/418 MP:315/405
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Hel
+3-Zouchouten
+4-Kei
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Bilwis HP:161/161 MP:31/31
+2-Pisaca HP:454/454 MP:80/90
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Bilwis ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:700/760 MP:393/398
+B-Zouchouten HP:123/221 MP:214/214
+C-Hel HP:170/254 MP:206/246
+D-Bilwis HP:161/161 MP:31/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:57/140 MP:383/411
+B-Jueyuan HP:106/154 MP:68/68
+C-Xi Wangmu HP:322/418 MP:315/405
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hel
+2-Zouchouten
+3-Kei
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Nanashi HP:57/140 MP:383/411
+2-Jueyuan HP:106/154 MP:68/68
+3-Xi Wangmu HP:322/418 MP:315/405
+4-Knocker HP:59/126 MP:50/55
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Hel ataca a Jueyuan
+Jueyuan recibe 26 de daño
+Jueyuan termina con HP:80/154
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:700/760 MP:393/398
+B-Zouchouten HP:123/221 MP:214/214
+C-Hel HP:170/254 MP:206/246
+D-Bilwis HP:161/161 MP:31/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:57/140 MP:383/411
+B-Jueyuan HP:80/154 MP:68/68
+C-Xi Wangmu HP:322/418 MP:315/405
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zouchouten
+2-Kei
+3-Bilwis
+4-Hel
+----------------------------------------
+Seleccione una acción para Zouchouten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kama HP:531/574 MP:241/257
+2-Pisaca HP:454/454 MP:80/90
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kama ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:700/760 MP:393/398
+B-Kama HP:531/574 MP:241/257
+C-Hel HP:170/254 MP:206/246
+D-Bilwis HP:161/161 MP:31/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:57/140 MP:383/411
+B-Jueyuan HP:80/154 MP:68/68
+C-Xi Wangmu HP:322/418 MP:315/405
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Bilwis
+3-Hel
+4-Kama
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:700/760 MP:393/398
+B-Kama HP:531/574 MP:241/257
+C-Hel HP:170/254 MP:206/246
+D-Bilwis HP:161/161 MP:31/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:57/140 MP:383/411
+B-Jueyuan HP:80/154 MP:68/68
+C-Xi Wangmu HP:322/418 MP:315/405
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bilwis
+2-Hel
+3-Kama
+4-Kei
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Bilwis use
+1-Poison Claw MP:9
+2-Dia MP:5
+3-Lunge MP:6
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Bilwis
+1-Nanashi HP:57/140 MP:383/411
+2-Jueyuan HP:80/154 MP:68/68
+3-Xi Wangmu HP:322/418 MP:315/405
+4-Knocker HP:59/126 MP:50/55
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Bilwis ataca a Xi Wangmu
+Xi Wangmu recibe 34 de daño
+Xi Wangmu termina con HP:288/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:700/760 MP:393/398
+B-Kama HP:531/574 MP:241/257
+C-Hel HP:170/254 MP:206/246
+D-Bilwis HP:161/161 MP:25/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:57/140 MP:383/411
+B-Jueyuan HP:80/154 MP:68/68
+C-Xi Wangmu HP:288/418 MP:315/405
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Kama
+3-Kei
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Zouchouten HP:123/221 MP:214/214
+2-Pisaca HP:454/454 MP:80/90
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Pisaca ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:700/760 MP:393/398
+B-Kama HP:531/574 MP:241/257
+C-Pisaca HP:454/454 MP:80/90
+D-Bilwis HP:161/161 MP:25/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:57/140 MP:383/411
+B-Jueyuan HP:80/154 MP:68/68
+C-Xi Wangmu HP:288/418 MP:315/405
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kama
+2-Kei
+3-Bilwis
+4-Pisaca
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Nanashi HP:57/140 MP:383/411
+2-Jueyuan HP:80/154 MP:68/68
+3-Xi Wangmu HP:288/418 MP:315/405
+4-Knocker HP:59/126 MP:50/55
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kama ataca a Nanashi
+Nanashi recibe 48 de daño
+Nanashi termina con HP:9/140
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:700/760 MP:393/398
+B-Kama HP:531/574 MP:241/257
+C-Pisaca HP:454/454 MP:80/90
+D-Bilwis HP:161/161 MP:25/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:9/140 MP:383/411
+B-Jueyuan HP:80/154 MP:68/68
+C-Xi Wangmu HP:288/418 MP:315/405
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Nanashi
+3-Jueyuan
+4-Knocker
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Xi Wangmu use
+1-Makarakarn MP:50
+2-Myriad Arrows MP:30
+3-Invitation MP:45
+4-Megaton Press MP:17
+5-Doping MP:45
+6-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Fuxi HP:52/52 MP:44/49
+2-Murmur HP:485/511 MP:229/229
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Jueyuan HP:80/154 MP:68/68 (Puesto 2)
+2-Xi Wangmu HP:288/418 MP:315/405 (Puesto 3)
+3-Knocker HP:59/126 MP:50/55 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:700/760 MP:393/398
+B-Kama HP:531/574 MP:241/257
+C-Pisaca HP:454/454 MP:80/90
+D-Bilwis HP:161/161 MP:25/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:9/140 MP:383/411
+B-Jueyuan HP:80/154 MP:68/68
+C-Xi Wangmu HP:288/418 MP:315/405
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Jueyuan
+3-Knocker
+4-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:700/760 MP:393/398
+B-Kama HP:531/574 MP:241/257
+C-Pisaca HP:454/454 MP:80/90
+D-Bilwis HP:161/161 MP:25/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:9/140 MP:383/411
+B-Jueyuan HP:80/154 MP:68/68
+C-Xi Wangmu HP:288/418 MP:315/405
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Jueyuan
+2-Knocker
+3-Xi Wangmu
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Jueyuan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Jueyuan
+1-Kei HP:700/760 MP:393/398
+2-Kama HP:531/574 MP:241/257
+3-Pisaca HP:454/454 MP:80/90
+4-Bilwis HP:161/161 MP:25/31
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Jueyuan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Jueyuan use
+1-Poison Claw MP:9
+2-Agi MP:5
+3-Posumudi MP:5
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Jueyuan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:700/760 MP:393/398
+B-Kama HP:531/574 MP:241/257
+C-Pisaca HP:454/454 MP:80/90
+D-Bilwis HP:161/161 MP:25/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:9/140 MP:383/411
+B-Jueyuan HP:80/154 MP:68/68
+C-Xi Wangmu HP:288/418 MP:315/405
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Knocker
+2-Xi Wangmu
+3-Nanashi
+4-Jueyuan
+----------------------------------------
+Seleccione una acción para Knocker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Knocker
+1-Kei HP:700/760 MP:393/398
+2-Kama HP:531/574 MP:241/257
+3-Pisaca HP:454/454 MP:80/90
+4-Bilwis HP:161/161 MP:25/31
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Knocker ataca a Kei
+Kei es resistente el ataque de Knocker
+Kei recibe 4 de daño
+Kei termina con HP:696/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:696/760 MP:393/398
+B-Kama HP:531/574 MP:241/257
+C-Pisaca HP:454/454 MP:80/90
+D-Bilwis HP:161/161 MP:25/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:9/140 MP:383/411
+B-Jueyuan HP:80/154 MP:68/68
+C-Xi Wangmu HP:288/418 MP:315/405
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Nanashi
+3-Jueyuan
+4-Knocker
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Kei HP:696/760 MP:393/398
+2-Kama HP:531/574 MP:241/257
+3-Pisaca HP:454/454 MP:80/90
+4-Bilwis HP:161/161 MP:25/31
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Xi Wangmu ataca a Kei
+Kei es resistente el ataque de Xi Wangmu
+Kei recibe 22 de daño
+Kei termina con HP:674/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:674/760 MP:393/398
+B-Kama HP:531/574 MP:241/257
+C-Pisaca HP:454/454 MP:80/90
+D-Bilwis HP:161/161 MP:25/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:9/140 MP:383/411
+B-Jueyuan HP:80/154 MP:68/68
+C-Xi Wangmu HP:288/418 MP:315/405
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Jueyuan
+3-Knocker
+4-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:674/760 MP:393/398
+2-Kama HP:531/574 MP:241/257
+3-Pisaca HP:454/454 MP:80/90
+4-Bilwis HP:161/161 MP:25/31
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nanashi dispara a Kama
+Kama bloquea el ataque de Nanashi
+Kama termina con HP:531/574
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:674/760 MP:393/398
+B-Kama HP:531/574 MP:241/257
+C-Pisaca HP:454/454 MP:80/90
+D-Bilwis HP:161/161 MP:25/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:9/140 MP:383/411
+B-Jueyuan HP:80/154 MP:68/68
+C-Xi Wangmu HP:288/418 MP:315/405
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Pisaca
+3-Kei
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kama use
+1-Tetraja MP:15
+2-Madness Needle MP:11
+3-Diarahan MP:16
+4-Heaven's Bow MP:26
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Kei HP:674/760 MP:393/398
+2-Kama HP:531/574 MP:241/257
+3-Pisaca HP:454/454 MP:80/90
+4-Bilwis HP:161/161 MP:25/31
+5-Zouchouten HP:123/221 MP:214/214
+6-Hel HP:170/254 MP:206/246
+7-Cancelar
+INPUT: 2
+----------------------------------------
+Kama cura a Kama
+Kama recibe 574 de HP
+Kama termina con HP:574/574
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:674/760 MP:393/398
+B-Kama HP:574/574 MP:225/257
+C-Pisaca HP:454/454 MP:80/90
+D-Bilwis HP:161/161 MP:25/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:9/140 MP:383/411
+B-Jueyuan HP:80/154 MP:68/68
+C-Xi Wangmu HP:288/418 MP:315/405
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pisaca
+2-Kei
+3-Bilwis
+4-Kama
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pisaca use
+1-Bind Voice MP:15
+2-Life Drain MP:5
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:674/760 MP:393/398
+B-Kama HP:574/574 MP:225/257
+C-Pisaca HP:454/454 MP:80/90
+D-Bilwis HP:161/161 MP:25/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:9/140 MP:383/411
+B-Jueyuan HP:80/154 MP:68/68
+C-Xi Wangmu HP:288/418 MP:315/405
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Bilwis
+3-Kama
+4-Pisaca
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Nanashi HP:9/140 MP:383/411
+2-Jueyuan HP:80/154 MP:68/68
+3-Xi Wangmu HP:288/418 MP:315/405
+4-Knocker HP:59/126 MP:50/55
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kei dispara a Xi Wangmu
+Xi Wangmu recibe 15 de daño
+Xi Wangmu termina con HP:273/418
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:674/760 MP:393/398
+B-Kama HP:574/574 MP:225/257
+C-Pisaca HP:454/454 MP:80/90
+D-Bilwis HP:161/161 MP:25/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:9/140 MP:383/411
+B-Jueyuan HP:80/154 MP:68/68
+C-Xi Wangmu HP:273/418 MP:315/405
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bilwis
+2-Kama
+3-Pisaca
+4-Kei
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bilwis
+1-Nanashi HP:9/140 MP:383/411
+2-Jueyuan HP:80/154 MP:68/68
+3-Xi Wangmu HP:273/418 MP:315/405
+4-Knocker HP:59/126 MP:50/55
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Bilwis ataca a Jueyuan
+Jueyuan recibe 8 de daño
+Jueyuan termina con HP:72/154
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:674/760 MP:393/398
+B-Kama HP:574/574 MP:225/257
+C-Pisaca HP:454/454 MP:80/90
+D-Bilwis HP:161/161 MP:25/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:9/140 MP:383/411
+B-Jueyuan HP:72/154 MP:68/68
+C-Xi Wangmu HP:273/418 MP:315/405
+D-Knocker HP:59/126 MP:50/55
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Pisaca
+3-Kei
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Nanashi HP:9/140 MP:383/411
+2-Jueyuan HP:72/154 MP:68/68
+3-Xi Wangmu HP:273/418 MP:315/405
+4-Knocker HP:59/126 MP:50/55
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Kama ataca a Knocker
+Knocker recibe 48 de daño
+Knocker termina con HP:11/126
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:674/760 MP:393/398
+B-Kama HP:574/574 MP:225/257
+C-Pisaca HP:454/454 MP:80/90
+D-Bilwis HP:161/161 MP:25/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:9/140 MP:383/411
+B-Jueyuan HP:72/154 MP:68/68
+C-Xi Wangmu HP:273/418 MP:315/405
+D-Knocker HP:11/126 MP:50/55
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Nanashi
+3-Jueyuan
+4-Knocker
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:674/760 MP:393/398
+B-Kama HP:574/574 MP:225/257
+C-Pisaca HP:454/454 MP:80/90
+D-Bilwis HP:161/161 MP:25/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:9/140 MP:383/411
+B-Jueyuan HP:72/154 MP:68/68
+C-Xi Wangmu HP:273/418 MP:315/405
+D-Knocker HP:11/126 MP:50/55
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Jueyuan
+3-Knocker
+4-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:674/760 MP:393/398
+2-Kama HP:574/574 MP:225/257
+3-Pisaca HP:454/454 MP:80/90
+4-Bilwis HP:161/161 MP:25/31
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nanashi ataca a Kama
+Kama es resistente el ataque de Nanashi
+Kama recibe 46 de daño
+Kama termina con HP:528/574
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:674/760 MP:393/398
+B-Kama HP:528/574 MP:225/257
+C-Pisaca HP:454/454 MP:80/90
+D-Bilwis HP:161/161 MP:25/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:9/140 MP:383/411
+B-Jueyuan HP:72/154 MP:68/68
+C-Xi Wangmu HP:273/418 MP:315/405
+D-Knocker HP:11/126 MP:50/55
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Jueyuan
+2-Knocker
+3-Xi Wangmu
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Jueyuan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Fuxi HP:52/52 MP:44/49
+2-Murmur HP:485/511 MP:229/229
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Fuxi ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:674/760 MP:393/398
+B-Kama HP:528/574 MP:225/257
+C-Pisaca HP:454/454 MP:80/90
+D-Bilwis HP:161/161 MP:25/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:9/140 MP:383/411
+B-Fuxi HP:52/52 MP:44/49
+C-Xi Wangmu HP:273/418 MP:315/405
+D-Knocker HP:11/126 MP:50/55
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Knocker
+2-Xi Wangmu
+3-Nanashi
+4-Fuxi
+----------------------------------------
+Seleccione una acción para Knocker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:674/760 MP:393/398
+B-Kama HP:528/574 MP:225/257
+C-Pisaca HP:454/454 MP:80/90
+D-Bilwis HP:161/161 MP:25/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:9/140 MP:383/411
+B-Fuxi HP:52/52 MP:44/49
+C-Xi Wangmu HP:273/418 MP:315/405
+D-Knocker HP:11/126 MP:50/55
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Nanashi
+3-Fuxi
+4-Knocker
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Kei HP:674/760 MP:393/398
+2-Kama HP:528/574 MP:225/257
+3-Pisaca HP:454/454 MP:80/90
+4-Bilwis HP:161/161 MP:25/31
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Xi Wangmu ataca a Kama
+Kama es resistente el ataque de Xi Wangmu
+Kama recibe 22 de daño
+Kama termina con HP:506/574
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:674/760 MP:393/398
+B-Kama HP:506/574 MP:225/257
+C-Pisaca HP:454/454 MP:80/90
+D-Bilwis HP:161/161 MP:25/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:9/140 MP:383/411
+B-Fuxi HP:52/52 MP:44/49
+C-Xi Wangmu HP:273/418 MP:315/405
+D-Knocker HP:11/126 MP:50/55
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Fuxi
+3-Knocker
+4-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:674/760 MP:393/398
+2-Kama HP:506/574 MP:225/257
+3-Pisaca HP:454/454 MP:80/90
+4-Bilwis HP:161/161 MP:25/31
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nanashi dispara a Pisaca
+Pisaca recibe 31 de daño
+Pisaca termina con HP:423/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:674/760 MP:393/398
+B-Kama HP:506/574 MP:225/257
+C-Pisaca HP:423/454 MP:80/90
+D-Bilwis HP:161/161 MP:25/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:9/140 MP:383/411
+B-Fuxi HP:52/52 MP:44/49
+C-Xi Wangmu HP:273/418 MP:315/405
+D-Knocker HP:11/126 MP:50/55
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Pisaca
+3-Kei
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kama use
+1-Tetraja MP:15
+2-Madness Needle MP:11
+3-Diarahan MP:16
+4-Heaven's Bow MP:26
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Kei HP:674/760 MP:393/398
+2-Kama HP:506/574 MP:225/257
+3-Pisaca HP:423/454 MP:80/90
+4-Bilwis HP:161/161 MP:25/31
+5-Zouchouten HP:123/221 MP:214/214
+6-Hel HP:170/254 MP:206/246
+7-Cancelar
+INPUT: 3
+----------------------------------------
+Kama cura a Pisaca
+Pisaca recibe 454 de HP
+Pisaca termina con HP:454/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:674/760 MP:393/398
+B-Kama HP:506/574 MP:209/257
+C-Pisaca HP:454/454 MP:80/90
+D-Bilwis HP:161/161 MP:25/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:9/140 MP:383/411
+B-Fuxi HP:52/52 MP:44/49
+C-Xi Wangmu HP:273/418 MP:315/405
+D-Knocker HP:11/126 MP:50/55
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pisaca
+2-Kei
+3-Bilwis
+4-Kama
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:674/760 MP:393/398
+B-Kama HP:506/574 MP:209/257
+C-Pisaca HP:454/454 MP:80/90
+D-Bilwis HP:161/161 MP:25/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:9/140 MP:383/411
+B-Fuxi HP:52/52 MP:44/49
+C-Xi Wangmu HP:273/418 MP:315/405
+D-Knocker HP:11/126 MP:50/55
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Bilwis
+3-Kama
+4-Pisaca
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Recarm MP:20
+2-Mudoon MP:10
+3-Ziodyne MP:14
+4-Tathlum Shot MP:7
+5-Agi MP:5
+6-Zan MP:5
+7-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Nanashi HP:9/140 MP:383/411
+2-Fuxi HP:52/52 MP:44/49
+3-Xi Wangmu HP:273/418 MP:315/405
+4-Knocker HP:11/126 MP:50/55
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kei lanza electricidad a Fuxi
+Fuxi recibe 69 de daño
+Fuxi termina con HP:0/52
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:674/760 MP:379/398
+B-Kama HP:506/574 MP:209/257
+C-Pisaca HP:454/454 MP:80/90
+D-Bilwis HP:161/161 MP:25/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:9/140 MP:383/411
+B-
+C-Xi Wangmu HP:273/418 MP:315/405
+D-Knocker HP:11/126 MP:50/55
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bilwis
+2-Kama
+3-Pisaca
+4-Kei
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Bilwis use
+1-Poison Claw MP:9
+2-Dia MP:5
+3-Lunge MP:6
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Bilwis
+1-Kei HP:674/760 MP:379/398
+2-Kama HP:506/574 MP:209/257
+3-Pisaca HP:454/454 MP:80/90
+4-Bilwis HP:161/161 MP:25/31
+5-Zouchouten HP:123/221 MP:214/214
+6-Hel HP:170/254 MP:206/246
+7-Cancelar
+INPUT: 3
+----------------------------------------
+Bilwis cura a Pisaca
+Pisaca recibe 113 de HP
+Pisaca termina con HP:454/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:674/760 MP:379/398
+B-Kama HP:506/574 MP:209/257
+C-Pisaca HP:454/454 MP:80/90
+D-Bilwis HP:161/161 MP:20/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:9/140 MP:383/411
+B-
+C-Xi Wangmu HP:273/418 MP:315/405
+D-Knocker HP:11/126 MP:50/55
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Pisaca
+3-Kei
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Nanashi HP:9/140 MP:383/411
+2-Xi Wangmu HP:273/418 MP:315/405
+3-Knocker HP:11/126 MP:50/55
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Zouchouten HP:123/221 MP:214/214
+2-Hel HP:170/254 MP:206/246
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Zouchouten HP:123/221 MP:214/214
+2-Hel HP:170/254 MP:206/246
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Zouchouten HP:123/221 MP:214/214
+2-Hel HP:170/254 MP:206/246
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Zouchouten ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:674/760 MP:379/398
+B-Zouchouten HP:123/221 MP:214/214
+C-Pisaca HP:454/454 MP:80/90
+D-Bilwis HP:161/161 MP:20/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:9/140 MP:383/411
+B-
+C-Xi Wangmu HP:273/418 MP:315/405
+D-Knocker HP:11/126 MP:50/55
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pisaca
+2-Kei
+3-Bilwis
+4-Zouchouten
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pisaca
+1-Nanashi HP:9/140 MP:383/411
+2-Xi Wangmu HP:273/418 MP:315/405
+3-Knocker HP:11/126 MP:50/55
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Pisaca ataca a Nanashi
+Nanashi recibe 33 de daño
+Nanashi termina con HP:0/140
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:674/760 MP:379/398
+B-Zouchouten HP:123/221 MP:214/214
+C-Pisaca HP:454/454 MP:80/90
+D-Bilwis HP:161/161 MP:20/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:383/411
+B-
+C-Xi Wangmu HP:273/418 MP:315/405
+D-Knocker HP:11/126 MP:50/55
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Knocker
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Xi Wangmu use
+1-Makarakarn MP:50
+2-Myriad Arrows MP:30
+3-Invitation MP:45
+4-Megaton Press MP:17
+5-Doping MP:45
+6-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Jueyuan HP:72/154 MP:68/68
+2-Fuxi HP:0/52 MP:44/49
+3-Murmur HP:485/511 MP:229/229
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Xi Wangmu HP:273/418 MP:315/405 (Puesto 3)
+3-Knocker HP:11/126 MP:50/55 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Kei HP:674/760 MP:379/398
+2-Zouchouten HP:123/221 MP:214/214
+3-Pisaca HP:454/454 MP:80/90
+4-Bilwis HP:161/161 MP:20/31
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Xi Wangmu ataca a Bilwis
+Bilwis recibe 44 de daño
+Bilwis termina con HP:117/161
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:674/760 MP:379/398
+B-Zouchouten HP:123/221 MP:214/214
+C-Pisaca HP:454/454 MP:80/90
+D-Bilwis HP:117/161 MP:20/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:383/411
+B-
+C-Xi Wangmu HP:273/418 MP:315/405
+D-Knocker HP:11/126 MP:50/55
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Knocker
+2-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Knocker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Knocker
+1-Kei HP:674/760 MP:379/398
+2-Zouchouten HP:123/221 MP:214/214
+3-Pisaca HP:454/454 MP:80/90
+4-Bilwis HP:117/161 MP:20/31
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Knocker ataca a Pisaca
+Pisaca recibe 8 de daño
+Pisaca termina con HP:446/454
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:674/760 MP:379/398
+B-Zouchouten HP:123/221 MP:214/214
+C-Pisaca HP:446/454 MP:80/90
+D-Bilwis HP:117/161 MP:20/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:383/411
+B-
+C-Xi Wangmu HP:273/418 MP:315/405
+D-Knocker HP:11/126 MP:50/55
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pisaca
+2-Zouchouten
+3-Kei
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pisaca
+1-Xi Wangmu HP:273/418 MP:315/405
+2-Knocker HP:11/126 MP:50/55
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Pisaca
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hel HP:170/254 MP:206/246
+2-Kama HP:506/574 MP:209/257
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kama ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:674/760 MP:379/398
+B-Zouchouten HP:123/221 MP:214/214
+C-Kama HP:506/574 MP:209/257
+D-Bilwis HP:117/161 MP:20/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:383/411
+B-
+C-Xi Wangmu HP:273/418 MP:315/405
+D-Knocker HP:11/126 MP:50/55
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Zouchouten
+2-Kei
+3-Bilwis
+4-Kama
+----------------------------------------
+Seleccione una acción para Zouchouten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zouchouten
+1-Xi Wangmu HP:273/418 MP:315/405
+2-Knocker HP:11/126 MP:50/55
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Zouchouten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:674/760 MP:379/398
+B-Zouchouten HP:123/221 MP:214/214
+C-Kama HP:506/574 MP:209/257
+D-Bilwis HP:117/161 MP:20/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:383/411
+B-
+C-Xi Wangmu HP:273/418 MP:315/405
+D-Knocker HP:11/126 MP:50/55
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Bilwis
+3-Kama
+4-Zouchouten
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:674/760 MP:379/398
+B-Zouchouten HP:123/221 MP:214/214
+C-Kama HP:506/574 MP:209/257
+D-Bilwis HP:117/161 MP:20/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:383/411
+B-
+C-Xi Wangmu HP:273/418 MP:315/405
+D-Knocker HP:11/126 MP:50/55
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Bilwis
+2-Kama
+3-Zouchouten
+4-Kei
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:674/760 MP:379/398
+B-Zouchouten HP:123/221 MP:214/214
+C-Kama HP:506/574 MP:209/257
+D-Bilwis HP:117/161 MP:20/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:383/411
+B-
+C-Xi Wangmu HP:273/418 MP:315/405
+D-Knocker HP:11/126 MP:50/55
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Zouchouten
+3-Kei
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kama use
+1-Tetraja MP:15
+2-Madness Needle MP:11
+3-Diarahan MP:16
+4-Heaven's Bow MP:26
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kama use
+1-Tetraja MP:15
+2-Madness Needle MP:11
+3-Diarahan MP:16
+4-Heaven's Bow MP:26
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hel HP:170/254 MP:206/246
+2-Pisaca HP:446/454 MP:80/90
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Hel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:674/760 MP:379/398
+B-Zouchouten HP:123/221 MP:214/214
+C-Hel HP:170/254 MP:206/246
+D-Bilwis HP:117/161 MP:20/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:383/411
+B-
+C-Xi Wangmu HP:273/418 MP:315/405
+D-Knocker HP:11/126 MP:50/55
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Zouchouten
+2-Kei
+3-Bilwis
+4-Hel
+----------------------------------------
+Seleccione una acción para Zouchouten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zouchouten
+1-Xi Wangmu HP:273/418 MP:315/405
+2-Knocker HP:11/126 MP:50/55
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Zouchouten ataca a Knocker
+Knocker recibe 22 de daño
+Knocker termina con HP:0/126
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:674/760 MP:379/398
+B-Zouchouten HP:123/221 MP:214/214
+C-Hel HP:170/254 MP:206/246
+D-Bilwis HP:117/161 MP:20/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:383/411
+B-
+C-Xi Wangmu HP:273/418 MP:315/405
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Bilwis
+3-Hel
+4-Zouchouten
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Recarm MP:20
+2-Mudoon MP:10
+3-Ziodyne MP:14
+4-Tathlum Shot MP:7
+5-Agi MP:5
+6-Zan MP:5
+7-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Xi Wangmu HP:273/418 MP:315/405
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kei lanza electricidad a Xi Wangmu
+Xi Wangmu recibe 69 de daño
+Xi Wangmu termina con HP:204/418
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:674/760 MP:365/398
+B-Zouchouten HP:123/221 MP:214/214
+C-Hel HP:170/254 MP:206/246
+D-Bilwis HP:117/161 MP:20/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:383/411
+B-
+C-Xi Wangmu HP:204/418 MP:315/405
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Jueyuan HP:72/154 MP:68/68
+2-Murmur HP:485/511 MP:229/229
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Jueyuan ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:674/760 MP:365/398
+B-Zouchouten HP:123/221 MP:214/214
+C-Hel HP:170/254 MP:206/246
+D-Bilwis HP:117/161 MP:20/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:383/411
+B-
+C-Jueyuan HP:72/154 MP:68/68
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Jueyuan
+----------------------------------------
+Seleccione una acción para Jueyuan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Xi Wangmu HP:204/418 MP:315/405
+2-Murmur HP:485/511 MP:229/229
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Jueyuan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Jueyuan use
+1-Poison Claw MP:9
+2-Agi MP:5
+3-Posumudi MP:5
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Jueyuan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Jueyuan use
+1-Poison Claw MP:9
+2-Agi MP:5
+3-Posumudi MP:5
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Jueyuan
+1-Kei HP:674/760 MP:365/398
+2-Zouchouten HP:123/221 MP:214/214
+3-Hel HP:170/254 MP:206/246
+4-Bilwis HP:117/161 MP:20/31
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Jueyuan lanza fuego a Bilwis
+Bilwis recibe 37 de daño
+Bilwis termina con HP:80/161
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:674/760 MP:365/398
+B-Zouchouten HP:123/221 MP:214/214
+C-Hel HP:170/254 MP:206/246
+D-Bilwis HP:80/161 MP:20/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:383/411
+B-
+C-Jueyuan HP:72/154 MP:63/68
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Zouchouten
+3-Kei
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kama HP:506/574 MP:209/257
+2-Pisaca HP:446/454 MP:80/90
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:674/760 MP:365/398
+B-Zouchouten HP:123/221 MP:214/214
+C-Hel HP:170/254 MP:206/246
+D-Bilwis HP:80/161 MP:20/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:383/411
+B-
+C-Jueyuan HP:72/154 MP:63/68
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Zouchouten
+2-Kei
+3-Bilwis
+4-Hel
+----------------------------------------
+Seleccione una acción para Zouchouten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kama HP:506/574 MP:209/257
+2-Pisaca HP:446/454 MP:80/90
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kama ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:674/760 MP:365/398
+B-Kama HP:506/574 MP:209/257
+C-Hel HP:170/254 MP:206/246
+D-Bilwis HP:80/161 MP:20/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:383/411
+B-
+C-Jueyuan HP:72/154 MP:63/68
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Bilwis
+3-Hel
+4-Kama
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Zouchouten HP:123/221 MP:214/214
+2-Pisaca HP:446/454 MP:80/90
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Jueyuan HP:72/154 MP:63/68
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kei dispara a Jueyuan
+Jueyuan recibe 15 de daño
+Jueyuan termina con HP:57/154
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:674/760 MP:365/398
+B-Kama HP:506/574 MP:209/257
+C-Hel HP:170/254 MP:206/246
+D-Bilwis HP:80/161 MP:20/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:383/411
+B-
+C-Jueyuan HP:57/154 MP:63/68
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bilwis
+2-Hel
+3-Kama
+4-Kei
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Bilwis use
+1-Poison Claw MP:9
+2-Dia MP:5
+3-Lunge MP:6
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Bilwis
+1-Jueyuan HP:57/154 MP:63/68
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:674/760 MP:365/398
+B-Kama HP:506/574 MP:209/257
+C-Hel HP:170/254 MP:206/246
+D-Bilwis HP:80/161 MP:20/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:383/411
+B-
+C-Jueyuan HP:57/154 MP:63/68
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hel
+2-Kama
+3-Kei
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Zouchouten HP:123/221 MP:214/214
+2-Pisaca HP:446/454 MP:80/90
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Zouchouten ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:674/760 MP:365/398
+B-Kama HP:506/574 MP:209/257
+C-Zouchouten HP:123/221 MP:214/214
+D-Bilwis HP:80/161 MP:20/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:383/411
+B-
+C-Jueyuan HP:57/154 MP:63/68
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Kei
+3-Bilwis
+4-Zouchouten
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:674/760 MP:365/398
+B-Kama HP:506/574 MP:209/257
+C-Zouchouten HP:123/221 MP:214/214
+D-Bilwis HP:80/161 MP:20/31
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:383/411
+B-
+C-Jueyuan HP:57/154 MP:63/68
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Bilwis
+3-Zouchouten
+4-Kama
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hel HP:170/254 MP:206/246
+2-Pisaca HP:446/454 MP:80/90
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Jueyuan HP:57/154 MP:63/68
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Recarm MP:20
+2-Mudoon MP:10
+3-Ziodyne MP:14
+4-Tathlum Shot MP:7
+5-Agi MP:5
+6-Zan MP:5
+7-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Jueyuan HP:57/154 MP:63/68
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kei lanza electricidad a Jueyuan
+Jueyuan recibe 69 de daño
+Jueyuan termina con HP:0/154
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Kei (J1)

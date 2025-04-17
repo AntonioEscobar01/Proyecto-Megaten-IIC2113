@@ -18,7 +18,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "Rs",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Tetanus Cut",
@@ -44,7 +49,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Wk",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Damascus Claw",
@@ -71,7 +81,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Wk"
+            "Dark": "Wk",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Taunt",
@@ -99,7 +114,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Wk",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "Rs",
+            "Sleep": "Rs",
+            "Sick": "Rs",
+            "Panic": "Rs",
+            "Poison": "Rs"
         },
         "skills": [
             "Pandemic Bomb",
@@ -127,7 +147,12 @@
             "Elec": "Wk",
             "Force": "Wk",
             "Light": "Wk",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "Nu",
+            "Panic": "-",
+            "Poison": "Nu"
         },
         "skills": [
             "Life Drain",
@@ -154,7 +179,12 @@
             "Elec": "Nu",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Madness Needle"
@@ -179,7 +209,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Wk"
+            "Dark": "Wk",
+            "Bind": "Wk",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Hama",
@@ -206,7 +241,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mediarama",
@@ -233,7 +273,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Tetraja",
@@ -261,7 +306,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Sabbatma",
@@ -288,7 +338,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Invitation",
@@ -316,7 +371,12 @@
             "Elec": "Wk",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Sabbatma",
@@ -342,7 +402,12 @@
             "Elec": "Rp",
             "Force": "Wk",
             "Light": "Nu",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Ziodyne",
@@ -369,7 +434,12 @@
             "Elec": "Rs",
             "Force": "Wk",
             "Light": "Nu",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Bufudyne",
@@ -397,7 +467,12 @@
             "Elec": "Wk",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Agidyne",
@@ -426,7 +501,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Wk",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Damascus Claw",
@@ -453,7 +533,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Fire Breath",
@@ -480,7 +565,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Agi"
@@ -505,7 +595,12 @@
             "Elec": "Wk",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Lunge",
@@ -532,7 +627,12 @@
             "Elec": "-",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "Nu",
+            "Panic": "-",
+            "Poison": "Nu"
         },
         "skills": [
             "Bind Voice",
@@ -559,7 +659,12 @@
             "Elec": "-",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "Rs",
+            "Poison": "-"
         },
         "skills": [
             "Binding Claw"
@@ -584,7 +689,12 @@
             "Elec": "Wk",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "Rs",
+            "Poison": "-"
         },
         "skills": [
             "Binding Claw",
@@ -610,7 +720,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Agidyne",
@@ -637,7 +752,12 @@
             "Elec": "-",
             "Force": "Wk",
             "Light": "Wk",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Fire Breath",
@@ -664,7 +784,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Oni-Kagura",
@@ -692,7 +817,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Megaton Press",
@@ -720,7 +850,12 @@
             "Elec": "-",
             "Force": "Nu",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "Wk"
         },
         "skills": [
             "Bouncing Claw",
@@ -746,7 +881,12 @@
             "Elec": "Rs",
             "Force": "Rs",
             "Light": "Wk",
-            "Dark": "Wk"
+            "Dark": "Wk",
+            "Bind": "Wk",
+            "Sleep": "Wk",
+            "Sick": "Wk",
+            "Panic": "Wk",
+            "Poison": "Wk"
         },
         "skills": [
             "Megaton Press",
@@ -775,7 +915,12 @@
             "Elec": "Wk",
             "Force": "Dr",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Scratch Dance",
@@ -802,7 +947,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Grand Tack",
@@ -829,7 +979,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "Nu",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "Rs",
+            "Poison": "-"
         },
         "skills": [
             "Rakukaja",
@@ -855,7 +1010,12 @@
             "Elec": "-",
             "Force": "Dr",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "Rs",
+            "Poison": "-"
         },
         "skills": [
             "Panic Caster",
@@ -883,7 +1043,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Rs",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Tetrakarn",
@@ -910,7 +1075,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Amrita",
@@ -937,7 +1107,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Media",
@@ -965,7 +1140,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "Rs",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mabufu",
@@ -991,7 +1171,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Wk",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "Wk"
         },
         "skills": [
             "Fang Breaker",
@@ -1018,7 +1203,12 @@
             "Elec": "-",
             "Force": "Wk",
             "Light": "Wk",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "Wk",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Fatal Sword",
@@ -1046,7 +1236,12 @@
             "Elec": "Wk",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mortal Jihad",
@@ -1072,7 +1267,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Ice Breath",
@@ -1100,7 +1300,12 @@
             "Elec": "Wk",
             "Force": "Wk",
             "Light": "Wk",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Poison Breath",
@@ -1127,7 +1332,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "Wk"
         },
         "skills": [
             "Gram Slice",
@@ -1153,7 +1363,12 @@
             "Elec": "-",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Rakukaja",
@@ -1180,7 +1395,12 @@
             "Elec": "Rs",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "Wk",
+            "Poison": "-"
         },
         "skills": [
             "Mabufu",
@@ -1206,7 +1426,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Wk",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "Wk",
+            "Poison": "-"
         },
         "skills": [
             "Mortal Jihad",
@@ -1233,7 +1458,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Rs",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Maragidyne",
@@ -1260,7 +1490,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "Wk",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Oni-Kagura",
@@ -1287,7 +1522,12 @@
             "Elec": "Dr",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Charge",
@@ -1317,7 +1557,12 @@
             "Elec": "Wk",
             "Force": "Rp",
             "Light": "Rs",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Agidyne",
@@ -1345,7 +1590,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Cold World",
@@ -1372,7 +1622,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Refrigerate",
@@ -1402,7 +1657,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "Wk",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Megaton Press",
@@ -1429,7 +1689,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mahama",
@@ -1457,7 +1722,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Megidola",
@@ -1484,7 +1754,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Hades Blast",
@@ -1510,7 +1785,12 @@
             "Elec": "Wk",
             "Force": "Rp",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Makarakarn",
@@ -1539,7 +1819,12 @@
             "Elec": "-",
             "Force": "Rp",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mabufudyne",
@@ -1566,7 +1851,12 @@
             "Elec": "-",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mazionga",
@@ -1593,7 +1883,12 @@
             "Elec": "-",
             "Force": "Rs",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "Wk",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Agidyne",
@@ -1621,7 +1916,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Maragion",
@@ -1649,7 +1949,12 @@
             "Elec": "-",
             "Force": "Rs",
             "Light": "-",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Pulinpa",
@@ -1677,7 +1982,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Wk",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Fire Breath",
@@ -1704,7 +2014,12 @@
             "Elec": "Wk",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Hades Blast",
@@ -1731,7 +2046,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mamudoon",
@@ -1760,7 +2080,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Rs",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mudoon",
@@ -1787,7 +2112,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Wk",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Lullaby",
@@ -1815,7 +2145,12 @@
             "Elec": "Wk",
             "Force": "Nu",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mamudoon",
@@ -1842,7 +2177,12 @@
             "Elec": "Wk",
             "Force": "Rp",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Trisagion",
@@ -1870,7 +2210,12 @@
             "Elec": "Nu",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Megidola",
@@ -1897,7 +2242,12 @@
             "Elec": "Wk",
             "Force": "-",
             "Light": "Rs",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Bufudyne",
@@ -1924,7 +2274,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Hamaon",
@@ -1951,7 +2306,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mamudo",
@@ -1978,7 +2338,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Agidyne",
@@ -2005,7 +2370,12 @@
             "Elec": "Wk",
             "Force": "Nu",
             "Light": "Nu",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Fog Breath",
@@ -2033,7 +2403,12 @@
             "Elec": "Nu",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Megaton Press",
@@ -2060,7 +2435,12 @@
             "Elec": "Dr",
             "Force": "Wk",
             "Light": "Rs",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "Wk"
         },
         "skills": [
             "Ziodyne",
@@ -2088,7 +2468,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "War Cry",
@@ -2116,7 +2501,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Agidyne",
@@ -2143,7 +2533,12 @@
             "Elec": "-",
             "Force": "Wk",
             "Light": "Nu",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "Nu",
+            "Panic": "-",
+            "Poison": "Nu"
         },
         "skills": [
             "Berserker God",
@@ -2170,7 +2565,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Wk"
+            "Dark": "Wk",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "Rs",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Me Patra",
@@ -2197,7 +2597,12 @@
             "Elec": "Wk",
             "Force": "Rp",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "Rs",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mazan",
@@ -2223,7 +2628,12 @@
             "Elec": "Rp",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "Rs",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Ice Breath",
@@ -2249,7 +2659,12 @@
             "Elec": "-",
             "Force": "Rs",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "Nu",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Agilao",
@@ -2276,7 +2691,12 @@
             "Elec": "-",
             "Force": "Dr",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Zandyne",
@@ -2303,7 +2723,12 @@
             "Elec": "-",
             "Force": "Rs",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Wind Breath",
@@ -2330,7 +2755,12 @@
             "Elec": "Wk",
             "Force": "Nu",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "Nu",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Dream Needle"
@@ -2355,7 +2785,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "Wk",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "Wk"
         },
         "skills": [
             "Media",
@@ -2382,7 +2817,12 @@
             "Elec": "Wk",
             "Force": "Dr",
             "Light": "-",
-            "Dark": "Wk"
+            "Dark": "Wk",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Recarm",
@@ -2409,7 +2849,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Diarahan",
@@ -2437,7 +2882,12 @@
             "Elec": "Wk",
             "Force": "Nu",
             "Light": "Nu",
-            "Dark": "Wk"
+            "Dark": "Wk",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Tetraja",
@@ -2465,7 +2915,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Bufudyne",
@@ -2492,7 +2947,12 @@
             "Elec": "-",
             "Force": "Rp",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mazanma",
@@ -2521,7 +2981,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Charge",
@@ -2548,7 +3013,12 @@
             "Elec": "-",
             "Force": "Wk",
             "Light": "Nu",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "Wk",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Agi",
@@ -2576,7 +3046,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Diarahan",
@@ -2603,7 +3078,12 @@
             "Elec": "Nu",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Bufula",
@@ -2630,7 +3110,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Rs",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "Rs"
         },
         "skills": [
             "Oni-Kagura",
@@ -2658,7 +3143,12 @@
             "Elec": "-",
             "Force": "Rp",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Floral Gust",
@@ -2685,7 +3175,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mabufula",
@@ -2712,7 +3207,12 @@
             "Elec": "Nu",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Hamaon",
@@ -2740,7 +3240,12 @@
             "Elec": "-",
             "Force": "Nu",
             "Light": "Nu",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Berserker God",
@@ -2767,7 +3272,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Hamaon",
@@ -2794,7 +3304,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "Wk",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Hama",
@@ -2821,7 +3336,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Berserker God",
@@ -2847,7 +3367,12 @@
             "Elec": "Rs",
             "Force": "Rs",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Holy Wrath",
@@ -2875,7 +3400,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Judgement",
@@ -2903,7 +3433,12 @@
             "Elec": "Rs",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "Wk"
         },
         "skills": [
             "Javelin Rain",
@@ -2931,7 +3466,12 @@
             "Elec": "Rs",
             "Force": "Rs",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Judgement",
@@ -2958,7 +3498,12 @@
             "Elec": "Dr",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Thunder Reign",
@@ -2986,7 +3531,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Javelin Rain",
@@ -3015,7 +3565,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Berserker God",
@@ -3042,7 +3597,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Hamaon",
@@ -3070,7 +3630,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Hades Blast",
@@ -3098,7 +3663,12 @@
             "Elec": "Rs",
             "Force": "Rs",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "High Heal Pleroma",
@@ -3126,7 +3696,12 @@
             "Elec": "Rp",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Berserker God",
@@ -3155,7 +3730,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Agi",
@@ -3181,7 +3761,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Agilao",
@@ -3207,7 +3792,12 @@
             "Elec": "Nu",
             "Force": "-",
             "Light": "-",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mazanma",
@@ -3234,7 +3824,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mabufudyne",
@@ -3262,7 +3857,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Wk",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mabufula",
@@ -3290,7 +3890,12 @@
             "Elec": "-",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Madness Needle",
@@ -3318,7 +3923,12 @@
             "Elec": "Rs",
             "Force": "Rp",
             "Light": "Nu",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Diarama"
@@ -3343,7 +3953,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "Rs",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mediarama",
@@ -3371,7 +3986,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "Nu"
         },
         "skills": [
             "Makarakarn",
@@ -3400,7 +4020,12 @@
             "Elec": "Nu",
             "Force": "Wk",
             "Light": "Nu",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mediarahan",
@@ -3427,7 +4052,12 @@
             "Elec": "Nu",
             "Force": "Wk",
             "Light": "Wk",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Fog Breath",
@@ -3454,7 +4084,12 @@
             "Elec": "Wk",
             "Force": "-",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Glacial Blast",
@@ -3480,7 +4115,12 @@
             "Elec": "Rp",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Ziodyne",
@@ -3507,7 +4147,12 @@
             "Elec": "-",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "Nu",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Bind Voice",
@@ -3535,7 +4180,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Rs",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Shivering Taboo",
@@ -3562,7 +4212,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "Wk",
+            "Sick": "Rs",
+            "Panic": "-",
+            "Poison": "Nu"
         },
         "skills": [
             "Zanma",
@@ -3588,7 +4243,12 @@
             "Elec": "Nu",
             "Force": "Nu",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Zanma",
@@ -3615,7 +4275,12 @@
             "Elec": "Wk",
             "Force": "-",
             "Light": "Wk",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Grand Tack",
@@ -3642,7 +4307,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "Wk"
         },
         "skills": [
             "Zionga",
@@ -3669,7 +4339,12 @@
             "Elec": "Wk",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Retaliate",
@@ -3696,7 +4371,12 @@
             "Elec": "Wk",
             "Force": "-",
             "Light": "-",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Ice Breath",
@@ -3723,7 +4403,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Wk",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Lunge",
@@ -3749,7 +4434,12 @@
             "Elec": "-",
             "Force": "Wk",
             "Light": "Nu",
-            "Dark": "Wk"
+            "Dark": "Wk",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "Rs",
+            "Panic": "-",
+            "Poison": "Rs"
         },
         "skills": [
             "Endure",
@@ -3777,7 +4467,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Judgement Light",
@@ -3804,7 +4499,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Wk"
+            "Dark": "Wk",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Dekaja",
@@ -3831,7 +4531,12 @@
             "Elec": "Rs",
             "Force": "Rs",
             "Light": "Nu",
-            "Dark": "Wk"
+            "Dark": "Wk",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mazan",
@@ -3858,7 +4563,12 @@
             "Elec": "Dr",
             "Force": "Wk",
             "Light": "Nu",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Ziodyne",
@@ -3886,7 +4596,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mediarama",
@@ -3912,7 +4627,12 @@
             "Elec": "Rs",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "Wk"
         },
         "skills": [
             "Ziodyne",
@@ -3939,7 +4659,12 @@
             "Elec": "Wk",
             "Force": "-",
             "Light": "Rs",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Me Patra",
@@ -3966,7 +4691,12 @@
             "Elec": "Wk",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "Nu"
         },
         "skills": [
             "Toxic Sting",
@@ -3993,7 +4723,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Wk"
+            "Dark": "Wk",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mediarahan",
@@ -4020,7 +4755,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "Nu",
+            "Poison": "-"
         },
         "skills": [
             "Rakukaja",
@@ -4047,7 +4787,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Wk"
+            "Dark": "Wk",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "Rs",
+            "Poison": "-"
         },
         "skills": [
             "Trafuri",
@@ -4073,7 +4818,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "Nu",
+            "Sick": "-",
+            "Panic": "Nu",
+            "Poison": "-"
         },
         "skills": [
             "Tetrakarn",
@@ -4100,7 +4850,12 @@
             "Elec": "-",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "Nu"
         },
         "skills": [
             "Zio",
@@ -4126,7 +4881,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "Wk"
+            "Dark": "Wk",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "Rs",
+            "Poison": "-"
         },
         "skills": [
             "Tetraja",
@@ -4153,7 +4913,12 @@
             "Elec": "Rs",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "Wk",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "Rs"
         },
         "skills": [
             "Dekaja",
@@ -4180,7 +4945,12 @@
             "Elec": "Wk",
             "Force": "Nu",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mazanma",
@@ -4207,7 +4977,12 @@
             "Elec": "Rp",
             "Force": "-",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Acid Breath",
@@ -4236,7 +5011,12 @@
             "Elec": "Nu",
             "Force": "Nu",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Madness Nails",
@@ -4264,7 +5044,12 @@
             "Elec": "Wk",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Spirit Drain",
@@ -4292,7 +5077,12 @@
             "Elec": "Nu",
             "Force": "Nu",
             "Light": "Wk",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Poison Breath",
@@ -4319,7 +5109,12 @@
             "Elec": "Nu",
             "Force": "-",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Acid Breath",
@@ -4348,7 +5143,12 @@
             "Elec": "Rs",
             "Force": "Rs",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Antichthon",
@@ -4377,7 +5177,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Rs",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mamudoon",
@@ -4404,7 +5209,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Wk",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mamudo",
@@ -4432,7 +5242,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Rs",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Megidola",
@@ -4460,7 +5275,12 @@
             "Elec": "Wk",
             "Force": "Dr",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "Nu",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Dream Needle",
@@ -4487,7 +5307,12 @@
             "Elec": "Dr",
             "Force": "Rs",
             "Light": "-",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Lullaby",
@@ -4516,7 +5341,12 @@
             "Elec": "-",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Scratch Dance",
@@ -4543,7 +5373,12 @@
             "Elec": "Rs",
             "Force": "Rs",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Diarahan",
@@ -4570,7 +5405,12 @@
             "Elec": "Nu",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Zio",
@@ -4596,7 +5436,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "Wk",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Critical Wave",
@@ -4623,7 +5468,12 @@
             "Elec": "-",
             "Force": "Nu",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "Rs",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Dream Needle",
@@ -4651,7 +5501,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Wk",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Energy Drain",
@@ -4678,7 +5533,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Wk",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Blast Arrow",
@@ -4705,7 +5565,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Megido",
@@ -4732,7 +5597,12 @@
             "Elec": "Wk",
             "Force": "Dr",
             "Light": "-",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "Rs",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Zanma",
@@ -4758,7 +5628,12 @@
             "Elec": "Dr",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Scratch Dance",
@@ -4785,7 +5660,12 @@
             "Elec": "Rp",
             "Force": "Wk",
             "Light": "Nu",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Ziodyne",
@@ -4813,7 +5693,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Wk",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Titanomachia",
@@ -4841,7 +5726,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Maragion",
@@ -4868,7 +5758,12 @@
             "Elec": "-",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mediarama",
@@ -4895,7 +5790,12 @@
             "Elec": "Dr",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Titanomachia",
@@ -4922,7 +5822,12 @@
             "Elec": "Wk",
             "Force": "Rp",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Needle Shot",
@@ -4949,7 +5854,12 @@
             "Elec": "Dr",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Shock",
@@ -4975,7 +5885,12 @@
             "Elec": "Nu",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "Nu"
         },
         "skills": [
             "Toxic Sting",
@@ -5002,7 +5917,12 @@
             "Elec": "-",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "Nu"
         },
         "skills": [
             "Poison Claw",
@@ -5029,7 +5949,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "Rs"
         },
         "skills": [
             "Axel Claw",
@@ -5057,7 +5982,12 @@
             "Elec": "-",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "Nu",
+            "Panic": "-",
+            "Poison": "Rs"
         },
         "skills": [
             "Tetanus Cut",
@@ -5085,7 +6015,12 @@
             "Elec": "Rp",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "Rs"
         },
         "skills": [
             "Poison Claw",
@@ -5112,7 +6047,12 @@
             "Elec": "Dr",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "Wk"
+            "Dark": "Wk",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Shock",
@@ -5139,7 +6079,12 @@
             "Elec": "Wk",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Maragi",
@@ -5166,7 +6111,12 @@
             "Elec": "-",
             "Force": "Dr",
             "Light": "Rs",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Wind Breath",
@@ -5194,7 +6144,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "Wk",
+            "Sleep": "Wk",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "Wk"
         },
         "skills": [
             "Charge",
@@ -5221,7 +6176,12 @@
             "Elec": "Dr",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Megido",
@@ -5249,7 +6209,12 @@
             "Elec": "Wk",
             "Force": "Nu",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Bufu",
@@ -5276,7 +6241,12 @@
             "Elec": "Dr",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "Rs",
+            "Poison": "-"
         },
         "skills": [
             "Shock",
@@ -5303,7 +6273,12 @@
             "Elec": "-",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Tarukaja",
@@ -5330,7 +6305,12 @@
             "Elec": "Wk",
             "Force": "-",
             "Light": "Rs",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Tetrakarn",
@@ -5358,7 +6338,12 @@
             "Elec": "Wk",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "Wk"
         },
         "skills": [
             "Bufu",
@@ -5384,7 +6369,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Pulinpa",
@@ -5411,7 +6401,12 @@
             "Elec": "Wk",
             "Force": "Nu",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Zanma",
@@ -5437,7 +6432,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Maragidyne",
@@ -5464,7 +6464,12 @@
             "Elec": "Nu",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mazio",
@@ -5491,7 +6496,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "Nu",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Lullaby",
@@ -5517,7 +6527,12 @@
             "Elec": "Wk",
             "Force": "Nu",
             "Light": "Nu",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Deadly Wind",
@@ -5544,7 +6559,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Wk",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Pandemic Bomb",
@@ -5571,7 +6591,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "Rs",
+            "Poison": "-"
         },
         "skills": [
             "Purple Smoke",
@@ -5597,7 +6622,12 @@
             "Elec": "Wk",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Gram Slice",
@@ -5624,7 +6654,12 @@
             "Elec": "Rs",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "Wk"
         },
         "skills": [
             "Critical Wave",
@@ -5651,7 +6686,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Fang Breaker",
@@ -5680,7 +6720,12 @@
             "Elec": "Rs",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "Rs",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Lunge",
@@ -5707,7 +6752,12 @@
             "Elec": "Rs",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "Nu"
         },
         "skills": [
             "Blight",
@@ -5735,7 +6785,12 @@
             "Elec": "Rs",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Blast Arrow",
@@ -5762,7 +6817,12 @@
             "Elec": "Wk",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Bufudyne",
@@ -5788,7 +6848,12 @@
             "Elec": "Nu",
             "Force": "Wk",
             "Light": "Nu",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mabufudyne",
@@ -5816,7 +6881,12 @@
             "Elec": "Dr",
             "Force": "-",
             "Light": "Rs",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "Wk",
+            "Sleep": "Wk",
+            "Sick": "-",
+            "Panic": "Wk",
+            "Poison": "Wk"
         },
         "skills": [
             "Megidola",
@@ -5843,7 +6913,12 @@
             "Elec": "Nu",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Ice Breath",
@@ -5869,7 +6944,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Wk"
+            "Dark": "Wk",
+            "Bind": "Wk",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Me Patra",
@@ -5896,7 +6976,12 @@
             "Elec": "Wk",
             "Force": "Wk",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Sea of Chaos",
@@ -5924,7 +7009,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Rs",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Dream Fist",
@@ -5950,7 +7040,12 @@
             "Elec": "Dr",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Wk"
+            "Dark": "Wk",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mahamaon",
@@ -5978,7 +7073,12 @@
             "Elec": "Dr",
             "Force": "-",
             "Light": "Rs",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "Wk",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Counter",
@@ -6006,7 +7106,12 @@
             "Elec": "Dr",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Berserker God",
@@ -6033,7 +7138,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Wk",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Nihil Claw",
@@ -6060,7 +7170,12 @@
             "Elec": "-",
             "Force": "Wk",
             "Light": "Wk",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Life Drain",
@@ -6087,7 +7202,12 @@
             "Elec": "Wk",
             "Force": "-",
             "Light": "Wk",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mudoon",
@@ -6115,7 +7235,12 @@
             "Elec": "-",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Fire Breath",
@@ -6142,7 +7267,12 @@
             "Elec": "Rs",
             "Force": "Rs",
             "Light": "Wk",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mudo",
@@ -6169,7 +7299,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Wk",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Energy Drain",
@@ -6196,7 +7331,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Energy Drain",
@@ -6223,7 +7363,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Wk",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mudo",
@@ -6250,7 +7395,12 @@
             "Elec": "Nu",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "Nu",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Binding Claw",
@@ -6276,7 +7426,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Wk",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Energy Drain",
@@ -6303,7 +7458,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Taunt",
@@ -6330,7 +7490,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Wk",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "Nu",
+            "Sleep": "-",
+            "Sick": "Nu",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Shibaboo"
@@ -6355,7 +7520,12 @@
             "Elec": "Wk",
             "Force": "-",
             "Light": "Wk",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Binding Claw",
@@ -6381,7 +7551,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Rs",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "Nu",
+            "Sleep": "Nu",
+            "Sick": "Nu",
+            "Panic": "Nu",
+            "Poison": "Nu"
         },
         "skills": [
             "Die for Me!",
@@ -6410,7 +7585,12 @@
             "Elec": "-",
             "Force": "Rp",
             "Light": "Wk",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "Rs",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mazanma",
@@ -6437,7 +7617,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "Nu",
+            "Panic": "-",
+            "Poison": "Nu"
         },
         "skills": [
             "Poison Breath",
@@ -6464,7 +7649,12 @@
             "Elec": "-",
             "Force": "Rs",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "Rs",
+            "Poison": "-"
         },
         "skills": [
             "Zan",
@@ -6490,7 +7680,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "Nu",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Tetanus Cut",
@@ -6516,7 +7711,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Fire Breath",
@@ -6544,7 +7744,12 @@
             "Elec": "-",
             "Force": "Rs",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mazan",
@@ -6572,7 +7777,12 @@
             "Elec": "-",
             "Force": "Nu",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Rapid Needle",
@@ -6598,7 +7808,12 @@
             "Elec": "-",
             "Force": "Rp",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Ice Breath",
@@ -6625,7 +7840,12 @@
             "Elec": "Dr",
             "Force": "Wk",
             "Light": "Nu",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Zionga",
@@ -6652,7 +7872,12 @@
             "Elec": "Dr",
             "Force": "-",
             "Light": "Rs",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mazandyne",
@@ -6680,7 +7905,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "Wk"
+            "Dark": "Wk",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Megido",
@@ -6707,7 +7937,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Agidyne",
@@ -6734,7 +7969,12 @@
             "Elec": "Wk",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Maragion",
@@ -6762,7 +8002,12 @@
             "Elec": "Rs",
             "Force": "Wk",
             "Light": "Nu",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Maziodyne",
@@ -6789,7 +8034,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Salvation",
@@ -6816,7 +8066,12 @@
             "Elec": "Rp",
             "Force": "Wk",
             "Light": "Rs",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Thunder Reign",
@@ -6843,7 +8098,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Rs",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "Wk",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Maragion",
@@ -6870,7 +8130,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Titanomachia",
@@ -6896,7 +8161,12 @@
             "Elec": "Wk",
             "Force": "Rp",
             "Light": "Nu",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Zandyne",
@@ -6924,7 +8194,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mudoon",
@@ -6951,7 +8226,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Maragidyne",
@@ -6978,7 +8258,12 @@
             "Elec": "Wk",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Patra",
@@ -7004,7 +8289,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "Rs",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Stun Needles",
@@ -7031,7 +8321,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Wk",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "Rs"
         },
         "skills": [
             "Toxic Sting",
@@ -7058,7 +8353,12 @@
             "Elec": "-",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Shibaboo",
@@ -7086,7 +8386,12 @@
             "Elec": "-",
             "Force": "Wk",
             "Light": "Wk",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Poisma",
@@ -7113,7 +8418,12 @@
             "Elec": "Wk",
             "Force": "-",
             "Light": "Rs",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Spirit Drain",
@@ -7140,7 +8450,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Rs",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "Wk",
+            "Poison": "-"
         },
         "skills": [
             "Mediarama",
@@ -7168,7 +8483,12 @@
             "Elec": "Wk",
             "Force": "Wk",
             "Light": "Wk",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "Rs",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Bouncing Claw",
@@ -7196,7 +8516,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Rakukaja",
@@ -7223,7 +8548,12 @@
             "Elec": "-",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mabufula",
@@ -7250,7 +8580,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "Rs",
+            "Poison": "-"
         },
         "skills": [
             "Pulinpa",
@@ -7276,7 +8611,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "High Ice Pleroma",
@@ -7303,7 +8643,12 @@
             "Elec": "Dr",
             "Force": "Wk",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Elec Pleroma",
@@ -7330,7 +8675,12 @@
             "Elec": "Rp",
             "Force": "Wk",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "High Elec Pleroma",
@@ -7357,7 +8707,12 @@
             "Elec": "Wk",
             "Force": "Dr",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Force Pleroma",
@@ -7384,7 +8739,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Fire Pleroma",
@@ -7411,7 +8771,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Ice Pleroma",
@@ -7438,7 +8803,12 @@
             "Elec": "Wk",
             "Force": "Rp",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "High Force Pleroma",
@@ -7465,7 +8835,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "High Fire Pleroma",
@@ -7492,7 +8867,12 @@
             "Elec": "Rs",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Zio",
@@ -7518,7 +8898,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Rs",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Fire Breath",
@@ -7545,7 +8930,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Fire Breath",
@@ -7572,7 +8962,12 @@
             "Elec": "Nu",
             "Force": "-",
             "Light": "Rs",
-            "Dark": "Wk"
+            "Dark": "Wk",
+            "Bind": "Rs",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Rakukaja",
@@ -7599,7 +8994,12 @@
             "Elec": "Rp",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mazionga",
@@ -7627,7 +9027,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Maragion",
@@ -7654,7 +9059,12 @@
             "Elec": "-",
             "Force": "Nu",
             "Light": "Rs",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Zandyne",
@@ -7682,7 +9092,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Damascus Claw",
@@ -7710,7 +9125,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Heaven's Bow",
@@ -7737,7 +9157,12 @@
             "Elec": "Wk",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mortal Jihad",
@@ -7765,7 +9190,12 @@
             "Elec": "-",
             "Force": "Rp",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Hades Blast",
@@ -7792,7 +9222,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Glacial Blast",
@@ -7819,7 +9254,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Rs",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Titanomachia",
@@ -7847,7 +9287,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Wk"
+            "Dark": "Wk",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "Wk",
+            "Poison": "-"
         },
         "skills": [
             "Fatal Sword",
@@ -7874,7 +9319,12 @@
             "Elec": "Rs",
             "Force": "Rs",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Enduring Soul",
@@ -7902,7 +9352,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Wk",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "Rs",
+            "Panic": "-",
+            "Poison": "Rs"
         },
         "skills": [
             "Sea of Chaos",
@@ -7929,7 +9384,12 @@
             "Elec": "Dr",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Antichthon",
@@ -7956,7 +9416,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Megido",
@@ -7984,7 +9449,12 @@
             "Elec": "Dr",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Zionga",
@@ -8014,7 +9484,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Bufula",
@@ -8042,7 +9517,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Wk",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "Wk",
+            "Poison": "Rs"
         },
         "skills": [
             "Poison Claw",
@@ -8069,7 +9549,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Wk",
-            "Dark": "Wk"
+            "Dark": "Wk",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Megaton Press",
@@ -8096,7 +9581,12 @@
             "Elec": "-",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Me Patra",
@@ -8124,7 +9614,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "Wk",
+            "Sleep": "Wk",
+            "Sick": "-",
+            "Panic": "Wk",
+            "Poison": "-"
         },
         "skills": [
             "Critical Wave",
@@ -8151,7 +9646,12 @@
             "Elec": "-",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "Wk",
+            "Sleep": "Wk",
+            "Sick": "Wk",
+            "Panic": "Wk",
+            "Poison": "Wk"
         },
         "skills": [
             "Charge",
@@ -8177,7 +9677,12 @@
             "Elec": "Wk",
             "Force": "Rp",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Zanma",
@@ -8206,7 +9711,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Wk",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "Wk",
+            "Poison": "-"
         },
         "skills": [
             "Rapid Needle",
@@ -8233,7 +9743,12 @@
             "Elec": "-",
             "Force": "Rs",
             "Light": "Wk",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Sabbatma",
@@ -8261,7 +9776,12 @@
             "Elec": "Wk",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Ice Breath",
@@ -8287,7 +9807,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Charge",
@@ -8314,7 +9839,12 @@
             "Elec": "Wk",
             "Force": "Rs",
             "Light": "-",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Deadly Wind",
@@ -8341,7 +9871,12 @@
             "Elec": "Rp",
             "Force": "Rp",
             "Light": "-",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Madness Nails",
@@ -8368,7 +9903,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Megido",
@@ -8395,7 +9935,12 @@
             "Elec": "-",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Agi"
@@ -8420,7 +9965,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Wk",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Diarahan",
@@ -8449,7 +9999,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Lullaby",
@@ -8477,7 +10032,12 @@
             "Elec": "-",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "Wk",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Agi",
@@ -8503,7 +10063,12 @@
             "Elec": "-",
             "Force": "Wk",
             "Light": "Wk",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "Wk",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mudoon",
@@ -8531,7 +10096,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "Wk",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Blight",
@@ -8558,7 +10128,12 @@
             "Elec": "Wk",
             "Force": "Nu",
             "Light": "-",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mazanma",
@@ -8585,7 +10160,12 @@
             "Elec": "-",
             "Force": "Wk",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Hamaon",
@@ -8611,7 +10191,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "Nu",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Pandemic Bomb",
@@ -8638,7 +10223,12 @@
             "Elec": "-",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Tarukaja",
@@ -8665,7 +10255,12 @@
             "Elec": "-",
             "Force": "Dr",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Pandemic Bomb",
@@ -8692,7 +10287,12 @@
             "Elec": "Rp",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Maziodyne",
@@ -8720,7 +10320,12 @@
             "Elec": "Wk",
             "Force": "Rp",
             "Light": "Nu",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Wind Breath",
@@ -8748,7 +10353,12 @@
             "Elec": "-",
             "Force": "Rs",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "Wk",
+            "Sleep": "Wk",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Bufudyne",
@@ -8774,7 +10384,12 @@
             "Elec": "-",
             "Force": "Rp",
             "Light": "Wk",
-            "Dark": "Wk"
+            "Dark": "Wk",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Zanma",
@@ -8802,7 +10417,12 @@
             "Elec": "-",
             "Force": "Rs",
             "Light": "-",
-            "Dark": "Wk"
+            "Dark": "Wk",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Rakunda",
@@ -8829,7 +10449,12 @@
             "Elec": "Rs",
             "Force": "Rp",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Life Gain",
@@ -8858,7 +10483,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Bufu",
@@ -8885,7 +10515,12 @@
             "Elec": "Rs",
             "Force": "Rs",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Samarecarm",
@@ -8912,7 +10547,12 @@
             "Elec": "-",
             "Force": "Nu",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Silent Prayer",
@@ -8939,7 +10579,12 @@
             "Elec": "-",
             "Force": "Nu",
             "Light": "Nu",
-            "Dark": "Wk"
+            "Dark": "Wk",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Trisagion",
@@ -8965,7 +10610,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Wk"
+            "Dark": "Wk",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Agidyne",
@@ -8992,7 +10642,12 @@
             "Elec": "-",
             "Force": "Wk",
             "Light": "Nu",
-            "Dark": "Wk"
+            "Dark": "Wk",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Tathlum Shot",
@@ -9019,7 +10674,12 @@
             "Elec": "Rs",
             "Force": "Wk",
             "Light": "Nu",
-            "Dark": "Wk"
+            "Dark": "Wk",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mazionga",
@@ -9046,7 +10706,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Wk"
+            "Dark": "Wk",
+            "Bind": "Rs",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Dia",
@@ -9073,7 +10738,12 @@
             "Elec": "Wk",
             "Force": "Rp",
             "Light": "Nu",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Tarukaja",
@@ -9101,7 +10771,12 @@
             "Elec": "Wk",
             "Force": "Nu",
             "Light": "Nu",
-            "Dark": "Wk"
+            "Dark": "Wk",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Sabbatma",
@@ -9128,7 +10803,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Wk"
+            "Dark": "Wk",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Hama",
@@ -9155,7 +10835,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Wk"
+            "Dark": "Wk",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Dekunda",
@@ -9182,7 +10867,12 @@
             "Elec": "-",
             "Force": "Nu",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Hamaon",
@@ -9210,7 +10900,12 @@
             "Elec": "Dr",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Stun Needles",
@@ -9238,7 +10933,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Rs",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Maragidyne",
@@ -9264,7 +10964,12 @@
             "Elec": "Wk",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Binding Claw",
@@ -9292,7 +10997,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Shibaboo",
@@ -9320,7 +11030,12 @@
             "Elec": "Wk",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "Nu",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Spirit Drain",
@@ -9348,7 +11063,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Bufula",
@@ -9375,7 +11095,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Wk",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "Rs"
         },
         "skills": [
             "Stun Needles",
@@ -9402,7 +11127,12 @@
             "Elec": "-",
             "Force": "Rp",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mudoon",
@@ -9429,7 +11159,12 @@
             "Elec": "-",
             "Force": "Wk",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mediarama",
@@ -9456,7 +11191,12 @@
             "Elec": "-",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "Wk"
         },
         "skills": [
             "Media",
@@ -9483,7 +11223,12 @@
             "Elec": "Nu",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "Rs",
+            "Sleep": "Rs",
+            "Sick": "Rs",
+            "Panic": "Rs",
+            "Poison": "Rs"
         },
         "skills": [
             "Tarunda",
@@ -9509,7 +11254,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Madness Needle",
@@ -9536,7 +11286,12 @@
             "Elec": "-",
             "Force": "Rs",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Wind Breath",
@@ -9562,7 +11317,12 @@
             "Elec": "-",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "Nu",
+            "Panic": "-",
+            "Poison": "Nu"
         },
         "skills": [
             "Poison Breath",
@@ -9589,7 +11349,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "Nu",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Shibaboo",
@@ -9616,7 +11381,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "Rs",
+            "Poison": "-"
         },
         "skills": [
             "Lunge",
@@ -9643,7 +11413,12 @@
             "Elec": "Rs",
             "Force": "-",
             "Light": "Rs",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Maziodyne",
@@ -9670,7 +11445,12 @@
             "Elec": "Wk",
             "Force": "Wk",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Damnation",
@@ -9697,7 +11477,12 @@
             "Elec": "-",
             "Force": "Rs",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Dia",
@@ -9724,7 +11509,12 @@
             "Elec": "Rs",
             "Force": "-",
             "Light": "Wk",
-            "Dark": "Wk"
+            "Dark": "Wk",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Agi",
@@ -9751,7 +11541,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Pulinpa",
@@ -9778,7 +11573,12 @@
             "Elec": "-",
             "Force": "Nu",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "Wk",
+            "Poison": "-"
         },
         "skills": [
             "Dia",
@@ -9805,7 +11605,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Rs",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Lullaby",
@@ -9831,7 +11636,12 @@
             "Elec": "-",
             "Force": "Rp",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Charge",
@@ -9858,7 +11668,12 @@
             "Elec": "Rs",
             "Force": "Rs",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Maziodyne",
@@ -9885,7 +11700,12 @@
             "Elec": "-",
             "Force": "Wk",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "Rs",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Diarama",
@@ -9912,7 +11732,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "Nu",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Panic Voice",
@@ -9940,7 +11765,12 @@
             "Elec": "-",
             "Force": "Dr",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mediarama",
@@ -9968,7 +11798,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Iron Judgement",
@@ -9995,7 +11830,12 @@
             "Elec": "Wk",
             "Force": "Dr",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Zandyne",
@@ -10023,7 +11863,12 @@
             "Elec": "Wk",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "Wk",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Oni-Kagura",
@@ -10051,7 +11896,12 @@
             "Elec": "-",
             "Force": "Rs",
             "Light": "Rs",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "Rs",
+            "Poison": "Rs"
         },
         "skills": [
             "Zanma",
@@ -10080,7 +11930,12 @@
             "Elec": "-",
             "Force": "Rs",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mazanma",
@@ -10107,7 +11962,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Agilao",
@@ -10134,7 +11994,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Bufula",
@@ -10161,7 +12026,12 @@
             "Elec": "Wk",
             "Force": "-",
             "Light": "Wk",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Zan",
@@ -10187,7 +12057,12 @@
             "Elec": "-",
             "Force": "Wk",
             "Light": "Wk",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Needle Shot"
@@ -10212,7 +12087,12 @@
             "Elec": "Rp",
             "Force": "Wk",
             "Light": "Wk",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "Rs",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mazio",
@@ -10238,7 +12118,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Wk",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mudo",
@@ -10264,7 +12149,12 @@
             "Elec": "-",
             "Force": "Nu",
             "Light": "Wk",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "Rs",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Bind Voice",
@@ -10291,7 +12181,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Wk",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Fire Breath",
@@ -10318,7 +12213,12 @@
             "Elec": "Wk",
             "Force": "Rs",
             "Light": "Wk",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Purple Smoke",
@@ -10345,7 +12245,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Wk",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "Rs",
+            "Poison": "Nu"
         },
         "skills": [
             "Blight",
@@ -10373,7 +12278,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Wk",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Bind Voice",
@@ -10400,7 +12310,12 @@
             "Elec": "Nu",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Purple Smoke",
@@ -10428,7 +12343,12 @@
             "Elec": "Rs",
             "Force": "Nu",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Maragidyne",
@@ -10456,7 +12376,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "Wk",
+            "Sick": "-",
+            "Panic": "Wk",
+            "Poison": "-"
         },
         "skills": [
             "Blood Ritual",
@@ -10485,7 +12410,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Blight",
@@ -10513,7 +12443,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Madness Needle",
@@ -10540,7 +12475,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Glacial Blast",
@@ -10567,7 +12507,12 @@
             "Elec": "Dr",
             "Force": "Wk",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "Nu",
+            "Sleep": "Nu",
+            "Sick": "Nu",
+            "Panic": "Nu",
+            "Poison": "Nu"
         },
         "skills": [
             "Cup of Babylon",
@@ -10594,7 +12539,12 @@
             "Elec": "Dr",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "Rs",
+            "Panic": "-",
+            "Poison": "Rs"
         },
         "skills": [
             "Plasma Discharge",
@@ -10621,7 +12571,12 @@
             "Elec": "Wk",
             "Force": "-",
             "Light": "Rs",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Taunt",
@@ -10649,7 +12604,12 @@
             "Elec": "Rs",
             "Force": "Rs",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "Nu",
+            "Sleep": "Nu",
+            "Sick": "Nu",
+            "Panic": "Nu",
+            "Poison": "Nu"
         },
         "skills": [
             "Maragidyne",
@@ -10680,7 +12640,12 @@
             "Elec": "Dr",
             "Force": "Wk",
             "Light": "Nu",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "Rs",
+            "Sleep": "Rs",
+            "Sick": "Rs",
+            "Panic": "Rs",
+            "Poison": "Rs"
         },
         "skills": [
             "Thunder Reign",
@@ -10707,7 +12672,12 @@
             "Elec": "Wk",
             "Force": "Rp",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "Nu",
+            "Panic": "-",
+            "Poison": "Nu"
         },
         "skills": [
             "Pandemic Bomb",
@@ -10735,7 +12705,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Rs",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "Nu",
+            "Sleep": "Nu",
+            "Sick": "Nu",
+            "Panic": "Nu",
+            "Poison": "Nu"
         },
         "skills": [
             "Shivering Taboo",
@@ -10763,7 +12738,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "Nu",
+            "Poison": "-"
         },
         "skills": [
             "Antichthon",
@@ -10791,7 +12771,12 @@
             "Elec": "Wk",
             "Force": "-",
             "Light": "Rs",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "Rs",
+            "Sleep": "Rs",
+            "Sick": "Rs",
+            "Panic": "Rs",
+            "Poison": "Rs"
         },
         "skills": [
             "Mamudo",
@@ -10818,7 +12803,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Rs",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mortal Jihad",
@@ -10845,7 +12835,12 @@
             "Elec": "-",
             "Force": "Dr",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Zan",
@@ -10871,7 +12866,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Media",
@@ -10897,7 +12897,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Rs",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "Nu"
         },
         "skills": [
             "Mabufula",
@@ -10924,7 +12929,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Amrita",
@@ -10950,7 +12960,12 @@
             "Elec": "Wk",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Diarahan",
@@ -10977,7 +12992,12 @@
             "Elec": "Dr",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Wk"
+            "Dark": "Wk",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Megidola",
@@ -11004,7 +13024,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Shivering Taboo",
@@ -11030,7 +13055,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Wk"
+            "Dark": "Wk",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Makarakarn",
@@ -11056,7 +13086,12 @@
             "Elec": "Wk",
             "Force": "Nu",
             "Light": "Nu",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mazanma",
@@ -11083,7 +13118,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mediarama",
@@ -11110,7 +13150,12 @@
             "Elec": "Wk",
             "Force": "Rs",
             "Light": "Rs",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Patra",
@@ -11137,7 +13182,12 @@
             "Elec": "Nu",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "God's Fire"
@@ -11162,7 +13212,12 @@
             "Elec": "Wk",
             "Force": "Rp",
             "Light": "Nu",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Megidolaon",
@@ -11191,7 +13246,12 @@
             "Elec": "Wk",
             "Force": "Nu",
             "Light": "Nu",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Javelin Rain",
@@ -11218,7 +13278,12 @@
             "Elec": "Rp",
             "Force": "Wk",
             "Light": "Nu",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "God's Lightning",
@@ -11246,7 +13311,12 @@
             "Elec": "Rs",
             "Force": "Wk",
             "Light": "Nu",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Holy Wrath",
@@ -11272,7 +13342,12 @@
             "Elec": "Nu",
             "Force": "Wk",
             "Light": "Nu",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Ziodyne",
@@ -11300,7 +13375,12 @@
             "Elec": "Wk",
             "Force": "Nu",
             "Light": "Nu",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Announcement of Suffering",
@@ -11327,7 +13407,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Mabufula",
@@ -11355,7 +13440,12 @@
             "Elec": "-",
             "Force": "Rp",
             "Light": "Nu",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "God's Tornado",
@@ -11383,7 +13473,12 @@
             "Elec": "Wk",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "Nu",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Hamaon",
@@ -11410,7 +13505,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Agidyne",
@@ -11437,7 +13537,12 @@
             "Elec": "Wk",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Recarm",
@@ -11464,7 +13569,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Great Logos",
@@ -11492,7 +13602,12 @@
             "Elec": "Rs",
             "Force": "Rs",
             "Light": "Nu",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         },
         "skills": [
             "Holy Wrath",
@@ -11520,7 +13635,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "Nu",
+            "Sleep": "Nu",
+            "Sick": "Nu",
+            "Panic": "Nu",
+            "Poison": "Nu"
         },
         "skills": [
             "Diarahan",

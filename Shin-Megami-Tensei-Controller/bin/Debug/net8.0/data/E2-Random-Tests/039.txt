@@ -1,0 +1,6304 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+120: 121.txt
+121: 122.txt
+122: 123.txt
+123: 124.txt
+124: 125.txt
+125: 126.txt
+126: 127.txt
+127: 128.txt
+128: 129.txt
+129: 130.txt
+130: 131.txt
+131: 132.txt
+132: 133.txt
+133: 134.txt
+134: 135.txt
+135: 136.txt
+136: 137.txt
+137: 138.txt
+138: 139.txt
+139: 140.txt
+140: 141.txt
+141: 142.txt
+142: 143.txt
+143: 144.txt
+144: 145.txt
+145: 146.txt
+146: 147.txt
+147: 148.txt
+148: 149.txt
+149: 150.txt
+150: 151.txt
+151: 152.txt
+152: 153.txt
+153: 154.txt
+154: 155.txt
+155: 156.txt
+156: 157.txt
+157: 158.txt
+158: 159.txt
+159: 160.txt
+160: 161.txt
+161: 162.txt
+162: 163.txt
+163: 164.txt
+164: 165.txt
+165: 166.txt
+166: 167.txt
+167: 168.txt
+168: 169.txt
+169: 170.txt
+170: 171.txt
+171: 172.txt
+172: 173.txt
+173: 174.txt
+174: 175.txt
+175: 176.txt
+176: 177.txt
+177: 178.txt
+178: 179.txt
+179: 180.txt
+180: 181.txt
+181: 182.txt
+182: 183.txt
+183: 184.txt
+184: 185.txt
+185: 186.txt
+186: 187.txt
+187: 188.txt
+188: 189.txt
+189: 190.txt
+190: 191.txt
+191: 192.txt
+192: 193.txt
+193: 194.txt
+194: 195.txt
+195: 196.txt
+196: 197.txt
+197: 198.txt
+198: 199.txt
+199: 200.txt
+INPUT: 38
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Lham Dearg HP:91/91 MP:19/19
+C-Nidhoggr HP:681/681 MP:135/135
+D-Gryphon HP:123/123 MP:23/23
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Kingu HP:464/464 MP:91/91
+C-Karasu Tengu HP:238/238 MP:107/107
+D-Tsuchigumo HP:280/280 MP:126/126
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Joker
+3-Gryphon
+4-Lham Dearg
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Lham Dearg HP:91/91 MP:19/19
+C-Nidhoggr HP:681/681 MP:135/135
+D-Gryphon HP:123/123 MP:23/23
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Kingu HP:464/464 MP:91/91
+C-Karasu Tengu HP:238/238 MP:107/107
+D-Tsuchigumo HP:280/280 MP:126/126
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Gryphon
+3-Lham Dearg
+4-Nidhoggr
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ghoul HP:558/558 MP:111/111
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Lham Dearg HP:91/91 MP:19/19 (Puesto 2)
+2-Nidhoggr HP:681/681 MP:135/135 (Puesto 3)
+3-Gryphon HP:123/123 MP:23/23 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Lham Dearg HP:91/91 MP:19/19
+C-Nidhoggr HP:681/681 MP:135/135
+D-Gryphon HP:123/123 MP:23/23
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Kingu HP:464/464 MP:91/91
+C-Karasu Tengu HP:238/238 MP:107/107
+D-Tsuchigumo HP:280/280 MP:126/126
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gryphon
+2-Lham Dearg
+3-Nidhoggr
+4-Joker
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Lham Dearg HP:91/91 MP:19/19
+C-Nidhoggr HP:681/681 MP:135/135
+D-Gryphon HP:123/123 MP:23/23
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Kingu HP:464/464 MP:91/91
+C-Karasu Tengu HP:238/238 MP:107/107
+D-Tsuchigumo HP:280/280 MP:126/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lham Dearg
+2-Nidhoggr
+3-Joker
+4-Gryphon
+----------------------------------------
+Seleccione una acción para Lham Dearg
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ghoul HP:558/558 MP:111/111
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ghoul ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Nidhoggr HP:681/681 MP:135/135
+D-Gryphon HP:123/123 MP:23/23
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Kingu HP:464/464 MP:91/91
+C-Karasu Tengu HP:238/238 MP:107/107
+D-Tsuchigumo HP:280/280 MP:126/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Joker
+3-Gryphon
+4-Ghoul
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lham Dearg HP:91/91 MP:19/19
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lham Dearg ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Lham Dearg HP:91/91 MP:19/19
+D-Gryphon HP:123/123 MP:23/23
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Kingu HP:464/464 MP:91/91
+C-Karasu Tengu HP:238/238 MP:107/107
+D-Tsuchigumo HP:280/280 MP:126/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Gryphon
+3-Ghoul
+4-Lham Dearg
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Lham Dearg HP:91/91 MP:19/19
+D-Gryphon HP:123/123 MP:23/23
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Kingu HP:464/464 MP:91/91
+C-Karasu Tengu HP:238/238 MP:107/107
+D-Tsuchigumo HP:280/280 MP:126/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gryphon
+2-Ghoul
+3-Lham Dearg
+4-Joker
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nidhoggr HP:681/681 MP:135/135
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nidhoggr ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Lham Dearg HP:91/91 MP:19/19
+D-Nidhoggr HP:681/681 MP:135/135
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Kingu HP:464/464 MP:91/91
+C-Karasu Tengu HP:238/238 MP:107/107
+D-Tsuchigumo HP:280/280 MP:126/126
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ghoul
+2-Lham Dearg
+3-Joker
+4-Nidhoggr
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Flynn HP:971/971 MP:527/527
+2-Kingu HP:464/464 MP:91/91
+3-Karasu Tengu HP:238/238 MP:107/107
+4-Tsuchigumo HP:280/280 MP:126/126
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Ghoul ataca a Kingu
+Kingu recibe 41 de daño
+Kingu termina con HP:423/464
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Lham Dearg HP:91/91 MP:19/19
+D-Nidhoggr HP:681/681 MP:135/135
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Kingu HP:423/464 MP:91/91
+C-Karasu Tengu HP:238/238 MP:107/107
+D-Tsuchigumo HP:280/280 MP:126/126
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Kingu
+3-Karasu Tengu
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:597/597 MP:347/347
+2-Ghoul HP:558/558 MP:111/111
+3-Lham Dearg HP:91/91 MP:19/19
+4-Nidhoggr HP:681/681 MP:135/135
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Flynn dispara a Nidhoggr
+Nidhoggr es resistente el ataque de Flynn
+Nidhoggr recibe 55 de daño
+Nidhoggr termina con HP:626/681
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Lham Dearg HP:91/91 MP:19/19
+D-Nidhoggr HP:626/681 MP:135/135
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Kingu HP:423/464 MP:91/91
+C-Karasu Tengu HP:238/238 MP:107/107
+D-Tsuchigumo HP:280/280 MP:126/126
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Karasu Tengu
+3-Tsuchigumo
+4-Flynn
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Joker HP:597/597 MP:347/347
+2-Ghoul HP:558/558 MP:111/111
+3-Lham Dearg HP:91/91 MP:19/19
+4-Nidhoggr HP:626/681 MP:135/135
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lailah HP:212/212 MP:205/205
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lailah ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Lham Dearg HP:91/91 MP:19/19
+D-Nidhoggr HP:626/681 MP:135/135
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Lailah HP:212/212 MP:205/205
+C-Karasu Tengu HP:238/238 MP:107/107
+D-Tsuchigumo HP:280/280 MP:126/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Karasu Tengu
+2-Tsuchigumo
+3-Flynn
+4-Lailah
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:423/464 MP:91/91
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kingu ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Lham Dearg HP:91/91 MP:19/19
+D-Nidhoggr HP:626/681 MP:135/135
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Lailah HP:212/212 MP:205/205
+C-Kingu HP:423/464 MP:91/91
+D-Tsuchigumo HP:280/280 MP:126/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Flynn
+3-Lailah
+4-Kingu
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Joker HP:597/597 MP:347/347
+2-Ghoul HP:558/558 MP:111/111
+3-Lham Dearg HP:91/91 MP:19/19
+4-Nidhoggr HP:626/681 MP:135/135
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Tsuchigumo ataca a Nidhoggr
+Nidhoggr es resistente el ataque de Tsuchigumo
+Nidhoggr recibe 11 de daño
+Nidhoggr termina con HP:615/681
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Lham Dearg HP:91/91 MP:19/19
+D-Nidhoggr HP:615/681 MP:135/135
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Lailah HP:212/212 MP:205/205
+C-Kingu HP:423/464 MP:91/91
+D-Tsuchigumo HP:280/280 MP:126/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Lailah
+3-Kingu
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Lham Dearg HP:91/91 MP:19/19
+D-Nidhoggr HP:615/681 MP:135/135
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Lailah HP:212/212 MP:205/205
+C-Kingu HP:423/464 MP:91/91
+D-Tsuchigumo HP:280/280 MP:126/126
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lailah
+2-Kingu
+3-Tsuchigumo
+4-Flynn
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lailah
+1-Joker HP:597/597 MP:347/347
+2-Ghoul HP:558/558 MP:111/111
+3-Lham Dearg HP:91/91 MP:19/19
+4-Nidhoggr HP:615/681 MP:135/135
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Lham Dearg HP:91/91 MP:19/19
+D-Nidhoggr HP:615/681 MP:135/135
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Lailah HP:212/212 MP:205/205
+C-Kingu HP:423/464 MP:91/91
+D-Tsuchigumo HP:280/280 MP:126/126
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Ghoul
+3-Joker
+4-Lham Dearg
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Lham Dearg HP:91/91 MP:19/19
+D-Nidhoggr HP:615/681 MP:135/135
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Lailah HP:212/212 MP:205/205
+C-Kingu HP:423/464 MP:91/91
+D-Tsuchigumo HP:280/280 MP:126/126
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ghoul
+2-Joker
+3-Lham Dearg
+4-Nidhoggr
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Flynn HP:971/971 MP:527/527
+2-Lailah HP:212/212 MP:205/205
+3-Kingu HP:423/464 MP:91/91
+4-Tsuchigumo HP:280/280 MP:126/126
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Ghoul ataca a Tsuchigumo
+Tsuchigumo recibe 41 de daño
+Tsuchigumo termina con HP:239/280
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Lham Dearg HP:91/91 MP:19/19
+D-Nidhoggr HP:615/681 MP:135/135
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Lailah HP:212/212 MP:205/205
+C-Kingu HP:423/464 MP:91/91
+D-Tsuchigumo HP:239/280 MP:126/126
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Lham Dearg
+3-Nidhoggr
+4-Ghoul
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Gryphon HP:123/123 MP:23/23
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:971/971 MP:527/527
+2-Lailah HP:212/212 MP:205/205
+3-Kingu HP:423/464 MP:91/91
+4-Tsuchigumo HP:239/280 MP:126/126
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:971/971 MP:527/527
+2-Lailah HP:212/212 MP:205/205
+3-Kingu HP:423/464 MP:91/91
+4-Tsuchigumo HP:239/280 MP:126/126
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Lham Dearg HP:91/91 MP:19/19
+D-Nidhoggr HP:615/681 MP:135/135
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Lailah HP:212/212 MP:205/205
+C-Kingu HP:423/464 MP:91/91
+D-Tsuchigumo HP:239/280 MP:126/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lham Dearg
+2-Nidhoggr
+3-Ghoul
+4-Joker
+----------------------------------------
+Seleccione una acción para Lham Dearg
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Gryphon HP:123/123 MP:23/23
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Gryphon ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Gryphon HP:123/123 MP:23/23
+D-Nidhoggr HP:615/681 MP:135/135
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Lailah HP:212/212 MP:205/205
+C-Kingu HP:423/464 MP:91/91
+D-Tsuchigumo HP:239/280 MP:126/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Ghoul
+3-Joker
+4-Gryphon
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lham Dearg HP:91/91 MP:19/19
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lham Dearg ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Ghoul HP:558/558 MP:111/111
+C-Gryphon HP:123/123 MP:23/23
+D-Lham Dearg HP:91/91 MP:19/19
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Lailah HP:212/212 MP:205/205
+C-Kingu HP:423/464 MP:91/91
+D-Tsuchigumo HP:239/280 MP:126/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ghoul
+2-Joker
+3-Gryphon
+4-Lham Dearg
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nidhoggr HP:615/681 MP:135/135
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nidhoggr ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Nidhoggr HP:615/681 MP:135/135
+C-Gryphon HP:123/123 MP:23/23
+D-Lham Dearg HP:91/91 MP:19/19
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Lailah HP:212/212 MP:205/205
+C-Kingu HP:423/464 MP:91/91
+D-Tsuchigumo HP:239/280 MP:126/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Gryphon
+3-Lham Dearg
+4-Nidhoggr
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Bouncing Claw MP:4
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:971/971 MP:527/527
+2-Lailah HP:212/212 MP:205/205
+3-Kingu HP:423/464 MP:91/91
+4-Tsuchigumo HP:239/280 MP:126/126
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Joker dispara a Lailah
+Lailah recibe 39 de daño
+Lailah termina con HP:173/212
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Nidhoggr HP:615/681 MP:135/135
+C-Gryphon HP:123/123 MP:23/23
+D-Lham Dearg HP:91/91 MP:19/19
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Lailah HP:173/212 MP:205/205
+C-Kingu HP:423/464 MP:91/91
+D-Tsuchigumo HP:239/280 MP:126/126
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Kingu
+3-Tsuchigumo
+4-Lailah
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Zanma MP:8
+2-Zan MP:5
+3-Recarm MP:20
+4-Diarahan MP:16
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:597/597 MP:347/347
+2-Nidhoggr HP:615/681 MP:135/135
+3-Gryphon HP:123/123 MP:23/23
+4-Lham Dearg HP:91/91 MP:19/19
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:597/597 MP:347/347
+2-Nidhoggr HP:615/681 MP:135/135
+3-Gryphon HP:123/123 MP:23/23
+4-Lham Dearg HP:91/91 MP:19/19
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Flynn ataca a Gryphon
+Gryphon recibe 88 de daño
+Gryphon termina con HP:35/123
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Nidhoggr HP:615/681 MP:135/135
+C-Gryphon HP:35/123 MP:23/23
+D-Lham Dearg HP:91/91 MP:19/19
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Lailah HP:173/212 MP:205/205
+C-Kingu HP:423/464 MP:91/91
+D-Tsuchigumo HP:239/280 MP:126/126
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Tsuchigumo
+3-Lailah
+4-Flynn
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Nidhoggr HP:615/681 MP:135/135
+C-Gryphon HP:35/123 MP:23/23
+D-Lham Dearg HP:91/91 MP:19/19
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Lailah HP:173/212 MP:205/205
+C-Kingu HP:423/464 MP:91/91
+D-Tsuchigumo HP:239/280 MP:126/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Lailah
+3-Flynn
+4-Kingu
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Joker HP:597/597 MP:347/347
+2-Nidhoggr HP:615/681 MP:135/135
+3-Gryphon HP:35/123 MP:23/23
+4-Lham Dearg HP:91/91 MP:19/19
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Tsuchigumo ataca a Gryphon
+Gryphon recibe 22 de daño
+Gryphon termina con HP:13/123
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Nidhoggr HP:615/681 MP:135/135
+C-Gryphon HP:13/123 MP:23/23
+D-Lham Dearg HP:91/91 MP:19/19
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Lailah HP:173/212 MP:205/205
+C-Kingu HP:423/464 MP:91/91
+D-Tsuchigumo HP:239/280 MP:126/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lailah
+2-Flynn
+3-Kingu
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Nidhoggr HP:615/681 MP:135/135
+C-Gryphon HP:13/123 MP:23/23
+D-Lham Dearg HP:91/91 MP:19/19
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Lailah HP:173/212 MP:205/205
+C-Kingu HP:423/464 MP:91/91
+D-Tsuchigumo HP:239/280 MP:126/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Flynn
+2-Kingu
+3-Tsuchigumo
+4-Lailah
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Zanma MP:8
+2-Zan MP:5
+3-Recarm MP:20
+4-Diarahan MP:16
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:597/597 MP:347/347
+2-Nidhoggr HP:615/681 MP:135/135
+3-Gryphon HP:13/123 MP:23/23
+4-Lham Dearg HP:91/91 MP:19/19
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Flynn lanza viento a Lham Dearg
+Lham Dearg recibe 106 de daño
+Lham Dearg termina con HP:0/91
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Nidhoggr HP:615/681 MP:135/135
+C-Gryphon HP:13/123 MP:23/23
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:522/527
+B-Lailah HP:173/212 MP:205/205
+C-Kingu HP:423/464 MP:91/91
+D-Tsuchigumo HP:239/280 MP:126/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Tsuchigumo
+3-Lailah
+4-Flynn
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Karasu Tengu HP:238/238 MP:107/107
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Karasu Tengu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Nidhoggr HP:615/681 MP:135/135
+C-Gryphon HP:13/123 MP:23/23
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:522/527
+B-Lailah HP:173/212 MP:205/205
+C-Karasu Tengu HP:238/238 MP:107/107
+D-Tsuchigumo HP:239/280 MP:126/126
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Lailah
+3-Flynn
+4-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:423/464 MP:91/91
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tsuchigumo use
+1-Poison Claw MP:9
+2-Zionga MP:8
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tsuchigumo use
+1-Poison Claw MP:9
+2-Zionga MP:8
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Joker HP:597/597 MP:347/347
+2-Nidhoggr HP:615/681 MP:135/135
+3-Gryphon HP:13/123 MP:23/23
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Tsuchigumo ataca a Joker
+Joker recibe 22 de daño
+Joker termina con HP:575/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:575/597 MP:347/347
+B-Nidhoggr HP:615/681 MP:135/135
+C-Gryphon HP:13/123 MP:23/23
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:522/527
+B-Lailah HP:173/212 MP:205/205
+C-Karasu Tengu HP:238/238 MP:107/107
+D-Tsuchigumo HP:239/280 MP:126/126
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Joker
+3-Gryphon
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:575/597 MP:347/347
+B-Nidhoggr HP:615/681 MP:135/135
+C-Gryphon HP:13/123 MP:23/23
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:522/527
+B-Lailah HP:173/212 MP:205/205
+C-Karasu Tengu HP:238/238 MP:107/107
+D-Tsuchigumo HP:239/280 MP:126/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Gryphon
+3-Nidhoggr
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:971/971 MP:522/527
+2-Lailah HP:173/212 MP:205/205
+3-Karasu Tengu HP:238/238 MP:107/107
+4-Tsuchigumo HP:239/280 MP:126/126
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Joker dispara a Tsuchigumo
+Tsuchigumo recibe 39 de daño
+Tsuchigumo termina con HP:200/280
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:575/597 MP:347/347
+B-Nidhoggr HP:615/681 MP:135/135
+C-Gryphon HP:13/123 MP:23/23
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:522/527
+B-Lailah HP:173/212 MP:205/205
+C-Karasu Tengu HP:238/238 MP:107/107
+D-Tsuchigumo HP:200/280 MP:126/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gryphon
+2-Nidhoggr
+3-Joker
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ghoul HP:558/558 MP:111/111
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:575/597 MP:347/347
+B-Nidhoggr HP:615/681 MP:135/135
+C-Gryphon HP:13/123 MP:23/23
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:522/527
+B-Lailah HP:173/212 MP:205/205
+C-Karasu Tengu HP:238/238 MP:107/107
+D-Tsuchigumo HP:200/280 MP:126/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Joker
+3-Gryphon
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nidhoggr use
+1-Grand Tack MP:11
+2-Life Drain MP:5
+3-Madness Nails MP:26
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Flynn HP:971/971 MP:522/527
+2-Lailah HP:173/212 MP:205/205
+3-Karasu Tengu HP:238/238 MP:107/107
+4-Tsuchigumo HP:200/280 MP:126/126
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:575/597 MP:347/347
+B-Nidhoggr HP:615/681 MP:135/135
+C-Gryphon HP:13/123 MP:23/23
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:522/527
+B-Lailah HP:173/212 MP:205/205
+C-Karasu Tengu HP:238/238 MP:107/107
+D-Tsuchigumo HP:200/280 MP:126/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Gryphon
+3-Nidhoggr
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:971/971 MP:522/527
+2-Lailah HP:173/212 MP:205/205
+3-Karasu Tengu HP:238/238 MP:107/107
+4-Tsuchigumo HP:200/280 MP:126/126
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ghoul HP:558/558 MP:111/111
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:971/971 MP:522/527
+2-Lailah HP:173/212 MP:205/205
+3-Karasu Tengu HP:238/238 MP:107/107
+4-Tsuchigumo HP:200/280 MP:126/126
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Flynn
+Flynn recibe 39 de daño
+Flynn termina con HP:932/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:575/597 MP:347/347
+B-Nidhoggr HP:615/681 MP:135/135
+C-Gryphon HP:13/123 MP:23/23
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:932/971 MP:522/527
+B-Lailah HP:173/212 MP:205/205
+C-Karasu Tengu HP:238/238 MP:107/107
+D-Tsuchigumo HP:200/280 MP:126/126
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Karasu Tengu
+3-Tsuchigumo
+4-Lailah
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:575/597 MP:347/347
+2-Nidhoggr HP:615/681 MP:135/135
+3-Gryphon HP:13/123 MP:23/23
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Flynn ataca a Gryphon
+Gryphon recibe 88 de daño
+Gryphon termina con HP:0/123
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:575/597 MP:347/347
+B-Nidhoggr HP:615/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:932/971 MP:522/527
+B-Lailah HP:173/212 MP:205/205
+C-Karasu Tengu HP:238/238 MP:107/107
+D-Tsuchigumo HP:200/280 MP:126/126
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Karasu Tengu
+2-Tsuchigumo
+3-Lailah
+4-Flynn
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Karasu Tengu
+1-Joker HP:575/597 MP:347/347
+2-Nidhoggr HP:615/681 MP:135/135
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:575/597 MP:347/347
+B-Nidhoggr HP:615/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:932/971 MP:522/527
+B-Lailah HP:173/212 MP:205/205
+C-Karasu Tengu HP:238/238 MP:107/107
+D-Tsuchigumo HP:200/280 MP:126/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Lailah
+3-Flynn
+4-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:423/464 MP:91/91
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kingu ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:575/597 MP:347/347
+B-Nidhoggr HP:615/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:932/971 MP:522/527
+B-Lailah HP:173/212 MP:205/205
+C-Karasu Tengu HP:238/238 MP:107/107
+D-Kingu HP:423/464 MP:91/91
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lailah
+2-Flynn
+3-Karasu Tengu
+4-Kingu
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lailah use
+1-Recarm MP:20
+2-Mahama MP:18
+3-Hamaon MP:10
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lailah
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tsuchigumo HP:200/280 MP:126/126
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tsuchigumo ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:575/597 MP:347/347
+B-Nidhoggr HP:615/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:932/971 MP:522/527
+B-Tsuchigumo HP:200/280 MP:126/126
+C-Karasu Tengu HP:238/238 MP:107/107
+D-Kingu HP:423/464 MP:91/91
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Flynn
+2-Karasu Tengu
+3-Kingu
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Zanma MP:8
+2-Zan MP:5
+3-Recarm MP:20
+4-Diarahan MP:16
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:575/597 MP:347/347
+2-Nidhoggr HP:615/681 MP:135/135
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn lanza viento a Nidhoggr
+Nidhoggr recibe 141 de daño
+Nidhoggr termina con HP:474/681
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:575/597 MP:347/347
+B-Nidhoggr HP:474/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:932/971 MP:514/527
+B-Tsuchigumo HP:200/280 MP:126/126
+C-Karasu Tengu HP:238/238 MP:107/107
+D-Kingu HP:423/464 MP:91/91
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Karasu Tengu
+2-Kingu
+3-Tsuchigumo
+4-Flynn
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Karasu Tengu
+1-Joker HP:575/597 MP:347/347
+2-Nidhoggr HP:474/681 MP:135/135
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Karasu Tengu ataca a Nidhoggr
+Nidhoggr es resistente el ataque de Karasu Tengu
+Nidhoggr recibe 9 de daño
+Nidhoggr termina con HP:465/681
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:575/597 MP:347/347
+B-Nidhoggr HP:465/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:932/971 MP:514/527
+B-Tsuchigumo HP:200/280 MP:126/126
+C-Karasu Tengu HP:238/238 MP:107/107
+D-Kingu HP:423/464 MP:91/91
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Joker
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:575/597 MP:347/347
+B-Nidhoggr HP:465/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:932/971 MP:514/527
+B-Tsuchigumo HP:200/280 MP:126/126
+C-Karasu Tengu HP:238/238 MP:107/107
+D-Kingu HP:423/464 MP:91/91
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Nidhoggr
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:932/971 MP:514/527
+2-Tsuchigumo HP:200/280 MP:126/126
+3-Karasu Tengu HP:238/238 MP:107/107
+4-Kingu HP:423/464 MP:91/91
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:932/971 MP:514/527
+2-Tsuchigumo HP:200/280 MP:126/126
+3-Karasu Tengu HP:238/238 MP:107/107
+4-Kingu HP:423/464 MP:91/91
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Joker dispara a Karasu Tengu
+Karasu Tengu recibe 39 de daño
+Karasu Tengu termina con HP:199/238
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:575/597 MP:347/347
+B-Nidhoggr HP:465/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:932/971 MP:514/527
+B-Tsuchigumo HP:200/280 MP:126/126
+C-Karasu Tengu HP:199/238 MP:107/107
+D-Kingu HP:423/464 MP:91/91
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Joker
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:575/597 MP:347/347
+B-Nidhoggr HP:465/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:932/971 MP:514/527
+B-Tsuchigumo HP:200/280 MP:126/126
+C-Karasu Tengu HP:199/238 MP:107/107
+D-Kingu HP:423/464 MP:91/91
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Nidhoggr
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:932/971 MP:514/527
+2-Tsuchigumo HP:200/280 MP:126/126
+3-Karasu Tengu HP:199/238 MP:107/107
+4-Kingu HP:423/464 MP:91/91
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Joker ataca a Karasu Tengu
+Karasu Tengu recibe 28 de daño
+Karasu Tengu termina con HP:171/238
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:575/597 MP:347/347
+B-Nidhoggr HP:465/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:932/971 MP:514/527
+B-Tsuchigumo HP:200/280 MP:126/126
+C-Karasu Tengu HP:171/238 MP:107/107
+D-Kingu HP:423/464 MP:91/91
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Kingu
+3-Tsuchigumo
+4-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lailah HP:173/212 MP:205/205
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Tsuchigumo HP:200/280 MP:126/126 (Puesto 2)
+2-Karasu Tengu HP:171/238 MP:107/107 (Puesto 3)
+3-Kingu HP:423/464 MP:91/91 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Lailah ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:575/597 MP:347/347
+B-Nidhoggr HP:465/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:932/971 MP:514/527
+B-Tsuchigumo HP:200/280 MP:126/126
+C-Lailah HP:173/212 MP:205/205
+D-Kingu HP:423/464 MP:91/91
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kingu
+2-Tsuchigumo
+3-Lailah
+4-Flynn
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kingu use
+1-Zanma MP:8
+2-Recarmdra MP:2
+3-Shock MP:21
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Joker HP:575/597 MP:347/347
+2-Nidhoggr HP:465/681 MP:135/135
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kingu lanza viento a Nidhoggr
+Nidhoggr recibe 73 de daño
+Nidhoggr termina con HP:392/681
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:575/597 MP:347/347
+B-Nidhoggr HP:392/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:932/971 MP:514/527
+B-Tsuchigumo HP:200/280 MP:126/126
+C-Lailah HP:173/212 MP:205/205
+D-Kingu HP:423/464 MP:83/91
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Lailah
+3-Flynn
+4-Kingu
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:575/597 MP:347/347
+B-Nidhoggr HP:392/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:932/971 MP:514/527
+B-Tsuchigumo HP:200/280 MP:126/126
+C-Lailah HP:173/212 MP:205/205
+D-Kingu HP:423/464 MP:83/91
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lailah
+2-Flynn
+3-Kingu
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:575/597 MP:347/347
+B-Nidhoggr HP:392/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:932/971 MP:514/527
+B-Tsuchigumo HP:200/280 MP:126/126
+C-Lailah HP:173/212 MP:205/205
+D-Kingu HP:423/464 MP:83/91
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Kingu
+3-Tsuchigumo
+4-Lailah
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Karasu Tengu HP:171/238 MP:107/107
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:575/597 MP:347/347
+2-Nidhoggr HP:392/681 MP:135/135
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:575/597 MP:347/347
+B-Nidhoggr HP:392/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:932/971 MP:514/527
+B-Tsuchigumo HP:200/280 MP:126/126
+C-Lailah HP:173/212 MP:205/205
+D-Kingu HP:423/464 MP:83/91
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kingu
+2-Tsuchigumo
+3-Lailah
+4-Flynn
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Joker HP:575/597 MP:347/347
+2-Nidhoggr HP:392/681 MP:135/135
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Karasu Tengu HP:171/238 MP:107/107
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Karasu Tengu ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:575/597 MP:347/347
+B-Nidhoggr HP:392/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:932/971 MP:514/527
+B-Tsuchigumo HP:200/280 MP:126/126
+C-Lailah HP:173/212 MP:205/205
+D-Karasu Tengu HP:171/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Lailah
+3-Flynn
+4-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Joker HP:575/597 MP:347/347
+2-Nidhoggr HP:392/681 MP:135/135
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Tsuchigumo ataca a Joker
+Joker recibe 22 de daño
+Joker termina con HP:553/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:553/597 MP:347/347
+B-Nidhoggr HP:392/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:932/971 MP:514/527
+B-Tsuchigumo HP:200/280 MP:126/126
+C-Lailah HP:173/212 MP:205/205
+D-Karasu Tengu HP:171/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Joker
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:553/597 MP:347/347
+B-Nidhoggr HP:392/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:932/971 MP:514/527
+B-Tsuchigumo HP:200/280 MP:126/126
+C-Lailah HP:173/212 MP:205/205
+D-Karasu Tengu HP:171/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Nidhoggr
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Bouncing Claw MP:4
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:932/971 MP:514/527
+2-Tsuchigumo HP:200/280 MP:126/126
+3-Lailah HP:173/212 MP:205/205
+4-Karasu Tengu HP:171/238 MP:107/107
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Flynn
+Flynn recibe 61 de daño
+Flynn termina con HP:871/971
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:553/597 MP:343/347
+B-Nidhoggr HP:392/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:871/971 MP:514/527
+B-Tsuchigumo HP:200/280 MP:126/126
+C-Lailah HP:173/212 MP:205/205
+D-Karasu Tengu HP:171/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Joker
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nidhoggr use
+1-Grand Tack MP:11
+2-Life Drain MP:5
+3-Madness Nails MP:26
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Flynn HP:871/971 MP:514/527
+2-Tsuchigumo HP:200/280 MP:126/126
+3-Lailah HP:173/212 MP:205/205
+4-Karasu Tengu HP:171/238 MP:107/107
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nidhoggr ataca a Lailah
+Lailah recibe 52 de daño
+Lailah termina con HP:121/212
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:553/597 MP:343/347
+B-Nidhoggr HP:392/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:871/971 MP:514/527
+B-Tsuchigumo HP:200/280 MP:126/126
+C-Lailah HP:121/212 MP:205/205
+D-Karasu Tengu HP:171/238 MP:107/107
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Karasu Tengu
+3-Tsuchigumo
+4-Lailah
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:553/597 MP:343/347
+2-Nidhoggr HP:392/681 MP:135/135
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn ataca a Nidhoggr
+Nidhoggr es resistente el ataque de Flynn
+Nidhoggr recibe 44 de daño
+Nidhoggr termina con HP:348/681
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:553/597 MP:343/347
+B-Nidhoggr HP:348/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:871/971 MP:514/527
+B-Tsuchigumo HP:200/280 MP:126/126
+C-Lailah HP:121/212 MP:205/205
+D-Karasu Tengu HP:171/238 MP:107/107
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Karasu Tengu
+2-Tsuchigumo
+3-Lailah
+4-Flynn
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:553/597 MP:343/347
+B-Nidhoggr HP:348/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:871/971 MP:514/527
+B-Tsuchigumo HP:200/280 MP:126/126
+C-Lailah HP:121/212 MP:205/205
+D-Karasu Tengu HP:171/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Lailah
+3-Flynn
+4-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:553/597 MP:343/347
+B-Nidhoggr HP:348/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:871/971 MP:514/527
+B-Tsuchigumo HP:200/280 MP:126/126
+C-Lailah HP:121/212 MP:205/205
+D-Karasu Tengu HP:171/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lailah
+2-Flynn
+3-Karasu Tengu
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:553/597 MP:343/347
+B-Nidhoggr HP:348/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:871/971 MP:514/527
+B-Tsuchigumo HP:200/280 MP:126/126
+C-Lailah HP:121/212 MP:205/205
+D-Karasu Tengu HP:171/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Flynn
+2-Karasu Tengu
+3-Tsuchigumo
+4-Lailah
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Zanma MP:8
+2-Zan MP:5
+3-Recarm MP:20
+4-Diarahan MP:16
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:553/597 MP:343/347
+2-Nidhoggr HP:348/681 MP:135/135
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn lanza viento a Joker
+Joker recibe 141 de daño
+Joker termina con HP:412/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:412/597 MP:343/347
+B-Nidhoggr HP:348/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:871/971 MP:506/527
+B-Tsuchigumo HP:200/280 MP:126/126
+C-Lailah HP:121/212 MP:205/205
+D-Karasu Tengu HP:171/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Karasu Tengu
+2-Tsuchigumo
+3-Lailah
+4-Flynn
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:423/464 MP:83/91
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kingu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:412/597 MP:343/347
+B-Nidhoggr HP:348/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:871/971 MP:506/527
+B-Tsuchigumo HP:200/280 MP:126/126
+C-Lailah HP:121/212 MP:205/205
+D-Kingu HP:423/464 MP:83/91
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Lailah
+3-Flynn
+4-Kingu
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tsuchigumo use
+1-Poison Claw MP:9
+2-Zionga MP:8
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Joker HP:412/597 MP:343/347
+2-Nidhoggr HP:348/681 MP:135/135
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Joker HP:412/597 MP:343/347
+2-Nidhoggr HP:348/681 MP:135/135
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Tsuchigumo ataca a Nidhoggr
+Nidhoggr es resistente el ataque de Tsuchigumo
+Nidhoggr recibe 11 de daño
+Nidhoggr termina con HP:337/681
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:412/597 MP:343/347
+B-Nidhoggr HP:337/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:871/971 MP:506/527
+B-Tsuchigumo HP:200/280 MP:126/126
+C-Lailah HP:121/212 MP:205/205
+D-Kingu HP:423/464 MP:83/91
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Joker
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ghoul HP:558/558 MP:111/111
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ghoul ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:412/597 MP:343/347
+B-Ghoul HP:558/558 MP:111/111
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:871/971 MP:506/527
+B-Tsuchigumo HP:200/280 MP:126/126
+C-Lailah HP:121/212 MP:205/205
+D-Kingu HP:423/464 MP:83/91
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Ghoul
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:871/971 MP:506/527
+2-Tsuchigumo HP:200/280 MP:126/126
+3-Lailah HP:121/212 MP:205/205
+4-Kingu HP:423/464 MP:83/91
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Joker dispara a Lailah
+Lailah recibe 39 de daño
+Lailah termina con HP:82/212
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:412/597 MP:343/347
+B-Ghoul HP:558/558 MP:111/111
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:871/971 MP:506/527
+B-Tsuchigumo HP:200/280 MP:126/126
+C-Lailah HP:82/212 MP:205/205
+D-Kingu HP:423/464 MP:83/91
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ghoul
+2-Joker
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ghoul use
+1-Energy Drain MP:10
+2-Tetanus Cut MP:11
+3-Damascus Claw MP:7
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Flynn HP:871/971 MP:506/527
+2-Tsuchigumo HP:200/280 MP:126/126
+3-Lailah HP:82/212 MP:205/205
+4-Kingu HP:423/464 MP:83/91
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nidhoggr HP:337/681 MP:135/135
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nidhoggr ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:412/597 MP:343/347
+B-Nidhoggr HP:337/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:871/971 MP:506/527
+B-Tsuchigumo HP:200/280 MP:126/126
+C-Lailah HP:82/212 MP:205/205
+D-Kingu HP:423/464 MP:83/91
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Nidhoggr
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:871/971 MP:506/527
+2-Tsuchigumo HP:200/280 MP:126/126
+3-Lailah HP:82/212 MP:205/205
+4-Kingu HP:423/464 MP:83/91
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Flynn
+Flynn recibe 39 de daño
+Flynn termina con HP:832/971
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:412/597 MP:343/347
+B-Nidhoggr HP:337/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:832/971 MP:506/527
+B-Tsuchigumo HP:200/280 MP:126/126
+C-Lailah HP:82/212 MP:205/205
+D-Kingu HP:423/464 MP:83/91
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Kingu
+3-Tsuchigumo
+4-Lailah
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:412/597 MP:343/347
+2-Nidhoggr HP:337/681 MP:135/135
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:412/597 MP:343/347
+B-Nidhoggr HP:337/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:832/971 MP:506/527
+B-Tsuchigumo HP:200/280 MP:126/126
+C-Lailah HP:82/212 MP:205/205
+D-Kingu HP:423/464 MP:83/91
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kingu
+2-Tsuchigumo
+3-Lailah
+4-Flynn
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kingu use
+1-Zanma MP:8
+2-Recarmdra MP:2
+3-Shock MP:21
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Joker HP:412/597 MP:343/347
+2-Nidhoggr HP:337/681 MP:135/135
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kingu ataca a Joker
+Joker recibe 34 de daño
+Joker termina con HP:378/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:378/597 MP:343/347
+B-Nidhoggr HP:337/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:832/971 MP:506/527
+B-Tsuchigumo HP:200/280 MP:126/126
+C-Lailah HP:82/212 MP:205/205
+D-Kingu HP:423/464 MP:83/91
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Lailah
+3-Flynn
+4-Kingu
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tsuchigumo use
+1-Poison Claw MP:9
+2-Zionga MP:8
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Joker HP:378/597 MP:343/347
+2-Nidhoggr HP:337/681 MP:135/135
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Joker HP:378/597 MP:343/347
+2-Nidhoggr HP:337/681 MP:135/135
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Joker HP:378/597 MP:343/347
+2-Nidhoggr HP:337/681 MP:135/135
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Tsuchigumo ataca a Nidhoggr
+Nidhoggr es resistente el ataque de Tsuchigumo
+Nidhoggr recibe 11 de daño
+Nidhoggr termina con HP:326/681
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:378/597 MP:343/347
+B-Nidhoggr HP:326/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:832/971 MP:506/527
+B-Tsuchigumo HP:200/280 MP:126/126
+C-Lailah HP:82/212 MP:205/205
+D-Kingu HP:423/464 MP:83/91
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lailah
+2-Flynn
+3-Kingu
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Karasu Tengu HP:171/238 MP:107/107
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lailah use
+1-Recarm MP:20
+2-Mahama MP:18
+3-Hamaon MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:378/597 MP:343/347
+B-Nidhoggr HP:326/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:832/971 MP:506/527
+B-Tsuchigumo HP:200/280 MP:126/126
+C-Lailah HP:82/212 MP:205/205
+D-Kingu HP:423/464 MP:83/91
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Flynn
+2-Kingu
+3-Tsuchigumo
+4-Lailah
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:378/597 MP:343/347
+2-Nidhoggr HP:326/681 MP:135/135
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:378/597 MP:343/347
+2-Nidhoggr HP:326/681 MP:135/135
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn ataca a Nidhoggr
+Nidhoggr es resistente el ataque de Flynn
+Nidhoggr recibe 44 de daño
+Nidhoggr termina con HP:282/681
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:378/597 MP:343/347
+B-Nidhoggr HP:282/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:832/971 MP:506/527
+B-Tsuchigumo HP:200/280 MP:126/126
+C-Lailah HP:82/212 MP:205/205
+D-Kingu HP:423/464 MP:83/91
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Tsuchigumo
+3-Lailah
+4-Flynn
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Karasu Tengu HP:171/238 MP:107/107
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Karasu Tengu HP:171/238 MP:107/107
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Karasu Tengu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:378/597 MP:343/347
+B-Nidhoggr HP:282/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:832/971 MP:506/527
+B-Tsuchigumo HP:200/280 MP:126/126
+C-Lailah HP:82/212 MP:205/205
+D-Karasu Tengu HP:171/238 MP:107/107
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Lailah
+3-Flynn
+4-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:378/597 MP:343/347
+B-Nidhoggr HP:282/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:832/971 MP:506/527
+B-Tsuchigumo HP:200/280 MP:126/126
+C-Lailah HP:82/212 MP:205/205
+D-Karasu Tengu HP:171/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Joker
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Flynn HP:832/971 MP:506/527
+2-Tsuchigumo HP:200/280 MP:126/126
+3-Lailah HP:82/212 MP:205/205
+4-Karasu Tengu HP:171/238 MP:107/107
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nidhoggr ataca a Lailah
+Lailah recibe 52 de daño
+Lailah termina con HP:30/212
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:378/597 MP:343/347
+B-Nidhoggr HP:282/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:832/971 MP:506/527
+B-Tsuchigumo HP:200/280 MP:126/126
+C-Lailah HP:30/212 MP:205/205
+D-Karasu Tengu HP:171/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Nidhoggr
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:832/971 MP:506/527
+2-Tsuchigumo HP:200/280 MP:126/126
+3-Lailah HP:30/212 MP:205/205
+4-Karasu Tengu HP:171/238 MP:107/107
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Flynn
+Flynn recibe 28 de daño
+Flynn termina con HP:804/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:378/597 MP:343/347
+B-Nidhoggr HP:282/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:804/971 MP:506/527
+B-Tsuchigumo HP:200/280 MP:126/126
+C-Lailah HP:30/212 MP:205/205
+D-Karasu Tengu HP:171/238 MP:107/107
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Karasu Tengu
+3-Tsuchigumo
+4-Lailah
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Zanma MP:8
+2-Zan MP:5
+3-Recarm MP:20
+4-Diarahan MP:16
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:378/597 MP:343/347
+2-Nidhoggr HP:282/681 MP:135/135
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn lanza viento a Nidhoggr
+Nidhoggr recibe 106 de daño
+Nidhoggr termina con HP:176/681
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:378/597 MP:343/347
+B-Nidhoggr HP:176/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:804/971 MP:501/527
+B-Tsuchigumo HP:200/280 MP:126/126
+C-Lailah HP:30/212 MP:205/205
+D-Karasu Tengu HP:171/238 MP:107/107
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Karasu Tengu
+2-Tsuchigumo
+3-Lailah
+4-Flynn
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:423/464 MP:83/91
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:378/597 MP:343/347
+B-Nidhoggr HP:176/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:804/971 MP:501/527
+B-Tsuchigumo HP:200/280 MP:126/126
+C-Lailah HP:30/212 MP:205/205
+D-Karasu Tengu HP:171/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Lailah
+3-Flynn
+4-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:423/464 MP:83/91
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kingu ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:378/597 MP:343/347
+B-Nidhoggr HP:176/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:804/971 MP:501/527
+B-Kingu HP:423/464 MP:83/91
+C-Lailah HP:30/212 MP:205/205
+D-Karasu Tengu HP:171/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lailah
+2-Flynn
+3-Karasu Tengu
+4-Kingu
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lailah use
+1-Recarm MP:20
+2-Mahama MP:18
+3-Hamaon MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lailah use
+1-Recarm MP:20
+2-Mahama MP:18
+3-Hamaon MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:378/597 MP:343/347
+B-Nidhoggr HP:176/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:804/971 MP:501/527
+B-Kingu HP:423/464 MP:83/91
+C-Lailah HP:30/212 MP:205/205
+D-Karasu Tengu HP:171/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Flynn
+2-Karasu Tengu
+3-Kingu
+4-Lailah
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:378/597 MP:343/347
+2-Nidhoggr HP:176/681 MP:135/135
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Zanma MP:8
+2-Zan MP:5
+3-Recarm MP:20
+4-Diarahan MP:16
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Flynn HP:804/971 MP:501/527
+2-Kingu HP:423/464 MP:83/91
+3-Lailah HP:30/212 MP:205/205
+4-Karasu Tengu HP:171/238 MP:107/107
+5-Tsuchigumo HP:200/280 MP:126/126
+6-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn cura a Kingu
+Kingu recibe 464 de HP
+Kingu termina con HP:464/464
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:378/597 MP:343/347
+B-Nidhoggr HP:176/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:804/971 MP:485/527
+B-Kingu HP:464/464 MP:83/91
+C-Lailah HP:30/212 MP:205/205
+D-Karasu Tengu HP:171/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Karasu Tengu
+2-Kingu
+3-Lailah
+4-Flynn
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tsuchigumo HP:200/280 MP:126/126
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tsuchigumo ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:378/597 MP:343/347
+B-Nidhoggr HP:176/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:804/971 MP:485/527
+B-Kingu HP:464/464 MP:83/91
+C-Lailah HP:30/212 MP:205/205
+D-Tsuchigumo HP:200/280 MP:126/126
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kingu
+2-Lailah
+3-Flynn
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Joker HP:378/597 MP:343/347
+2-Nidhoggr HP:176/681 MP:135/135
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kingu ataca a Joker
+Joker recibe 34 de daño
+Joker termina con HP:344/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:344/597 MP:343/347
+B-Nidhoggr HP:176/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:804/971 MP:485/527
+B-Kingu HP:464/464 MP:83/91
+C-Lailah HP:30/212 MP:205/205
+D-Tsuchigumo HP:200/280 MP:126/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Joker
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Flynn HP:804/971 MP:485/527
+2-Kingu HP:464/464 MP:83/91
+3-Lailah HP:30/212 MP:205/205
+4-Tsuchigumo HP:200/280 MP:126/126
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nidhoggr ataca a Flynn
+Flynn recibe 52 de daño
+Flynn termina con HP:752/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:344/597 MP:343/347
+B-Nidhoggr HP:176/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:752/971 MP:485/527
+B-Kingu HP:464/464 MP:83/91
+C-Lailah HP:30/212 MP:205/205
+D-Tsuchigumo HP:200/280 MP:126/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Nidhoggr
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:344/597 MP:343/347
+B-Nidhoggr HP:176/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:752/971 MP:485/527
+B-Kingu HP:464/464 MP:83/91
+C-Lailah HP:30/212 MP:205/205
+D-Tsuchigumo HP:200/280 MP:126/126
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Joker
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nidhoggr use
+1-Grand Tack MP:11
+2-Life Drain MP:5
+3-Madness Nails MP:26
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Flynn HP:752/971 MP:485/527
+2-Kingu HP:464/464 MP:83/91
+3-Lailah HP:30/212 MP:205/205
+4-Tsuchigumo HP:200/280 MP:126/126
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ghoul HP:558/558 MP:111/111
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Flynn HP:752/971 MP:485/527
+2-Kingu HP:464/464 MP:83/91
+3-Lailah HP:30/212 MP:205/205
+4-Tsuchigumo HP:200/280 MP:126/126
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nidhoggr ataca a Kingu
+Kingu recibe 52 de daño
+Kingu termina con HP:412/464
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:344/597 MP:343/347
+B-Nidhoggr HP:176/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:752/971 MP:485/527
+B-Kingu HP:412/464 MP:83/91
+C-Lailah HP:30/212 MP:205/205
+D-Tsuchigumo HP:200/280 MP:126/126
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Kingu
+3-Tsuchigumo
+4-Lailah
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:344/597 MP:343/347
+2-Nidhoggr HP:176/681 MP:135/135
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Karasu Tengu HP:171/238 MP:107/107
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Kingu HP:412/464 MP:83/91 (Puesto 2)
+2-Lailah HP:30/212 MP:205/205 (Puesto 3)
+3-Tsuchigumo HP:200/280 MP:126/126 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:344/597 MP:343/347
+2-Nidhoggr HP:176/681 MP:135/135
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:344/597 MP:343/347
+2-Nidhoggr HP:176/681 MP:135/135
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Zanma MP:8
+2-Zan MP:5
+3-Recarm MP:20
+4-Diarahan MP:16
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Flynn HP:752/971 MP:485/527
+2-Kingu HP:412/464 MP:83/91
+3-Lailah HP:30/212 MP:205/205
+4-Tsuchigumo HP:200/280 MP:126/126
+5-Karasu Tengu HP:171/238 MP:107/107
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Flynn cura a Tsuchigumo
+Tsuchigumo recibe 280 de HP
+Tsuchigumo termina con HP:280/280
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:344/597 MP:343/347
+B-Nidhoggr HP:176/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:752/971 MP:469/527
+B-Kingu HP:412/464 MP:83/91
+C-Lailah HP:30/212 MP:205/205
+D-Tsuchigumo HP:280/280 MP:126/126
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Tsuchigumo
+3-Lailah
+4-Flynn
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Karasu Tengu HP:171/238 MP:107/107
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Karasu Tengu HP:171/238 MP:107/107
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Karasu Tengu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:344/597 MP:343/347
+B-Nidhoggr HP:176/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:752/971 MP:469/527
+B-Karasu Tengu HP:171/238 MP:107/107
+C-Lailah HP:30/212 MP:205/205
+D-Tsuchigumo HP:280/280 MP:126/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Lailah
+3-Flynn
+4-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:344/597 MP:343/347
+B-Nidhoggr HP:176/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:752/971 MP:469/527
+B-Karasu Tengu HP:171/238 MP:107/107
+C-Lailah HP:30/212 MP:205/205
+D-Tsuchigumo HP:280/280 MP:126/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lailah
+2-Flynn
+3-Karasu Tengu
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lailah
+1-Joker HP:344/597 MP:343/347
+2-Nidhoggr HP:176/681 MP:135/135
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lailah use
+1-Recarm MP:20
+2-Mahama MP:18
+3-Hamaon MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:412/464 MP:83/91
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kingu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:344/597 MP:343/347
+B-Nidhoggr HP:176/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:752/971 MP:469/527
+B-Karasu Tengu HP:171/238 MP:107/107
+C-Kingu HP:412/464 MP:83/91
+D-Tsuchigumo HP:280/280 MP:126/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Flynn
+2-Karasu Tengu
+3-Tsuchigumo
+4-Kingu
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:344/597 MP:343/347
+2-Nidhoggr HP:176/681 MP:135/135
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Joker
+Joker recibe 110 de daño
+Joker termina con HP:234/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:234/597 MP:343/347
+B-Nidhoggr HP:176/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:752/971 MP:469/527
+B-Karasu Tengu HP:171/238 MP:107/107
+C-Kingu HP:412/464 MP:83/91
+D-Tsuchigumo HP:280/280 MP:126/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Karasu Tengu
+2-Tsuchigumo
+3-Kingu
+4-Flynn
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lailah HP:30/212 MP:205/205
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Karasu Tengu
+1-Joker HP:234/597 MP:343/347
+2-Nidhoggr HP:176/681 MP:135/135
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Karasu Tengu ataca a Nidhoggr
+Nidhoggr es resistente el ataque de Karasu Tengu
+Nidhoggr recibe 9 de daño
+Nidhoggr termina con HP:167/681
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:234/597 MP:343/347
+B-Nidhoggr HP:167/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:752/971 MP:469/527
+B-Karasu Tengu HP:171/238 MP:107/107
+C-Kingu HP:412/464 MP:83/91
+D-Tsuchigumo HP:280/280 MP:126/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Joker
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Flynn HP:752/971 MP:469/527
+2-Karasu Tengu HP:171/238 MP:107/107
+3-Kingu HP:412/464 MP:83/91
+4-Tsuchigumo HP:280/280 MP:126/126
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nidhoggr ataca a Kingu
+Kingu recibe 52 de daño
+Kingu termina con HP:360/464
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:234/597 MP:343/347
+B-Nidhoggr HP:167/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:752/971 MP:469/527
+B-Karasu Tengu HP:171/238 MP:107/107
+C-Kingu HP:360/464 MP:83/91
+D-Tsuchigumo HP:280/280 MP:126/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Nidhoggr
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:752/971 MP:469/527
+2-Karasu Tengu HP:171/238 MP:107/107
+3-Kingu HP:360/464 MP:83/91
+4-Tsuchigumo HP:280/280 MP:126/126
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Joker ataca a Karasu Tengu
+Karasu Tengu recibe 28 de daño
+Karasu Tengu termina con HP:143/238
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:234/597 MP:343/347
+B-Nidhoggr HP:167/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:752/971 MP:469/527
+B-Karasu Tengu HP:143/238 MP:107/107
+C-Kingu HP:360/464 MP:83/91
+D-Tsuchigumo HP:280/280 MP:126/126
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Kingu
+3-Tsuchigumo
+4-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:234/597 MP:343/347
+2-Nidhoggr HP:167/681 MP:135/135
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn ataca a Nidhoggr
+Nidhoggr es resistente el ataque de Flynn
+Nidhoggr recibe 44 de daño
+Nidhoggr termina con HP:123/681
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:234/597 MP:343/347
+B-Nidhoggr HP:123/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:752/971 MP:469/527
+B-Karasu Tengu HP:143/238 MP:107/107
+C-Kingu HP:360/464 MP:83/91
+D-Tsuchigumo HP:280/280 MP:126/126
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Tsuchigumo
+3-Karasu Tengu
+4-Flynn
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kingu use
+1-Zanma MP:8
+2-Recarmdra MP:2
+3-Shock MP:21
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Joker HP:234/597 MP:343/347
+2-Nidhoggr HP:123/681 MP:135/135
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kingu use
+1-Zanma MP:8
+2-Recarmdra MP:2
+3-Shock MP:21
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Kingu cura a Flynn
+Flynn recibe 485 de HP
+Flynn termina con HP:971/971
+Kingu cura a Karasu Tengu
+Karasu Tengu recibe 119 de HP
+Karasu Tengu termina con HP:238/238
+Kingu cura a Tsuchigumo
+Tsuchigumo recibe 140 de HP
+Tsuchigumo termina con HP:280/280
+Kingu cura a Lailah
+Lailah recibe 106 de HP
+Lailah termina con HP:136/212
+Kingu termina con HP:0/464
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:234/597 MP:343/347
+B-Nidhoggr HP:123/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:469/527
+B-Karasu Tengu HP:238/238 MP:107/107
+C-
+D-Tsuchigumo HP:280/280 MP:126/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Karasu Tengu
+2-Flynn
+3-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Karasu Tengu use
+1-Gram Slice MP:5
+2-Rapid Needle MP:9
+3-Mahama MP:18
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lailah HP:136/212 MP:205/205
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lailah ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:234/597 MP:343/347
+B-Nidhoggr HP:123/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:469/527
+B-Lailah HP:136/212 MP:205/205
+C-
+D-Tsuchigumo HP:280/280 MP:126/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Flynn
+2-Tsuchigumo
+3-Lailah
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Karasu Tengu HP:238/238 MP:107/107
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Zanma MP:8
+2-Zan MP:5
+3-Recarm MP:20
+4-Diarahan MP:16
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Flynn HP:971/971 MP:469/527
+2-Lailah HP:136/212 MP:205/205
+3-Tsuchigumo HP:280/280 MP:126/126
+4-Karasu Tengu HP:238/238 MP:107/107
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Flynn cura a Tsuchigumo
+Tsuchigumo recibe 280 de HP
+Tsuchigumo termina con HP:280/280
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:234/597 MP:343/347
+B-Nidhoggr HP:123/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:453/527
+B-Lailah HP:136/212 MP:205/205
+C-
+D-Tsuchigumo HP:280/280 MP:126/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Lailah
+3-Flynn
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:234/597 MP:343/347
+B-Nidhoggr HP:123/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:453/527
+B-Lailah HP:136/212 MP:205/205
+C-
+D-Tsuchigumo HP:280/280 MP:126/126
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lailah
+2-Flynn
+3-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:234/597 MP:343/347
+B-Nidhoggr HP:123/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:453/527
+B-Lailah HP:136/212 MP:205/205
+C-
+D-Tsuchigumo HP:280/280 MP:126/126
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Joker
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:234/597 MP:343/347
+B-Nidhoggr HP:123/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:453/527
+B-Lailah HP:136/212 MP:205/205
+C-
+D-Tsuchigumo HP:280/280 MP:126/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Nidhoggr
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Bouncing Claw MP:4
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ghoul HP:558/558 MP:111/111
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:971/971 MP:453/527
+2-Lailah HP:136/212 MP:205/205
+3-Tsuchigumo HP:280/280 MP:126/126
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Bouncing Claw MP:4
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Bouncing Claw MP:4
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:971/971 MP:453/527
+2-Lailah HP:136/212 MP:205/205
+3-Tsuchigumo HP:280/280 MP:126/126
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Joker ataca a Lailah
+Lailah recibe 61 de daño
+Joker ataca a Lailah
+Lailah recibe 61 de daño
+Lailah termina con HP:14/212
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:234/597 MP:339/347
+B-Nidhoggr HP:123/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:453/527
+B-Lailah HP:14/212 MP:205/205
+C-
+D-Tsuchigumo HP:280/280 MP:126/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Joker
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ghoul HP:558/558 MP:111/111
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Flynn HP:971/971 MP:453/527
+2-Lailah HP:14/212 MP:205/205
+3-Tsuchigumo HP:280/280 MP:126/126
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nidhoggr ataca a Tsuchigumo
+Tsuchigumo recibe 52 de daño
+Tsuchigumo termina con HP:228/280
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:234/597 MP:339/347
+B-Nidhoggr HP:123/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:453/527
+B-Lailah HP:14/212 MP:205/205
+C-
+D-Tsuchigumo HP:228/280 MP:126/126
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Tsuchigumo
+3-Lailah
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Karasu Tengu HP:238/238 MP:107/107
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Lailah HP:14/212 MP:205/205 (Puesto 2)
+2-Vacío (Puesto 3)
+3-Tsuchigumo HP:228/280 MP:126/126 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Karasu Tengu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:234/597 MP:339/347
+B-Nidhoggr HP:123/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:453/527
+B-Lailah HP:14/212 MP:205/205
+C-
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Karasu Tengu
+2-Lailah
+3-Flynn
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tsuchigumo HP:228/280 MP:126/126
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Karasu Tengu
+1-Joker HP:234/597 MP:339/347
+2-Nidhoggr HP:123/681 MP:135/135
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Karasu Tengu ataca a Joker
+Joker recibe 18 de daño
+Joker termina con HP:216/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:216/597 MP:339/347
+B-Nidhoggr HP:123/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:453/527
+B-Lailah HP:14/212 MP:205/205
+C-
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lailah
+2-Flynn
+3-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lailah use
+1-Recarm MP:20
+2-Mahama MP:18
+3-Hamaon MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tsuchigumo HP:228/280 MP:126/126
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lailah use
+1-Recarm MP:20
+2-Mahama MP:18
+3-Hamaon MP:10
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lailah
+1-Kingu HP:0/464 MP:81/91
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lailah revive a Kingu
+Kingu recibe 232 de HP
+Kingu termina con HP:232/464
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:216/597 MP:339/347
+B-Nidhoggr HP:123/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:453/527
+B-Lailah HP:14/212 MP:185/205
+C-
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Karasu Tengu
+3-Lailah
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Zanma MP:8
+2-Zan MP:5
+3-Recarm MP:20
+4-Diarahan MP:16
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:216/597 MP:339/347
+2-Nidhoggr HP:123/681 MP:135/135
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn lanza viento a Joker
+Joker recibe 106 de daño
+Joker termina con HP:110/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:110/597 MP:339/347
+B-Nidhoggr HP:123/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:448/527
+B-Lailah HP:14/212 MP:185/205
+C-
+D-Karasu Tengu HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Joker
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nidhoggr use
+1-Grand Tack MP:11
+2-Life Drain MP:5
+3-Madness Nails MP:26
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nidhoggr use
+1-Grand Tack MP:11
+2-Life Drain MP:5
+3-Madness Nails MP:26
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Flynn HP:971/971 MP:448/527
+2-Lailah HP:14/212 MP:185/205
+3-Karasu Tengu HP:238/238 MP:107/107
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Flynn HP:971/971 MP:448/527
+2-Lailah HP:14/212 MP:185/205
+3-Karasu Tengu HP:238/238 MP:107/107
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nidhoggr ataca a Karasu Tengu
+Karasu Tengu recibe 52 de daño
+Karasu Tengu termina con HP:186/238
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:110/597 MP:339/347
+B-Nidhoggr HP:123/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:448/527
+B-Lailah HP:14/212 MP:185/205
+C-
+D-Karasu Tengu HP:186/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Nidhoggr
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ghoul HP:558/558 MP:111/111
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:971/971 MP:448/527
+2-Lailah HP:14/212 MP:185/205
+3-Karasu Tengu HP:186/238 MP:107/107
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:971/971 MP:448/527
+2-Lailah HP:14/212 MP:185/205
+3-Karasu Tengu HP:186/238 MP:107/107
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Joker dispara a Lailah
+Lailah recibe 39 de daño
+Lailah termina con HP:0/212
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:110/597 MP:339/347
+B-Nidhoggr HP:123/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:448/527
+B-
+C-
+D-Karasu Tengu HP:186/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Zanma MP:8
+2-Zan MP:5
+3-Recarm MP:20
+4-Diarahan MP:16
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:232/464 MP:81/91
+2-Tsuchigumo HP:228/280 MP:126/126
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Vacío (Puesto 3)
+3-Karasu Tengu HP:186/238 MP:107/107 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Tsuchigumo ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:110/597 MP:339/347
+B-Nidhoggr HP:123/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:448/527
+B-
+C-
+D-Tsuchigumo HP:228/280 MP:126/126
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Flynn
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:232/464 MP:81/91
+2-Karasu Tengu HP:186/238 MP:107/107
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Karasu Tengu ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:110/597 MP:339/347
+B-Nidhoggr HP:123/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:448/527
+B-
+C-
+D-Karasu Tengu HP:186/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Zanma MP:8
+2-Zan MP:5
+3-Recarm MP:20
+4-Diarahan MP:16
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Flynn HP:971/971 MP:448/527
+2-Karasu Tengu HP:186/238 MP:107/107
+3-Kingu HP:232/464 MP:81/91
+4-Tsuchigumo HP:228/280 MP:126/126
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn cura a Flynn
+Flynn recibe 971 de HP
+Flynn termina con HP:971/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:110/597 MP:339/347
+B-Nidhoggr HP:123/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:432/527
+B-
+C-
+D-Karasu Tengu HP:186/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Joker
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Flynn HP:971/971 MP:432/527
+2-Karasu Tengu HP:186/238 MP:107/107
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Nidhoggr ataca a Karasu Tengu
+Karasu Tengu recibe 52 de daño
+Karasu Tengu termina con HP:134/238
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:110/597 MP:339/347
+B-Nidhoggr HP:123/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:432/527
+B-
+C-
+D-Karasu Tengu HP:134/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Nidhoggr
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ghoul HP:558/558 MP:111/111
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ghoul HP:558/558 MP:111/111
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Nidhoggr HP:123/681 MP:135/135 (Puesto 2)
+2-Vacío (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:971/971 MP:432/527
+2-Karasu Tengu HP:134/238 MP:107/107
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:110/597 MP:339/347
+B-Nidhoggr HP:123/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:432/527
+B-
+C-
+D-Karasu Tengu HP:134/238 MP:107/107
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Joker
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:110/597 MP:339/347
+B-Nidhoggr HP:123/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:432/527
+B-
+C-
+D-Karasu Tengu HP:134/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:110/597 MP:339/347
+2-Nidhoggr HP:123/681 MP:135/135
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:232/464 MP:81/91
+2-Tsuchigumo HP:228/280 MP:126/126
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Vacío (Puesto 3)
+3-Karasu Tengu HP:134/238 MP:107/107 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:232/464 MP:81/91
+2-Tsuchigumo HP:228/280 MP:126/126
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:110/597 MP:339/347
+B-Nidhoggr HP:123/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:432/527
+B-
+C-
+D-Karasu Tengu HP:134/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Karasu Tengu
+2-Flynn
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:110/597 MP:339/347
+B-Nidhoggr HP:123/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:432/527
+B-
+C-
+D-Karasu Tengu HP:134/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:110/597 MP:339/347
+B-Nidhoggr HP:123/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:432/527
+B-
+C-
+D-Karasu Tengu HP:134/238 MP:107/107
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Karasu Tengu
+2-Flynn
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Karasu Tengu use
+1-Gram Slice MP:5
+2-Rapid Needle MP:9
+3-Mahama MP:18
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Karasu Tengu
+1-Joker HP:110/597 MP:339/347
+2-Nidhoggr HP:123/681 MP:135/135
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Karasu Tengu ataca a Joker
+Joker recibe 54 de daño
+Joker termina con HP:56/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:56/597 MP:339/347
+B-Nidhoggr HP:123/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:432/527
+B-
+C-
+D-Karasu Tengu HP:134/238 MP:102/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Joker
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nidhoggr use
+1-Grand Tack MP:11
+2-Life Drain MP:5
+3-Madness Nails MP:26
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Flynn HP:971/971 MP:432/527
+2-Karasu Tengu HP:134/238 MP:102/107
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nidhoggr use
+1-Grand Tack MP:11
+2-Life Drain MP:5
+3-Madness Nails MP:26
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nidhoggr use
+1-Grand Tack MP:11
+2-Life Drain MP:5
+3-Madness Nails MP:26
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:56/597 MP:339/347
+B-Nidhoggr HP:123/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:432/527
+B-
+C-
+D-Karasu Tengu HP:134/238 MP:102/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Nidhoggr
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:971/971 MP:432/527
+2-Karasu Tengu HP:134/238 MP:102/107
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Flynn HP:971/971 MP:432/527
+2-Karasu Tengu HP:134/238 MP:102/107
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Flynn
+Flynn recibe 39 de daño
+Flynn termina con HP:932/971
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:56/597 MP:339/347
+B-Nidhoggr HP:123/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:932/971 MP:432/527
+B-
+C-
+D-Karasu Tengu HP:134/238 MP:102/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Joker
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nidhoggr use
+1-Grand Tack MP:11
+2-Life Drain MP:5
+3-Madness Nails MP:26
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Flynn HP:932/971 MP:432/527
+2-Karasu Tengu HP:134/238 MP:102/107
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:56/597 MP:339/347
+B-Nidhoggr HP:123/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:932/971 MP:432/527
+B-
+C-
+D-Karasu Tengu HP:134/238 MP:102/107
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Nidhoggr
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:56/597 MP:339/347
+B-Nidhoggr HP:123/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:932/971 MP:432/527
+B-
+C-
+D-Karasu Tengu HP:134/238 MP:102/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Karasu Tengu
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Joker HP:56/597 MP:339/347
+2-Nidhoggr HP:123/681 MP:135/135
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Joker
+Joker recibe 110 de daño
+Joker termina con HP:0/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:339/347
+B-Nidhoggr HP:123/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:932/971 MP:432/527
+B-
+C-
+D-Karasu Tengu HP:134/238 MP:102/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Karasu Tengu
+2-Flynn
+----------------------------------------
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:232/464 MP:81/91
+2-Tsuchigumo HP:228/280 MP:126/126
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kingu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:339/347
+B-Nidhoggr HP:123/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:932/971 MP:432/527
+B-
+C-
+D-Kingu HP:232/464 MP:81/91
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Flynn
+2-Kingu
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Nidhoggr HP:123/681 MP:135/135
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Nidhoggr HP:123/681 MP:135/135
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Nidhoggr HP:123/681 MP:135/135
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Nidhoggr
+Nidhoggr es resistente el ataque de Flynn
+Nidhoggr recibe 55 de daño
+Nidhoggr termina con HP:68/681
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:339/347
+B-Nidhoggr HP:68/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:932/971 MP:432/527
+B-
+C-
+D-Kingu HP:232/464 MP:81/91
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Flynn HP:932/971 MP:432/527
+2-Kingu HP:232/464 MP:81/91
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Nidhoggr ataca a Kingu
+Kingu recibe 52 de daño
+Kingu termina con HP:180/464
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:339/347
+B-Nidhoggr HP:68/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:932/971 MP:432/527
+B-
+C-
+D-Kingu HP:180/464 MP:81/91
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Kingu
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:339/347
+B-Nidhoggr HP:68/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:932/971 MP:432/527
+B-
+C-
+D-Kingu HP:180/464 MP:81/91
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kingu
+2-Flynn
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:339/347
+B-Nidhoggr HP:68/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:932/971 MP:432/527
+B-
+C-
+D-Kingu HP:180/464 MP:81/91
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Kingu
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Nidhoggr HP:68/681 MP:135/135
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Nidhoggr
+Nidhoggr es resistente el ataque de Flynn
+Nidhoggr recibe 55 de daño
+Nidhoggr termina con HP:13/681
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:339/347
+B-Nidhoggr HP:13/681 MP:135/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:932/971 MP:432/527
+B-
+C-
+D-Kingu HP:180/464 MP:81/91
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nidhoggr use
+1-Grand Tack MP:11
+2-Life Drain MP:5
+3-Madness Nails MP:26
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Flynn HP:932/971 MP:432/527
+2-Kingu HP:180/464 MP:81/91
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nidhoggr dispara a Flynn
+Flynn recibe 129 de daño
+Flynn termina con HP:803/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:0/597 MP:339/347
+B-Nidhoggr HP:13/681 MP:124/135
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:803/971 MP:432/527
+B-
+C-
+D-Kingu HP:180/464 MP:81/91
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Kingu
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Nidhoggr HP:13/681 MP:124/135
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Nidhoggr
+Nidhoggr es resistente el ataque de Flynn
+Nidhoggr recibe 44 de daño
+Nidhoggr termina con HP:0/681
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Flynn (J2)

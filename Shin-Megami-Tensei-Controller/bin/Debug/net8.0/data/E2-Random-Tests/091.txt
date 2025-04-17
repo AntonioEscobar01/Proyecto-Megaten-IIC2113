@@ -1,0 +1,6054 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+120: 121.txt
+121: 122.txt
+122: 123.txt
+123: 124.txt
+124: 125.txt
+125: 126.txt
+126: 127.txt
+127: 128.txt
+128: 129.txt
+129: 130.txt
+130: 131.txt
+131: 132.txt
+132: 133.txt
+133: 134.txt
+134: 135.txt
+135: 136.txt
+136: 137.txt
+137: 138.txt
+138: 139.txt
+139: 140.txt
+140: 141.txt
+141: 142.txt
+142: 143.txt
+143: 144.txt
+144: 145.txt
+145: 146.txt
+146: 147.txt
+147: 148.txt
+148: 149.txt
+149: 150.txt
+150: 151.txt
+151: 152.txt
+152: 153.txt
+153: 154.txt
+154: 155.txt
+155: 156.txt
+156: 157.txt
+157: 158.txt
+158: 159.txt
+159: 160.txt
+160: 161.txt
+161: 162.txt
+162: 163.txt
+163: 164.txt
+164: 165.txt
+165: 166.txt
+166: 167.txt
+167: 168.txt
+168: 169.txt
+169: 170.txt
+170: 171.txt
+171: 172.txt
+172: 173.txt
+173: 174.txt
+174: 175.txt
+175: 176.txt
+176: 177.txt
+177: 178.txt
+178: 179.txt
+179: 180.txt
+180: 181.txt
+181: 182.txt
+182: 183.txt
+183: 184.txt
+184: 185.txt
+185: 186.txt
+186: 187.txt
+187: 188.txt
+188: 189.txt
+189: 190.txt
+190: 191.txt
+191: 192.txt
+192: 193.txt
+193: 194.txt
+194: 195.txt
+195: 196.txt
+196: 197.txt
+197: 198.txt
+198: 199.txt
+199: 200.txt
+INPUT: 90
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Azrael HP:338/338 MP:328/328
+C-Peri HP:483/483 MP:216/216
+D-Mushussu HP:399/399 MP:179/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Spriggan HP:147/147 MP:66/66
+C-Fortuna HP:147/147 MP:66/66
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Mushussu
+3-Azrael
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Itsuki HP:1136/1136 MP:413/413
+2-Spriggan HP:147/147 MP:66/66
+3-Fortuna HP:147/147 MP:66/66
+4-Persephone HP:315/315 MP:306/306
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Azrael HP:338/338 MP:328/328
+C-Peri HP:483/483 MP:216/216
+D-Mushussu HP:399/399 MP:179/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Spriggan HP:147/147 MP:66/66
+C-Fortuna HP:147/147 MP:66/66
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Azrael
+3-Nanashi
+4-Peri
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Vetala HP:794/794 MP:157/157
+2-Zouchouten HP:221/221 MP:214/214
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Itsuki HP:1136/1136 MP:413/413
+2-Spriggan HP:147/147 MP:66/66
+3-Fortuna HP:147/147 MP:66/66
+4-Persephone HP:315/315 MP:306/306
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Mushussu ataca a Spriggan
+Spriggan es resistente el ataque de Mushussu
+Spriggan recibe 16 de daño
+Spriggan termina con HP:131/147
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Azrael HP:338/338 MP:328/328
+C-Peri HP:483/483 MP:216/216
+D-Mushussu HP:399/399 MP:179/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Spriggan HP:131/147 MP:66/66
+C-Fortuna HP:147/147 MP:66/66
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Azrael
+2-Nanashi
+3-Peri
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Azrael
+1-Itsuki HP:1136/1136 MP:413/413
+2-Spriggan HP:131/147 MP:66/66
+3-Fortuna HP:147/147 MP:66/66
+4-Persephone HP:315/315 MP:306/306
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Azrael ataca a Spriggan
+Spriggan es resistente el ataque de Azrael
+Spriggan recibe 18 de daño
+Spriggan termina con HP:113/147
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Azrael HP:338/338 MP:328/328
+C-Peri HP:483/483 MP:216/216
+D-Mushussu HP:399/399 MP:179/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Spriggan HP:113/147 MP:66/66
+C-Fortuna HP:147/147 MP:66/66
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Peri
+3-Mushussu
+4-Azrael
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Itsuki HP:1136/1136 MP:413/413
+2-Spriggan HP:113/147 MP:66/66
+3-Fortuna HP:147/147 MP:66/66
+4-Persephone HP:315/315 MP:306/306
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nanashi dispara a Spriggan
+Spriggan recibe 31 de daño
+Spriggan termina con HP:82/147
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Azrael HP:338/338 MP:328/328
+C-Peri HP:483/483 MP:216/216
+D-Mushussu HP:399/399 MP:179/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Spriggan HP:82/147 MP:66/66
+C-Fortuna HP:147/147 MP:66/66
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Mushussu
+3-Azrael
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Vetala HP:794/794 MP:157/157
+2-Zouchouten HP:221/221 MP:214/214
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Zouchouten ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Azrael HP:338/338 MP:328/328
+C-Zouchouten HP:221/221 MP:214/214
+D-Mushussu HP:399/399 MP:179/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Spriggan HP:82/147 MP:66/66
+C-Fortuna HP:147/147 MP:66/66
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Azrael
+3-Nanashi
+4-Zouchouten
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Itsuki HP:1136/1136 MP:413/413
+2-Spriggan HP:82/147 MP:66/66
+3-Fortuna HP:147/147 MP:66/66
+4-Persephone HP:315/315 MP:306/306
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Mushussu ataca a Spriggan
+Spriggan es resistente el ataque de Mushussu
+Spriggan recibe 16 de daño
+Spriggan termina con HP:66/147
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Azrael HP:338/338 MP:328/328
+C-Zouchouten HP:221/221 MP:214/214
+D-Mushussu HP:399/399 MP:179/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Spriggan HP:66/147 MP:66/66
+C-Fortuna HP:147/147 MP:66/66
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Persephone
+3-Fortuna
+4-Spriggan
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Azrael HP:338/338 MP:328/328
+C-Zouchouten HP:221/221 MP:214/214
+D-Mushussu HP:399/399 MP:179/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Spriggan HP:66/147 MP:66/66
+C-Fortuna HP:147/147 MP:66/66
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Persephone
+2-Fortuna
+3-Spriggan
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Nanashi HP:140/140 MP:411/411
+2-Azrael HP:338/338 MP:328/328
+3-Zouchouten HP:221/221 MP:214/214
+4-Mushussu HP:399/399 MP:179/179
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Persephone ataca a Azrael
+Azrael es resistente el ataque de Persephone
+Azrael recibe 16 de daño
+Azrael termina con HP:322/338
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Azrael HP:322/338 MP:328/328
+C-Zouchouten HP:221/221 MP:214/214
+D-Mushussu HP:399/399 MP:179/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Spriggan HP:66/147 MP:66/66
+C-Fortuna HP:147/147 MP:66/66
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Fortuna
+2-Spriggan
+3-Itsuki
+4-Persephone
+----------------------------------------
+Seleccione una acción para Fortuna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Fortuna use
+1-Zan MP:5
+2-Media MP:12
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Fortuna
+1-Nanashi HP:140/140 MP:411/411
+2-Azrael HP:322/338 MP:328/328
+3-Zouchouten HP:221/221 MP:214/214
+4-Mushussu HP:399/399 MP:179/179
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Fortuna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Fortuna use
+1-Zan MP:5
+2-Media MP:12
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Fortuna
+1-Nanashi HP:140/140 MP:411/411
+2-Azrael HP:322/338 MP:328/328
+3-Zouchouten HP:221/221 MP:214/214
+4-Mushussu HP:399/399 MP:179/179
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Fortuna lanza viento a Mushussu
+Mushussu es débil contra el ataque de Fortuna
+Mushussu recibe 53 de daño
+Mushussu termina con HP:346/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Azrael HP:322/338 MP:328/328
+C-Zouchouten HP:221/221 MP:214/214
+D-Mushussu HP:346/399 MP:179/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Spriggan HP:66/147 MP:66/66
+C-Fortuna HP:147/147 MP:61/66
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Spriggan
+2-Itsuki
+3-Persephone
+4-Fortuna
+----------------------------------------
+Seleccione una acción para Spriggan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Spriggan
+1-Nanashi HP:140/140 MP:411/411
+2-Azrael HP:322/338 MP:328/328
+3-Zouchouten HP:221/221 MP:214/214
+4-Mushussu HP:346/399 MP:179/179
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Spriggan ataca a Azrael
+Azrael es resistente el ataque de Spriggan
+Azrael recibe 5 de daño
+Azrael termina con HP:317/338
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Azrael HP:317/338 MP:328/328
+C-Zouchouten HP:221/221 MP:214/214
+D-Mushussu HP:346/399 MP:179/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Spriggan HP:66/147 MP:66/66
+C-Fortuna HP:147/147 MP:61/66
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Persephone
+3-Fortuna
+4-Spriggan
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nanashi HP:140/140 MP:411/411
+2-Azrael HP:317/338 MP:328/328
+3-Zouchouten HP:221/221 MP:214/214
+4-Mushussu HP:346/399 MP:179/179
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki dispara a Mushussu
+Mushussu recibe 61 de daño
+Mushussu termina con HP:285/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Azrael HP:317/338 MP:328/328
+C-Zouchouten HP:221/221 MP:214/214
+D-Mushussu HP:285/399 MP:179/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Spriggan HP:66/147 MP:66/66
+C-Fortuna HP:147/147 MP:61/66
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Fortuna
+3-Spriggan
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sphinx HP:376/376 MP:364/364
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Sphinx ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Azrael HP:317/338 MP:328/328
+C-Zouchouten HP:221/221 MP:214/214
+D-Mushussu HP:285/399 MP:179/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Spriggan HP:66/147 MP:66/66
+C-Fortuna HP:147/147 MP:61/66
+D-Sphinx HP:376/376 MP:364/364
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Fortuna
+2-Spriggan
+3-Itsuki
+4-Sphinx
+----------------------------------------
+Seleccione una acción para Fortuna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Fortuna
+1-Nanashi HP:140/140 MP:411/411
+2-Azrael HP:317/338 MP:328/328
+3-Zouchouten HP:221/221 MP:214/214
+4-Mushussu HP:285/399 MP:179/179
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Fortuna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Azrael HP:317/338 MP:328/328
+C-Zouchouten HP:221/221 MP:214/214
+D-Mushussu HP:285/399 MP:179/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Spriggan HP:66/147 MP:66/66
+C-Fortuna HP:147/147 MP:61/66
+D-Sphinx HP:376/376 MP:364/364
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Azrael
+3-Nanashi
+4-Zouchouten
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Itsuki HP:1136/1136 MP:413/413
+2-Spriggan HP:66/147 MP:66/66
+3-Fortuna HP:147/147 MP:61/66
+4-Sphinx HP:376/376 MP:364/364
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ataca a Itsuki
+Itsuki recibe 32 de daño
+Itsuki termina con HP:1104/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Azrael HP:317/338 MP:328/328
+C-Zouchouten HP:221/221 MP:214/214
+D-Mushussu HP:285/399 MP:179/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:1104/1136 MP:413/413
+B-Spriggan HP:66/147 MP:66/66
+C-Fortuna HP:147/147 MP:61/66
+D-Sphinx HP:376/376 MP:364/364
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Azrael
+2-Nanashi
+3-Zouchouten
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Peri HP:483/483 MP:216/216
+2-Vetala HP:794/794 MP:157/157
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Vetala ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Vetala HP:794/794 MP:157/157
+C-Zouchouten HP:221/221 MP:214/214
+D-Mushussu HP:285/399 MP:179/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:1104/1136 MP:413/413
+B-Spriggan HP:66/147 MP:66/66
+C-Fortuna HP:147/147 MP:61/66
+D-Sphinx HP:376/376 MP:364/364
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Zouchouten
+3-Mushussu
+4-Vetala
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nanashi use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Vetala HP:794/794 MP:157/157
+C-Zouchouten HP:221/221 MP:214/214
+D-Mushussu HP:285/399 MP:179/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:1104/1136 MP:413/413
+B-Spriggan HP:66/147 MP:66/66
+C-Fortuna HP:147/147 MP:61/66
+D-Sphinx HP:376/376 MP:364/364
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zouchouten
+2-Mushussu
+3-Vetala
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Zouchouten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azrael HP:317/338 MP:328/328
+2-Peri HP:483/483 MP:216/216
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Azrael ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Vetala HP:794/794 MP:157/157
+C-Azrael HP:317/338 MP:328/328
+D-Mushussu HP:285/399 MP:179/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:1104/1136 MP:413/413
+B-Spriggan HP:66/147 MP:66/66
+C-Fortuna HP:147/147 MP:61/66
+D-Sphinx HP:376/376 MP:364/364
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Vetala
+3-Nanashi
+4-Azrael
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Itsuki HP:1104/1136 MP:413/413
+2-Spriggan HP:66/147 MP:66/66
+3-Fortuna HP:147/147 MP:61/66
+4-Sphinx HP:376/376 MP:364/364
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ataca a Itsuki
+Itsuki recibe 32 de daño
+Itsuki termina con HP:1072/1136
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Vetala HP:794/794 MP:157/157
+C-Azrael HP:317/338 MP:328/328
+D-Mushussu HP:285/399 MP:179/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-Spriggan HP:66/147 MP:66/66
+C-Fortuna HP:147/147 MP:61/66
+D-Sphinx HP:376/376 MP:364/364
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Nanashi
+3-Azrael
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Vetala HP:794/794 MP:157/157
+C-Azrael HP:317/338 MP:328/328
+D-Mushussu HP:285/399 MP:179/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-Spriggan HP:66/147 MP:66/66
+C-Fortuna HP:147/147 MP:61/66
+D-Sphinx HP:376/376 MP:364/364
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Azrael
+3-Mushussu
+4-Vetala
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nanashi use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Itsuki HP:1072/1136 MP:413/413
+2-Spriggan HP:66/147 MP:66/66
+3-Fortuna HP:147/147 MP:61/66
+4-Sphinx HP:376/376 MP:364/364
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nanashi dispara a Fortuna
+Fortuna recibe 31 de daño
+Fortuna termina con HP:116/147
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Vetala HP:794/794 MP:157/157
+C-Azrael HP:317/338 MP:328/328
+D-Mushussu HP:285/399 MP:179/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-Spriggan HP:66/147 MP:66/66
+C-Fortuna HP:116/147 MP:61/66
+D-Sphinx HP:376/376 MP:364/364
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Sphinx
+3-Fortuna
+4-Spriggan
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Persephone HP:315/315 MP:306/306
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Spriggan HP:66/147 MP:66/66 (Puesto 2)
+2-Fortuna HP:116/147 MP:61/66 (Puesto 3)
+3-Sphinx HP:376/376 MP:364/364 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Persephone ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Vetala HP:794/794 MP:157/157
+C-Azrael HP:317/338 MP:328/328
+D-Mushussu HP:285/399 MP:179/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-Spriggan HP:66/147 MP:66/66
+C-Persephone HP:315/315 MP:306/306
+D-Sphinx HP:376/376 MP:364/364
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sphinx
+2-Persephone
+3-Spriggan
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sphinx
+1-Nanashi HP:140/140 MP:411/411
+2-Vetala HP:794/794 MP:157/157
+3-Azrael HP:317/338 MP:328/328
+4-Mushussu HP:285/399 MP:179/179
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Sphinx ataca a Azrael
+Azrael es resistente el ataque de Sphinx
+Azrael recibe 26 de daño
+Azrael termina con HP:291/338
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Vetala HP:794/794 MP:157/157
+C-Azrael HP:291/338 MP:328/328
+D-Mushussu HP:285/399 MP:179/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-Spriggan HP:66/147 MP:66/66
+C-Persephone HP:315/315 MP:306/306
+D-Sphinx HP:376/376 MP:364/364
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Spriggan
+3-Itsuki
+4-Sphinx
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Vetala HP:794/794 MP:157/157
+C-Azrael HP:291/338 MP:328/328
+D-Mushussu HP:285/399 MP:179/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-Spriggan HP:66/147 MP:66/66
+C-Persephone HP:315/315 MP:306/306
+D-Sphinx HP:376/376 MP:364/364
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Spriggan
+2-Itsuki
+3-Sphinx
+4-Persephone
+----------------------------------------
+Seleccione una acción para Spriggan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Spriggan use
+1-Agi MP:5
+2-Dormina MP:4
+3-Maragi MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Spriggan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Vetala HP:794/794 MP:157/157
+C-Azrael HP:291/338 MP:328/328
+D-Mushussu HP:285/399 MP:179/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-Spriggan HP:66/147 MP:66/66
+C-Persephone HP:315/315 MP:306/306
+D-Sphinx HP:376/376 MP:364/364
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Sphinx
+3-Persephone
+4-Spriggan
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nanashi HP:140/140 MP:411/411
+2-Vetala HP:794/794 MP:157/157
+3-Azrael HP:291/338 MP:328/328
+4-Mushussu HP:285/399 MP:179/179
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki ataca a Mushussu
+Mushussu recibe 45 de daño
+Mushussu termina con HP:240/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Vetala HP:794/794 MP:157/157
+C-Azrael HP:291/338 MP:328/328
+D-Mushussu HP:240/399 MP:179/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-Spriggan HP:66/147 MP:66/66
+C-Persephone HP:315/315 MP:306/306
+D-Sphinx HP:376/376 MP:364/364
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sphinx
+2-Persephone
+3-Spriggan
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Fortuna HP:116/147 MP:61/66
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sphinx use
+1-Mediarahan MP:40
+2-Mahamaon MP:30
+3-Grand Tack MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Fortuna HP:116/147 MP:61/66
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Fortuna ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Vetala HP:794/794 MP:157/157
+C-Azrael HP:291/338 MP:328/328
+D-Mushussu HP:240/399 MP:179/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-Spriggan HP:66/147 MP:66/66
+C-Persephone HP:315/315 MP:306/306
+D-Fortuna HP:116/147 MP:61/66
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Persephone
+2-Spriggan
+3-Itsuki
+4-Fortuna
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sphinx HP:376/376 MP:364/364
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Nanashi HP:140/140 MP:411/411
+2-Vetala HP:794/794 MP:157/157
+3-Azrael HP:291/338 MP:328/328
+4-Mushussu HP:240/399 MP:179/179
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Persephone ataca a Azrael
+Azrael es resistente el ataque de Persephone
+Azrael recibe 16 de daño
+Azrael termina con HP:275/338
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Vetala HP:794/794 MP:157/157
+C-Azrael HP:275/338 MP:328/328
+D-Mushussu HP:240/399 MP:179/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-Spriggan HP:66/147 MP:66/66
+C-Persephone HP:315/315 MP:306/306
+D-Fortuna HP:116/147 MP:61/66
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Mushussu
+3-Azrael
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Peri HP:483/483 MP:216/216
+2-Zouchouten HP:221/221 MP:214/214
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Peri HP:483/483 MP:216/216
+2-Zouchouten HP:221/221 MP:214/214
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Peri ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Peri HP:483/483 MP:216/216
+C-Azrael HP:275/338 MP:328/328
+D-Mushussu HP:240/399 MP:179/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-Spriggan HP:66/147 MP:66/66
+C-Persephone HP:315/315 MP:306/306
+D-Fortuna HP:116/147 MP:61/66
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Azrael
+3-Nanashi
+4-Peri
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mushussu use
+1-Ziodyne MP:14
+2-Posumudi MP:5
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Vetala HP:794/794 MP:157/157
+2-Zouchouten HP:221/221 MP:214/214
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Peri HP:483/483 MP:216/216
+C-Azrael HP:275/338 MP:328/328
+D-Mushussu HP:240/399 MP:179/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-Spriggan HP:66/147 MP:66/66
+C-Persephone HP:315/315 MP:306/306
+D-Fortuna HP:116/147 MP:61/66
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Azrael
+2-Nanashi
+3-Peri
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Vetala HP:794/794 MP:157/157
+2-Zouchouten HP:221/221 MP:214/214
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Zouchouten ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Peri HP:483/483 MP:216/216
+C-Zouchouten HP:221/221 MP:214/214
+D-Mushussu HP:240/399 MP:179/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-Spriggan HP:66/147 MP:66/66
+C-Persephone HP:315/315 MP:306/306
+D-Fortuna HP:116/147 MP:61/66
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Peri
+3-Mushussu
+4-Zouchouten
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Itsuki HP:1072/1136 MP:413/413
+2-Spriggan HP:66/147 MP:66/66
+3-Persephone HP:315/315 MP:306/306
+4-Fortuna HP:116/147 MP:61/66
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Nanashi dispara a Fortuna
+Fortuna recibe 31 de daño
+Fortuna termina con HP:85/147
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Peri HP:483/483 MP:216/216
+C-Zouchouten HP:221/221 MP:214/214
+D-Mushussu HP:240/399 MP:179/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-Spriggan HP:66/147 MP:66/66
+C-Persephone HP:315/315 MP:306/306
+D-Fortuna HP:85/147 MP:61/66
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Mushussu
+3-Zouchouten
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Peri HP:483/483 MP:216/216
+C-Zouchouten HP:221/221 MP:214/214
+D-Mushussu HP:240/399 MP:179/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-Spriggan HP:66/147 MP:66/66
+C-Persephone HP:315/315 MP:306/306
+D-Fortuna HP:85/147 MP:61/66
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Zouchouten
+3-Nanashi
+4-Peri
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mushussu use
+1-Ziodyne MP:14
+2-Posumudi MP:5
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Itsuki HP:1072/1136 MP:413/413
+2-Spriggan HP:66/147 MP:66/66
+3-Persephone HP:315/315 MP:306/306
+4-Fortuna HP:85/147 MP:61/66
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Mushussu lanza electricidad a Spriggan
+Spriggan es resistente el ataque de Mushussu
+Spriggan recibe 50 de daño
+Spriggan termina con HP:16/147
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Peri HP:483/483 MP:216/216
+C-Zouchouten HP:221/221 MP:214/214
+D-Mushussu HP:240/399 MP:165/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-Spriggan HP:16/147 MP:66/66
+C-Persephone HP:315/315 MP:306/306
+D-Fortuna HP:85/147 MP:61/66
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zouchouten
+2-Nanashi
+3-Peri
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Zouchouten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azrael HP:275/338 MP:328/328
+2-Vetala HP:794/794 MP:157/157
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Zouchouten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Zouchouten use
+1-Agidyne MP:14
+2-Dream Fist MP:9
+3-Myriad Arrows MP:30
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Zouchouten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Peri HP:483/483 MP:216/216
+C-Zouchouten HP:221/221 MP:214/214
+D-Mushussu HP:240/399 MP:165/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-Spriggan HP:16/147 MP:66/66
+C-Persephone HP:315/315 MP:306/306
+D-Fortuna HP:85/147 MP:61/66
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Peri
+3-Mushussu
+4-Zouchouten
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azrael HP:275/338 MP:328/328
+2-Vetala HP:794/794 MP:157/157
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Peri HP:483/483 MP:216/216 (Puesto 2)
+2-Zouchouten HP:221/221 MP:214/214 (Puesto 3)
+3-Mushussu HP:240/399 MP:165/179 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Vetala ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Peri HP:483/483 MP:216/216
+C-Zouchouten HP:221/221 MP:214/214
+D-Vetala HP:794/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-Spriggan HP:16/147 MP:66/66
+C-Persephone HP:315/315 MP:306/306
+D-Fortuna HP:85/147 MP:61/66
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Persephone
+3-Fortuna
+4-Spriggan
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nanashi HP:140/140 MP:411/411
+2-Peri HP:483/483 MP:216/216
+3-Zouchouten HP:221/221 MP:214/214
+4-Vetala HP:794/794 MP:157/157
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki dispara a Vetala
+Vetala recibe 61 de daño
+Vetala termina con HP:733/794
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Peri HP:483/483 MP:216/216
+C-Zouchouten HP:221/221 MP:214/214
+D-Vetala HP:733/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-Spriggan HP:16/147 MP:66/66
+C-Persephone HP:315/315 MP:306/306
+D-Fortuna HP:85/147 MP:61/66
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Fortuna
+3-Spriggan
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Persephone use
+1-Bufudyne MP:14
+2-Death's Door MP:10
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Nanashi HP:140/140 MP:411/411
+2-Peri HP:483/483 MP:216/216
+3-Zouchouten HP:221/221 MP:214/214
+4-Vetala HP:733/794 MP:157/157
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Peri HP:483/483 MP:216/216
+C-Zouchouten HP:221/221 MP:214/214
+D-Vetala HP:733/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-Spriggan HP:16/147 MP:66/66
+C-Persephone HP:315/315 MP:306/306
+D-Fortuna HP:85/147 MP:61/66
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Fortuna
+2-Spriggan
+3-Itsuki
+4-Persephone
+----------------------------------------
+Seleccione una acción para Fortuna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Fortuna use
+1-Zan MP:5
+2-Media MP:12
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Fortuna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sphinx HP:376/376 MP:364/364
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Sphinx ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Peri HP:483/483 MP:216/216
+C-Zouchouten HP:221/221 MP:214/214
+D-Vetala HP:733/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-Spriggan HP:16/147 MP:66/66
+C-Persephone HP:315/315 MP:306/306
+D-Sphinx HP:376/376 MP:364/364
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Spriggan
+2-Itsuki
+3-Persephone
+4-Sphinx
+----------------------------------------
+Seleccione una acción para Spriggan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Peri HP:483/483 MP:216/216
+C-Zouchouten HP:221/221 MP:214/214
+D-Vetala HP:733/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-Spriggan HP:16/147 MP:66/66
+C-Persephone HP:315/315 MP:306/306
+D-Sphinx HP:376/376 MP:364/364
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Persephone
+3-Sphinx
+4-Spriggan
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Peri HP:483/483 MP:216/216
+C-Zouchouten HP:221/221 MP:214/214
+D-Vetala HP:733/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-Spriggan HP:16/147 MP:66/66
+C-Persephone HP:315/315 MP:306/306
+D-Sphinx HP:376/376 MP:364/364
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Sphinx
+3-Spriggan
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Persephone use
+1-Bufudyne MP:14
+2-Death's Door MP:10
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Peri HP:483/483 MP:216/216
+C-Zouchouten HP:221/221 MP:214/214
+D-Vetala HP:733/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-Spriggan HP:16/147 MP:66/66
+C-Persephone HP:315/315 MP:306/306
+D-Sphinx HP:376/376 MP:364/364
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sphinx
+2-Spriggan
+3-Itsuki
+4-Persephone
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sphinx use
+1-Mediarahan MP:40
+2-Mahamaon MP:30
+3-Grand Tack MP:11
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Sphinx
+1-Nanashi HP:140/140 MP:411/411
+2-Peri HP:483/483 MP:216/216
+3-Zouchouten HP:221/221 MP:214/214
+4-Vetala HP:733/794 MP:157/157
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Sphinx dispara a Peri
+Peri recibe 128 de daño
+Peri termina con HP:355/483
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Peri HP:355/483 MP:216/216
+C-Zouchouten HP:221/221 MP:214/214
+D-Vetala HP:733/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-Spriggan HP:16/147 MP:66/66
+C-Persephone HP:315/315 MP:306/306
+D-Sphinx HP:376/376 MP:353/364
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Peri
+3-Nanashi
+4-Zouchouten
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azrael HP:275/338 MP:328/328
+2-Mushussu HP:240/399 MP:165/179
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Azrael ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Peri HP:355/483 MP:216/216
+C-Zouchouten HP:221/221 MP:214/214
+D-Azrael HP:275/338 MP:328/328
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-Spriggan HP:16/147 MP:66/66
+C-Persephone HP:315/315 MP:306/306
+D-Sphinx HP:376/376 MP:353/364
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Peri
+2-Nanashi
+3-Zouchouten
+4-Azrael
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Peri use
+1-Diarahan MP:16
+2-Me Patra MP:15
+3-Panic Voice MP:15
+4-Maragidyne MP:32
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Nanashi HP:140/140 MP:411/411
+2-Peri HP:355/483 MP:216/216
+3-Zouchouten HP:221/221 MP:214/214
+4-Azrael HP:275/338 MP:328/328
+5-Mushussu HP:240/399 MP:165/179
+6-Vetala HP:733/794 MP:157/157
+7-Cancelar
+INPUT: 4
+----------------------------------------
+Peri cura a Azrael
+Azrael recibe 338 de HP
+Azrael termina con HP:338/338
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Peri HP:355/483 MP:200/216
+C-Zouchouten HP:221/221 MP:214/214
+D-Azrael HP:338/338 MP:328/328
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-Spriggan HP:16/147 MP:66/66
+C-Persephone HP:315/315 MP:306/306
+D-Sphinx HP:376/376 MP:353/364
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Zouchouten
+3-Azrael
+4-Peri
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nanashi use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mushussu HP:240/399 MP:165/179
+2-Vetala HP:733/794 MP:157/157
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Peri HP:355/483 MP:200/216 (Puesto 2)
+2-Zouchouten HP:221/221 MP:214/214 (Puesto 3)
+3-Azrael HP:338/338 MP:328/328 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Mushussu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Peri HP:355/483 MP:200/216
+C-Mushussu HP:240/399 MP:165/179
+D-Azrael HP:338/338 MP:328/328
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-Spriggan HP:16/147 MP:66/66
+C-Persephone HP:315/315 MP:306/306
+D-Sphinx HP:376/376 MP:353/364
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Azrael
+3-Peri
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Itsuki HP:1072/1136 MP:413/413
+2-Spriggan HP:16/147 MP:66/66
+3-Persephone HP:315/315 MP:306/306
+4-Sphinx HP:376/376 MP:353/364
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Vetala HP:733/794 MP:157/157
+2-Zouchouten HP:221/221 MP:214/214
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mushussu use
+1-Ziodyne MP:14
+2-Posumudi MP:5
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Itsuki HP:1072/1136 MP:413/413
+2-Spriggan HP:16/147 MP:66/66
+3-Persephone HP:315/315 MP:306/306
+4-Sphinx HP:376/376 MP:353/364
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Mushussu lanza electricidad a Spriggan
+Spriggan es resistente el ataque de Mushussu
+Spriggan recibe 50 de daño
+Spriggan termina con HP:0/147
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Peri HP:355/483 MP:200/216
+C-Mushussu HP:240/399 MP:151/179
+D-Azrael HP:338/338 MP:328/328
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-
+C-Persephone HP:315/315 MP:306/306
+D-Sphinx HP:376/376 MP:353/364
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Azrael
+2-Peri
+3-Nanashi
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Azrael use
+1-Agidyne MP:14
+2-Samarecarm MP:40
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Azrael
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Vetala HP:733/794 MP:157/157
+2-Zouchouten HP:221/221 MP:214/214
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Azrael
+1-Itsuki HP:1072/1136 MP:413/413
+2-Persephone HP:315/315 MP:306/306
+3-Sphinx HP:376/376 MP:353/364
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Azrael use
+1-Agidyne MP:14
+2-Samarecarm MP:40
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Azrael
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Azrael
+1-Itsuki HP:1072/1136 MP:413/413
+2-Persephone HP:315/315 MP:306/306
+3-Sphinx HP:376/376 MP:353/364
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Azrael ataca a Persephone
+Persephone recibe 36 de daño
+Persephone termina con HP:279/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Peri HP:355/483 MP:200/216
+C-Mushussu HP:240/399 MP:151/179
+D-Azrael HP:338/338 MP:328/328
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-
+C-Persephone HP:279/315 MP:306/306
+D-Sphinx HP:376/376 MP:353/364
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Nanashi
+3-Mushussu
+4-Azrael
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Itsuki HP:1072/1136 MP:413/413
+2-Persephone HP:279/315 MP:306/306
+3-Sphinx HP:376/376 MP:353/364
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Peri ataca a Sphinx
+Sphinx recibe 40 de daño
+Sphinx termina con HP:336/376
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Peri HP:355/483 MP:200/216
+C-Mushussu HP:240/399 MP:151/179
+D-Azrael HP:338/338 MP:328/328
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-
+C-Persephone HP:279/315 MP:306/306
+D-Sphinx HP:336/376 MP:353/364
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Sphinx
+3-Persephone
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Fortuna HP:85/147 MP:61/66
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Persephone HP:279/315 MP:306/306 (Puesto 3)
+3-Sphinx HP:336/376 MP:353/364 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Fortuna ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Peri HP:355/483 MP:200/216
+C-Mushussu HP:240/399 MP:151/179
+D-Azrael HP:338/338 MP:328/328
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-
+C-Persephone HP:279/315 MP:306/306
+D-Fortuna HP:85/147 MP:61/66
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Fortuna
+2-Persephone
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Fortuna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Fortuna
+1-Nanashi HP:140/140 MP:411/411
+2-Peri HP:355/483 MP:200/216
+3-Mushussu HP:240/399 MP:151/179
+4-Azrael HP:338/338 MP:328/328
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Fortuna ataca a Mushussu
+Mushussu recibe 10 de daño
+Mushussu termina con HP:230/399
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Peri HP:355/483 MP:200/216
+C-Mushussu HP:230/399 MP:151/179
+D-Azrael HP:338/338 MP:328/328
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-
+C-Persephone HP:279/315 MP:306/306
+D-Fortuna HP:85/147 MP:61/66
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Itsuki
+3-Fortuna
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Peri HP:355/483 MP:200/216
+C-Mushussu HP:230/399 MP:151/179
+D-Azrael HP:338/338 MP:328/328
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-
+C-Persephone HP:279/315 MP:306/306
+D-Fortuna HP:85/147 MP:61/66
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Fortuna
+3-Persephone
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sphinx HP:336/376 MP:353/364
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nanashi HP:140/140 MP:411/411
+2-Peri HP:355/483 MP:200/216
+3-Mushussu HP:230/399 MP:151/179
+4-Azrael HP:338/338 MP:328/328
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki dispara a Peri
+Peri recibe 61 de daño
+Peri termina con HP:294/483
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Peri HP:294/483 MP:200/216
+C-Mushussu HP:230/399 MP:151/179
+D-Azrael HP:338/338 MP:328/328
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-
+C-Persephone HP:279/315 MP:306/306
+D-Fortuna HP:85/147 MP:61/66
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Fortuna
+2-Persephone
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Fortuna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Peri HP:294/483 MP:200/216
+C-Mushussu HP:230/399 MP:151/179
+D-Azrael HP:338/338 MP:328/328
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-
+C-Persephone HP:279/315 MP:306/306
+D-Fortuna HP:85/147 MP:61/66
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Persephone
+2-Itsuki
+3-Fortuna
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sphinx HP:336/376 MP:353/364
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Nanashi HP:140/140 MP:411/411
+2-Peri HP:294/483 MP:200/216
+3-Mushussu HP:230/399 MP:151/179
+4-Azrael HP:338/338 MP:328/328
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Persephone ataca a Azrael
+Azrael es resistente el ataque de Persephone
+Azrael recibe 16 de daño
+Azrael termina con HP:322/338
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Peri HP:294/483 MP:200/216
+C-Mushussu HP:230/399 MP:151/179
+D-Azrael HP:322/338 MP:328/328
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-
+C-Persephone HP:279/315 MP:306/306
+D-Fortuna HP:85/147 MP:61/66
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Mushussu
+3-Azrael
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Peri HP:294/483 MP:200/216
+C-Mushussu HP:230/399 MP:151/179
+D-Azrael HP:322/338 MP:328/328
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-
+C-Persephone HP:279/315 MP:306/306
+D-Fortuna HP:85/147 MP:61/66
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Azrael
+3-Nanashi
+4-Peri
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mushussu use
+1-Ziodyne MP:14
+2-Posumudi MP:5
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Itsuki HP:1072/1136 MP:413/413
+2-Persephone HP:279/315 MP:306/306
+3-Fortuna HP:85/147 MP:61/66
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Mushussu ataca a Fortuna
+Fortuna recibe 107 de daño
+Fortuna termina con HP:0/147
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Peri HP:294/483 MP:200/216
+C-Mushussu HP:230/399 MP:136/179
+D-Azrael HP:322/338 MP:328/328
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-
+C-Persephone HP:279/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Azrael
+2-Nanashi
+3-Peri
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Vetala HP:733/794 MP:157/157
+2-Zouchouten HP:221/221 MP:214/214
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Vetala ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Peri HP:294/483 MP:200/216
+C-Mushussu HP:230/399 MP:136/179
+D-Vetala HP:733/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1072/1136 MP:413/413
+B-
+C-Persephone HP:279/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Peri
+3-Mushussu
+4-Vetala
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Itsuki HP:1072/1136 MP:413/413
+2-Persephone HP:279/315 MP:306/306
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi dispara a Itsuki
+Itsuki recibe 31 de daño
+Itsuki termina con HP:1041/1136
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Peri HP:294/483 MP:200/216
+C-Mushussu HP:230/399 MP:136/179
+D-Vetala HP:733/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:413/413
+B-
+C-Persephone HP:279/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Mushussu
+3-Vetala
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Itsuki HP:1041/1136 MP:413/413
+2-Persephone HP:279/315 MP:306/306
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azrael HP:322/338 MP:328/328
+2-Zouchouten HP:221/221 MP:214/214
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Azrael ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Azrael HP:322/338 MP:328/328
+C-Mushussu HP:230/399 MP:136/179
+D-Vetala HP:733/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:413/413
+B-
+C-Persephone HP:279/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Vetala
+3-Nanashi
+4-Azrael
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Itsuki HP:1041/1136 MP:413/413
+2-Persephone HP:279/315 MP:306/306
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Peri HP:294/483 MP:200/216
+2-Zouchouten HP:221/221 MP:214/214
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Peri ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Azrael HP:322/338 MP:328/328
+C-Peri HP:294/483 MP:200/216
+D-Vetala HP:733/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:413/413
+B-
+C-Persephone HP:279/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Nanashi
+3-Azrael
+4-Peri
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Azrael HP:322/338 MP:328/328
+C-Peri HP:294/483 MP:200/216
+D-Vetala HP:733/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:413/413
+B-
+C-Persephone HP:279/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Azrael
+3-Peri
+4-Vetala
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mushussu HP:230/399 MP:136/179
+2-Zouchouten HP:221/221 MP:214/214
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Azrael HP:322/338 MP:328/328 (Puesto 2)
+2-Peri HP:294/483 MP:200/216 (Puesto 3)
+3-Vetala HP:733/794 MP:157/157 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Mushussu HP:230/399 MP:136/179
+C-Peri HP:294/483 MP:200/216
+D-Vetala HP:733/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:413/413
+B-
+C-Persephone HP:279/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Persephone
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Mushussu HP:230/399 MP:136/179
+C-Peri HP:294/483 MP:200/216
+D-Vetala HP:733/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:413/413
+B-
+C-Persephone HP:279/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Persephone
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Persephone use
+1-Bufudyne MP:14
+2-Death's Door MP:10
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Mushussu HP:230/399 MP:136/179
+C-Peri HP:294/483 MP:200/216
+D-Vetala HP:733/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:413/413
+B-
+C-Persephone HP:279/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Persephone
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Bufula MP:8
+2-Sabbatma MP:20
+3-Agidyne MP:14
+4-Agi MP:5
+5-Nihil Claw MP:11
+6-Berserker God MP:12
+7-Bouncing Claw MP:4
+8-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nanashi HP:140/140 MP:411/411
+2-Mushussu HP:230/399 MP:136/179
+3-Peri HP:294/483 MP:200/216
+4-Vetala HP:733/794 MP:157/157
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki lanza fuego a Vetala
+Vetala es débil contra el ataque de Itsuki
+Vetala recibe 105 de daño
+Vetala termina con HP:628/794
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Mushussu HP:230/399 MP:136/179
+C-Peri HP:294/483 MP:200/216
+D-Vetala HP:628/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:408/413
+B-
+C-Persephone HP:279/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Persephone
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Nanashi HP:140/140 MP:411/411
+2-Mushussu HP:230/399 MP:136/179
+3-Peri HP:294/483 MP:200/216
+4-Vetala HP:628/794 MP:157/157
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Persephone ataca a Mushussu
+Mushussu recibe 33 de daño
+Mushussu termina con HP:197/399
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Mushussu HP:197/399 MP:136/179
+C-Peri HP:294/483 MP:200/216
+D-Vetala HP:628/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:408/413
+B-
+C-Persephone HP:279/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Peri
+3-Mushussu
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Itsuki HP:1041/1136 MP:408/413
+2-Persephone HP:279/315 MP:306/306
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Itsuki HP:1041/1136 MP:408/413
+2-Persephone HP:279/315 MP:306/306
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Vetala ataca a Itsuki
+Itsuki recibe 61 de daño
+Itsuki termina con HP:980/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Mushussu HP:197/399 MP:136/179
+C-Peri HP:294/483 MP:200/216
+D-Vetala HP:628/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:980/1136 MP:408/413
+B-
+C-Persephone HP:279/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Mushussu
+3-Nanashi
+4-Vetala
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azrael HP:322/338 MP:328/328
+2-Zouchouten HP:221/221 MP:214/214
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azrael HP:322/338 MP:328/328
+2-Zouchouten HP:221/221 MP:214/214
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Azrael ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Mushussu HP:197/399 MP:136/179
+C-Azrael HP:322/338 MP:328/328
+D-Vetala HP:628/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:980/1136 MP:408/413
+B-
+C-Persephone HP:279/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Nanashi
+3-Vetala
+4-Azrael
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mushussu use
+1-Ziodyne MP:14
+2-Posumudi MP:5
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Itsuki HP:980/1136 MP:408/413
+2-Persephone HP:279/315 MP:306/306
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Itsuki HP:980/1136 MP:408/413
+2-Persephone HP:279/315 MP:306/306
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ataca a Itsuki
+Itsuki recibe 32 de daño
+Itsuki termina con HP:948/1136
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Mushussu HP:197/399 MP:136/179
+C-Azrael HP:322/338 MP:328/328
+D-Vetala HP:628/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:948/1136 MP:408/413
+B-
+C-Persephone HP:279/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Vetala
+3-Azrael
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nanashi use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Peri HP:294/483 MP:200/216
+2-Zouchouten HP:221/221 MP:214/214
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Mushussu HP:197/399 MP:136/179 (Puesto 2)
+2-Azrael HP:322/338 MP:328/328 (Puesto 3)
+3-Vetala HP:628/794 MP:157/157 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Zouchouten ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Mushussu HP:197/399 MP:136/179
+C-Azrael HP:322/338 MP:328/328
+D-Zouchouten HP:221/221 MP:214/214
+Equipo de Itsuki (J2)
+A-Itsuki HP:948/1136 MP:408/413
+B-
+C-Persephone HP:279/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Zouchouten
+2-Azrael
+3-Mushussu
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Zouchouten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Peri HP:294/483 MP:200/216
+2-Vetala HP:628/794 MP:157/157
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Peri ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Mushussu HP:197/399 MP:136/179
+C-Azrael HP:322/338 MP:328/328
+D-Peri HP:294/483 MP:200/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:948/1136 MP:408/413
+B-
+C-Persephone HP:279/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Azrael
+2-Mushussu
+3-Nanashi
+4-Peri
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Azrael
+1-Itsuki HP:948/1136 MP:408/413
+2-Persephone HP:279/315 MP:306/306
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Mushussu HP:197/399 MP:136/179
+C-Azrael HP:322/338 MP:328/328
+D-Peri HP:294/483 MP:200/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:948/1136 MP:408/413
+B-
+C-Persephone HP:279/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Nanashi
+3-Peri
+4-Azrael
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Mushussu HP:197/399 MP:136/179
+C-Azrael HP:322/338 MP:328/328
+D-Peri HP:294/483 MP:200/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:948/1136 MP:408/413
+B-
+C-Persephone HP:279/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Persephone
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Bufula MP:8
+2-Sabbatma MP:20
+3-Agidyne MP:14
+4-Agi MP:5
+5-Nihil Claw MP:11
+6-Berserker God MP:12
+7-Bouncing Claw MP:4
+8-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nanashi HP:140/140 MP:411/411
+2-Mushussu HP:197/399 MP:136/179
+3-Azrael HP:322/338 MP:328/328
+4-Peri HP:294/483 MP:200/216
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Nanashi
+Nanashi recibe 136 de daño
+Nanashi termina con HP:4/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:4/140 MP:411/411
+B-Mushussu HP:197/399 MP:136/179
+C-Azrael HP:322/338 MP:328/328
+D-Peri HP:294/483 MP:200/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:948/1136 MP:396/413
+B-
+C-Persephone HP:279/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Nanashi HP:4/140 MP:411/411
+2-Mushussu HP:197/399 MP:136/179
+3-Azrael HP:322/338 MP:328/328
+4-Peri HP:294/483 MP:200/216
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Persephone ataca a Nanashi
+Nanashi recibe 33 de daño
+Nanashi termina con HP:0/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Mushussu HP:197/399 MP:136/179
+C-Azrael HP:322/338 MP:328/328
+D-Peri HP:294/483 MP:200/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:948/1136 MP:396/413
+B-
+C-Persephone HP:279/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Mushussu
+3-Azrael
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Mushussu HP:197/399 MP:136/179
+C-Azrael HP:322/338 MP:328/328
+D-Peri HP:294/483 MP:200/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:948/1136 MP:396/413
+B-
+C-Persephone HP:279/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Azrael
+3-Peri
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Mushussu HP:197/399 MP:136/179
+C-Azrael HP:322/338 MP:328/328
+D-Peri HP:294/483 MP:200/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:948/1136 MP:396/413
+B-
+C-Persephone HP:279/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Azrael
+2-Peri
+3-Mushussu
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Azrael
+1-Itsuki HP:948/1136 MP:396/413
+2-Persephone HP:279/315 MP:306/306
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Azrael ataca a Itsuki
+Itsuki recibe 36 de daño
+Itsuki termina con HP:912/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Mushussu HP:197/399 MP:136/179
+C-Azrael HP:322/338 MP:328/328
+D-Peri HP:294/483 MP:200/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:912/1136 MP:396/413
+B-
+C-Persephone HP:279/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Mushussu
+3-Azrael
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Vetala HP:628/794 MP:157/157
+2-Zouchouten HP:221/221 MP:214/214
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Vetala ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Mushussu HP:197/399 MP:136/179
+C-Azrael HP:322/338 MP:328/328
+D-Vetala HP:628/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:912/1136 MP:396/413
+B-
+C-Persephone HP:279/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Azrael
+3-Vetala
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Peri HP:294/483 MP:200/216
+2-Zouchouten HP:221/221 MP:214/214
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Zouchouten ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Zouchouten HP:221/221 MP:214/214
+C-Azrael HP:322/338 MP:328/328
+D-Vetala HP:628/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:912/1136 MP:396/413
+B-
+C-Persephone HP:279/315 MP:306/306
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Persephone
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sphinx HP:336/376 MP:353/364
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Persephone HP:279/315 MP:306/306 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Sphinx ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Zouchouten HP:221/221 MP:214/214
+C-Azrael HP:322/338 MP:328/328
+D-Vetala HP:628/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:912/1136 MP:396/413
+B-
+C-Persephone HP:279/315 MP:306/306
+D-Sphinx HP:336/376 MP:353/364
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Persephone
+2-Sphinx
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Zouchouten HP:221/221 MP:214/214
+2-Azrael HP:322/338 MP:328/328
+3-Vetala HP:628/794 MP:157/157
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Persephone ataca a Zouchouten
+Zouchouten recibe 33 de daño
+Zouchouten termina con HP:188/221
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Zouchouten HP:188/221 MP:214/214
+C-Azrael HP:322/338 MP:328/328
+D-Vetala HP:628/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:912/1136 MP:396/413
+B-
+C-Persephone HP:279/315 MP:306/306
+D-Sphinx HP:336/376 MP:353/364
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sphinx
+2-Itsuki
+3-Persephone
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Zouchouten HP:188/221 MP:214/214
+C-Azrael HP:322/338 MP:328/328
+D-Vetala HP:628/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:912/1136 MP:396/413
+B-
+C-Persephone HP:279/315 MP:306/306
+D-Sphinx HP:336/376 MP:353/364
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Persephone
+3-Sphinx
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Zouchouten HP:188/221 MP:214/214
+2-Azrael HP:322/338 MP:328/328
+3-Vetala HP:628/794 MP:157/157
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Bufula MP:8
+2-Sabbatma MP:20
+3-Agidyne MP:14
+4-Agi MP:5
+5-Nihil Claw MP:11
+6-Berserker God MP:12
+7-Bouncing Claw MP:4
+8-Cancelar
+INPUT: 7
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Zouchouten HP:188/221 MP:214/214
+2-Azrael HP:322/338 MP:328/328
+3-Vetala HP:628/794 MP:157/157
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Zouchouten
+Zouchouten recibe 76 de daño
+Itsuki ataca a Zouchouten
+Zouchouten recibe 76 de daño
+Zouchouten termina con HP:36/221
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Zouchouten HP:36/221 MP:214/214
+C-Azrael HP:322/338 MP:328/328
+D-Vetala HP:628/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:912/1136 MP:392/413
+B-
+C-Persephone HP:279/315 MP:306/306
+D-Sphinx HP:336/376 MP:353/364
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Azrael
+3-Zouchouten
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Zouchouten HP:36/221 MP:214/214
+C-Azrael HP:322/338 MP:328/328
+D-Vetala HP:628/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:912/1136 MP:392/413
+B-
+C-Persephone HP:279/315 MP:306/306
+D-Sphinx HP:336/376 MP:353/364
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Azrael
+2-Zouchouten
+3-Vetala
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Azrael
+1-Itsuki HP:912/1136 MP:392/413
+2-Persephone HP:279/315 MP:306/306
+3-Sphinx HP:336/376 MP:353/364
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Azrael ataca a Persephone
+Persephone recibe 36 de daño
+Persephone termina con HP:243/315
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Zouchouten HP:36/221 MP:214/214
+C-Azrael HP:322/338 MP:328/328
+D-Vetala HP:628/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:912/1136 MP:392/413
+B-
+C-Persephone HP:243/315 MP:306/306
+D-Sphinx HP:336/376 MP:353/364
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zouchouten
+2-Vetala
+3-Azrael
+----------------------------------------
+Seleccione una acción para Zouchouten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Peri HP:294/483 MP:200/216
+2-Mushussu HP:197/399 MP:136/179
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Peri ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Peri HP:294/483 MP:200/216
+C-Azrael HP:322/338 MP:328/328
+D-Vetala HP:628/794 MP:157/157
+Equipo de Itsuki (J2)
+A-Itsuki HP:912/1136 MP:392/413
+B-
+C-Persephone HP:243/315 MP:306/306
+D-Sphinx HP:336/376 MP:353/364
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Vetala
+2-Azrael
+3-Peri
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mushussu HP:197/399 MP:136/179
+2-Zouchouten HP:36/221 MP:214/214
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Peri HP:294/483 MP:200/216
+C-Azrael HP:322/338 MP:328/328
+D-Mushussu HP:197/399 MP:136/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:912/1136 MP:392/413
+B-
+C-Persephone HP:243/315 MP:306/306
+D-Sphinx HP:336/376 MP:353/364
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Azrael
+2-Peri
+3-Mushussu
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Azrael
+1-Itsuki HP:912/1136 MP:392/413
+2-Persephone HP:243/315 MP:306/306
+3-Sphinx HP:336/376 MP:353/364
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Peri HP:294/483 MP:200/216
+C-Azrael HP:322/338 MP:328/328
+D-Mushussu HP:197/399 MP:136/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:912/1136 MP:392/413
+B-
+C-Persephone HP:243/315 MP:306/306
+D-Sphinx HP:336/376 MP:353/364
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Peri
+2-Mushussu
+3-Azrael
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Itsuki HP:912/1136 MP:392/413
+2-Persephone HP:243/315 MP:306/306
+3-Sphinx HP:336/376 MP:353/364
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Peri ataca a Sphinx
+Sphinx recibe 40 de daño
+Sphinx termina con HP:296/376
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Peri HP:294/483 MP:200/216
+C-Azrael HP:322/338 MP:328/328
+D-Mushussu HP:197/399 MP:136/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:912/1136 MP:392/413
+B-
+C-Persephone HP:243/315 MP:306/306
+D-Sphinx HP:296/376 MP:353/364
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Sphinx
+3-Persephone
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Peri HP:294/483 MP:200/216
+2-Azrael HP:322/338 MP:328/328
+3-Mushussu HP:197/399 MP:136/179
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki ataca a Azrael
+Azrael es resistente el ataque de Itsuki
+Azrael recibe 22 de daño
+Azrael termina con HP:300/338
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Peri HP:294/483 MP:200/216
+C-Azrael HP:300/338 MP:328/328
+D-Mushussu HP:197/399 MP:136/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:912/1136 MP:392/413
+B-
+C-Persephone HP:243/315 MP:306/306
+D-Sphinx HP:296/376 MP:353/364
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sphinx
+2-Persephone
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Peri HP:294/483 MP:200/216
+C-Azrael HP:300/338 MP:328/328
+D-Mushussu HP:197/399 MP:136/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:912/1136 MP:392/413
+B-
+C-Persephone HP:243/315 MP:306/306
+D-Sphinx HP:296/376 MP:353/364
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Persephone
+2-Itsuki
+3-Sphinx
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Peri HP:294/483 MP:200/216
+2-Azrael HP:300/338 MP:328/328
+3-Mushussu HP:197/399 MP:136/179
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Persephone ataca a Mushussu
+Mushussu recibe 33 de daño
+Mushussu termina con HP:164/399
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Peri HP:294/483 MP:200/216
+C-Azrael HP:300/338 MP:328/328
+D-Mushussu HP:164/399 MP:136/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:912/1136 MP:392/413
+B-
+C-Persephone HP:243/315 MP:306/306
+D-Sphinx HP:296/376 MP:353/364
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Sphinx
+3-Persephone
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Peri HP:294/483 MP:200/216
+2-Azrael HP:300/338 MP:328/328
+3-Mushussu HP:164/399 MP:136/179
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Peri HP:294/483 MP:200/216
+2-Azrael HP:300/338 MP:328/328
+3-Mushussu HP:164/399 MP:136/179
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki dispara a Azrael
+Azrael recibe 61 de daño
+Azrael termina con HP:239/338
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Peri HP:294/483 MP:200/216
+C-Azrael HP:239/338 MP:328/328
+D-Mushussu HP:164/399 MP:136/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:912/1136 MP:392/413
+B-
+C-Persephone HP:243/315 MP:306/306
+D-Sphinx HP:296/376 MP:353/364
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Mushussu
+3-Azrael
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Peri HP:294/483 MP:200/216
+C-Azrael HP:239/338 MP:328/328
+D-Mushussu HP:164/399 MP:136/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:912/1136 MP:392/413
+B-
+C-Persephone HP:243/315 MP:306/306
+D-Sphinx HP:296/376 MP:353/364
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Azrael
+3-Peri
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Peri HP:294/483 MP:200/216
+C-Azrael HP:239/338 MP:328/328
+D-Mushussu HP:164/399 MP:136/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:912/1136 MP:392/413
+B-
+C-Persephone HP:243/315 MP:306/306
+D-Sphinx HP:296/376 MP:353/364
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Azrael
+2-Peri
+3-Mushussu
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Azrael use
+1-Agidyne MP:14
+2-Samarecarm MP:40
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Vetala HP:628/794 MP:157/157
+2-Zouchouten HP:36/221 MP:214/214
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Azrael use
+1-Agidyne MP:14
+2-Samarecarm MP:40
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Azrael
+1-Itsuki HP:912/1136 MP:392/413
+2-Persephone HP:243/315 MP:306/306
+3-Sphinx HP:296/376 MP:353/364
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Azrael ataca a Itsuki
+Itsuki recibe 36 de daño
+Itsuki termina con HP:876/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Peri HP:294/483 MP:200/216
+C-Azrael HP:239/338 MP:328/328
+D-Mushussu HP:164/399 MP:136/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:876/1136 MP:392/413
+B-
+C-Persephone HP:243/315 MP:306/306
+D-Sphinx HP:296/376 MP:353/364
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Mushussu
+3-Azrael
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Itsuki HP:876/1136 MP:392/413
+2-Persephone HP:243/315 MP:306/306
+3-Sphinx HP:296/376 MP:353/364
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Peri ataca a Sphinx
+Sphinx recibe 40 de daño
+Sphinx termina con HP:256/376
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Peri HP:294/483 MP:200/216
+C-Azrael HP:239/338 MP:328/328
+D-Mushussu HP:164/399 MP:136/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:876/1136 MP:392/413
+B-
+C-Persephone HP:243/315 MP:306/306
+D-Sphinx HP:256/376 MP:353/364
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Sphinx
+3-Persephone
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Peri HP:294/483 MP:200/216
+2-Azrael HP:239/338 MP:328/328
+3-Mushussu HP:164/399 MP:136/179
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki ataca a Azrael
+Azrael es resistente el ataque de Itsuki
+Azrael recibe 22 de daño
+Azrael termina con HP:217/338
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Peri HP:294/483 MP:200/216
+C-Azrael HP:217/338 MP:328/328
+D-Mushussu HP:164/399 MP:136/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:876/1136 MP:392/413
+B-
+C-Persephone HP:243/315 MP:306/306
+D-Sphinx HP:256/376 MP:353/364
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sphinx
+2-Persephone
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Peri HP:294/483 MP:200/216
+C-Azrael HP:217/338 MP:328/328
+D-Mushussu HP:164/399 MP:136/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:876/1136 MP:392/413
+B-
+C-Persephone HP:243/315 MP:306/306
+D-Sphinx HP:256/376 MP:353/364
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Persephone
+2-Itsuki
+3-Sphinx
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Peri HP:294/483 MP:200/216
+2-Azrael HP:217/338 MP:328/328
+3-Mushussu HP:164/399 MP:136/179
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Persephone ataca a Azrael
+Azrael es resistente el ataque de Persephone
+Azrael recibe 16 de daño
+Azrael termina con HP:201/338
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Peri HP:294/483 MP:200/216
+C-Azrael HP:201/338 MP:328/328
+D-Mushussu HP:164/399 MP:136/179
+Equipo de Itsuki (J2)
+A-Itsuki HP:876/1136 MP:392/413
+B-
+C-Persephone HP:243/315 MP:306/306
+D-Sphinx HP:256/376 MP:353/364
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Sphinx
+3-Persephone
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Bufula MP:8
+2-Sabbatma MP:20
+3-Agidyne MP:14
+4-Agi MP:5
+5-Nihil Claw MP:11
+6-Berserker God MP:12
+7-Bouncing Claw MP:4
+8-Cancelar
+INPUT: 7
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Peri HP:294/483 MP:200/216
+2-Azrael HP:201/338 MP:328/328
+3-Mushussu HP:164/399 MP:136/179
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki ataca a Mushussu
+Mushussu recibe 76 de daño
+Itsuki ataca a Mushussu
+Mushussu recibe 76 de daño
+Itsuki ataca a Mushussu
+Mushussu recibe 76 de daño
+Mushussu termina con HP:0/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Peri HP:294/483 MP:200/216
+C-Azrael HP:201/338 MP:328/328
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:876/1136 MP:388/413
+B-
+C-Persephone HP:243/315 MP:306/306
+D-Sphinx HP:256/376 MP:353/364
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Azrael
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Vetala HP:628/794 MP:157/157
+2-Zouchouten HP:36/221 MP:214/214
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Vetala ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Vetala HP:628/794 MP:157/157
+C-Azrael HP:201/338 MP:328/328
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:876/1136 MP:388/413
+B-
+C-Persephone HP:243/315 MP:306/306
+D-Sphinx HP:256/376 MP:353/364
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Azrael
+2-Vetala
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Azrael
+1-Itsuki HP:876/1136 MP:388/413
+2-Persephone HP:243/315 MP:306/306
+3-Sphinx HP:256/376 MP:353/364
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Azrael ataca a Itsuki
+Itsuki recibe 36 de daño
+Itsuki termina con HP:840/1136
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Vetala HP:628/794 MP:157/157
+C-Azrael HP:201/338 MP:328/328
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:840/1136 MP:388/413
+B-
+C-Persephone HP:243/315 MP:306/306
+D-Sphinx HP:256/376 MP:353/364
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Azrael
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Vetala use
+1-Nihil Claw MP:11
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Itsuki HP:840/1136 MP:388/413
+2-Persephone HP:243/315 MP:306/306
+3-Sphinx HP:256/376 MP:353/364
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Vetala ataca a Itsuki
+Itsuki recibe 151 de daño
+Vetala ataca a Itsuki
+Itsuki recibe 151 de daño
+Itsuki termina con HP:538/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Vetala HP:628/794 MP:146/157
+C-Azrael HP:201/338 MP:328/328
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:538/1136 MP:388/413
+B-
+C-Persephone HP:243/315 MP:306/306
+D-Sphinx HP:256/376 MP:353/364
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Sphinx
+3-Persephone
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Vetala HP:628/794 MP:146/157
+C-Azrael HP:201/338 MP:328/328
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:538/1136 MP:388/413
+B-
+C-Persephone HP:243/315 MP:306/306
+D-Sphinx HP:256/376 MP:353/364
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sphinx
+2-Persephone
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sphinx use
+1-Mediarahan MP:40
+2-Mahamaon MP:30
+3-Grand Tack MP:11
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Sphinx
+1-Vetala HP:628/794 MP:146/157
+2-Azrael HP:201/338 MP:328/328
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sphinx
+1-Vetala HP:628/794 MP:146/157
+2-Azrael HP:201/338 MP:328/328
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sphinx
+1-Vetala HP:628/794 MP:146/157
+2-Azrael HP:201/338 MP:328/328
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sphinx
+1-Vetala HP:628/794 MP:146/157
+2-Azrael HP:201/338 MP:328/328
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sphinx
+1-Vetala HP:628/794 MP:146/157
+2-Azrael HP:201/338 MP:328/328
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Sphinx ataca a Vetala
+Vetala recibe 52 de daño
+Vetala termina con HP:576/794
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Vetala HP:576/794 MP:146/157
+C-Azrael HP:201/338 MP:328/328
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:538/1136 MP:388/413
+B-
+C-Persephone HP:243/315 MP:306/306
+D-Sphinx HP:256/376 MP:353/364
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Itsuki
+3-Sphinx
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Persephone use
+1-Bufudyne MP:14
+2-Death's Door MP:10
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Vetala HP:576/794 MP:146/157
+2-Azrael HP:201/338 MP:328/328
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Persephone lanza hielo a Vetala
+Vetala recibe 112 de daño
+Vetala termina con HP:464/794
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Vetala HP:464/794 MP:146/157
+C-Azrael HP:201/338 MP:328/328
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:538/1136 MP:388/413
+B-
+C-Persephone HP:243/315 MP:292/306
+D-Sphinx HP:256/376 MP:353/364
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Sphinx
+3-Persephone
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Vetala HP:464/794 MP:146/157
+2-Azrael HP:201/338 MP:328/328
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Vetala
+Vetala recibe 61 de daño
+Vetala termina con HP:403/794
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Vetala HP:403/794 MP:146/157
+C-Azrael HP:201/338 MP:328/328
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:538/1136 MP:388/413
+B-
+C-Persephone HP:243/315 MP:292/306
+D-Sphinx HP:256/376 MP:353/364
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Azrael
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Peri HP:294/483 MP:200/216
+2-Zouchouten HP:36/221 MP:214/214
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Zouchouten ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Zouchouten HP:36/221 MP:214/214
+C-Azrael HP:201/338 MP:328/328
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:538/1136 MP:388/413
+B-
+C-Persephone HP:243/315 MP:292/306
+D-Sphinx HP:256/376 MP:353/364
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Azrael
+2-Zouchouten
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Peri HP:294/483 MP:200/216
+2-Vetala HP:403/794 MP:146/157
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Zouchouten HP:36/221 MP:214/214
+C-Azrael HP:201/338 MP:328/328
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:538/1136 MP:388/413
+B-
+C-Persephone HP:243/315 MP:292/306
+D-Sphinx HP:256/376 MP:353/364
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zouchouten
+2-Azrael
+----------------------------------------
+Seleccione una acción para Zouchouten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Zouchouten use
+1-Agidyne MP:14
+2-Dream Fist MP:9
+3-Myriad Arrows MP:30
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zouchouten
+1-Itsuki HP:538/1136 MP:388/413
+2-Persephone HP:243/315 MP:292/306
+3-Sphinx HP:256/376 MP:353/364
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Zouchouten lanza fuego a Sphinx
+Sphinx recibe 105 de daño
+Sphinx termina con HP:151/376
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Zouchouten HP:36/221 MP:200/214
+C-Azrael HP:201/338 MP:328/328
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:538/1136 MP:388/413
+B-
+C-Persephone HP:243/315 MP:292/306
+D-Sphinx HP:151/376 MP:353/364
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Sphinx
+3-Persephone
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Zouchouten HP:36/221 MP:200/214
+2-Azrael HP:201/338 MP:328/328
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Zouchouten HP:36/221 MP:200/214
+C-Azrael HP:201/338 MP:328/328
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:538/1136 MP:388/413
+B-
+C-Persephone HP:243/315 MP:292/306
+D-Sphinx HP:151/376 MP:353/364
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sphinx
+2-Persephone
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sphinx use
+1-Mediarahan MP:40
+2-Mahamaon MP:30
+3-Grand Tack MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Zouchouten HP:36/221 MP:200/214
+C-Azrael HP:201/338 MP:328/328
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:538/1136 MP:388/413
+B-
+C-Persephone HP:243/315 MP:292/306
+D-Sphinx HP:151/376 MP:353/364
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Itsuki
+3-Sphinx
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Zouchouten HP:36/221 MP:200/214
+2-Azrael HP:201/338 MP:328/328
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Persephone ataca a Zouchouten
+Zouchouten recibe 33 de daño
+Zouchouten termina con HP:3/221
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Zouchouten HP:3/221 MP:200/214
+C-Azrael HP:201/338 MP:328/328
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:538/1136 MP:388/413
+B-
+C-Persephone HP:243/315 MP:292/306
+D-Sphinx HP:151/376 MP:353/364
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Sphinx
+3-Persephone
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-Zouchouten HP:3/221 MP:200/214
+C-Azrael HP:201/338 MP:328/328
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:538/1136 MP:388/413
+B-
+C-Persephone HP:243/315 MP:292/306
+D-Sphinx HP:151/376 MP:353/364
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sphinx
+2-Persephone
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sphinx
+1-Zouchouten HP:3/221 MP:200/214
+2-Azrael HP:201/338 MP:328/328
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Sphinx ataca a Zouchouten
+Zouchouten recibe 52 de daño
+Zouchouten termina con HP:0/221
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Azrael HP:201/338 MP:328/328
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:538/1136 MP:388/413
+B-
+C-Persephone HP:243/315 MP:292/306
+D-Sphinx HP:151/376 MP:353/364
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Azrael
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Peri HP:294/483 MP:200/216
+2-Vetala HP:403/794 MP:146/157
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Peri ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Peri HP:294/483 MP:200/216
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:538/1136 MP:388/413
+B-
+C-Persephone HP:243/315 MP:292/306
+D-Sphinx HP:151/376 MP:353/364
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Peri
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Peri use
+1-Diarahan MP:16
+2-Me Patra MP:15
+3-Panic Voice MP:15
+4-Maragidyne MP:32
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azrael HP:201/338 MP:328/328
+2-Vetala HP:403/794 MP:146/157
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Azrael ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Azrael HP:201/338 MP:328/328
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:538/1136 MP:388/413
+B-
+C-Persephone HP:243/315 MP:292/306
+D-Sphinx HP:151/376 MP:353/364
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Sphinx
+3-Persephone
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Azrael HP:201/338 MP:328/328
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:538/1136 MP:388/413
+B-
+C-Persephone HP:243/315 MP:292/306
+D-Sphinx HP:151/376 MP:353/364
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sphinx
+2-Persephone
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sphinx use
+1-Mediarahan MP:40
+2-Mahamaon MP:30
+3-Grand Tack MP:11
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Sphinx
+1-Azrael HP:201/338 MP:328/328
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Sphinx dispara a Azrael
+Azrael recibe 128 de daño
+Azrael termina con HP:73/338
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Azrael HP:73/338 MP:328/328
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:538/1136 MP:388/413
+B-
+C-Persephone HP:243/315 MP:292/306
+D-Sphinx HP:151/376 MP:342/364
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Itsuki
+3-Sphinx
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Azrael HP:73/338 MP:328/328
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:538/1136 MP:388/413
+B-
+C-Persephone HP:243/315 MP:292/306
+D-Sphinx HP:151/376 MP:342/364
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Sphinx
+3-Persephone
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Azrael HP:73/338 MP:328/328
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Azrael
+Azrael recibe 61 de daño
+Azrael termina con HP:12/338
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Azrael HP:12/338 MP:328/328
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:538/1136 MP:388/413
+B-
+C-Persephone HP:243/315 MP:292/306
+D-Sphinx HP:151/376 MP:342/364
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sphinx
+2-Persephone
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sphinx
+1-Azrael HP:12/338 MP:328/328
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sphinx
+1-Azrael HP:12/338 MP:328/328
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Azrael HP:12/338 MP:328/328
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:538/1136 MP:388/413
+B-
+C-Persephone HP:243/315 MP:292/306
+D-Sphinx HP:151/376 MP:342/364
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Persephone
+2-Itsuki
+3-Sphinx
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Azrael HP:12/338 MP:328/328
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:538/1136 MP:388/413
+B-
+C-Persephone HP:243/315 MP:292/306
+D-Sphinx HP:151/376 MP:342/364
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Azrael
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Azrael
+1-Itsuki HP:538/1136 MP:388/413
+2-Persephone HP:243/315 MP:292/306
+3-Sphinx HP:151/376 MP:342/364
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Azrael ataca a Sphinx
+Sphinx recibe 36 de daño
+Sphinx termina con HP:115/376
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-Azrael HP:12/338 MP:328/328
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:538/1136 MP:388/413
+B-
+C-Persephone HP:243/315 MP:292/306
+D-Sphinx HP:115/376 MP:342/364
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Sphinx
+3-Persephone
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Azrael HP:12/338 MP:328/328
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Azrael
+Azrael es resistente el ataque de Itsuki
+Azrael recibe 22 de daño
+Azrael termina con HP:0/338
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Itsuki (J2)

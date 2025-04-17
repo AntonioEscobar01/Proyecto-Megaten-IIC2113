@@ -18,7 +18,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "Nu",
+            "Sleep": "Nu",
+            "Sick": "Nu",
+            "Panic": "Nu",
+            "Poison": "Nu"
         }
     },
     {
@@ -40,7 +45,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "Nu",
+            "Sleep": "Nu",
+            "Sick": "Nu",
+            "Panic": "Nu",
+            "Poison": "Nu"
         }
     },
     {
@@ -62,7 +72,12 @@
             "Elec": "Rs",
             "Force": "Rs",
             "Light": "Nu",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "Rs",
+            "Sleep": "Rs",
+            "Sick": "Rs",
+            "Panic": "Rs",
+            "Poison": "Rs"
         }
     },
     {
@@ -84,7 +99,12 @@
             "Elec": "Rs",
             "Force": "Rs",
             "Light": "Rs",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "Rs",
+            "Sleep": "Rs",
+            "Sick": "Rs",
+            "Panic": "Rs",
+            "Poison": "Rs"
         }
     },
     {
@@ -106,7 +126,12 @@
             "Elec": "Rs",
             "Force": "Rs",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "Nu",
+            "Poison": "-"
         }
     },
     {
@@ -128,7 +153,12 @@
             "Elec": "Nu",
             "Force": "Nu",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "Nu",
+            "Sleep": "Nu",
+            "Sick": "Nu",
+            "Panic": "Nu",
+            "Poison": "Nu"
         }
     },
     {
@@ -150,7 +180,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         }
     },
     {
@@ -172,7 +207,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "Nu",
+            "Sleep": "Nu",
+            "Sick": "Nu",
+            "Panic": "Nu",
+            "Poison": "Nu"
         }
     },
     {
@@ -194,7 +234,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Nu",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         }
     },
     {
@@ -216,7 +261,12 @@
             "Elec": "Dr",
             "Force": "-",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         }
     },
     {
@@ -238,7 +288,12 @@
             "Elec": "Wk",
             "Force": "-",
             "Light": "-",
-            "Dark": "Rp"
+            "Dark": "Rp",
+            "Bind": "Nu",
+            "Sleep": "Nu",
+            "Sick": "Nu",
+            "Panic": "Nu",
+            "Poison": "Nu"
         }
     },
     {
@@ -260,7 +315,12 @@
             "Elec": "Rs",
             "Force": "Rs",
             "Light": "Rs",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         }
     },
     {
@@ -282,7 +342,12 @@
             "Elec": "Rs",
             "Force": "Rs",
             "Light": "Rs",
-            "Dark": "Rs"
+            "Dark": "Rs",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         }
     },
     {
@@ -304,7 +369,12 @@
             "Elec": "Rs",
             "Force": "Rs",
             "Light": "-",
-            "Dark": "-"
+            "Dark": "-",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         }
     },
     {
@@ -326,7 +396,12 @@
             "Elec": "-",
             "Force": "-",
             "Light": "Wk",
-            "Dark": "Nu"
+            "Dark": "Nu",
+            "Bind": "-",
+            "Sleep": "-",
+            "Sick": "-",
+            "Panic": "-",
+            "Poison": "-"
         }
     }
 ]

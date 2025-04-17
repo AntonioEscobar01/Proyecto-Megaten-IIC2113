@@ -1,0 +1,3967 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+120: 121.txt
+121: 122.txt
+122: 123.txt
+123: 124.txt
+124: 125.txt
+125: 126.txt
+126: 127.txt
+127: 128.txt
+128: 129.txt
+129: 130.txt
+130: 131.txt
+131: 132.txt
+132: 133.txt
+133: 134.txt
+134: 135.txt
+135: 136.txt
+136: 137.txt
+137: 138.txt
+138: 139.txt
+139: 140.txt
+140: 141.txt
+141: 142.txt
+142: 143.txt
+143: 144.txt
+144: 145.txt
+145: 146.txt
+146: 147.txt
+147: 148.txt
+148: 149.txt
+149: 150.txt
+150: 151.txt
+151: 152.txt
+152: 153.txt
+153: 154.txt
+154: 155.txt
+155: 156.txt
+156: 157.txt
+157: 158.txt
+158: 159.txt
+159: 160.txt
+160: 161.txt
+161: 162.txt
+162: 163.txt
+163: 164.txt
+164: 165.txt
+165: 166.txt
+166: 167.txt
+167: 168.txt
+168: 169.txt
+169: 170.txt
+170: 171.txt
+171: 172.txt
+172: 173.txt
+173: 174.txt
+174: 175.txt
+175: 176.txt
+176: 177.txt
+177: 178.txt
+178: 179.txt
+179: 180.txt
+180: 181.txt
+181: 182.txt
+182: 183.txt
+183: 184.txt
+184: 185.txt
+185: 186.txt
+186: 187.txt
+187: 188.txt
+188: 189.txt
+189: 190.txt
+190: 191.txt
+191: 192.txt
+192: 193.txt
+193: 194.txt
+194: 195.txt
+195: 196.txt
+196: 197.txt
+197: 198.txt
+198: 199.txt
+199: 200.txt
+INPUT: 169
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Balor HP:492/492 MP:98/98
+C-Okiku-Mushi HP:273/273 MP:121/121
+D-Sedna HP:350/350 MP:68/68
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Gu Huo Niao HP:122/122 MP:117/117
+C-Gurulu HP:371/371 MP:166/166
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Balor
+3-Okiku-Mushi
+4-Sedna
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kikuri-Hime HP:216/216 MP:210/210
+2-Asherah HP:433/433 MP:195/195
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Balor HP:492/492 MP:98/98 (Puesto 2)
+2-Okiku-Mushi HP:273/273 MP:121/121 (Puesto 3)
+3-Sedna HP:350/350 MP:68/68 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Asherah ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Balor HP:492/492 MP:98/98
+C-Okiku-Mushi HP:273/273 MP:121/121
+D-Asherah HP:433/433 MP:195/195
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Gu Huo Niao HP:122/122 MP:117/117
+C-Gurulu HP:371/371 MP:166/166
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Balor
+2-Okiku-Mushi
+3-Asherah
+4-Yu
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Balor
+1-Aleph HP:1309/1309 MP:613/613
+2-Gu Huo Niao HP:122/122 MP:117/117
+3-Gurulu HP:371/371 MP:166/166
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Balor ataca a Gu Huo Niao
+Gu Huo Niao recibe 36 de daño
+Gu Huo Niao termina con HP:86/122
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Balor HP:492/492 MP:98/98
+C-Okiku-Mushi HP:273/273 MP:121/121
+D-Asherah HP:433/433 MP:195/195
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Gu Huo Niao HP:86/122 MP:117/117
+C-Gurulu HP:371/371 MP:166/166
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Okiku-Mushi
+2-Asherah
+3-Yu
+4-Balor
+----------------------------------------
+Seleccione una acción para Okiku-Mushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Okiku-Mushi
+1-Aleph HP:1309/1309 MP:613/613
+2-Gu Huo Niao HP:86/122 MP:117/117
+3-Gurulu HP:371/371 MP:166/166
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Okiku-Mushi ataca a Aleph
+Aleph es resistente el ataque de Okiku-Mushi
+Aleph recibe 10 de daño
+Aleph termina con HP:1299/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Balor HP:492/492 MP:98/98
+C-Okiku-Mushi HP:273/273 MP:121/121
+D-Asherah HP:433/433 MP:195/195
+Equipo de Aleph (J2)
+A-Aleph HP:1299/1309 MP:613/613
+B-Gu Huo Niao HP:86/122 MP:117/117
+C-Gurulu HP:371/371 MP:166/166
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Yu
+3-Balor
+4-Okiku-Mushi
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Asherah use
+1-Diarama MP:9
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Yu HP:597/597 MP:347/347
+2-Balor HP:492/492 MP:98/98
+3-Okiku-Mushi HP:273/273 MP:121/121
+4-Asherah HP:433/433 MP:195/195
+5-Sedna HP:350/350 MP:68/68
+6-Kikuri-Hime HP:216/216 MP:210/210
+7-Cancelar
+INPUT: 5
+----------------------------------------
+Asherah cura a Sedna
+Sedna recibe 175 de HP
+Sedna termina con HP:350/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Balor HP:492/492 MP:98/98
+C-Okiku-Mushi HP:273/273 MP:121/121
+D-Asherah HP:433/433 MP:186/195
+Equipo de Aleph (J2)
+A-Aleph HP:1299/1309 MP:613/613
+B-Gu Huo Niao HP:86/122 MP:117/117
+C-Gurulu HP:371/371 MP:166/166
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Balor
+3-Okiku-Mushi
+4-Asherah
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Aleph HP:1299/1309 MP:613/613
+2-Gu Huo Niao HP:86/122 MP:117/117
+3-Gurulu HP:371/371 MP:166/166
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Yu dispara a Aleph
+Aleph bloquea el ataque de Yu
+Aleph termina con HP:1299/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Balor HP:492/492 MP:98/98
+C-Okiku-Mushi HP:273/273 MP:121/121
+D-Asherah HP:433/433 MP:186/195
+Equipo de Aleph (J2)
+A-Aleph HP:1299/1309 MP:613/613
+B-Gu Huo Niao HP:86/122 MP:117/117
+C-Gurulu HP:371/371 MP:166/166
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Gurulu
+3-Gu Huo Niao
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Agidyne MP:14
+2-Fatal Sword MP:8
+3-Sabbatma MP:20
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Yu HP:597/597 MP:347/347
+2-Balor HP:492/492 MP:98/98
+3-Okiku-Mushi HP:273/273 MP:121/121
+4-Asherah HP:433/433 MP:186/195
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph dispara a Yu
+Yu recibe 276 de daño
+Yu termina con HP:321/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:321/597 MP:347/347
+B-Balor HP:492/492 MP:98/98
+C-Okiku-Mushi HP:273/273 MP:121/121
+D-Asherah HP:433/433 MP:186/195
+Equipo de Aleph (J2)
+A-Aleph HP:1299/1309 MP:613/613
+B-Gu Huo Niao HP:86/122 MP:117/117
+C-Gurulu HP:371/371 MP:166/166
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gurulu
+2-Gu Huo Niao
+3-Aleph
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:321/597 MP:347/347
+B-Balor HP:492/492 MP:98/98
+C-Okiku-Mushi HP:273/273 MP:121/121
+D-Asherah HP:433/433 MP:186/195
+Equipo de Aleph (J2)
+A-Aleph HP:1299/1309 MP:613/613
+B-Gu Huo Niao HP:86/122 MP:117/117
+C-Gurulu HP:371/371 MP:166/166
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Gu Huo Niao
+2-Aleph
+3-Gurulu
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gu Huo Niao
+1-Yu HP:321/597 MP:347/347
+2-Balor HP:492/492 MP:98/98
+3-Okiku-Mushi HP:273/273 MP:121/121
+4-Asherah HP:433/433 MP:186/195
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Gu Huo Niao ataca a Asherah
+Asherah recibe 12 de daño
+Asherah termina con HP:421/433
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:321/597 MP:347/347
+B-Balor HP:492/492 MP:98/98
+C-Okiku-Mushi HP:273/273 MP:121/121
+D-Asherah HP:421/433 MP:186/195
+Equipo de Aleph (J2)
+A-Aleph HP:1299/1309 MP:613/613
+B-Gu Huo Niao HP:86/122 MP:117/117
+C-Gurulu HP:371/371 MP:166/166
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Gurulu
+3-Gu Huo Niao
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:321/597 MP:347/347
+B-Balor HP:492/492 MP:98/98
+C-Okiku-Mushi HP:273/273 MP:121/121
+D-Asherah HP:421/433 MP:186/195
+Equipo de Aleph (J2)
+A-Aleph HP:1299/1309 MP:613/613
+B-Gu Huo Niao HP:86/122 MP:117/117
+C-Gurulu HP:371/371 MP:166/166
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Gurulu
+2-Gu Huo Niao
+3-Aleph
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Gurulu use
+1-Mazanma MP:20
+2-Axel Claw MP:15
+3-Nihil Claw MP:11
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Gurulu
+1-Yu HP:321/597 MP:347/347
+2-Balor HP:492/492 MP:98/98
+3-Okiku-Mushi HP:273/273 MP:121/121
+4-Asherah HP:421/433 MP:186/195
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Gurulu use
+1-Mazanma MP:20
+2-Axel Claw MP:15
+3-Nihil Claw MP:11
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Gurulu
+1-Yu HP:321/597 MP:347/347
+2-Balor HP:492/492 MP:98/98
+3-Okiku-Mushi HP:273/273 MP:121/121
+4-Asherah HP:421/433 MP:186/195
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Gurulu ataca a Asherah
+Asherah recibe 106 de daño
+Asherah termina con HP:315/433
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:321/597 MP:347/347
+B-Balor HP:492/492 MP:98/98
+C-Okiku-Mushi HP:273/273 MP:121/121
+D-Asherah HP:315/433 MP:186/195
+Equipo de Aleph (J2)
+A-Aleph HP:1299/1309 MP:613/613
+B-Gu Huo Niao HP:86/122 MP:117/117
+C-Gurulu HP:371/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Asherah
+3-Balor
+4-Okiku-Mushi
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Aleph HP:1299/1309 MP:613/613
+2-Gu Huo Niao HP:86/122 MP:117/117
+3-Gurulu HP:371/371 MP:155/166
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Yu dispara a Gu Huo Niao
+Gu Huo Niao devuelve 72 daño a Yu
+Yu termina con HP:249/597
+----------------------------------------
+Se han consumido 4 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:249/597 MP:347/347
+B-Balor HP:492/492 MP:98/98
+C-Okiku-Mushi HP:273/273 MP:121/121
+D-Asherah HP:315/433 MP:186/195
+Equipo de Aleph (J2)
+A-Aleph HP:1299/1309 MP:613/613
+B-Gu Huo Niao HP:86/122 MP:117/117
+C-Gurulu HP:371/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Gurulu
+3-Gu Huo Niao
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Agidyne MP:14
+2-Fatal Sword MP:8
+3-Sabbatma MP:20
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Yu HP:249/597 MP:347/347
+2-Balor HP:492/492 MP:98/98
+3-Okiku-Mushi HP:273/273 MP:121/121
+4-Asherah HP:315/433 MP:186/195
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Yu HP:249/597 MP:347/347
+2-Balor HP:492/492 MP:98/98
+3-Okiku-Mushi HP:273/273 MP:121/121
+4-Asherah HP:315/433 MP:186/195
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Aleph dispara a Okiku-Mushi
+Okiku-Mushi bloquea el ataque de Aleph
+Okiku-Mushi termina con HP:273/273
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:249/597 MP:347/347
+B-Balor HP:492/492 MP:98/98
+C-Okiku-Mushi HP:273/273 MP:121/121
+D-Asherah HP:315/433 MP:186/195
+Equipo de Aleph (J2)
+A-Aleph HP:1299/1309 MP:613/613
+B-Gu Huo Niao HP:86/122 MP:117/117
+C-Gurulu HP:371/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gurulu
+2-Gu Huo Niao
+3-Aleph
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:249/597 MP:347/347
+B-Balor HP:492/492 MP:98/98
+C-Okiku-Mushi HP:273/273 MP:121/121
+D-Asherah HP:315/433 MP:186/195
+Equipo de Aleph (J2)
+A-Aleph HP:1299/1309 MP:613/613
+B-Gu Huo Niao HP:86/122 MP:117/117
+C-Gurulu HP:371/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Gu Huo Niao
+2-Aleph
+3-Gurulu
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gu Huo Niao
+1-Yu HP:249/597 MP:347/347
+2-Balor HP:492/492 MP:98/98
+3-Okiku-Mushi HP:273/273 MP:121/121
+4-Asherah HP:315/433 MP:186/195
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Gu Huo Niao ataca a Balor
+Balor recibe 12 de daño
+Balor termina con HP:480/492
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:249/597 MP:347/347
+B-Balor HP:480/492 MP:98/98
+C-Okiku-Mushi HP:273/273 MP:121/121
+D-Asherah HP:315/433 MP:186/195
+Equipo de Aleph (J2)
+A-Aleph HP:1299/1309 MP:613/613
+B-Gu Huo Niao HP:86/122 MP:117/117
+C-Gurulu HP:371/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Asherah
+3-Balor
+4-Okiku-Mushi
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Agilao MP:8
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Aleph HP:1299/1309 MP:613/613
+2-Gu Huo Niao HP:86/122 MP:117/117
+3-Gurulu HP:371/371 MP:155/166
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Yu dispara a Gu Huo Niao
+Gu Huo Niao devuelve 72 daño a Yu
+Yu termina con HP:177/597
+----------------------------------------
+Se han consumido 4 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:177/597 MP:347/347
+B-Balor HP:480/492 MP:98/98
+C-Okiku-Mushi HP:273/273 MP:121/121
+D-Asherah HP:315/433 MP:186/195
+Equipo de Aleph (J2)
+A-Aleph HP:1299/1309 MP:613/613
+B-Gu Huo Niao HP:86/122 MP:117/117
+C-Gurulu HP:371/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Gurulu
+3-Gu Huo Niao
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Yu HP:177/597 MP:347/347
+2-Balor HP:480/492 MP:98/98
+3-Okiku-Mushi HP:273/273 MP:121/121
+4-Asherah HP:315/433 MP:186/195
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Aleph ataca a Okiku-Mushi
+Okiku-Mushi recibe 157 de daño
+Okiku-Mushi termina con HP:116/273
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:177/597 MP:347/347
+B-Balor HP:480/492 MP:98/98
+C-Okiku-Mushi HP:116/273 MP:121/121
+D-Asherah HP:315/433 MP:186/195
+Equipo de Aleph (J2)
+A-Aleph HP:1299/1309 MP:613/613
+B-Gu Huo Niao HP:86/122 MP:117/117
+C-Gurulu HP:371/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gurulu
+2-Gu Huo Niao
+3-Aleph
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:177/597 MP:347/347
+B-Balor HP:480/492 MP:98/98
+C-Okiku-Mushi HP:116/273 MP:121/121
+D-Asherah HP:315/433 MP:186/195
+Equipo de Aleph (J2)
+A-Aleph HP:1299/1309 MP:613/613
+B-Gu Huo Niao HP:86/122 MP:117/117
+C-Gurulu HP:371/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Gu Huo Niao
+2-Aleph
+3-Gurulu
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gu Huo Niao
+1-Yu HP:177/597 MP:347/347
+2-Balor HP:480/492 MP:98/98
+3-Okiku-Mushi HP:116/273 MP:121/121
+4-Asherah HP:315/433 MP:186/195
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Gu Huo Niao ataca a Asherah
+Asherah recibe 12 de daño
+Asherah termina con HP:303/433
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:177/597 MP:347/347
+B-Balor HP:480/492 MP:98/98
+C-Okiku-Mushi HP:116/273 MP:121/121
+D-Asherah HP:303/433 MP:186/195
+Equipo de Aleph (J2)
+A-Aleph HP:1299/1309 MP:613/613
+B-Gu Huo Niao HP:86/122 MP:117/117
+C-Gurulu HP:371/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Gurulu
+3-Gu Huo Niao
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Yu HP:177/597 MP:347/347
+2-Balor HP:480/492 MP:98/98
+3-Okiku-Mushi HP:116/273 MP:121/121
+4-Asherah HP:303/433 MP:186/195
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Yu HP:177/597 MP:347/347
+2-Balor HP:480/492 MP:98/98
+3-Okiku-Mushi HP:116/273 MP:121/121
+4-Asherah HP:303/433 MP:186/195
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:177/597 MP:347/347
+B-Balor HP:480/492 MP:98/98
+C-Okiku-Mushi HP:116/273 MP:121/121
+D-Asherah HP:303/433 MP:186/195
+Equipo de Aleph (J2)
+A-Aleph HP:1299/1309 MP:613/613
+B-Gu Huo Niao HP:86/122 MP:117/117
+C-Gurulu HP:371/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Gurulu
+2-Gu Huo Niao
+3-Aleph
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:177/597 MP:347/347
+B-Balor HP:480/492 MP:98/98
+C-Okiku-Mushi HP:116/273 MP:121/121
+D-Asherah HP:303/433 MP:186/195
+Equipo de Aleph (J2)
+A-Aleph HP:1299/1309 MP:613/613
+B-Gu Huo Niao HP:86/122 MP:117/117
+C-Gurulu HP:371/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Asherah
+3-Balor
+4-Okiku-Mushi
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:177/597 MP:347/347
+B-Balor HP:480/492 MP:98/98
+C-Okiku-Mushi HP:116/273 MP:121/121
+D-Asherah HP:303/433 MP:186/195
+Equipo de Aleph (J2)
+A-Aleph HP:1299/1309 MP:613/613
+B-Gu Huo Niao HP:86/122 MP:117/117
+C-Gurulu HP:371/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Asherah
+2-Balor
+3-Okiku-Mushi
+4-Yu
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Aleph HP:1299/1309 MP:613/613
+2-Gu Huo Niao HP:86/122 MP:117/117
+3-Gurulu HP:371/371 MP:155/166
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Asherah ataca a Gurulu
+Gurulu recibe 35 de daño
+Gurulu termina con HP:336/371
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:177/597 MP:347/347
+B-Balor HP:480/492 MP:98/98
+C-Okiku-Mushi HP:116/273 MP:121/121
+D-Asherah HP:303/433 MP:186/195
+Equipo de Aleph (J2)
+A-Aleph HP:1299/1309 MP:613/613
+B-Gu Huo Niao HP:86/122 MP:117/117
+C-Gurulu HP:336/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Balor
+2-Okiku-Mushi
+3-Yu
+4-Asherah
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:350/350 MP:68/68
+2-Kikuri-Hime HP:216/216 MP:210/210
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:350/350 MP:68/68
+2-Kikuri-Hime HP:216/216 MP:210/210
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Balor use
+1-Agidyne MP:14
+2-Titanomachia MP:30
+3-Mamudo MP:18
+4-Zandyne MP:14
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Balor
+1-Aleph HP:1299/1309 MP:613/613
+2-Gu Huo Niao HP:86/122 MP:117/117
+3-Gurulu HP:336/371 MP:155/166
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Balor lanza viento a Gurulu
+Gurulu devuelve 93 daño a Balor
+Balor termina con HP:387/492
+----------------------------------------
+Se han consumido 3 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:177/597 MP:347/347
+B-Balor HP:387/492 MP:84/98
+C-Okiku-Mushi HP:116/273 MP:121/121
+D-Asherah HP:303/433 MP:186/195
+Equipo de Aleph (J2)
+A-Aleph HP:1299/1309 MP:613/613
+B-Gu Huo Niao HP:86/122 MP:117/117
+C-Gurulu HP:336/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Gurulu
+3-Gu Huo Niao
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:177/597 MP:347/347
+B-Balor HP:387/492 MP:84/98
+C-Okiku-Mushi HP:116/273 MP:121/121
+D-Asherah HP:303/433 MP:186/195
+Equipo de Aleph (J2)
+A-Aleph HP:1299/1309 MP:613/613
+B-Gu Huo Niao HP:86/122 MP:117/117
+C-Gurulu HP:336/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Gurulu
+2-Gu Huo Niao
+3-Aleph
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:177/597 MP:347/347
+B-Balor HP:387/492 MP:84/98
+C-Okiku-Mushi HP:116/273 MP:121/121
+D-Asherah HP:303/433 MP:186/195
+Equipo de Aleph (J2)
+A-Aleph HP:1299/1309 MP:613/613
+B-Gu Huo Niao HP:86/122 MP:117/117
+C-Gurulu HP:336/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gu Huo Niao
+2-Aleph
+3-Gurulu
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Gu Huo Niao use
+1-Agilao MP:8
+2-Patra MP:5
+3-Lullaby MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Gu Huo Niao use
+1-Agilao MP:8
+2-Patra MP:5
+3-Lullaby MP:11
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gu Huo Niao
+1-Yu HP:177/597 MP:347/347
+2-Balor HP:387/492 MP:84/98
+3-Okiku-Mushi HP:116/273 MP:121/121
+4-Asherah HP:303/433 MP:186/195
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Gu Huo Niao lanza fuego a Balor
+Balor bloquea el ataque de Gu Huo Niao
+Balor termina con HP:387/492
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:177/597 MP:347/347
+B-Balor HP:387/492 MP:84/98
+C-Okiku-Mushi HP:116/273 MP:121/121
+D-Asherah HP:303/433 MP:186/195
+Equipo de Aleph (J2)
+A-Aleph HP:1299/1309 MP:613/613
+B-Gu Huo Niao HP:86/122 MP:109/117
+C-Gurulu HP:336/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Asherah
+3-Balor
+4-Okiku-Mushi
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Aleph HP:1299/1309 MP:613/613
+2-Gu Huo Niao HP:86/122 MP:109/117
+3-Gurulu HP:336/371 MP:155/166
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Aleph HP:1299/1309 MP:613/613
+2-Gu Huo Niao HP:86/122 MP:109/117
+3-Gurulu HP:336/371 MP:155/166
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Yu dispara a Gu Huo Niao
+Gu Huo Niao devuelve 72 daño a Yu
+Yu termina con HP:105/597
+----------------------------------------
+Se han consumido 4 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:105/597 MP:347/347
+B-Balor HP:387/492 MP:84/98
+C-Okiku-Mushi HP:116/273 MP:121/121
+D-Asherah HP:303/433 MP:186/195
+Equipo de Aleph (J2)
+A-Aleph HP:1299/1309 MP:613/613
+B-Gu Huo Niao HP:86/122 MP:109/117
+C-Gurulu HP:336/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Gurulu
+3-Gu Huo Niao
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:105/597 MP:347/347
+B-Balor HP:387/492 MP:84/98
+C-Okiku-Mushi HP:116/273 MP:121/121
+D-Asherah HP:303/433 MP:186/195
+Equipo de Aleph (J2)
+A-Aleph HP:1299/1309 MP:613/613
+B-Gu Huo Niao HP:86/122 MP:109/117
+C-Gurulu HP:336/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Gurulu
+2-Gu Huo Niao
+3-Aleph
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gurulu
+1-Yu HP:105/597 MP:347/347
+2-Balor HP:387/492 MP:84/98
+3-Okiku-Mushi HP:116/273 MP:121/121
+4-Asherah HP:303/433 MP:186/195
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Gurulu ataca a Asherah
+Asherah recibe 30 de daño
+Asherah termina con HP:273/433
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:105/597 MP:347/347
+B-Balor HP:387/492 MP:84/98
+C-Okiku-Mushi HP:116/273 MP:121/121
+D-Asherah HP:273/433 MP:186/195
+Equipo de Aleph (J2)
+A-Aleph HP:1299/1309 MP:613/613
+B-Gu Huo Niao HP:86/122 MP:109/117
+C-Gurulu HP:336/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gu Huo Niao
+2-Aleph
+3-Gurulu
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gu Huo Niao
+1-Yu HP:105/597 MP:347/347
+2-Balor HP:387/492 MP:84/98
+3-Okiku-Mushi HP:116/273 MP:121/121
+4-Asherah HP:273/433 MP:186/195
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Gu Huo Niao ataca a Yu
+Yu es resistente el ataque de Gu Huo Niao
+Yu recibe 6 de daño
+Yu termina con HP:99/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:99/597 MP:347/347
+B-Balor HP:387/492 MP:84/98
+C-Okiku-Mushi HP:116/273 MP:121/121
+D-Asherah HP:273/433 MP:186/195
+Equipo de Aleph (J2)
+A-Aleph HP:1299/1309 MP:613/613
+B-Gu Huo Niao HP:86/122 MP:109/117
+C-Gurulu HP:336/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Gurulu
+3-Gu Huo Niao
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Yu HP:99/597 MP:347/347
+2-Balor HP:387/492 MP:84/98
+3-Okiku-Mushi HP:116/273 MP:121/121
+4-Asherah HP:273/433 MP:186/195
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Aleph ataca a Okiku-Mushi
+Okiku-Mushi recibe 157 de daño
+Okiku-Mushi termina con HP:0/273
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:99/597 MP:347/347
+B-Balor HP:387/492 MP:84/98
+C-
+D-Asherah HP:273/433 MP:186/195
+Equipo de Aleph (J2)
+A-Aleph HP:1299/1309 MP:613/613
+B-Gu Huo Niao HP:86/122 MP:109/117
+C-Gurulu HP:336/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Asherah
+3-Balor
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:99/597 MP:347/347
+B-Balor HP:387/492 MP:84/98
+C-
+D-Asherah HP:273/433 MP:186/195
+Equipo de Aleph (J2)
+A-Aleph HP:1299/1309 MP:613/613
+B-Gu Huo Niao HP:86/122 MP:109/117
+C-Gurulu HP:336/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Asherah
+2-Balor
+3-Yu
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Aleph HP:1299/1309 MP:613/613
+2-Gu Huo Niao HP:86/122 MP:109/117
+3-Gurulu HP:336/371 MP:155/166
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Aleph HP:1299/1309 MP:613/613
+2-Gu Huo Niao HP:86/122 MP:109/117
+3-Gurulu HP:336/371 MP:155/166
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Asherah ataca a Gu Huo Niao
+Gu Huo Niao recibe 35 de daño
+Gu Huo Niao termina con HP:51/122
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:99/597 MP:347/347
+B-Balor HP:387/492 MP:84/98
+C-
+D-Asherah HP:273/433 MP:186/195
+Equipo de Aleph (J2)
+A-Aleph HP:1299/1309 MP:613/613
+B-Gu Huo Niao HP:51/122 MP:109/117
+C-Gurulu HP:336/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Balor
+2-Yu
+3-Asherah
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:99/597 MP:347/347
+B-Balor HP:387/492 MP:84/98
+C-
+D-Asherah HP:273/433 MP:186/195
+Equipo de Aleph (J2)
+A-Aleph HP:1299/1309 MP:613/613
+B-Gu Huo Niao HP:51/122 MP:109/117
+C-Gurulu HP:336/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Asherah
+3-Balor
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:99/597 MP:347/347
+B-Balor HP:387/492 MP:84/98
+C-
+D-Asherah HP:273/433 MP:186/195
+Equipo de Aleph (J2)
+A-Aleph HP:1299/1309 MP:613/613
+B-Gu Huo Niao HP:51/122 MP:109/117
+C-Gurulu HP:336/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Balor
+3-Yu
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:350/350 MP:68/68
+2-Kikuri-Hime HP:216/216 MP:210/210
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Sedna ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:99/597 MP:347/347
+B-Balor HP:387/492 MP:84/98
+C-
+D-Sedna HP:350/350 MP:68/68
+Equipo de Aleph (J2)
+A-Aleph HP:1299/1309 MP:613/613
+B-Gu Huo Niao HP:51/122 MP:109/117
+C-Gurulu HP:336/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Balor
+2-Yu
+3-Sedna
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Balor use
+1-Agidyne MP:14
+2-Titanomachia MP:30
+3-Mamudo MP:18
+4-Zandyne MP:14
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Balor
+1-Aleph HP:1299/1309 MP:613/613
+2-Gu Huo Niao HP:51/122 MP:109/117
+3-Gurulu HP:336/371 MP:155/166
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Balor use
+1-Agidyne MP:14
+2-Titanomachia MP:30
+3-Mamudo MP:18
+4-Zandyne MP:14
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Balor
+1-Aleph HP:1299/1309 MP:613/613
+2-Gu Huo Niao HP:51/122 MP:109/117
+3-Gurulu HP:336/371 MP:155/166
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Balor lanza viento a Aleph
+Aleph recibe 93 de daño
+Aleph termina con HP:1206/1309
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:99/597 MP:347/347
+B-Balor HP:387/492 MP:70/98
+C-
+D-Sedna HP:350/350 MP:68/68
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:613/613
+B-Gu Huo Niao HP:51/122 MP:109/117
+C-Gurulu HP:336/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Gurulu
+3-Gu Huo Niao
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Agidyne MP:14
+2-Fatal Sword MP:8
+3-Sabbatma MP:20
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Yu HP:99/597 MP:347/347
+2-Balor HP:387/492 MP:70/98
+3-Sedna HP:350/350 MP:68/68
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:99/597 MP:347/347
+B-Balor HP:387/492 MP:70/98
+C-
+D-Sedna HP:350/350 MP:68/68
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:613/613
+B-Gu Huo Niao HP:51/122 MP:109/117
+C-Gurulu HP:336/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Gurulu
+2-Gu Huo Niao
+3-Aleph
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:99/597 MP:347/347
+B-Balor HP:387/492 MP:70/98
+C-
+D-Sedna HP:350/350 MP:68/68
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:613/613
+B-Gu Huo Niao HP:51/122 MP:109/117
+C-Gurulu HP:336/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gu Huo Niao
+2-Aleph
+3-Gurulu
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gu Huo Niao
+1-Yu HP:99/597 MP:347/347
+2-Balor HP:387/492 MP:70/98
+3-Sedna HP:350/350 MP:68/68
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Gu Huo Niao ataca a Yu
+Yu es resistente el ataque de Gu Huo Niao
+Yu recibe 6 de daño
+Yu termina con HP:93/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:93/597 MP:347/347
+B-Balor HP:387/492 MP:70/98
+C-
+D-Sedna HP:350/350 MP:68/68
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:613/613
+B-Gu Huo Niao HP:51/122 MP:109/117
+C-Gurulu HP:336/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Gurulu
+3-Gu Huo Niao
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Agidyne MP:14
+2-Fatal Sword MP:8
+3-Sabbatma MP:20
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:93/597 MP:347/347
+B-Balor HP:387/492 MP:70/98
+C-
+D-Sedna HP:350/350 MP:68/68
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:613/613
+B-Gu Huo Niao HP:51/122 MP:109/117
+C-Gurulu HP:336/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Gurulu
+2-Gu Huo Niao
+3-Aleph
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gurulu
+1-Yu HP:93/597 MP:347/347
+2-Balor HP:387/492 MP:70/98
+3-Sedna HP:350/350 MP:68/68
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Gurulu ataca a Sedna
+Sedna recibe 30 de daño
+Sedna termina con HP:320/350
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:93/597 MP:347/347
+B-Balor HP:387/492 MP:70/98
+C-
+D-Sedna HP:320/350 MP:68/68
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:613/613
+B-Gu Huo Niao HP:51/122 MP:109/117
+C-Gurulu HP:336/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Balor
+3-Sedna
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Agilao MP:8
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Aleph HP:1206/1309 MP:613/613
+2-Gu Huo Niao HP:51/122 MP:109/117
+3-Gurulu HP:336/371 MP:155/166
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Yu lanza fuego a Gu Huo Niao
+Gu Huo Niao recibe 105 de daño
+Gu Huo Niao termina con HP:0/122
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:93/597 MP:339/347
+B-Balor HP:387/492 MP:70/98
+C-
+D-Sedna HP:320/350 MP:68/68
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:613/613
+B-
+C-Gurulu HP:336/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Balor
+2-Sedna
+3-Yu
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kikuri-Hime HP:216/216 MP:210/210
+2-Asherah HP:273/433 MP:186/195
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kikuri-Hime ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:93/597 MP:339/347
+B-Kikuri-Hime HP:216/216 MP:210/210
+C-
+D-Sedna HP:320/350 MP:68/68
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:613/613
+B-
+C-Gurulu HP:336/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sedna
+2-Yu
+3-Kikuri-Hime
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sedna use
+1-Mabufula MP:20
+2-Mamudo MP:18
+3-Posumudi MP:5
+4-Diarama MP:9
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sedna use
+1-Mabufula MP:20
+2-Mamudo MP:18
+3-Posumudi MP:5
+4-Diarama MP:9
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Yu HP:93/597 MP:339/347
+2-Kikuri-Hime HP:216/216 MP:210/210
+3-Sedna HP:320/350 MP:68/68
+4-Balor HP:387/492 MP:70/98
+5-Asherah HP:273/433 MP:186/195
+6-Cancelar
+INPUT: 1
+----------------------------------------
+Sedna cura a Yu
+Yu recibe 298 de HP
+Yu termina con HP:391/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:391/597 MP:339/347
+B-Kikuri-Hime HP:216/216 MP:210/210
+C-
+D-Sedna HP:320/350 MP:59/68
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:613/613
+B-
+C-Gurulu HP:336/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Kikuri-Hime
+3-Sedna
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Agilao MP:8
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:391/597 MP:339/347
+B-Kikuri-Hime HP:216/216 MP:210/210
+C-
+D-Sedna HP:320/350 MP:59/68
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:613/613
+B-
+C-Gurulu HP:336/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kikuri-Hime
+2-Sedna
+3-Yu
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kikuri-Hime use
+1-Tetraja MP:15
+2-Me Patra MP:15
+3-Diarama MP:9
+4-Recarm MP:20
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kikuri-Hime
+1-Aleph HP:1206/1309 MP:613/613
+2-Gurulu HP:336/371 MP:155/166
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kikuri-Hime ataca a Gurulu
+Gurulu recibe 22 de daño
+Gurulu termina con HP:314/371
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:391/597 MP:339/347
+B-Kikuri-Hime HP:216/216 MP:210/210
+C-
+D-Sedna HP:320/350 MP:59/68
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:613/613
+B-
+C-Gurulu HP:314/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Gurulu
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:391/597 MP:339/347
+B-Kikuri-Hime HP:216/216 MP:210/210
+C-
+D-Sedna HP:320/350 MP:59/68
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:613/613
+B-
+C-Gurulu HP:314/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Gurulu
+2-Aleph
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:391/597 MP:339/347
+B-Kikuri-Hime HP:216/216 MP:210/210
+C-
+D-Sedna HP:320/350 MP:59/68
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:613/613
+B-
+C-Gurulu HP:314/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Gurulu
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Agidyne MP:14
+2-Fatal Sword MP:8
+3-Sabbatma MP:20
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Agidyne MP:14
+2-Fatal Sword MP:8
+3-Sabbatma MP:20
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Yu HP:391/597 MP:339/347
+2-Kikuri-Hime HP:216/216 MP:210/210
+3-Sedna HP:320/350 MP:59/68
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Aleph lanza fuego a Sedna
+Sedna es débil contra el ataque de Aleph
+Sedna recibe 190 de daño
+Sedna termina con HP:130/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:391/597 MP:339/347
+B-Kikuri-Hime HP:216/216 MP:210/210
+C-
+D-Sedna HP:130/350 MP:59/68
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:599/613
+B-
+C-Gurulu HP:314/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Gurulu
+2-Aleph
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Gurulu use
+1-Mazanma MP:20
+2-Axel Claw MP:15
+3-Nihil Claw MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:391/597 MP:339/347
+B-Kikuri-Hime HP:216/216 MP:210/210
+C-
+D-Sedna HP:130/350 MP:59/68
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:599/613
+B-
+C-Gurulu HP:314/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Kikuri-Hime
+3-Sedna
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:391/597 MP:339/347
+B-Kikuri-Hime HP:216/216 MP:210/210
+C-
+D-Sedna HP:130/350 MP:59/68
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:599/613
+B-
+C-Gurulu HP:314/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kikuri-Hime
+2-Sedna
+3-Yu
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:391/597 MP:339/347
+B-Kikuri-Hime HP:216/216 MP:210/210
+C-
+D-Sedna HP:130/350 MP:59/68
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:599/613
+B-
+C-Gurulu HP:314/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sedna
+2-Yu
+3-Kikuri-Hime
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:391/597 MP:339/347
+B-Kikuri-Hime HP:216/216 MP:210/210
+C-
+D-Sedna HP:130/350 MP:59/68
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:599/613
+B-
+C-Gurulu HP:314/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Kikuri-Hime
+3-Sedna
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Aleph HP:1206/1309 MP:599/613
+2-Gurulu HP:314/371 MP:155/166
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Yu dispara a Aleph
+Aleph bloquea el ataque de Yu
+Aleph termina con HP:1206/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:391/597 MP:339/347
+B-Kikuri-Hime HP:216/216 MP:210/210
+C-
+D-Sedna HP:130/350 MP:59/68
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:599/613
+B-
+C-Gurulu HP:314/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Gurulu
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Yu HP:391/597 MP:339/347
+2-Kikuri-Hime HP:216/216 MP:210/210
+3-Sedna HP:130/350 MP:59/68
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Aleph ataca a Sedna
+Sedna recibe 157 de daño
+Sedna termina con HP:0/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:391/597 MP:339/347
+B-Kikuri-Hime HP:216/216 MP:210/210
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:599/613
+B-
+C-Gurulu HP:314/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gurulu
+2-Aleph
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gurulu
+1-Yu HP:391/597 MP:339/347
+2-Kikuri-Hime HP:216/216 MP:210/210
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Gurulu ataca a Kikuri-Hime
+Kikuri-Hime recibe 30 de daño
+Kikuri-Hime termina con HP:186/216
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:391/597 MP:339/347
+B-Kikuri-Hime HP:186/216 MP:210/210
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:599/613
+B-
+C-Gurulu HP:314/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Kikuri-Hime
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Aleph HP:1206/1309 MP:599/613
+2-Gurulu HP:314/371 MP:155/166
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Balor HP:387/492 MP:70/98
+2-Asherah HP:273/433 MP:186/195
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Kikuri-Hime HP:186/216 MP:210/210 (Puesto 2)
+2-Vacío (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Asherah ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:391/597 MP:339/347
+B-Kikuri-Hime HP:186/216 MP:210/210
+C-
+D-Asherah HP:273/433 MP:186/195
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:599/613
+B-
+C-Gurulu HP:314/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kikuri-Hime
+2-Asherah
+3-Yu
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:391/597 MP:339/347
+B-Kikuri-Hime HP:186/216 MP:210/210
+C-
+D-Asherah HP:273/433 MP:186/195
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:599/613
+B-
+C-Gurulu HP:314/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Yu
+3-Kikuri-Hime
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:391/597 MP:339/347
+B-Kikuri-Hime HP:186/216 MP:210/210
+C-
+D-Asherah HP:273/433 MP:186/195
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:599/613
+B-
+C-Gurulu HP:314/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Kikuri-Hime
+3-Asherah
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:391/597 MP:339/347
+B-Kikuri-Hime HP:186/216 MP:210/210
+C-
+D-Asherah HP:273/433 MP:186/195
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:599/613
+B-
+C-Gurulu HP:314/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Gurulu
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Yu HP:391/597 MP:339/347
+2-Kikuri-Hime HP:186/216 MP:210/210
+3-Asherah HP:273/433 MP:186/195
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph ataca a Yu
+Yu es resistente el ataque de Aleph
+Yu recibe 78 de daño
+Yu termina con HP:313/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:313/597 MP:339/347
+B-Kikuri-Hime HP:186/216 MP:210/210
+C-
+D-Asherah HP:273/433 MP:186/195
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:599/613
+B-
+C-Gurulu HP:314/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gurulu
+2-Aleph
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gurulu
+1-Yu HP:313/597 MP:339/347
+2-Kikuri-Hime HP:186/216 MP:210/210
+3-Asherah HP:273/433 MP:186/195
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Gurulu ataca a Kikuri-Hime
+Kikuri-Hime recibe 30 de daño
+Kikuri-Hime termina con HP:156/216
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:313/597 MP:339/347
+B-Kikuri-Hime HP:156/216 MP:210/210
+C-
+D-Asherah HP:273/433 MP:186/195
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:599/613
+B-
+C-Gurulu HP:314/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Asherah
+3-Kikuri-Hime
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Balor HP:387/492 MP:70/98
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Kikuri-Hime HP:156/216 MP:210/210 (Puesto 2)
+2-Vacío (Puesto 3)
+3-Asherah HP:273/433 MP:186/195 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Balor ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:313/597 MP:339/347
+B-Kikuri-Hime HP:156/216 MP:210/210
+C-
+D-Balor HP:387/492 MP:70/98
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:599/613
+B-
+C-Gurulu HP:314/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Balor
+2-Kikuri-Hime
+3-Yu
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Balor
+1-Aleph HP:1206/1309 MP:599/613
+2-Gurulu HP:314/371 MP:155/166
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Balor ataca a Gurulu
+Gurulu recibe 36 de daño
+Gurulu termina con HP:278/371
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:313/597 MP:339/347
+B-Kikuri-Hime HP:156/216 MP:210/210
+C-
+D-Balor HP:387/492 MP:70/98
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:599/613
+B-
+C-Gurulu HP:278/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kikuri-Hime
+2-Yu
+3-Balor
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Asherah HP:273/433 MP:186/195
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kikuri-Hime
+1-Aleph HP:1206/1309 MP:599/613
+2-Gurulu HP:278/371 MP:155/166
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kikuri-Hime ataca a Gurulu
+Gurulu recibe 22 de daño
+Gurulu termina con HP:256/371
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:313/597 MP:339/347
+B-Kikuri-Hime HP:156/216 MP:210/210
+C-
+D-Balor HP:387/492 MP:70/98
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:599/613
+B-
+C-Gurulu HP:256/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Balor
+3-Kikuri-Hime
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Asherah HP:273/433 MP:186/195
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Aleph HP:1206/1309 MP:599/613
+2-Gurulu HP:256/371 MP:155/166
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Yu ataca a Gurulu
+Gurulu recibe 49 de daño
+Gurulu termina con HP:207/371
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:313/597 MP:339/347
+B-Kikuri-Hime HP:156/216 MP:210/210
+C-
+D-Balor HP:387/492 MP:70/98
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:599/613
+B-
+C-Gurulu HP:207/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Gurulu
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Yu HP:313/597 MP:339/347
+2-Kikuri-Hime HP:156/216 MP:210/210
+3-Balor HP:387/492 MP:70/98
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Aleph dispara a Balor
+Balor recibe 276 de daño
+Balor termina con HP:111/492
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:313/597 MP:339/347
+B-Kikuri-Hime HP:156/216 MP:210/210
+C-
+D-Balor HP:111/492 MP:70/98
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:599/613
+B-
+C-Gurulu HP:207/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gurulu
+2-Aleph
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gurulu
+1-Yu HP:313/597 MP:339/347
+2-Kikuri-Hime HP:156/216 MP:210/210
+3-Balor HP:111/492 MP:70/98
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gurulu
+1-Yu HP:313/597 MP:339/347
+2-Kikuri-Hime HP:156/216 MP:210/210
+3-Balor HP:111/492 MP:70/98
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Gurulu ataca a Balor
+Balor recibe 30 de daño
+Balor termina con HP:81/492
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:313/597 MP:339/347
+B-Kikuri-Hime HP:156/216 MP:210/210
+C-
+D-Balor HP:81/492 MP:70/98
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:599/613
+B-
+C-Gurulu HP:207/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Balor
+3-Kikuri-Hime
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:313/597 MP:339/347
+B-Kikuri-Hime HP:156/216 MP:210/210
+C-
+D-Balor HP:81/492 MP:70/98
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:599/613
+B-
+C-Gurulu HP:207/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Balor
+2-Kikuri-Hime
+3-Yu
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Balor use
+1-Agidyne MP:14
+2-Titanomachia MP:30
+3-Mamudo MP:18
+4-Zandyne MP:14
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Balor
+1-Aleph HP:1206/1309 MP:599/613
+2-Gurulu HP:207/371 MP:155/166
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Balor lanza viento a Gurulu
+Gurulu devuelve 93 daño a Balor
+Balor termina con HP:0/492
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:313/597 MP:339/347
+B-Kikuri-Hime HP:156/216 MP:210/210
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:599/613
+B-
+C-Gurulu HP:207/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Gurulu
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Agidyne MP:14
+2-Fatal Sword MP:8
+3-Sabbatma MP:20
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Yu HP:313/597 MP:339/347
+2-Kikuri-Hime HP:156/216 MP:210/210
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Aleph ataca a Kikuri-Hime
+Kikuri-Hime recibe 202 de daño
+Kikuri-Hime termina con HP:0/216
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:313/597 MP:339/347
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:591/613
+B-
+C-Gurulu HP:207/371 MP:155/166
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gurulu
+2-Aleph
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gurulu
+1-Yu HP:313/597 MP:339/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Gurulu use
+1-Mazanma MP:20
+2-Axel Claw MP:15
+3-Nihil Claw MP:11
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Gurulu
+1-Yu HP:313/597 MP:339/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Gurulu ataca a Yu
+Yu es resistente el ataque de Gurulu
+Yu recibe 51 de daño
+Gurulu ataca a Yu
+Yu es resistente el ataque de Gurulu
+Yu recibe 51 de daño
+Yu termina con HP:211/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:211/597 MP:339/347
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:591/613
+B-
+C-Gurulu HP:207/371 MP:140/166
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:211/597 MP:339/347
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:591/613
+B-
+C-Gurulu HP:207/371 MP:140/166
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Aleph HP:1206/1309 MP:591/613
+2-Gurulu HP:207/371 MP:140/166
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Yu dispara a Aleph
+Aleph bloquea el ataque de Yu
+Aleph termina con HP:1206/1309
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:211/597 MP:339/347
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:591/613
+B-
+C-Gurulu HP:207/371 MP:140/166
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Gurulu
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:211/597 MP:339/347
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:591/613
+B-
+C-Gurulu HP:207/371 MP:140/166
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Gurulu
+2-Aleph
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Gurulu use
+1-Mazanma MP:20
+2-Axel Claw MP:15
+3-Nihil Claw MP:11
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Gurulu
+1-Yu HP:211/597 MP:339/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Gurulu ataca a Yu
+Yu es resistente el ataque de Gurulu
+Yu recibe 53 de daño
+Gurulu ataca a Yu
+Yu es resistente el ataque de Gurulu
+Yu recibe 53 de daño
+Gurulu ataca a Yu
+Yu es resistente el ataque de Gurulu
+Yu recibe 53 de daño
+Yu termina con HP:52/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:52/597 MP:339/347
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:591/613
+B-
+C-Gurulu HP:207/371 MP:129/166
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Gurulu
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Agidyne MP:14
+2-Fatal Sword MP:8
+3-Sabbatma MP:20
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Yu HP:52/597 MP:339/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:52/597 MP:339/347
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:591/613
+B-
+C-Gurulu HP:207/371 MP:129/166
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Gurulu
+2-Aleph
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Gurulu use
+1-Mazanma MP:20
+2-Axel Claw MP:15
+3-Nihil Claw MP:11
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Gurulu
+1-Yu HP:52/597 MP:339/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gurulu
+1-Yu HP:52/597 MP:339/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Gurulu ataca a Yu
+Yu es resistente el ataque de Gurulu
+Yu recibe 15 de daño
+Yu termina con HP:37/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:37/597 MP:339/347
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:591/613
+B-
+C-Gurulu HP:207/371 MP:129/166
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Aleph HP:1206/1309 MP:591/613
+2-Gurulu HP:207/371 MP:129/166
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Aleph HP:1206/1309 MP:591/613
+2-Gurulu HP:207/371 MP:129/166
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Yu ataca a Gurulu
+Gurulu recibe 49 de daño
+Gurulu termina con HP:158/371
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:37/597 MP:339/347
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1206/1309 MP:591/613
+B-
+C-Gurulu HP:158/371 MP:129/166
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Gurulu
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Yu HP:37/597 MP:339/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Yu HP:37/597 MP:339/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph dispara a Yu
+Yu recibe 276 de daño
+Yu termina con HP:0/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Aleph (J2)

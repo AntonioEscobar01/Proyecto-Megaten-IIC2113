@@ -1,0 +1,5554 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+120: 121.txt
+121: 122.txt
+122: 123.txt
+123: 124.txt
+124: 125.txt
+125: 126.txt
+126: 127.txt
+127: 128.txt
+128: 129.txt
+129: 130.txt
+130: 131.txt
+131: 132.txt
+132: 133.txt
+133: 134.txt
+134: 135.txt
+135: 136.txt
+136: 137.txt
+137: 138.txt
+138: 139.txt
+139: 140.txt
+140: 141.txt
+141: 142.txt
+142: 143.txt
+143: 144.txt
+144: 145.txt
+145: 146.txt
+146: 147.txt
+147: 148.txt
+148: 149.txt
+149: 150.txt
+150: 151.txt
+151: 152.txt
+152: 153.txt
+153: 154.txt
+154: 155.txt
+155: 156.txt
+156: 157.txt
+157: 158.txt
+158: 159.txt
+159: 160.txt
+160: 161.txt
+161: 162.txt
+162: 163.txt
+163: 164.txt
+164: 165.txt
+165: 166.txt
+166: 167.txt
+167: 168.txt
+168: 169.txt
+169: 170.txt
+170: 171.txt
+171: 172.txt
+172: 173.txt
+173: 174.txt
+174: 175.txt
+175: 176.txt
+176: 177.txt
+177: 178.txt
+178: 179.txt
+179: 180.txt
+180: 181.txt
+181: 182.txt
+182: 183.txt
+183: 184.txt
+184: 185.txt
+185: 186.txt
+186: 187.txt
+187: 188.txt
+188: 189.txt
+189: 190.txt
+190: 191.txt
+191: 192.txt
+192: 193.txt
+193: 194.txt
+194: 195.txt
+195: 196.txt
+196: 197.txt
+197: 198.txt
+198: 199.txt
+199: 200.txt
+INPUT: 29
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Aniel HP:567/567 MP:255/255
+C-Kama HP:574/574 MP:257/257
+D-Bilwis HP:161/161 MP:31/31
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Pale Rider HP:693/693 MP:310/310
+C-Mithras HP:293/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Kama
+3-Aniel
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:804/804 MP:160/160
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Aniel HP:567/567 MP:255/255 (Puesto 2)
+2-Kama HP:574/574 MP:257/257 (Puesto 3)
+3-Bilwis HP:161/161 MP:31/31 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Demonee-Ho ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Kama HP:574/574 MP:257/257
+D-Bilwis HP:161/161 MP:31/31
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Pale Rider HP:693/693 MP:310/310
+C-Mithras HP:293/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kama
+2-Demonee-Ho
+3-Bilwis
+4-Flynn
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Kama HP:574/574 MP:257/257
+D-Bilwis HP:161/161 MP:31/31
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Pale Rider HP:693/693 MP:310/310
+C-Mithras HP:293/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Bilwis
+3-Flynn
+4-Kama
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Kama HP:574/574 MP:257/257
+D-Bilwis HP:161/161 MP:31/31
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Pale Rider HP:693/693 MP:310/310
+C-Mithras HP:293/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Bilwis
+2-Flynn
+3-Kama
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bilwis
+1-Kei HP:760/760 MP:398/398
+2-Pale Rider HP:693/693 MP:310/310
+3-Mithras HP:293/293 MP:58/58
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Bilwis use
+1-Poison Claw MP:9
+2-Dia MP:5
+3-Lunge MP:6
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Bilwis
+1-Kei HP:760/760 MP:398/398
+2-Pale Rider HP:693/693 MP:310/310
+3-Mithras HP:293/293 MP:58/58
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Bilwis ataca a Pale Rider
+Pale Rider recibe 34 de daño
+Pale Rider termina con HP:659/693
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Kama HP:574/574 MP:257/257
+D-Bilwis HP:161/161 MP:25/31
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Pale Rider HP:659/693 MP:310/310
+C-Mithras HP:293/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Kama
+3-Demonee-Ho
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:760/760 MP:398/398
+2-Pale Rider HP:659/693 MP:310/310
+3-Mithras HP:293/293 MP:58/58
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Kei
+Kei es resistente el ataque de Flynn
+Kei recibe 55 de daño
+Kei termina con HP:705/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Kama HP:574/574 MP:257/257
+D-Bilwis HP:161/161 MP:25/31
+Equipo de Kei (J2)
+A-Kei HP:705/760 MP:398/398
+B-Pale Rider HP:659/693 MP:310/310
+C-Mithras HP:293/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Demonee-Ho
+3-Bilwis
+4-Flynn
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Kei HP:705/760 MP:398/398
+2-Pale Rider HP:659/693 MP:310/310
+3-Mithras HP:293/293 MP:58/58
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Kama ataca a Pale Rider
+Pale Rider recibe 48 de daño
+Pale Rider termina con HP:611/693
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Kama HP:574/574 MP:257/257
+D-Bilwis HP:161/161 MP:25/31
+Equipo de Kei (J2)
+A-Kei HP:705/760 MP:398/398
+B-Pale Rider HP:611/693 MP:310/310
+C-Mithras HP:293/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Mithras
+3-Kei
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Flynn HP:971/971 MP:527/527
+2-Demonee-Ho HP:804/804 MP:160/160
+3-Kama HP:574/574 MP:257/257
+4-Bilwis HP:161/161 MP:25/31
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Pale Rider ataca a Bilwis
+Bilwis recibe 58 de daño
+Bilwis termina con HP:103/161
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Kama HP:574/574 MP:257/257
+D-Bilwis HP:103/161 MP:25/31
+Equipo de Kei (J2)
+A-Kei HP:705/760 MP:398/398
+B-Pale Rider HP:611/693 MP:310/310
+C-Mithras HP:293/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mithras
+2-Kei
+3-Pale Rider
+----------------------------------------
+Seleccione una acción para Mithras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mithras use
+1-Mahama MP:18
+2-Heat Wave MP:11
+3-Rakunda MP:15
+4-Fatal Sword MP:8
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Mithras
+1-Flynn HP:971/971 MP:527/527
+2-Demonee-Ho HP:804/804 MP:160/160
+3-Kama HP:574/574 MP:257/257
+4-Bilwis HP:103/161 MP:25/31
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Mithras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mithras
+1-Flynn HP:971/971 MP:527/527
+2-Demonee-Ho HP:804/804 MP:160/160
+3-Kama HP:574/574 MP:257/257
+4-Bilwis HP:103/161 MP:25/31
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Mithras ataca a Flynn
+Flynn recibe 20 de daño
+Flynn termina con HP:951/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:951/971 MP:527/527
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Kama HP:574/574 MP:257/257
+D-Bilwis HP:103/161 MP:25/31
+Equipo de Kei (J2)
+A-Kei HP:705/760 MP:398/398
+B-Pale Rider HP:611/693 MP:310/310
+C-Mithras HP:293/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Pale Rider
+3-Mithras
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Flynn HP:951/971 MP:527/527
+2-Demonee-Ho HP:804/804 MP:160/160
+3-Kama HP:574/574 MP:257/257
+4-Bilwis HP:103/161 MP:25/31
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kei dispara a Kama
+Kama bloquea el ataque de Kei
+Kama termina con HP:574/574
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:951/971 MP:527/527
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Kama HP:574/574 MP:257/257
+D-Bilwis HP:103/161 MP:25/31
+Equipo de Kei (J2)
+A-Kei HP:705/760 MP:398/398
+B-Pale Rider HP:611/693 MP:310/310
+C-Mithras HP:293/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Kama
+3-Demonee-Ho
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:951/971 MP:527/527
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Kama HP:574/574 MP:257/257
+D-Bilwis HP:103/161 MP:25/31
+Equipo de Kei (J2)
+A-Kei HP:705/760 MP:398/398
+B-Pale Rider HP:611/693 MP:310/310
+C-Mithras HP:293/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kama
+2-Demonee-Ho
+3-Bilwis
+4-Flynn
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Kei HP:705/760 MP:398/398
+2-Pale Rider HP:611/693 MP:310/310
+3-Mithras HP:293/293 MP:58/58
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Kama ataca a Pale Rider
+Pale Rider recibe 48 de daño
+Pale Rider termina con HP:563/693
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:951/971 MP:527/527
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Kama HP:574/574 MP:257/257
+D-Bilwis HP:103/161 MP:25/31
+Equipo de Kei (J2)
+A-Kei HP:705/760 MP:398/398
+B-Pale Rider HP:563/693 MP:310/310
+C-Mithras HP:293/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Bilwis
+3-Flynn
+4-Kama
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:951/971 MP:527/527
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Kama HP:574/574 MP:257/257
+D-Bilwis HP:103/161 MP:25/31
+Equipo de Kei (J2)
+A-Kei HP:705/760 MP:398/398
+B-Pale Rider HP:563/693 MP:310/310
+C-Mithras HP:293/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Bilwis
+2-Flynn
+3-Kama
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Bilwis use
+1-Poison Claw MP:9
+2-Dia MP:5
+3-Lunge MP:6
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Bilwis
+1-Kei HP:705/760 MP:398/398
+2-Pale Rider HP:563/693 MP:310/310
+3-Mithras HP:293/293 MP:58/58
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Bilwis ataca a Mithras
+Mithras recibe 34 de daño
+Mithras termina con HP:259/293
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:951/971 MP:527/527
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Kama HP:574/574 MP:257/257
+D-Bilwis HP:103/161 MP:19/31
+Equipo de Kei (J2)
+A-Kei HP:705/760 MP:398/398
+B-Pale Rider HP:563/693 MP:310/310
+C-Mithras HP:259/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Kama
+3-Demonee-Ho
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:705/760 MP:398/398
+2-Pale Rider HP:563/693 MP:310/310
+3-Mithras HP:259/293 MP:58/58
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn ataca a Pale Rider
+Pale Rider recibe 88 de daño
+Pale Rider termina con HP:475/693
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:951/971 MP:527/527
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Kama HP:574/574 MP:257/257
+D-Bilwis HP:103/161 MP:19/31
+Equipo de Kei (J2)
+A-Kei HP:705/760 MP:398/398
+B-Pale Rider HP:475/693 MP:310/310
+C-Mithras HP:259/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Demonee-Ho
+3-Bilwis
+4-Flynn
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Aniel HP:567/567 MP:255/255
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Kei HP:705/760 MP:398/398
+2-Pale Rider HP:475/693 MP:310/310
+3-Mithras HP:259/293 MP:58/58
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Kama ataca a Mithras
+Mithras recibe 48 de daño
+Mithras termina con HP:211/293
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:951/971 MP:527/527
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Kama HP:574/574 MP:257/257
+D-Bilwis HP:103/161 MP:19/31
+Equipo de Kei (J2)
+A-Kei HP:705/760 MP:398/398
+B-Pale Rider HP:475/693 MP:310/310
+C-Mithras HP:211/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Mithras
+3-Kei
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:951/971 MP:527/527
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Kama HP:574/574 MP:257/257
+D-Bilwis HP:103/161 MP:19/31
+Equipo de Kei (J2)
+A-Kei HP:705/760 MP:398/398
+B-Pale Rider HP:475/693 MP:310/310
+C-Mithras HP:211/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mithras
+2-Kei
+3-Pale Rider
+----------------------------------------
+Seleccione una acción para Mithras
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mithras
+1-Flynn HP:951/971 MP:527/527
+2-Demonee-Ho HP:804/804 MP:160/160
+3-Kama HP:574/574 MP:257/257
+4-Bilwis HP:103/161 MP:19/31
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Mithras ataca a Bilwis
+Bilwis recibe 20 de daño
+Bilwis termina con HP:83/161
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:951/971 MP:527/527
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Kama HP:574/574 MP:257/257
+D-Bilwis HP:83/161 MP:19/31
+Equipo de Kei (J2)
+A-Kei HP:705/760 MP:398/398
+B-Pale Rider HP:475/693 MP:310/310
+C-Mithras HP:211/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Pale Rider
+3-Mithras
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Sabbatma MP:20
+2-Zanma MP:8
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Sabbatma MP:20
+2-Zanma MP:8
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Flynn HP:951/971 MP:527/527
+2-Demonee-Ho HP:804/804 MP:160/160
+3-Kama HP:574/574 MP:257/257
+4-Bilwis HP:83/161 MP:19/31
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kei dispara a Kama
+Kama bloquea el ataque de Kei
+Kama termina con HP:574/574
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:951/971 MP:527/527
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Kama HP:574/574 MP:257/257
+D-Bilwis HP:83/161 MP:19/31
+Equipo de Kei (J2)
+A-Kei HP:705/760 MP:398/398
+B-Pale Rider HP:475/693 MP:310/310
+C-Mithras HP:211/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Kama
+3-Demonee-Ho
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:705/760 MP:398/398
+2-Pale Rider HP:475/693 MP:310/310
+3-Mithras HP:211/293 MP:58/58
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Flynn dispara a Mithras
+Mithras recibe 110 de daño
+Mithras termina con HP:101/293
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:951/971 MP:527/527
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Kama HP:574/574 MP:257/257
+D-Bilwis HP:83/161 MP:19/31
+Equipo de Kei (J2)
+A-Kei HP:705/760 MP:398/398
+B-Pale Rider HP:475/693 MP:310/310
+C-Mithras HP:101/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Demonee-Ho
+3-Bilwis
+4-Flynn
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Aniel HP:567/567 MP:255/255
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aniel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:951/971 MP:527/527
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Aniel HP:567/567 MP:255/255
+D-Bilwis HP:83/161 MP:19/31
+Equipo de Kei (J2)
+A-Kei HP:705/760 MP:398/398
+B-Pale Rider HP:475/693 MP:310/310
+C-Mithras HP:101/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Bilwis
+3-Flynn
+4-Aniel
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kama HP:574/574 MP:257/257
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kama ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:951/971 MP:527/527
+B-Kama HP:574/574 MP:257/257
+C-Aniel HP:567/567 MP:255/255
+D-Bilwis HP:83/161 MP:19/31
+Equipo de Kei (J2)
+A-Kei HP:705/760 MP:398/398
+B-Pale Rider HP:475/693 MP:310/310
+C-Mithras HP:101/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bilwis
+2-Flynn
+3-Aniel
+4-Kama
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bilwis
+1-Kei HP:705/760 MP:398/398
+2-Pale Rider HP:475/693 MP:310/310
+3-Mithras HP:101/293 MP:58/58
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Bilwis use
+1-Poison Claw MP:9
+2-Dia MP:5
+3-Lunge MP:6
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Bilwis
+1-Kei HP:705/760 MP:398/398
+2-Pale Rider HP:475/693 MP:310/310
+3-Mithras HP:101/293 MP:58/58
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Bilwis ataca a Mithras
+Mithras recibe 34 de daño
+Mithras termina con HP:67/293
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:951/971 MP:527/527
+B-Kama HP:574/574 MP:257/257
+C-Aniel HP:567/567 MP:255/255
+D-Bilwis HP:83/161 MP:13/31
+Equipo de Kei (J2)
+A-Kei HP:705/760 MP:398/398
+B-Pale Rider HP:475/693 MP:310/310
+C-Mithras HP:67/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Aniel
+3-Kama
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:951/971 MP:527/527
+B-Kama HP:574/574 MP:257/257
+C-Aniel HP:567/567 MP:255/255
+D-Bilwis HP:83/161 MP:13/31
+Equipo de Kei (J2)
+A-Kei HP:705/760 MP:398/398
+B-Pale Rider HP:475/693 MP:310/310
+C-Mithras HP:67/293 MP:58/58
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aniel
+2-Kama
+3-Bilwis
+4-Flynn
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Aniel use
+1-Ziodyne MP:14
+2-Diarama MP:9
+3-Pulinpa MP:5
+4-Hamaon MP:10
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Aniel use
+1-Ziodyne MP:14
+2-Diarama MP:9
+3-Pulinpa MP:5
+4-Hamaon MP:10
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Kei HP:705/760 MP:398/398
+2-Pale Rider HP:475/693 MP:310/310
+3-Mithras HP:67/293 MP:58/58
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Aniel lanza electricidad a Mithras
+Mithras recibe 127 de daño
+Mithras termina con HP:0/293
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:951/971 MP:527/527
+B-Kama HP:574/574 MP:257/257
+C-Aniel HP:567/567 MP:241/255
+D-Bilwis HP:83/161 MP:13/31
+Equipo de Kei (J2)
+A-Kei HP:705/760 MP:398/398
+B-Pale Rider HP:475/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Kei
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Flynn HP:951/971 MP:527/527
+2-Kama HP:574/574 MP:257/257
+3-Aniel HP:567/567 MP:241/255
+4-Bilwis HP:83/161 MP:13/31
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Pale Rider ataca a Kama
+Kama es resistente el ataque de Pale Rider
+Kama recibe 29 de daño
+Kama termina con HP:545/574
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:951/971 MP:527/527
+B-Kama HP:545/574 MP:257/257
+C-Aniel HP:567/567 MP:241/255
+D-Bilwis HP:83/161 MP:13/31
+Equipo de Kei (J2)
+A-Kei HP:705/760 MP:398/398
+B-Pale Rider HP:475/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Pale Rider
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Flynn HP:951/971 MP:527/527
+2-Kama HP:545/574 MP:257/257
+3-Aniel HP:567/567 MP:241/255
+4-Bilwis HP:83/161 MP:13/31
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kei ataca a Flynn
+Flynn recibe 19 de daño
+Flynn termina con HP:932/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:932/971 MP:527/527
+B-Kama HP:545/574 MP:257/257
+C-Aniel HP:567/567 MP:241/255
+D-Bilwis HP:83/161 MP:13/31
+Equipo de Kei (J2)
+A-Kei HP:705/760 MP:398/398
+B-Pale Rider HP:475/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Kama
+3-Aniel
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:932/971 MP:527/527
+B-Kama HP:545/574 MP:257/257
+C-Aniel HP:567/567 MP:241/255
+D-Bilwis HP:83/161 MP:13/31
+Equipo de Kei (J2)
+A-Kei HP:705/760 MP:398/398
+B-Pale Rider HP:475/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kama
+2-Aniel
+3-Bilwis
+4-Flynn
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:932/971 MP:527/527
+B-Kama HP:545/574 MP:257/257
+C-Aniel HP:567/567 MP:241/255
+D-Bilwis HP:83/161 MP:13/31
+Equipo de Kei (J2)
+A-Kei HP:705/760 MP:398/398
+B-Pale Rider HP:475/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Bilwis
+3-Flynn
+4-Kama
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:804/804 MP:160/160
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demonee-Ho ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:932/971 MP:527/527
+B-Kama HP:545/574 MP:257/257
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Bilwis HP:83/161 MP:13/31
+Equipo de Kei (J2)
+A-Kei HP:705/760 MP:398/398
+B-Pale Rider HP:475/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Bilwis
+2-Flynn
+3-Kama
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Bilwis use
+1-Poison Claw MP:9
+2-Dia MP:5
+3-Lunge MP:6
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Bilwis
+1-Kei HP:705/760 MP:398/398
+2-Pale Rider HP:475/693 MP:310/310
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Bilwis ataca a Kei
+Kei es resistente el ataque de Bilwis
+Kei recibe 17 de daño
+Kei termina con HP:688/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:932/971 MP:527/527
+B-Kama HP:545/574 MP:257/257
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Bilwis HP:83/161 MP:7/31
+Equipo de Kei (J2)
+A-Kei HP:688/760 MP:398/398
+B-Pale Rider HP:475/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Kama
+3-Demonee-Ho
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Aniel HP:567/567 MP:241/255
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Kama HP:545/574 MP:257/257 (Puesto 2)
+2-Demonee-Ho HP:804/804 MP:160/160 (Puesto 3)
+3-Bilwis HP:83/161 MP:7/31 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Aniel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:932/971 MP:527/527
+B-Kama HP:545/574 MP:257/257
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:688/760 MP:398/398
+B-Pale Rider HP:475/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kama
+2-Demonee-Ho
+3-Aniel
+4-Flynn
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:932/971 MP:527/527
+B-Kama HP:545/574 MP:257/257
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:688/760 MP:398/398
+B-Pale Rider HP:475/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Aniel
+3-Flynn
+4-Kama
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Demonee-Ho use
+1-Iron Judgement MP:8
+2-Desperate Hit MP:40
+3-Breath MP:24
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Kei HP:688/760 MP:398/398
+2-Pale Rider HP:475/693 MP:310/310
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Demonee-Ho use
+1-Iron Judgement MP:8
+2-Desperate Hit MP:40
+3-Breath MP:24
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Kei HP:688/760 MP:398/398
+2-Pale Rider HP:475/693 MP:310/310
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Bilwis HP:83/161 MP:7/31
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Bilwis ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:932/971 MP:527/527
+B-Kama HP:545/574 MP:257/257
+C-Bilwis HP:83/161 MP:7/31
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:688/760 MP:398/398
+B-Pale Rider HP:475/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aniel
+2-Flynn
+3-Kama
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Kei HP:688/760 MP:398/398
+2-Pale Rider HP:475/693 MP:310/310
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Aniel ataca a Kei
+Kei es resistente el ataque de Aniel
+Kei recibe 23 de daño
+Kei termina con HP:665/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:932/971 MP:527/527
+B-Kama HP:545/574 MP:257/257
+C-Bilwis HP:83/161 MP:7/31
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:665/760 MP:398/398
+B-Pale Rider HP:475/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Kei
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:932/971 MP:527/527
+B-Kama HP:545/574 MP:257/257
+C-Bilwis HP:83/161 MP:7/31
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:665/760 MP:398/398
+B-Pale Rider HP:475/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Pale Rider
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Flynn HP:932/971 MP:527/527
+2-Kama HP:545/574 MP:257/257
+3-Bilwis HP:83/161 MP:7/31
+4-Aniel HP:567/567 MP:241/255
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:932/971 MP:527/527
+B-Kama HP:545/574 MP:257/257
+C-Bilwis HP:83/161 MP:7/31
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:665/760 MP:398/398
+B-Pale Rider HP:475/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Kei
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:932/971 MP:527/527
+B-Kama HP:545/574 MP:257/257
+C-Bilwis HP:83/161 MP:7/31
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:665/760 MP:398/398
+B-Pale Rider HP:475/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Pale Rider
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Flynn HP:932/971 MP:527/527
+2-Kama HP:545/574 MP:257/257
+3-Bilwis HP:83/161 MP:7/31
+4-Aniel HP:567/567 MP:241/255
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kei ataca a Kama
+Kama es resistente el ataque de Kei
+Kama recibe 9 de daño
+Kama termina con HP:536/574
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:932/971 MP:527/527
+B-Kama HP:536/574 MP:257/257
+C-Bilwis HP:83/161 MP:7/31
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:665/760 MP:398/398
+B-Pale Rider HP:475/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Kama
+3-Aniel
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:665/760 MP:398/398
+2-Pale Rider HP:475/693 MP:310/310
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn ataca a Pale Rider
+Pale Rider recibe 88 de daño
+Pale Rider termina con HP:387/693
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:932/971 MP:527/527
+B-Kama HP:536/574 MP:257/257
+C-Bilwis HP:83/161 MP:7/31
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:665/760 MP:398/398
+B-Pale Rider HP:387/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Aniel
+3-Bilwis
+4-Flynn
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:804/804 MP:160/160
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Kei HP:665/760 MP:398/398
+2-Pale Rider HP:387/693 MP:310/310
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kama ataca a Pale Rider
+Pale Rider recibe 48 de daño
+Pale Rider termina con HP:339/693
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:932/971 MP:527/527
+B-Kama HP:536/574 MP:257/257
+C-Bilwis HP:83/161 MP:7/31
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:665/760 MP:398/398
+B-Pale Rider HP:339/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Bilwis
+3-Flynn
+4-Kama
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:932/971 MP:527/527
+B-Kama HP:536/574 MP:257/257
+C-Bilwis HP:83/161 MP:7/31
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:665/760 MP:398/398
+B-Pale Rider HP:339/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Bilwis
+2-Flynn
+3-Kama
+4-Aniel
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:932/971 MP:527/527
+B-Kama HP:536/574 MP:257/257
+C-Bilwis HP:83/161 MP:7/31
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:665/760 MP:398/398
+B-Pale Rider HP:339/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Kama
+3-Aniel
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Zionga MP:8
+2-Ziodyne MP:14
+3-Oni-Kagura MP:9
+4-Sabbatma MP:20
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:665/760 MP:398/398
+2-Pale Rider HP:339/693 MP:310/310
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn ataca a Pale Rider
+Pale Rider recibe 88 de daño
+Pale Rider termina con HP:251/693
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:932/971 MP:527/527
+B-Kama HP:536/574 MP:257/257
+C-Bilwis HP:83/161 MP:7/31
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:665/760 MP:398/398
+B-Pale Rider HP:251/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Kei
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pale Rider use
+1-Pandemic Bomb MP:11
+2-Death's Door MP:10
+3-Deadly Wind MP:22
+4-Debilitate MP:50
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:932/971 MP:527/527
+B-Kama HP:536/574 MP:257/257
+C-Bilwis HP:83/161 MP:7/31
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:665/760 MP:398/398
+B-Pale Rider HP:251/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Pale Rider
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Sabbatma MP:20
+2-Zanma MP:8
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Flynn HP:932/971 MP:527/527
+2-Kama HP:536/574 MP:257/257
+3-Bilwis HP:83/161 MP:7/31
+4-Aniel HP:567/567 MP:241/255
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Flynn HP:932/971 MP:527/527
+2-Kama HP:536/574 MP:257/257
+3-Bilwis HP:83/161 MP:7/31
+4-Aniel HP:567/567 MP:241/255
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kei ataca a Flynn
+Flynn recibe 19 de daño
+Flynn termina con HP:913/971
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:527/527
+B-Kama HP:536/574 MP:257/257
+C-Bilwis HP:83/161 MP:7/31
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:665/760 MP:398/398
+B-Pale Rider HP:251/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Kei
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:527/527
+B-Kama HP:536/574 MP:257/257
+C-Bilwis HP:83/161 MP:7/31
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:665/760 MP:398/398
+B-Pale Rider HP:251/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Pale Rider
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Sabbatma MP:20
+2-Zanma MP:8
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:527/527
+B-Kama HP:536/574 MP:257/257
+C-Bilwis HP:83/161 MP:7/31
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:665/760 MP:398/398
+B-Pale Rider HP:251/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Kama
+3-Aniel
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:665/760 MP:398/398
+2-Pale Rider HP:251/693 MP:310/310
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn dispara a Pale Rider
+Pale Rider recibe 110 de daño
+Pale Rider termina con HP:141/693
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:527/527
+B-Kama HP:536/574 MP:257/257
+C-Bilwis HP:83/161 MP:7/31
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:665/760 MP:398/398
+B-Pale Rider HP:141/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Aniel
+3-Bilwis
+4-Flynn
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:804/804 MP:160/160
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Kei HP:665/760 MP:398/398
+2-Pale Rider HP:141/693 MP:310/310
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kama ataca a Kei
+Kei es resistente el ataque de Kama
+Kei recibe 24 de daño
+Kei termina con HP:641/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:527/527
+B-Kama HP:536/574 MP:257/257
+C-Bilwis HP:83/161 MP:7/31
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:641/760 MP:398/398
+B-Pale Rider HP:141/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Bilwis
+3-Flynn
+4-Kama
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:527/527
+B-Kama HP:536/574 MP:257/257
+C-Bilwis HP:83/161 MP:7/31
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:641/760 MP:398/398
+B-Pale Rider HP:141/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Bilwis
+2-Flynn
+3-Kama
+4-Aniel
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:804/804 MP:160/160
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bilwis
+1-Kei HP:641/760 MP:398/398
+2-Pale Rider HP:141/693 MP:310/310
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:527/527
+B-Kama HP:536/574 MP:257/257
+C-Bilwis HP:83/161 MP:7/31
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:641/760 MP:398/398
+B-Pale Rider HP:141/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Kama
+3-Aniel
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:641/760 MP:398/398
+2-Pale Rider HP:141/693 MP:310/310
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Kei
+Kei es resistente el ataque de Flynn
+Kei recibe 55 de daño
+Kei termina con HP:586/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:527/527
+B-Kama HP:536/574 MP:257/257
+C-Bilwis HP:83/161 MP:7/31
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:586/760 MP:398/398
+B-Pale Rider HP:141/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Kei
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:527/527
+B-Kama HP:536/574 MP:257/257
+C-Bilwis HP:83/161 MP:7/31
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:586/760 MP:398/398
+B-Pale Rider HP:141/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Pale Rider
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Flynn HP:913/971 MP:527/527
+2-Kama HP:536/574 MP:257/257
+3-Bilwis HP:83/161 MP:7/31
+4-Aniel HP:567/567 MP:241/255
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kei dispara a Kama
+Kama bloquea el ataque de Kei
+Kama termina con HP:536/574
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:527/527
+B-Kama HP:536/574 MP:257/257
+C-Bilwis HP:83/161 MP:7/31
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:586/760 MP:398/398
+B-Pale Rider HP:141/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Kama
+3-Aniel
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:586/760 MP:398/398
+2-Pale Rider HP:141/693 MP:310/310
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Kei
+Kei es resistente el ataque de Flynn
+Kei recibe 55 de daño
+Kei termina con HP:531/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:527/527
+B-Kama HP:536/574 MP:257/257
+C-Bilwis HP:83/161 MP:7/31
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:531/760 MP:398/398
+B-Pale Rider HP:141/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Aniel
+3-Bilwis
+4-Flynn
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:527/527
+B-Kama HP:536/574 MP:257/257
+C-Bilwis HP:83/161 MP:7/31
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:531/760 MP:398/398
+B-Pale Rider HP:141/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aniel
+2-Bilwis
+3-Flynn
+4-Kama
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:804/804 MP:160/160
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:804/804 MP:160/160
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Kei HP:531/760 MP:398/398
+2-Pale Rider HP:141/693 MP:310/310
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Aniel ataca a Kei
+Kei es resistente el ataque de Aniel
+Kei recibe 23 de daño
+Kei termina con HP:508/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:527/527
+B-Kama HP:536/574 MP:257/257
+C-Bilwis HP:83/161 MP:7/31
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:508/760 MP:398/398
+B-Pale Rider HP:141/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bilwis
+2-Flynn
+3-Kama
+4-Aniel
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:804/804 MP:160/160
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demonee-Ho ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:527/527
+B-Kama HP:536/574 MP:257/257
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:508/760 MP:398/398
+B-Pale Rider HP:141/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Flynn
+2-Kama
+3-Aniel
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:508/760 MP:398/398
+2-Pale Rider HP:141/693 MP:310/310
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:508/760 MP:398/398
+2-Pale Rider HP:141/693 MP:310/310
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Bilwis HP:83/161 MP:7/31
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Kama HP:536/574 MP:257/257 (Puesto 2)
+2-Demonee-Ho HP:804/804 MP:160/160 (Puesto 3)
+3-Aniel HP:567/567 MP:241/255 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Bilwis HP:83/161 MP:7/31
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:508/760 MP:398/398
+2-Pale Rider HP:141/693 MP:310/310
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Kei
+Kei es resistente el ataque de Flynn
+Kei recibe 55 de daño
+Kei termina con HP:453/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:527/527
+B-Kama HP:536/574 MP:257/257
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:453/760 MP:398/398
+B-Pale Rider HP:141/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Aniel
+3-Demonee-Ho
+4-Flynn
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Bilwis HP:83/161 MP:7/31
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Bilwis ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:527/527
+B-Bilwis HP:83/161 MP:7/31
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:453/760 MP:398/398
+B-Pale Rider HP:141/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aniel
+2-Demonee-Ho
+3-Flynn
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:527/527
+B-Bilwis HP:83/161 MP:7/31
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:453/760 MP:398/398
+B-Pale Rider HP:141/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Kei
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Flynn HP:913/971 MP:527/527
+2-Bilwis HP:83/161 MP:7/31
+3-Demonee-Ho HP:804/804 MP:160/160
+4-Aniel HP:567/567 MP:241/255
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Pale Rider ataca a Demonee-Ho
+Demonee-Ho es resistente el ataque de Pale Rider
+Demonee-Ho recibe 29 de daño
+Demonee-Ho termina con HP:775/804
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:527/527
+B-Bilwis HP:83/161 MP:7/31
+C-Demonee-Ho HP:775/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:453/760 MP:398/398
+B-Pale Rider HP:141/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Pale Rider
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Flynn HP:913/971 MP:527/527
+2-Bilwis HP:83/161 MP:7/31
+3-Demonee-Ho HP:775/804 MP:160/160
+4-Aniel HP:567/567 MP:241/255
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kei dispara a Bilwis
+Bilwis recibe 15 de daño
+Bilwis termina con HP:68/161
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:527/527
+B-Bilwis HP:68/161 MP:7/31
+C-Demonee-Ho HP:775/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:453/760 MP:398/398
+B-Pale Rider HP:141/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Demonee-Ho
+3-Aniel
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Zionga MP:8
+2-Ziodyne MP:14
+3-Oni-Kagura MP:9
+4-Sabbatma MP:20
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:453/760 MP:398/398
+2-Pale Rider HP:141/693 MP:310/310
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn lanza electricidad a Pale Rider
+Pale Rider es débil contra el ataque de Flynn
+Pale Rider recibe 212 de daño
+Pale Rider termina con HP:0/693
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:68/161 MP:7/31
+C-Demonee-Ho HP:775/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:453/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Aniel
+3-Bilwis
+4-Flynn
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kama HP:536/574 MP:257/257
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:68/161 MP:7/31
+C-Demonee-Ho HP:775/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:453/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Bilwis
+3-Flynn
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:68/161 MP:7/31
+C-Demonee-Ho HP:775/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:453/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Bilwis
+2-Flynn
+3-Demonee-Ho
+4-Aniel
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bilwis
+1-Kei HP:453/760 MP:398/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Bilwis ataca a Kei
+Kei es resistente el ataque de Bilwis
+Kei recibe 4 de daño
+Kei termina con HP:449/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:68/161 MP:7/31
+C-Demonee-Ho HP:775/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:449/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Demonee-Ho
+3-Aniel
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:449/760 MP:398/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Kei
+Kei es resistente el ataque de Flynn
+Kei recibe 44 de daño
+Kei termina con HP:405/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:68/161 MP:7/31
+C-Demonee-Ho HP:775/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:405/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Aniel
+3-Bilwis
+4-Flynn
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Kei HP:405/760 MP:398/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demonee-Ho ataca a Kei
+Kei es resistente el ataque de Demonee-Ho
+Kei recibe 31 de daño
+Kei termina con HP:374/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:68/161 MP:7/31
+C-Demonee-Ho HP:775/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:374/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Flynn HP:913/971 MP:519/527
+2-Bilwis HP:68/161 MP:7/31
+3-Demonee-Ho HP:775/804 MP:160/160
+4-Aniel HP:567/567 MP:241/255
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kei ataca a Demonee-Ho
+Demonee-Ho es resistente el ataque de Kei
+Demonee-Ho recibe 9 de daño
+Demonee-Ho termina con HP:766/804
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:68/161 MP:7/31
+C-Demonee-Ho HP:766/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:374/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Demonee-Ho
+3-Aniel
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:68/161 MP:7/31
+C-Demonee-Ho HP:766/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:374/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Aniel
+3-Bilwis
+4-Flynn
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:68/161 MP:7/31
+C-Demonee-Ho HP:766/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:374/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Bilwis
+3-Flynn
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:68/161 MP:7/31
+C-Demonee-Ho HP:766/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:374/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Bilwis
+2-Flynn
+3-Demonee-Ho
+4-Aniel
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kama HP:536/574 MP:257/257
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Bilwis use
+1-Dia MP:5
+2-Lunge MP:6
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bilwis
+1-Flynn HP:913/971 MP:519/527
+2-Bilwis HP:68/161 MP:7/31
+3-Demonee-Ho HP:766/804 MP:160/160
+4-Aniel HP:567/567 MP:241/255
+5-Kama HP:536/574 MP:257/257
+6-Cancelar
+INPUT: 3
+----------------------------------------
+Bilwis cura a Demonee-Ho
+Demonee-Ho recibe 201 de HP
+Demonee-Ho termina con HP:804/804
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:68/161 MP:2/31
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:374/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Demonee-Ho
+3-Aniel
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:374/760 MP:398/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Kei
+Kei es resistente el ataque de Flynn
+Kei recibe 55 de daño
+Kei termina con HP:319/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:68/161 MP:2/31
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:319/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Aniel
+3-Bilwis
+4-Flynn
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kama HP:536/574 MP:257/257
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Demonee-Ho use
+1-Iron Judgement MP:8
+2-Desperate Hit MP:40
+3-Breath MP:24
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:68/161 MP:2/31
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:319/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aniel
+2-Bilwis
+3-Flynn
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kama HP:536/574 MP:257/257
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:68/161 MP:2/31
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:319/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:68/161 MP:2/31
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:319/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:68/161 MP:2/31
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:319/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Demonee-Ho
+3-Aniel
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kama HP:536/574 MP:257/257
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Bilwis HP:68/161 MP:2/31 (Puesto 2)
+2-Demonee-Ho HP:804/804 MP:160/160 (Puesto 3)
+3-Aniel HP:567/567 MP:241/255 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:319/760 MP:398/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Kei
+Kei es resistente el ataque de Flynn
+Kei recibe 55 de daño
+Kei termina con HP:264/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:68/161 MP:2/31
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:264/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Aniel
+3-Bilwis
+4-Flynn
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Demonee-Ho use
+1-Iron Judgement MP:8
+2-Desperate Hit MP:40
+3-Breath MP:24
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:68/161 MP:2/31
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:264/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aniel
+2-Bilwis
+3-Flynn
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:68/161 MP:2/31
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:264/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bilwis
+2-Flynn
+3-Demonee-Ho
+4-Aniel
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bilwis
+1-Kei HP:264/760 MP:398/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Bilwis use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Bilwis use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Bilwis use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:68/161 MP:2/31
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:264/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Flynn
+2-Demonee-Ho
+3-Aniel
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:264/760 MP:398/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Kei
+Kei es resistente el ataque de Flynn
+Kei recibe 55 de daño
+Kei termina con HP:209/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:68/161 MP:2/31
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:209/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Aniel
+3-Bilwis
+4-Flynn
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Kei HP:209/760 MP:398/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:68/161 MP:2/31
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:209/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aniel
+2-Bilwis
+3-Flynn
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Kei HP:209/760 MP:398/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aniel ataca a Kei
+Kei es resistente el ataque de Aniel
+Kei recibe 23 de daño
+Kei termina con HP:186/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:68/161 MP:2/31
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:186/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Sabbatma MP:20
+2-Zanma MP:8
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Flynn HP:913/971 MP:519/527
+2-Bilwis HP:68/161 MP:2/31
+3-Demonee-Ho HP:804/804 MP:160/160
+4-Aniel HP:567/567 MP:241/255
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kei ataca a Bilwis
+Bilwis recibe 19 de daño
+Bilwis termina con HP:49/161
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:49/161 MP:2/31
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:186/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Demonee-Ho
+3-Aniel
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kama HP:536/574 MP:257/257
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Bilwis HP:49/161 MP:2/31 (Puesto 2)
+2-Demonee-Ho HP:804/804 MP:160/160 (Puesto 3)
+3-Aniel HP:567/567 MP:241/255 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kama HP:536/574 MP:257/257
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Bilwis HP:49/161 MP:2/31 (Puesto 2)
+2-Demonee-Ho HP:804/804 MP:160/160 (Puesto 3)
+3-Aniel HP:567/567 MP:241/255 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Kama ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:49/161 MP:2/31
+C-Kama HP:536/574 MP:257/257
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:186/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kama
+2-Aniel
+3-Bilwis
+4-Flynn
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kama use
+1-Tetraja MP:15
+2-Madness Needle MP:11
+3-Diarahan MP:16
+4-Heaven's Bow MP:26
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:49/161 MP:2/31
+C-Kama HP:536/574 MP:257/257
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:186/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Bilwis
+3-Flynn
+4-Kama
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Kei HP:186/760 MP:398/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aniel ataca a Kei
+Kei es resistente el ataque de Aniel
+Kei recibe 23 de daño
+Kei termina con HP:163/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:49/161 MP:2/31
+C-Kama HP:536/574 MP:257/257
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:163/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bilwis
+2-Flynn
+3-Kama
+4-Aniel
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:804/804 MP:160/160
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:804/804 MP:160/160
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demonee-Ho ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Kama HP:536/574 MP:257/257
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:163/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Flynn
+2-Kama
+3-Aniel
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Zionga MP:8
+2-Ziodyne MP:14
+3-Oni-Kagura MP:9
+4-Sabbatma MP:20
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Kama HP:536/574 MP:257/257
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:163/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Aniel
+3-Demonee-Ho
+4-Flynn
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Kama HP:536/574 MP:257/257
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:163/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aniel
+2-Demonee-Ho
+3-Flynn
+4-Kama
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Kama HP:536/574 MP:257/257
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:163/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Kama HP:536/574 MP:257/257
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:163/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Flynn HP:913/971 MP:519/527
+2-Demonee-Ho HP:804/804 MP:160/160
+3-Kama HP:536/574 MP:257/257
+4-Aniel HP:567/567 MP:241/255
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kei dispara a Kama
+Kama bloquea el ataque de Kei
+Kama termina con HP:536/574
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Kama HP:536/574 MP:257/257
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:163/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Kama
+3-Demonee-Ho
+4-Aniel
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:163/760 MP:398/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Kei
+Kei es resistente el ataque de Flynn
+Kei recibe 55 de daño
+Kei termina con HP:108/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Kama HP:536/574 MP:257/257
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:108/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Demonee-Ho
+3-Aniel
+4-Flynn
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Bilwis HP:49/161 MP:2/31
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Kama HP:536/574 MP:257/257
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:108/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Aniel
+3-Flynn
+4-Kama
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Bilwis HP:49/161 MP:2/31
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Bilwis ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:49/161 MP:2/31
+C-Kama HP:536/574 MP:257/257
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:108/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Flynn
+3-Kama
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:49/161 MP:2/31
+C-Kama HP:536/574 MP:257/257
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:108/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Flynn
+2-Kama
+3-Bilwis
+4-Aniel
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:49/161 MP:2/31
+C-Kama HP:536/574 MP:257/257
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:108/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Bilwis
+3-Aniel
+4-Flynn
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:49/161 MP:2/31
+C-Kama HP:536/574 MP:257/257
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:108/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Bilwis
+2-Aniel
+3-Flynn
+4-Kama
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:804/804 MP:160/160
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:49/161 MP:2/31
+C-Kama HP:536/574 MP:257/257
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:108/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Flynn HP:913/971 MP:519/527
+2-Bilwis HP:49/161 MP:2/31
+3-Kama HP:536/574 MP:257/257
+4-Aniel HP:567/567 MP:241/255
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kei ataca a Kama
+Kama es resistente el ataque de Kei
+Kama recibe 9 de daño
+Kama termina con HP:527/574
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:49/161 MP:2/31
+C-Kama HP:527/574 MP:257/257
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:108/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Kama
+3-Aniel
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:49/161 MP:2/31
+C-Kama HP:527/574 MP:257/257
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:108/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kama
+2-Aniel
+3-Bilwis
+4-Flynn
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kama use
+1-Tetraja MP:15
+2-Madness Needle MP:11
+3-Diarahan MP:16
+4-Heaven's Bow MP:26
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:804/804 MP:160/160
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demonee-Ho ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:49/161 MP:2/31
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:108/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Bilwis
+3-Flynn
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:49/161 MP:2/31
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:108/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Bilwis
+2-Flynn
+3-Demonee-Ho
+4-Aniel
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Bilwis use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Bilwis use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kama HP:527/574 MP:257/257
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:49/161 MP:2/31
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:108/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Demonee-Ho
+3-Aniel
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:49/161 MP:2/31
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:108/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Aniel
+3-Bilwis
+4-Flynn
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:49/161 MP:2/31
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:108/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Bilwis
+3-Flynn
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Aniel use
+1-Ziodyne MP:14
+2-Diarama MP:9
+3-Pulinpa MP:5
+4-Hamaon MP:10
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Aniel use
+1-Ziodyne MP:14
+2-Diarama MP:9
+3-Pulinpa MP:5
+4-Hamaon MP:10
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:49/161 MP:2/31
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:108/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Bilwis
+2-Flynn
+3-Demonee-Ho
+4-Aniel
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:49/161 MP:2/31
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:108/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Flynn HP:913/971 MP:519/527
+2-Bilwis HP:49/161 MP:2/31
+3-Demonee-Ho HP:804/804 MP:160/160
+4-Aniel HP:567/567 MP:241/255
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kei dispara a Bilwis
+Bilwis recibe 15 de daño
+Bilwis termina con HP:34/161
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:34/161 MP:2/31
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:108/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Demonee-Ho
+3-Aniel
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:108/760 MP:398/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:108/760 MP:398/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:108/760 MP:398/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Kei
+Kei es resistente el ataque de Flynn
+Kei recibe 55 de daño
+Kei termina con HP:53/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:34/161 MP:2/31
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:53/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Aniel
+3-Bilwis
+4-Flynn
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Kei HP:53/760 MP:398/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demonee-Ho ataca a Kei
+Kei es resistente el ataque de Demonee-Ho
+Kei recibe 31 de daño
+Kei termina con HP:22/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:34/161 MP:2/31
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:22/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Bilwis
+3-Flynn
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Kei HP:22/760 MP:398/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Kei HP:22/760 MP:398/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:34/161 MP:2/31
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:22/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Bilwis
+2-Flynn
+3-Demonee-Ho
+4-Aniel
+----------------------------------------
+Seleccione una acción para Bilwis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:913/971 MP:519/527
+B-Bilwis HP:34/161 MP:2/31
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Aniel HP:567/567 MP:241/255
+Equipo de Kei (J2)
+A-Kei HP:22/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Demonee-Ho
+3-Aniel
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:22/760 MP:398/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Kei
+Kei es resistente el ataque de Flynn
+Kei recibe 55 de daño
+Kei termina con HP:0/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Flynn (J1)

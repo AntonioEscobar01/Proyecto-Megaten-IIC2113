@@ -1,0 +1,4271 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 4
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Kama HP:574/574 MP:257/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Anubis HP:497/497 MP:223/223
+C-Mokoi HP:74/74 MP:36/36
+D-Kazfiel HP:469/469 MP:211/211
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Kama
+3-Nergal
+4-Koppa Tengu
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Kama HP:574/574 MP:257/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Anubis HP:497/497 MP:223/223
+C-Mokoi HP:74/74 MP:36/36
+D-Kazfiel HP:469/469 MP:211/211
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kama
+2-Nergal
+3-Koppa Tengu
+4-Shujinko
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Kama HP:574/574 MP:257/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Anubis HP:497/497 MP:223/223
+C-Mokoi HP:74/74 MP:36/36
+D-Kazfiel HP:469/469 MP:211/211
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Koppa Tengu
+3-Shujinko
+4-Kama
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Kama HP:574/574 MP:257/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Anubis HP:497/497 MP:223/223
+C-Mokoi HP:74/74 MP:36/36
+D-Kazfiel HP:469/469 MP:211/211
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Koppa Tengu
+2-Shujinko
+3-Kama
+4-Nergal
+----------------------------------------
+Seleccione una acción para Koppa Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koppa Tengu
+1-Joker HP:597/597 MP:347/347
+2-Anubis HP:497/497 MP:223/223
+3-Mokoi HP:74/74 MP:36/36
+4-Kazfiel HP:469/469 MP:211/211
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Koppa Tengu ataca a Joker
+Joker recibe 14 de daño
+Joker termina con HP:583/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Kama HP:574/574 MP:257/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:583/597 MP:347/347
+B-Anubis HP:497/497 MP:223/223
+C-Mokoi HP:74/74 MP:36/36
+D-Kazfiel HP:469/469 MP:211/211
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Kama
+3-Nergal
+4-Koppa Tengu
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Joker HP:583/597 MP:347/347
+2-Anubis HP:497/497 MP:223/223
+3-Mokoi HP:74/74 MP:36/36
+4-Kazfiel HP:469/469 MP:211/211
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Shujinko ataca a Anubis
+Anubis recibe 187 de daño
+Anubis termina con HP:310/497
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Kama HP:574/574 MP:257/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:583/597 MP:347/347
+B-Anubis HP:310/497 MP:223/223
+C-Mokoi HP:74/74 MP:36/36
+D-Kazfiel HP:469/469 MP:211/211
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Nergal
+3-Koppa Tengu
+4-Shujinko
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Patrimpas HP:155/155 MP:149/149
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kama use
+1-Tetraja MP:15
+2-Madness Needle MP:11
+3-Diarahan MP:16
+4-Heaven's Bow MP:26
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Shujinko HP:1317/1317 MP:625/625
+2-Kama HP:574/574 MP:257/257
+3-Nergal HP:644/644 MP:288/288
+4-Koppa Tengu HP:196/196 MP:88/88
+5-Patrimpas HP:155/155 MP:149/149
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Kama cura a Koppa Tengu
+Koppa Tengu recibe 196 de HP
+Koppa Tengu termina con HP:196/196
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Kama HP:574/574 MP:241/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:583/597 MP:347/347
+B-Anubis HP:310/497 MP:223/223
+C-Mokoi HP:74/74 MP:36/36
+D-Kazfiel HP:469/469 MP:211/211
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Anubis
+3-Joker
+4-Mokoi
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kazfiel use
+1-Javelin Rain MP:21
+2-Charge MP:9
+3-Zandyne MP:14
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Shujinko HP:1317/1317 MP:625/625
+2-Kama HP:574/574 MP:241/257
+3-Nergal HP:644/644 MP:288/288
+4-Koppa Tengu HP:196/196 MP:88/88
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Kazfiel lanza viento a Koppa Tengu
+Koppa Tengu bloquea el ataque de Kazfiel
+Koppa Tengu termina con HP:196/196
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Kama HP:574/574 MP:241/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:583/597 MP:347/347
+B-Anubis HP:310/497 MP:223/223
+C-Mokoi HP:74/74 MP:36/36
+D-Kazfiel HP:469/469 MP:197/211
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anubis
+2-Joker
+3-Mokoi
+4-Kazfiel
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Anubis use
+1-Judgement Light MP:45
+2-Mamudoon MP:30
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mushussu HP:399/399 MP:179/179
+2-Kanbari HP:350/350 MP:68/68
+3-Dybbuk HP:66/66 MP:63/63
+4-Nergal HP:644/644 MP:288/288
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Dybbuk ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Kama HP:574/574 MP:241/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:583/597 MP:347/347
+B-Dybbuk HP:66/66 MP:63/63
+C-Mokoi HP:74/74 MP:36/36
+D-Kazfiel HP:469/469 MP:197/211
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Mokoi
+3-Kazfiel
+4-Dybbuk
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Shujinko HP:1317/1317 MP:625/625
+2-Kama HP:574/574 MP:241/257
+3-Nergal HP:644/644 MP:288/288
+4-Koppa Tengu HP:196/196 MP:88/88
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Joker ataca a Kama
+Kama es resistente el ataque de Joker
+Kama recibe 14 de daño
+Kama termina con HP:560/574
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Kama HP:560/574 MP:241/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:583/597 MP:347/347
+B-Dybbuk HP:66/66 MP:63/63
+C-Mokoi HP:74/74 MP:36/36
+D-Kazfiel HP:469/469 MP:197/211
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mokoi
+2-Kazfiel
+3-Dybbuk
+4-Joker
+----------------------------------------
+Seleccione una acción para Mokoi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mokoi
+1-Shujinko HP:1317/1317 MP:625/625
+2-Kama HP:560/574 MP:241/257
+3-Nergal HP:644/644 MP:288/288
+4-Koppa Tengu HP:196/196 MP:88/88
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Mokoi ataca a Kama
+Kama es resistente el ataque de Mokoi
+Kama recibe 1 de daño
+Kama termina con HP:559/574
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Kama HP:559/574 MP:241/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:583/597 MP:347/347
+B-Dybbuk HP:66/66 MP:63/63
+C-Mokoi HP:74/74 MP:36/36
+D-Kazfiel HP:469/469 MP:197/211
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Kama
+3-Nergal
+4-Koppa Tengu
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Hamaon MP:10
+2-Agidyne MP:14
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Joker HP:583/597 MP:347/347
+2-Dybbuk HP:66/66 MP:63/63
+3-Mokoi HP:74/74 MP:36/36
+4-Kazfiel HP:469/469 MP:197/211
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Shujinko ataca con luz a Kazfiel
+Kazfiel bloquea el ataque de Shujinko
+Kazfiel termina con HP:469/469
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:615/625
+B-Kama HP:559/574 MP:241/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:583/597 MP:347/347
+B-Dybbuk HP:66/66 MP:63/63
+C-Mokoi HP:74/74 MP:36/36
+D-Kazfiel HP:469/469 MP:197/211
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Nergal
+3-Koppa Tengu
+4-Shujinko
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Patrimpas HP:155/155 MP:149/149
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Joker HP:583/597 MP:347/347
+2-Dybbuk HP:66/66 MP:63/63
+3-Mokoi HP:74/74 MP:36/36
+4-Kazfiel HP:469/469 MP:197/211
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kama use
+1-Tetraja MP:15
+2-Madness Needle MP:11
+3-Diarahan MP:16
+4-Heaven's Bow MP:26
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Shujinko HP:1317/1317 MP:615/625
+2-Kama HP:559/574 MP:241/257
+3-Nergal HP:644/644 MP:288/288
+4-Koppa Tengu HP:196/196 MP:88/88
+5-Patrimpas HP:155/155 MP:149/149
+6-Cancelar
+INPUT: 2
+----------------------------------------
+Kama cura a Kama
+Kama recibe 574 de HP
+Kama termina con HP:574/574
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:615/625
+B-Kama HP:574/574 MP:225/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:583/597 MP:347/347
+B-Dybbuk HP:66/66 MP:63/63
+C-Mokoi HP:74/74 MP:36/36
+D-Kazfiel HP:469/469 MP:197/211
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Koppa Tengu
+3-Shujinko
+4-Kama
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Joker HP:583/597 MP:347/347
+2-Dybbuk HP:66/66 MP:63/63
+3-Mokoi HP:74/74 MP:36/36
+4-Kazfiel HP:469/469 MP:197/211
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nergal ataca a Joker
+Joker recibe 54 de daño
+Joker termina con HP:529/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:615/625
+B-Kama HP:574/574 MP:225/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:529/597 MP:347/347
+B-Dybbuk HP:66/66 MP:63/63
+C-Mokoi HP:74/74 MP:36/36
+D-Kazfiel HP:469/469 MP:197/211
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Joker
+3-Dybbuk
+4-Mokoi
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Anubis HP:310/497 MP:223/223
+2-Mushussu HP:399/399 MP:179/179
+3-Kanbari HP:350/350 MP:68/68
+4-Nergal HP:644/644 MP:288/288
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Mushussu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:615/625
+B-Kama HP:574/574 MP:225/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:529/597 MP:347/347
+B-Dybbuk HP:66/66 MP:63/63
+C-Mokoi HP:74/74 MP:36/36
+D-Mushussu HP:399/399 MP:179/179
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Dybbuk
+3-Mokoi
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Anubis HP:310/497 MP:223/223
+2-Kazfiel HP:469/469 MP:197/211
+3-Kanbari HP:350/350 MP:68/68
+4-Nergal HP:644/644 MP:288/288
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una posición para invocar
+1-Dybbuk HP:66/66 MP:63/63 (Puesto 2)
+2-Mokoi HP:74/74 MP:36/36 (Puesto 3)
+3-Mushussu HP:399/399 MP:179/179 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Anubis HP:310/497 MP:223/223
+2-Kazfiel HP:469/469 MP:197/211
+3-Kanbari HP:350/350 MP:68/68
+4-Nergal HP:644/644 MP:288/288
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Dybbuk HP:66/66 MP:63/63 (Puesto 2)
+2-Mokoi HP:74/74 MP:36/36 (Puesto 3)
+3-Mushussu HP:399/399 MP:179/179 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Hamaon MP:10
+2-Recarm MP:20
+3-Ziodyne MP:14
+4-Lunge MP:6
+5-Damascus Claw MP:7
+6-Diarahan MP:16
+7-Cancelar
+INPUT: 7
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Anubis HP:310/497 MP:223/223
+2-Kazfiel HP:469/469 MP:197/211
+3-Kanbari HP:350/350 MP:68/68
+4-Nergal HP:644/644 MP:288/288
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Dybbuk HP:66/66 MP:63/63 (Puesto 2)
+2-Mokoi HP:74/74 MP:36/36 (Puesto 3)
+3-Mushussu HP:399/399 MP:179/179 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Anubis ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:615/625
+B-Kama HP:574/574 MP:225/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:529/597 MP:347/347
+B-Dybbuk HP:66/66 MP:63/63
+C-Anubis HP:310/497 MP:223/223
+D-Mushussu HP:399/399 MP:179/179
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dybbuk
+2-Anubis
+3-Mushussu
+4-Joker
+----------------------------------------
+Seleccione una acción para Dybbuk
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:615/625
+B-Kama HP:574/574 MP:225/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:529/597 MP:347/347
+B-Dybbuk HP:66/66 MP:63/63
+C-Anubis HP:310/497 MP:223/223
+D-Mushussu HP:399/399 MP:179/179
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Anubis
+2-Mushussu
+3-Joker
+4-Dybbuk
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mokoi HP:74/74 MP:36/36
+2-Kazfiel HP:469/469 MP:197/211
+3-Kanbari HP:350/350 MP:68/68
+4-Nergal HP:644/644 MP:288/288
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kanbari ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:615/625
+B-Kama HP:574/574 MP:225/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:529/597 MP:347/347
+B-Dybbuk HP:66/66 MP:63/63
+C-Kanbari HP:350/350 MP:68/68
+D-Mushussu HP:399/399 MP:179/179
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Joker
+3-Dybbuk
+4-Kanbari
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:615/625
+B-Kama HP:574/574 MP:225/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:529/597 MP:347/347
+B-Dybbuk HP:66/66 MP:63/63
+C-Kanbari HP:350/350 MP:68/68
+D-Mushussu HP:399/399 MP:179/179
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Dybbuk
+3-Kanbari
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:615/625
+B-Kama HP:574/574 MP:225/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:529/597 MP:347/347
+B-Dybbuk HP:66/66 MP:63/63
+C-Kanbari HP:350/350 MP:68/68
+D-Mushussu HP:399/399 MP:179/179
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dybbuk
+2-Kanbari
+3-Mushussu
+4-Joker
+----------------------------------------
+Seleccione una acción para Dybbuk
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dybbuk
+1-Shujinko HP:1317/1317 MP:615/625
+2-Kama HP:574/574 MP:225/257
+3-Nergal HP:644/644 MP:288/288
+4-Koppa Tengu HP:196/196 MP:88/88
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Dybbuk ataca a Shujinko
+Shujinko es resistente el ataque de Dybbuk
+Shujinko recibe 2 de daño
+Shujinko termina con HP:1315/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1315/1317 MP:615/625
+B-Kama HP:574/574 MP:225/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:529/597 MP:347/347
+B-Dybbuk HP:66/66 MP:63/63
+C-Kanbari HP:350/350 MP:68/68
+D-Mushussu HP:399/399 MP:179/179
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Kama
+3-Nergal
+4-Koppa Tengu
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Joker HP:529/597 MP:347/347
+2-Dybbuk HP:66/66 MP:63/63
+3-Kanbari HP:350/350 MP:68/68
+4-Mushussu HP:399/399 MP:179/179
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko dispara a Joker
+Joker recibe 228 de daño
+Joker termina con HP:301/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1315/1317 MP:615/625
+B-Kama HP:574/574 MP:225/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:301/597 MP:347/347
+B-Dybbuk HP:66/66 MP:63/63
+C-Kanbari HP:350/350 MP:68/68
+D-Mushussu HP:399/399 MP:179/179
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Nergal
+3-Koppa Tengu
+4-Shujinko
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Patrimpas HP:155/155 MP:149/149
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kama use
+1-Tetraja MP:15
+2-Madness Needle MP:11
+3-Diarahan MP:16
+4-Heaven's Bow MP:26
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Shujinko HP:1315/1317 MP:615/625
+2-Kama HP:574/574 MP:225/257
+3-Nergal HP:644/644 MP:288/288
+4-Koppa Tengu HP:196/196 MP:88/88
+5-Patrimpas HP:155/155 MP:149/149
+6-Cancelar
+INPUT: 1
+----------------------------------------
+Kama cura a Shujinko
+Shujinko recibe 1317 de HP
+Shujinko termina con HP:1317/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:615/625
+B-Kama HP:574/574 MP:209/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:301/597 MP:347/347
+B-Dybbuk HP:66/66 MP:63/63
+C-Kanbari HP:350/350 MP:68/68
+D-Mushussu HP:399/399 MP:179/179
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Koppa Tengu
+3-Shujinko
+4-Kama
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:615/625
+B-Kama HP:574/574 MP:209/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:301/597 MP:347/347
+B-Dybbuk HP:66/66 MP:63/63
+C-Kanbari HP:350/350 MP:68/68
+D-Mushussu HP:399/399 MP:179/179
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Koppa Tengu
+2-Shujinko
+3-Kama
+4-Nergal
+----------------------------------------
+Seleccione una acción para Koppa Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koppa Tengu
+1-Joker HP:301/597 MP:347/347
+2-Dybbuk HP:66/66 MP:63/63
+3-Kanbari HP:350/350 MP:68/68
+4-Mushussu HP:399/399 MP:179/179
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Koppa Tengu ataca a Joker
+Joker recibe 14 de daño
+Joker termina con HP:287/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:615/625
+B-Kama HP:574/574 MP:209/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:287/597 MP:347/347
+B-Dybbuk HP:66/66 MP:63/63
+C-Kanbari HP:350/350 MP:68/68
+D-Mushussu HP:399/399 MP:179/179
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Kama
+3-Nergal
+4-Koppa Tengu
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Joker HP:287/597 MP:347/347
+2-Dybbuk HP:66/66 MP:63/63
+3-Kanbari HP:350/350 MP:68/68
+4-Mushussu HP:399/399 MP:179/179
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Shujinko dispara a Mushussu
+Mushussu recibe 228 de daño
+Mushussu termina con HP:171/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:615/625
+B-Kama HP:574/574 MP:209/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:287/597 MP:347/347
+B-Dybbuk HP:66/66 MP:63/63
+C-Kanbari HP:350/350 MP:68/68
+D-Mushussu HP:171/399 MP:179/179
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Joker
+3-Kanbari
+4-Dybbuk
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Anubis HP:310/497 MP:223/223
+2-Mokoi HP:74/74 MP:36/36
+3-Kazfiel HP:469/469 MP:197/211
+4-Nergal HP:644/644 MP:288/288
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Anubis ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:615/625
+B-Kama HP:574/574 MP:209/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:287/597 MP:347/347
+B-Dybbuk HP:66/66 MP:63/63
+C-Kanbari HP:350/350 MP:68/68
+D-Anubis HP:310/497 MP:223/223
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Kanbari
+3-Dybbuk
+4-Anubis
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mokoi HP:74/74 MP:36/36
+2-Kazfiel HP:469/469 MP:197/211
+3-Mushussu HP:171/399 MP:179/179
+4-Nergal HP:644/644 MP:288/288
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mokoi HP:74/74 MP:36/36
+2-Kazfiel HP:469/469 MP:197/211
+3-Mushussu HP:171/399 MP:179/179
+4-Nergal HP:644/644 MP:288/288
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Dybbuk HP:66/66 MP:63/63 (Puesto 2)
+2-Kanbari HP:350/350 MP:68/68 (Puesto 3)
+3-Anubis HP:310/497 MP:223/223 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Mokoi ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:615/625
+B-Kama HP:574/574 MP:209/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:196/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:287/597 MP:347/347
+B-Dybbuk HP:66/66 MP:63/63
+C-Mokoi HP:74/74 MP:36/36
+D-Anubis HP:310/497 MP:223/223
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mokoi
+2-Dybbuk
+3-Anubis
+4-Joker
+----------------------------------------
+Seleccione una acción para Mokoi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mokoi
+1-Shujinko HP:1317/1317 MP:615/625
+2-Kama HP:574/574 MP:209/257
+3-Nergal HP:644/644 MP:288/288
+4-Koppa Tengu HP:196/196 MP:88/88
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Mokoi ataca a Koppa Tengu
+Koppa Tengu recibe 3 de daño
+Koppa Tengu termina con HP:193/196
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:615/625
+B-Kama HP:574/574 MP:209/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:193/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:287/597 MP:347/347
+B-Dybbuk HP:66/66 MP:63/63
+C-Mokoi HP:74/74 MP:36/36
+D-Anubis HP:310/497 MP:223/223
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dybbuk
+2-Anubis
+3-Joker
+4-Mokoi
+----------------------------------------
+Seleccione una acción para Dybbuk
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Dybbuk use
+1-Mudo MP:6
+2-Patra MP:5
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Dybbuk
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dybbuk
+1-Shujinko HP:1317/1317 MP:615/625
+2-Kama HP:574/574 MP:209/257
+3-Nergal HP:644/644 MP:288/288
+4-Koppa Tengu HP:193/196 MP:88/88
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Dybbuk ataca a Kama
+Kama es resistente el ataque de Dybbuk
+Kama recibe 2 de daño
+Kama termina con HP:572/574
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:615/625
+B-Kama HP:572/574 MP:209/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:193/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:287/597 MP:347/347
+B-Dybbuk HP:66/66 MP:63/63
+C-Mokoi HP:74/74 MP:36/36
+D-Anubis HP:310/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anubis
+2-Joker
+3-Mokoi
+4-Dybbuk
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Anubis use
+1-Judgement Light MP:45
+2-Mamudoon MP:30
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1317/1317 MP:615/625
+B-Kama HP:572/574 MP:209/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:193/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:287/597 MP:347/347
+B-Dybbuk HP:66/66 MP:63/63
+C-Mokoi HP:74/74 MP:36/36
+D-Anubis HP:310/497 MP:223/223
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Mokoi
+3-Dybbuk
+4-Anubis
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Shujinko HP:1317/1317 MP:615/625
+2-Kama HP:572/574 MP:209/257
+3-Nergal HP:644/644 MP:288/288
+4-Koppa Tengu HP:193/196 MP:88/88
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Shujinko
+Shujinko es resistente el ataque de Joker
+Shujinko recibe 19 de daño
+Shujinko termina con HP:1298/1317
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1298/1317 MP:615/625
+B-Kama HP:572/574 MP:209/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:193/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:287/597 MP:347/347
+B-Dybbuk HP:66/66 MP:63/63
+C-Mokoi HP:74/74 MP:36/36
+D-Anubis HP:310/497 MP:223/223
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Kama
+3-Nergal
+4-Koppa Tengu
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Joker HP:287/597 MP:347/347
+2-Dybbuk HP:66/66 MP:63/63
+3-Mokoi HP:74/74 MP:36/36
+4-Anubis HP:310/497 MP:223/223
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Shujinko dispara a Anubis
+Anubis recibe 228 de daño
+Anubis termina con HP:82/497
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1298/1317 MP:615/625
+B-Kama HP:572/574 MP:209/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:193/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:287/597 MP:347/347
+B-Dybbuk HP:66/66 MP:63/63
+C-Mokoi HP:74/74 MP:36/36
+D-Anubis HP:82/497 MP:223/223
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Nergal
+3-Koppa Tengu
+4-Shujinko
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1298/1317 MP:615/625
+B-Kama HP:572/574 MP:209/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:193/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:287/597 MP:347/347
+B-Dybbuk HP:66/66 MP:63/63
+C-Mokoi HP:74/74 MP:36/36
+D-Anubis HP:82/497 MP:223/223
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nergal
+2-Koppa Tengu
+3-Shujinko
+4-Kama
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Patrimpas HP:155/155 MP:149/149
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1298/1317 MP:615/625
+B-Kama HP:572/574 MP:209/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:193/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:287/597 MP:347/347
+B-Dybbuk HP:66/66 MP:63/63
+C-Mokoi HP:74/74 MP:36/36
+D-Anubis HP:82/497 MP:223/223
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Koppa Tengu
+2-Shujinko
+3-Kama
+4-Nergal
+----------------------------------------
+Seleccione una acción para Koppa Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koppa Tengu
+1-Joker HP:287/597 MP:347/347
+2-Dybbuk HP:66/66 MP:63/63
+3-Mokoi HP:74/74 MP:36/36
+4-Anubis HP:82/497 MP:223/223
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Koppa Tengu ataca a Anubis
+Anubis recibe 14 de daño
+Anubis termina con HP:68/497
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1298/1317 MP:615/625
+B-Kama HP:572/574 MP:209/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:193/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:287/597 MP:347/347
+B-Dybbuk HP:66/66 MP:63/63
+C-Mokoi HP:74/74 MP:36/36
+D-Anubis HP:68/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Kama
+3-Nergal
+4-Koppa Tengu
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Patrimpas HP:155/155 MP:149/149
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Patrimpas HP:155/155 MP:149/149
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Joker HP:287/597 MP:347/347
+2-Dybbuk HP:66/66 MP:63/63
+3-Mokoi HP:74/74 MP:36/36
+4-Anubis HP:68/497 MP:223/223
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Shujinko ataca a Anubis
+Anubis recibe 187 de daño
+Anubis termina con HP:0/497
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1298/1317 MP:615/625
+B-Kama HP:572/574 MP:209/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:193/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:287/597 MP:347/347
+B-Dybbuk HP:66/66 MP:63/63
+C-Mokoi HP:74/74 MP:36/36
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Dybbuk
+3-Mokoi
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Shujinko HP:1298/1317 MP:615/625
+2-Kama HP:572/574 MP:209/257
+3-Nergal HP:644/644 MP:288/288
+4-Koppa Tengu HP:193/196 MP:88/88
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Shujinko
+Shujinko es resistente el ataque de Joker
+Shujinko recibe 14 de daño
+Shujinko termina con HP:1284/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1284/1317 MP:615/625
+B-Kama HP:572/574 MP:209/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:193/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:287/597 MP:347/347
+B-Dybbuk HP:66/66 MP:63/63
+C-Mokoi HP:74/74 MP:36/36
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dybbuk
+2-Mokoi
+3-Joker
+----------------------------------------
+Seleccione una acción para Dybbuk
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kazfiel HP:469/469 MP:197/211
+2-Mushussu HP:171/399 MP:179/179
+3-Kanbari HP:350/350 MP:68/68
+4-Nergal HP:644/644 MP:288/288
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kanbari ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1284/1317 MP:615/625
+B-Kama HP:572/574 MP:209/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:193/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:287/597 MP:347/347
+B-Kanbari HP:350/350 MP:68/68
+C-Mokoi HP:74/74 MP:36/36
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mokoi
+2-Joker
+3-Kanbari
+----------------------------------------
+Seleccione una acción para Mokoi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kazfiel HP:469/469 MP:197/211
+2-Mushussu HP:171/399 MP:179/179
+3-Dybbuk HP:66/66 MP:63/63
+4-Nergal HP:644/644 MP:288/288
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Mushussu ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1284/1317 MP:615/625
+B-Kama HP:572/574 MP:209/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:193/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:287/597 MP:347/347
+B-Kanbari HP:350/350 MP:68/68
+C-Mushussu HP:171/399 MP:179/179
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Kanbari
+3-Mushussu
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Hamaon MP:10
+2-Recarm MP:20
+3-Ziodyne MP:14
+4-Lunge MP:6
+5-Damascus Claw MP:7
+6-Diarahan MP:16
+7-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Shujinko HP:1284/1317 MP:615/625
+2-Kama HP:572/574 MP:209/257
+3-Nergal HP:644/644 MP:288/288
+4-Koppa Tengu HP:193/196 MP:88/88
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Joker ataca con luz a Nergal
+Nergal bloquea el ataque de Joker
+Nergal termina con HP:644/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1284/1317 MP:615/625
+B-Kama HP:572/574 MP:209/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:193/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:287/597 MP:337/347
+B-Kanbari HP:350/350 MP:68/68
+C-Mushussu HP:171/399 MP:179/179
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Kama
+3-Nergal
+4-Koppa Tengu
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Joker HP:287/597 MP:337/347
+2-Kanbari HP:350/350 MP:68/68
+3-Mushussu HP:171/399 MP:179/179
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1284/1317 MP:615/625
+B-Kama HP:572/574 MP:209/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:193/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:287/597 MP:337/347
+B-Kanbari HP:350/350 MP:68/68
+C-Mushussu HP:171/399 MP:179/179
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kama
+2-Nergal
+3-Koppa Tengu
+4-Shujinko
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Patrimpas HP:155/155 MP:149/149
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Patrimpas ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1284/1317 MP:615/625
+B-Patrimpas HP:155/155 MP:149/149
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:193/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:287/597 MP:337/347
+B-Kanbari HP:350/350 MP:68/68
+C-Mushussu HP:171/399 MP:179/179
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Koppa Tengu
+3-Shujinko
+4-Patrimpas
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nergal use
+1-Hamaon MP:10
+2-Heaven's Bow MP:26
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1284/1317 MP:615/625
+B-Patrimpas HP:155/155 MP:149/149
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:193/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:287/597 MP:337/347
+B-Kanbari HP:350/350 MP:68/68
+C-Mushussu HP:171/399 MP:179/179
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Koppa Tengu
+2-Shujinko
+3-Patrimpas
+4-Nergal
+----------------------------------------
+Seleccione una acción para Koppa Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koppa Tengu
+1-Joker HP:287/597 MP:337/347
+2-Kanbari HP:350/350 MP:68/68
+3-Mushussu HP:171/399 MP:179/179
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Koppa Tengu ataca a Mushussu
+Mushussu recibe 14 de daño
+Mushussu termina con HP:157/399
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1284/1317 MP:615/625
+B-Patrimpas HP:155/155 MP:149/149
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:193/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:287/597 MP:337/347
+B-Kanbari HP:350/350 MP:68/68
+C-Mushussu HP:157/399 MP:179/179
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Patrimpas
+3-Nergal
+4-Koppa Tengu
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1284/1317 MP:615/625
+B-Patrimpas HP:155/155 MP:149/149
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:193/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:287/597 MP:337/347
+B-Kanbari HP:350/350 MP:68/68
+C-Mushussu HP:157/399 MP:179/179
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Patrimpas
+2-Nergal
+3-Koppa Tengu
+4-Shujinko
+----------------------------------------
+Seleccione una acción para Patrimpas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Patrimpas use
+1-Zanma MP:8
+2-Mazan MP:11
+3-Recarm MP:20
+4-Tetraja MP:15
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Patrimpas
+1-Joker HP:287/597 MP:337/347
+2-Kanbari HP:350/350 MP:68/68
+3-Mushussu HP:157/399 MP:179/179
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Patrimpas lanza viento a Joker
+Joker recibe 70 de daño
+Joker termina con HP:217/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1284/1317 MP:615/625
+B-Patrimpas HP:155/155 MP:141/149
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:193/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:217/597 MP:337/347
+B-Kanbari HP:350/350 MP:68/68
+C-Mushussu HP:157/399 MP:179/179
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Koppa Tengu
+3-Shujinko
+4-Patrimpas
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1284/1317 MP:615/625
+B-Patrimpas HP:155/155 MP:141/149
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:193/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:217/597 MP:337/347
+B-Kanbari HP:350/350 MP:68/68
+C-Mushussu HP:157/399 MP:179/179
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Koppa Tengu
+2-Shujinko
+3-Patrimpas
+4-Nergal
+----------------------------------------
+Seleccione una acción para Koppa Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Koppa Tengu
+1-Joker HP:217/597 MP:337/347
+2-Kanbari HP:350/350 MP:68/68
+3-Mushussu HP:157/399 MP:179/179
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Koppa Tengu ataca a Mushussu
+Mushussu recibe 14 de daño
+Mushussu termina con HP:143/399
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1284/1317 MP:615/625
+B-Patrimpas HP:155/155 MP:141/149
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:193/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:217/597 MP:337/347
+B-Kanbari HP:350/350 MP:68/68
+C-Mushussu HP:143/399 MP:179/179
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Joker
+3-Kanbari
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mokoi HP:74/74 MP:36/36
+2-Kazfiel HP:469/469 MP:197/211
+3-Dybbuk HP:66/66 MP:63/63
+4-Nergal HP:644/644 MP:288/288
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1284/1317 MP:615/625
+B-Patrimpas HP:155/155 MP:141/149
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:193/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:217/597 MP:337/347
+B-Kanbari HP:350/350 MP:68/68
+C-Mushussu HP:143/399 MP:179/179
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Kanbari
+3-Mushussu
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1284/1317 MP:615/625
+B-Patrimpas HP:155/155 MP:141/149
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:193/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:217/597 MP:337/347
+B-Kanbari HP:350/350 MP:68/68
+C-Mushussu HP:143/399 MP:179/179
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kanbari
+2-Mushussu
+3-Joker
+----------------------------------------
+Seleccione una acción para Kanbari
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1284/1317 MP:615/625
+B-Patrimpas HP:155/155 MP:141/149
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:193/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:217/597 MP:337/347
+B-Kanbari HP:350/350 MP:68/68
+C-Mushussu HP:143/399 MP:179/179
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Joker
+3-Kanbari
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mokoi HP:74/74 MP:36/36
+2-Kazfiel HP:469/469 MP:197/211
+3-Dybbuk HP:66/66 MP:63/63
+4-Nergal HP:644/644 MP:288/288
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kazfiel ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1284/1317 MP:615/625
+B-Patrimpas HP:155/155 MP:141/149
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:193/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:217/597 MP:337/347
+B-Kanbari HP:350/350 MP:68/68
+C-Kazfiel HP:469/469 MP:197/211
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Kanbari
+3-Kazfiel
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1284/1317 MP:615/625
+B-Patrimpas HP:155/155 MP:141/149
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:193/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:217/597 MP:337/347
+B-Kanbari HP:350/350 MP:68/68
+C-Kazfiel HP:469/469 MP:197/211
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kanbari
+2-Kazfiel
+3-Joker
+----------------------------------------
+Seleccione una acción para Kanbari
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mokoi HP:74/74 MP:36/36
+2-Mushussu HP:143/399 MP:179/179
+3-Dybbuk HP:66/66 MP:63/63
+4-Nergal HP:644/644 MP:288/288
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Nergal ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1284/1317 MP:615/625
+B-Patrimpas HP:155/155 MP:141/149
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:193/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:217/597 MP:337/347
+B-Nergal HP:644/644 MP:288/288
+C-Kazfiel HP:469/469 MP:197/211
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Nergal
+3-Koppa Tengu
+4-Patrimpas
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Joker HP:217/597 MP:337/347
+2-Nergal HP:644/644 MP:288/288
+3-Kazfiel HP:469/469 MP:197/211
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Shujinko dispara a Nergal
+Nergal recibe 228 de daño
+Nergal termina con HP:416/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1284/1317 MP:615/625
+B-Patrimpas HP:155/155 MP:141/149
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:193/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:217/597 MP:337/347
+B-Nergal HP:416/644 MP:288/288
+C-Kazfiel HP:469/469 MP:197/211
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Koppa Tengu
+3-Patrimpas
+4-Shujinko
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kama HP:572/574 MP:209/257
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1284/1317 MP:615/625
+B-Patrimpas HP:155/155 MP:141/149
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:193/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:217/597 MP:337/347
+B-Nergal HP:416/644 MP:288/288
+C-Kazfiel HP:469/469 MP:197/211
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Koppa Tengu
+2-Patrimpas
+3-Shujinko
+4-Nergal
+----------------------------------------
+Seleccione una acción para Koppa Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1284/1317 MP:615/625
+B-Patrimpas HP:155/155 MP:141/149
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:193/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:217/597 MP:337/347
+B-Nergal HP:416/644 MP:288/288
+C-Kazfiel HP:469/469 MP:197/211
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Patrimpas
+2-Shujinko
+3-Nergal
+4-Koppa Tengu
+----------------------------------------
+Seleccione una acción para Patrimpas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kama HP:572/574 MP:209/257
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Patrimpas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Patrimpas use
+1-Zanma MP:8
+2-Mazan MP:11
+3-Recarm MP:20
+4-Tetraja MP:15
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Patrimpas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kama HP:572/574 MP:209/257
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kama ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1284/1317 MP:615/625
+B-Kama HP:572/574 MP:209/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:193/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:217/597 MP:337/347
+B-Nergal HP:416/644 MP:288/288
+C-Kazfiel HP:469/469 MP:197/211
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Shujinko
+2-Nergal
+3-Koppa Tengu
+4-Kama
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Joker HP:217/597 MP:337/347
+2-Nergal HP:416/644 MP:288/288
+3-Kazfiel HP:469/469 MP:197/211
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Joker HP:217/597 MP:337/347
+2-Nergal HP:416/644 MP:288/288
+3-Kazfiel HP:469/469 MP:197/211
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Shujinko ataca a Kazfiel
+Kazfiel recibe 187 de daño
+Kazfiel termina con HP:282/469
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1284/1317 MP:615/625
+B-Kama HP:572/574 MP:209/257
+C-Nergal HP:644/644 MP:288/288
+D-Koppa Tengu HP:193/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:217/597 MP:337/347
+B-Nergal HP:416/644 MP:288/288
+C-Kazfiel HP:282/469 MP:197/211
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Koppa Tengu
+3-Kama
+4-Shujinko
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Patrimpas HP:155/155 MP:141/149
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Patrimpas ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1284/1317 MP:615/625
+B-Kama HP:572/574 MP:209/257
+C-Patrimpas HP:155/155 MP:141/149
+D-Koppa Tengu HP:193/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:217/597 MP:337/347
+B-Nergal HP:416/644 MP:288/288
+C-Kazfiel HP:282/469 MP:197/211
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Koppa Tengu
+2-Kama
+3-Shujinko
+4-Patrimpas
+----------------------------------------
+Seleccione una acción para Koppa Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nergal HP:644/644 MP:288/288
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nergal ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1284/1317 MP:615/625
+B-Kama HP:572/574 MP:209/257
+C-Patrimpas HP:155/155 MP:141/149
+D-Nergal HP:644/644 MP:288/288
+Equipo de Joker (J2)
+A-Joker HP:217/597 MP:337/347
+B-Nergal HP:416/644 MP:288/288
+C-Kazfiel HP:282/469 MP:197/211
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Kazfiel
+3-Joker
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nergal use
+1-Hamaon MP:10
+2-Heaven's Bow MP:26
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Shujinko HP:1284/1317 MP:615/625
+2-Kama HP:572/574 MP:209/257
+3-Patrimpas HP:155/155 MP:141/149
+4-Nergal HP:644/644 MP:288/288
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Shujinko HP:1284/1317 MP:615/625
+2-Kama HP:572/574 MP:209/257
+3-Patrimpas HP:155/155 MP:141/149
+4-Nergal HP:644/644 MP:288/288
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nergal ataca a Shujinko
+Shujinko es resistente el ataque de Nergal
+Shujinko recibe 27 de daño
+Shujinko termina con HP:1257/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1257/1317 MP:615/625
+B-Kama HP:572/574 MP:209/257
+C-Patrimpas HP:155/155 MP:141/149
+D-Nergal HP:644/644 MP:288/288
+Equipo de Joker (J2)
+A-Joker HP:217/597 MP:337/347
+B-Nergal HP:416/644 MP:288/288
+C-Kazfiel HP:282/469 MP:197/211
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Joker
+3-Nergal
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Shujinko HP:1257/1317 MP:615/625
+2-Kama HP:572/574 MP:209/257
+3-Patrimpas HP:155/155 MP:141/149
+4-Nergal HP:644/644 MP:288/288
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1257/1317 MP:615/625
+B-Kama HP:572/574 MP:209/257
+C-Patrimpas HP:155/155 MP:141/149
+D-Nergal HP:644/644 MP:288/288
+Equipo de Joker (J2)
+A-Joker HP:217/597 MP:337/347
+B-Nergal HP:416/644 MP:288/288
+C-Kazfiel HP:282/469 MP:197/211
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Nergal
+3-Kazfiel
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Shujinko HP:1257/1317 MP:615/625
+2-Kama HP:572/574 MP:209/257
+3-Patrimpas HP:155/155 MP:141/149
+4-Nergal HP:644/644 MP:288/288
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Joker dispara a Kama
+Kama bloquea el ataque de Joker
+Kama termina con HP:572/574
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1257/1317 MP:615/625
+B-Kama HP:572/574 MP:209/257
+C-Patrimpas HP:155/155 MP:141/149
+D-Nergal HP:644/644 MP:288/288
+Equipo de Joker (J2)
+A-Joker HP:217/597 MP:337/347
+B-Nergal HP:416/644 MP:288/288
+C-Kazfiel HP:282/469 MP:197/211
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Kama
+3-Nergal
+4-Patrimpas
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Joker HP:217/597 MP:337/347
+2-Nergal HP:416/644 MP:288/288
+3-Kazfiel HP:282/469 MP:197/211
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Shujinko dispara a Nergal
+Nergal recibe 228 de daño
+Nergal termina con HP:188/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1257/1317 MP:615/625
+B-Kama HP:572/574 MP:209/257
+C-Patrimpas HP:155/155 MP:141/149
+D-Nergal HP:644/644 MP:288/288
+Equipo de Joker (J2)
+A-Joker HP:217/597 MP:337/347
+B-Nergal HP:188/644 MP:288/288
+C-Kazfiel HP:282/469 MP:197/211
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Nergal
+3-Patrimpas
+4-Shujinko
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Joker HP:217/597 MP:337/347
+2-Nergal HP:188/644 MP:288/288
+3-Kazfiel HP:282/469 MP:197/211
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kama ataca a Joker
+Joker recibe 48 de daño
+Joker termina con HP:169/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1257/1317 MP:615/625
+B-Kama HP:572/574 MP:209/257
+C-Patrimpas HP:155/155 MP:141/149
+D-Nergal HP:644/644 MP:288/288
+Equipo de Joker (J2)
+A-Joker HP:169/597 MP:337/347
+B-Nergal HP:188/644 MP:288/288
+C-Kazfiel HP:282/469 MP:197/211
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Patrimpas
+3-Shujinko
+4-Kama
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nergal use
+1-Hamaon MP:10
+2-Heaven's Bow MP:26
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Joker HP:169/597 MP:337/347
+2-Nergal HP:188/644 MP:288/288
+3-Kazfiel HP:282/469 MP:197/211
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nergal ataca con luz a Kazfiel
+Kazfiel bloquea el ataque de Nergal
+Kazfiel termina con HP:282/469
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1257/1317 MP:615/625
+B-Kama HP:572/574 MP:209/257
+C-Patrimpas HP:155/155 MP:141/149
+D-Nergal HP:644/644 MP:278/288
+Equipo de Joker (J2)
+A-Joker HP:169/597 MP:337/347
+B-Nergal HP:188/644 MP:288/288
+C-Kazfiel HP:282/469 MP:197/211
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Kazfiel
+3-Joker
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1257/1317 MP:615/625
+B-Kama HP:572/574 MP:209/257
+C-Patrimpas HP:155/155 MP:141/149
+D-Nergal HP:644/644 MP:278/288
+Equipo de Joker (J2)
+A-Joker HP:169/597 MP:337/347
+B-Nergal HP:188/644 MP:288/288
+C-Kazfiel HP:282/469 MP:197/211
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Joker
+3-Nergal
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mokoi HP:74/74 MP:36/36
+2-Mushussu HP:143/399 MP:179/179
+3-Kanbari HP:350/350 MP:68/68
+4-Dybbuk HP:66/66 MP:63/63
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Mushussu ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1257/1317 MP:615/625
+B-Kama HP:572/574 MP:209/257
+C-Patrimpas HP:155/155 MP:141/149
+D-Nergal HP:644/644 MP:278/288
+Equipo de Joker (J2)
+A-Joker HP:169/597 MP:337/347
+B-Nergal HP:188/644 MP:288/288
+C-Mushussu HP:143/399 MP:179/179
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Nergal
+3-Mushussu
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Shujinko HP:1257/1317 MP:615/625
+2-Kama HP:572/574 MP:209/257
+3-Patrimpas HP:155/155 MP:141/149
+4-Nergal HP:644/644 MP:278/288
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Joker dispara a Patrimpas
+Patrimpas recibe 39 de daño
+Patrimpas termina con HP:116/155
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1257/1317 MP:615/625
+B-Kama HP:572/574 MP:209/257
+C-Patrimpas HP:116/155 MP:141/149
+D-Nergal HP:644/644 MP:278/288
+Equipo de Joker (J2)
+A-Joker HP:169/597 MP:337/347
+B-Nergal HP:188/644 MP:288/288
+C-Mushussu HP:143/399 MP:179/179
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Mushussu
+3-Joker
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Shujinko HP:1257/1317 MP:615/625
+2-Kama HP:572/574 MP:209/257
+3-Patrimpas HP:116/155 MP:141/149
+4-Nergal HP:644/644 MP:278/288
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nergal ataca a Patrimpas
+Patrimpas recibe 54 de daño
+Patrimpas termina con HP:62/155
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1257/1317 MP:615/625
+B-Kama HP:572/574 MP:209/257
+C-Patrimpas HP:62/155 MP:141/149
+D-Nergal HP:644/644 MP:278/288
+Equipo de Joker (J2)
+A-Joker HP:169/597 MP:337/347
+B-Nergal HP:188/644 MP:288/288
+C-Mushussu HP:143/399 MP:179/179
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Kama
+3-Nergal
+4-Patrimpas
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1257/1317 MP:615/625
+B-Kama HP:572/574 MP:209/257
+C-Patrimpas HP:62/155 MP:141/149
+D-Nergal HP:644/644 MP:278/288
+Equipo de Joker (J2)
+A-Joker HP:169/597 MP:337/347
+B-Nergal HP:188/644 MP:288/288
+C-Mushussu HP:143/399 MP:179/179
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kama
+2-Nergal
+3-Patrimpas
+4-Shujinko
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1257/1317 MP:615/625
+B-Kama HP:572/574 MP:209/257
+C-Patrimpas HP:62/155 MP:141/149
+D-Nergal HP:644/644 MP:278/288
+Equipo de Joker (J2)
+A-Joker HP:169/597 MP:337/347
+B-Nergal HP:188/644 MP:288/288
+C-Mushussu HP:143/399 MP:179/179
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Patrimpas
+3-Shujinko
+4-Kama
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Koppa Tengu HP:193/196 MP:88/88
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Joker HP:169/597 MP:337/347
+2-Nergal HP:188/644 MP:288/288
+3-Mushussu HP:143/399 MP:179/179
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Koppa Tengu HP:193/196 MP:88/88
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Joker HP:169/597 MP:337/347
+2-Nergal HP:188/644 MP:288/288
+3-Mushussu HP:143/399 MP:179/179
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Joker HP:169/597 MP:337/347
+2-Nergal HP:188/644 MP:288/288
+3-Mushussu HP:143/399 MP:179/179
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nergal ataca a Mushussu
+Mushussu recibe 54 de daño
+Mushussu termina con HP:89/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1257/1317 MP:615/625
+B-Kama HP:572/574 MP:209/257
+C-Patrimpas HP:62/155 MP:141/149
+D-Nergal HP:644/644 MP:278/288
+Equipo de Joker (J2)
+A-Joker HP:169/597 MP:337/347
+B-Nergal HP:188/644 MP:288/288
+C-Mushussu HP:89/399 MP:179/179
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Patrimpas
+2-Shujinko
+3-Kama
+4-Nergal
+----------------------------------------
+Seleccione una acción para Patrimpas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Patrimpas use
+1-Zanma MP:8
+2-Mazan MP:11
+3-Recarm MP:20
+4-Tetraja MP:15
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Patrimpas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Patrimpas use
+1-Zanma MP:8
+2-Mazan MP:11
+3-Recarm MP:20
+4-Tetraja MP:15
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Patrimpas
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Patrimpas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Patrimpas
+1-Joker HP:169/597 MP:337/347
+2-Nergal HP:188/644 MP:288/288
+3-Mushussu HP:89/399 MP:179/179
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Patrimpas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Koppa Tengu HP:193/196 MP:88/88
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Patrimpas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Patrimpas
+1-Joker HP:169/597 MP:337/347
+2-Nergal HP:188/644 MP:288/288
+3-Mushussu HP:89/399 MP:179/179
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Patrimpas ataca a Mushussu
+Mushussu recibe 16 de daño
+Mushussu termina con HP:73/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1257/1317 MP:615/625
+B-Kama HP:572/574 MP:209/257
+C-Patrimpas HP:62/155 MP:141/149
+D-Nergal HP:644/644 MP:278/288
+Equipo de Joker (J2)
+A-Joker HP:169/597 MP:337/347
+B-Nergal HP:188/644 MP:288/288
+C-Mushussu HP:73/399 MP:179/179
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Kama
+3-Nergal
+4-Patrimpas
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Joker HP:169/597 MP:337/347
+2-Nergal HP:188/644 MP:288/288
+3-Mushussu HP:73/399 MP:179/179
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Shujinko ataca a Nergal
+Nergal recibe 187 de daño
+Nergal termina con HP:1/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1257/1317 MP:615/625
+B-Kama HP:572/574 MP:209/257
+C-Patrimpas HP:62/155 MP:141/149
+D-Nergal HP:644/644 MP:278/288
+Equipo de Joker (J2)
+A-Joker HP:169/597 MP:337/347
+B-Nergal HP:1/644 MP:288/288
+C-Mushussu HP:73/399 MP:179/179
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Mushussu
+3-Joker
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mokoi HP:74/74 MP:36/36
+2-Kazfiel HP:282/469 MP:197/211
+3-Kanbari HP:350/350 MP:68/68
+4-Dybbuk HP:66/66 MP:63/63
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Dybbuk ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1257/1317 MP:615/625
+B-Kama HP:572/574 MP:209/257
+C-Patrimpas HP:62/155 MP:141/149
+D-Nergal HP:644/644 MP:278/288
+Equipo de Joker (J2)
+A-Joker HP:169/597 MP:337/347
+B-Dybbuk HP:66/66 MP:63/63
+C-Mushussu HP:73/399 MP:179/179
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Joker
+3-Dybbuk
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mushussu use
+1-Ziodyne MP:14
+2-Posumudi MP:5
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1257/1317 MP:615/625
+B-Kama HP:572/574 MP:209/257
+C-Patrimpas HP:62/155 MP:141/149
+D-Nergal HP:644/644 MP:278/288
+Equipo de Joker (J2)
+A-Joker HP:169/597 MP:337/347
+B-Dybbuk HP:66/66 MP:63/63
+C-Mushussu HP:73/399 MP:179/179
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Dybbuk
+3-Mushussu
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Hamaon MP:10
+2-Recarm MP:20
+3-Ziodyne MP:14
+4-Lunge MP:6
+5-Damascus Claw MP:7
+6-Diarahan MP:16
+7-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Shujinko HP:1257/1317 MP:615/625
+2-Kama HP:572/574 MP:209/257
+3-Patrimpas HP:62/155 MP:141/149
+4-Nergal HP:644/644 MP:278/288
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Joker ataca a Nergal
+Nergal recibe 65 de daño
+Nergal termina con HP:579/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1257/1317 MP:615/625
+B-Kama HP:572/574 MP:209/257
+C-Patrimpas HP:62/155 MP:141/149
+D-Nergal HP:579/644 MP:278/288
+Equipo de Joker (J2)
+A-Joker HP:169/597 MP:331/347
+B-Dybbuk HP:66/66 MP:63/63
+C-Mushussu HP:73/399 MP:179/179
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dybbuk
+2-Mushussu
+3-Joker
+----------------------------------------
+Seleccione una acción para Dybbuk
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dybbuk
+1-Shujinko HP:1257/1317 MP:615/625
+2-Kama HP:572/574 MP:209/257
+3-Patrimpas HP:62/155 MP:141/149
+4-Nergal HP:579/644 MP:278/288
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Dybbuk ataca a Kama
+Kama es resistente el ataque de Dybbuk
+Kama recibe 2 de daño
+Kama termina con HP:570/574
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1257/1317 MP:615/625
+B-Kama HP:570/574 MP:209/257
+C-Patrimpas HP:62/155 MP:141/149
+D-Nergal HP:579/644 MP:278/288
+Equipo de Joker (J2)
+A-Joker HP:169/597 MP:331/347
+B-Dybbuk HP:66/66 MP:63/63
+C-Mushussu HP:73/399 MP:179/179
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Kama
+3-Nergal
+4-Patrimpas
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Joker HP:169/597 MP:331/347
+2-Dybbuk HP:66/66 MP:63/63
+3-Mushussu HP:73/399 MP:179/179
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Hamaon MP:10
+2-Agidyne MP:14
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Joker HP:169/597 MP:331/347
+2-Dybbuk HP:66/66 MP:63/63
+3-Mushussu HP:73/399 MP:179/179
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Shujinko ataca con luz a Mushussu
+Mushussu ha sido eliminado
+Mushussu termina con HP:0/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1257/1317 MP:605/625
+B-Kama HP:570/574 MP:209/257
+C-Patrimpas HP:62/155 MP:141/149
+D-Nergal HP:579/644 MP:278/288
+Equipo de Joker (J2)
+A-Joker HP:169/597 MP:331/347
+B-Dybbuk HP:66/66 MP:63/63
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Nergal
+3-Patrimpas
+4-Shujinko
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Joker HP:169/597 MP:331/347
+2-Dybbuk HP:66/66 MP:63/63
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kama use
+1-Tetraja MP:15
+2-Madness Needle MP:11
+3-Diarahan MP:16
+4-Heaven's Bow MP:26
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Shujinko HP:1257/1317 MP:605/625
+2-Kama HP:570/574 MP:209/257
+3-Patrimpas HP:62/155 MP:141/149
+4-Nergal HP:579/644 MP:278/288
+5-Koppa Tengu HP:193/196 MP:88/88
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Kama cura a Nergal
+Nergal recibe 644 de HP
+Nergal termina con HP:644/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1257/1317 MP:605/625
+B-Kama HP:570/574 MP:193/257
+C-Patrimpas HP:62/155 MP:141/149
+D-Nergal HP:644/644 MP:278/288
+Equipo de Joker (J2)
+A-Joker HP:169/597 MP:331/347
+B-Dybbuk HP:66/66 MP:63/63
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Patrimpas
+3-Shujinko
+4-Kama
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Joker HP:169/597 MP:331/347
+2-Dybbuk HP:66/66 MP:63/63
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Nergal ataca a Dybbuk
+Dybbuk recibe 54 de daño
+Dybbuk termina con HP:12/66
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1257/1317 MP:605/625
+B-Kama HP:570/574 MP:193/257
+C-Patrimpas HP:62/155 MP:141/149
+D-Nergal HP:644/644 MP:278/288
+Equipo de Joker (J2)
+A-Joker HP:169/597 MP:331/347
+B-Dybbuk HP:12/66 MP:63/63
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Patrimpas
+2-Shujinko
+3-Kama
+4-Nergal
+----------------------------------------
+Seleccione una acción para Patrimpas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Patrimpas use
+1-Zanma MP:8
+2-Mazan MP:11
+3-Recarm MP:20
+4-Tetraja MP:15
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Patrimpas
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Patrimpas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Patrimpas
+1-Joker HP:169/597 MP:331/347
+2-Dybbuk HP:12/66 MP:63/63
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Patrimpas ataca a Joker
+Joker recibe 16 de daño
+Joker termina con HP:153/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1257/1317 MP:605/625
+B-Kama HP:570/574 MP:193/257
+C-Patrimpas HP:62/155 MP:141/149
+D-Nergal HP:644/644 MP:278/288
+Equipo de Joker (J2)
+A-Joker HP:153/597 MP:331/347
+B-Dybbuk HP:12/66 MP:63/63
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Dybbuk
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Shujinko HP:1257/1317 MP:605/625
+2-Kama HP:570/574 MP:193/257
+3-Patrimpas HP:62/155 MP:141/149
+4-Nergal HP:644/644 MP:278/288
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Joker dispara a Nergal
+Nergal recibe 39 de daño
+Nergal termina con HP:605/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1257/1317 MP:605/625
+B-Kama HP:570/574 MP:193/257
+C-Patrimpas HP:62/155 MP:141/149
+D-Nergal HP:605/644 MP:278/288
+Equipo de Joker (J2)
+A-Joker HP:153/597 MP:331/347
+B-Dybbuk HP:12/66 MP:63/63
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dybbuk
+2-Joker
+----------------------------------------
+Seleccione una acción para Dybbuk
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1257/1317 MP:605/625
+B-Kama HP:570/574 MP:193/257
+C-Patrimpas HP:62/155 MP:141/149
+D-Nergal HP:605/644 MP:278/288
+Equipo de Joker (J2)
+A-Joker HP:153/597 MP:331/347
+B-Dybbuk HP:12/66 MP:63/63
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Dybbuk
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Shujinko HP:1257/1317 MP:605/625
+2-Kama HP:570/574 MP:193/257
+3-Patrimpas HP:62/155 MP:141/149
+4-Nergal HP:605/644 MP:278/288
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Joker ataca a Patrimpas
+Patrimpas recibe 28 de daño
+Patrimpas termina con HP:34/155
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J1)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1257/1317 MP:605/625
+B-Kama HP:570/574 MP:193/257
+C-Patrimpas HP:34/155 MP:141/149
+D-Nergal HP:605/644 MP:278/288
+Equipo de Joker (J2)
+A-Joker HP:153/597 MP:331/347
+B-Dybbuk HP:12/66 MP:63/63
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Kama
+3-Nergal
+4-Patrimpas
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Koppa Tengu HP:193/196 MP:88/88
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Kama HP:570/574 MP:193/257 (Puesto 2)
+2-Patrimpas HP:34/155 MP:141/149 (Puesto 3)
+3-Nergal HP:605/644 MP:278/288 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Joker HP:153/597 MP:331/347
+2-Dybbuk HP:12/66 MP:63/63
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko ataca a Joker
+Joker recibe 187 de daño
+Joker termina con HP:0/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1257/1317 MP:605/625
+B-Kama HP:570/574 MP:193/257
+C-Patrimpas HP:34/155 MP:141/149
+D-Nergal HP:605/644 MP:278/288
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:331/347
+B-Dybbuk HP:12/66 MP:63/63
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Nergal
+3-Patrimpas
+4-Shujinko
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Dybbuk HP:12/66 MP:63/63
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1257/1317 MP:605/625
+B-Kama HP:570/574 MP:193/257
+C-Patrimpas HP:34/155 MP:141/149
+D-Nergal HP:605/644 MP:278/288
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:331/347
+B-Dybbuk HP:12/66 MP:63/63
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nergal
+2-Patrimpas
+3-Shujinko
+4-Kama
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nergal use
+1-Hamaon MP:10
+2-Heaven's Bow MP:26
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Koppa Tengu HP:193/196 MP:88/88
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Koppa Tengu ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Shujinko (J1)
+A-Shujinko HP:1257/1317 MP:605/625
+B-Kama HP:570/574 MP:193/257
+C-Patrimpas HP:34/155 MP:141/149
+D-Koppa Tengu HP:193/196 MP:88/88
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:331/347
+B-Dybbuk HP:12/66 MP:63/63
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Patrimpas
+2-Shujinko
+3-Kama
+4-Koppa Tengu
+----------------------------------------
+Seleccione una acción para Patrimpas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Patrimpas
+1-Dybbuk HP:12/66 MP:63/63
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Patrimpas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Patrimpas
+1-Dybbuk HP:12/66 MP:63/63
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Patrimpas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Patrimpas
+1-Dybbuk HP:12/66 MP:63/63
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Patrimpas ataca a Dybbuk
+Dybbuk recibe 16 de daño
+Dybbuk termina con HP:0/66
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Shujinko (J1)

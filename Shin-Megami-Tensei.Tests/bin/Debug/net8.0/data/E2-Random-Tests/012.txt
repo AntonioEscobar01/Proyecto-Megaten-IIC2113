@@ -1,0 +1,7348 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+120: 121.txt
+121: 122.txt
+122: 123.txt
+123: 124.txt
+124: 125.txt
+125: 126.txt
+126: 127.txt
+127: 128.txt
+128: 129.txt
+129: 130.txt
+130: 131.txt
+131: 132.txt
+132: 133.txt
+133: 134.txt
+134: 135.txt
+135: 136.txt
+136: 137.txt
+137: 138.txt
+138: 139.txt
+139: 140.txt
+140: 141.txt
+141: 142.txt
+142: 143.txt
+143: 144.txt
+144: 145.txt
+145: 146.txt
+146: 147.txt
+147: 148.txt
+148: 149.txt
+149: 150.txt
+150: 151.txt
+151: 152.txt
+152: 153.txt
+153: 154.txt
+154: 155.txt
+155: 156.txt
+156: 157.txt
+157: 158.txt
+158: 159.txt
+159: 160.txt
+160: 161.txt
+161: 162.txt
+162: 163.txt
+163: 164.txt
+164: 165.txt
+165: 166.txt
+166: 167.txt
+167: 168.txt
+168: 169.txt
+169: 170.txt
+170: 171.txt
+171: 172.txt
+172: 173.txt
+173: 174.txt
+174: 175.txt
+175: 176.txt
+176: 177.txt
+177: 178.txt
+178: 179.txt
+179: 180.txt
+180: 181.txt
+181: 182.txt
+182: 183.txt
+183: 184.txt
+184: 185.txt
+185: 186.txt
+186: 187.txt
+187: 188.txt
+188: 189.txt
+189: 190.txt
+190: 191.txt
+191: 192.txt
+192: 193.txt
+193: 194.txt
+194: 195.txt
+195: 196.txt
+196: 197.txt
+197: 198.txt
+198: 199.txt
+199: 200.txt
+INPUT: 11
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Sphinx HP:376/376 MP:364/364
+C-Manticore HP:385/385 MP:172/172
+D-Mushussu HP:399/399 MP:179/179
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Chagrin HP:67/67 MP:72/72
+C-Patrimpas HP:155/155 MP:149/149
+D-Pale Rider HP:693/693 MP:310/310
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Mushussu
+3-Sphinx
+4-Manticore
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Gu Huo Niao HP:122/122 MP:117/117
+2-Lilith HP:380/380 MP:369/369
+3-Hel HP:254/254 MP:246/246
+4-Anubis HP:497/497 MP:223/223
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una posición para invocar
+1-Sphinx HP:376/376 MP:364/364 (Puesto 2)
+2-Manticore HP:385/385 MP:172/172 (Puesto 3)
+3-Mushussu HP:399/399 MP:179/179 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Anubis ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Sphinx HP:376/376 MP:364/364
+C-Anubis HP:497/497 MP:223/223
+D-Mushussu HP:399/399 MP:179/179
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Chagrin HP:67/67 MP:72/72
+C-Patrimpas HP:155/155 MP:149/149
+D-Pale Rider HP:693/693 MP:310/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Sphinx
+3-Anubis
+4-Yu
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Sphinx HP:376/376 MP:364/364
+C-Anubis HP:497/497 MP:223/223
+D-Mushussu HP:399/399 MP:179/179
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Chagrin HP:67/67 MP:72/72
+C-Patrimpas HP:155/155 MP:149/149
+D-Pale Rider HP:693/693 MP:310/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sphinx
+2-Anubis
+3-Yu
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sphinx use
+1-Mediarahan MP:40
+2-Mahamaon MP:30
+3-Grand Tack MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sphinx
+1-Shujinko HP:1317/1317 MP:625/625
+2-Chagrin HP:67/67 MP:72/72
+3-Patrimpas HP:155/155 MP:149/149
+4-Pale Rider HP:693/693 MP:310/310
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Sphinx ataca a Patrimpas
+Patrimpas recibe 52 de daño
+Patrimpas termina con HP:103/155
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Sphinx HP:376/376 MP:364/364
+C-Anubis HP:497/497 MP:223/223
+D-Mushussu HP:399/399 MP:179/179
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Chagrin HP:67/67 MP:72/72
+C-Patrimpas HP:103/155 MP:149/149
+D-Pale Rider HP:693/693 MP:310/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anubis
+2-Yu
+3-Mushussu
+4-Sphinx
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Anubis use
+1-Judgement Light MP:45
+2-Mamudoon MP:30
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Anubis use
+1-Judgement Light MP:45
+2-Mamudoon MP:30
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Manticore HP:385/385 MP:172/172
+2-Gu Huo Niao HP:122/122 MP:117/117
+3-Lilith HP:380/380 MP:369/369
+4-Hel HP:254/254 MP:246/246
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Lilith ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Sphinx HP:376/376 MP:364/364
+C-Lilith HP:380/380 MP:369/369
+D-Mushussu HP:399/399 MP:179/179
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Chagrin HP:67/67 MP:72/72
+C-Patrimpas HP:103/155 MP:149/149
+D-Pale Rider HP:693/693 MP:310/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Mushussu
+3-Sphinx
+4-Lilith
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Shujinko HP:1317/1317 MP:625/625
+2-Chagrin HP:67/67 MP:72/72
+3-Patrimpas HP:103/155 MP:149/149
+4-Pale Rider HP:693/693 MP:310/310
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Yu dispara a Chagrin
+Chagrin recibe 72 de daño
+Chagrin termina con HP:0/67
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Sphinx HP:376/376 MP:364/364
+C-Lilith HP:380/380 MP:369/369
+D-Mushussu HP:399/399 MP:179/179
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-
+C-Patrimpas HP:103/155 MP:149/149
+D-Pale Rider HP:693/693 MP:310/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Sphinx
+3-Lilith
+4-Yu
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Shujinko HP:1317/1317 MP:625/625
+2-Patrimpas HP:103/155 MP:149/149
+3-Pale Rider HP:693/693 MP:310/310
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Mushussu ataca a Patrimpas
+Patrimpas recibe 32 de daño
+Patrimpas termina con HP:71/155
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Sphinx HP:376/376 MP:364/364
+C-Lilith HP:380/380 MP:369/369
+D-Mushussu HP:399/399 MP:179/179
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-
+C-Patrimpas HP:71/155 MP:149/149
+D-Pale Rider HP:693/693 MP:310/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Pale Rider
+3-Patrimpas
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Yu HP:597/597 MP:347/347
+2-Sphinx HP:376/376 MP:364/364
+3-Lilith HP:380/380 MP:369/369
+4-Mushussu HP:399/399 MP:179/179
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Yu HP:597/597 MP:347/347
+2-Sphinx HP:376/376 MP:364/364
+3-Lilith HP:380/380 MP:369/369
+4-Mushussu HP:399/399 MP:179/179
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Shujinko ataca a Mushussu
+Mushussu recibe 187 de daño
+Mushussu termina con HP:212/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Sphinx HP:376/376 MP:364/364
+C-Lilith HP:380/380 MP:369/369
+D-Mushussu HP:212/399 MP:179/179
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-
+C-Patrimpas HP:71/155 MP:149/149
+D-Pale Rider HP:693/693 MP:310/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Patrimpas
+3-Shujinko
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Scathach HP:343/343 MP:153/153
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Scathach HP:343/343 MP:153/153
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pale Rider use
+1-Pandemic Bomb MP:11
+2-Death's Door MP:10
+3-Deadly Wind MP:22
+4-Debilitate MP:50
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Yu HP:597/597 MP:347/347
+2-Sphinx HP:376/376 MP:364/364
+3-Lilith HP:380/380 MP:369/369
+4-Mushussu HP:212/399 MP:179/179
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Pale Rider lanza viento a Yu
+Yu es resistente el ataque de Pale Rider
+Yu recibe 84 de daño
+Yu termina con HP:513/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:513/597 MP:347/347
+B-Sphinx HP:376/376 MP:364/364
+C-Lilith HP:380/380 MP:369/369
+D-Mushussu HP:212/399 MP:179/179
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-
+C-Patrimpas HP:71/155 MP:149/149
+D-Pale Rider HP:693/693 MP:288/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Patrimpas
+2-Shujinko
+3-Pale Rider
+----------------------------------------
+Seleccione una acción para Patrimpas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Scathach HP:343/343 MP:153/153
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Patrimpas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:513/597 MP:347/347
+B-Sphinx HP:376/376 MP:364/364
+C-Lilith HP:380/380 MP:369/369
+D-Mushussu HP:212/399 MP:179/179
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-
+C-Patrimpas HP:71/155 MP:149/149
+D-Pale Rider HP:693/693 MP:288/310
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Shujinko
+2-Pale Rider
+3-Patrimpas
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Yu HP:513/597 MP:347/347
+2-Sphinx HP:376/376 MP:364/364
+3-Lilith HP:380/380 MP:369/369
+4-Mushussu HP:212/399 MP:179/179
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Shujinko dispara a Sphinx
+Sphinx devuelve 228 daño a Shujinko
+Shujinko termina con HP:1089/1317
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:513/597 MP:347/347
+B-Sphinx HP:376/376 MP:364/364
+C-Lilith HP:380/380 MP:369/369
+D-Mushussu HP:212/399 MP:179/179
+Equipo de Shujinko (J2)
+A-Shujinko HP:1089/1317 MP:625/625
+B-
+C-Patrimpas HP:71/155 MP:149/149
+D-Pale Rider HP:693/693 MP:288/310
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Lilith
+3-Mushussu
+4-Sphinx
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:513/597 MP:347/347
+B-Sphinx HP:376/376 MP:364/364
+C-Lilith HP:380/380 MP:369/369
+D-Mushussu HP:212/399 MP:179/179
+Equipo de Shujinko (J2)
+A-Shujinko HP:1089/1317 MP:625/625
+B-
+C-Patrimpas HP:71/155 MP:149/149
+D-Pale Rider HP:693/693 MP:288/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lilith
+2-Mushussu
+3-Sphinx
+4-Yu
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lilith
+1-Shujinko HP:1089/1317 MP:625/625
+2-Patrimpas HP:71/155 MP:149/149
+3-Pale Rider HP:693/693 MP:288/310
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:513/597 MP:347/347
+B-Sphinx HP:376/376 MP:364/364
+C-Lilith HP:380/380 MP:369/369
+D-Mushussu HP:212/399 MP:179/179
+Equipo de Shujinko (J2)
+A-Shujinko HP:1089/1317 MP:625/625
+B-
+C-Patrimpas HP:71/155 MP:149/149
+D-Pale Rider HP:693/693 MP:288/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Sphinx
+3-Yu
+4-Lilith
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:513/597 MP:347/347
+B-Sphinx HP:376/376 MP:364/364
+C-Lilith HP:380/380 MP:369/369
+D-Mushussu HP:212/399 MP:179/179
+Equipo de Shujinko (J2)
+A-Shujinko HP:1089/1317 MP:625/625
+B-
+C-Patrimpas HP:71/155 MP:149/149
+D-Pale Rider HP:693/693 MP:288/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sphinx
+2-Yu
+3-Lilith
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Manticore HP:385/385 MP:172/172
+2-Gu Huo Niao HP:122/122 MP:117/117
+3-Hel HP:254/254 MP:246/246
+4-Anubis HP:497/497 MP:223/223
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Hel ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:513/597 MP:347/347
+B-Hel HP:254/254 MP:246/246
+C-Lilith HP:380/380 MP:369/369
+D-Mushussu HP:212/399 MP:179/179
+Equipo de Shujinko (J2)
+A-Shujinko HP:1089/1317 MP:625/625
+B-
+C-Patrimpas HP:71/155 MP:149/149
+D-Pale Rider HP:693/693 MP:288/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Lilith
+3-Mushussu
+4-Hel
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Shujinko HP:1089/1317 MP:625/625
+2-Patrimpas HP:71/155 MP:149/149
+3-Pale Rider HP:693/693 MP:288/310
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Yu dispara a Patrimpas
+Patrimpas recibe 72 de daño
+Patrimpas termina con HP:0/155
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:513/597 MP:347/347
+B-Hel HP:254/254 MP:246/246
+C-Lilith HP:380/380 MP:369/369
+D-Mushussu HP:212/399 MP:179/179
+Equipo de Shujinko (J2)
+A-Shujinko HP:1089/1317 MP:625/625
+B-
+C-
+D-Pale Rider HP:693/693 MP:288/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lilith
+2-Mushussu
+3-Hel
+4-Yu
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:513/597 MP:347/347
+B-Hel HP:254/254 MP:246/246
+C-Lilith HP:380/380 MP:369/369
+D-Mushussu HP:212/399 MP:179/179
+Equipo de Shujinko (J2)
+A-Shujinko HP:1089/1317 MP:625/625
+B-
+C-
+D-Pale Rider HP:693/693 MP:288/310
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Hel
+3-Yu
+4-Lilith
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Shujinko HP:1089/1317 MP:625/625
+2-Pale Rider HP:693/693 MP:288/310
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Mushussu ataca a Pale Rider
+Pale Rider recibe 32 de daño
+Pale Rider termina con HP:661/693
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:513/597 MP:347/347
+B-Hel HP:254/254 MP:246/246
+C-Lilith HP:380/380 MP:369/369
+D-Mushussu HP:212/399 MP:179/179
+Equipo de Shujinko (J2)
+A-Shujinko HP:1089/1317 MP:625/625
+B-
+C-
+D-Pale Rider HP:661/693 MP:288/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Pale Rider
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Yu HP:513/597 MP:347/347
+2-Hel HP:254/254 MP:246/246
+3-Lilith HP:380/380 MP:369/369
+4-Mushussu HP:212/399 MP:179/179
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko dispara a Yu
+Yu recibe 228 de daño
+Yu termina con HP:285/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:285/597 MP:347/347
+B-Hel HP:254/254 MP:246/246
+C-Lilith HP:380/380 MP:369/369
+D-Mushussu HP:212/399 MP:179/179
+Equipo de Shujinko (J2)
+A-Shujinko HP:1089/1317 MP:625/625
+B-
+C-
+D-Pale Rider HP:661/693 MP:288/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Shujinko
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pale Rider use
+1-Pandemic Bomb MP:11
+2-Death's Door MP:10
+3-Deadly Wind MP:22
+4-Debilitate MP:50
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Yu HP:285/597 MP:347/347
+2-Hel HP:254/254 MP:246/246
+3-Lilith HP:380/380 MP:369/369
+4-Mushussu HP:212/399 MP:179/179
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Pale Rider lanza viento a Yu
+Yu es resistente el ataque de Pale Rider
+Yu recibe 84 de daño
+Yu termina con HP:201/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:201/597 MP:347/347
+B-Hel HP:254/254 MP:246/246
+C-Lilith HP:380/380 MP:369/369
+D-Mushussu HP:212/399 MP:179/179
+Equipo de Shujinko (J2)
+A-Shujinko HP:1089/1317 MP:625/625
+B-
+C-
+D-Pale Rider HP:661/693 MP:266/310
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Lilith
+3-Mushussu
+4-Hel
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Shujinko HP:1089/1317 MP:625/625
+2-Pale Rider HP:661/693 MP:266/310
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Shujinko HP:1089/1317 MP:625/625
+2-Pale Rider HP:661/693 MP:266/310
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Shujinko HP:1089/1317 MP:625/625
+2-Pale Rider HP:661/693 MP:266/310
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Yu dispara a Shujinko
+Shujinko es resistente el ataque de Yu
+Shujinko recibe 36 de daño
+Shujinko termina con HP:1053/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:201/597 MP:347/347
+B-Hel HP:254/254 MP:246/246
+C-Lilith HP:380/380 MP:369/369
+D-Mushussu HP:212/399 MP:179/179
+Equipo de Shujinko (J2)
+A-Shujinko HP:1053/1317 MP:625/625
+B-
+C-
+D-Pale Rider HP:661/693 MP:266/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lilith
+2-Mushussu
+3-Hel
+4-Yu
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:201/597 MP:347/347
+B-Hel HP:254/254 MP:246/246
+C-Lilith HP:380/380 MP:369/369
+D-Mushussu HP:212/399 MP:179/179
+Equipo de Shujinko (J2)
+A-Shujinko HP:1053/1317 MP:625/625
+B-
+C-
+D-Pale Rider HP:661/693 MP:266/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Hel
+3-Yu
+4-Lilith
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Shujinko HP:1053/1317 MP:625/625
+2-Pale Rider HP:661/693 MP:266/310
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ataca a Shujinko
+Shujinko es resistente el ataque de Mushussu
+Shujinko recibe 16 de daño
+Shujinko termina con HP:1037/1317
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:201/597 MP:347/347
+B-Hel HP:254/254 MP:246/246
+C-Lilith HP:380/380 MP:369/369
+D-Mushussu HP:212/399 MP:179/179
+Equipo de Shujinko (J2)
+A-Shujinko HP:1037/1317 MP:625/625
+B-
+C-
+D-Pale Rider HP:661/693 MP:266/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Yu
+3-Lilith
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sphinx HP:376/376 MP:364/364
+2-Manticore HP:385/385 MP:172/172
+3-Gu Huo Niao HP:122/122 MP:117/117
+4-Anubis HP:497/497 MP:223/223
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Gu Huo Niao ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:201/597 MP:347/347
+B-Gu Huo Niao HP:122/122 MP:117/117
+C-Lilith HP:380/380 MP:369/369
+D-Mushussu HP:212/399 MP:179/179
+Equipo de Shujinko (J2)
+A-Shujinko HP:1037/1317 MP:625/625
+B-
+C-
+D-Pale Rider HP:661/693 MP:266/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Lilith
+3-Mushussu
+4-Gu Huo Niao
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Shujinko HP:1037/1317 MP:625/625
+2-Pale Rider HP:661/693 MP:266/310
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Yu dispara a Shujinko
+Shujinko es resistente el ataque de Yu
+Shujinko recibe 36 de daño
+Shujinko termina con HP:1001/1317
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:201/597 MP:347/347
+B-Gu Huo Niao HP:122/122 MP:117/117
+C-Lilith HP:380/380 MP:369/369
+D-Mushussu HP:212/399 MP:179/179
+Equipo de Shujinko (J2)
+A-Shujinko HP:1001/1317 MP:625/625
+B-
+C-
+D-Pale Rider HP:661/693 MP:266/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lilith
+2-Mushussu
+3-Gu Huo Niao
+4-Yu
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lilith use
+1-Lullaby MP:11
+2-Spirit Drain MP:5
+3-Charm Lightning MP:45
+4-Mediarahan MP:40
+5-Invitation MP:45
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lilith
+1-Shujinko HP:1001/1317 MP:625/625
+2-Pale Rider HP:661/693 MP:266/310
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Lilith ataca a Shujinko
+Shujinko es resistente el ataque de Lilith
+Shujinko recibe 20 de daño
+Shujinko termina con HP:981/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:201/597 MP:347/347
+B-Gu Huo Niao HP:122/122 MP:117/117
+C-Lilith HP:380/380 MP:369/369
+D-Mushussu HP:212/399 MP:179/179
+Equipo de Shujinko (J2)
+A-Shujinko HP:981/1317 MP:625/625
+B-
+C-
+D-Pale Rider HP:661/693 MP:266/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Pale Rider
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:201/597 MP:347/347
+B-Gu Huo Niao HP:122/122 MP:117/117
+C-Lilith HP:380/380 MP:369/369
+D-Mushussu HP:212/399 MP:179/179
+Equipo de Shujinko (J2)
+A-Shujinko HP:981/1317 MP:625/625
+B-
+C-
+D-Pale Rider HP:661/693 MP:266/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Shujinko
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:201/597 MP:347/347
+B-Gu Huo Niao HP:122/122 MP:117/117
+C-Lilith HP:380/380 MP:369/369
+D-Mushussu HP:212/399 MP:179/179
+Equipo de Shujinko (J2)
+A-Shujinko HP:981/1317 MP:625/625
+B-
+C-
+D-Pale Rider HP:661/693 MP:266/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Pale Rider
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Scathach HP:343/343 MP:153/153
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Yu HP:201/597 MP:347/347
+2-Gu Huo Niao HP:122/122 MP:117/117
+3-Lilith HP:380/380 MP:369/369
+4-Mushussu HP:212/399 MP:179/179
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Trisagion MP:22
+2-Dia MP:5
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:201/597 MP:347/347
+B-Gu Huo Niao HP:122/122 MP:117/117
+C-Lilith HP:380/380 MP:369/369
+D-Mushussu HP:212/399 MP:179/179
+Equipo de Shujinko (J2)
+A-Shujinko HP:981/1317 MP:625/625
+B-
+C-
+D-Pale Rider HP:661/693 MP:266/310
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Shujinko
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pale Rider use
+1-Pandemic Bomb MP:11
+2-Death's Door MP:10
+3-Deadly Wind MP:22
+4-Debilitate MP:50
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Yu HP:201/597 MP:347/347
+2-Gu Huo Niao HP:122/122 MP:117/117
+3-Lilith HP:380/380 MP:369/369
+4-Mushussu HP:212/399 MP:179/179
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Pale Rider lanza viento a Gu Huo Niao
+Gu Huo Niao es resistente el ataque de Pale Rider
+Gu Huo Niao recibe 84 de daño
+Gu Huo Niao termina con HP:38/122
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:201/597 MP:347/347
+B-Gu Huo Niao HP:38/122 MP:117/117
+C-Lilith HP:380/380 MP:369/369
+D-Mushussu HP:212/399 MP:179/179
+Equipo de Shujinko (J2)
+A-Shujinko HP:981/1317 MP:625/625
+B-
+C-
+D-Pale Rider HP:661/693 MP:244/310
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Mushussu
+3-Lilith
+4-Gu Huo Niao
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Shujinko HP:981/1317 MP:625/625
+2-Pale Rider HP:661/693 MP:244/310
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Yu ataca a Pale Rider
+Pale Rider recibe 49 de daño
+Pale Rider termina con HP:612/693
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:201/597 MP:347/347
+B-Gu Huo Niao HP:38/122 MP:117/117
+C-Lilith HP:380/380 MP:369/369
+D-Mushussu HP:212/399 MP:179/179
+Equipo de Shujinko (J2)
+A-Shujinko HP:981/1317 MP:625/625
+B-
+C-
+D-Pale Rider HP:612/693 MP:244/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Lilith
+3-Gu Huo Niao
+4-Yu
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sphinx HP:376/376 MP:364/364
+2-Manticore HP:385/385 MP:172/172
+3-Hel HP:254/254 MP:246/246
+4-Anubis HP:497/497 MP:223/223
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sphinx HP:376/376 MP:364/364
+2-Manticore HP:385/385 MP:172/172
+3-Hel HP:254/254 MP:246/246
+4-Anubis HP:497/497 MP:223/223
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Sphinx ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:201/597 MP:347/347
+B-Gu Huo Niao HP:38/122 MP:117/117
+C-Lilith HP:380/380 MP:369/369
+D-Sphinx HP:376/376 MP:364/364
+Equipo de Shujinko (J2)
+A-Shujinko HP:981/1317 MP:625/625
+B-
+C-
+D-Pale Rider HP:612/693 MP:244/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lilith
+2-Gu Huo Niao
+3-Yu
+4-Sphinx
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Manticore HP:385/385 MP:172/172
+2-Mushussu HP:212/399 MP:179/179
+3-Hel HP:254/254 MP:246/246
+4-Anubis HP:497/497 MP:223/223
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Mushussu ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:201/597 MP:347/347
+B-Gu Huo Niao HP:38/122 MP:117/117
+C-Mushussu HP:212/399 MP:179/179
+D-Sphinx HP:376/376 MP:364/364
+Equipo de Shujinko (J2)
+A-Shujinko HP:981/1317 MP:625/625
+B-
+C-
+D-Pale Rider HP:612/693 MP:244/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gu Huo Niao
+2-Yu
+3-Sphinx
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Gu Huo Niao use
+1-Agilao MP:8
+2-Patra MP:5
+3-Lullaby MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:201/597 MP:347/347
+B-Gu Huo Niao HP:38/122 MP:117/117
+C-Mushussu HP:212/399 MP:179/179
+D-Sphinx HP:376/376 MP:364/364
+Equipo de Shujinko (J2)
+A-Shujinko HP:981/1317 MP:625/625
+B-
+C-
+D-Pale Rider HP:612/693 MP:244/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Sphinx
+3-Mushussu
+4-Gu Huo Niao
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Shujinko HP:981/1317 MP:625/625
+2-Pale Rider HP:612/693 MP:244/310
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Yu ataca a Pale Rider
+Pale Rider recibe 49 de daño
+Pale Rider termina con HP:563/693
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:201/597 MP:347/347
+B-Gu Huo Niao HP:38/122 MP:117/117
+C-Mushussu HP:212/399 MP:179/179
+D-Sphinx HP:376/376 MP:364/364
+Equipo de Shujinko (J2)
+A-Shujinko HP:981/1317 MP:625/625
+B-
+C-
+D-Pale Rider HP:563/693 MP:244/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sphinx
+2-Mushussu
+3-Gu Huo Niao
+4-Yu
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sphinx use
+1-Mediarahan MP:40
+2-Mahamaon MP:30
+3-Grand Tack MP:11
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Sphinx
+1-Shujinko HP:981/1317 MP:625/625
+2-Pale Rider HP:563/693 MP:244/310
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Sphinx dispara a Shujinko
+Shujinko es resistente el ataque de Sphinx
+Shujinko recibe 64 de daño
+Shujinko termina con HP:917/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:201/597 MP:347/347
+B-Gu Huo Niao HP:38/122 MP:117/117
+C-Mushussu HP:212/399 MP:179/179
+D-Sphinx HP:376/376 MP:353/364
+Equipo de Shujinko (J2)
+A-Shujinko HP:917/1317 MP:625/625
+B-
+C-
+D-Pale Rider HP:563/693 MP:244/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Pale Rider
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Yu HP:201/597 MP:347/347
+2-Gu Huo Niao HP:38/122 MP:117/117
+3-Mushussu HP:212/399 MP:179/179
+4-Sphinx HP:376/376 MP:353/364
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Shujinko dispara a Gu Huo Niao
+Gu Huo Niao devuelve 228 daño a Shujinko
+Shujinko termina con HP:689/1317
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:201/597 MP:347/347
+B-Gu Huo Niao HP:38/122 MP:117/117
+C-Mushussu HP:212/399 MP:179/179
+D-Sphinx HP:376/376 MP:353/364
+Equipo de Shujinko (J2)
+A-Shujinko HP:689/1317 MP:625/625
+B-
+C-
+D-Pale Rider HP:563/693 MP:244/310
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Mushussu
+3-Sphinx
+4-Gu Huo Niao
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Berserker God MP:12
+2-Agilao MP:8
+3-Agi MP:5
+4-Recarm MP:20
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Shujinko HP:689/1317 MP:625/625
+2-Pale Rider HP:563/693 MP:244/310
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Shujinko
+Shujinko es resistente el ataque de Yu
+Shujinko recibe 70 de daño
+Shujinko termina con HP:619/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:201/597 MP:335/347
+B-Gu Huo Niao HP:38/122 MP:117/117
+C-Mushussu HP:212/399 MP:179/179
+D-Sphinx HP:376/376 MP:353/364
+Equipo de Shujinko (J2)
+A-Shujinko HP:619/1317 MP:625/625
+B-
+C-
+D-Pale Rider HP:563/693 MP:244/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Sphinx
+3-Gu Huo Niao
+4-Yu
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Shujinko HP:619/1317 MP:625/625
+2-Pale Rider HP:563/693 MP:244/310
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Mushussu ataca a Pale Rider
+Pale Rider recibe 32 de daño
+Pale Rider termina con HP:531/693
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:201/597 MP:335/347
+B-Gu Huo Niao HP:38/122 MP:117/117
+C-Mushussu HP:212/399 MP:179/179
+D-Sphinx HP:376/376 MP:353/364
+Equipo de Shujinko (J2)
+A-Shujinko HP:619/1317 MP:625/625
+B-
+C-
+D-Pale Rider HP:531/693 MP:244/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sphinx
+2-Gu Huo Niao
+3-Yu
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sphinx
+1-Shujinko HP:619/1317 MP:625/625
+2-Pale Rider HP:531/693 MP:244/310
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Sphinx ataca a Shujinko
+Shujinko es resistente el ataque de Sphinx
+Shujinko recibe 26 de daño
+Shujinko termina con HP:593/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:201/597 MP:335/347
+B-Gu Huo Niao HP:38/122 MP:117/117
+C-Mushussu HP:212/399 MP:179/179
+D-Sphinx HP:376/376 MP:353/364
+Equipo de Shujinko (J2)
+A-Shujinko HP:593/1317 MP:625/625
+B-
+C-
+D-Pale Rider HP:531/693 MP:244/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gu Huo Niao
+2-Yu
+3-Mushussu
+4-Sphinx
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:201/597 MP:335/347
+B-Gu Huo Niao HP:38/122 MP:117/117
+C-Mushussu HP:212/399 MP:179/179
+D-Sphinx HP:376/376 MP:353/364
+Equipo de Shujinko (J2)
+A-Shujinko HP:593/1317 MP:625/625
+B-
+C-
+D-Pale Rider HP:531/693 MP:244/310
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Mushussu
+3-Sphinx
+4-Gu Huo Niao
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:201/597 MP:335/347
+B-Gu Huo Niao HP:38/122 MP:117/117
+C-Mushussu HP:212/399 MP:179/179
+D-Sphinx HP:376/376 MP:353/364
+Equipo de Shujinko (J2)
+A-Shujinko HP:593/1317 MP:625/625
+B-
+C-
+D-Pale Rider HP:531/693 MP:244/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Pale Rider
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Scathach HP:343/343 MP:153/153
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Vacío (Puesto 3)
+3-Pale Rider HP:531/693 MP:244/310 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Scathach ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:201/597 MP:335/347
+B-Gu Huo Niao HP:38/122 MP:117/117
+C-Mushussu HP:212/399 MP:179/179
+D-Sphinx HP:376/376 MP:353/364
+Equipo de Shujinko (J2)
+A-Shujinko HP:593/1317 MP:625/625
+B-
+C-
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Scathach
+2-Shujinko
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Scathach
+1-Yu HP:201/597 MP:335/347
+2-Gu Huo Niao HP:38/122 MP:117/117
+3-Mushussu HP:212/399 MP:179/179
+4-Sphinx HP:376/376 MP:353/364
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Scathach ataca a Yu
+Yu es resistente el ataque de Scathach
+Yu recibe 13 de daño
+Yu termina con HP:188/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:335/347
+B-Gu Huo Niao HP:38/122 MP:117/117
+C-Mushussu HP:212/399 MP:179/179
+D-Sphinx HP:376/376 MP:353/364
+Equipo de Shujinko (J2)
+A-Shujinko HP:593/1317 MP:625/625
+B-
+C-
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Scathach
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Yu HP:188/597 MP:335/347
+2-Gu Huo Niao HP:38/122 MP:117/117
+3-Mushussu HP:212/399 MP:179/179
+4-Sphinx HP:376/376 MP:353/364
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Shujinko ataca a Mushussu
+Mushussu recibe 187 de daño
+Mushussu termina con HP:25/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:335/347
+B-Gu Huo Niao HP:38/122 MP:117/117
+C-Mushussu HP:25/399 MP:179/179
+D-Sphinx HP:376/376 MP:353/364
+Equipo de Shujinko (J2)
+A-Shujinko HP:593/1317 MP:625/625
+B-
+C-
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Mushussu
+3-Sphinx
+4-Gu Huo Niao
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:335/347
+B-Gu Huo Niao HP:38/122 MP:117/117
+C-Mushussu HP:25/399 MP:179/179
+D-Sphinx HP:376/376 MP:353/364
+Equipo de Shujinko (J2)
+A-Shujinko HP:593/1317 MP:625/625
+B-
+C-
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Sphinx
+3-Gu Huo Niao
+4-Yu
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Manticore HP:385/385 MP:172/172
+2-Lilith HP:380/380 MP:369/369
+3-Hel HP:254/254 MP:246/246
+4-Anubis HP:497/497 MP:223/223
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Lilith ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:335/347
+B-Gu Huo Niao HP:38/122 MP:117/117
+C-Lilith HP:380/380 MP:369/369
+D-Sphinx HP:376/376 MP:353/364
+Equipo de Shujinko (J2)
+A-Shujinko HP:593/1317 MP:625/625
+B-
+C-
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sphinx
+2-Gu Huo Niao
+3-Yu
+4-Lilith
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:335/347
+B-Gu Huo Niao HP:38/122 MP:117/117
+C-Lilith HP:380/380 MP:369/369
+D-Sphinx HP:376/376 MP:353/364
+Equipo de Shujinko (J2)
+A-Shujinko HP:593/1317 MP:625/625
+B-
+C-
+D-Scathach HP:343/343 MP:153/153
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Gu Huo Niao
+2-Yu
+3-Lilith
+4-Sphinx
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Gu Huo Niao use
+1-Agilao MP:8
+2-Patra MP:5
+3-Lullaby MP:11
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gu Huo Niao
+1-Shujinko HP:593/1317 MP:625/625
+2-Scathach HP:343/343 MP:153/153
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Gu Huo Niao lanza fuego a Scathach
+Scathach recibe 61 de daño
+Scathach termina con HP:282/343
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:335/347
+B-Gu Huo Niao HP:38/122 MP:109/117
+C-Lilith HP:380/380 MP:369/369
+D-Sphinx HP:376/376 MP:353/364
+Equipo de Shujinko (J2)
+A-Shujinko HP:593/1317 MP:625/625
+B-
+C-
+D-Scathach HP:282/343 MP:153/153
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Lilith
+3-Sphinx
+4-Gu Huo Niao
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:335/347
+B-Gu Huo Niao HP:38/122 MP:109/117
+C-Lilith HP:380/380 MP:369/369
+D-Sphinx HP:376/376 MP:353/364
+Equipo de Shujinko (J2)
+A-Shujinko HP:593/1317 MP:625/625
+B-
+C-
+D-Scathach HP:282/343 MP:153/153
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lilith
+2-Sphinx
+3-Gu Huo Niao
+4-Yu
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lilith use
+1-Lullaby MP:11
+2-Spirit Drain MP:5
+3-Charm Lightning MP:45
+4-Mediarahan MP:40
+5-Invitation MP:45
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Manticore HP:385/385 MP:172/172
+2-Mushussu HP:25/399 MP:179/179
+3-Hel HP:254/254 MP:246/246
+4-Anubis HP:497/497 MP:223/223
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Manticore ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:335/347
+B-Gu Huo Niao HP:38/122 MP:109/117
+C-Manticore HP:385/385 MP:172/172
+D-Sphinx HP:376/376 MP:353/364
+Equipo de Shujinko (J2)
+A-Shujinko HP:593/1317 MP:625/625
+B-
+C-
+D-Scathach HP:282/343 MP:153/153
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sphinx
+2-Gu Huo Niao
+3-Yu
+4-Manticore
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:335/347
+B-Gu Huo Niao HP:38/122 MP:109/117
+C-Manticore HP:385/385 MP:172/172
+D-Sphinx HP:376/376 MP:353/364
+Equipo de Shujinko (J2)
+A-Shujinko HP:593/1317 MP:625/625
+B-
+C-
+D-Scathach HP:282/343 MP:153/153
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Gu Huo Niao
+2-Yu
+3-Manticore
+4-Sphinx
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Gu Huo Niao use
+1-Agilao MP:8
+2-Patra MP:5
+3-Lullaby MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gu Huo Niao
+1-Shujinko HP:593/1317 MP:625/625
+2-Scathach HP:282/343 MP:153/153
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gu Huo Niao
+1-Shujinko HP:593/1317 MP:625/625
+2-Scathach HP:282/343 MP:153/153
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:335/347
+B-Gu Huo Niao HP:38/122 MP:109/117
+C-Manticore HP:385/385 MP:172/172
+D-Sphinx HP:376/376 MP:353/364
+Equipo de Shujinko (J2)
+A-Shujinko HP:593/1317 MP:625/625
+B-
+C-
+D-Scathach HP:282/343 MP:153/153
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Scathach
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Yu HP:188/597 MP:335/347
+2-Gu Huo Niao HP:38/122 MP:109/117
+3-Manticore HP:385/385 MP:172/172
+4-Sphinx HP:376/376 MP:353/364
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Shujinko dispara a Sphinx
+Sphinx devuelve 228 daño a Shujinko
+Shujinko termina con HP:365/1317
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:335/347
+B-Gu Huo Niao HP:38/122 MP:109/117
+C-Manticore HP:385/385 MP:172/172
+D-Sphinx HP:376/376 MP:353/364
+Equipo de Shujinko (J2)
+A-Shujinko HP:365/1317 MP:625/625
+B-
+C-
+D-Scathach HP:282/343 MP:153/153
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Sphinx
+3-Manticore
+4-Gu Huo Niao
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:335/347
+B-Gu Huo Niao HP:38/122 MP:109/117
+C-Manticore HP:385/385 MP:172/172
+D-Sphinx HP:376/376 MP:353/364
+Equipo de Shujinko (J2)
+A-Shujinko HP:365/1317 MP:625/625
+B-
+C-
+D-Scathach HP:282/343 MP:153/153
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sphinx
+2-Manticore
+3-Gu Huo Niao
+4-Yu
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mushussu HP:25/399 MP:179/179
+2-Lilith HP:380/380 MP:369/369
+3-Hel HP:254/254 MP:246/246
+4-Anubis HP:497/497 MP:223/223
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:335/347
+B-Gu Huo Niao HP:38/122 MP:109/117
+C-Manticore HP:385/385 MP:172/172
+D-Mushussu HP:25/399 MP:179/179
+Equipo de Shujinko (J2)
+A-Shujinko HP:365/1317 MP:625/625
+B-
+C-
+D-Scathach HP:282/343 MP:153/153
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Gu Huo Niao
+3-Yu
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Shujinko HP:365/1317 MP:625/625
+2-Scathach HP:282/343 MP:153/153
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Shujinko HP:365/1317 MP:625/625
+2-Scathach HP:282/343 MP:153/153
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sphinx HP:376/376 MP:353/364
+2-Lilith HP:380/380 MP:369/369
+3-Hel HP:254/254 MP:246/246
+4-Anubis HP:497/497 MP:223/223
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Sphinx ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:335/347
+B-Gu Huo Niao HP:38/122 MP:109/117
+C-Sphinx HP:376/376 MP:353/364
+D-Mushussu HP:25/399 MP:179/179
+Equipo de Shujinko (J2)
+A-Shujinko HP:365/1317 MP:625/625
+B-
+C-
+D-Scathach HP:282/343 MP:153/153
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Gu Huo Niao
+2-Yu
+3-Mushussu
+4-Sphinx
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:335/347
+B-Gu Huo Niao HP:38/122 MP:109/117
+C-Sphinx HP:376/376 MP:353/364
+D-Mushussu HP:25/399 MP:179/179
+Equipo de Shujinko (J2)
+A-Shujinko HP:365/1317 MP:625/625
+B-
+C-
+D-Scathach HP:282/343 MP:153/153
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Mushussu
+3-Sphinx
+4-Gu Huo Niao
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:335/347
+B-Gu Huo Niao HP:38/122 MP:109/117
+C-Sphinx HP:376/376 MP:353/364
+D-Mushussu HP:25/399 MP:179/179
+Equipo de Shujinko (J2)
+A-Shujinko HP:365/1317 MP:625/625
+B-
+C-
+D-Scathach HP:282/343 MP:153/153
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Sphinx
+3-Gu Huo Niao
+4-Yu
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Manticore HP:385/385 MP:172/172
+2-Lilith HP:380/380 MP:369/369
+3-Hel HP:254/254 MP:246/246
+4-Anubis HP:497/497 MP:223/223
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Manticore ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:335/347
+B-Gu Huo Niao HP:38/122 MP:109/117
+C-Sphinx HP:376/376 MP:353/364
+D-Manticore HP:385/385 MP:172/172
+Equipo de Shujinko (J2)
+A-Shujinko HP:365/1317 MP:625/625
+B-
+C-
+D-Scathach HP:282/343 MP:153/153
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sphinx
+2-Gu Huo Niao
+3-Yu
+4-Manticore
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:335/347
+B-Gu Huo Niao HP:38/122 MP:109/117
+C-Sphinx HP:376/376 MP:353/364
+D-Manticore HP:385/385 MP:172/172
+Equipo de Shujinko (J2)
+A-Shujinko HP:365/1317 MP:625/625
+B-
+C-
+D-Scathach HP:282/343 MP:153/153
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Gu Huo Niao
+2-Yu
+3-Manticore
+4-Sphinx
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gu Huo Niao
+1-Shujinko HP:365/1317 MP:625/625
+2-Scathach HP:282/343 MP:153/153
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gu Huo Niao
+1-Shujinko HP:365/1317 MP:625/625
+2-Scathach HP:282/343 MP:153/153
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Gu Huo Niao ataca a Scathach
+Scathach recibe 12 de daño
+Scathach termina con HP:270/343
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:335/347
+B-Gu Huo Niao HP:38/122 MP:109/117
+C-Sphinx HP:376/376 MP:353/364
+D-Manticore HP:385/385 MP:172/172
+Equipo de Shujinko (J2)
+A-Shujinko HP:365/1317 MP:625/625
+B-
+C-
+D-Scathach HP:270/343 MP:153/153
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Scathach
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Yu HP:188/597 MP:335/347
+2-Gu Huo Niao HP:38/122 MP:109/117
+3-Sphinx HP:376/376 MP:353/364
+4-Manticore HP:385/385 MP:172/172
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Shujinko dispara a Manticore
+Manticore recibe 228 de daño
+Manticore termina con HP:157/385
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:335/347
+B-Gu Huo Niao HP:38/122 MP:109/117
+C-Sphinx HP:376/376 MP:353/364
+D-Manticore HP:157/385 MP:172/172
+Equipo de Shujinko (J2)
+A-Shujinko HP:365/1317 MP:625/625
+B-
+C-
+D-Scathach HP:270/343 MP:153/153
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Scathach
+2-Shujinko
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Scathach use
+1-Mazanma MP:20
+2-Oni-Kagura MP:9
+3-Grand Tack MP:11
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Scathach
+1-Yu HP:188/597 MP:335/347
+2-Gu Huo Niao HP:38/122 MP:109/117
+3-Sphinx HP:376/376 MP:353/364
+4-Manticore HP:157/385 MP:172/172
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Pale Rider HP:531/693 MP:244/310
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Pale Rider ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:335/347
+B-Gu Huo Niao HP:38/122 MP:109/117
+C-Sphinx HP:376/376 MP:353/364
+D-Manticore HP:157/385 MP:172/172
+Equipo de Shujinko (J2)
+A-Shujinko HP:365/1317 MP:625/625
+B-
+C-
+D-Pale Rider HP:531/693 MP:244/310
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Shujinko
+2-Pale Rider
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Scathach HP:270/343 MP:153/153
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Trisagion MP:22
+2-Dia MP:5
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:335/347
+B-Gu Huo Niao HP:38/122 MP:109/117
+C-Sphinx HP:376/376 MP:353/364
+D-Manticore HP:157/385 MP:172/172
+Equipo de Shujinko (J2)
+A-Shujinko HP:365/1317 MP:625/625
+B-
+C-
+D-Pale Rider HP:531/693 MP:244/310
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Sphinx
+3-Manticore
+4-Gu Huo Niao
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Shujinko HP:365/1317 MP:625/625
+2-Pale Rider HP:531/693 MP:244/310
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Yu dispara a Pale Rider
+Pale Rider recibe 72 de daño
+Pale Rider termina con HP:459/693
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:335/347
+B-Gu Huo Niao HP:38/122 MP:109/117
+C-Sphinx HP:376/376 MP:353/364
+D-Manticore HP:157/385 MP:172/172
+Equipo de Shujinko (J2)
+A-Shujinko HP:365/1317 MP:625/625
+B-
+C-
+D-Pale Rider HP:459/693 MP:244/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sphinx
+2-Manticore
+3-Gu Huo Niao
+4-Yu
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mushussu HP:25/399 MP:179/179
+2-Lilith HP:380/380 MP:369/369
+3-Hel HP:254/254 MP:246/246
+4-Anubis HP:497/497 MP:223/223
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:335/347
+B-Gu Huo Niao HP:38/122 MP:109/117
+C-Mushussu HP:25/399 MP:179/179
+D-Manticore HP:157/385 MP:172/172
+Equipo de Shujinko (J2)
+A-Shujinko HP:365/1317 MP:625/625
+B-
+C-
+D-Pale Rider HP:459/693 MP:244/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Manticore
+2-Gu Huo Niao
+3-Yu
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sphinx HP:376/376 MP:353/364
+2-Lilith HP:380/380 MP:369/369
+3-Hel HP:254/254 MP:246/246
+4-Anubis HP:497/497 MP:223/223
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Anubis ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:335/347
+B-Gu Huo Niao HP:38/122 MP:109/117
+C-Mushussu HP:25/399 MP:179/179
+D-Anubis HP:497/497 MP:223/223
+Equipo de Shujinko (J2)
+A-Shujinko HP:365/1317 MP:625/625
+B-
+C-
+D-Pale Rider HP:459/693 MP:244/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gu Huo Niao
+2-Yu
+3-Mushussu
+4-Anubis
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Gu Huo Niao use
+1-Agilao MP:8
+2-Patra MP:5
+3-Lullaby MP:11
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gu Huo Niao
+1-Shujinko HP:365/1317 MP:625/625
+2-Pale Rider HP:459/693 MP:244/310
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:335/347
+B-Gu Huo Niao HP:38/122 MP:109/117
+C-Mushussu HP:25/399 MP:179/179
+D-Anubis HP:497/497 MP:223/223
+Equipo de Shujinko (J2)
+A-Shujinko HP:365/1317 MP:625/625
+B-
+C-
+D-Pale Rider HP:459/693 MP:244/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Mushussu
+3-Anubis
+4-Gu Huo Niao
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:335/347
+B-Gu Huo Niao HP:38/122 MP:109/117
+C-Mushussu HP:25/399 MP:179/179
+D-Anubis HP:497/497 MP:223/223
+Equipo de Shujinko (J2)
+A-Shujinko HP:365/1317 MP:625/625
+B-
+C-
+D-Pale Rider HP:459/693 MP:244/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Anubis
+3-Gu Huo Niao
+4-Yu
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Shujinko HP:365/1317 MP:625/625
+2-Pale Rider HP:459/693 MP:244/310
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ataca a Shujinko
+Shujinko es resistente el ataque de Mushussu
+Shujinko recibe 16 de daño
+Shujinko termina con HP:349/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:335/347
+B-Gu Huo Niao HP:38/122 MP:109/117
+C-Mushussu HP:25/399 MP:179/179
+D-Anubis HP:497/497 MP:223/223
+Equipo de Shujinko (J2)
+A-Shujinko HP:349/1317 MP:625/625
+B-
+C-
+D-Pale Rider HP:459/693 MP:244/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Pale Rider
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Trisagion MP:22
+2-Dia MP:5
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Trisagion MP:22
+2-Dia MP:5
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Yu HP:188/597 MP:335/347
+2-Gu Huo Niao HP:38/122 MP:109/117
+3-Mushussu HP:25/399 MP:179/179
+4-Anubis HP:497/497 MP:223/223
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Shujinko lanza fuego a Anubis
+Anubis recibe 154 de daño
+Anubis termina con HP:343/497
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:335/347
+B-Gu Huo Niao HP:38/122 MP:109/117
+C-Mushussu HP:25/399 MP:179/179
+D-Anubis HP:343/497 MP:223/223
+Equipo de Shujinko (J2)
+A-Shujinko HP:349/1317 MP:603/625
+B-
+C-
+D-Pale Rider HP:459/693 MP:244/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Shujinko
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:335/347
+B-Gu Huo Niao HP:38/122 MP:109/117
+C-Mushussu HP:25/399 MP:179/179
+D-Anubis HP:343/497 MP:223/223
+Equipo de Shujinko (J2)
+A-Shujinko HP:349/1317 MP:603/625
+B-
+C-
+D-Pale Rider HP:459/693 MP:244/310
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Shujinko
+2-Pale Rider
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:335/347
+B-Gu Huo Niao HP:38/122 MP:109/117
+C-Mushussu HP:25/399 MP:179/179
+D-Anubis HP:343/497 MP:223/223
+Equipo de Shujinko (J2)
+A-Shujinko HP:349/1317 MP:603/625
+B-
+C-
+D-Pale Rider HP:459/693 MP:244/310
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Anubis
+3-Mushussu
+4-Gu Huo Niao
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Berserker God MP:12
+2-Agilao MP:8
+3-Agi MP:5
+4-Recarm MP:20
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Shujinko HP:349/1317 MP:603/625
+2-Pale Rider HP:459/693 MP:244/310
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Yu lanza fuego a Shujinko
+Shujinko recibe 80 de daño
+Shujinko termina con HP:269/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:330/347
+B-Gu Huo Niao HP:38/122 MP:109/117
+C-Mushussu HP:25/399 MP:179/179
+D-Anubis HP:343/497 MP:223/223
+Equipo de Shujinko (J2)
+A-Shujinko HP:269/1317 MP:603/625
+B-
+C-
+D-Pale Rider HP:459/693 MP:244/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anubis
+2-Mushussu
+3-Gu Huo Niao
+4-Yu
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Anubis use
+1-Judgement Light MP:45
+2-Mamudoon MP:30
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Shujinko HP:269/1317 MP:603/625
+2-Pale Rider HP:459/693 MP:244/310
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Anubis ataca a Pale Rider
+Pale Rider recibe 41 de daño
+Pale Rider termina con HP:418/693
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:330/347
+B-Gu Huo Niao HP:38/122 MP:109/117
+C-Mushussu HP:25/399 MP:179/179
+D-Anubis HP:343/497 MP:223/223
+Equipo de Shujinko (J2)
+A-Shujinko HP:269/1317 MP:603/625
+B-
+C-
+D-Pale Rider HP:418/693 MP:244/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Gu Huo Niao
+3-Yu
+4-Anubis
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:330/347
+B-Gu Huo Niao HP:38/122 MP:109/117
+C-Mushussu HP:25/399 MP:179/179
+D-Anubis HP:343/497 MP:223/223
+Equipo de Shujinko (J2)
+A-Shujinko HP:269/1317 MP:603/625
+B-
+C-
+D-Pale Rider HP:418/693 MP:244/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Gu Huo Niao
+2-Yu
+3-Anubis
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sphinx HP:376/376 MP:353/364
+2-Manticore HP:157/385 MP:172/172
+3-Lilith HP:380/380 MP:369/369
+4-Hel HP:254/254 MP:246/246
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gu Huo Niao
+1-Shujinko HP:269/1317 MP:603/625
+2-Pale Rider HP:418/693 MP:244/310
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:330/347
+B-Gu Huo Niao HP:38/122 MP:109/117
+C-Mushussu HP:25/399 MP:179/179
+D-Anubis HP:343/497 MP:223/223
+Equipo de Shujinko (J2)
+A-Shujinko HP:269/1317 MP:603/625
+B-
+C-
+D-Pale Rider HP:418/693 MP:244/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Anubis
+3-Mushussu
+4-Gu Huo Niao
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Berserker God MP:12
+2-Agilao MP:8
+3-Agi MP:5
+4-Recarm MP:20
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Shujinko HP:269/1317 MP:603/625
+2-Pale Rider HP:418/693 MP:244/310
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sphinx HP:376/376 MP:353/364
+2-Manticore HP:157/385 MP:172/172
+3-Lilith HP:380/380 MP:369/369
+4-Hel HP:254/254 MP:246/246
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Gu Huo Niao HP:38/122 MP:109/117 (Puesto 2)
+2-Mushussu HP:25/399 MP:179/179 (Puesto 3)
+3-Anubis HP:343/497 MP:223/223 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Lilith ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:330/347
+B-Gu Huo Niao HP:38/122 MP:109/117
+C-Mushussu HP:25/399 MP:179/179
+D-Lilith HP:380/380 MP:369/369
+Equipo de Shujinko (J2)
+A-Shujinko HP:269/1317 MP:603/625
+B-
+C-
+D-Pale Rider HP:418/693 MP:244/310
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lilith
+2-Mushussu
+3-Gu Huo Niao
+4-Yu
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sphinx HP:376/376 MP:353/364
+2-Manticore HP:157/385 MP:172/172
+3-Hel HP:254/254 MP:246/246
+4-Anubis HP:343/497 MP:223/223
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Hel ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:330/347
+B-Gu Huo Niao HP:38/122 MP:109/117
+C-Mushussu HP:25/399 MP:179/179
+D-Hel HP:254/254 MP:246/246
+Equipo de Shujinko (J2)
+A-Shujinko HP:269/1317 MP:603/625
+B-
+C-
+D-Pale Rider HP:418/693 MP:244/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Pale Rider
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Scathach HP:270/343 MP:153/153
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:330/347
+B-Gu Huo Niao HP:38/122 MP:109/117
+C-Mushussu HP:25/399 MP:179/179
+D-Hel HP:254/254 MP:246/246
+Equipo de Shujinko (J2)
+A-Shujinko HP:269/1317 MP:603/625
+B-
+C-
+D-Pale Rider HP:418/693 MP:244/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Shujinko
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pale Rider use
+1-Pandemic Bomb MP:11
+2-Death's Door MP:10
+3-Deadly Wind MP:22
+4-Debilitate MP:50
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Yu HP:188/597 MP:330/347
+2-Gu Huo Niao HP:38/122 MP:109/117
+3-Mushussu HP:25/399 MP:179/179
+4-Hel HP:254/254 MP:246/246
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Pale Rider lanza viento a Hel
+Hel recibe 168 de daño
+Hel termina con HP:86/254
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:330/347
+B-Gu Huo Niao HP:38/122 MP:109/117
+C-Mushussu HP:25/399 MP:179/179
+D-Hel HP:86/254 MP:246/246
+Equipo de Shujinko (J2)
+A-Shujinko HP:269/1317 MP:603/625
+B-
+C-
+D-Pale Rider HP:418/693 MP:222/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Pale Rider
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Yu HP:188/597 MP:330/347
+2-Gu Huo Niao HP:38/122 MP:109/117
+3-Mushussu HP:25/399 MP:179/179
+4-Hel HP:86/254 MP:246/246
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Shujinko ataca a Gu Huo Niao
+Gu Huo Niao recibe 187 de daño
+Gu Huo Niao termina con HP:0/122
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:330/347
+B-
+C-Mushussu HP:25/399 MP:179/179
+D-Hel HP:86/254 MP:246/246
+Equipo de Shujinko (J2)
+A-Shujinko HP:269/1317 MP:603/625
+B-
+C-
+D-Pale Rider HP:418/693 MP:222/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Mushussu
+3-Hel
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Shujinko HP:269/1317 MP:603/625
+2-Pale Rider HP:418/693 MP:222/310
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sphinx HP:376/376 MP:353/364
+2-Manticore HP:157/385 MP:172/172
+3-Lilith HP:380/380 MP:369/369
+4-Anubis HP:343/497 MP:223/223
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Mushussu HP:25/399 MP:179/179 (Puesto 3)
+3-Hel HP:86/254 MP:246/246 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Sphinx ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:330/347
+B-Sphinx HP:376/376 MP:353/364
+C-Mushussu HP:25/399 MP:179/179
+D-Hel HP:86/254 MP:246/246
+Equipo de Shujinko (J2)
+A-Shujinko HP:269/1317 MP:603/625
+B-
+C-
+D-Pale Rider HP:418/693 MP:222/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Hel
+3-Sphinx
+4-Yu
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mushussu use
+1-Ziodyne MP:14
+2-Posumudi MP:5
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Shujinko HP:269/1317 MP:603/625
+2-Pale Rider HP:418/693 MP:222/310
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Mushussu ataca a Pale Rider
+Pale Rider recibe 107 de daño
+Mushussu ataca a Pale Rider
+Pale Rider recibe 107 de daño
+Pale Rider termina con HP:204/693
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:330/347
+B-Sphinx HP:376/376 MP:353/364
+C-Mushussu HP:25/399 MP:164/179
+D-Hel HP:86/254 MP:246/246
+Equipo de Shujinko (J2)
+A-Shujinko HP:269/1317 MP:603/625
+B-
+C-
+D-Pale Rider HP:204/693 MP:222/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Sphinx
+3-Yu
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Manticore HP:157/385 MP:172/172
+2-Lilith HP:380/380 MP:369/369
+3-Anubis HP:343/497 MP:223/223
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Shujinko HP:269/1317 MP:603/625
+2-Pale Rider HP:204/693 MP:222/310
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Hel ataca a Shujinko
+Shujinko es resistente el ataque de Hel
+Shujinko recibe 13 de daño
+Shujinko termina con HP:256/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:330/347
+B-Sphinx HP:376/376 MP:353/364
+C-Mushussu HP:25/399 MP:164/179
+D-Hel HP:86/254 MP:246/246
+Equipo de Shujinko (J2)
+A-Shujinko HP:256/1317 MP:603/625
+B-
+C-
+D-Pale Rider HP:204/693 MP:222/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sphinx
+2-Yu
+3-Mushussu
+4-Hel
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sphinx use
+1-Mediarahan MP:40
+2-Mahamaon MP:30
+3-Grand Tack MP:11
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Sphinx
+1-Shujinko HP:256/1317 MP:603/625
+2-Pale Rider HP:204/693 MP:222/310
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Manticore HP:157/385 MP:172/172
+2-Lilith HP:380/380 MP:369/369
+3-Anubis HP:343/497 MP:223/223
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Anubis ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:330/347
+B-Anubis HP:343/497 MP:223/223
+C-Mushussu HP:25/399 MP:164/179
+D-Hel HP:86/254 MP:246/246
+Equipo de Shujinko (J2)
+A-Shujinko HP:256/1317 MP:603/625
+B-
+C-
+D-Pale Rider HP:204/693 MP:222/310
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Mushussu
+3-Hel
+4-Anubis
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Shujinko HP:256/1317 MP:603/625
+2-Pale Rider HP:204/693 MP:222/310
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Yu dispara a Pale Rider
+Pale Rider recibe 72 de daño
+Pale Rider termina con HP:132/693
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:330/347
+B-Anubis HP:343/497 MP:223/223
+C-Mushussu HP:25/399 MP:164/179
+D-Hel HP:86/254 MP:246/246
+Equipo de Shujinko (J2)
+A-Shujinko HP:256/1317 MP:603/625
+B-
+C-
+D-Pale Rider HP:132/693 MP:222/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Pale Rider
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Yu HP:188/597 MP:330/347
+2-Anubis HP:343/497 MP:223/223
+3-Mushussu HP:25/399 MP:164/179
+4-Hel HP:86/254 MP:246/246
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Scathach HP:270/343 MP:153/153
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Vacío (Puesto 3)
+3-Pale Rider HP:132/693 MP:222/310 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Yu HP:188/597 MP:330/347
+2-Anubis HP:343/497 MP:223/223
+3-Mushussu HP:25/399 MP:164/179
+4-Hel HP:86/254 MP:246/246
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko ataca a Yu
+Yu es resistente el ataque de Shujinko
+Yu recibe 93 de daño
+Yu termina con HP:95/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:95/597 MP:330/347
+B-Anubis HP:343/497 MP:223/223
+C-Mushussu HP:25/399 MP:164/179
+D-Hel HP:86/254 MP:246/246
+Equipo de Shujinko (J2)
+A-Shujinko HP:256/1317 MP:603/625
+B-
+C-
+D-Pale Rider HP:132/693 MP:222/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Shujinko
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Yu HP:95/597 MP:330/347
+2-Anubis HP:343/497 MP:223/223
+3-Mushussu HP:25/399 MP:164/179
+4-Hel HP:86/254 MP:246/246
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Yu HP:95/597 MP:330/347
+2-Anubis HP:343/497 MP:223/223
+3-Mushussu HP:25/399 MP:164/179
+4-Hel HP:86/254 MP:246/246
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Pale Rider ataca a Mushussu
+Mushussu recibe 58 de daño
+Mushussu termina con HP:0/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:95/597 MP:330/347
+B-Anubis HP:343/497 MP:223/223
+C-
+D-Hel HP:86/254 MP:246/246
+Equipo de Shujinko (J2)
+A-Shujinko HP:256/1317 MP:603/625
+B-
+C-
+D-Pale Rider HP:132/693 MP:222/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Anubis
+3-Hel
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Shujinko HP:256/1317 MP:603/625
+2-Pale Rider HP:132/693 MP:222/310
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:95/597 MP:330/347
+B-Anubis HP:343/497 MP:223/223
+C-
+D-Hel HP:86/254 MP:246/246
+Equipo de Shujinko (J2)
+A-Shujinko HP:256/1317 MP:603/625
+B-
+C-
+D-Pale Rider HP:132/693 MP:222/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Anubis
+2-Hel
+3-Yu
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:95/597 MP:330/347
+B-Anubis HP:343/497 MP:223/223
+C-
+D-Hel HP:86/254 MP:246/246
+Equipo de Shujinko (J2)
+A-Shujinko HP:256/1317 MP:603/625
+B-
+C-
+D-Pale Rider HP:132/693 MP:222/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Yu
+3-Anubis
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Shujinko HP:256/1317 MP:603/625
+2-Pale Rider HP:132/693 MP:222/310
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hel use
+1-Mamudo MP:18
+2-Sabbatma MP:20
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sphinx HP:376/376 MP:353/364
+2-Manticore HP:157/385 MP:172/172
+3-Lilith HP:380/380 MP:369/369
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Shujinko HP:256/1317 MP:603/625
+2-Pale Rider HP:132/693 MP:222/310
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Shujinko HP:256/1317 MP:603/625
+2-Pale Rider HP:132/693 MP:222/310
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Hel ataca a Pale Rider
+Pale Rider recibe 26 de daño
+Pale Rider termina con HP:106/693
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:95/597 MP:330/347
+B-Anubis HP:343/497 MP:223/223
+C-
+D-Hel HP:86/254 MP:246/246
+Equipo de Shujinko (J2)
+A-Shujinko HP:256/1317 MP:603/625
+B-
+C-
+D-Pale Rider HP:106/693 MP:222/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Anubis
+3-Hel
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Shujinko HP:256/1317 MP:603/625
+2-Pale Rider HP:106/693 MP:222/310
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Yu ataca a Pale Rider
+Pale Rider recibe 49 de daño
+Pale Rider termina con HP:57/693
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:95/597 MP:330/347
+B-Anubis HP:343/497 MP:223/223
+C-
+D-Hel HP:86/254 MP:246/246
+Equipo de Shujinko (J2)
+A-Shujinko HP:256/1317 MP:603/625
+B-
+C-
+D-Pale Rider HP:57/693 MP:222/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Pale Rider
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Scathach HP:270/343 MP:153/153
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Vacío (Puesto 3)
+3-Pale Rider HP:57/693 MP:222/310 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Scathach ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:95/597 MP:330/347
+B-Anubis HP:343/497 MP:223/223
+C-
+D-Hel HP:86/254 MP:246/246
+Equipo de Shujinko (J2)
+A-Shujinko HP:256/1317 MP:603/625
+B-
+C-Scathach HP:270/343 MP:153/153
+D-Pale Rider HP:57/693 MP:222/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Scathach
+3-Shujinko
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:95/597 MP:330/347
+B-Anubis HP:343/497 MP:223/223
+C-
+D-Hel HP:86/254 MP:246/246
+Equipo de Shujinko (J2)
+A-Shujinko HP:256/1317 MP:603/625
+B-
+C-Scathach HP:270/343 MP:153/153
+D-Pale Rider HP:57/693 MP:222/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Scathach
+2-Shujinko
+3-Pale Rider
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:95/597 MP:330/347
+B-Anubis HP:343/497 MP:223/223
+C-
+D-Hel HP:86/254 MP:246/246
+Equipo de Shujinko (J2)
+A-Shujinko HP:256/1317 MP:603/625
+B-
+C-Scathach HP:270/343 MP:153/153
+D-Pale Rider HP:57/693 MP:222/310
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Shujinko
+2-Pale Rider
+3-Scathach
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Yu HP:95/597 MP:330/347
+2-Anubis HP:343/497 MP:223/223
+3-Hel HP:86/254 MP:246/246
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko ataca a Yu
+Yu es resistente el ataque de Shujinko
+Yu recibe 93 de daño
+Yu termina con HP:2/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:330/347
+B-Anubis HP:343/497 MP:223/223
+C-
+D-Hel HP:86/254 MP:246/246
+Equipo de Shujinko (J2)
+A-Shujinko HP:256/1317 MP:603/625
+B-
+C-Scathach HP:270/343 MP:153/153
+D-Pale Rider HP:57/693 MP:222/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Anubis
+3-Hel
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Berserker God MP:12
+2-Agilao MP:8
+3-Agi MP:5
+4-Recarm MP:20
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Shujinko HP:256/1317 MP:603/625
+2-Scathach HP:270/343 MP:153/153
+3-Pale Rider HP:57/693 MP:222/310
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Yu lanza fuego a Pale Rider
+Pale Rider recibe 105 de daño
+Pale Rider termina con HP:0/693
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:322/347
+B-Anubis HP:343/497 MP:223/223
+C-
+D-Hel HP:86/254 MP:246/246
+Equipo de Shujinko (J2)
+A-Shujinko HP:256/1317 MP:603/625
+B-
+C-Scathach HP:270/343 MP:153/153
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anubis
+2-Hel
+3-Yu
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Shujinko HP:256/1317 MP:603/625
+2-Scathach HP:270/343 MP:153/153
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Anubis ataca a Scathach
+Scathach recibe 41 de daño
+Scathach termina con HP:229/343
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:322/347
+B-Anubis HP:343/497 MP:223/223
+C-
+D-Hel HP:86/254 MP:246/246
+Equipo de Shujinko (J2)
+A-Shujinko HP:256/1317 MP:603/625
+B-
+C-Scathach HP:229/343 MP:153/153
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Yu
+3-Anubis
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:322/347
+B-Anubis HP:343/497 MP:223/223
+C-
+D-Hel HP:86/254 MP:246/246
+Equipo de Shujinko (J2)
+A-Shujinko HP:256/1317 MP:603/625
+B-
+C-Scathach HP:229/343 MP:153/153
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Anubis
+3-Hel
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Shujinko HP:256/1317 MP:603/625
+2-Scathach HP:229/343 MP:153/153
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Yu dispara a Scathach
+Scathach bloquea el ataque de Yu
+Scathach termina con HP:229/343
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:322/347
+B-Anubis HP:343/497 MP:223/223
+C-
+D-Hel HP:86/254 MP:246/246
+Equipo de Shujinko (J2)
+A-Shujinko HP:256/1317 MP:603/625
+B-
+C-Scathach HP:229/343 MP:153/153
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Scathach
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Trisagion MP:22
+2-Dia MP:5
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Yu HP:2/597 MP:322/347
+2-Anubis HP:343/497 MP:223/223
+3-Hel HP:86/254 MP:246/246
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Shujinko lanza fuego a Anubis
+Anubis recibe 154 de daño
+Anubis termina con HP:189/497
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:322/347
+B-Anubis HP:189/497 MP:223/223
+C-
+D-Hel HP:86/254 MP:246/246
+Equipo de Shujinko (J2)
+A-Shujinko HP:256/1317 MP:581/625
+B-
+C-Scathach HP:229/343 MP:153/153
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Scathach
+2-Shujinko
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Scathach use
+1-Mazanma MP:20
+2-Oni-Kagura MP:9
+3-Grand Tack MP:11
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Scathach
+1-Yu HP:2/597 MP:322/347
+2-Anubis HP:189/497 MP:223/223
+3-Hel HP:86/254 MP:246/246
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Scathach use
+1-Mazanma MP:20
+2-Oni-Kagura MP:9
+3-Grand Tack MP:11
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Scathach
+1-Yu HP:2/597 MP:322/347
+2-Anubis HP:189/497 MP:223/223
+3-Hel HP:86/254 MP:246/246
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Scathach use
+1-Mazanma MP:20
+2-Oni-Kagura MP:9
+3-Grand Tack MP:11
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Scathach
+1-Yu HP:2/597 MP:322/347
+2-Anubis HP:189/497 MP:223/223
+3-Hel HP:86/254 MP:246/246
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Scathach ataca a Hel
+Hel recibe 82 de daño
+Hel termina con HP:4/254
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:322/347
+B-Anubis HP:189/497 MP:223/223
+C-
+D-Hel HP:4/254 MP:246/246
+Equipo de Shujinko (J2)
+A-Shujinko HP:256/1317 MP:581/625
+B-
+C-Scathach HP:229/343 MP:144/153
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Anubis
+3-Hel
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:322/347
+B-Anubis HP:189/497 MP:223/223
+C-
+D-Hel HP:4/254 MP:246/246
+Equipo de Shujinko (J2)
+A-Shujinko HP:256/1317 MP:581/625
+B-
+C-Scathach HP:229/343 MP:144/153
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Anubis
+2-Hel
+3-Yu
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sphinx HP:376/376 MP:353/364
+2-Manticore HP:157/385 MP:172/172
+3-Lilith HP:380/380 MP:369/369
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Lilith ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:322/347
+B-Lilith HP:380/380 MP:369/369
+C-
+D-Hel HP:4/254 MP:246/246
+Equipo de Shujinko (J2)
+A-Shujinko HP:256/1317 MP:581/625
+B-
+C-Scathach HP:229/343 MP:144/153
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Yu
+3-Lilith
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:322/347
+B-Lilith HP:380/380 MP:369/369
+C-
+D-Hel HP:4/254 MP:246/246
+Equipo de Shujinko (J2)
+A-Shujinko HP:256/1317 MP:581/625
+B-
+C-Scathach HP:229/343 MP:144/153
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Lilith
+3-Hel
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Berserker God MP:12
+2-Agilao MP:8
+3-Agi MP:5
+4-Recarm MP:20
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Mushussu HP:0/399 MP:164/179
+2-Gu Huo Niao HP:0/122 MP:109/117
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sphinx HP:376/376 MP:353/364
+2-Manticore HP:157/385 MP:172/172
+3-Anubis HP:189/497 MP:223/223
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Lilith HP:380/380 MP:369/369 (Puesto 2)
+2-Vacío (Puesto 3)
+3-Hel HP:4/254 MP:246/246 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Sphinx ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:322/347
+B-Lilith HP:380/380 MP:369/369
+C-Sphinx HP:376/376 MP:353/364
+D-Hel HP:4/254 MP:246/246
+Equipo de Shujinko (J2)
+A-Shujinko HP:256/1317 MP:581/625
+B-
+C-Scathach HP:229/343 MP:144/153
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lilith
+2-Hel
+3-Sphinx
+4-Yu
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lilith use
+1-Lullaby MP:11
+2-Spirit Drain MP:5
+3-Charm Lightning MP:45
+4-Mediarahan MP:40
+5-Invitation MP:45
+6-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Manticore HP:157/385 MP:172/172
+2-Mushussu HP:0/399 MP:164/179
+3-Gu Huo Niao HP:0/122 MP:109/117
+4-Anubis HP:189/497 MP:223/223
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una posición para invocar
+1-Lilith HP:380/380 MP:369/369 (Puesto 2)
+2-Sphinx HP:376/376 MP:353/364 (Puesto 3)
+3-Hel HP:4/254 MP:246/246 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Anubis ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:322/347
+B-Anubis HP:189/497 MP:223/223
+C-Sphinx HP:376/376 MP:353/364
+D-Hel HP:4/254 MP:246/246
+Equipo de Shujinko (J2)
+A-Shujinko HP:256/1317 MP:581/625
+B-
+C-Scathach HP:229/343 MP:144/153
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Scathach
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:322/347
+B-Anubis HP:189/497 MP:223/223
+C-Sphinx HP:376/376 MP:353/364
+D-Hel HP:4/254 MP:246/246
+Equipo de Shujinko (J2)
+A-Shujinko HP:256/1317 MP:581/625
+B-
+C-Scathach HP:229/343 MP:144/153
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Scathach
+2-Shujinko
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Scathach
+1-Yu HP:2/597 MP:322/347
+2-Anubis HP:189/497 MP:223/223
+3-Sphinx HP:376/376 MP:353/364
+4-Hel HP:4/254 MP:246/246
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Scathach ataca a Sphinx
+Sphinx recibe 27 de daño
+Sphinx termina con HP:349/376
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:322/347
+B-Anubis HP:189/497 MP:223/223
+C-Sphinx HP:349/376 MP:353/364
+D-Hel HP:4/254 MP:246/246
+Equipo de Shujinko (J2)
+A-Shujinko HP:256/1317 MP:581/625
+B-
+C-Scathach HP:229/343 MP:144/153
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Scathach
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:322/347
+B-Anubis HP:189/497 MP:223/223
+C-Sphinx HP:349/376 MP:353/364
+D-Hel HP:4/254 MP:246/246
+Equipo de Shujinko (J2)
+A-Shujinko HP:256/1317 MP:581/625
+B-
+C-Scathach HP:229/343 MP:144/153
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Scathach
+2-Shujinko
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:322/347
+B-Anubis HP:189/497 MP:223/223
+C-Sphinx HP:349/376 MP:353/364
+D-Hel HP:4/254 MP:246/246
+Equipo de Shujinko (J2)
+A-Shujinko HP:256/1317 MP:581/625
+B-
+C-Scathach HP:229/343 MP:144/153
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Anubis
+3-Sphinx
+4-Hel
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:322/347
+B-Anubis HP:189/497 MP:223/223
+C-Sphinx HP:349/376 MP:353/364
+D-Hel HP:4/254 MP:246/246
+Equipo de Shujinko (J2)
+A-Shujinko HP:256/1317 MP:581/625
+B-
+C-Scathach HP:229/343 MP:144/153
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Anubis
+2-Sphinx
+3-Hel
+4-Yu
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Anubis use
+1-Judgement Light MP:45
+2-Mamudoon MP:30
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Shujinko HP:256/1317 MP:581/625
+2-Scathach HP:229/343 MP:144/153
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Anubis ataca a Shujinko
+Shujinko es resistente el ataque de Anubis
+Shujinko recibe 20 de daño
+Shujinko termina con HP:236/1317
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:322/347
+B-Anubis HP:189/497 MP:223/223
+C-Sphinx HP:349/376 MP:353/364
+D-Hel HP:4/254 MP:246/246
+Equipo de Shujinko (J2)
+A-Shujinko HP:236/1317 MP:581/625
+B-
+C-Scathach HP:229/343 MP:144/153
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sphinx
+2-Hel
+3-Yu
+4-Anubis
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:322/347
+B-Anubis HP:189/497 MP:223/223
+C-Sphinx HP:349/376 MP:353/364
+D-Hel HP:4/254 MP:246/246
+Equipo de Shujinko (J2)
+A-Shujinko HP:236/1317 MP:581/625
+B-
+C-Scathach HP:229/343 MP:144/153
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hel
+2-Yu
+3-Anubis
+4-Sphinx
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Manticore HP:157/385 MP:172/172
+2-Lilith HP:380/380 MP:324/369
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Manticore ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:322/347
+B-Anubis HP:189/497 MP:223/223
+C-Sphinx HP:349/376 MP:353/364
+D-Manticore HP:157/385 MP:172/172
+Equipo de Shujinko (J2)
+A-Shujinko HP:236/1317 MP:581/625
+B-
+C-Scathach HP:229/343 MP:144/153
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Anubis
+3-Sphinx
+4-Manticore
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lilith HP:380/380 MP:324/369
+2-Hel HP:4/254 MP:246/246
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Anubis HP:189/497 MP:223/223 (Puesto 2)
+2-Sphinx HP:349/376 MP:353/364 (Puesto 3)
+3-Manticore HP:157/385 MP:172/172 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Hel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:322/347
+B-Anubis HP:189/497 MP:223/223
+C-Hel HP:4/254 MP:246/246
+D-Manticore HP:157/385 MP:172/172
+Equipo de Shujinko (J2)
+A-Shujinko HP:236/1317 MP:581/625
+B-
+C-Scathach HP:229/343 MP:144/153
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Anubis
+2-Hel
+3-Manticore
+4-Yu
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Anubis use
+1-Judgement Light MP:45
+2-Mamudoon MP:30
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Mushussu HP:0/399 MP:164/179
+2-Gu Huo Niao HP:0/122 MP:109/117
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Anubis revive a Mushussu
+Mushussu recibe 399 de HP
+Mushussu termina con HP:399/399
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:322/347
+B-Anubis HP:189/497 MP:183/223
+C-Hel HP:4/254 MP:246/246
+D-Manticore HP:157/385 MP:172/172
+Equipo de Shujinko (J2)
+A-Shujinko HP:236/1317 MP:581/625
+B-
+C-Scathach HP:229/343 MP:144/153
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Manticore
+3-Yu
+4-Anubis
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hel use
+1-Mamudo MP:18
+2-Sabbatma MP:20
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sphinx HP:349/376 MP:353/364
+2-Mushussu HP:399/399 MP:164/179
+3-Lilith HP:380/380 MP:324/369
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Anubis HP:189/497 MP:183/223 (Puesto 2)
+2-Hel HP:4/254 MP:246/246 (Puesto 3)
+3-Manticore HP:157/385 MP:172/172 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Lilith ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:322/347
+B-Anubis HP:189/497 MP:183/223
+C-Hel HP:4/254 MP:226/246
+D-Lilith HP:380/380 MP:324/369
+Equipo de Shujinko (J2)
+A-Shujinko HP:236/1317 MP:581/625
+B-
+C-Scathach HP:229/343 MP:144/153
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Scathach
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Yu HP:2/597 MP:322/347
+2-Anubis HP:189/497 MP:183/223
+3-Hel HP:4/254 MP:226/246
+4-Lilith HP:380/380 MP:324/369
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Shujinko ataca a Hel
+Hel recibe 187 de daño
+Hel termina con HP:0/254
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:322/347
+B-Anubis HP:189/497 MP:183/223
+C-
+D-Lilith HP:380/380 MP:324/369
+Equipo de Shujinko (J2)
+A-Shujinko HP:236/1317 MP:581/625
+B-
+C-Scathach HP:229/343 MP:144/153
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Scathach
+2-Shujinko
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Scathach use
+1-Mazanma MP:20
+2-Oni-Kagura MP:9
+3-Grand Tack MP:11
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Scathach
+1-Yu HP:2/597 MP:322/347
+2-Anubis HP:189/497 MP:183/223
+3-Lilith HP:380/380 MP:324/369
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Scathach ataca a Lilith
+Lilith recibe 82 de daño
+Lilith termina con HP:298/380
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:322/347
+B-Anubis HP:189/497 MP:183/223
+C-
+D-Lilith HP:298/380 MP:324/369
+Equipo de Shujinko (J2)
+A-Shujinko HP:236/1317 MP:581/625
+B-
+C-Scathach HP:229/343 MP:135/153
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Anubis
+3-Lilith
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Berserker God MP:12
+2-Agilao MP:8
+3-Agi MP:5
+4-Recarm MP:20
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Gu Huo Niao HP:0/122 MP:109/117
+2-Hel HP:0/254 MP:226/246
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Yu revive a Gu Huo Niao
+Gu Huo Niao recibe 61 de HP
+Gu Huo Niao termina con HP:61/122
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:302/347
+B-Anubis HP:189/497 MP:183/223
+C-
+D-Lilith HP:298/380 MP:324/369
+Equipo de Shujinko (J2)
+A-Shujinko HP:236/1317 MP:581/625
+B-
+C-Scathach HP:229/343 MP:135/153
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anubis
+2-Lilith
+3-Yu
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sphinx HP:349/376 MP:353/364
+2-Manticore HP:157/385 MP:172/172
+3-Mushussu HP:399/399 MP:164/179
+4-Gu Huo Niao HP:61/122 MP:109/117
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Gu Huo Niao ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:302/347
+B-Gu Huo Niao HP:61/122 MP:109/117
+C-
+D-Lilith HP:298/380 MP:324/369
+Equipo de Shujinko (J2)
+A-Shujinko HP:236/1317 MP:581/625
+B-
+C-Scathach HP:229/343 MP:135/153
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lilith
+2-Yu
+3-Gu Huo Niao
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lilith use
+1-Lullaby MP:11
+2-Spirit Drain MP:5
+3-Charm Lightning MP:45
+4-Mediarahan MP:40
+5-Invitation MP:45
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lilith
+1-Shujinko HP:236/1317 MP:581/625
+2-Scathach HP:229/343 MP:135/153
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lilith use
+1-Lullaby MP:11
+2-Spirit Drain MP:5
+3-Charm Lightning MP:45
+4-Mediarahan MP:40
+5-Invitation MP:45
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:302/347
+B-Gu Huo Niao HP:61/122 MP:109/117
+C-
+D-Lilith HP:298/380 MP:324/369
+Equipo de Shujinko (J2)
+A-Shujinko HP:236/1317 MP:581/625
+B-
+C-Scathach HP:229/343 MP:135/153
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Gu Huo Niao
+3-Lilith
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Shujinko HP:236/1317 MP:581/625
+2-Scathach HP:229/343 MP:135/153
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Yu dispara a Shujinko
+Shujinko es resistente el ataque de Yu
+Shujinko recibe 36 de daño
+Shujinko termina con HP:200/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:302/347
+B-Gu Huo Niao HP:61/122 MP:109/117
+C-
+D-Lilith HP:298/380 MP:324/369
+Equipo de Shujinko (J2)
+A-Shujinko HP:200/1317 MP:581/625
+B-
+C-Scathach HP:229/343 MP:135/153
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Scathach
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:302/347
+B-Gu Huo Niao HP:61/122 MP:109/117
+C-
+D-Lilith HP:298/380 MP:324/369
+Equipo de Shujinko (J2)
+A-Shujinko HP:200/1317 MP:581/625
+B-
+C-Scathach HP:229/343 MP:135/153
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Scathach
+2-Shujinko
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Scathach use
+1-Mazanma MP:20
+2-Oni-Kagura MP:9
+3-Grand Tack MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Scathach use
+1-Mazanma MP:20
+2-Oni-Kagura MP:9
+3-Grand Tack MP:11
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Scathach
+1-Yu HP:2/597 MP:302/347
+2-Gu Huo Niao HP:61/122 MP:109/117
+3-Lilith HP:298/380 MP:324/369
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Scathach dispara a Gu Huo Niao
+Gu Huo Niao devuelve 100 daño a Scathach
+Scathach termina con HP:129/343
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:302/347
+B-Gu Huo Niao HP:61/122 MP:109/117
+C-
+D-Lilith HP:298/380 MP:324/369
+Equipo de Shujinko (J2)
+A-Shujinko HP:200/1317 MP:581/625
+B-
+C-Scathach HP:129/343 MP:124/153
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Lilith
+3-Gu Huo Niao
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Berserker God MP:12
+2-Agilao MP:8
+3-Agi MP:5
+4-Recarm MP:20
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Shujinko HP:200/1317 MP:581/625
+2-Scathach HP:129/343 MP:124/153
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:302/347
+B-Gu Huo Niao HP:61/122 MP:109/117
+C-
+D-Lilith HP:298/380 MP:324/369
+Equipo de Shujinko (J2)
+A-Shujinko HP:200/1317 MP:581/625
+B-
+C-Scathach HP:129/343 MP:124/153
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lilith
+2-Gu Huo Niao
+3-Yu
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lilith use
+1-Lullaby MP:11
+2-Spirit Drain MP:5
+3-Charm Lightning MP:45
+4-Mediarahan MP:40
+5-Invitation MP:45
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Lilith
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sphinx HP:349/376 MP:353/364
+2-Manticore HP:157/385 MP:172/172
+3-Mushussu HP:399/399 MP:164/179
+4-Anubis HP:189/497 MP:183/223
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Manticore ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:302/347
+B-Gu Huo Niao HP:61/122 MP:109/117
+C-
+D-Manticore HP:157/385 MP:172/172
+Equipo de Shujinko (J2)
+A-Shujinko HP:200/1317 MP:581/625
+B-
+C-Scathach HP:129/343 MP:124/153
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gu Huo Niao
+2-Yu
+3-Manticore
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:302/347
+B-Gu Huo Niao HP:61/122 MP:109/117
+C-
+D-Manticore HP:157/385 MP:172/172
+Equipo de Shujinko (J2)
+A-Shujinko HP:200/1317 MP:581/625
+B-
+C-Scathach HP:129/343 MP:124/153
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Manticore
+3-Gu Huo Niao
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Shujinko HP:200/1317 MP:581/625
+2-Scathach HP:129/343 MP:124/153
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Shujinko
+Shujinko es resistente el ataque de Yu
+Shujinko recibe 24 de daño
+Shujinko termina con HP:176/1317
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:302/347
+B-Gu Huo Niao HP:61/122 MP:109/117
+C-
+D-Manticore HP:157/385 MP:172/172
+Equipo de Shujinko (J2)
+A-Shujinko HP:176/1317 MP:581/625
+B-
+C-Scathach HP:129/343 MP:124/153
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Manticore
+2-Gu Huo Niao
+3-Yu
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Manticore use
+1-Toxic Sting MP:9
+2-Damascus Claw MP:7
+3-Posumudi MP:5
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Shujinko HP:176/1317 MP:581/625
+2-Scathach HP:129/343 MP:124/153
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Manticore ataca a Scathach
+Scathach recibe 31 de daño
+Scathach termina con HP:98/343
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:302/347
+B-Gu Huo Niao HP:61/122 MP:109/117
+C-
+D-Manticore HP:157/385 MP:172/172
+Equipo de Shujinko (J2)
+A-Shujinko HP:176/1317 MP:581/625
+B-
+C-Scathach HP:98/343 MP:124/153
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Scathach
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Yu HP:2/597 MP:302/347
+2-Gu Huo Niao HP:61/122 MP:109/117
+3-Manticore HP:157/385 MP:172/172
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Shujinko dispara a Manticore
+Manticore recibe 228 de daño
+Manticore termina con HP:0/385
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:302/347
+B-Gu Huo Niao HP:61/122 MP:109/117
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:176/1317 MP:581/625
+B-
+C-Scathach HP:98/343 MP:124/153
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Scathach
+2-Shujinko
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Scathach use
+1-Mazanma MP:20
+2-Oni-Kagura MP:9
+3-Grand Tack MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Scathach use
+1-Mazanma MP:20
+2-Oni-Kagura MP:9
+3-Grand Tack MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Scathach
+1-Yu HP:2/597 MP:302/347
+2-Gu Huo Niao HP:61/122 MP:109/117
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Scathach
+1-Yu HP:2/597 MP:302/347
+2-Gu Huo Niao HP:61/122 MP:109/117
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Scathach ataca a Gu Huo Niao
+Gu Huo Niao recibe 27 de daño
+Gu Huo Niao termina con HP:34/122
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:302/347
+B-Gu Huo Niao HP:34/122 MP:109/117
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:176/1317 MP:581/625
+B-
+C-Scathach HP:98/343 MP:124/153
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Gu Huo Niao
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Shujinko HP:176/1317 MP:581/625
+2-Scathach HP:98/343 MP:124/153
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Yu dispara a Shujinko
+Shujinko es resistente el ataque de Yu
+Shujinko recibe 36 de daño
+Shujinko termina con HP:140/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:302/347
+B-Gu Huo Niao HP:34/122 MP:109/117
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:140/1317 MP:581/625
+B-
+C-Scathach HP:98/343 MP:124/153
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gu Huo Niao
+2-Yu
+----------------------------------------
+Seleccione una acción para Gu Huo Niao
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:302/347
+B-Gu Huo Niao HP:34/122 MP:109/117
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:140/1317 MP:581/625
+B-
+C-Scathach HP:98/343 MP:124/153
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Gu Huo Niao
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sphinx HP:349/376 MP:353/364
+2-Mushussu HP:399/399 MP:164/179
+3-Lilith HP:298/380 MP:324/369
+4-Anubis HP:189/497 MP:183/223
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una posición para invocar
+1-Gu Huo Niao HP:34/122 MP:109/117 (Puesto 2)
+2-Vacío (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sphinx HP:349/376 MP:353/364
+2-Mushussu HP:399/399 MP:164/179
+3-Lilith HP:298/380 MP:324/369
+4-Anubis HP:189/497 MP:183/223
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Gu Huo Niao HP:34/122 MP:109/117 (Puesto 2)
+2-Vacío (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Sphinx ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:302/347
+B-Gu Huo Niao HP:34/122 MP:109/117
+C-Sphinx HP:349/376 MP:353/364
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:140/1317 MP:581/625
+B-
+C-Scathach HP:98/343 MP:124/153
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Scathach
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Yu HP:2/597 MP:302/347
+2-Gu Huo Niao HP:34/122 MP:109/117
+3-Sphinx HP:349/376 MP:353/364
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Yu HP:2/597 MP:302/347
+2-Gu Huo Niao HP:34/122 MP:109/117
+3-Sphinx HP:349/376 MP:353/364
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Shujinko ataca a Gu Huo Niao
+Gu Huo Niao recibe 187 de daño
+Gu Huo Niao termina con HP:0/122
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:302/347
+B-
+C-Sphinx HP:349/376 MP:353/364
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:140/1317 MP:581/625
+B-
+C-Scathach HP:98/343 MP:124/153
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Scathach
+2-Shujinko
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:2/597 MP:302/347
+B-
+C-Sphinx HP:349/376 MP:353/364
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:140/1317 MP:581/625
+B-
+C-Scathach HP:98/343 MP:124/153
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Shujinko
+2-Scathach
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Yu HP:2/597 MP:302/347
+2-Sphinx HP:349/376 MP:353/364
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Yu HP:2/597 MP:302/347
+2-Sphinx HP:349/376 MP:353/364
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko ataca a Yu
+Yu es resistente el ataque de Shujinko
+Yu recibe 93 de daño
+Yu termina con HP:0/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:302/347
+B-
+C-Sphinx HP:349/376 MP:353/364
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:140/1317 MP:581/625
+B-
+C-Scathach HP:98/343 MP:124/153
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sphinx
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:302/347
+B-
+C-Sphinx HP:349/376 MP:353/364
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:140/1317 MP:581/625
+B-
+C-Scathach HP:98/343 MP:124/153
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sphinx
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:302/347
+B-
+C-Sphinx HP:349/376 MP:353/364
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:140/1317 MP:581/625
+B-
+C-Scathach HP:98/343 MP:124/153
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Scathach
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Sphinx HP:349/376 MP:353/364
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko dispara a Sphinx
+Sphinx devuelve 228 daño a Shujinko
+Shujinko termina con HP:0/1317
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:302/347
+B-
+C-Sphinx HP:349/376 MP:353/364
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:0/1317 MP:581/625
+B-
+C-Scathach HP:98/343 MP:124/153
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sphinx
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sphinx use
+1-Mediarahan MP:40
+2-Mahamaon MP:30
+3-Grand Tack MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:302/347
+B-
+C-Sphinx HP:349/376 MP:353/364
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:0/1317 MP:581/625
+B-
+C-Scathach HP:98/343 MP:124/153
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sphinx
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sphinx use
+1-Mediarahan MP:40
+2-Mahamaon MP:30
+3-Grand Tack MP:11
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Sphinx
+1-Scathach HP:98/343 MP:124/153
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sphinx use
+1-Mediarahan MP:40
+2-Mahamaon MP:30
+3-Grand Tack MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mushussu HP:399/399 MP:164/179
+2-Lilith HP:298/380 MP:324/369
+3-Anubis HP:189/497 MP:183/223
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mushussu HP:399/399 MP:164/179
+2-Lilith HP:298/380 MP:324/369
+3-Anubis HP:189/497 MP:183/223
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:302/347
+B-
+C-Mushussu HP:399/399 MP:164/179
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:0/1317 MP:581/625
+B-
+C-Scathach HP:98/343 MP:124/153
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Scathach
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Scathach
+1-Mushussu HP:399/399 MP:164/179
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Scathach ataca a Mushussu
+Mushussu recibe 27 de daño
+Mushussu termina con HP:372/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:302/347
+B-
+C-Mushussu HP:372/399 MP:164/179
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:0/1317 MP:581/625
+B-
+C-Scathach HP:98/343 MP:124/153
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Scathach HP:98/343 MP:124/153
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:302/347
+B-
+C-Mushussu HP:372/399 MP:164/179
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:0/1317 MP:581/625
+B-
+C-Scathach HP:98/343 MP:124/153
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:302/347
+B-
+C-Mushussu HP:372/399 MP:164/179
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:0/1317 MP:581/625
+B-
+C-Scathach HP:98/343 MP:124/153
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Scathach
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:302/347
+B-
+C-Mushussu HP:372/399 MP:164/179
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:0/1317 MP:581/625
+B-
+C-Scathach HP:98/343 MP:124/153
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Scathach
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Scathach
+1-Mushussu HP:372/399 MP:164/179
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:302/347
+B-
+C-Mushussu HP:372/399 MP:164/179
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:0/1317 MP:581/625
+B-
+C-Scathach HP:98/343 MP:124/153
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mushussu use
+1-Ziodyne MP:14
+2-Posumudi MP:5
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Scathach HP:98/343 MP:124/153
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ataca a Scathach
+Scathach recibe 32 de daño
+Scathach termina con HP:66/343
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:302/347
+B-
+C-Mushussu HP:372/399 MP:164/179
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:0/1317 MP:581/625
+B-
+C-Scathach HP:66/343 MP:124/153
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Scathach
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Scathach
+1-Mushussu HP:372/399 MP:164/179
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Scathach
+1-Mushussu HP:372/399 MP:164/179
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Scathach
+1-Mushussu HP:372/399 MP:164/179
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Scathach ataca a Mushussu
+Mushussu recibe 27 de daño
+Mushussu termina con HP:345/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:302/347
+B-
+C-Mushussu HP:345/399 MP:164/179
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:0/1317 MP:581/625
+B-
+C-Scathach HP:66/343 MP:124/153
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:302/347
+B-
+C-Mushussu HP:345/399 MP:164/179
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:0/1317 MP:581/625
+B-
+C-Scathach HP:66/343 MP:124/153
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mushussu use
+1-Ziodyne MP:14
+2-Posumudi MP:5
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Scathach HP:66/343 MP:124/153
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ataca a Scathach
+Scathach recibe 107 de daño
+Mushussu ataca a Scathach
+Scathach recibe 107 de daño
+Scathach termina con HP:0/343
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Yu (J1)

@@ -1,0 +1,6871 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 46
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Chagrin HP:67/67 MP:72/72
+C-Kingu HP:464/464 MP:91/91
+D-Kikuri-Hime HP:216/216 MP:210/210
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Churel HP:197/197 MP:190/190
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Kingu
+3-Kikuri-Hime
+4-Chagrin
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:760/760 MP:398/398
+2-Churel HP:197/197 MP:190/190
+3-Ishtar HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:760/760 MP:398/398
+2-Churel HP:197/197 MP:190/190
+3-Ishtar HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nanashi dispara a Churel
+Churel recibe 31 de daño
+Churel termina con HP:166/197
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Chagrin HP:67/67 MP:72/72
+C-Kingu HP:464/464 MP:91/91
+D-Kikuri-Hime HP:216/216 MP:210/210
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Churel HP:166/197 MP:190/190
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Kikuri-Hime
+3-Chagrin
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Kei HP:760/760 MP:398/398
+2-Churel HP:166/197 MP:190/190
+3-Ishtar HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lord Nan Dou HP:549/549 MP:108/108
+2-Spriggan HP:147/147 MP:66/66
+3-Archangel HP:265/265 MP:52/52
+4-Chemtrail HP:437/437 MP:423/423
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Spriggan ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Chagrin HP:67/67 MP:72/72
+C-Spriggan HP:147/147 MP:66/66
+D-Kikuri-Hime HP:216/216 MP:210/210
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Churel HP:166/197 MP:190/190
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kikuri-Hime
+2-Chagrin
+3-Nanashi
+4-Spriggan
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Chagrin HP:67/67 MP:72/72
+C-Spriggan HP:147/147 MP:66/66
+D-Kikuri-Hime HP:216/216 MP:210/210
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Churel HP:166/197 MP:190/190
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chagrin
+2-Nanashi
+3-Spriggan
+4-Kikuri-Hime
+----------------------------------------
+Seleccione una acción para Chagrin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Chagrin HP:67/67 MP:72/72
+C-Spriggan HP:147/147 MP:66/66
+D-Kikuri-Hime HP:216/216 MP:210/210
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Churel HP:166/197 MP:190/190
+C-Ishtar HP:258/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Spriggan
+3-Kikuri-Hime
+4-Chagrin
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:760/760 MP:398/398
+2-Churel HP:166/197 MP:190/190
+3-Ishtar HP:258/258 MP:251/251
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nanashi dispara a Ishtar
+Ishtar recibe 31 de daño
+Ishtar termina con HP:227/258
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Chagrin HP:67/67 MP:72/72
+C-Spriggan HP:147/147 MP:66/66
+D-Kikuri-Hime HP:216/216 MP:210/210
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Churel HP:166/197 MP:190/190
+C-Ishtar HP:227/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Spriggan
+2-Kikuri-Hime
+3-Chagrin
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Spriggan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Spriggan use
+1-Agi MP:5
+2-Dormina MP:4
+3-Maragi MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Spriggan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Chagrin HP:67/67 MP:72/72
+C-Spriggan HP:147/147 MP:66/66
+D-Kikuri-Hime HP:216/216 MP:210/210
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Churel HP:166/197 MP:190/190
+C-Ishtar HP:227/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kikuri-Hime
+2-Chagrin
+3-Nanashi
+4-Spriggan
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Chagrin HP:67/67 MP:72/72
+C-Spriggan HP:147/147 MP:66/66
+D-Kikuri-Hime HP:216/216 MP:210/210
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Churel HP:166/197 MP:190/190
+C-Ishtar HP:227/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Churel
+3-Kei
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ishtar use
+1-Megidola MP:40
+2-Doping MP:45
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Nanashi HP:140/140 MP:411/411
+2-Chagrin HP:67/67 MP:72/72
+3-Spriggan HP:147/147 MP:66/66
+4-Kikuri-Hime HP:216/216 MP:210/210
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ishtar ataca a Nanashi
+Nanashi recibe 27 de daño
+Nanashi termina con HP:113/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:113/140 MP:411/411
+B-Chagrin HP:67/67 MP:72/72
+C-Spriggan HP:147/147 MP:66/66
+D-Kikuri-Hime HP:216/216 MP:210/210
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Churel HP:166/197 MP:190/190
+C-Ishtar HP:227/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Churel
+2-Kei
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Churel
+1-Nanashi HP:113/140 MP:411/411
+2-Chagrin HP:67/67 MP:72/72
+3-Spriggan HP:147/147 MP:66/66
+4-Kikuri-Hime HP:216/216 MP:210/210
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Churel ataca a Nanashi
+Nanashi recibe 20 de daño
+Nanashi termina con HP:93/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:93/140 MP:411/411
+B-Chagrin HP:67/67 MP:72/72
+C-Spriggan HP:147/147 MP:66/66
+D-Kikuri-Hime HP:216/216 MP:210/210
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Churel HP:166/197 MP:190/190
+C-Ishtar HP:227/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Ishtar
+3-Churel
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Zanma MP:8
+2-Damascus Claw MP:7
+3-Needle Shot MP:4
+4-Ziodyne MP:14
+5-Agi MP:5
+6-Zionga MP:8
+7-Gram Slice MP:5
+8-Hamaon MP:10
+9-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Nanashi HP:93/140 MP:411/411
+2-Chagrin HP:67/67 MP:72/72
+3-Spriggan HP:147/147 MP:66/66
+4-Kikuri-Hime HP:216/216 MP:210/210
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kei ataca a Chagrin
+Chagrin recibe 66 de daño
+Chagrin termina con HP:1/67
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:93/140 MP:411/411
+B-Chagrin HP:1/67 MP:72/72
+C-Spriggan HP:147/147 MP:66/66
+D-Kikuri-Hime HP:216/216 MP:210/210
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:391/398
+B-Churel HP:166/197 MP:190/190
+C-Ishtar HP:227/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Kikuri-Hime
+3-Spriggan
+4-Chagrin
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:464/464 MP:91/91
+2-Lord Nan Dou HP:549/549 MP:108/108
+3-Archangel HP:265/265 MP:52/52
+4-Chemtrail HP:437/437 MP:423/423
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:93/140 MP:411/411
+B-Chagrin HP:1/67 MP:72/72
+C-Spriggan HP:147/147 MP:66/66
+D-Kikuri-Hime HP:216/216 MP:210/210
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:391/398
+B-Churel HP:166/197 MP:190/190
+C-Ishtar HP:227/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kikuri-Hime
+2-Spriggan
+3-Chagrin
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kikuri-Hime use
+1-Tetraja MP:15
+2-Me Patra MP:15
+3-Diarama MP:9
+4-Recarm MP:20
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Kikuri-Hime
+1-Nanashi HP:93/140 MP:411/411
+2-Chagrin HP:1/67 MP:72/72
+3-Spriggan HP:147/147 MP:66/66
+4-Kikuri-Hime HP:216/216 MP:210/210
+5-Kingu HP:464/464 MP:91/91
+6-Lord Nan Dou HP:549/549 MP:108/108
+7-Archangel HP:265/265 MP:52/52
+8-Chemtrail HP:437/437 MP:423/423
+9-Cancelar
+INPUT: 1
+----------------------------------------
+Kikuri-Hime cura a Nanashi
+Nanashi recibe 70 de HP
+Nanashi termina con HP:140/140
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Chagrin HP:1/67 MP:72/72
+C-Spriggan HP:147/147 MP:66/66
+D-Kikuri-Hime HP:216/216 MP:201/210
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:391/398
+B-Churel HP:166/197 MP:190/190
+C-Ishtar HP:227/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Spriggan
+2-Chagrin
+3-Nanashi
+4-Kikuri-Hime
+----------------------------------------
+Seleccione una acción para Spriggan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Chagrin HP:1/67 MP:72/72
+C-Spriggan HP:147/147 MP:66/66
+D-Kikuri-Hime HP:216/216 MP:201/210
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:391/398
+B-Churel HP:166/197 MP:190/190
+C-Ishtar HP:227/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Chagrin
+2-Nanashi
+3-Kikuri-Hime
+4-Spriggan
+----------------------------------------
+Seleccione una acción para Chagrin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chagrin use
+1-Needle Shot MP:4
+2-Zio MP:5
+3-Rakunda MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chagrin
+1-Kei HP:760/760 MP:391/398
+2-Churel HP:166/197 MP:190/190
+3-Ishtar HP:227/258 MP:251/251
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Chagrin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chagrin
+1-Kei HP:760/760 MP:391/398
+2-Churel HP:166/197 MP:190/190
+3-Ishtar HP:227/258 MP:251/251
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Chagrin ataca a Kei
+Kei es resistente el ataque de Chagrin
+Kei recibe 2 de daño
+Kei termina con HP:758/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Chagrin HP:1/67 MP:72/72
+C-Spriggan HP:147/147 MP:66/66
+D-Kikuri-Hime HP:216/216 MP:201/210
+Equipo de Kei (J2)
+A-Kei HP:758/760 MP:391/398
+B-Churel HP:166/197 MP:190/190
+C-Ishtar HP:227/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Kikuri-Hime
+3-Spriggan
+4-Chagrin
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nanashi use
+1-Grand Tack MP:11
+2-Iron Judgement MP:8
+3-Mudo MP:6
+4-Diarama MP:9
+5-Agi MP:5
+6-Zionga MP:8
+7-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:758/760 MP:391/398
+2-Churel HP:166/197 MP:190/190
+3-Ishtar HP:227/258 MP:251/251
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nanashi lanza electricidad a Churel
+Churel recibe 55 de daño
+Churel termina con HP:111/197
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:403/411
+B-Chagrin HP:1/67 MP:72/72
+C-Spriggan HP:147/147 MP:66/66
+D-Kikuri-Hime HP:216/216 MP:201/210
+Equipo de Kei (J2)
+A-Kei HP:758/760 MP:391/398
+B-Churel HP:111/197 MP:190/190
+C-Ishtar HP:227/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kikuri-Hime
+2-Spriggan
+3-Chagrin
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:464/464 MP:91/91
+2-Lord Nan Dou HP:549/549 MP:108/108
+3-Archangel HP:265/265 MP:52/52
+4-Chemtrail HP:437/437 MP:423/423
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kingu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:403/411
+B-Chagrin HP:1/67 MP:72/72
+C-Spriggan HP:147/147 MP:66/66
+D-Kingu HP:464/464 MP:91/91
+Equipo de Kei (J2)
+A-Kei HP:758/760 MP:391/398
+B-Churel HP:111/197 MP:190/190
+C-Ishtar HP:227/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Spriggan
+2-Chagrin
+3-Nanashi
+4-Kingu
+----------------------------------------
+Seleccione una acción para Spriggan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Spriggan use
+1-Agi MP:5
+2-Dormina MP:4
+3-Maragi MP:11
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Spriggan
+1-Kei HP:758/760 MP:391/398
+2-Churel HP:111/197 MP:190/190
+3-Ishtar HP:227/258 MP:251/251
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Spriggan lanza fuego a Ishtar
+Ishtar recibe 36 de daño
+Ishtar termina con HP:191/258
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:403/411
+B-Chagrin HP:1/67 MP:72/72
+C-Spriggan HP:147/147 MP:61/66
+D-Kingu HP:464/464 MP:91/91
+Equipo de Kei (J2)
+A-Kei HP:758/760 MP:391/398
+B-Churel HP:111/197 MP:190/190
+C-Ishtar HP:191/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Churel
+3-Kei
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ishtar use
+1-Megidola MP:40
+2-Doping MP:45
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Nanashi HP:140/140 MP:403/411
+2-Chagrin HP:1/67 MP:72/72
+3-Spriggan HP:147/147 MP:61/66
+4-Kingu HP:464/464 MP:91/91
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Ishtar ataca a Spriggan
+Spriggan es resistente el ataque de Ishtar
+Spriggan recibe 13 de daño
+Spriggan termina con HP:134/147
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:403/411
+B-Chagrin HP:1/67 MP:72/72
+C-Spriggan HP:134/147 MP:61/66
+D-Kingu HP:464/464 MP:91/91
+Equipo de Kei (J2)
+A-Kei HP:758/760 MP:391/398
+B-Churel HP:111/197 MP:190/190
+C-Ishtar HP:191/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Churel
+2-Kei
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Churel use
+1-Energy Drain MP:10
+2-Shibaboo MP:5
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Churel use
+1-Energy Drain MP:10
+2-Shibaboo MP:5
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Churel
+1-Nanashi HP:140/140 MP:403/411
+2-Chagrin HP:1/67 MP:72/72
+3-Spriggan HP:134/147 MP:61/66
+4-Kingu HP:464/464 MP:91/91
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Churel ataca a Nanashi
+Nanashi recibe 20 de daño
+Nanashi termina con HP:120/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:120/140 MP:403/411
+B-Chagrin HP:1/67 MP:72/72
+C-Spriggan HP:134/147 MP:61/66
+D-Kingu HP:464/464 MP:91/91
+Equipo de Kei (J2)
+A-Kei HP:758/760 MP:391/398
+B-Churel HP:111/197 MP:190/190
+C-Ishtar HP:191/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Ishtar
+3-Churel
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:120/140 MP:403/411
+B-Chagrin HP:1/67 MP:72/72
+C-Spriggan HP:134/147 MP:61/66
+D-Kingu HP:464/464 MP:91/91
+Equipo de Kei (J2)
+A-Kei HP:758/760 MP:391/398
+B-Churel HP:111/197 MP:190/190
+C-Ishtar HP:191/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ishtar
+2-Churel
+3-Kei
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:120/140 MP:403/411
+B-Chagrin HP:1/67 MP:72/72
+C-Spriggan HP:134/147 MP:61/66
+D-Kingu HP:464/464 MP:91/91
+Equipo de Kei (J2)
+A-Kei HP:758/760 MP:391/398
+B-Churel HP:111/197 MP:190/190
+C-Ishtar HP:191/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Kingu
+3-Spriggan
+4-Chagrin
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nanashi use
+1-Grand Tack MP:11
+2-Iron Judgement MP:8
+3-Mudo MP:6
+4-Diarama MP:9
+5-Agi MP:5
+6-Zionga MP:8
+7-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:758/760 MP:391/398
+2-Churel HP:111/197 MP:190/190
+3-Ishtar HP:191/258 MP:251/251
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi lanza fuego a Kei
+Kei es resistente el ataque de Nanashi
+Kei recibe 20 de daño
+Kei termina con HP:738/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:120/140 MP:398/411
+B-Chagrin HP:1/67 MP:72/72
+C-Spriggan HP:134/147 MP:61/66
+D-Kingu HP:464/464 MP:91/91
+Equipo de Kei (J2)
+A-Kei HP:738/760 MP:391/398
+B-Churel HP:111/197 MP:190/190
+C-Ishtar HP:191/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Spriggan
+3-Chagrin
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kingu use
+1-Zanma MP:8
+2-Recarmdra MP:2
+3-Shock MP:21
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Kei HP:738/760 MP:391/398
+2-Churel HP:111/197 MP:190/190
+3-Ishtar HP:191/258 MP:251/251
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Kingu lanza viento a Ishtar
+Ishtar recibe 73 de daño
+Ishtar termina con HP:118/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:120/140 MP:398/411
+B-Chagrin HP:1/67 MP:72/72
+C-Spriggan HP:134/147 MP:61/66
+D-Kingu HP:464/464 MP:83/91
+Equipo de Kei (J2)
+A-Kei HP:738/760 MP:391/398
+B-Churel HP:111/197 MP:190/190
+C-Ishtar HP:118/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Spriggan
+2-Chagrin
+3-Nanashi
+4-Kingu
+----------------------------------------
+Seleccione una acción para Spriggan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Spriggan use
+1-Agi MP:5
+2-Dormina MP:4
+3-Maragi MP:11
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Spriggan
+1-Kei HP:738/760 MP:391/398
+2-Churel HP:111/197 MP:190/190
+3-Ishtar HP:118/258 MP:251/251
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Spriggan lanza fuego a Kei
+Kei es resistente el ataque de Spriggan
+Kei recibe 18 de daño
+Kei termina con HP:720/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:120/140 MP:398/411
+B-Chagrin HP:1/67 MP:72/72
+C-Spriggan HP:134/147 MP:56/66
+D-Kingu HP:464/464 MP:83/91
+Equipo de Kei (J2)
+A-Kei HP:720/760 MP:391/398
+B-Churel HP:111/197 MP:190/190
+C-Ishtar HP:118/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chagrin
+2-Nanashi
+3-Kingu
+4-Spriggan
+----------------------------------------
+Seleccione una acción para Chagrin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kikuri-Hime HP:216/216 MP:201/210
+2-Lord Nan Dou HP:549/549 MP:108/108
+3-Archangel HP:265/265 MP:52/52
+4-Chemtrail HP:437/437 MP:423/423
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Chemtrail ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:120/140 MP:398/411
+B-Chemtrail HP:437/437 MP:423/423
+C-Spriggan HP:134/147 MP:56/66
+D-Kingu HP:464/464 MP:83/91
+Equipo de Kei (J2)
+A-Kei HP:720/760 MP:391/398
+B-Churel HP:111/197 MP:190/190
+C-Ishtar HP:118/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Kingu
+3-Spriggan
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:720/760 MP:391/398
+2-Churel HP:111/197 MP:190/190
+3-Ishtar HP:118/258 MP:251/251
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nanashi dispara a Churel
+Churel recibe 31 de daño
+Churel termina con HP:80/197
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:120/140 MP:398/411
+B-Chemtrail HP:437/437 MP:423/423
+C-Spriggan HP:134/147 MP:56/66
+D-Kingu HP:464/464 MP:83/91
+Equipo de Kei (J2)
+A-Kei HP:720/760 MP:391/398
+B-Churel HP:80/197 MP:190/190
+C-Ishtar HP:118/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Churel
+3-Kei
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:120/140 MP:398/411
+B-Chemtrail HP:437/437 MP:423/423
+C-Spriggan HP:134/147 MP:56/66
+D-Kingu HP:464/464 MP:83/91
+Equipo de Kei (J2)
+A-Kei HP:720/760 MP:391/398
+B-Churel HP:80/197 MP:190/190
+C-Ishtar HP:118/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Churel
+2-Kei
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Churel use
+1-Energy Drain MP:10
+2-Shibaboo MP:5
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:120/140 MP:398/411
+B-Chemtrail HP:437/437 MP:423/423
+C-Spriggan HP:134/147 MP:56/66
+D-Kingu HP:464/464 MP:83/91
+Equipo de Kei (J2)
+A-Kei HP:720/760 MP:391/398
+B-Churel HP:80/197 MP:190/190
+C-Ishtar HP:118/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Ishtar
+3-Churel
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Nanashi HP:120/140 MP:398/411
+2-Chemtrail HP:437/437 MP:423/423
+3-Spriggan HP:134/147 MP:56/66
+4-Kingu HP:464/464 MP:83/91
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kei dispara a Chemtrail
+Chemtrail recibe 15 de daño
+Chemtrail termina con HP:422/437
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:120/140 MP:398/411
+B-Chemtrail HP:422/437 MP:423/423
+C-Spriggan HP:134/147 MP:56/66
+D-Kingu HP:464/464 MP:83/91
+Equipo de Kei (J2)
+A-Kei HP:720/760 MP:391/398
+B-Churel HP:80/197 MP:190/190
+C-Ishtar HP:118/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Churel
+3-Kei
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Nanashi HP:120/140 MP:398/411
+2-Chemtrail HP:422/437 MP:423/423
+3-Spriggan HP:134/147 MP:56/66
+4-Kingu HP:464/464 MP:83/91
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Ishtar ataca a Spriggan
+Spriggan es resistente el ataque de Ishtar
+Spriggan recibe 13 de daño
+Spriggan termina con HP:121/147
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:120/140 MP:398/411
+B-Chemtrail HP:422/437 MP:423/423
+C-Spriggan HP:121/147 MP:56/66
+D-Kingu HP:464/464 MP:83/91
+Equipo de Kei (J2)
+A-Kei HP:720/760 MP:391/398
+B-Churel HP:80/197 MP:190/190
+C-Ishtar HP:118/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Nanashi
+3-Kingu
+4-Spriggan
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Kei HP:720/760 MP:391/398
+2-Churel HP:80/197 MP:190/190
+3-Ishtar HP:118/258 MP:251/251
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Chemtrail ataca a Kei
+Kei es resistente el ataque de Chemtrail
+Kei recibe 23 de daño
+Kei termina con HP:697/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:120/140 MP:398/411
+B-Chemtrail HP:422/437 MP:423/423
+C-Spriggan HP:121/147 MP:56/66
+D-Kingu HP:464/464 MP:83/91
+Equipo de Kei (J2)
+A-Kei HP:697/760 MP:391/398
+B-Churel HP:80/197 MP:190/190
+C-Ishtar HP:118/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Kingu
+3-Spriggan
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:697/760 MP:391/398
+2-Churel HP:80/197 MP:190/190
+3-Ishtar HP:118/258 MP:251/251
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:697/760 MP:391/398
+2-Churel HP:80/197 MP:190/190
+3-Ishtar HP:118/258 MP:251/251
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nanashi dispara a Churel
+Churel recibe 31 de daño
+Churel termina con HP:49/197
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:120/140 MP:398/411
+B-Chemtrail HP:422/437 MP:423/423
+C-Spriggan HP:121/147 MP:56/66
+D-Kingu HP:464/464 MP:83/91
+Equipo de Kei (J2)
+A-Kei HP:697/760 MP:391/398
+B-Churel HP:49/197 MP:190/190
+C-Ishtar HP:118/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Spriggan
+3-Chemtrail
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kingu use
+1-Zanma MP:8
+2-Recarmdra MP:2
+3-Shock MP:21
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kingu use
+1-Zanma MP:8
+2-Recarmdra MP:2
+3-Shock MP:21
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Kingu cura a Nanashi
+Nanashi recibe 70 de HP
+Nanashi termina con HP:140/140
+Kingu cura a Chemtrail
+Chemtrail recibe 218 de HP
+Chemtrail termina con HP:437/437
+Kingu cura a Spriggan
+Spriggan recibe 73 de HP
+Spriggan termina con HP:147/147
+Kingu cura a Chagrin
+Chagrin recibe 33 de HP
+Chagrin termina con HP:34/67
+Kingu cura a Kikuri-Hime
+Kikuri-Hime recibe 108 de HP
+Kikuri-Hime termina con HP:216/216
+Kingu cura a Lord Nan Dou
+Lord Nan Dou recibe 274 de HP
+Lord Nan Dou termina con HP:549/549
+Kingu cura a Archangel
+Archangel recibe 132 de HP
+Archangel termina con HP:265/265
+Kingu termina con HP:0/464
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:398/411
+B-Chemtrail HP:437/437 MP:423/423
+C-Spriggan HP:147/147 MP:56/66
+D-
+Equipo de Kei (J2)
+A-Kei HP:697/760 MP:391/398
+B-Churel HP:49/197 MP:190/190
+C-Ishtar HP:118/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Nanashi
+3-Spriggan
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chemtrail use
+1-Shivering Taboo MP:40
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Riot Gun MP:30
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:398/411
+B-Chemtrail HP:437/437 MP:423/423
+C-Spriggan HP:147/147 MP:56/66
+D-
+Equipo de Kei (J2)
+A-Kei HP:697/760 MP:391/398
+B-Churel HP:49/197 MP:190/190
+C-Ishtar HP:118/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Spriggan
+3-Chemtrail
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:697/760 MP:391/398
+2-Churel HP:49/197 MP:190/190
+3-Ishtar HP:118/258 MP:251/251
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nanashi ataca a Ishtar
+Ishtar recibe 92 de daño
+Ishtar termina con HP:26/258
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:398/411
+B-Chemtrail HP:437/437 MP:423/423
+C-Spriggan HP:147/147 MP:56/66
+D-
+Equipo de Kei (J2)
+A-Kei HP:697/760 MP:391/398
+B-Churel HP:49/197 MP:190/190
+C-Ishtar HP:26/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Churel
+3-Kei
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:398/411
+B-Chemtrail HP:437/437 MP:423/423
+C-Spriggan HP:147/147 MP:56/66
+D-
+Equipo de Kei (J2)
+A-Kei HP:697/760 MP:391/398
+B-Churel HP:49/197 MP:190/190
+C-Ishtar HP:26/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Churel
+2-Kei
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Churel
+1-Nanashi HP:140/140 MP:398/411
+2-Chemtrail HP:437/437 MP:423/423
+3-Spriggan HP:147/147 MP:56/66
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Churel ataca a Chemtrail
+Chemtrail recibe 20 de daño
+Chemtrail termina con HP:417/437
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:398/411
+B-Chemtrail HP:417/437 MP:423/423
+C-Spriggan HP:147/147 MP:56/66
+D-
+Equipo de Kei (J2)
+A-Kei HP:697/760 MP:391/398
+B-Churel HP:49/197 MP:190/190
+C-Ishtar HP:26/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Ishtar
+3-Churel
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:398/411
+B-Chemtrail HP:417/437 MP:423/423
+C-Spriggan HP:147/147 MP:56/66
+D-
+Equipo de Kei (J2)
+A-Kei HP:697/760 MP:391/398
+B-Churel HP:49/197 MP:190/190
+C-Ishtar HP:26/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ishtar
+2-Churel
+3-Kei
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Nanashi HP:140/140 MP:398/411
+2-Chemtrail HP:417/437 MP:423/423
+3-Spriggan HP:147/147 MP:56/66
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Ishtar ataca a Chemtrail
+Chemtrail recibe 27 de daño
+Chemtrail termina con HP:390/437
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:398/411
+B-Chemtrail HP:390/437 MP:423/423
+C-Spriggan HP:147/147 MP:56/66
+D-
+Equipo de Kei (J2)
+A-Kei HP:697/760 MP:391/398
+B-Churel HP:49/197 MP:190/190
+C-Ishtar HP:26/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Churel
+2-Kei
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Churel
+1-Nanashi HP:140/140 MP:398/411
+2-Chemtrail HP:390/437 MP:423/423
+3-Spriggan HP:147/147 MP:56/66
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Churel ataca a Nanashi
+Nanashi recibe 20 de daño
+Nanashi termina con HP:120/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:120/140 MP:398/411
+B-Chemtrail HP:390/437 MP:423/423
+C-Spriggan HP:147/147 MP:56/66
+D-
+Equipo de Kei (J2)
+A-Kei HP:697/760 MP:391/398
+B-Churel HP:49/197 MP:190/190
+C-Ishtar HP:26/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Nanashi
+3-Spriggan
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chagrin HP:34/67 MP:72/72
+2-Kikuri-Hime HP:216/216 MP:201/210
+3-Lord Nan Dou HP:549/549 MP:108/108
+4-Archangel HP:265/265 MP:52/52
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kikuri-Hime ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:120/140 MP:398/411
+B-Kikuri-Hime HP:216/216 MP:201/210
+C-Spriggan HP:147/147 MP:56/66
+D-
+Equipo de Kei (J2)
+A-Kei HP:697/760 MP:391/398
+B-Churel HP:49/197 MP:190/190
+C-Ishtar HP:26/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Spriggan
+3-Kikuri-Hime
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:697/760 MP:391/398
+2-Churel HP:49/197 MP:190/190
+3-Ishtar HP:26/258 MP:251/251
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nanashi use
+1-Grand Tack MP:11
+2-Iron Judgement MP:8
+3-Mudo MP:6
+4-Diarama MP:9
+5-Agi MP:5
+6-Zionga MP:8
+7-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:697/760 MP:391/398
+2-Churel HP:49/197 MP:190/190
+3-Ishtar HP:26/258 MP:251/251
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nanashi lanza fuego a Churel
+Churel recibe 41 de daño
+Churel termina con HP:8/197
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:120/140 MP:393/411
+B-Kikuri-Hime HP:216/216 MP:201/210
+C-Spriggan HP:147/147 MP:56/66
+D-
+Equipo de Kei (J2)
+A-Kei HP:697/760 MP:391/398
+B-Churel HP:8/197 MP:190/190
+C-Ishtar HP:26/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Spriggan
+2-Kikuri-Hime
+3-Nanashi
+----------------------------------------
+Seleccione una acción para Spriggan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Spriggan use
+1-Agi MP:5
+2-Dormina MP:4
+3-Maragi MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Spriggan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:120/140 MP:393/411
+B-Kikuri-Hime HP:216/216 MP:201/210
+C-Spriggan HP:147/147 MP:56/66
+D-
+Equipo de Kei (J2)
+A-Kei HP:697/760 MP:391/398
+B-Churel HP:8/197 MP:190/190
+C-Ishtar HP:26/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kikuri-Hime
+2-Nanashi
+3-Spriggan
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chagrin HP:34/67 MP:72/72
+2-Lord Nan Dou HP:549/549 MP:108/108
+3-Archangel HP:265/265 MP:52/52
+4-Chemtrail HP:390/437 MP:423/423
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Chagrin ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:120/140 MP:393/411
+B-Chagrin HP:34/67 MP:72/72
+C-Spriggan HP:147/147 MP:56/66
+D-
+Equipo de Kei (J2)
+A-Kei HP:697/760 MP:391/398
+B-Churel HP:8/197 MP:190/190
+C-Ishtar HP:26/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Spriggan
+3-Chagrin
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nanashi use
+1-Grand Tack MP:11
+2-Iron Judgement MP:8
+3-Mudo MP:6
+4-Diarama MP:9
+5-Agi MP:5
+6-Zionga MP:8
+7-Cancelar
+INPUT: 7
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kikuri-Hime HP:216/216 MP:201/210
+2-Lord Nan Dou HP:549/549 MP:108/108
+3-Archangel HP:265/265 MP:52/52
+4-Chemtrail HP:390/437 MP:423/423
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una posición para invocar
+1-Chagrin HP:34/67 MP:72/72 (Puesto 2)
+2-Spriggan HP:147/147 MP:56/66 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Chemtrail ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:120/140 MP:393/411
+B-Chemtrail HP:390/437 MP:423/423
+C-Spriggan HP:147/147 MP:56/66
+D-
+Equipo de Kei (J2)
+A-Kei HP:697/760 MP:391/398
+B-Churel HP:8/197 MP:190/190
+C-Ishtar HP:26/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Spriggan
+2-Chemtrail
+3-Nanashi
+----------------------------------------
+Seleccione una acción para Spriggan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chagrin HP:34/67 MP:72/72
+2-Kikuri-Hime HP:216/216 MP:201/210
+3-Lord Nan Dou HP:549/549 MP:108/108
+4-Archangel HP:265/265 MP:52/52
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kikuri-Hime ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:120/140 MP:393/411
+B-Chemtrail HP:390/437 MP:423/423
+C-Kikuri-Hime HP:216/216 MP:201/210
+D-
+Equipo de Kei (J2)
+A-Kei HP:697/760 MP:391/398
+B-Churel HP:8/197 MP:190/190
+C-Ishtar HP:26/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Churel
+3-Kei
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Nanashi HP:120/140 MP:393/411
+2-Chemtrail HP:390/437 MP:423/423
+3-Kikuri-Hime HP:216/216 MP:201/210
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:120/140 MP:393/411
+B-Chemtrail HP:390/437 MP:423/423
+C-Kikuri-Hime HP:216/216 MP:201/210
+D-
+Equipo de Kei (J2)
+A-Kei HP:697/760 MP:391/398
+B-Churel HP:8/197 MP:190/190
+C-Ishtar HP:26/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Churel
+2-Kei
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Churel use
+1-Energy Drain MP:10
+2-Shibaboo MP:5
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Churel
+1-Nanashi HP:120/140 MP:393/411
+2-Chemtrail HP:390/437 MP:423/423
+3-Kikuri-Hime HP:216/216 MP:201/210
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:120/140 MP:393/411
+B-Chemtrail HP:390/437 MP:423/423
+C-Kikuri-Hime HP:216/216 MP:201/210
+D-
+Equipo de Kei (J2)
+A-Kei HP:697/760 MP:391/398
+B-Churel HP:8/197 MP:190/190
+C-Ishtar HP:26/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Ishtar
+3-Churel
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Nanashi HP:120/140 MP:393/411
+2-Chemtrail HP:390/437 MP:423/423
+3-Kikuri-Hime HP:216/216 MP:201/210
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Zanma MP:8
+2-Damascus Claw MP:7
+3-Needle Shot MP:4
+4-Ziodyne MP:14
+5-Agi MP:5
+6-Zionga MP:8
+7-Gram Slice MP:5
+8-Hamaon MP:10
+9-Cancelar
+INPUT: 8
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Nanashi HP:120/140 MP:393/411
+2-Chemtrail HP:390/437 MP:423/423
+3-Kikuri-Hime HP:216/216 MP:201/210
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Nanashi HP:120/140 MP:393/411
+2-Chemtrail HP:390/437 MP:423/423
+3-Kikuri-Hime HP:216/216 MP:201/210
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Zanma MP:8
+2-Damascus Claw MP:7
+3-Needle Shot MP:4
+4-Ziodyne MP:14
+5-Agi MP:5
+6-Zionga MP:8
+7-Gram Slice MP:5
+8-Hamaon MP:10
+9-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Nanashi HP:120/140 MP:393/411
+2-Chemtrail HP:390/437 MP:423/423
+3-Kikuri-Hime HP:216/216 MP:201/210
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:120/140 MP:393/411
+B-Chemtrail HP:390/437 MP:423/423
+C-Kikuri-Hime HP:216/216 MP:201/210
+D-
+Equipo de Kei (J2)
+A-Kei HP:697/760 MP:391/398
+B-Churel HP:8/197 MP:190/190
+C-Ishtar HP:26/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ishtar
+2-Churel
+3-Kei
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Nanashi HP:120/140 MP:393/411
+2-Chemtrail HP:390/437 MP:423/423
+3-Kikuri-Hime HP:216/216 MP:201/210
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Ishtar ataca a Kikuri-Hime
+Kikuri-Hime recibe 27 de daño
+Kikuri-Hime termina con HP:189/216
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:120/140 MP:393/411
+B-Chemtrail HP:390/437 MP:423/423
+C-Kikuri-Hime HP:189/216 MP:201/210
+D-
+Equipo de Kei (J2)
+A-Kei HP:697/760 MP:391/398
+B-Churel HP:8/197 MP:190/190
+C-Ishtar HP:26/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Churel
+2-Kei
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Churel
+1-Nanashi HP:120/140 MP:393/411
+2-Chemtrail HP:390/437 MP:423/423
+3-Kikuri-Hime HP:189/216 MP:201/210
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Churel ataca a Chemtrail
+Chemtrail recibe 20 de daño
+Chemtrail termina con HP:370/437
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:120/140 MP:393/411
+B-Chemtrail HP:370/437 MP:423/423
+C-Kikuri-Hime HP:189/216 MP:201/210
+D-
+Equipo de Kei (J2)
+A-Kei HP:697/760 MP:391/398
+B-Churel HP:8/197 MP:190/190
+C-Ishtar HP:26/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Nanashi
+3-Kikuri-Hime
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chagrin HP:34/67 MP:72/72
+2-Lord Nan Dou HP:549/549 MP:108/108
+3-Spriggan HP:147/147 MP:56/66
+4-Archangel HP:265/265 MP:52/52
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Spriggan ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:120/140 MP:393/411
+B-Spriggan HP:147/147 MP:56/66
+C-Kikuri-Hime HP:189/216 MP:201/210
+D-
+Equipo de Kei (J2)
+A-Kei HP:697/760 MP:391/398
+B-Churel HP:8/197 MP:190/190
+C-Ishtar HP:26/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Kikuri-Hime
+3-Spriggan
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:697/760 MP:391/398
+2-Churel HP:8/197 MP:190/190
+3-Ishtar HP:26/258 MP:251/251
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi ataca a Kei
+Kei es resistente el ataque de Nanashi
+Kei recibe 46 de daño
+Kei termina con HP:651/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:120/140 MP:393/411
+B-Spriggan HP:147/147 MP:56/66
+C-Kikuri-Hime HP:189/216 MP:201/210
+D-
+Equipo de Kei (J2)
+A-Kei HP:651/760 MP:391/398
+B-Churel HP:8/197 MP:190/190
+C-Ishtar HP:26/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kikuri-Hime
+2-Spriggan
+3-Nanashi
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kikuri-Hime use
+1-Tetraja MP:15
+2-Me Patra MP:15
+3-Diarama MP:9
+4-Recarm MP:20
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Kikuri-Hime
+1-Kingu HP:0/464 MP:81/91
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chagrin HP:34/67 MP:72/72
+2-Lord Nan Dou HP:549/549 MP:108/108
+3-Archangel HP:265/265 MP:52/52
+4-Chemtrail HP:370/437 MP:423/423
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Archangel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:120/140 MP:393/411
+B-Spriggan HP:147/147 MP:56/66
+C-Archangel HP:265/265 MP:52/52
+D-
+Equipo de Kei (J2)
+A-Kei HP:651/760 MP:391/398
+B-Churel HP:8/197 MP:190/190
+C-Ishtar HP:26/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Spriggan
+2-Nanashi
+3-Archangel
+----------------------------------------
+Seleccione una acción para Spriggan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:120/140 MP:393/411
+B-Spriggan HP:147/147 MP:56/66
+C-Archangel HP:265/265 MP:52/52
+D-
+Equipo de Kei (J2)
+A-Kei HP:651/760 MP:391/398
+B-Churel HP:8/197 MP:190/190
+C-Ishtar HP:26/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Archangel
+3-Spriggan
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:651/760 MP:391/398
+2-Churel HP:8/197 MP:190/190
+3-Ishtar HP:26/258 MP:251/251
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi ataca a Kei
+Kei es resistente el ataque de Nanashi
+Kei recibe 46 de daño
+Kei termina con HP:605/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:120/140 MP:393/411
+B-Spriggan HP:147/147 MP:56/66
+C-Archangel HP:265/265 MP:52/52
+D-
+Equipo de Kei (J2)
+A-Kei HP:605/760 MP:391/398
+B-Churel HP:8/197 MP:190/190
+C-Ishtar HP:26/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Churel
+3-Kei
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Nanashi HP:120/140 MP:393/411
+2-Spriggan HP:147/147 MP:56/66
+3-Archangel HP:265/265 MP:52/52
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ishtar use
+1-Megidola MP:40
+2-Doping MP:45
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Nanashi HP:120/140 MP:393/411
+2-Spriggan HP:147/147 MP:56/66
+3-Archangel HP:265/265 MP:52/52
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:120/140 MP:393/411
+B-Spriggan HP:147/147 MP:56/66
+C-Archangel HP:265/265 MP:52/52
+D-
+Equipo de Kei (J2)
+A-Kei HP:605/760 MP:391/398
+B-Churel HP:8/197 MP:190/190
+C-Ishtar HP:26/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Churel
+2-Kei
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:120/140 MP:393/411
+B-Spriggan HP:147/147 MP:56/66
+C-Archangel HP:265/265 MP:52/52
+D-
+Equipo de Kei (J2)
+A-Kei HP:605/760 MP:391/398
+B-Churel HP:8/197 MP:190/190
+C-Ishtar HP:26/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Ishtar
+3-Churel
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:120/140 MP:393/411
+B-Spriggan HP:147/147 MP:56/66
+C-Archangel HP:265/265 MP:52/52
+D-
+Equipo de Kei (J2)
+A-Kei HP:605/760 MP:391/398
+B-Churel HP:8/197 MP:190/190
+C-Ishtar HP:26/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ishtar
+2-Churel
+3-Kei
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ishtar use
+1-Megidola MP:40
+2-Doping MP:45
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:120/140 MP:393/411
+B-Spriggan HP:147/147 MP:56/66
+C-Archangel HP:265/265 MP:52/52
+D-
+Equipo de Kei (J2)
+A-Kei HP:605/760 MP:391/398
+B-Churel HP:8/197 MP:190/190
+C-Ishtar HP:26/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Churel
+2-Kei
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Churel
+1-Nanashi HP:120/140 MP:393/411
+2-Spriggan HP:147/147 MP:56/66
+3-Archangel HP:265/265 MP:52/52
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Churel use
+1-Energy Drain MP:10
+2-Shibaboo MP:5
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Churel
+1-Nanashi HP:120/140 MP:393/411
+2-Spriggan HP:147/147 MP:56/66
+3-Archangel HP:265/265 MP:52/52
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Churel ataca a Nanashi
+Nanashi recibe 20 de daño
+Nanashi termina con HP:100/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:100/140 MP:393/411
+B-Spriggan HP:147/147 MP:56/66
+C-Archangel HP:265/265 MP:52/52
+D-
+Equipo de Kei (J2)
+A-Kei HP:605/760 MP:391/398
+B-Churel HP:8/197 MP:190/190
+C-Ishtar HP:26/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Archangel
+3-Spriggan
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nanashi use
+1-Grand Tack MP:11
+2-Iron Judgement MP:8
+3-Mudo MP:6
+4-Diarama MP:9
+5-Agi MP:5
+6-Zionga MP:8
+7-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:605/760 MP:391/398
+2-Churel HP:8/197 MP:190/190
+3-Ishtar HP:26/258 MP:251/251
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nanashi lanza electricidad a Ishtar
+Ishtar absorbe 55 daño
+Ishtar termina con HP:81/258
+----------------------------------------
+Se han consumido 3 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:100/140 MP:385/411
+B-Spriggan HP:147/147 MP:56/66
+C-Archangel HP:265/265 MP:52/52
+D-
+Equipo de Kei (J2)
+A-Kei HP:605/760 MP:391/398
+B-Churel HP:8/197 MP:190/190
+C-Ishtar HP:81/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Churel
+3-Kei
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Nanashi HP:100/140 MP:385/411
+2-Spriggan HP:147/147 MP:56/66
+3-Archangel HP:265/265 MP:52/52
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Ishtar ataca a Archangel
+Archangel recibe 27 de daño
+Archangel termina con HP:238/265
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:100/140 MP:385/411
+B-Spriggan HP:147/147 MP:56/66
+C-Archangel HP:238/265 MP:52/52
+D-
+Equipo de Kei (J2)
+A-Kei HP:605/760 MP:391/398
+B-Churel HP:8/197 MP:190/190
+C-Ishtar HP:81/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Churel
+2-Kei
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:100/140 MP:385/411
+B-Spriggan HP:147/147 MP:56/66
+C-Archangel HP:238/265 MP:52/52
+D-
+Equipo de Kei (J2)
+A-Kei HP:605/760 MP:391/398
+B-Churel HP:8/197 MP:190/190
+C-Ishtar HP:81/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Ishtar
+3-Churel
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:100/140 MP:385/411
+B-Spriggan HP:147/147 MP:56/66
+C-Archangel HP:238/265 MP:52/52
+D-
+Equipo de Kei (J2)
+A-Kei HP:605/760 MP:391/398
+B-Churel HP:8/197 MP:190/190
+C-Ishtar HP:81/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Churel
+3-Kei
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:100/140 MP:385/411
+B-Spriggan HP:147/147 MP:56/66
+C-Archangel HP:238/265 MP:52/52
+D-
+Equipo de Kei (J2)
+A-Kei HP:605/760 MP:391/398
+B-Churel HP:8/197 MP:190/190
+C-Ishtar HP:81/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Churel
+2-Kei
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Churel
+1-Nanashi HP:100/140 MP:385/411
+2-Spriggan HP:147/147 MP:56/66
+3-Archangel HP:238/265 MP:52/52
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Churel
+1-Nanashi HP:100/140 MP:385/411
+2-Spriggan HP:147/147 MP:56/66
+3-Archangel HP:238/265 MP:52/52
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Churel ataca a Nanashi
+Nanashi recibe 20 de daño
+Nanashi termina con HP:80/140
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:80/140 MP:385/411
+B-Spriggan HP:147/147 MP:56/66
+C-Archangel HP:238/265 MP:52/52
+D-
+Equipo de Kei (J2)
+A-Kei HP:605/760 MP:391/398
+B-Churel HP:8/197 MP:190/190
+C-Ishtar HP:81/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Archangel
+3-Spriggan
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:80/140 MP:385/411
+B-Spriggan HP:147/147 MP:56/66
+C-Archangel HP:238/265 MP:52/52
+D-
+Equipo de Kei (J2)
+A-Kei HP:605/760 MP:391/398
+B-Churel HP:8/197 MP:190/190
+C-Ishtar HP:81/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Archangel
+2-Spriggan
+3-Nanashi
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chagrin HP:34/67 MP:72/72
+2-Kikuri-Hime HP:189/216 MP:201/210
+3-Lord Nan Dou HP:549/549 MP:108/108
+4-Chemtrail HP:370/437 MP:423/423
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:80/140 MP:385/411
+B-Spriggan HP:147/147 MP:56/66
+C-Archangel HP:238/265 MP:52/52
+D-
+Equipo de Kei (J2)
+A-Kei HP:605/760 MP:391/398
+B-Churel HP:8/197 MP:190/190
+C-Ishtar HP:81/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Spriggan
+2-Nanashi
+3-Archangel
+----------------------------------------
+Seleccione una acción para Spriggan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:80/140 MP:385/411
+B-Spriggan HP:147/147 MP:56/66
+C-Archangel HP:238/265 MP:52/52
+D-
+Equipo de Kei (J2)
+A-Kei HP:605/760 MP:391/398
+B-Churel HP:8/197 MP:190/190
+C-Ishtar HP:81/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Archangel
+3-Spriggan
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chagrin HP:34/67 MP:72/72
+2-Kikuri-Hime HP:189/216 MP:201/210
+3-Lord Nan Dou HP:549/549 MP:108/108
+4-Chemtrail HP:370/437 MP:423/423
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chagrin HP:34/67 MP:72/72
+2-Kikuri-Hime HP:189/216 MP:201/210
+3-Lord Nan Dou HP:549/549 MP:108/108
+4-Chemtrail HP:370/437 MP:423/423
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Spriggan HP:147/147 MP:56/66 (Puesto 2)
+2-Archangel HP:238/265 MP:52/52 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Lord Nan Dou ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:80/140 MP:385/411
+B-Spriggan HP:147/147 MP:56/66
+C-Archangel HP:238/265 MP:52/52
+D-Lord Nan Dou HP:549/549 MP:108/108
+Equipo de Kei (J2)
+A-Kei HP:605/760 MP:391/398
+B-Churel HP:8/197 MP:190/190
+C-Ishtar HP:81/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Archangel
+2-Spriggan
+3-Lord Nan Dou
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Archangel
+1-Kei HP:605/760 MP:391/398
+2-Churel HP:8/197 MP:190/190
+3-Ishtar HP:81/258 MP:251/251
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Archangel ataca a Kei
+Kei es resistente el ataque de Archangel
+Kei recibe 9 de daño
+Kei termina con HP:596/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:80/140 MP:385/411
+B-Spriggan HP:147/147 MP:56/66
+C-Archangel HP:238/265 MP:52/52
+D-Lord Nan Dou HP:549/549 MP:108/108
+Equipo de Kei (J2)
+A-Kei HP:596/760 MP:391/398
+B-Churel HP:8/197 MP:190/190
+C-Ishtar HP:81/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Churel
+3-Kei
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ishtar use
+1-Megidola MP:40
+2-Doping MP:45
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:80/140 MP:385/411
+B-Spriggan HP:147/147 MP:56/66
+C-Archangel HP:238/265 MP:52/52
+D-Lord Nan Dou HP:549/549 MP:108/108
+Equipo de Kei (J2)
+A-Kei HP:596/760 MP:391/398
+B-Churel HP:8/197 MP:190/190
+C-Ishtar HP:81/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Churel
+2-Kei
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Churel
+1-Nanashi HP:80/140 MP:385/411
+2-Spriggan HP:147/147 MP:56/66
+3-Archangel HP:238/265 MP:52/52
+4-Lord Nan Dou HP:549/549 MP:108/108
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Churel ataca a Nanashi
+Nanashi recibe 20 de daño
+Nanashi termina con HP:60/140
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:385/411
+B-Spriggan HP:147/147 MP:56/66
+C-Archangel HP:238/265 MP:52/52
+D-Lord Nan Dou HP:549/549 MP:108/108
+Equipo de Kei (J2)
+A-Kei HP:596/760 MP:391/398
+B-Churel HP:8/197 MP:190/190
+C-Ishtar HP:81/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Ishtar
+3-Churel
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Zanma MP:8
+2-Damascus Claw MP:7
+3-Needle Shot MP:4
+4-Ziodyne MP:14
+5-Agi MP:5
+6-Zionga MP:8
+7-Gram Slice MP:5
+8-Hamaon MP:10
+9-Cancelar
+INPUT: 8
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Nanashi HP:60/140 MP:385/411
+2-Spriggan HP:147/147 MP:56/66
+3-Archangel HP:238/265 MP:52/52
+4-Lord Nan Dou HP:549/549 MP:108/108
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Kei ataca con luz a Lord Nan Dou
+Lord Nan Dou bloquea el ataque de Kei
+Lord Nan Dou termina con HP:549/549
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:385/411
+B-Spriggan HP:147/147 MP:56/66
+C-Archangel HP:238/265 MP:52/52
+D-Lord Nan Dou HP:549/549 MP:108/108
+Equipo de Kei (J2)
+A-Kei HP:596/760 MP:381/398
+B-Churel HP:8/197 MP:190/190
+C-Ishtar HP:81/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Nanashi
+3-Archangel
+4-Spriggan
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:385/411
+B-Spriggan HP:147/147 MP:56/66
+C-Archangel HP:238/265 MP:52/52
+D-Lord Nan Dou HP:549/549 MP:108/108
+Equipo de Kei (J2)
+A-Kei HP:596/760 MP:381/398
+B-Churel HP:8/197 MP:190/190
+C-Ishtar HP:81/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Archangel
+3-Spriggan
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nanashi use
+1-Grand Tack MP:11
+2-Iron Judgement MP:8
+3-Mudo MP:6
+4-Diarama MP:9
+5-Agi MP:5
+6-Zionga MP:8
+7-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:596/760 MP:381/398
+2-Churel HP:8/197 MP:190/190
+3-Ishtar HP:81/258 MP:251/251
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nanashi ataca a Churel
+Churel recibe 134 de daño
+Churel termina con HP:0/197
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:377/411
+B-Spriggan HP:147/147 MP:56/66
+C-Archangel HP:238/265 MP:52/52
+D-Lord Nan Dou HP:549/549 MP:108/108
+Equipo de Kei (J2)
+A-Kei HP:596/760 MP:381/398
+B-
+C-Ishtar HP:81/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Archangel
+2-Spriggan
+3-Lord Nan Dou
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chagrin HP:34/67 MP:72/72
+2-Kikuri-Hime HP:189/216 MP:201/210
+3-Chemtrail HP:370/437 MP:423/423
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chagrin HP:34/67 MP:72/72
+2-Kikuri-Hime HP:189/216 MP:201/210
+3-Chemtrail HP:370/437 MP:423/423
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:377/411
+B-Spriggan HP:147/147 MP:56/66
+C-Archangel HP:238/265 MP:52/52
+D-Lord Nan Dou HP:549/549 MP:108/108
+Equipo de Kei (J2)
+A-Kei HP:596/760 MP:381/398
+B-
+C-Ishtar HP:81/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Spriggan
+2-Lord Nan Dou
+3-Nanashi
+4-Archangel
+----------------------------------------
+Seleccione una acción para Spriggan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Spriggan use
+1-Agi MP:5
+2-Dormina MP:4
+3-Maragi MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Spriggan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chagrin HP:34/67 MP:72/72
+2-Kikuri-Hime HP:189/216 MP:201/210
+3-Chemtrail HP:370/437 MP:423/423
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Spriggan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Spriggan use
+1-Agi MP:5
+2-Dormina MP:4
+3-Maragi MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Spriggan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Spriggan use
+1-Agi MP:5
+2-Dormina MP:4
+3-Maragi MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Spriggan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:377/411
+B-Spriggan HP:147/147 MP:56/66
+C-Archangel HP:238/265 MP:52/52
+D-Lord Nan Dou HP:549/549 MP:108/108
+Equipo de Kei (J2)
+A-Kei HP:596/760 MP:381/398
+B-
+C-Ishtar HP:81/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Nanashi
+3-Archangel
+4-Spriggan
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lord Nan Dou use
+1-Maragidyne MP:32
+2-Berserker God MP:12
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lord Nan Dou use
+1-Maragidyne MP:32
+2-Berserker God MP:12
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Kei HP:596/760 MP:381/398
+2-Ishtar HP:81/258 MP:251/251
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lord Nan Dou use
+1-Maragidyne MP:32
+2-Berserker God MP:12
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Kei HP:596/760 MP:381/398
+2-Ishtar HP:81/258 MP:251/251
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lord Nan Dou use
+1-Maragidyne MP:32
+2-Berserker God MP:12
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Kingu HP:0/464 MP:81/91
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lord Nan Dou revive a Kingu
+Kingu recibe 464 de HP
+Kingu termina con HP:464/464
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:377/411
+B-Spriggan HP:147/147 MP:56/66
+C-Archangel HP:238/265 MP:52/52
+D-Lord Nan Dou HP:549/549 MP:68/108
+Equipo de Kei (J2)
+A-Kei HP:596/760 MP:381/398
+B-
+C-Ishtar HP:81/258 MP:251/251
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Archangel
+3-Spriggan
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:596/760 MP:381/398
+2-Ishtar HP:81/258 MP:251/251
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nanashi use
+1-Grand Tack MP:11
+2-Iron Judgement MP:8
+3-Mudo MP:6
+4-Diarama MP:9
+5-Agi MP:5
+6-Zionga MP:8
+7-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:596/760 MP:381/398
+2-Ishtar HP:81/258 MP:251/251
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:596/760 MP:381/398
+2-Ishtar HP:81/258 MP:251/251
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:596/760 MP:381/398
+2-Ishtar HP:81/258 MP:251/251
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:596/760 MP:381/398
+2-Ishtar HP:81/258 MP:251/251
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Nanashi ataca a Ishtar
+Ishtar recibe 92 de daño
+Ishtar termina con HP:0/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:377/411
+B-Spriggan HP:147/147 MP:56/66
+C-Archangel HP:238/265 MP:52/52
+D-Lord Nan Dou HP:549/549 MP:68/108
+Equipo de Kei (J2)
+A-Kei HP:596/760 MP:381/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Nanashi HP:60/140 MP:377/411
+2-Spriggan HP:147/147 MP:56/66
+3-Archangel HP:238/265 MP:52/52
+4-Lord Nan Dou HP:549/549 MP:68/108
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Kei dispara a Lord Nan Dou
+Lord Nan Dou recibe 15 de daño
+Lord Nan Dou termina con HP:534/549
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:377/411
+B-Spriggan HP:147/147 MP:56/66
+C-Archangel HP:238/265 MP:52/52
+D-Lord Nan Dou HP:534/549 MP:68/108
+Equipo de Kei (J2)
+A-Kei HP:596/760 MP:381/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Nanashi
+3-Archangel
+4-Spriggan
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lord Nan Dou use
+1-Maragidyne MP:32
+2-Berserker God MP:12
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Kei HP:596/760 MP:381/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lord Nan Dou ataca a Kei
+Kei es resistente el ataque de Lord Nan Dou
+Kei recibe 64 de daño
+Kei termina con HP:532/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:377/411
+B-Spriggan HP:147/147 MP:56/66
+C-Archangel HP:238/265 MP:52/52
+D-Lord Nan Dou HP:534/549 MP:56/108
+Equipo de Kei (J2)
+A-Kei HP:532/760 MP:381/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Archangel
+3-Spriggan
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:532/760 MP:381/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi ataca a Kei
+Kei es resistente el ataque de Nanashi
+Kei recibe 46 de daño
+Kei termina con HP:486/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:377/411
+B-Spriggan HP:147/147 MP:56/66
+C-Archangel HP:238/265 MP:52/52
+D-Lord Nan Dou HP:534/549 MP:56/108
+Equipo de Kei (J2)
+A-Kei HP:486/760 MP:381/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Archangel
+2-Spriggan
+3-Lord Nan Dou
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chagrin HP:34/67 MP:72/72
+2-Kingu HP:464/464 MP:81/91
+3-Kikuri-Hime HP:189/216 MP:201/210
+4-Chemtrail HP:370/437 MP:423/423
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kingu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:377/411
+B-Spriggan HP:147/147 MP:56/66
+C-Kingu HP:464/464 MP:81/91
+D-Lord Nan Dou HP:534/549 MP:56/108
+Equipo de Kei (J2)
+A-Kei HP:486/760 MP:381/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Spriggan
+2-Lord Nan Dou
+3-Nanashi
+4-Kingu
+----------------------------------------
+Seleccione una acción para Spriggan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chagrin HP:34/67 MP:72/72
+2-Kikuri-Hime HP:189/216 MP:201/210
+3-Archangel HP:238/265 MP:52/52
+4-Chemtrail HP:370/437 MP:423/423
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Archangel ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:377/411
+B-Archangel HP:238/265 MP:52/52
+C-Kingu HP:464/464 MP:81/91
+D-Lord Nan Dou HP:534/549 MP:56/108
+Equipo de Kei (J2)
+A-Kei HP:486/760 MP:381/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Nanashi
+3-Kingu
+4-Archangel
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lord Nan Dou use
+1-Maragidyne MP:32
+2-Berserker God MP:12
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Kei HP:486/760 MP:381/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lord Nan Dou use
+1-Maragidyne MP:32
+2-Berserker God MP:12
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Kei HP:486/760 MP:381/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lord Nan Dou ataca a Kei
+Kei es resistente el ataque de Lord Nan Dou
+Kei recibe 20 de daño
+Kei termina con HP:466/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:377/411
+B-Archangel HP:238/265 MP:52/52
+C-Kingu HP:464/464 MP:81/91
+D-Lord Nan Dou HP:534/549 MP:56/108
+Equipo de Kei (J2)
+A-Kei HP:466/760 MP:381/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Zanma MP:8
+2-Damascus Claw MP:7
+3-Needle Shot MP:4
+4-Ziodyne MP:14
+5-Agi MP:5
+6-Zionga MP:8
+7-Gram Slice MP:5
+8-Hamaon MP:10
+9-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Nanashi HP:60/140 MP:377/411
+2-Archangel HP:238/265 MP:52/52
+3-Kingu HP:464/464 MP:81/91
+4-Lord Nan Dou HP:534/549 MP:56/108
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Kei ataca a Lord Nan Dou
+Lord Nan Dou recibe 66 de daño
+Kei ataca a Lord Nan Dou
+Lord Nan Dou recibe 66 de daño
+Kei ataca a Lord Nan Dou
+Lord Nan Dou recibe 66 de daño
+Lord Nan Dou termina con HP:336/549
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:377/411
+B-Archangel HP:238/265 MP:52/52
+C-Kingu HP:464/464 MP:81/91
+D-Lord Nan Dou HP:336/549 MP:56/108
+Equipo de Kei (J2)
+A-Kei HP:466/760 MP:374/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Nanashi
+3-Kingu
+4-Archangel
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chagrin HP:34/67 MP:72/72
+2-Kikuri-Hime HP:189/216 MP:201/210
+3-Spriggan HP:147/147 MP:56/66
+4-Chemtrail HP:370/437 MP:423/423
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Spriggan ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:377/411
+B-Archangel HP:238/265 MP:52/52
+C-Kingu HP:464/464 MP:81/91
+D-Spriggan HP:147/147 MP:56/66
+Equipo de Kei (J2)
+A-Kei HP:466/760 MP:374/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Kingu
+3-Archangel
+4-Spriggan
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:377/411
+B-Archangel HP:238/265 MP:52/52
+C-Kingu HP:464/464 MP:81/91
+D-Spriggan HP:147/147 MP:56/66
+Equipo de Kei (J2)
+A-Kei HP:466/760 MP:374/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Archangel
+3-Spriggan
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chagrin HP:34/67 MP:72/72
+2-Kikuri-Hime HP:189/216 MP:201/210
+3-Lord Nan Dou HP:336/549 MP:56/108
+4-Chemtrail HP:370/437 MP:423/423
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Lord Nan Dou ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:377/411
+B-Archangel HP:238/265 MP:52/52
+C-Lord Nan Dou HP:336/549 MP:56/108
+D-Spriggan HP:147/147 MP:56/66
+Equipo de Kei (J2)
+A-Kei HP:466/760 MP:374/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Archangel
+2-Spriggan
+3-Nanashi
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chagrin HP:34/67 MP:72/72
+2-Kingu HP:464/464 MP:81/91
+3-Kikuri-Hime HP:189/216 MP:201/210
+4-Chemtrail HP:370/437 MP:423/423
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:377/411
+B-Archangel HP:238/265 MP:52/52
+C-Lord Nan Dou HP:336/549 MP:56/108
+D-Spriggan HP:147/147 MP:56/66
+Equipo de Kei (J2)
+A-Kei HP:466/760 MP:374/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Spriggan
+2-Nanashi
+3-Lord Nan Dou
+4-Archangel
+----------------------------------------
+Seleccione una acción para Spriggan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:377/411
+B-Archangel HP:238/265 MP:52/52
+C-Lord Nan Dou HP:336/549 MP:56/108
+D-Spriggan HP:147/147 MP:56/66
+Equipo de Kei (J2)
+A-Kei HP:466/760 MP:374/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Lord Nan Dou
+3-Archangel
+4-Spriggan
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:466/760 MP:374/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:466/760 MP:374/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi ataca a Kei
+Kei es resistente el ataque de Nanashi
+Kei recibe 46 de daño
+Kei termina con HP:420/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:377/411
+B-Archangel HP:238/265 MP:52/52
+C-Lord Nan Dou HP:336/549 MP:56/108
+D-Spriggan HP:147/147 MP:56/66
+Equipo de Kei (J2)
+A-Kei HP:420/760 MP:374/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Archangel
+3-Spriggan
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:377/411
+B-Archangel HP:238/265 MP:52/52
+C-Lord Nan Dou HP:336/549 MP:56/108
+D-Spriggan HP:147/147 MP:56/66
+Equipo de Kei (J2)
+A-Kei HP:420/760 MP:374/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Archangel
+2-Spriggan
+3-Nanashi
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chagrin HP:34/67 MP:72/72
+2-Kingu HP:464/464 MP:81/91
+3-Kikuri-Hime HP:189/216 MP:201/210
+4-Chemtrail HP:370/437 MP:423/423
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Chagrin ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:377/411
+B-Chagrin HP:34/67 MP:72/72
+C-Lord Nan Dou HP:336/549 MP:56/108
+D-Spriggan HP:147/147 MP:56/66
+Equipo de Kei (J2)
+A-Kei HP:420/760 MP:374/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Nanashi HP:60/140 MP:377/411
+2-Chagrin HP:34/67 MP:72/72
+3-Lord Nan Dou HP:336/549 MP:56/108
+4-Spriggan HP:147/147 MP:56/66
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kei ataca a Chagrin
+Chagrin recibe 19 de daño
+Chagrin termina con HP:15/67
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:377/411
+B-Chagrin HP:15/67 MP:72/72
+C-Lord Nan Dou HP:336/549 MP:56/108
+D-Spriggan HP:147/147 MP:56/66
+Equipo de Kei (J2)
+A-Kei HP:420/760 MP:374/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Nanashi
+3-Spriggan
+4-Chagrin
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lord Nan Dou use
+1-Maragidyne MP:32
+2-Berserker God MP:12
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:377/411
+B-Chagrin HP:15/67 MP:72/72
+C-Lord Nan Dou HP:336/549 MP:56/108
+D-Spriggan HP:147/147 MP:56/66
+Equipo de Kei (J2)
+A-Kei HP:420/760 MP:374/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Spriggan
+3-Chagrin
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:420/760 MP:374/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:464/464 MP:81/91
+2-Kikuri-Hime HP:189/216 MP:201/210
+3-Archangel HP:238/265 MP:52/52
+4-Chemtrail HP:370/437 MP:423/423
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Chagrin HP:15/67 MP:72/72 (Puesto 2)
+2-Lord Nan Dou HP:336/549 MP:56/108 (Puesto 3)
+3-Spriggan HP:147/147 MP:56/66 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:420/760 MP:374/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:420/760 MP:374/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi dispara a Kei
+Kei es resistente el ataque de Nanashi
+Kei recibe 15 de daño
+Kei termina con HP:405/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:377/411
+B-Chagrin HP:15/67 MP:72/72
+C-Lord Nan Dou HP:336/549 MP:56/108
+D-Spriggan HP:147/147 MP:56/66
+Equipo de Kei (J2)
+A-Kei HP:405/760 MP:374/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Spriggan
+2-Chagrin
+3-Lord Nan Dou
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Spriggan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Spriggan use
+1-Agi MP:5
+2-Dormina MP:4
+3-Maragi MP:11
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Spriggan
+1-Kei HP:405/760 MP:374/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Spriggan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:464/464 MP:81/91
+2-Kikuri-Hime HP:189/216 MP:201/210
+3-Archangel HP:238/265 MP:52/52
+4-Chemtrail HP:370/437 MP:423/423
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Archangel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:377/411
+B-Chagrin HP:15/67 MP:72/72
+C-Lord Nan Dou HP:336/549 MP:56/108
+D-Archangel HP:238/265 MP:52/52
+Equipo de Kei (J2)
+A-Kei HP:405/760 MP:374/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Chagrin
+2-Lord Nan Dou
+3-Nanashi
+4-Archangel
+----------------------------------------
+Seleccione una acción para Chagrin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:377/411
+B-Chagrin HP:15/67 MP:72/72
+C-Lord Nan Dou HP:336/549 MP:56/108
+D-Archangel HP:238/265 MP:52/52
+Equipo de Kei (J2)
+A-Kei HP:405/760 MP:374/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Nanashi
+3-Archangel
+4-Chagrin
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Kei HP:405/760 MP:374/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lord Nan Dou ataca a Kei
+Kei es resistente el ataque de Lord Nan Dou
+Kei recibe 20 de daño
+Kei termina con HP:385/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:377/411
+B-Chagrin HP:15/67 MP:72/72
+C-Lord Nan Dou HP:336/549 MP:56/108
+D-Archangel HP:238/265 MP:52/52
+Equipo de Kei (J2)
+A-Kei HP:385/760 MP:374/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Archangel
+3-Chagrin
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:385/760 MP:374/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kingu HP:464/464 MP:81/91
+2-Kikuri-Hime HP:189/216 MP:201/210
+3-Spriggan HP:147/147 MP:56/66
+4-Chemtrail HP:370/437 MP:423/423
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una posición para invocar
+1-Chagrin HP:15/67 MP:72/72 (Puesto 2)
+2-Lord Nan Dou HP:336/549 MP:56/108 (Puesto 3)
+3-Archangel HP:238/265 MP:52/52 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Chemtrail ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:377/411
+B-Chemtrail HP:370/437 MP:423/423
+C-Lord Nan Dou HP:336/549 MP:56/108
+D-Archangel HP:238/265 MP:52/52
+Equipo de Kei (J2)
+A-Kei HP:385/760 MP:374/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Archangel
+2-Chemtrail
+3-Lord Nan Dou
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chagrin HP:15/67 MP:72/72
+2-Kingu HP:464/464 MP:81/91
+3-Kikuri-Hime HP:189/216 MP:201/210
+4-Spriggan HP:147/147 MP:56/66
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kingu ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:377/411
+B-Chemtrail HP:370/437 MP:423/423
+C-Lord Nan Dou HP:336/549 MP:56/108
+D-Kingu HP:464/464 MP:81/91
+Equipo de Kei (J2)
+A-Kei HP:385/760 MP:374/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Nanashi HP:60/140 MP:377/411
+2-Chemtrail HP:370/437 MP:423/423
+3-Lord Nan Dou HP:336/549 MP:56/108
+4-Kingu HP:464/464 MP:81/91
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:377/411
+B-Chemtrail HP:370/437 MP:423/423
+C-Lord Nan Dou HP:336/549 MP:56/108
+D-Kingu HP:464/464 MP:81/91
+Equipo de Kei (J2)
+A-Kei HP:385/760 MP:374/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Nanashi HP:60/140 MP:377/411
+2-Chemtrail HP:370/437 MP:423/423
+3-Lord Nan Dou HP:336/549 MP:56/108
+4-Kingu HP:464/464 MP:81/91
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kei ataca a Chemtrail
+Chemtrail recibe 19 de daño
+Chemtrail termina con HP:351/437
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:377/411
+B-Chemtrail HP:351/437 MP:423/423
+C-Lord Nan Dou HP:336/549 MP:56/108
+D-Kingu HP:464/464 MP:81/91
+Equipo de Kei (J2)
+A-Kei HP:385/760 MP:374/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Lord Nan Dou
+3-Nanashi
+4-Kingu
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chagrin HP:15/67 MP:72/72
+2-Kikuri-Hime HP:189/216 MP:201/210
+3-Spriggan HP:147/147 MP:56/66
+4-Archangel HP:238/265 MP:52/52
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kikuri-Hime ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:377/411
+B-Kikuri-Hime HP:189/216 MP:201/210
+C-Lord Nan Dou HP:336/549 MP:56/108
+D-Kingu HP:464/464 MP:81/91
+Equipo de Kei (J2)
+A-Kei HP:385/760 MP:374/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Nanashi
+3-Kingu
+4-Kikuri-Hime
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lord Nan Dou use
+1-Maragidyne MP:32
+2-Berserker God MP:12
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:377/411
+B-Kikuri-Hime HP:189/216 MP:201/210
+C-Lord Nan Dou HP:336/549 MP:56/108
+D-Kingu HP:464/464 MP:81/91
+Equipo de Kei (J2)
+A-Kei HP:385/760 MP:374/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Kingu
+3-Kikuri-Hime
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:377/411
+B-Kikuri-Hime HP:189/216 MP:201/210
+C-Lord Nan Dou HP:336/549 MP:56/108
+D-Kingu HP:464/464 MP:81/91
+Equipo de Kei (J2)
+A-Kei HP:385/760 MP:374/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kingu
+2-Kikuri-Hime
+3-Lord Nan Dou
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:377/411
+B-Kikuri-Hime HP:189/216 MP:201/210
+C-Lord Nan Dou HP:336/549 MP:56/108
+D-Kingu HP:464/464 MP:81/91
+Equipo de Kei (J2)
+A-Kei HP:385/760 MP:374/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kikuri-Hime
+2-Lord Nan Dou
+3-Nanashi
+4-Kingu
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kikuri-Hime use
+1-Tetraja MP:15
+2-Me Patra MP:15
+3-Diarama MP:9
+4-Recarm MP:20
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kikuri-Hime use
+1-Tetraja MP:15
+2-Me Patra MP:15
+3-Diarama MP:9
+4-Recarm MP:20
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Kikuri-Hime
+1-Nanashi HP:60/140 MP:377/411
+2-Kikuri-Hime HP:189/216 MP:201/210
+3-Lord Nan Dou HP:336/549 MP:56/108
+4-Kingu HP:464/464 MP:81/91
+5-Chagrin HP:15/67 MP:72/72
+6-Spriggan HP:147/147 MP:56/66
+7-Archangel HP:238/265 MP:52/52
+8-Chemtrail HP:351/437 MP:423/423
+9-Cancelar
+INPUT: 3
+----------------------------------------
+Kikuri-Hime cura a Lord Nan Dou
+Lord Nan Dou recibe 274 de HP
+Lord Nan Dou termina con HP:549/549
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:377/411
+B-Kikuri-Hime HP:189/216 MP:192/210
+C-Lord Nan Dou HP:549/549 MP:56/108
+D-Kingu HP:464/464 MP:81/91
+Equipo de Kei (J2)
+A-Kei HP:385/760 MP:374/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Nanashi
+3-Kingu
+4-Kikuri-Hime
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:377/411
+B-Kikuri-Hime HP:189/216 MP:192/210
+C-Lord Nan Dou HP:549/549 MP:56/108
+D-Kingu HP:464/464 MP:81/91
+Equipo de Kei (J2)
+A-Kei HP:385/760 MP:374/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Kingu
+3-Kikuri-Hime
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:385/760 MP:374/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi dispara a Kei
+Kei es resistente el ataque de Nanashi
+Kei recibe 15 de daño
+Kei termina con HP:370/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:377/411
+B-Kikuri-Hime HP:189/216 MP:192/210
+C-Lord Nan Dou HP:549/549 MP:56/108
+D-Kingu HP:464/464 MP:81/91
+Equipo de Kei (J2)
+A-Kei HP:370/760 MP:374/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Zanma MP:8
+2-Damascus Claw MP:7
+3-Needle Shot MP:4
+4-Ziodyne MP:14
+5-Agi MP:5
+6-Zionga MP:8
+7-Gram Slice MP:5
+8-Hamaon MP:10
+9-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Nanashi HP:60/140 MP:377/411
+2-Kikuri-Hime HP:189/216 MP:192/210
+3-Lord Nan Dou HP:549/549 MP:56/108
+4-Kingu HP:464/464 MP:81/91
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kei lanza electricidad a Kikuri-Hime
+Kikuri-Hime es débil contra el ataque de Kei
+Kikuri-Hime recibe 85 de daño
+Kikuri-Hime termina con HP:104/216
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:60/140 MP:377/411
+B-Kikuri-Hime HP:104/216 MP:192/210
+C-Lord Nan Dou HP:549/549 MP:56/108
+D-Kingu HP:464/464 MP:81/91
+Equipo de Kei (J2)
+A-Kei HP:370/760 MP:366/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Nanashi HP:60/140 MP:377/411
+2-Kikuri-Hime HP:104/216 MP:192/210
+3-Lord Nan Dou HP:549/549 MP:56/108
+4-Kingu HP:464/464 MP:81/91
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kei dispara a Nanashi
+Nanashi recibe 15 de daño
+Nanashi termina con HP:45/140
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:45/140 MP:377/411
+B-Kikuri-Hime HP:104/216 MP:192/210
+C-Lord Nan Dou HP:549/549 MP:56/108
+D-Kingu HP:464/464 MP:81/91
+Equipo de Kei (J2)
+A-Kei HP:370/760 MP:366/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Nanashi
+3-Kingu
+4-Kikuri-Hime
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:45/140 MP:377/411
+B-Kikuri-Hime HP:104/216 MP:192/210
+C-Lord Nan Dou HP:549/549 MP:56/108
+D-Kingu HP:464/464 MP:81/91
+Equipo de Kei (J2)
+A-Kei HP:370/760 MP:366/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Kingu
+3-Kikuri-Hime
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:370/760 MP:366/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:370/760 MP:366/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:370/760 MP:366/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi dispara a Kei
+Kei es resistente el ataque de Nanashi
+Kei recibe 15 de daño
+Kei termina con HP:355/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:45/140 MP:377/411
+B-Kikuri-Hime HP:104/216 MP:192/210
+C-Lord Nan Dou HP:549/549 MP:56/108
+D-Kingu HP:464/464 MP:81/91
+Equipo de Kei (J2)
+A-Kei HP:355/760 MP:366/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Kikuri-Hime
+3-Lord Nan Dou
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Kei HP:355/760 MP:366/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kingu ataca a Kei
+Kei es resistente el ataque de Kingu
+Kei recibe 17 de daño
+Kei termina con HP:338/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:45/140 MP:377/411
+B-Kikuri-Hime HP:104/216 MP:192/210
+C-Lord Nan Dou HP:549/549 MP:56/108
+D-Kingu HP:464/464 MP:81/91
+Equipo de Kei (J2)
+A-Kei HP:338/760 MP:366/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kikuri-Hime
+2-Lord Nan Dou
+3-Nanashi
+4-Kingu
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kikuri-Hime use
+1-Tetraja MP:15
+2-Me Patra MP:15
+3-Diarama MP:9
+4-Recarm MP:20
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Kikuri-Hime
+1-Nanashi HP:45/140 MP:377/411
+2-Kikuri-Hime HP:104/216 MP:192/210
+3-Lord Nan Dou HP:549/549 MP:56/108
+4-Kingu HP:464/464 MP:81/91
+5-Chagrin HP:15/67 MP:72/72
+6-Spriggan HP:147/147 MP:56/66
+7-Archangel HP:238/265 MP:52/52
+8-Chemtrail HP:351/437 MP:423/423
+9-Cancelar
+INPUT: 3
+----------------------------------------
+Kikuri-Hime cura a Lord Nan Dou
+Lord Nan Dou recibe 274 de HP
+Lord Nan Dou termina con HP:549/549
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:45/140 MP:377/411
+B-Kikuri-Hime HP:104/216 MP:183/210
+C-Lord Nan Dou HP:549/549 MP:56/108
+D-Kingu HP:464/464 MP:81/91
+Equipo de Kei (J2)
+A-Kei HP:338/760 MP:366/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Nanashi
+3-Kingu
+4-Kikuri-Hime
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Kei HP:338/760 MP:366/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lord Nan Dou ataca a Kei
+Kei es resistente el ataque de Lord Nan Dou
+Kei recibe 20 de daño
+Kei termina con HP:318/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:45/140 MP:377/411
+B-Kikuri-Hime HP:104/216 MP:183/210
+C-Lord Nan Dou HP:549/549 MP:56/108
+D-Kingu HP:464/464 MP:81/91
+Equipo de Kei (J2)
+A-Kei HP:318/760 MP:366/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Nanashi HP:45/140 MP:377/411
+2-Kikuri-Hime HP:104/216 MP:183/210
+3-Lord Nan Dou HP:549/549 MP:56/108
+4-Kingu HP:464/464 MP:81/91
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kei dispara a Nanashi
+Nanashi recibe 15 de daño
+Nanashi termina con HP:30/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:30/140 MP:377/411
+B-Kikuri-Hime HP:104/216 MP:183/210
+C-Lord Nan Dou HP:549/549 MP:56/108
+D-Kingu HP:464/464 MP:81/91
+Equipo de Kei (J2)
+A-Kei HP:318/760 MP:366/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Nanashi
+3-Kingu
+4-Kikuri-Hime
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lord Nan Dou use
+1-Maragidyne MP:32
+2-Berserker God MP:12
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Kei HP:318/760 MP:366/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lord Nan Dou ataca a Kei
+Kei es resistente el ataque de Lord Nan Dou
+Kei recibe 64 de daño
+Kei termina con HP:254/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:30/140 MP:377/411
+B-Kikuri-Hime HP:104/216 MP:183/210
+C-Lord Nan Dou HP:549/549 MP:44/108
+D-Kingu HP:464/464 MP:81/91
+Equipo de Kei (J2)
+A-Kei HP:254/760 MP:366/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Kingu
+3-Kikuri-Hime
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:30/140 MP:377/411
+B-Kikuri-Hime HP:104/216 MP:183/210
+C-Lord Nan Dou HP:549/549 MP:44/108
+D-Kingu HP:464/464 MP:81/91
+Equipo de Kei (J2)
+A-Kei HP:254/760 MP:366/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kingu
+2-Kikuri-Hime
+3-Lord Nan Dou
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chagrin HP:15/67 MP:72/72
+2-Spriggan HP:147/147 MP:56/66
+3-Archangel HP:238/265 MP:52/52
+4-Chemtrail HP:351/437 MP:423/423
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Chemtrail ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:30/140 MP:377/411
+B-Kikuri-Hime HP:104/216 MP:183/210
+C-Lord Nan Dou HP:549/549 MP:44/108
+D-Chemtrail HP:351/437 MP:423/423
+Equipo de Kei (J2)
+A-Kei HP:254/760 MP:366/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kikuri-Hime
+2-Lord Nan Dou
+3-Nanashi
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:30/140 MP:377/411
+B-Kikuri-Hime HP:104/216 MP:183/210
+C-Lord Nan Dou HP:549/549 MP:44/108
+D-Chemtrail HP:351/437 MP:423/423
+Equipo de Kei (J2)
+A-Kei HP:254/760 MP:366/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Nanashi
+3-Chemtrail
+4-Kikuri-Hime
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:30/140 MP:377/411
+B-Kikuri-Hime HP:104/216 MP:183/210
+C-Lord Nan Dou HP:549/549 MP:44/108
+D-Chemtrail HP:351/437 MP:423/423
+Equipo de Kei (J2)
+A-Kei HP:254/760 MP:366/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Chemtrail
+3-Kikuri-Hime
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chagrin HP:15/67 MP:72/72
+2-Kingu HP:464/464 MP:81/91
+3-Spriggan HP:147/147 MP:56/66
+4-Archangel HP:238/265 MP:52/52
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una posición para invocar
+1-Kikuri-Hime HP:104/216 MP:183/210 (Puesto 2)
+2-Lord Nan Dou HP:549/549 MP:44/108 (Puesto 3)
+3-Chemtrail HP:351/437 MP:423/423 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Archangel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:30/140 MP:377/411
+B-Kikuri-Hime HP:104/216 MP:183/210
+C-Archangel HP:238/265 MP:52/52
+D-Chemtrail HP:351/437 MP:423/423
+Equipo de Kei (J2)
+A-Kei HP:254/760 MP:366/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Kikuri-Hime
+3-Archangel
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chagrin HP:15/67 MP:72/72
+2-Kingu HP:464/464 MP:81/91
+3-Lord Nan Dou HP:549/549 MP:44/108
+4-Spriggan HP:147/147 MP:56/66
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chemtrail use
+1-Shivering Taboo MP:40
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Riot Gun MP:30
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chemtrail use
+1-Shivering Taboo MP:40
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Riot Gun MP:30
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Kei HP:254/760 MP:366/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Chemtrail dispara a Kei
+Kei es resistente el ataque de Chemtrail
+Kei recibe 86 de daño
+Kei termina con HP:168/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:30/140 MP:377/411
+B-Kikuri-Hime HP:104/216 MP:183/210
+C-Archangel HP:238/265 MP:52/52
+D-Chemtrail HP:351/437 MP:393/423
+Equipo de Kei (J2)
+A-Kei HP:168/760 MP:366/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Nanashi HP:30/140 MP:377/411
+2-Kikuri-Hime HP:104/216 MP:183/210
+3-Archangel HP:238/265 MP:52/52
+4-Chemtrail HP:351/437 MP:393/423
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kei ataca a Nanashi
+Nanashi recibe 19 de daño
+Nanashi termina con HP:11/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:11/140 MP:377/411
+B-Kikuri-Hime HP:104/216 MP:183/210
+C-Archangel HP:238/265 MP:52/52
+D-Chemtrail HP:351/437 MP:393/423
+Equipo de Kei (J2)
+A-Kei HP:168/760 MP:366/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Nanashi
+3-Kikuri-Hime
+4-Archangel
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chemtrail use
+1-Shivering Taboo MP:40
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Riot Gun MP:30
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chemtrail use
+1-Shivering Taboo MP:40
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Riot Gun MP:30
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Kei HP:168/760 MP:366/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Chemtrail dispara a Kei
+Kei es resistente el ataque de Chemtrail
+Kei recibe 86 de daño
+Kei termina con HP:82/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:11/140 MP:377/411
+B-Kikuri-Hime HP:104/216 MP:183/210
+C-Archangel HP:238/265 MP:52/52
+D-Chemtrail HP:351/437 MP:363/423
+Equipo de Kei (J2)
+A-Kei HP:82/760 MP:366/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Kikuri-Hime
+3-Archangel
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:82/760 MP:366/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kei HP:82/760 MP:366/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi dispara a Kei
+Kei es resistente el ataque de Nanashi
+Kei recibe 15 de daño
+Kei termina con HP:67/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:11/140 MP:377/411
+B-Kikuri-Hime HP:104/216 MP:183/210
+C-Archangel HP:238/265 MP:52/52
+D-Chemtrail HP:351/437 MP:363/423
+Equipo de Kei (J2)
+A-Kei HP:67/760 MP:366/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kikuri-Hime
+2-Archangel
+3-Chemtrail
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:11/140 MP:377/411
+B-Kikuri-Hime HP:104/216 MP:183/210
+C-Archangel HP:238/265 MP:52/52
+D-Chemtrail HP:351/437 MP:363/423
+Equipo de Kei (J2)
+A-Kei HP:67/760 MP:366/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Archangel
+2-Chemtrail
+3-Nanashi
+4-Kikuri-Hime
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:11/140 MP:377/411
+B-Kikuri-Hime HP:104/216 MP:183/210
+C-Archangel HP:238/265 MP:52/52
+D-Chemtrail HP:351/437 MP:363/423
+Equipo de Kei (J2)
+A-Kei HP:67/760 MP:366/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Nanashi
+3-Kikuri-Hime
+4-Archangel
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Kei HP:67/760 MP:366/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Chemtrail ataca a Kei
+Kei es resistente el ataque de Chemtrail
+Kei recibe 23 de daño
+Kei termina con HP:44/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:11/140 MP:377/411
+B-Kikuri-Hime HP:104/216 MP:183/210
+C-Archangel HP:238/265 MP:52/52
+D-Chemtrail HP:351/437 MP:363/423
+Equipo de Kei (J2)
+A-Kei HP:44/760 MP:366/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Nanashi HP:11/140 MP:377/411
+2-Kikuri-Hime HP:104/216 MP:183/210
+3-Archangel HP:238/265 MP:52/52
+4-Chemtrail HP:351/437 MP:363/423
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Zanma MP:8
+2-Damascus Claw MP:7
+3-Needle Shot MP:4
+4-Ziodyne MP:14
+5-Agi MP:5
+6-Zionga MP:8
+7-Gram Slice MP:5
+8-Hamaon MP:10
+9-Cancelar
+INPUT: 7
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Nanashi HP:11/140 MP:377/411
+2-Kikuri-Hime HP:104/216 MP:183/210
+3-Archangel HP:238/265 MP:52/52
+4-Chemtrail HP:351/437 MP:363/423
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kei ataca a Kikuri-Hime
+Kikuri-Hime recibe 56 de daño
+Kikuri-Hime termina con HP:48/216
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:11/140 MP:377/411
+B-Kikuri-Hime HP:48/216 MP:183/210
+C-Archangel HP:238/265 MP:52/52
+D-Chemtrail HP:351/437 MP:363/423
+Equipo de Kei (J2)
+A-Kei HP:44/760 MP:361/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Nanashi
+3-Kikuri-Hime
+4-Archangel
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Kei HP:44/760 MP:361/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Chemtrail ataca a Kei
+Kei es resistente el ataque de Chemtrail
+Kei recibe 23 de daño
+Kei termina con HP:21/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:11/140 MP:377/411
+B-Kikuri-Hime HP:48/216 MP:183/210
+C-Archangel HP:238/265 MP:52/52
+D-Chemtrail HP:351/437 MP:363/423
+Equipo de Kei (J2)
+A-Kei HP:21/760 MP:361/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Kikuri-Hime
+3-Archangel
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chagrin HP:15/67 MP:72/72
+2-Kingu HP:464/464 MP:81/91
+3-Lord Nan Dou HP:549/549 MP:44/108
+4-Spriggan HP:147/147 MP:56/66
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una posición para invocar
+1-Kikuri-Hime HP:48/216 MP:183/210 (Puesto 2)
+2-Archangel HP:238/265 MP:52/52 (Puesto 3)
+3-Chemtrail HP:351/437 MP:363/423 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Spriggan ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:11/140 MP:377/411
+B-Spriggan HP:147/147 MP:56/66
+C-Archangel HP:238/265 MP:52/52
+D-Chemtrail HP:351/437 MP:363/423
+Equipo de Kei (J2)
+A-Kei HP:21/760 MP:361/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Spriggan
+2-Archangel
+3-Chemtrail
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Spriggan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:11/140 MP:377/411
+B-Spriggan HP:147/147 MP:56/66
+C-Archangel HP:238/265 MP:52/52
+D-Chemtrail HP:351/437 MP:363/423
+Equipo de Kei (J2)
+A-Kei HP:21/760 MP:361/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Archangel
+2-Chemtrail
+3-Nanashi
+4-Spriggan
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Archangel use
+1-Hama MP:6
+2-Heat Wave MP:11
+3-Tarukaja MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Archangel
+1-Kei HP:21/760 MP:361/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:11/140 MP:377/411
+B-Spriggan HP:147/147 MP:56/66
+C-Archangel HP:238/265 MP:52/52
+D-Chemtrail HP:351/437 MP:363/423
+Equipo de Kei (J2)
+A-Kei HP:21/760 MP:361/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Nanashi
+3-Spriggan
+4-Archangel
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chemtrail use
+1-Shivering Taboo MP:40
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Riot Gun MP:30
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Kei HP:21/760 MP:361/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Chemtrail dispara a Kei
+Kei es resistente el ataque de Chemtrail
+Kei recibe 86 de daño
+Kei termina con HP:0/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Nanashi (J1)

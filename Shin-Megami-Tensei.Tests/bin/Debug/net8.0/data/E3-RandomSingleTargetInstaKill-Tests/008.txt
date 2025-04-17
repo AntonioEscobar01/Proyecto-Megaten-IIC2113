@@ -1,0 +1,7721 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 7
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Raphael HP:623/623 MP:279/279
+C-Centaur HP:104/104 MP:19/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Magatsuhi HP:851/851 MP:170/170
+C-Yamata-no-Orochi HP:662/662 MP:131/131
+D-Mushussu HP:399/399 MP:179/179
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Kei
+3-Centaur
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Raphael use
+1-God's Tornado MP:50
+2-Diarahan MP:16
+3-Stigma Attack MP:20
+4-Serpent of Sheol MP:45
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Kei HP:760/760 MP:398/398
+2-Raphael HP:623/623 MP:279/279
+3-Centaur HP:104/104 MP:19/19
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Raphael cura a Raphael
+Raphael recibe 623 de HP
+Raphael termina con HP:623/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Raphael HP:623/623 MP:263/279
+C-Centaur HP:104/104 MP:19/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Magatsuhi HP:851/851 MP:170/170
+C-Yamata-no-Orochi HP:662/662 MP:131/131
+D-Mushussu HP:399/399 MP:179/179
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Centaur
+3-Raphael
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Zandyne MP:14
+2-Hama MP:6
+3-Mudo MP:6
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Zandyne MP:14
+2-Hama MP:6
+3-Mudo MP:6
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Makoto HP:597/597 MP:347/347
+2-Magatsuhi HP:851/851 MP:170/170
+3-Yamata-no-Orochi HP:662/662 MP:131/131
+4-Mushussu HP:399/399 MP:179/179
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kei lanza viento a Magatsuhi
+Magatsuhi recibe 69 de daño
+Magatsuhi termina con HP:782/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:384/398
+B-Raphael HP:623/623 MP:263/279
+C-Centaur HP:104/104 MP:19/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Magatsuhi HP:782/851 MP:170/170
+C-Yamata-no-Orochi HP:662/662 MP:131/131
+D-Mushussu HP:399/399 MP:179/179
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Centaur
+2-Raphael
+3-Kei
+----------------------------------------
+Seleccione una acción para Centaur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Centaur use
+1-Bufu MP:5
+2-Needle Shot MP:4
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Centaur
+1-Makoto HP:597/597 MP:347/347
+2-Magatsuhi HP:782/851 MP:170/170
+3-Yamata-no-Orochi HP:662/662 MP:131/131
+4-Mushussu HP:399/399 MP:179/179
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Centaur dispara a Magatsuhi
+Magatsuhi recibe 24 de daño
+Magatsuhi termina con HP:758/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:384/398
+B-Raphael HP:623/623 MP:263/279
+C-Centaur HP:104/104 MP:15/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Magatsuhi HP:758/851 MP:170/170
+C-Yamata-no-Orochi HP:662/662 MP:131/131
+D-Mushussu HP:399/399 MP:179/179
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yamata-no-Orochi
+3-Makoto
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Kei HP:760/760 MP:384/398
+2-Raphael HP:623/623 MP:263/279
+3-Centaur HP:104/104 MP:15/19
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Magatsuhi lanza hielo a Centaur
+Centaur bloquea el ataque de Magatsuhi
+Centaur termina con HP:104/104
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:384/398
+B-Raphael HP:623/623 MP:263/279
+C-Centaur HP:104/104 MP:15/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Magatsuhi HP:758/851 MP:156/170
+C-Yamata-no-Orochi HP:662/662 MP:131/131
+D-Mushussu HP:399/399 MP:179/179
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Makoto
+3-Mushussu
+4-Magatsuhi
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Kei HP:760/760 MP:384/398
+2-Raphael HP:623/623 MP:263/279
+3-Centaur HP:104/104 MP:15/19
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Yamata-no-Orochi ataca a Raphael
+Raphael recibe 50 de daño
+Raphael termina con HP:573/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:384/398
+B-Raphael HP:573/623 MP:263/279
+C-Centaur HP:104/104 MP:15/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Magatsuhi HP:758/851 MP:156/170
+C-Yamata-no-Orochi HP:662/662 MP:131/131
+D-Mushussu HP:399/399 MP:179/179
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Mushussu
+3-Magatsuhi
+4-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:384/398
+B-Raphael HP:573/623 MP:263/279
+C-Centaur HP:104/104 MP:15/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Magatsuhi HP:758/851 MP:156/170
+C-Yamata-no-Orochi HP:662/662 MP:131/131
+D-Mushussu HP:399/399 MP:179/179
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Magatsuhi
+3-Yamata-no-Orochi
+4-Makoto
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Kei HP:760/760 MP:384/398
+2-Raphael HP:573/623 MP:263/279
+3-Centaur HP:104/104 MP:15/19
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ataca a Kei
+Kei es resistente el ataque de Mushussu
+Kei recibe 16 de daño
+Kei termina con HP:744/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:744/760 MP:384/398
+B-Raphael HP:573/623 MP:263/279
+C-Centaur HP:104/104 MP:15/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Magatsuhi HP:758/851 MP:156/170
+C-Yamata-no-Orochi HP:662/662 MP:131/131
+D-Mushussu HP:399/399 MP:179/179
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Kei
+3-Centaur
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Raphael use
+1-God's Tornado MP:50
+2-Diarahan MP:16
+3-Stigma Attack MP:20
+4-Serpent of Sheol MP:45
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Makoto HP:597/597 MP:347/347
+2-Magatsuhi HP:758/851 MP:156/170
+3-Yamata-no-Orochi HP:662/662 MP:131/131
+4-Mushussu HP:399/399 MP:179/179
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Raphael ataca a Magatsuhi
+Magatsuhi recibe 52 de daño
+Magatsuhi termina con HP:706/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:744/760 MP:384/398
+B-Raphael HP:573/623 MP:263/279
+C-Centaur HP:104/104 MP:15/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Magatsuhi HP:706/851 MP:156/170
+C-Yamata-no-Orochi HP:662/662 MP:131/131
+D-Mushussu HP:399/399 MP:179/179
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Centaur
+3-Raphael
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:744/760 MP:384/398
+B-Raphael HP:573/623 MP:263/279
+C-Centaur HP:104/104 MP:15/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Magatsuhi HP:706/851 MP:156/170
+C-Yamata-no-Orochi HP:662/662 MP:131/131
+D-Mushussu HP:399/399 MP:179/179
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Centaur
+2-Raphael
+3-Kei
+----------------------------------------
+Seleccione una acción para Centaur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Centaur
+1-Makoto HP:597/597 MP:347/347
+2-Magatsuhi HP:706/851 MP:156/170
+3-Yamata-no-Orochi HP:662/662 MP:131/131
+4-Mushussu HP:399/399 MP:179/179
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Centaur ataca a Mushussu
+Mushussu recibe 4 de daño
+Mushussu termina con HP:395/399
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:744/760 MP:384/398
+B-Raphael HP:573/623 MP:263/279
+C-Centaur HP:104/104 MP:15/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Magatsuhi HP:706/851 MP:156/170
+C-Yamata-no-Orochi HP:662/662 MP:131/131
+D-Mushussu HP:395/399 MP:179/179
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Kei
+3-Centaur
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Raphael use
+1-God's Tornado MP:50
+2-Diarahan MP:16
+3-Stigma Attack MP:20
+4-Serpent of Sheol MP:45
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Kei HP:744/760 MP:384/398
+2-Raphael HP:573/623 MP:263/279
+3-Centaur HP:104/104 MP:15/19
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Raphael cura a Centaur
+Centaur recibe 104 de HP
+Centaur termina con HP:104/104
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:744/760 MP:384/398
+B-Raphael HP:573/623 MP:247/279
+C-Centaur HP:104/104 MP:15/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Magatsuhi HP:706/851 MP:156/170
+C-Yamata-no-Orochi HP:662/662 MP:131/131
+D-Mushussu HP:395/399 MP:179/179
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yamata-no-Orochi
+3-Makoto
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:744/760 MP:384/398
+B-Raphael HP:573/623 MP:247/279
+C-Centaur HP:104/104 MP:15/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Magatsuhi HP:706/851 MP:156/170
+C-Yamata-no-Orochi HP:662/662 MP:131/131
+D-Mushussu HP:395/399 MP:179/179
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Makoto
+3-Mushussu
+4-Magatsuhi
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mou-Ryo HP:238/238 MP:107/107
+2-Chemtrail HP:437/437 MP:423/423
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Yamata-no-Orochi use
+1-Bufudyne MP:14
+2-Megaton Press MP:17
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Kei HP:744/760 MP:384/398
+2-Raphael HP:573/623 MP:247/279
+3-Centaur HP:104/104 MP:15/19
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Yamata-no-Orochi lanza hielo a Centaur
+Centaur bloquea el ataque de Yamata-no-Orochi
+Centaur termina con HP:104/104
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:744/760 MP:384/398
+B-Raphael HP:573/623 MP:247/279
+C-Centaur HP:104/104 MP:15/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Magatsuhi HP:706/851 MP:156/170
+C-Yamata-no-Orochi HP:662/662 MP:117/131
+D-Mushussu HP:395/399 MP:179/179
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Mushussu
+3-Magatsuhi
+4-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:744/760 MP:384/398
+B-Raphael HP:573/623 MP:247/279
+C-Centaur HP:104/104 MP:15/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Magatsuhi HP:706/851 MP:156/170
+C-Yamata-no-Orochi HP:662/662 MP:117/131
+D-Mushussu HP:395/399 MP:179/179
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Magatsuhi
+3-Yamata-no-Orochi
+4-Makoto
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mou-Ryo HP:238/238 MP:107/107
+2-Chemtrail HP:437/437 MP:423/423
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Chemtrail ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:744/760 MP:384/398
+B-Raphael HP:573/623 MP:247/279
+C-Centaur HP:104/104 MP:15/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Magatsuhi HP:706/851 MP:156/170
+C-Yamata-no-Orochi HP:662/662 MP:117/131
+D-Chemtrail HP:437/437 MP:423/423
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yamata-no-Orochi
+3-Makoto
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Kei HP:744/760 MP:384/398
+2-Raphael HP:573/623 MP:247/279
+3-Centaur HP:104/104 MP:15/19
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Magatsuhi ataca a Kei
+Kei es resistente el ataque de Magatsuhi
+Kei recibe 32 de daño
+Kei termina con HP:712/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:712/760 MP:384/398
+B-Raphael HP:573/623 MP:247/279
+C-Centaur HP:104/104 MP:15/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Magatsuhi HP:706/851 MP:156/170
+C-Yamata-no-Orochi HP:662/662 MP:117/131
+D-Chemtrail HP:437/437 MP:423/423
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Kei
+3-Centaur
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Makoto HP:597/597 MP:347/347
+2-Magatsuhi HP:706/851 MP:156/170
+3-Yamata-no-Orochi HP:662/662 MP:117/131
+4-Chemtrail HP:437/437 MP:423/423
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Raphael ataca a Makoto
+Makoto es resistente el ataque de Raphael
+Makoto recibe 26 de daño
+Makoto termina con HP:571/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:712/760 MP:384/398
+B-Raphael HP:573/623 MP:247/279
+C-Centaur HP:104/104 MP:15/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:571/597 MP:347/347
+B-Magatsuhi HP:706/851 MP:156/170
+C-Yamata-no-Orochi HP:662/662 MP:117/131
+D-Chemtrail HP:437/437 MP:423/423
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Centaur
+3-Raphael
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Zandyne MP:14
+2-Hama MP:6
+3-Mudo MP:6
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Makoto HP:571/597 MP:347/347
+2-Magatsuhi HP:706/851 MP:156/170
+3-Yamata-no-Orochi HP:662/662 MP:117/131
+4-Chemtrail HP:437/437 MP:423/423
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Kei lanza viento a Chemtrail
+Chemtrail recibe 69 de daño
+Chemtrail termina con HP:368/437
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:712/760 MP:370/398
+B-Raphael HP:573/623 MP:247/279
+C-Centaur HP:104/104 MP:15/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:571/597 MP:347/347
+B-Magatsuhi HP:706/851 MP:156/170
+C-Yamata-no-Orochi HP:662/662 MP:117/131
+D-Chemtrail HP:368/437 MP:423/423
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Centaur
+2-Raphael
+3-Kei
+----------------------------------------
+Seleccione una acción para Centaur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Centaur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:712/760 MP:370/398
+B-Raphael HP:573/623 MP:247/279
+C-Centaur HP:104/104 MP:15/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:571/597 MP:347/347
+B-Magatsuhi HP:706/851 MP:156/170
+C-Yamata-no-Orochi HP:662/662 MP:117/131
+D-Chemtrail HP:368/437 MP:423/423
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Raphael
+2-Kei
+3-Centaur
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Makoto HP:571/597 MP:347/347
+2-Magatsuhi HP:706/851 MP:156/170
+3-Yamata-no-Orochi HP:662/662 MP:117/131
+4-Chemtrail HP:368/437 MP:423/423
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Raphael ataca a Makoto
+Makoto es resistente el ataque de Raphael
+Makoto recibe 26 de daño
+Makoto termina con HP:545/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:712/760 MP:370/398
+B-Raphael HP:573/623 MP:247/279
+C-Centaur HP:104/104 MP:15/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:545/597 MP:347/347
+B-Magatsuhi HP:706/851 MP:156/170
+C-Yamata-no-Orochi HP:662/662 MP:117/131
+D-Chemtrail HP:368/437 MP:423/423
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Chemtrail
+3-Yamata-no-Orochi
+4-Makoto
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Kei HP:712/760 MP:370/398
+2-Raphael HP:573/623 MP:247/279
+3-Centaur HP:104/104 MP:15/19
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Magatsuhi ataca a Raphael
+Raphael recibe 65 de daño
+Raphael termina con HP:508/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:712/760 MP:370/398
+B-Raphael HP:508/623 MP:247/279
+C-Centaur HP:104/104 MP:15/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:545/597 MP:347/347
+B-Magatsuhi HP:706/851 MP:156/170
+C-Yamata-no-Orochi HP:662/662 MP:117/131
+D-Chemtrail HP:368/437 MP:423/423
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Yamata-no-Orochi
+3-Makoto
+4-Magatsuhi
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chemtrail use
+1-Shivering Taboo MP:40
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Riot Gun MP:30
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Kei HP:712/760 MP:370/398
+2-Raphael HP:508/623 MP:247/279
+3-Centaur HP:104/104 MP:15/19
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Chemtrail dispara a Kei
+Kei es resistente el ataque de Chemtrail
+Kei recibe 86 de daño
+Kei termina con HP:626/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:626/760 MP:370/398
+B-Raphael HP:508/623 MP:247/279
+C-Centaur HP:104/104 MP:15/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:545/597 MP:347/347
+B-Magatsuhi HP:706/851 MP:156/170
+C-Yamata-no-Orochi HP:662/662 MP:117/131
+D-Chemtrail HP:368/437 MP:393/423
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Makoto
+3-Magatsuhi
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Yamata-no-Orochi use
+1-Bufudyne MP:14
+2-Megaton Press MP:17
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Yamata-no-Orochi use
+1-Bufudyne MP:14
+2-Megaton Press MP:17
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mushussu HP:395/399 MP:179/179
+2-Mou-Ryo HP:238/238 MP:107/107
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:626/760 MP:370/398
+B-Raphael HP:508/623 MP:247/279
+C-Centaur HP:104/104 MP:15/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:545/597 MP:347/347
+B-Magatsuhi HP:706/851 MP:156/170
+C-Mushussu HP:395/399 MP:179/179
+D-Chemtrail HP:368/437 MP:393/423
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Magatsuhi
+3-Chemtrail
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Hamaon MP:10
+2-Tathlum Shot MP:7
+3-Bufula MP:8
+4-Grand Tack MP:11
+5-Dia MP:5
+6-Samarecarm MP:40
+7-Stigma Attack MP:20
+8-Agi MP:5
+9-Cancelar
+INPUT: 9
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:626/760 MP:370/398
+B-Raphael HP:508/623 MP:247/279
+C-Centaur HP:104/104 MP:15/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:545/597 MP:347/347
+B-Magatsuhi HP:706/851 MP:156/170
+C-Mushussu HP:395/399 MP:179/179
+D-Chemtrail HP:368/437 MP:393/423
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Chemtrail
+3-Mushussu
+4-Makoto
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Yamata-no-Orochi HP:662/662 MP:117/131
+2-Mou-Ryo HP:238/238 MP:107/107
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Kei HP:626/760 MP:370/398
+2-Raphael HP:508/623 MP:247/279
+3-Centaur HP:104/104 MP:15/19
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Magatsuhi lanza hielo a Centaur
+Centaur bloquea el ataque de Magatsuhi
+Centaur termina con HP:104/104
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:626/760 MP:370/398
+B-Raphael HP:508/623 MP:247/279
+C-Centaur HP:104/104 MP:15/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:545/597 MP:347/347
+B-Magatsuhi HP:706/851 MP:142/170
+C-Mushussu HP:395/399 MP:179/179
+D-Chemtrail HP:368/437 MP:393/423
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Kei
+3-Centaur
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Raphael use
+1-God's Tornado MP:50
+2-Diarahan MP:16
+3-Stigma Attack MP:20
+4-Serpent of Sheol MP:45
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Makoto HP:545/597 MP:347/347
+2-Magatsuhi HP:706/851 MP:142/170
+3-Mushussu HP:395/399 MP:179/179
+4-Chemtrail HP:368/437 MP:393/423
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Raphael use
+1-God's Tornado MP:50
+2-Diarahan MP:16
+3-Stigma Attack MP:20
+4-Serpent of Sheol MP:45
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Kei HP:626/760 MP:370/398
+2-Raphael HP:508/623 MP:247/279
+3-Centaur HP:104/104 MP:15/19
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Raphael cura a Kei
+Kei recibe 760 de HP
+Kei termina con HP:760/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:370/398
+B-Raphael HP:508/623 MP:231/279
+C-Centaur HP:104/104 MP:15/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:545/597 MP:347/347
+B-Magatsuhi HP:706/851 MP:142/170
+C-Mushussu HP:395/399 MP:179/179
+D-Chemtrail HP:368/437 MP:393/423
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Centaur
+3-Raphael
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:370/398
+B-Raphael HP:508/623 MP:231/279
+C-Centaur HP:104/104 MP:15/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:545/597 MP:347/347
+B-Magatsuhi HP:706/851 MP:142/170
+C-Mushussu HP:395/399 MP:179/179
+D-Chemtrail HP:368/437 MP:393/423
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Centaur
+2-Raphael
+3-Kei
+----------------------------------------
+Seleccione una acción para Centaur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Centaur use
+1-Bufu MP:5
+2-Needle Shot MP:4
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Centaur
+1-Makoto HP:545/597 MP:347/347
+2-Magatsuhi HP:706/851 MP:142/170
+3-Mushussu HP:395/399 MP:179/179
+4-Chemtrail HP:368/437 MP:393/423
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Centaur lanza hielo a Magatsuhi
+Magatsuhi devuelve 23 daño a Centaur
+Centaur termina con HP:81/104
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:370/398
+B-Raphael HP:508/623 MP:231/279
+C-Centaur HP:81/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:545/597 MP:347/347
+B-Magatsuhi HP:706/851 MP:142/170
+C-Mushussu HP:395/399 MP:179/179
+D-Chemtrail HP:368/437 MP:393/423
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Chemtrail
+3-Mushussu
+4-Makoto
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Kei HP:760/760 MP:370/398
+2-Raphael HP:508/623 MP:231/279
+3-Centaur HP:81/104 MP:10/19
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Kei HP:760/760 MP:370/398
+2-Raphael HP:508/623 MP:231/279
+3-Centaur HP:81/104 MP:10/19
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Magatsuhi ataca a Kei
+Kei es resistente el ataque de Magatsuhi
+Kei recibe 32 de daño
+Kei termina con HP:728/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:728/760 MP:370/398
+B-Raphael HP:508/623 MP:231/279
+C-Centaur HP:81/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:545/597 MP:347/347
+B-Magatsuhi HP:706/851 MP:142/170
+C-Mushussu HP:395/399 MP:179/179
+D-Chemtrail HP:368/437 MP:393/423
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Mushussu
+3-Makoto
+4-Magatsuhi
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chemtrail use
+1-Shivering Taboo MP:40
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Riot Gun MP:30
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:728/760 MP:370/398
+B-Raphael HP:508/623 MP:231/279
+C-Centaur HP:81/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:545/597 MP:347/347
+B-Magatsuhi HP:706/851 MP:142/170
+C-Mushussu HP:395/399 MP:179/179
+D-Chemtrail HP:368/437 MP:393/423
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Makoto
+3-Magatsuhi
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Yamata-no-Orochi HP:662/662 MP:117/131
+2-Mou-Ryo HP:238/238 MP:107/107
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:728/760 MP:370/398
+B-Raphael HP:508/623 MP:231/279
+C-Centaur HP:81/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:545/597 MP:347/347
+B-Magatsuhi HP:706/851 MP:142/170
+C-Mushussu HP:395/399 MP:179/179
+D-Chemtrail HP:368/437 MP:393/423
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Magatsuhi
+3-Chemtrail
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Kei HP:728/760 MP:370/398
+2-Raphael HP:508/623 MP:231/279
+3-Centaur HP:81/104 MP:10/19
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Makoto dispara a Centaur
+Centaur es resistente el ataque de Makoto
+Centaur recibe 28 de daño
+Centaur termina con HP:53/104
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:728/760 MP:370/398
+B-Raphael HP:508/623 MP:231/279
+C-Centaur HP:53/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:545/597 MP:347/347
+B-Magatsuhi HP:706/851 MP:142/170
+C-Mushussu HP:395/399 MP:179/179
+D-Chemtrail HP:368/437 MP:393/423
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Chemtrail
+3-Mushussu
+4-Makoto
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:728/760 MP:370/398
+B-Raphael HP:508/623 MP:231/279
+C-Centaur HP:53/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:545/597 MP:347/347
+B-Magatsuhi HP:706/851 MP:142/170
+C-Mushussu HP:395/399 MP:179/179
+D-Chemtrail HP:368/437 MP:393/423
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Mushussu
+3-Makoto
+4-Magatsuhi
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Yamata-no-Orochi HP:662/662 MP:117/131
+2-Mou-Ryo HP:238/238 MP:107/107
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Yamata-no-Orochi ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:728/760 MP:370/398
+B-Raphael HP:508/623 MP:231/279
+C-Centaur HP:53/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:545/597 MP:347/347
+B-Magatsuhi HP:706/851 MP:142/170
+C-Mushussu HP:395/399 MP:179/179
+D-Yamata-no-Orochi HP:662/662 MP:117/131
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Kei
+3-Centaur
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Makoto HP:545/597 MP:347/347
+2-Magatsuhi HP:706/851 MP:142/170
+3-Mushussu HP:395/399 MP:179/179
+4-Yamata-no-Orochi HP:662/662 MP:117/131
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Raphael ataca a Magatsuhi
+Magatsuhi recibe 52 de daño
+Magatsuhi termina con HP:654/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:728/760 MP:370/398
+B-Raphael HP:508/623 MP:231/279
+C-Centaur HP:53/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:545/597 MP:347/347
+B-Magatsuhi HP:654/851 MP:142/170
+C-Mushussu HP:395/399 MP:179/179
+D-Yamata-no-Orochi HP:662/662 MP:117/131
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Centaur
+3-Raphael
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Makoto HP:545/597 MP:347/347
+2-Magatsuhi HP:654/851 MP:142/170
+3-Mushussu HP:395/399 MP:179/179
+4-Yamata-no-Orochi HP:662/662 MP:117/131
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kei ataca a Makoto
+Makoto es resistente el ataque de Kei
+Makoto recibe 9 de daño
+Makoto termina con HP:536/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:728/760 MP:370/398
+B-Raphael HP:508/623 MP:231/279
+C-Centaur HP:53/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:536/597 MP:347/347
+B-Magatsuhi HP:654/851 MP:142/170
+C-Mushussu HP:395/399 MP:179/179
+D-Yamata-no-Orochi HP:662/662 MP:117/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Centaur
+2-Raphael
+3-Kei
+----------------------------------------
+Seleccione una acción para Centaur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:728/760 MP:370/398
+B-Raphael HP:508/623 MP:231/279
+C-Centaur HP:53/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:536/597 MP:347/347
+B-Magatsuhi HP:654/851 MP:142/170
+C-Mushussu HP:395/399 MP:179/179
+D-Yamata-no-Orochi HP:662/662 MP:117/131
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Raphael
+2-Kei
+3-Centaur
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Raphael use
+1-God's Tornado MP:50
+2-Diarahan MP:16
+3-Stigma Attack MP:20
+4-Serpent of Sheol MP:45
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Makoto HP:536/597 MP:347/347
+2-Magatsuhi HP:654/851 MP:142/170
+3-Mushussu HP:395/399 MP:179/179
+4-Yamata-no-Orochi HP:662/662 MP:117/131
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Raphael ataca a Yamata-no-Orochi
+Yamata-no-Orochi recibe 162 de daño
+Yamata-no-Orochi termina con HP:500/662
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:728/760 MP:370/398
+B-Raphael HP:508/623 MP:211/279
+C-Centaur HP:53/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:536/597 MP:347/347
+B-Magatsuhi HP:654/851 MP:142/170
+C-Mushussu HP:395/399 MP:179/179
+D-Yamata-no-Orochi HP:500/662 MP:117/131
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yamata-no-Orochi
+3-Mushussu
+4-Makoto
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:728/760 MP:370/398
+B-Raphael HP:508/623 MP:211/279
+C-Centaur HP:53/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:536/597 MP:347/347
+B-Magatsuhi HP:654/851 MP:142/170
+C-Mushussu HP:395/399 MP:179/179
+D-Yamata-no-Orochi HP:500/662 MP:117/131
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Mushussu
+3-Makoto
+4-Magatsuhi
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Yamata-no-Orochi use
+1-Bufudyne MP:14
+2-Megaton Press MP:17
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Kei HP:728/760 MP:370/398
+2-Raphael HP:508/623 MP:211/279
+3-Centaur HP:53/104 MP:10/19
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Yamata-no-Orochi lanza hielo a Centaur
+Centaur bloquea el ataque de Yamata-no-Orochi
+Centaur termina con HP:53/104
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:728/760 MP:370/398
+B-Raphael HP:508/623 MP:211/279
+C-Centaur HP:53/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:536/597 MP:347/347
+B-Magatsuhi HP:654/851 MP:142/170
+C-Mushussu HP:395/399 MP:179/179
+D-Yamata-no-Orochi HP:500/662 MP:103/131
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Makoto
+3-Magatsuhi
+4-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Kei HP:728/760 MP:370/398
+2-Raphael HP:508/623 MP:211/279
+3-Centaur HP:53/104 MP:10/19
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ataca a Kei
+Kei es resistente el ataque de Mushussu
+Kei recibe 16 de daño
+Kei termina con HP:712/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:712/760 MP:370/398
+B-Raphael HP:508/623 MP:211/279
+C-Centaur HP:53/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:536/597 MP:347/347
+B-Magatsuhi HP:654/851 MP:142/170
+C-Mushussu HP:395/399 MP:179/179
+D-Yamata-no-Orochi HP:500/662 MP:103/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Magatsuhi
+3-Yamata-no-Orochi
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:712/760 MP:370/398
+B-Raphael HP:508/623 MP:211/279
+C-Centaur HP:53/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:536/597 MP:347/347
+B-Magatsuhi HP:654/851 MP:142/170
+C-Mushussu HP:395/399 MP:179/179
+D-Yamata-no-Orochi HP:500/662 MP:103/131
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yamata-no-Orochi
+3-Mushussu
+4-Makoto
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Kei HP:712/760 MP:370/398
+2-Raphael HP:508/623 MP:211/279
+3-Centaur HP:53/104 MP:10/19
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:712/760 MP:370/398
+B-Raphael HP:508/623 MP:211/279
+C-Centaur HP:53/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:536/597 MP:347/347
+B-Magatsuhi HP:654/851 MP:142/170
+C-Mushussu HP:395/399 MP:179/179
+D-Yamata-no-Orochi HP:500/662 MP:103/131
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Kei
+3-Centaur
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Raphael use
+1-God's Tornado MP:50
+2-Diarahan MP:16
+3-Stigma Attack MP:20
+4-Serpent of Sheol MP:45
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Makoto HP:536/597 MP:347/347
+2-Magatsuhi HP:654/851 MP:142/170
+3-Mushussu HP:395/399 MP:179/179
+4-Yamata-no-Orochi HP:500/662 MP:103/131
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Raphael ataca a Yamata-no-Orochi
+Yamata-no-Orochi recibe 162 de daño
+Yamata-no-Orochi termina con HP:338/662
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:712/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:53/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:536/597 MP:347/347
+B-Magatsuhi HP:654/851 MP:142/170
+C-Mushussu HP:395/399 MP:179/179
+D-Yamata-no-Orochi HP:338/662 MP:103/131
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Centaur
+3-Raphael
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:712/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:53/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:536/597 MP:347/347
+B-Magatsuhi HP:654/851 MP:142/170
+C-Mushussu HP:395/399 MP:179/179
+D-Yamata-no-Orochi HP:338/662 MP:103/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Centaur
+2-Raphael
+3-Kei
+----------------------------------------
+Seleccione una acción para Centaur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Centaur
+1-Makoto HP:536/597 MP:347/347
+2-Magatsuhi HP:654/851 MP:142/170
+3-Mushussu HP:395/399 MP:179/179
+4-Yamata-no-Orochi HP:338/662 MP:103/131
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Centaur ataca a Makoto
+Makoto es resistente el ataque de Centaur
+Makoto recibe 2 de daño
+Makoto termina con HP:534/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:712/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:53/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:534/597 MP:347/347
+B-Magatsuhi HP:654/851 MP:142/170
+C-Mushussu HP:395/399 MP:179/179
+D-Yamata-no-Orochi HP:338/662 MP:103/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Kei
+3-Centaur
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Makoto HP:534/597 MP:347/347
+2-Magatsuhi HP:654/851 MP:142/170
+3-Mushussu HP:395/399 MP:179/179
+4-Yamata-no-Orochi HP:338/662 MP:103/131
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Raphael ataca a Magatsuhi
+Magatsuhi recibe 52 de daño
+Magatsuhi termina con HP:602/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:712/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:53/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:534/597 MP:347/347
+B-Magatsuhi HP:602/851 MP:142/170
+C-Mushussu HP:395/399 MP:179/179
+D-Yamata-no-Orochi HP:338/662 MP:103/131
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yamata-no-Orochi
+3-Mushussu
+4-Makoto
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mou-Ryo HP:238/238 MP:107/107
+2-Chemtrail HP:368/437 MP:393/423
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Chemtrail ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:712/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:53/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:534/597 MP:347/347
+B-Chemtrail HP:368/437 MP:393/423
+C-Mushussu HP:395/399 MP:179/179
+D-Yamata-no-Orochi HP:338/662 MP:103/131
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Mushussu
+3-Makoto
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Magatsuhi HP:602/851 MP:142/170
+2-Mou-Ryo HP:238/238 MP:107/107
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Mou-Ryo ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:712/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:53/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:534/597 MP:347/347
+B-Chemtrail HP:368/437 MP:393/423
+C-Mushussu HP:395/399 MP:179/179
+D-Mou-Ryo HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Makoto
+3-Chemtrail
+4-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Kei HP:712/760 MP:370/398
+2-Raphael HP:508/623 MP:191/279
+3-Centaur HP:53/104 MP:10/19
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Magatsuhi HP:602/851 MP:142/170
+2-Yamata-no-Orochi HP:338/662 MP:103/131
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Yamata-no-Orochi ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:712/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:53/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:534/597 MP:347/347
+B-Chemtrail HP:368/437 MP:393/423
+C-Yamata-no-Orochi HP:338/662 MP:103/131
+D-Mou-Ryo HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Chemtrail
+3-Mou-Ryo
+4-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:712/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:53/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:534/597 MP:347/347
+B-Chemtrail HP:368/437 MP:393/423
+C-Yamata-no-Orochi HP:338/662 MP:103/131
+D-Mou-Ryo HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Mou-Ryo
+3-Yamata-no-Orochi
+4-Makoto
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chemtrail use
+1-Shivering Taboo MP:40
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Riot Gun MP:30
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:712/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:53/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:534/597 MP:347/347
+B-Chemtrail HP:368/437 MP:393/423
+C-Yamata-no-Orochi HP:338/662 MP:103/131
+D-Mou-Ryo HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mou-Ryo
+2-Yamata-no-Orochi
+3-Makoto
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mou-Ryo use
+1-Mudo MP:6
+2-Spirit Drain MP:5
+3-Pulinpa MP:5
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mou-Ryo
+1-Kei HP:712/760 MP:370/398
+2-Raphael HP:508/623 MP:191/279
+3-Centaur HP:53/104 MP:10/19
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:712/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:53/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:534/597 MP:347/347
+B-Chemtrail HP:368/437 MP:393/423
+C-Yamata-no-Orochi HP:338/662 MP:103/131
+D-Mou-Ryo HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Makoto
+3-Chemtrail
+4-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Yamata-no-Orochi use
+1-Bufudyne MP:14
+2-Megaton Press MP:17
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Kei HP:712/760 MP:370/398
+2-Raphael HP:508/623 MP:191/279
+3-Centaur HP:53/104 MP:10/19
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Kei HP:712/760 MP:370/398
+2-Raphael HP:508/623 MP:191/279
+3-Centaur HP:53/104 MP:10/19
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Yamata-no-Orochi ataca a Kei
+Kei es resistente el ataque de Yamata-no-Orochi
+Kei recibe 25 de daño
+Kei termina con HP:687/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:687/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:53/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:534/597 MP:347/347
+B-Chemtrail HP:368/437 MP:393/423
+C-Yamata-no-Orochi HP:338/662 MP:103/131
+D-Mou-Ryo HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Kei
+3-Centaur
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Makoto HP:534/597 MP:347/347
+2-Chemtrail HP:368/437 MP:393/423
+3-Yamata-no-Orochi HP:338/662 MP:103/131
+4-Mou-Ryo HP:238/238 MP:107/107
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Raphael ataca a Chemtrail
+Chemtrail recibe 52 de daño
+Chemtrail termina con HP:316/437
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:687/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:53/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:534/597 MP:347/347
+B-Chemtrail HP:316/437 MP:393/423
+C-Yamata-no-Orochi HP:338/662 MP:103/131
+D-Mou-Ryo HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Centaur
+3-Raphael
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Makoto HP:534/597 MP:347/347
+2-Chemtrail HP:316/437 MP:393/423
+3-Yamata-no-Orochi HP:338/662 MP:103/131
+4-Mou-Ryo HP:238/238 MP:107/107
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kei ataca a Makoto
+Makoto es resistente el ataque de Kei
+Makoto recibe 9 de daño
+Makoto termina con HP:525/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:687/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:53/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:525/597 MP:347/347
+B-Chemtrail HP:316/437 MP:393/423
+C-Yamata-no-Orochi HP:338/662 MP:103/131
+D-Mou-Ryo HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Centaur
+2-Raphael
+3-Kei
+----------------------------------------
+Seleccione una acción para Centaur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Centaur
+1-Makoto HP:525/597 MP:347/347
+2-Chemtrail HP:316/437 MP:393/423
+3-Yamata-no-Orochi HP:338/662 MP:103/131
+4-Mou-Ryo HP:238/238 MP:107/107
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Centaur ataca a Makoto
+Makoto es resistente el ataque de Centaur
+Makoto recibe 2 de daño
+Makoto termina con HP:523/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:687/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:53/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:523/597 MP:347/347
+B-Chemtrail HP:316/437 MP:393/423
+C-Yamata-no-Orochi HP:338/662 MP:103/131
+D-Mou-Ryo HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Yamata-no-Orochi
+3-Makoto
+4-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chemtrail use
+1-Shivering Taboo MP:40
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Riot Gun MP:30
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Kei HP:687/760 MP:370/398
+2-Raphael HP:508/623 MP:191/279
+3-Centaur HP:53/104 MP:10/19
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Kei HP:687/760 MP:370/398
+2-Raphael HP:508/623 MP:191/279
+3-Centaur HP:53/104 MP:10/19
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Kei HP:687/760 MP:370/398
+2-Raphael HP:508/623 MP:191/279
+3-Centaur HP:53/104 MP:10/19
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chemtrail use
+1-Shivering Taboo MP:40
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Riot Gun MP:30
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Kei HP:687/760 MP:370/398
+2-Raphael HP:508/623 MP:191/279
+3-Centaur HP:53/104 MP:10/19
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Chemtrail dispara a Kei
+Kei es resistente el ataque de Chemtrail
+Kei recibe 86 de daño
+Kei termina con HP:601/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:601/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:53/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:523/597 MP:347/347
+B-Chemtrail HP:316/437 MP:363/423
+C-Yamata-no-Orochi HP:338/662 MP:103/131
+D-Mou-Ryo HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Makoto
+3-Mou-Ryo
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Kei HP:601/760 MP:370/398
+2-Raphael HP:508/623 MP:191/279
+3-Centaur HP:53/104 MP:10/19
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Yamata-no-Orochi ataca a Centaur
+Centaur recibe 50 de daño
+Centaur termina con HP:3/104
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:601/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:3/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:523/597 MP:347/347
+B-Chemtrail HP:316/437 MP:363/423
+C-Yamata-no-Orochi HP:338/662 MP:103/131
+D-Mou-Ryo HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Mou-Ryo
+3-Chemtrail
+4-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:601/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:3/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:523/597 MP:347/347
+B-Chemtrail HP:316/437 MP:363/423
+C-Yamata-no-Orochi HP:338/662 MP:103/131
+D-Mou-Ryo HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mou-Ryo
+2-Chemtrail
+3-Yamata-no-Orochi
+4-Makoto
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:601/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:3/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:523/597 MP:347/347
+B-Chemtrail HP:316/437 MP:363/423
+C-Yamata-no-Orochi HP:338/662 MP:103/131
+D-Mou-Ryo HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Yamata-no-Orochi
+3-Makoto
+4-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Magatsuhi HP:602/851 MP:142/170
+2-Mushussu HP:395/399 MP:179/179
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Mushussu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:601/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:3/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:523/597 MP:347/347
+B-Mushussu HP:395/399 MP:179/179
+C-Yamata-no-Orochi HP:338/662 MP:103/131
+D-Mou-Ryo HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Makoto
+3-Mou-Ryo
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Magatsuhi HP:602/851 MP:142/170
+2-Chemtrail HP:316/437 MP:363/423
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Yamata-no-Orochi use
+1-Bufudyne MP:14
+2-Megaton Press MP:17
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Yamata-no-Orochi use
+1-Bufudyne MP:14
+2-Megaton Press MP:17
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Magatsuhi HP:602/851 MP:142/170
+2-Chemtrail HP:316/437 MP:363/423
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Yamata-no-Orochi use
+1-Bufudyne MP:14
+2-Megaton Press MP:17
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Kei HP:601/760 MP:370/398
+2-Raphael HP:508/623 MP:191/279
+3-Centaur HP:3/104 MP:10/19
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Magatsuhi HP:602/851 MP:142/170
+2-Chemtrail HP:316/437 MP:363/423
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:601/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:3/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:523/597 MP:347/347
+B-Mushussu HP:395/399 MP:179/179
+C-Yamata-no-Orochi HP:338/662 MP:103/131
+D-Mou-Ryo HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Kei
+3-Centaur
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Makoto HP:523/597 MP:347/347
+2-Mushussu HP:395/399 MP:179/179
+3-Yamata-no-Orochi HP:338/662 MP:103/131
+4-Mou-Ryo HP:238/238 MP:107/107
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Raphael ataca a Mushussu
+Mushussu recibe 52 de daño
+Mushussu termina con HP:343/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:601/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:3/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:523/597 MP:347/347
+B-Mushussu HP:343/399 MP:179/179
+C-Yamata-no-Orochi HP:338/662 MP:103/131
+D-Mou-Ryo HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Centaur
+3-Raphael
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:601/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:3/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:523/597 MP:347/347
+B-Mushussu HP:343/399 MP:179/179
+C-Yamata-no-Orochi HP:338/662 MP:103/131
+D-Mou-Ryo HP:238/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Centaur
+2-Raphael
+3-Kei
+----------------------------------------
+Seleccione una acción para Centaur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Centaur
+1-Makoto HP:523/597 MP:347/347
+2-Mushussu HP:343/399 MP:179/179
+3-Yamata-no-Orochi HP:338/662 MP:103/131
+4-Mou-Ryo HP:238/238 MP:107/107
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Centaur ataca a Mou-Ryo
+Mou-Ryo recibe 4 de daño
+Mou-Ryo termina con HP:234/238
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:601/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:3/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:523/597 MP:347/347
+B-Mushussu HP:343/399 MP:179/179
+C-Yamata-no-Orochi HP:338/662 MP:103/131
+D-Mou-Ryo HP:234/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Kei
+3-Centaur
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Makoto HP:523/597 MP:347/347
+2-Mushussu HP:343/399 MP:179/179
+3-Yamata-no-Orochi HP:338/662 MP:103/131
+4-Mou-Ryo HP:234/238 MP:107/107
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Raphael ataca a Mou-Ryo
+Mou-Ryo recibe 52 de daño
+Mou-Ryo termina con HP:182/238
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:601/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:3/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:523/597 MP:347/347
+B-Mushussu HP:343/399 MP:179/179
+C-Yamata-no-Orochi HP:338/662 MP:103/131
+D-Mou-Ryo HP:182/238 MP:107/107
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Makoto
+3-Mushussu
+4-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Yamata-no-Orochi use
+1-Bufudyne MP:14
+2-Megaton Press MP:17
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Magatsuhi HP:602/851 MP:142/170
+2-Chemtrail HP:316/437 MP:363/423
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Magatsuhi HP:602/851 MP:142/170
+2-Chemtrail HP:316/437 MP:363/423
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Chemtrail ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:601/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:3/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:523/597 MP:347/347
+B-Mushussu HP:343/399 MP:179/179
+C-Chemtrail HP:316/437 MP:363/423
+D-Mou-Ryo HP:182/238 MP:107/107
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Mushussu
+3-Mou-Ryo
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:601/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:3/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:523/597 MP:347/347
+B-Mushussu HP:343/399 MP:179/179
+C-Chemtrail HP:316/437 MP:363/423
+D-Mou-Ryo HP:182/238 MP:107/107
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Mou-Ryo
+3-Chemtrail
+4-Makoto
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:601/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:3/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:523/597 MP:347/347
+B-Mushussu HP:343/399 MP:179/179
+C-Chemtrail HP:316/437 MP:363/423
+D-Mou-Ryo HP:182/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mou-Ryo
+2-Chemtrail
+3-Makoto
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:601/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:3/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:523/597 MP:347/347
+B-Mushussu HP:343/399 MP:179/179
+C-Chemtrail HP:316/437 MP:363/423
+D-Mou-Ryo HP:182/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Makoto
+3-Mushussu
+4-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chemtrail use
+1-Shivering Taboo MP:40
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Riot Gun MP:30
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chemtrail use
+1-Shivering Taboo MP:40
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Riot Gun MP:30
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Kei HP:601/760 MP:370/398
+2-Raphael HP:508/623 MP:191/279
+3-Centaur HP:3/104 MP:10/19
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Chemtrail ataca a Kei
+Kei es resistente el ataque de Chemtrail
+Kei recibe 23 de daño
+Kei termina con HP:578/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:578/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:3/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:523/597 MP:347/347
+B-Mushussu HP:343/399 MP:179/179
+C-Chemtrail HP:316/437 MP:363/423
+D-Mou-Ryo HP:182/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Mushussu
+3-Mou-Ryo
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Magatsuhi HP:602/851 MP:142/170
+2-Yamata-no-Orochi HP:338/662 MP:103/131
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Mushussu HP:343/399 MP:179/179 (Puesto 2)
+2-Chemtrail HP:316/437 MP:363/423 (Puesto 3)
+3-Mou-Ryo HP:182/238 MP:107/107 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Magatsuhi ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:578/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:3/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:523/597 MP:347/347
+B-Mushussu HP:343/399 MP:179/179
+C-Magatsuhi HP:602/851 MP:142/170
+D-Mou-Ryo HP:182/238 MP:107/107
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Mou-Ryo
+3-Magatsuhi
+4-Makoto
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Kei HP:578/760 MP:370/398
+2-Raphael HP:508/623 MP:191/279
+3-Centaur HP:3/104 MP:10/19
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Yamata-no-Orochi HP:338/662 MP:103/131
+2-Chemtrail HP:316/437 MP:363/423
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Chemtrail ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:578/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:3/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:523/597 MP:347/347
+B-Chemtrail HP:316/437 MP:363/423
+C-Magatsuhi HP:602/851 MP:142/170
+D-Mou-Ryo HP:182/238 MP:107/107
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Kei
+3-Centaur
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:578/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:3/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:523/597 MP:347/347
+B-Chemtrail HP:316/437 MP:363/423
+C-Magatsuhi HP:602/851 MP:142/170
+D-Mou-Ryo HP:182/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Centaur
+3-Raphael
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:578/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:3/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:523/597 MP:347/347
+B-Chemtrail HP:316/437 MP:363/423
+C-Magatsuhi HP:602/851 MP:142/170
+D-Mou-Ryo HP:182/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Centaur
+2-Raphael
+3-Kei
+----------------------------------------
+Seleccione una acción para Centaur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Centaur use
+1-Bufu MP:5
+2-Needle Shot MP:4
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Centaur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:578/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:3/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:523/597 MP:347/347
+B-Chemtrail HP:316/437 MP:363/423
+C-Magatsuhi HP:602/851 MP:142/170
+D-Mou-Ryo HP:182/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Raphael
+2-Kei
+3-Centaur
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Makoto HP:523/597 MP:347/347
+2-Chemtrail HP:316/437 MP:363/423
+3-Magatsuhi HP:602/851 MP:142/170
+4-Mou-Ryo HP:182/238 MP:107/107
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Raphael ataca a Chemtrail
+Chemtrail recibe 52 de daño
+Chemtrail termina con HP:264/437
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:578/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:3/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:523/597 MP:347/347
+B-Chemtrail HP:264/437 MP:363/423
+C-Magatsuhi HP:602/851 MP:142/170
+D-Mou-Ryo HP:182/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Centaur
+3-Raphael
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:578/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:3/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:523/597 MP:347/347
+B-Chemtrail HP:264/437 MP:363/423
+C-Magatsuhi HP:602/851 MP:142/170
+D-Mou-Ryo HP:182/238 MP:107/107
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Centaur
+2-Raphael
+3-Kei
+----------------------------------------
+Seleccione una acción para Centaur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Centaur use
+1-Bufu MP:5
+2-Needle Shot MP:4
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Centaur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:578/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:3/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:523/597 MP:347/347
+B-Chemtrail HP:264/437 MP:363/423
+C-Magatsuhi HP:602/851 MP:142/170
+D-Mou-Ryo HP:182/238 MP:107/107
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Chemtrail
+3-Makoto
+4-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:578/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:3/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:523/597 MP:347/347
+B-Chemtrail HP:264/437 MP:363/423
+C-Magatsuhi HP:602/851 MP:142/170
+D-Mou-Ryo HP:182/238 MP:107/107
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Makoto
+3-Mou-Ryo
+4-Magatsuhi
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chemtrail use
+1-Shivering Taboo MP:40
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Riot Gun MP:30
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Kei HP:578/760 MP:370/398
+2-Raphael HP:508/623 MP:191/279
+3-Centaur HP:3/104 MP:10/19
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Chemtrail dispara a Kei
+Kei es resistente el ataque de Chemtrail
+Kei recibe 86 de daño
+Kei termina con HP:492/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:492/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:3/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:523/597 MP:347/347
+B-Chemtrail HP:264/437 MP:333/423
+C-Magatsuhi HP:602/851 MP:142/170
+D-Mou-Ryo HP:182/238 MP:107/107
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Mou-Ryo
+3-Magatsuhi
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:492/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:3/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:523/597 MP:347/347
+B-Chemtrail HP:264/437 MP:333/423
+C-Magatsuhi HP:602/851 MP:142/170
+D-Mou-Ryo HP:182/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mou-Ryo
+2-Magatsuhi
+3-Chemtrail
+4-Makoto
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Yamata-no-Orochi HP:338/662 MP:103/131
+2-Mushussu HP:343/399 MP:179/179
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Yamata-no-Orochi ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:492/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:3/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:523/597 MP:347/347
+B-Chemtrail HP:264/437 MP:333/423
+C-Magatsuhi HP:602/851 MP:142/170
+D-Yamata-no-Orochi HP:338/662 MP:103/131
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Chemtrail
+3-Makoto
+4-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:492/760 MP:370/398
+B-Raphael HP:508/623 MP:191/279
+C-Centaur HP:3/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:523/597 MP:347/347
+B-Chemtrail HP:264/437 MP:333/423
+C-Magatsuhi HP:602/851 MP:142/170
+D-Yamata-no-Orochi HP:338/662 MP:103/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Makoto
+3-Yamata-no-Orochi
+4-Magatsuhi
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chemtrail use
+1-Shivering Taboo MP:40
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Riot Gun MP:30
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Kei HP:492/760 MP:370/398
+2-Raphael HP:508/623 MP:191/279
+3-Centaur HP:3/104 MP:10/19
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Chemtrail dispara a Raphael
+Raphael recibe 172 de daño
+Raphael termina con HP:336/623
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:492/760 MP:370/398
+B-Raphael HP:336/623 MP:191/279
+C-Centaur HP:3/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:523/597 MP:347/347
+B-Chemtrail HP:264/437 MP:303/423
+C-Magatsuhi HP:602/851 MP:142/170
+D-Yamata-no-Orochi HP:338/662 MP:103/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Yamata-no-Orochi
+3-Magatsuhi
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Hamaon MP:10
+2-Tathlum Shot MP:7
+3-Bufula MP:8
+4-Grand Tack MP:11
+5-Dia MP:5
+6-Samarecarm MP:40
+7-Stigma Attack MP:20
+8-Agi MP:5
+9-Cancelar
+INPUT: 8
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Kei HP:492/760 MP:370/398
+2-Raphael HP:336/623 MP:191/279
+3-Centaur HP:3/104 MP:10/19
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto lanza fuego a Kei
+Kei es resistente el ataque de Makoto
+Kei recibe 35 de daño
+Kei termina con HP:457/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:457/760 MP:370/398
+B-Raphael HP:336/623 MP:191/279
+C-Centaur HP:3/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:523/597 MP:342/347
+B-Chemtrail HP:264/437 MP:303/423
+C-Magatsuhi HP:602/851 MP:142/170
+D-Yamata-no-Orochi HP:338/662 MP:103/131
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Kei
+3-Centaur
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Makoto HP:523/597 MP:342/347
+2-Chemtrail HP:264/437 MP:303/423
+3-Magatsuhi HP:602/851 MP:142/170
+4-Yamata-no-Orochi HP:338/662 MP:103/131
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Raphael ataca a Yamata-no-Orochi
+Yamata-no-Orochi recibe 52 de daño
+Yamata-no-Orochi termina con HP:286/662
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:457/760 MP:370/398
+B-Raphael HP:336/623 MP:191/279
+C-Centaur HP:3/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:523/597 MP:342/347
+B-Chemtrail HP:264/437 MP:303/423
+C-Magatsuhi HP:602/851 MP:142/170
+D-Yamata-no-Orochi HP:286/662 MP:103/131
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Centaur
+3-Raphael
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Makoto HP:523/597 MP:342/347
+2-Chemtrail HP:264/437 MP:303/423
+3-Magatsuhi HP:602/851 MP:142/170
+4-Yamata-no-Orochi HP:286/662 MP:103/131
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Kei dispara a Yamata-no-Orochi
+Yamata-no-Orochi recibe 15 de daño
+Yamata-no-Orochi termina con HP:271/662
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:457/760 MP:370/398
+B-Raphael HP:336/623 MP:191/279
+C-Centaur HP:3/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:523/597 MP:342/347
+B-Chemtrail HP:264/437 MP:303/423
+C-Magatsuhi HP:602/851 MP:142/170
+D-Yamata-no-Orochi HP:271/662 MP:103/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Centaur
+2-Raphael
+3-Kei
+----------------------------------------
+Seleccione una acción para Centaur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:457/760 MP:370/398
+B-Raphael HP:336/623 MP:191/279
+C-Centaur HP:3/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:523/597 MP:342/347
+B-Chemtrail HP:264/437 MP:303/423
+C-Magatsuhi HP:602/851 MP:142/170
+D-Yamata-no-Orochi HP:271/662 MP:103/131
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Raphael
+2-Kei
+3-Centaur
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Makoto HP:523/597 MP:342/347
+2-Chemtrail HP:264/437 MP:303/423
+3-Magatsuhi HP:602/851 MP:142/170
+4-Yamata-no-Orochi HP:271/662 MP:103/131
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Raphael ataca a Makoto
+Makoto es resistente el ataque de Raphael
+Makoto recibe 26 de daño
+Makoto termina con HP:497/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:457/760 MP:370/398
+B-Raphael HP:336/623 MP:191/279
+C-Centaur HP:3/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:497/597 MP:342/347
+B-Chemtrail HP:264/437 MP:303/423
+C-Magatsuhi HP:602/851 MP:142/170
+D-Yamata-no-Orochi HP:271/662 MP:103/131
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Chemtrail
+3-Yamata-no-Orochi
+4-Makoto
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mushussu HP:343/399 MP:179/179
+2-Mou-Ryo HP:182/238 MP:107/107
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:457/760 MP:370/398
+B-Raphael HP:336/623 MP:191/279
+C-Centaur HP:3/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:497/597 MP:342/347
+B-Chemtrail HP:264/437 MP:303/423
+C-Mushussu HP:343/399 MP:179/179
+D-Yamata-no-Orochi HP:271/662 MP:103/131
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Yamata-no-Orochi
+3-Makoto
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chemtrail use
+1-Shivering Taboo MP:40
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Riot Gun MP:30
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:457/760 MP:370/398
+B-Raphael HP:336/623 MP:191/279
+C-Centaur HP:3/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:497/597 MP:342/347
+B-Chemtrail HP:264/437 MP:303/423
+C-Mushussu HP:343/399 MP:179/179
+D-Yamata-no-Orochi HP:271/662 MP:103/131
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Makoto
+3-Mushussu
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:457/760 MP:370/398
+B-Raphael HP:336/623 MP:191/279
+C-Centaur HP:3/104 MP:10/19
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:497/597 MP:342/347
+B-Chemtrail HP:264/437 MP:303/423
+C-Mushussu HP:343/399 MP:179/179
+D-Yamata-no-Orochi HP:271/662 MP:103/131
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Mushussu
+3-Chemtrail
+4-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Kei HP:457/760 MP:370/398
+2-Raphael HP:336/623 MP:191/279
+3-Centaur HP:3/104 MP:10/19
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Makoto ataca a Centaur
+Centaur recibe 38 de daño
+Centaur termina con HP:0/104
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:457/760 MP:370/398
+B-Raphael HP:336/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:497/597 MP:342/347
+B-Chemtrail HP:264/437 MP:303/423
+C-Mushussu HP:343/399 MP:179/179
+D-Yamata-no-Orochi HP:271/662 MP:103/131
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Chemtrail
+3-Yamata-no-Orochi
+4-Makoto
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Magatsuhi HP:602/851 MP:142/170
+2-Mou-Ryo HP:182/238 MP:107/107
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:457/760 MP:370/398
+B-Raphael HP:336/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:497/597 MP:342/347
+B-Chemtrail HP:264/437 MP:303/423
+C-Mushussu HP:343/399 MP:179/179
+D-Yamata-no-Orochi HP:271/662 MP:103/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Yamata-no-Orochi
+3-Makoto
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:457/760 MP:370/398
+B-Raphael HP:336/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:497/597 MP:342/347
+B-Chemtrail HP:264/437 MP:303/423
+C-Mushussu HP:343/399 MP:179/179
+D-Yamata-no-Orochi HP:271/662 MP:103/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Makoto
+3-Mushussu
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Magatsuhi HP:602/851 MP:142/170
+2-Mou-Ryo HP:182/238 MP:107/107
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Kei HP:457/760 MP:370/398
+2-Raphael HP:336/623 MP:191/279
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Yamata-no-Orochi ataca a Raphael
+Raphael recibe 50 de daño
+Raphael termina con HP:286/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:457/760 MP:370/398
+B-Raphael HP:286/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:497/597 MP:342/347
+B-Chemtrail HP:264/437 MP:303/423
+C-Mushussu HP:343/399 MP:179/179
+D-Yamata-no-Orochi HP:271/662 MP:103/131
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Kei
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Raphael use
+1-God's Tornado MP:50
+2-Diarahan MP:16
+3-Stigma Attack MP:20
+4-Serpent of Sheol MP:45
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:457/760 MP:370/398
+B-Raphael HP:286/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:497/597 MP:342/347
+B-Chemtrail HP:264/437 MP:303/423
+C-Mushussu HP:343/399 MP:179/179
+D-Yamata-no-Orochi HP:271/662 MP:103/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Raphael
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Makoto HP:497/597 MP:342/347
+2-Chemtrail HP:264/437 MP:303/423
+3-Mushussu HP:343/399 MP:179/179
+4-Yamata-no-Orochi HP:271/662 MP:103/131
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kei dispara a Makoto
+Makoto es resistente el ataque de Kei
+Makoto recibe 7 de daño
+Makoto termina con HP:490/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:457/760 MP:370/398
+B-Raphael HP:286/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:490/597 MP:342/347
+B-Chemtrail HP:264/437 MP:303/423
+C-Mushussu HP:343/399 MP:179/179
+D-Yamata-no-Orochi HP:271/662 MP:103/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Kei
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:457/760 MP:370/398
+B-Raphael HP:286/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:490/597 MP:342/347
+B-Chemtrail HP:264/437 MP:303/423
+C-Mushussu HP:343/399 MP:179/179
+D-Yamata-no-Orochi HP:271/662 MP:103/131
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Raphael
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Zandyne MP:14
+2-Hama MP:6
+3-Mudo MP:6
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:457/760 MP:370/398
+B-Raphael HP:286/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:490/597 MP:342/347
+B-Chemtrail HP:264/437 MP:303/423
+C-Mushussu HP:343/399 MP:179/179
+D-Yamata-no-Orochi HP:271/662 MP:103/131
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Yamata-no-Orochi
+3-Makoto
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Magatsuhi HP:602/851 MP:142/170
+2-Mou-Ryo HP:182/238 MP:107/107
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Mou-Ryo ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:457/760 MP:370/398
+B-Raphael HP:286/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:490/597 MP:342/347
+B-Mou-Ryo HP:182/238 MP:107/107
+C-Mushussu HP:343/399 MP:179/179
+D-Yamata-no-Orochi HP:271/662 MP:103/131
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Makoto
+3-Mushussu
+4-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Yamata-no-Orochi use
+1-Bufudyne MP:14
+2-Megaton Press MP:17
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Kei HP:457/760 MP:370/398
+2-Raphael HP:286/623 MP:191/279
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Yamata-no-Orochi lanza hielo a Raphael
+Raphael bloquea el ataque de Yamata-no-Orochi
+Raphael termina con HP:286/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:457/760 MP:370/398
+B-Raphael HP:286/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:490/597 MP:342/347
+B-Mou-Ryo HP:182/238 MP:107/107
+C-Mushussu HP:343/399 MP:179/179
+D-Yamata-no-Orochi HP:271/662 MP:89/131
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Mushussu
+3-Mou-Ryo
+4-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:457/760 MP:370/398
+B-Raphael HP:286/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:490/597 MP:342/347
+B-Mou-Ryo HP:182/238 MP:107/107
+C-Mushussu HP:343/399 MP:179/179
+D-Yamata-no-Orochi HP:271/662 MP:89/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Mou-Ryo
+3-Yamata-no-Orochi
+4-Makoto
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:457/760 MP:370/398
+B-Raphael HP:286/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:490/597 MP:342/347
+B-Mou-Ryo HP:182/238 MP:107/107
+C-Mushussu HP:343/399 MP:179/179
+D-Yamata-no-Orochi HP:271/662 MP:89/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mou-Ryo
+2-Yamata-no-Orochi
+3-Makoto
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Magatsuhi HP:602/851 MP:142/170
+2-Chemtrail HP:264/437 MP:303/423
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Chemtrail ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:457/760 MP:370/398
+B-Raphael HP:286/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:490/597 MP:342/347
+B-Chemtrail HP:264/437 MP:303/423
+C-Mushussu HP:343/399 MP:179/179
+D-Yamata-no-Orochi HP:271/662 MP:89/131
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Makoto
+3-Mushussu
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Kei HP:457/760 MP:370/398
+2-Raphael HP:286/623 MP:191/279
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Yamata-no-Orochi ataca a Kei
+Kei es resistente el ataque de Yamata-no-Orochi
+Kei recibe 25 de daño
+Kei termina con HP:432/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:432/760 MP:370/398
+B-Raphael HP:286/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:490/597 MP:342/347
+B-Chemtrail HP:264/437 MP:303/423
+C-Mushussu HP:343/399 MP:179/179
+D-Yamata-no-Orochi HP:271/662 MP:89/131
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Kei
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:432/760 MP:370/398
+B-Raphael HP:286/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:490/597 MP:342/347
+B-Chemtrail HP:264/437 MP:303/423
+C-Mushussu HP:343/399 MP:179/179
+D-Yamata-no-Orochi HP:271/662 MP:89/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Raphael
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Makoto HP:490/597 MP:342/347
+2-Chemtrail HP:264/437 MP:303/423
+3-Mushussu HP:343/399 MP:179/179
+4-Yamata-no-Orochi HP:271/662 MP:89/131
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kei dispara a Makoto
+Makoto es resistente el ataque de Kei
+Makoto recibe 7 de daño
+Makoto termina con HP:483/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:432/760 MP:370/398
+B-Raphael HP:286/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:483/597 MP:342/347
+B-Chemtrail HP:264/437 MP:303/423
+C-Mushussu HP:343/399 MP:179/179
+D-Yamata-no-Orochi HP:271/662 MP:89/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Kei
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Makoto HP:483/597 MP:342/347
+2-Chemtrail HP:264/437 MP:303/423
+3-Mushussu HP:343/399 MP:179/179
+4-Yamata-no-Orochi HP:271/662 MP:89/131
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Raphael ataca a Makoto
+Makoto es resistente el ataque de Raphael
+Makoto recibe 26 de daño
+Makoto termina con HP:457/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:432/760 MP:370/398
+B-Raphael HP:286/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:457/597 MP:342/347
+B-Chemtrail HP:264/437 MP:303/423
+C-Mushussu HP:343/399 MP:179/179
+D-Yamata-no-Orochi HP:271/662 MP:89/131
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Yamata-no-Orochi
+3-Makoto
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Magatsuhi HP:602/851 MP:142/170
+2-Mou-Ryo HP:182/238 MP:107/107
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Magatsuhi HP:602/851 MP:142/170
+2-Mou-Ryo HP:182/238 MP:107/107
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Mou-Ryo ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:432/760 MP:370/398
+B-Raphael HP:286/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:457/597 MP:342/347
+B-Mou-Ryo HP:182/238 MP:107/107
+C-Mushussu HP:343/399 MP:179/179
+D-Yamata-no-Orochi HP:271/662 MP:89/131
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Makoto
+3-Mushussu
+4-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Yamata-no-Orochi use
+1-Bufudyne MP:14
+2-Megaton Press MP:17
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Kei HP:432/760 MP:370/398
+2-Raphael HP:286/623 MP:191/279
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Yamata-no-Orochi lanza hielo a Raphael
+Raphael bloquea el ataque de Yamata-no-Orochi
+Raphael termina con HP:286/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:432/760 MP:370/398
+B-Raphael HP:286/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:457/597 MP:342/347
+B-Mou-Ryo HP:182/238 MP:107/107
+C-Mushussu HP:343/399 MP:179/179
+D-Yamata-no-Orochi HP:271/662 MP:75/131
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Mushussu
+3-Mou-Ryo
+4-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Kei HP:432/760 MP:370/398
+2-Raphael HP:286/623 MP:191/279
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Makoto ataca a Raphael
+Raphael recibe 38 de daño
+Raphael termina con HP:248/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:432/760 MP:370/398
+B-Raphael HP:248/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:457/597 MP:342/347
+B-Mou-Ryo HP:182/238 MP:107/107
+C-Mushussu HP:343/399 MP:179/179
+D-Yamata-no-Orochi HP:271/662 MP:75/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Mou-Ryo
+3-Yamata-no-Orochi
+4-Makoto
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Magatsuhi HP:602/851 MP:142/170
+2-Chemtrail HP:264/437 MP:303/423
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Chemtrail ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:432/760 MP:370/398
+B-Raphael HP:248/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:457/597 MP:342/347
+B-Mou-Ryo HP:182/238 MP:107/107
+C-Chemtrail HP:264/437 MP:303/423
+D-Yamata-no-Orochi HP:271/662 MP:75/131
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mou-Ryo
+2-Yamata-no-Orochi
+3-Makoto
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:432/760 MP:370/398
+B-Raphael HP:248/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:457/597 MP:342/347
+B-Mou-Ryo HP:182/238 MP:107/107
+C-Chemtrail HP:264/437 MP:303/423
+D-Yamata-no-Orochi HP:271/662 MP:75/131
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Kei
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Makoto HP:457/597 MP:342/347
+2-Mou-Ryo HP:182/238 MP:107/107
+3-Chemtrail HP:264/437 MP:303/423
+4-Yamata-no-Orochi HP:271/662 MP:75/131
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Raphael ataca a Makoto
+Makoto es resistente el ataque de Raphael
+Makoto recibe 26 de daño
+Makoto termina con HP:431/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:432/760 MP:370/398
+B-Raphael HP:248/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:342/347
+B-Mou-Ryo HP:182/238 MP:107/107
+C-Chemtrail HP:264/437 MP:303/423
+D-Yamata-no-Orochi HP:271/662 MP:75/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Raphael
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Makoto HP:431/597 MP:342/347
+2-Mou-Ryo HP:182/238 MP:107/107
+3-Chemtrail HP:264/437 MP:303/423
+4-Yamata-no-Orochi HP:271/662 MP:75/131
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kei dispara a Mou-Ryo
+Mou-Ryo recibe 15 de daño
+Mou-Ryo termina con HP:167/238
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:432/760 MP:370/398
+B-Raphael HP:248/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:342/347
+B-Mou-Ryo HP:167/238 MP:107/107
+C-Chemtrail HP:264/437 MP:303/423
+D-Yamata-no-Orochi HP:271/662 MP:75/131
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Yamata-no-Orochi
+3-Makoto
+4-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Kei HP:432/760 MP:370/398
+2-Raphael HP:248/623 MP:191/279
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Chemtrail ataca a Raphael
+Raphael recibe 47 de daño
+Raphael termina con HP:201/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:432/760 MP:370/398
+B-Raphael HP:201/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:342/347
+B-Mou-Ryo HP:167/238 MP:107/107
+C-Chemtrail HP:264/437 MP:303/423
+D-Yamata-no-Orochi HP:271/662 MP:75/131
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Makoto
+3-Mou-Ryo
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Yamata-no-Orochi use
+1-Bufudyne MP:14
+2-Megaton Press MP:17
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Kei HP:432/760 MP:370/398
+2-Raphael HP:201/623 MP:191/279
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Yamata-no-Orochi use
+1-Bufudyne MP:14
+2-Megaton Press MP:17
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Kei HP:432/760 MP:370/398
+2-Raphael HP:201/623 MP:191/279
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Yamata-no-Orochi ataca a Kei
+Kei es resistente el ataque de Yamata-no-Orochi
+Kei recibe 25 de daño
+Kei termina con HP:407/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:407/760 MP:370/398
+B-Raphael HP:201/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:342/347
+B-Mou-Ryo HP:167/238 MP:107/107
+C-Chemtrail HP:264/437 MP:303/423
+D-Yamata-no-Orochi HP:271/662 MP:75/131
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Mou-Ryo
+3-Chemtrail
+4-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Hamaon MP:10
+2-Tathlum Shot MP:7
+3-Bufula MP:8
+4-Grand Tack MP:11
+5-Dia MP:5
+6-Samarecarm MP:40
+7-Stigma Attack MP:20
+8-Agi MP:5
+9-Cancelar
+INPUT: 8
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Kei HP:407/760 MP:370/398
+2-Raphael HP:201/623 MP:191/279
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Makoto lanza fuego a Raphael
+Raphael es débil contra el ataque de Makoto
+Raphael recibe 106 de daño
+Raphael termina con HP:95/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:407/760 MP:370/398
+B-Raphael HP:95/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:337/347
+B-Mou-Ryo HP:167/238 MP:107/107
+C-Chemtrail HP:264/437 MP:303/423
+D-Yamata-no-Orochi HP:271/662 MP:75/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mou-Ryo
+2-Chemtrail
+3-Yamata-no-Orochi
+4-Makoto
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mou-Ryo
+1-Kei HP:407/760 MP:370/398
+2-Raphael HP:95/623 MP:191/279
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mou-Ryo
+1-Kei HP:407/760 MP:370/398
+2-Raphael HP:95/623 MP:191/279
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Magatsuhi HP:602/851 MP:142/170
+2-Mushussu HP:343/399 MP:179/179
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Mushussu ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:407/760 MP:370/398
+B-Raphael HP:95/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:337/347
+B-Mushussu HP:343/399 MP:179/179
+C-Chemtrail HP:264/437 MP:303/423
+D-Yamata-no-Orochi HP:271/662 MP:75/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Yamata-no-Orochi
+3-Makoto
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Kei HP:407/760 MP:370/398
+2-Raphael HP:95/623 MP:191/279
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Chemtrail ataca a Kei
+Kei es resistente el ataque de Chemtrail
+Kei recibe 23 de daño
+Kei termina con HP:384/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:384/760 MP:370/398
+B-Raphael HP:95/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:337/347
+B-Mushussu HP:343/399 MP:179/179
+C-Chemtrail HP:264/437 MP:303/423
+D-Yamata-no-Orochi HP:271/662 MP:75/131
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Kei
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Makoto HP:431/597 MP:337/347
+2-Mushussu HP:343/399 MP:179/179
+3-Chemtrail HP:264/437 MP:303/423
+4-Yamata-no-Orochi HP:271/662 MP:75/131
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Raphael ataca a Yamata-no-Orochi
+Yamata-no-Orochi recibe 52 de daño
+Yamata-no-Orochi termina con HP:219/662
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:384/760 MP:370/398
+B-Raphael HP:95/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:337/347
+B-Mushussu HP:343/399 MP:179/179
+C-Chemtrail HP:264/437 MP:303/423
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Raphael
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Makoto HP:431/597 MP:337/347
+2-Mushussu HP:343/399 MP:179/179
+3-Chemtrail HP:264/437 MP:303/423
+4-Yamata-no-Orochi HP:219/662 MP:75/131
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kei ataca a Chemtrail
+Chemtrail recibe 19 de daño
+Chemtrail termina con HP:245/437
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:384/760 MP:370/398
+B-Raphael HP:95/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:337/347
+B-Mushussu HP:343/399 MP:179/179
+C-Chemtrail HP:245/437 MP:303/423
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Yamata-no-Orochi
+3-Makoto
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Magatsuhi HP:602/851 MP:142/170
+2-Mou-Ryo HP:167/238 MP:107/107
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Magatsuhi ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:384/760 MP:370/398
+B-Raphael HP:95/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:337/347
+B-Mushussu HP:343/399 MP:179/179
+C-Magatsuhi HP:602/851 MP:142/170
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Makoto
+3-Mushussu
+4-Magatsuhi
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Kei HP:384/760 MP:370/398
+2-Raphael HP:95/623 MP:191/279
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Yamata-no-Orochi ataca a Raphael
+Raphael recibe 50 de daño
+Raphael termina con HP:45/623
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:384/760 MP:370/398
+B-Raphael HP:45/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:337/347
+B-Mushussu HP:343/399 MP:179/179
+C-Magatsuhi HP:602/851 MP:142/170
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Mushussu
+3-Magatsuhi
+4-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mou-Ryo HP:167/238 MP:107/107
+2-Chemtrail HP:245/437 MP:303/423
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Mushussu HP:343/399 MP:179/179 (Puesto 2)
+2-Magatsuhi HP:602/851 MP:142/170 (Puesto 3)
+3-Yamata-no-Orochi HP:219/662 MP:75/131 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Hamaon MP:10
+2-Tathlum Shot MP:7
+3-Bufula MP:8
+4-Grand Tack MP:11
+5-Dia MP:5
+6-Samarecarm MP:40
+7-Stigma Attack MP:20
+8-Agi MP:5
+9-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Kei HP:384/760 MP:370/398
+2-Raphael HP:45/623 MP:191/279
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto dispara a Kei
+Kei es resistente el ataque de Makoto
+Kei recibe 59 de daño
+Kei termina con HP:325/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:325/760 MP:370/398
+B-Raphael HP:45/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:326/347
+B-Mushussu HP:343/399 MP:179/179
+C-Magatsuhi HP:602/851 MP:142/170
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Magatsuhi
+3-Yamata-no-Orochi
+4-Makoto
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Kei HP:325/760 MP:370/398
+2-Raphael HP:45/623 MP:191/279
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ataca a Kei
+Kei es resistente el ataque de Mushussu
+Kei recibe 16 de daño
+Kei termina con HP:309/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:309/760 MP:370/398
+B-Raphael HP:45/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:326/347
+B-Mushussu HP:343/399 MP:179/179
+C-Magatsuhi HP:602/851 MP:142/170
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yamata-no-Orochi
+3-Makoto
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:309/760 MP:370/398
+B-Raphael HP:45/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:326/347
+B-Mushussu HP:343/399 MP:179/179
+C-Magatsuhi HP:602/851 MP:142/170
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Makoto
+3-Mushussu
+4-Magatsuhi
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mou-Ryo HP:167/238 MP:107/107
+2-Chemtrail HP:245/437 MP:303/423
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Mou-Ryo ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:309/760 MP:370/398
+B-Raphael HP:45/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:326/347
+B-Mushussu HP:343/399 MP:179/179
+C-Magatsuhi HP:602/851 MP:142/170
+D-Mou-Ryo HP:167/238 MP:107/107
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Kei
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:309/760 MP:370/398
+B-Raphael HP:45/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:326/347
+B-Mushussu HP:343/399 MP:179/179
+C-Magatsuhi HP:602/851 MP:142/170
+D-Mou-Ryo HP:167/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Raphael
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:309/760 MP:370/398
+B-Raphael HP:45/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:326/347
+B-Mushussu HP:343/399 MP:179/179
+C-Magatsuhi HP:602/851 MP:142/170
+D-Mou-Ryo HP:167/238 MP:107/107
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Kei
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Makoto HP:431/597 MP:326/347
+2-Mushussu HP:343/399 MP:179/179
+3-Magatsuhi HP:602/851 MP:142/170
+4-Mou-Ryo HP:167/238 MP:107/107
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Makoto HP:431/597 MP:326/347
+2-Mushussu HP:343/399 MP:179/179
+3-Magatsuhi HP:602/851 MP:142/170
+4-Mou-Ryo HP:167/238 MP:107/107
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Raphael ataca a Magatsuhi
+Magatsuhi recibe 52 de daño
+Magatsuhi termina con HP:550/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:309/760 MP:370/398
+B-Raphael HP:45/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:326/347
+B-Mushussu HP:343/399 MP:179/179
+C-Magatsuhi HP:550/851 MP:142/170
+D-Mou-Ryo HP:167/238 MP:107/107
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Makoto
+3-Mushussu
+4-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Kei HP:309/760 MP:370/398
+2-Raphael HP:45/623 MP:191/279
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Magatsuhi lanza hielo a Kei
+Kei es resistente el ataque de Magatsuhi
+Kei recibe 62 de daño
+Kei termina con HP:247/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:247/760 MP:370/398
+B-Raphael HP:45/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:326/347
+B-Mushussu HP:343/399 MP:179/179
+C-Magatsuhi HP:550/851 MP:128/170
+D-Mou-Ryo HP:167/238 MP:107/107
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Mushussu
+3-Mou-Ryo
+4-Magatsuhi
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Yamata-no-Orochi HP:219/662 MP:75/131
+2-Chemtrail HP:245/437 MP:303/423
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Mushussu HP:343/399 MP:179/179 (Puesto 2)
+2-Magatsuhi HP:550/851 MP:128/170 (Puesto 3)
+3-Mou-Ryo HP:167/238 MP:107/107 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Yamata-no-Orochi ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:247/760 MP:370/398
+B-Raphael HP:45/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:326/347
+B-Mushussu HP:343/399 MP:179/179
+C-Magatsuhi HP:550/851 MP:128/170
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Yamata-no-Orochi
+3-Magatsuhi
+4-Makoto
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:247/760 MP:370/398
+B-Raphael HP:45/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:326/347
+B-Mushussu HP:343/399 MP:179/179
+C-Magatsuhi HP:550/851 MP:128/170
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Magatsuhi
+3-Makoto
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:247/760 MP:370/398
+B-Raphael HP:45/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:326/347
+B-Mushussu HP:343/399 MP:179/179
+C-Magatsuhi HP:550/851 MP:128/170
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Makoto
+3-Mushussu
+4-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Kei HP:247/760 MP:370/398
+2-Raphael HP:45/623 MP:191/279
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Magatsuhi ataca a Kei
+Kei es resistente el ataque de Magatsuhi
+Kei recibe 32 de daño
+Kei termina con HP:215/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:215/760 MP:370/398
+B-Raphael HP:45/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:326/347
+B-Mushussu HP:343/399 MP:179/179
+C-Magatsuhi HP:550/851 MP:128/170
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Mushussu
+3-Yamata-no-Orochi
+4-Magatsuhi
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:215/760 MP:370/398
+B-Raphael HP:45/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:326/347
+B-Mushussu HP:343/399 MP:179/179
+C-Magatsuhi HP:550/851 MP:128/170
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Yamata-no-Orochi
+3-Magatsuhi
+4-Makoto
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mou-Ryo HP:167/238 MP:107/107
+2-Chemtrail HP:245/437 MP:303/423
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Mou-Ryo ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:215/760 MP:370/398
+B-Raphael HP:45/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:326/347
+B-Mou-Ryo HP:167/238 MP:107/107
+C-Magatsuhi HP:550/851 MP:128/170
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Kei
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Makoto HP:431/597 MP:326/347
+2-Mou-Ryo HP:167/238 MP:107/107
+3-Magatsuhi HP:550/851 MP:128/170
+4-Yamata-no-Orochi HP:219/662 MP:75/131
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Makoto HP:431/597 MP:326/347
+2-Mou-Ryo HP:167/238 MP:107/107
+3-Magatsuhi HP:550/851 MP:128/170
+4-Yamata-no-Orochi HP:219/662 MP:75/131
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Raphael use
+1-God's Tornado MP:50
+2-Diarahan MP:16
+3-Stigma Attack MP:20
+4-Serpent of Sheol MP:45
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Makoto HP:431/597 MP:326/347
+2-Mou-Ryo HP:167/238 MP:107/107
+3-Magatsuhi HP:550/851 MP:128/170
+4-Yamata-no-Orochi HP:219/662 MP:75/131
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Raphael ataca a Magatsuhi
+Magatsuhi recibe 52 de daño
+Magatsuhi termina con HP:498/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:215/760 MP:370/398
+B-Raphael HP:45/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:326/347
+B-Mou-Ryo HP:167/238 MP:107/107
+C-Magatsuhi HP:498/851 MP:128/170
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Raphael
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Makoto HP:431/597 MP:326/347
+2-Mou-Ryo HP:167/238 MP:107/107
+3-Magatsuhi HP:498/851 MP:128/170
+4-Yamata-no-Orochi HP:219/662 MP:75/131
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kei ataca a Mou-Ryo
+Mou-Ryo recibe 19 de daño
+Mou-Ryo termina con HP:148/238
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:215/760 MP:370/398
+B-Raphael HP:45/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:326/347
+B-Mou-Ryo HP:148/238 MP:107/107
+C-Magatsuhi HP:498/851 MP:128/170
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yamata-no-Orochi
+3-Makoto
+4-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Kei HP:215/760 MP:370/398
+2-Raphael HP:45/623 MP:191/279
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Magatsuhi ataca a Kei
+Kei es resistente el ataque de Magatsuhi
+Kei recibe 32 de daño
+Kei termina con HP:183/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:183/760 MP:370/398
+B-Raphael HP:45/623 MP:191/279
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:326/347
+B-Mou-Ryo HP:148/238 MP:107/107
+C-Magatsuhi HP:498/851 MP:128/170
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Makoto
+3-Mou-Ryo
+4-Magatsuhi
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mushussu HP:343/399 MP:179/179
+2-Chemtrail HP:245/437 MP:303/423
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Kei HP:183/760 MP:370/398
+2-Raphael HP:45/623 MP:191/279
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Yamata-no-Orochi ataca a Raphael
+Raphael recibe 50 de daño
+Raphael termina con HP:0/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:183/760 MP:370/398
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:326/347
+B-Mou-Ryo HP:148/238 MP:107/107
+C-Magatsuhi HP:498/851 MP:128/170
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Mou-Ryo
+3-Magatsuhi
+4-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:183/760 MP:370/398
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:326/347
+B-Mou-Ryo HP:148/238 MP:107/107
+C-Magatsuhi HP:498/851 MP:128/170
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mou-Ryo
+2-Magatsuhi
+3-Yamata-no-Orochi
+4-Makoto
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:183/760 MP:370/398
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:326/347
+B-Mou-Ryo HP:148/238 MP:107/107
+C-Magatsuhi HP:498/851 MP:128/170
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Yamata-no-Orochi
+3-Makoto
+4-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mushussu HP:343/399 MP:179/179
+2-Chemtrail HP:245/437 MP:303/423
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:183/760 MP:370/398
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:326/347
+B-Mou-Ryo HP:148/238 MP:107/107
+C-Mushussu HP:343/399 MP:179/179
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Makoto
+3-Mou-Ryo
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Kei HP:183/760 MP:370/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yamata-no-Orochi ataca a Kei
+Kei es resistente el ataque de Yamata-no-Orochi
+Kei recibe 25 de daño
+Kei termina con HP:158/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:158/760 MP:370/398
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:326/347
+B-Mou-Ryo HP:148/238 MP:107/107
+C-Mushussu HP:343/399 MP:179/179
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:158/760 MP:370/398
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:326/347
+B-Mou-Ryo HP:148/238 MP:107/107
+C-Mushussu HP:343/399 MP:179/179
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Zandyne MP:14
+2-Hama MP:6
+3-Mudo MP:6
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Makoto HP:431/597 MP:326/347
+2-Mou-Ryo HP:148/238 MP:107/107
+3-Mushussu HP:343/399 MP:179/179
+4-Yamata-no-Orochi HP:219/662 MP:75/131
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kei ataca con luz a Mushussu
+Kei ha fallado el ataque
+Mushussu termina con HP:343/399
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:158/760 MP:364/398
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:326/347
+B-Mou-Ryo HP:148/238 MP:107/107
+C-Mushussu HP:343/399 MP:179/179
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Makoto
+3-Mushussu
+4-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Kei HP:158/760 MP:364/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Kei HP:158/760 MP:364/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yamata-no-Orochi ataca a Kei
+Kei es resistente el ataque de Yamata-no-Orochi
+Kei recibe 25 de daño
+Kei termina con HP:133/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:133/760 MP:364/398
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:326/347
+B-Mou-Ryo HP:148/238 MP:107/107
+C-Mushussu HP:343/399 MP:179/179
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Mushussu
+3-Mou-Ryo
+4-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Kei HP:133/760 MP:364/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto dispara a Kei
+Kei es resistente el ataque de Makoto
+Kei recibe 28 de daño
+Kei termina con HP:105/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:105/760 MP:364/398
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:326/347
+B-Mou-Ryo HP:148/238 MP:107/107
+C-Mushussu HP:343/399 MP:179/179
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Mou-Ryo
+3-Yamata-no-Orochi
+4-Makoto
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Kei HP:105/760 MP:364/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Magatsuhi HP:498/851 MP:128/170
+2-Chemtrail HP:245/437 MP:303/423
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Chemtrail ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:105/760 MP:364/398
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:326/347
+B-Mou-Ryo HP:148/238 MP:107/107
+C-Chemtrail HP:245/437 MP:303/423
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mou-Ryo
+2-Yamata-no-Orochi
+3-Makoto
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Magatsuhi HP:498/851 MP:128/170
+2-Mushussu HP:343/399 MP:179/179
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Mou-Ryo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:105/760 MP:364/398
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:326/347
+B-Mou-Ryo HP:148/238 MP:107/107
+C-Chemtrail HP:245/437 MP:303/423
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Makoto
+3-Chemtrail
+4-Mou-Ryo
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:105/760 MP:364/398
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:326/347
+B-Mou-Ryo HP:148/238 MP:107/107
+C-Chemtrail HP:245/437 MP:303/423
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Chemtrail
+3-Mou-Ryo
+4-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Kei HP:105/760 MP:364/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Kei HP:105/760 MP:364/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Kei HP:105/760 MP:364/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca a Kei
+Kei es resistente el ataque de Makoto
+Kei recibe 19 de daño
+Kei termina con HP:86/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:86/760 MP:364/398
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:326/347
+B-Mou-Ryo HP:148/238 MP:107/107
+C-Chemtrail HP:245/437 MP:303/423
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Zandyne MP:14
+2-Hama MP:6
+3-Mudo MP:6
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Makoto HP:431/597 MP:326/347
+2-Mou-Ryo HP:148/238 MP:107/107
+3-Chemtrail HP:245/437 MP:303/423
+4-Yamata-no-Orochi HP:219/662 MP:75/131
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kei ataca con luz a Mou-Ryo
+Mou-Ryo es débil contra el ataque de Kei
+Mou-Ryo ha sido eliminado
+Mou-Ryo termina con HP:0/238
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:86/760 MP:358/398
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:326/347
+B-
+C-Chemtrail HP:245/437 MP:303/423
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Zandyne MP:14
+2-Hama MP:6
+3-Mudo MP:6
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Makoto HP:431/597 MP:326/347
+2-Chemtrail HP:245/437 MP:303/423
+3-Yamata-no-Orochi HP:219/662 MP:75/131
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Zandyne MP:14
+2-Hama MP:6
+3-Mudo MP:6
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Makoto HP:431/597 MP:326/347
+2-Chemtrail HP:245/437 MP:303/423
+3-Yamata-no-Orochi HP:219/662 MP:75/131
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Kei ataca con oscuridad a Yamata-no-Orochi
+Kei ha fallado el ataque
+Yamata-no-Orochi termina con HP:219/662
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:86/760 MP:352/398
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:326/347
+B-
+C-Chemtrail HP:245/437 MP:303/423
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Yamata-no-Orochi
+3-Makoto
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:86/760 MP:352/398
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:326/347
+B-
+C-Chemtrail HP:245/437 MP:303/423
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Makoto
+3-Chemtrail
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:86/760 MP:352/398
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:326/347
+B-
+C-Chemtrail HP:245/437 MP:303/423
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Chemtrail
+3-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Hamaon MP:10
+2-Tathlum Shot MP:7
+3-Bufula MP:8
+4-Grand Tack MP:11
+5-Dia MP:5
+6-Samarecarm MP:40
+7-Stigma Attack MP:20
+8-Agi MP:5
+9-Cancelar
+INPUT: 8
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Kei HP:86/760 MP:352/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto lanza fuego a Kei
+Kei es resistente el ataque de Makoto
+Kei recibe 35 de daño
+Kei termina con HP:51/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:51/760 MP:352/398
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:321/347
+B-
+C-Chemtrail HP:245/437 MP:303/423
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Yamata-no-Orochi
+3-Makoto
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Magatsuhi HP:498/851 MP:128/170
+2-Mushussu HP:343/399 MP:179/179
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Kei HP:51/760 MP:352/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Chemtrail ataca a Kei
+Kei es resistente el ataque de Chemtrail
+Kei recibe 23 de daño
+Kei termina con HP:28/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:28/760 MP:352/398
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:321/347
+B-
+C-Chemtrail HP:245/437 MP:303/423
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Makoto HP:431/597 MP:321/347
+2-Chemtrail HP:245/437 MP:303/423
+3-Yamata-no-Orochi HP:219/662 MP:75/131
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Kei ataca a Chemtrail
+Chemtrail recibe 19 de daño
+Chemtrail termina con HP:226/437
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:28/760 MP:352/398
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:321/347
+B-
+C-Chemtrail HP:226/437 MP:303/423
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Yamata-no-Orochi
+3-Makoto
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Kei HP:28/760 MP:352/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Chemtrail ataca a Kei
+Kei es resistente el ataque de Chemtrail
+Kei recibe 23 de daño
+Kei termina con HP:5/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:5/760 MP:352/398
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:321/347
+B-
+C-Chemtrail HP:226/437 MP:303/423
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Makoto
+3-Chemtrail
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:5/760 MP:352/398
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:321/347
+B-
+C-Chemtrail HP:226/437 MP:303/423
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Chemtrail
+3-Yamata-no-Orochi
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Kei HP:5/760 MP:352/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Kei HP:5/760 MP:352/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Kei HP:5/760 MP:352/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Kei HP:5/760 MP:352/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:5/760 MP:352/398
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:321/347
+B-
+C-Chemtrail HP:226/437 MP:303/423
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Yamata-no-Orochi
+3-Makoto
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:5/760 MP:352/398
+B-
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:431/597 MP:321/347
+B-
+C-Chemtrail HP:226/437 MP:303/423
+D-Yamata-no-Orochi HP:219/662 MP:75/131
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yamata-no-Orochi
+2-Makoto
+3-Chemtrail
+----------------------------------------
+Seleccione una acción para Yamata-no-Orochi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yamata-no-Orochi
+1-Kei HP:5/760 MP:352/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yamata-no-Orochi ataca a Kei
+Kei es resistente el ataque de Yamata-no-Orochi
+Kei recibe 25 de daño
+Kei termina con HP:0/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Makoto (J2)

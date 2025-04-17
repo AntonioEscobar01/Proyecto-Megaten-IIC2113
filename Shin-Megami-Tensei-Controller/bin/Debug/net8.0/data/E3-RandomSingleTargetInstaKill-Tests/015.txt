@@ -1,0 +1,3921 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 14
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Mokoi HP:74/74 MP:36/36
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-Alilat HP:441/441 MP:428/428
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Nergal HP:644/644 MP:288/288
+C-Susano-o HP:927/927 MP:184/184
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Quetzalcoatl
+2-Alilat
+3-Nanashi
+4-Mokoi
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Quetzalcoatl use
+1-Trisagion MP:22
+2-Mazandyne MP:32
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Quetzalcoatl
+1-Makoto HP:597/597 MP:347/347
+2-Nergal HP:644/644 MP:288/288
+3-Susano-o HP:927/927 MP:184/184
+4-Red Rider HP:917/917 MP:183/183
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Quetzalcoatl ataca a Nergal
+Nergal recibe 46 de daño
+Nergal termina con HP:598/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Mokoi HP:74/74 MP:36/36
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-Alilat HP:441/441 MP:428/428
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Nergal HP:598/644 MP:288/288
+C-Susano-o HP:927/927 MP:184/184
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Nanashi
+3-Mokoi
+4-Quetzalcoatl
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Mokoi HP:74/74 MP:36/36
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-Alilat HP:441/441 MP:428/428
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Nergal HP:598/644 MP:288/288
+C-Susano-o HP:927/927 MP:184/184
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Mokoi
+3-Quetzalcoatl
+4-Alilat
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Makoto HP:597/597 MP:347/347
+2-Nergal HP:598/644 MP:288/288
+3-Susano-o HP:927/927 MP:184/184
+4-Red Rider HP:917/917 MP:183/183
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nanashi dispara a Susano-o
+Susano-o recibe 31 de daño
+Susano-o termina con HP:896/927
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Mokoi HP:74/74 MP:36/36
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-Alilat HP:441/441 MP:428/428
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Nergal HP:598/644 MP:288/288
+C-Susano-o HP:896/927 MP:184/184
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mokoi
+2-Quetzalcoatl
+3-Alilat
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Mokoi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mastema HP:399/399 MP:387/387
+2-Ammut HP:709/709 MP:140/140
+3-Kama HP:574/574 MP:257/257
+4-Centaur HP:104/104 MP:19/19
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kama ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Kama HP:574/574 MP:257/257
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-Alilat HP:441/441 MP:428/428
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Nergal HP:598/644 MP:288/288
+C-Susano-o HP:896/927 MP:184/184
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Quetzalcoatl
+2-Alilat
+3-Nanashi
+4-Kama
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mokoi HP:74/74 MP:36/36
+2-Mastema HP:399/399 MP:387/387
+3-Ammut HP:709/709 MP:140/140
+4-Centaur HP:104/104 MP:19/19
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Ammut ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Kama HP:574/574 MP:257/257
+C-Ammut HP:709/709 MP:140/140
+D-Alilat HP:441/441 MP:428/428
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Nergal HP:598/644 MP:288/288
+C-Susano-o HP:896/927 MP:184/184
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Nanashi
+3-Kama
+4-Ammut
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Makoto HP:597/597 MP:347/347
+2-Nergal HP:598/644 MP:288/288
+3-Susano-o HP:896/927 MP:184/184
+4-Red Rider HP:917/917 MP:183/183
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Kama HP:574/574 MP:257/257
+C-Ammut HP:709/709 MP:140/140
+D-Alilat HP:441/441 MP:428/428
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Nergal HP:598/644 MP:288/288
+C-Susano-o HP:896/927 MP:184/184
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Kama
+3-Ammut
+4-Alilat
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Kama HP:574/574 MP:257/257
+C-Ammut HP:709/709 MP:140/140
+D-Alilat HP:441/441 MP:428/428
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Nergal HP:598/644 MP:288/288
+C-Susano-o HP:896/927 MP:184/184
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Susano-o
+2-Red Rider
+3-Nergal
+4-Makoto
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Susano-o
+1-Nanashi HP:140/140 MP:411/411
+2-Kama HP:574/574 MP:257/257
+3-Ammut HP:709/709 MP:140/140
+4-Alilat HP:441/441 MP:428/428
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Susano-o ataca a Kama
+Kama es resistente el ataque de Susano-o
+Kama recibe 36 de daño
+Kama termina con HP:538/574
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Kama HP:538/574 MP:257/257
+C-Ammut HP:709/709 MP:140/140
+D-Alilat HP:441/441 MP:428/428
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Nergal HP:598/644 MP:288/288
+C-Susano-o HP:896/927 MP:184/184
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Red Rider
+2-Nergal
+3-Makoto
+4-Susano-o
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Red Rider
+1-Nanashi HP:140/140 MP:411/411
+2-Kama HP:538/574 MP:257/257
+3-Ammut HP:709/709 MP:140/140
+4-Alilat HP:441/441 MP:428/428
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Red Rider ataca a Nanashi
+Nanashi recibe 71 de daño
+Nanashi termina con HP:69/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:69/140 MP:411/411
+B-Kama HP:538/574 MP:257/257
+C-Ammut HP:709/709 MP:140/140
+D-Alilat HP:441/441 MP:428/428
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Nergal HP:598/644 MP:288/288
+C-Susano-o HP:896/927 MP:184/184
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Makoto
+3-Susano-o
+4-Red Rider
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nergal use
+1-Hamaon MP:10
+2-Heaven's Bow MP:26
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Nanashi HP:69/140 MP:411/411
+2-Kama HP:538/574 MP:257/257
+3-Ammut HP:709/709 MP:140/140
+4-Alilat HP:441/441 MP:428/428
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nergal ataca con oscuridad a Kama
+Kama ha sido eliminado
+Kama termina con HP:0/574
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:69/140 MP:411/411
+B-
+C-Ammut HP:709/709 MP:140/140
+D-Alilat HP:441/441 MP:428/428
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Nergal HP:598/644 MP:278/288
+C-Susano-o HP:896/927 MP:184/184
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Susano-o
+3-Red Rider
+4-Nergal
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Nanashi HP:69/140 MP:411/411
+2-Ammut HP:709/709 MP:140/140
+3-Alilat HP:441/441 MP:428/428
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Makoto ataca a Alilat
+Alilat es resistente el ataque de Makoto
+Alilat recibe 19 de daño
+Alilat termina con HP:422/441
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:69/140 MP:411/411
+B-
+C-Ammut HP:709/709 MP:140/140
+D-Alilat HP:422/441 MP:428/428
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Nergal HP:598/644 MP:278/288
+C-Susano-o HP:896/927 MP:184/184
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Ammut
+3-Nanashi
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alilat use
+1-Diarahan MP:16
+2-Megidolaon MP:60
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alilat use
+1-Diarahan MP:16
+2-Megidolaon MP:60
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alilat use
+1-Diarahan MP:16
+2-Megidolaon MP:60
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Nanashi HP:69/140 MP:411/411
+2-Ammut HP:709/709 MP:140/140
+3-Alilat HP:422/441 MP:428/428
+4-Mokoi HP:74/74 MP:36/36
+5-Quetzalcoatl HP:553/553 MP:247/247
+6-Mastema HP:399/399 MP:387/387
+7-Centaur HP:104/104 MP:19/19
+8-Cancelar
+INPUT: 5
+----------------------------------------
+Alilat cura a Quetzalcoatl
+Quetzalcoatl recibe 553 de HP
+Quetzalcoatl termina con HP:553/553
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:69/140 MP:411/411
+B-
+C-Ammut HP:709/709 MP:140/140
+D-Alilat HP:422/441 MP:412/428
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-Nergal HP:598/644 MP:278/288
+C-Susano-o HP:896/927 MP:184/184
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Nanashi
+3-Alilat
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Makoto HP:597/597 MP:347/347
+2-Nergal HP:598/644 MP:278/288
+3-Susano-o HP:896/927 MP:184/184
+4-Red Rider HP:917/917 MP:183/183
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Makoto
+Makoto es resistente el ataque de Ammut
+Makoto recibe 27 de daño
+Makoto termina con HP:570/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:69/140 MP:411/411
+B-
+C-Ammut HP:709/709 MP:140/140
+D-Alilat HP:422/441 MP:412/428
+Equipo de Makoto (J2)
+A-Makoto HP:570/597 MP:347/347
+B-Nergal HP:598/644 MP:278/288
+C-Susano-o HP:896/927 MP:184/184
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Alilat
+3-Ammut
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:69/140 MP:411/411
+B-
+C-Ammut HP:709/709 MP:140/140
+D-Alilat HP:422/441 MP:412/428
+Equipo de Makoto (J2)
+A-Makoto HP:570/597 MP:347/347
+B-Nergal HP:598/644 MP:278/288
+C-Susano-o HP:896/927 MP:184/184
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Alilat
+2-Ammut
+3-Nanashi
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alilat use
+1-Diarahan MP:16
+2-Megidolaon MP:60
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Nanashi HP:69/140 MP:411/411
+2-Ammut HP:709/709 MP:140/140
+3-Alilat HP:422/441 MP:412/428
+4-Mokoi HP:74/74 MP:36/36
+5-Quetzalcoatl HP:553/553 MP:247/247
+6-Mastema HP:399/399 MP:387/387
+7-Centaur HP:104/104 MP:19/19
+8-Cancelar
+INPUT: 7
+----------------------------------------
+Alilat cura a Centaur
+Centaur recibe 104 de HP
+Centaur termina con HP:104/104
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:69/140 MP:411/411
+B-
+C-Ammut HP:709/709 MP:140/140
+D-Alilat HP:422/441 MP:396/428
+Equipo de Makoto (J2)
+A-Makoto HP:570/597 MP:347/347
+B-Nergal HP:598/644 MP:278/288
+C-Susano-o HP:896/927 MP:184/184
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Susano-o
+2-Red Rider
+3-Nergal
+4-Makoto
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Power HP:407/407 MP:81/81
+2-Anzu HP:596/596 MP:118/118
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Anzu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:69/140 MP:411/411
+B-
+C-Ammut HP:709/709 MP:140/140
+D-Alilat HP:422/441 MP:396/428
+Equipo de Makoto (J2)
+A-Makoto HP:570/597 MP:347/347
+B-Nergal HP:598/644 MP:278/288
+C-Anzu HP:596/596 MP:118/118
+D-Red Rider HP:917/917 MP:183/183
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Red Rider
+2-Nergal
+3-Makoto
+4-Anzu
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Red Rider use
+1-Antichthon MP:80
+2-War Cry MP:45
+3-Purple Smoke MP:14
+4-Trisagion MP:22
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Red Rider
+1-Nanashi HP:69/140 MP:411/411
+2-Ammut HP:709/709 MP:140/140
+3-Alilat HP:422/441 MP:396/428
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Red Rider lanza fuego a Ammut
+Ammut recibe 154 de daño
+Ammut termina con HP:555/709
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:69/140 MP:411/411
+B-
+C-Ammut HP:555/709 MP:140/140
+D-Alilat HP:422/441 MP:396/428
+Equipo de Makoto (J2)
+A-Makoto HP:570/597 MP:347/347
+B-Nergal HP:598/644 MP:278/288
+C-Anzu HP:596/596 MP:118/118
+D-Red Rider HP:917/917 MP:161/183
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Makoto
+3-Anzu
+4-Red Rider
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Nanashi HP:69/140 MP:411/411
+2-Ammut HP:555/709 MP:140/140
+3-Alilat HP:422/441 MP:396/428
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nergal ataca a Ammut
+Ammut recibe 54 de daño
+Ammut termina con HP:501/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:69/140 MP:411/411
+B-
+C-Ammut HP:501/709 MP:140/140
+D-Alilat HP:422/441 MP:396/428
+Equipo de Makoto (J2)
+A-Makoto HP:570/597 MP:347/347
+B-Nergal HP:598/644 MP:278/288
+C-Anzu HP:596/596 MP:118/118
+D-Red Rider HP:917/917 MP:161/183
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Anzu
+3-Red Rider
+4-Nergal
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Hama MP:6
+2-Grand Tack MP:11
+3-Iron Judgement MP:8
+4-Nihil Claw MP:11
+5-Diarama MP:9
+6-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Nanashi HP:69/140 MP:411/411
+2-Ammut HP:501/709 MP:140/140
+3-Alilat HP:422/441 MP:396/428
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca con luz a Nanashi
+Nanashi bloquea el ataque de Makoto
+Nanashi termina con HP:69/140
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:69/140 MP:411/411
+B-
+C-Ammut HP:501/709 MP:140/140
+D-Alilat HP:422/441 MP:396/428
+Equipo de Makoto (J2)
+A-Makoto HP:570/597 MP:341/347
+B-Nergal HP:598/644 MP:278/288
+C-Anzu HP:596/596 MP:118/118
+D-Red Rider HP:917/917 MP:161/183
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Ammut
+3-Nanashi
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mokoi HP:74/74 MP:36/36
+2-Quetzalcoatl HP:553/553 MP:247/247
+3-Mastema HP:399/399 MP:387/387
+4-Centaur HP:104/104 MP:19/19
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mokoi HP:74/74 MP:36/36
+2-Quetzalcoatl HP:553/553 MP:247/247
+3-Mastema HP:399/399 MP:387/387
+4-Centaur HP:104/104 MP:19/19
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Centaur ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:69/140 MP:411/411
+B-
+C-Ammut HP:501/709 MP:140/140
+D-Centaur HP:104/104 MP:19/19
+Equipo de Makoto (J2)
+A-Makoto HP:570/597 MP:341/347
+B-Nergal HP:598/644 MP:278/288
+C-Anzu HP:596/596 MP:118/118
+D-Red Rider HP:917/917 MP:161/183
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ammut
+2-Nanashi
+3-Centaur
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Makoto HP:570/597 MP:341/347
+2-Nergal HP:598/644 MP:278/288
+3-Anzu HP:596/596 MP:118/118
+4-Red Rider HP:917/917 MP:161/183
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ammut use
+1-Megaton Press MP:17
+2-War Cry MP:45
+3-Nihil Claw MP:11
+4-Energy Drain MP:10
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Makoto HP:570/597 MP:341/347
+2-Nergal HP:598/644 MP:278/288
+3-Anzu HP:596/596 MP:118/118
+4-Red Rider HP:917/917 MP:161/183
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Makoto
+Makoto es resistente el ataque de Ammut
+Makoto recibe 71 de daño
+Ammut ataca a Makoto
+Makoto es resistente el ataque de Ammut
+Makoto recibe 71 de daño
+Ammut ataca a Makoto
+Makoto es resistente el ataque de Ammut
+Makoto recibe 71 de daño
+Makoto termina con HP:357/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:69/140 MP:411/411
+B-
+C-Ammut HP:501/709 MP:129/140
+D-Centaur HP:104/104 MP:19/19
+Equipo de Makoto (J2)
+A-Makoto HP:357/597 MP:341/347
+B-Nergal HP:598/644 MP:278/288
+C-Anzu HP:596/596 MP:118/118
+D-Red Rider HP:917/917 MP:161/183
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Centaur
+3-Ammut
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Makoto HP:357/597 MP:341/347
+2-Nergal HP:598/644 MP:278/288
+3-Anzu HP:596/596 MP:118/118
+4-Red Rider HP:917/917 MP:161/183
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi dispara a Makoto
+Makoto es resistente el ataque de Nanashi
+Makoto recibe 15 de daño
+Makoto termina con HP:342/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:69/140 MP:411/411
+B-
+C-Ammut HP:501/709 MP:129/140
+D-Centaur HP:104/104 MP:19/19
+Equipo de Makoto (J2)
+A-Makoto HP:342/597 MP:341/347
+B-Nergal HP:598/644 MP:278/288
+C-Anzu HP:596/596 MP:118/118
+D-Red Rider HP:917/917 MP:161/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Centaur
+2-Ammut
+3-Nanashi
+----------------------------------------
+Seleccione una acción para Centaur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mokoi HP:74/74 MP:36/36
+2-Quetzalcoatl HP:553/553 MP:247/247
+3-Alilat HP:422/441 MP:396/428
+4-Mastema HP:399/399 MP:387/387
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Mastema ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:69/140 MP:411/411
+B-
+C-Ammut HP:501/709 MP:129/140
+D-Mastema HP:399/399 MP:387/387
+Equipo de Makoto (J2)
+A-Makoto HP:342/597 MP:341/347
+B-Nergal HP:598/644 MP:278/288
+C-Anzu HP:596/596 MP:118/118
+D-Red Rider HP:917/917 MP:161/183
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ammut
+2-Nanashi
+3-Mastema
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Makoto HP:342/597 MP:341/347
+2-Nergal HP:598/644 MP:278/288
+3-Anzu HP:596/596 MP:118/118
+4-Red Rider HP:917/917 MP:161/183
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Ammut ataca a Anzu
+Anzu recibe 54 de daño
+Anzu termina con HP:542/596
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:69/140 MP:411/411
+B-
+C-Ammut HP:501/709 MP:129/140
+D-Mastema HP:399/399 MP:387/387
+Equipo de Makoto (J2)
+A-Makoto HP:342/597 MP:341/347
+B-Nergal HP:598/644 MP:278/288
+C-Anzu HP:542/596 MP:118/118
+D-Red Rider HP:917/917 MP:161/183
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Red Rider
+2-Nergal
+3-Makoto
+4-Anzu
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Red Rider
+1-Nanashi HP:69/140 MP:411/411
+2-Ammut HP:501/709 MP:129/140
+3-Mastema HP:399/399 MP:387/387
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Red Rider ataca a Mastema
+Mastema recibe 71 de daño
+Mastema termina con HP:328/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:69/140 MP:411/411
+B-
+C-Ammut HP:501/709 MP:129/140
+D-Mastema HP:328/399 MP:387/387
+Equipo de Makoto (J2)
+A-Makoto HP:342/597 MP:341/347
+B-Nergal HP:598/644 MP:278/288
+C-Anzu HP:542/596 MP:118/118
+D-Red Rider HP:917/917 MP:161/183
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Makoto
+3-Anzu
+4-Red Rider
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Susano-o HP:896/927 MP:184/184
+2-Power HP:407/407 MP:81/81
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Susano-o ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:69/140 MP:411/411
+B-
+C-Ammut HP:501/709 MP:129/140
+D-Mastema HP:328/399 MP:387/387
+Equipo de Makoto (J2)
+A-Makoto HP:342/597 MP:341/347
+B-Susano-o HP:896/927 MP:184/184
+C-Anzu HP:542/596 MP:118/118
+D-Red Rider HP:917/917 MP:161/183
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Anzu
+3-Red Rider
+4-Susano-o
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Nanashi HP:69/140 MP:411/411
+2-Ammut HP:501/709 MP:129/140
+3-Mastema HP:328/399 MP:387/387
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Makoto dispara a Ammut
+Ammut recibe 57 de daño
+Ammut termina con HP:444/709
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:69/140 MP:411/411
+B-
+C-Ammut HP:444/709 MP:129/140
+D-Mastema HP:328/399 MP:387/387
+Equipo de Makoto (J2)
+A-Makoto HP:342/597 MP:341/347
+B-Susano-o HP:896/927 MP:184/184
+C-Anzu HP:542/596 MP:118/118
+D-Red Rider HP:917/917 MP:161/183
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Red Rider
+3-Susano-o
+4-Makoto
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Nanashi HP:69/140 MP:411/411
+2-Ammut HP:444/709 MP:129/140
+3-Mastema HP:328/399 MP:387/387
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Anzu ataca a Ammut
+Ammut recibe 44 de daño
+Ammut termina con HP:400/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:69/140 MP:411/411
+B-
+C-Ammut HP:400/709 MP:129/140
+D-Mastema HP:328/399 MP:387/387
+Equipo de Makoto (J2)
+A-Makoto HP:342/597 MP:341/347
+B-Susano-o HP:896/927 MP:184/184
+C-Anzu HP:542/596 MP:118/118
+D-Red Rider HP:917/917 MP:161/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Red Rider
+2-Susano-o
+3-Makoto
+4-Anzu
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:69/140 MP:411/411
+B-
+C-Ammut HP:400/709 MP:129/140
+D-Mastema HP:328/399 MP:387/387
+Equipo de Makoto (J2)
+A-Makoto HP:342/597 MP:341/347
+B-Susano-o HP:896/927 MP:184/184
+C-Anzu HP:542/596 MP:118/118
+D-Red Rider HP:917/917 MP:161/183
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Susano-o
+2-Makoto
+3-Anzu
+4-Red Rider
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nergal HP:598/644 MP:278/288
+2-Power HP:407/407 MP:81/81
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Power ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:69/140 MP:411/411
+B-
+C-Ammut HP:400/709 MP:129/140
+D-Mastema HP:328/399 MP:387/387
+Equipo de Makoto (J2)
+A-Makoto HP:342/597 MP:341/347
+B-Power HP:407/407 MP:81/81
+C-Anzu HP:542/596 MP:118/118
+D-Red Rider HP:917/917 MP:161/183
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Mastema
+3-Nanashi
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:69/140 MP:411/411
+B-
+C-Ammut HP:400/709 MP:129/140
+D-Mastema HP:328/399 MP:387/387
+Equipo de Makoto (J2)
+A-Makoto HP:342/597 MP:341/347
+B-Power HP:407/407 MP:81/81
+C-Anzu HP:542/596 MP:118/118
+D-Red Rider HP:917/917 MP:161/183
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mastema
+2-Nanashi
+3-Ammut
+----------------------------------------
+Seleccione una acción para Mastema
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mastema
+1-Makoto HP:342/597 MP:341/347
+2-Power HP:407/407 MP:81/81
+3-Anzu HP:542/596 MP:118/118
+4-Red Rider HP:917/917 MP:161/183
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Mastema
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mastema use
+1-Megidolaon MP:60
+2-Pandemic Bomb MP:11
+3-Panic Voice MP:15
+4-Mahamaon MP:30
+5-Deadly Wind MP:22
+6-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un objetivo para Mastema
+1-Makoto HP:342/597 MP:341/347
+2-Power HP:407/407 MP:81/81
+3-Anzu HP:542/596 MP:118/118
+4-Red Rider HP:917/917 MP:161/183
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Mastema lanza viento a Anzu
+Anzu es débil contra el ataque de Mastema
+Anzu recibe 261 de daño
+Anzu termina con HP:281/596
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:69/140 MP:411/411
+B-
+C-Ammut HP:400/709 MP:129/140
+D-Mastema HP:328/399 MP:365/387
+Equipo de Makoto (J2)
+A-Makoto HP:342/597 MP:341/347
+B-Power HP:407/407 MP:81/81
+C-Anzu HP:281/596 MP:118/118
+D-Red Rider HP:917/917 MP:161/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Nanashi
+2-Ammut
+3-Mastema
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:69/140 MP:411/411
+B-
+C-Ammut HP:400/709 MP:129/140
+D-Mastema HP:328/399 MP:365/387
+Equipo de Makoto (J2)
+A-Makoto HP:342/597 MP:341/347
+B-Power HP:407/407 MP:81/81
+C-Anzu HP:281/596 MP:118/118
+D-Red Rider HP:917/917 MP:161/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ammut
+2-Mastema
+3-Nanashi
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Makoto HP:342/597 MP:341/347
+2-Power HP:407/407 MP:81/81
+3-Anzu HP:281/596 MP:118/118
+4-Red Rider HP:917/917 MP:161/183
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Ammut ataca a Power
+Power recibe 54 de daño
+Power termina con HP:353/407
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:69/140 MP:411/411
+B-
+C-Ammut HP:400/709 MP:129/140
+D-Mastema HP:328/399 MP:365/387
+Equipo de Makoto (J2)
+A-Makoto HP:342/597 MP:341/347
+B-Power HP:353/407 MP:81/81
+C-Anzu HP:281/596 MP:118/118
+D-Red Rider HP:917/917 MP:161/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mastema
+2-Nanashi
+3-Ammut
+----------------------------------------
+Seleccione una acción para Mastema
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mastema use
+1-Megidolaon MP:60
+2-Pandemic Bomb MP:11
+3-Panic Voice MP:15
+4-Mahamaon MP:30
+5-Deadly Wind MP:22
+6-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un objetivo para Mastema
+1-Makoto HP:342/597 MP:341/347
+2-Power HP:353/407 MP:81/81
+3-Anzu HP:281/596 MP:118/118
+4-Red Rider HP:917/917 MP:161/183
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Mastema lanza viento a Anzu
+Anzu es débil contra el ataque de Mastema
+Anzu recibe 261 de daño
+Anzu termina con HP:20/596
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:69/140 MP:411/411
+B-
+C-Ammut HP:400/709 MP:129/140
+D-Mastema HP:328/399 MP:343/387
+Equipo de Makoto (J2)
+A-Makoto HP:342/597 MP:341/347
+B-Power HP:353/407 MP:81/81
+C-Anzu HP:20/596 MP:118/118
+D-Red Rider HP:917/917 MP:161/183
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Ammut
+3-Mastema
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nanashi use
+1-Bufu MP:5
+2-Lunge MP:6
+3-Diarama MP:9
+4-Mudo MP:6
+5-Nihil Claw MP:11
+6-Zanma MP:8
+7-Damascus Claw MP:7
+8-Grand Tack MP:11
+9-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Makoto HP:342/597 MP:341/347
+2-Power HP:353/407 MP:81/81
+3-Anzu HP:20/596 MP:118/118
+4-Red Rider HP:917/917 MP:161/183
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi lanza viento a Makoto
+Makoto es resistente el ataque de Nanashi
+Makoto recibe 27 de daño
+Makoto termina con HP:315/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:69/140 MP:403/411
+B-
+C-Ammut HP:400/709 MP:129/140
+D-Mastema HP:328/399 MP:343/387
+Equipo de Makoto (J2)
+A-Makoto HP:315/597 MP:341/347
+B-Power HP:353/407 MP:81/81
+C-Anzu HP:20/596 MP:118/118
+D-Red Rider HP:917/917 MP:161/183
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Red Rider
+2-Makoto
+3-Anzu
+4-Power
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Red Rider use
+1-Antichthon MP:80
+2-War Cry MP:45
+3-Purple Smoke MP:14
+4-Trisagion MP:22
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Red Rider
+1-Nanashi HP:69/140 MP:403/411
+2-Ammut HP:400/709 MP:129/140
+3-Mastema HP:328/399 MP:343/387
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Red Rider lanza fuego a Ammut
+Ammut recibe 154 de daño
+Ammut termina con HP:246/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:69/140 MP:403/411
+B-
+C-Ammut HP:246/709 MP:129/140
+D-Mastema HP:328/399 MP:343/387
+Equipo de Makoto (J2)
+A-Makoto HP:315/597 MP:341/347
+B-Power HP:353/407 MP:81/81
+C-Anzu HP:20/596 MP:118/118
+D-Red Rider HP:917/917 MP:139/183
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Anzu
+3-Power
+4-Red Rider
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Nanashi HP:69/140 MP:403/411
+2-Ammut HP:246/709 MP:129/140
+3-Mastema HP:328/399 MP:343/387
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto dispara a Nanashi
+Nanashi recibe 57 de daño
+Nanashi termina con HP:12/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:12/140 MP:403/411
+B-
+C-Ammut HP:246/709 MP:129/140
+D-Mastema HP:328/399 MP:343/387
+Equipo de Makoto (J2)
+A-Makoto HP:315/597 MP:341/347
+B-Power HP:353/407 MP:81/81
+C-Anzu HP:20/596 MP:118/118
+D-Red Rider HP:917/917 MP:139/183
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Power
+3-Red Rider
+4-Makoto
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:12/140 MP:403/411
+B-
+C-Ammut HP:246/709 MP:129/140
+D-Mastema HP:328/399 MP:343/387
+Equipo de Makoto (J2)
+A-Makoto HP:315/597 MP:341/347
+B-Power HP:353/407 MP:81/81
+C-Anzu HP:20/596 MP:118/118
+D-Red Rider HP:917/917 MP:139/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Power
+2-Red Rider
+3-Makoto
+4-Anzu
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Power use
+1-Tathlum Shot MP:7
+2-Diarama MP:9
+3-Megido MP:25
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Power
+1-Nanashi HP:12/140 MP:403/411
+2-Ammut HP:246/709 MP:129/140
+3-Mastema HP:328/399 MP:343/387
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Power use
+1-Tathlum Shot MP:7
+2-Diarama MP:9
+3-Megido MP:25
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Power
+1-Makoto HP:315/597 MP:341/347
+2-Power HP:353/407 MP:81/81
+3-Anzu HP:20/596 MP:118/118
+4-Red Rider HP:917/917 MP:139/183
+5-Nergal HP:598/644 MP:278/288
+6-Susano-o HP:896/927 MP:184/184
+7-Cancelar
+INPUT: 4
+----------------------------------------
+Power cura a Red Rider
+Red Rider recibe 458 de HP
+Red Rider termina con HP:917/917
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:12/140 MP:403/411
+B-
+C-Ammut HP:246/709 MP:129/140
+D-Mastema HP:328/399 MP:343/387
+Equipo de Makoto (J2)
+A-Makoto HP:315/597 MP:341/347
+B-Power HP:353/407 MP:72/81
+C-Anzu HP:20/596 MP:118/118
+D-Red Rider HP:917/917 MP:139/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Red Rider
+2-Makoto
+3-Anzu
+4-Power
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Red Rider use
+1-Antichthon MP:80
+2-War Cry MP:45
+3-Purple Smoke MP:14
+4-Trisagion MP:22
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Red Rider
+1-Nanashi HP:12/140 MP:403/411
+2-Ammut HP:246/709 MP:129/140
+3-Mastema HP:328/399 MP:343/387
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nergal HP:598/644 MP:278/288
+2-Susano-o HP:896/927 MP:184/184
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:12/140 MP:403/411
+B-
+C-Ammut HP:246/709 MP:129/140
+D-Mastema HP:328/399 MP:343/387
+Equipo de Makoto (J2)
+A-Makoto HP:315/597 MP:341/347
+B-Power HP:353/407 MP:72/81
+C-Anzu HP:20/596 MP:118/118
+D-Red Rider HP:917/917 MP:139/183
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Anzu
+3-Power
+4-Red Rider
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:12/140 MP:403/411
+B-
+C-Ammut HP:246/709 MP:129/140
+D-Mastema HP:328/399 MP:343/387
+Equipo de Makoto (J2)
+A-Makoto HP:315/597 MP:341/347
+B-Power HP:353/407 MP:72/81
+C-Anzu HP:20/596 MP:118/118
+D-Red Rider HP:917/917 MP:139/183
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Mastema
+3-Nanashi
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mokoi HP:74/74 MP:36/36
+2-Quetzalcoatl HP:553/553 MP:247/247
+3-Alilat HP:422/441 MP:396/428
+4-Centaur HP:104/104 MP:19/19
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Alilat ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:12/140 MP:403/411
+B-
+C-Alilat HP:422/441 MP:396/428
+D-Mastema HP:328/399 MP:343/387
+Equipo de Makoto (J2)
+A-Makoto HP:315/597 MP:341/347
+B-Power HP:353/407 MP:72/81
+C-Anzu HP:20/596 MP:118/118
+D-Red Rider HP:917/917 MP:139/183
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mastema
+2-Nanashi
+3-Alilat
+----------------------------------------
+Seleccione una acción para Mastema
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:12/140 MP:403/411
+B-
+C-Alilat HP:422/441 MP:396/428
+D-Mastema HP:328/399 MP:343/387
+Equipo de Makoto (J2)
+A-Makoto HP:315/597 MP:341/347
+B-Power HP:353/407 MP:72/81
+C-Anzu HP:20/596 MP:118/118
+D-Red Rider HP:917/917 MP:139/183
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Alilat
+3-Mastema
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Makoto HP:315/597 MP:341/347
+2-Power HP:353/407 MP:72/81
+3-Anzu HP:20/596 MP:118/118
+4-Red Rider HP:917/917 MP:139/183
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mokoi HP:74/74 MP:36/36
+2-Quetzalcoatl HP:553/553 MP:247/247
+3-Ammut HP:246/709 MP:129/140
+4-Centaur HP:104/104 MP:19/19
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Alilat HP:422/441 MP:396/428 (Puesto 3)
+3-Mastema HP:328/399 MP:343/387 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mokoi HP:74/74 MP:36/36
+2-Quetzalcoatl HP:553/553 MP:247/247
+3-Ammut HP:246/709 MP:129/140
+4-Centaur HP:104/104 MP:19/19
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Alilat HP:422/441 MP:396/428 (Puesto 3)
+3-Mastema HP:328/399 MP:343/387 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mokoi HP:74/74 MP:36/36
+2-Quetzalcoatl HP:553/553 MP:247/247
+3-Ammut HP:246/709 MP:129/140
+4-Centaur HP:104/104 MP:19/19
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Alilat HP:422/441 MP:396/428 (Puesto 3)
+3-Mastema HP:328/399 MP:343/387 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Centaur ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:12/140 MP:403/411
+B-
+C-Alilat HP:422/441 MP:396/428
+D-Centaur HP:104/104 MP:19/19
+Equipo de Makoto (J2)
+A-Makoto HP:315/597 MP:341/347
+B-Power HP:353/407 MP:72/81
+C-Anzu HP:20/596 MP:118/118
+D-Red Rider HP:917/917 MP:139/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Alilat
+2-Centaur
+3-Nanashi
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mokoi HP:74/74 MP:36/36
+2-Quetzalcoatl HP:553/553 MP:247/247
+3-Mastema HP:328/399 MP:343/387
+4-Ammut HP:246/709 MP:129/140
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Mastema ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:12/140 MP:403/411
+B-
+C-Mastema HP:328/399 MP:343/387
+D-Centaur HP:104/104 MP:19/19
+Equipo de Makoto (J2)
+A-Makoto HP:315/597 MP:341/347
+B-Power HP:353/407 MP:72/81
+C-Anzu HP:20/596 MP:118/118
+D-Red Rider HP:917/917 MP:139/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Centaur
+2-Nanashi
+3-Mastema
+----------------------------------------
+Seleccione una acción para Centaur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Centaur use
+1-Bufu MP:5
+2-Needle Shot MP:4
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Centaur
+1-Makoto HP:315/597 MP:341/347
+2-Power HP:353/407 MP:72/81
+3-Anzu HP:20/596 MP:118/118
+4-Red Rider HP:917/917 MP:139/183
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Centaur lanza hielo a Red Rider
+Red Rider es débil contra el ataque de Centaur
+Red Rider recibe 35 de daño
+Red Rider termina con HP:882/917
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:12/140 MP:403/411
+B-
+C-Mastema HP:328/399 MP:343/387
+D-Centaur HP:104/104 MP:14/19
+Equipo de Makoto (J2)
+A-Makoto HP:315/597 MP:341/347
+B-Power HP:353/407 MP:72/81
+C-Anzu HP:20/596 MP:118/118
+D-Red Rider HP:882/917 MP:139/183
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Mastema
+3-Centaur
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:12/140 MP:403/411
+B-
+C-Mastema HP:328/399 MP:343/387
+D-Centaur HP:104/104 MP:14/19
+Equipo de Makoto (J2)
+A-Makoto HP:315/597 MP:341/347
+B-Power HP:353/407 MP:72/81
+C-Anzu HP:20/596 MP:118/118
+D-Red Rider HP:882/917 MP:139/183
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Red Rider
+2-Makoto
+3-Anzu
+4-Power
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nergal HP:598/644 MP:278/288
+2-Susano-o HP:896/927 MP:184/184
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Susano-o ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:12/140 MP:403/411
+B-
+C-Mastema HP:328/399 MP:343/387
+D-Centaur HP:104/104 MP:14/19
+Equipo de Makoto (J2)
+A-Makoto HP:315/597 MP:341/347
+B-Power HP:353/407 MP:72/81
+C-Anzu HP:20/596 MP:118/118
+D-Susano-o HP:896/927 MP:184/184
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Anzu
+3-Power
+4-Susano-o
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nergal HP:598/644 MP:278/288
+2-Red Rider HP:882/917 MP:139/183
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Power HP:353/407 MP:72/81 (Puesto 2)
+2-Anzu HP:20/596 MP:118/118 (Puesto 3)
+3-Susano-o HP:896/927 MP:184/184 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Hama MP:6
+2-Grand Tack MP:11
+3-Iron Judgement MP:8
+4-Nihil Claw MP:11
+5-Diarama MP:9
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Nanashi HP:12/140 MP:403/411
+2-Mastema HP:328/399 MP:343/387
+3-Centaur HP:104/104 MP:14/19
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Makoto dispara a Centaur
+Centaur es resistente el ataque de Makoto
+Centaur recibe 28 de daño
+Centaur termina con HP:76/104
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:12/140 MP:403/411
+B-
+C-Mastema HP:328/399 MP:343/387
+D-Centaur HP:76/104 MP:14/19
+Equipo de Makoto (J2)
+A-Makoto HP:315/597 MP:341/347
+B-Power HP:353/407 MP:72/81
+C-Anzu HP:20/596 MP:118/118
+D-Susano-o HP:896/927 MP:184/184
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Power
+3-Susano-o
+4-Makoto
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Anzu use
+1-Zionga MP:8
+2-Nihil Claw MP:11
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Nanashi HP:12/140 MP:403/411
+2-Mastema HP:328/399 MP:343/387
+3-Centaur HP:76/104 MP:14/19
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:12/140 MP:403/411
+B-
+C-Mastema HP:328/399 MP:343/387
+D-Centaur HP:76/104 MP:14/19
+Equipo de Makoto (J2)
+A-Makoto HP:315/597 MP:341/347
+B-Power HP:353/407 MP:72/81
+C-Anzu HP:20/596 MP:118/118
+D-Susano-o HP:896/927 MP:184/184
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Power
+2-Susano-o
+3-Makoto
+4-Anzu
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nergal HP:598/644 MP:278/288
+2-Red Rider HP:882/917 MP:139/183
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nergal ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:12/140 MP:403/411
+B-
+C-Mastema HP:328/399 MP:343/387
+D-Centaur HP:76/104 MP:14/19
+Equipo de Makoto (J2)
+A-Makoto HP:315/597 MP:341/347
+B-Nergal HP:598/644 MP:278/288
+C-Anzu HP:20/596 MP:118/118
+D-Susano-o HP:896/927 MP:184/184
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Susano-o
+2-Makoto
+3-Anzu
+4-Nergal
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Red Rider HP:882/917 MP:139/183
+2-Power HP:353/407 MP:72/81
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Red Rider ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:12/140 MP:403/411
+B-
+C-Mastema HP:328/399 MP:343/387
+D-Centaur HP:76/104 MP:14/19
+Equipo de Makoto (J2)
+A-Makoto HP:315/597 MP:341/347
+B-Nergal HP:598/644 MP:278/288
+C-Anzu HP:20/596 MP:118/118
+D-Red Rider HP:882/917 MP:139/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Anzu
+3-Nergal
+4-Red Rider
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Nanashi HP:12/140 MP:403/411
+2-Mastema HP:328/399 MP:343/387
+3-Centaur HP:76/104 MP:14/19
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Makoto dispara a Mastema
+Mastema devuelve 57 daño a Makoto
+Makoto termina con HP:258/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:12/140 MP:403/411
+B-
+C-Mastema HP:328/399 MP:343/387
+D-Centaur HP:76/104 MP:14/19
+Equipo de Makoto (J2)
+A-Makoto HP:258/597 MP:341/347
+B-Nergal HP:598/644 MP:278/288
+C-Anzu HP:20/596 MP:118/118
+D-Red Rider HP:882/917 MP:139/183
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mastema
+2-Nanashi
+3-Centaur
+----------------------------------------
+Seleccione una acción para Mastema
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mokoi HP:74/74 MP:36/36
+2-Quetzalcoatl HP:553/553 MP:247/247
+3-Alilat HP:422/441 MP:396/428
+4-Ammut HP:246/709 MP:129/140
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Quetzalcoatl ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:12/140 MP:403/411
+B-
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-Centaur HP:76/104 MP:14/19
+Equipo de Makoto (J2)
+A-Makoto HP:258/597 MP:341/347
+B-Nergal HP:598/644 MP:278/288
+C-Anzu HP:20/596 MP:118/118
+D-Red Rider HP:882/917 MP:139/183
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Centaur
+3-Quetzalcoatl
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nanashi use
+1-Bufu MP:5
+2-Lunge MP:6
+3-Diarama MP:9
+4-Mudo MP:6
+5-Nihil Claw MP:11
+6-Zanma MP:8
+7-Damascus Claw MP:7
+8-Grand Tack MP:11
+9-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Makoto HP:258/597 MP:341/347
+2-Nergal HP:598/644 MP:278/288
+3-Anzu HP:20/596 MP:118/118
+4-Red Rider HP:882/917 MP:139/183
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Makoto HP:258/597 MP:341/347
+2-Nergal HP:598/644 MP:278/288
+3-Anzu HP:20/596 MP:118/118
+4-Red Rider HP:882/917 MP:139/183
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nanashi dispara a Anzu
+Anzu recibe 31 de daño
+Anzu termina con HP:0/596
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:12/140 MP:403/411
+B-
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-Centaur HP:76/104 MP:14/19
+Equipo de Makoto (J2)
+A-Makoto HP:258/597 MP:341/347
+B-Nergal HP:598/644 MP:278/288
+C-
+D-Red Rider HP:882/917 MP:139/183
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Centaur
+2-Quetzalcoatl
+3-Nanashi
+----------------------------------------
+Seleccione una acción para Centaur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mokoi HP:74/74 MP:36/36
+2-Alilat HP:422/441 MP:396/428
+3-Mastema HP:328/399 MP:343/387
+4-Ammut HP:246/709 MP:129/140
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Alilat ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:12/140 MP:403/411
+B-
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-Alilat HP:422/441 MP:396/428
+Equipo de Makoto (J2)
+A-Makoto HP:258/597 MP:341/347
+B-Nergal HP:598/644 MP:278/288
+C-
+D-Red Rider HP:882/917 MP:139/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Quetzalcoatl
+2-Nanashi
+3-Alilat
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Quetzalcoatl use
+1-Trisagion MP:22
+2-Mazandyne MP:32
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:12/140 MP:403/411
+B-
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-Alilat HP:422/441 MP:396/428
+Equipo de Makoto (J2)
+A-Makoto HP:258/597 MP:341/347
+B-Nergal HP:598/644 MP:278/288
+C-
+D-Red Rider HP:882/917 MP:139/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Alilat
+3-Quetzalcoatl
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:12/140 MP:403/411
+B-
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-Alilat HP:422/441 MP:396/428
+Equipo de Makoto (J2)
+A-Makoto HP:258/597 MP:341/347
+B-Nergal HP:598/644 MP:278/288
+C-
+D-Red Rider HP:882/917 MP:139/183
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Alilat
+2-Quetzalcoatl
+3-Nanashi
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:12/140 MP:403/411
+B-
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-Alilat HP:422/441 MP:396/428
+Equipo de Makoto (J2)
+A-Makoto HP:258/597 MP:341/347
+B-Nergal HP:598/644 MP:278/288
+C-
+D-Red Rider HP:882/917 MP:139/183
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Red Rider
+2-Nergal
+3-Makoto
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:12/140 MP:403/411
+B-
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-Alilat HP:422/441 MP:396/428
+Equipo de Makoto (J2)
+A-Makoto HP:258/597 MP:341/347
+B-Nergal HP:598/644 MP:278/288
+C-
+D-Red Rider HP:882/917 MP:139/183
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nergal
+2-Makoto
+3-Red Rider
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Nanashi HP:12/140 MP:403/411
+2-Quetzalcoatl HP:553/553 MP:247/247
+3-Alilat HP:422/441 MP:396/428
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nergal ataca a Nanashi
+Nanashi recibe 54 de daño
+Nanashi termina con HP:0/140
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:403/411
+B-
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-Alilat HP:422/441 MP:396/428
+Equipo de Makoto (J2)
+A-Makoto HP:258/597 MP:341/347
+B-Nergal HP:598/644 MP:278/288
+C-
+D-Red Rider HP:882/917 MP:139/183
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Red Rider
+3-Nergal
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Quetzalcoatl HP:553/553 MP:247/247
+2-Alilat HP:422/441 MP:396/428
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Hama MP:6
+2-Grand Tack MP:11
+3-Iron Judgement MP:8
+4-Nihil Claw MP:11
+5-Diarama MP:9
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Quetzalcoatl HP:553/553 MP:247/247
+2-Alilat HP:422/441 MP:396/428
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Makoto ataca a Alilat
+Alilat es resistente el ataque de Makoto
+Alilat recibe 60 de daño
+Makoto ataca a Alilat
+Alilat es resistente el ataque de Makoto
+Alilat recibe 60 de daño
+Makoto ataca a Alilat
+Alilat es resistente el ataque de Makoto
+Alilat recibe 60 de daño
+Alilat termina con HP:242/441
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:403/411
+B-
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-Alilat HP:242/441 MP:396/428
+Equipo de Makoto (J2)
+A-Makoto HP:258/597 MP:330/347
+B-Nergal HP:598/644 MP:278/288
+C-
+D-Red Rider HP:882/917 MP:139/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Red Rider
+2-Nergal
+3-Makoto
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Red Rider
+1-Quetzalcoatl HP:553/553 MP:247/247
+2-Alilat HP:242/441 MP:396/428
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Red Rider ataca a Quetzalcoatl
+Quetzalcoatl devuelve 71 daño a Red Rider
+Red Rider termina con HP:811/917
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:403/411
+B-
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-Alilat HP:242/441 MP:396/428
+Equipo de Makoto (J2)
+A-Makoto HP:258/597 MP:330/347
+B-Nergal HP:598/644 MP:278/288
+C-
+D-Red Rider HP:811/917 MP:139/183
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Quetzalcoatl
+2-Alilat
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Quetzalcoatl
+1-Makoto HP:258/597 MP:330/347
+2-Nergal HP:598/644 MP:278/288
+3-Red Rider HP:811/917 MP:139/183
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Quetzalcoatl ataca a Nergal
+Nergal recibe 46 de daño
+Nergal termina con HP:552/644
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:403/411
+B-
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-Alilat HP:242/441 MP:396/428
+Equipo de Makoto (J2)
+A-Makoto HP:258/597 MP:330/347
+B-Nergal HP:552/644 MP:278/288
+C-
+D-Red Rider HP:811/917 MP:139/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+2-Quetzalcoatl
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:403/411
+B-
+C-Quetzalcoatl HP:553/553 MP:247/247
+D-Alilat HP:242/441 MP:396/428
+Equipo de Makoto (J2)
+A-Makoto HP:258/597 MP:330/347
+B-Nergal HP:552/644 MP:278/288
+C-
+D-Red Rider HP:811/917 MP:139/183
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Quetzalcoatl
+2-Alilat
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mokoi HP:74/74 MP:36/36
+2-Mastema HP:328/399 MP:343/387
+3-Ammut HP:246/709 MP:129/140
+4-Centaur HP:76/104 MP:14/19
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Mokoi ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:403/411
+B-
+C-Mokoi HP:74/74 MP:36/36
+D-Alilat HP:242/441 MP:396/428
+Equipo de Makoto (J2)
+A-Makoto HP:258/597 MP:330/347
+B-Nergal HP:552/644 MP:278/288
+C-
+D-Red Rider HP:811/917 MP:139/183
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Red Rider
+2-Nergal
+3-Makoto
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Red Rider
+1-Mokoi HP:74/74 MP:36/36
+2-Alilat HP:242/441 MP:396/428
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Red Rider ataca a Mokoi
+Mokoi recibe 71 de daño
+Mokoi termina con HP:3/74
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:403/411
+B-
+C-Mokoi HP:3/74 MP:36/36
+D-Alilat HP:242/441 MP:396/428
+Equipo de Makoto (J2)
+A-Makoto HP:258/597 MP:330/347
+B-Nergal HP:552/644 MP:278/288
+C-
+D-Red Rider HP:811/917 MP:139/183
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Makoto
+3-Red Rider
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nergal use
+1-Hamaon MP:10
+2-Heaven's Bow MP:26
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Mokoi HP:3/74 MP:36/36
+2-Alilat HP:242/441 MP:396/428
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Mokoi HP:3/74 MP:36/36
+2-Alilat HP:242/441 MP:396/428
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nergal ataca a Mokoi
+Mokoi recibe 54 de daño
+Mokoi termina con HP:0/74
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:403/411
+B-
+C-
+D-Alilat HP:242/441 MP:396/428
+Equipo de Makoto (J2)
+A-Makoto HP:258/597 MP:330/347
+B-Nergal HP:552/644 MP:278/288
+C-
+D-Red Rider HP:811/917 MP:139/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Red Rider
+3-Nergal
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:403/411
+B-
+C-
+D-Alilat HP:242/441 MP:396/428
+Equipo de Makoto (J2)
+A-Makoto HP:258/597 MP:330/347
+B-Nergal HP:552/644 MP:278/288
+C-
+D-Red Rider HP:811/917 MP:139/183
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Red Rider
+2-Nergal
+3-Makoto
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:403/411
+B-
+C-
+D-Alilat HP:242/441 MP:396/428
+Equipo de Makoto (J2)
+A-Makoto HP:258/597 MP:330/347
+B-Nergal HP:552/644 MP:278/288
+C-
+D-Red Rider HP:811/917 MP:139/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alilat
+1-Makoto HP:258/597 MP:330/347
+2-Nergal HP:552/644 MP:278/288
+3-Red Rider HP:811/917 MP:139/183
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Alilat ataca a Makoto
+Makoto es resistente el ataque de Alilat
+Makoto recibe 23 de daño
+Makoto termina con HP:235/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:403/411
+B-
+C-
+D-Alilat HP:242/441 MP:396/428
+Equipo de Makoto (J2)
+A-Makoto HP:235/597 MP:330/347
+B-Nergal HP:552/644 MP:278/288
+C-
+D-Red Rider HP:811/917 MP:139/183
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Red Rider
+2-Nergal
+3-Makoto
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:403/411
+B-
+C-
+D-Alilat HP:242/441 MP:396/428
+Equipo de Makoto (J2)
+A-Makoto HP:235/597 MP:330/347
+B-Nergal HP:552/644 MP:278/288
+C-
+D-Red Rider HP:811/917 MP:139/183
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nergal
+2-Makoto
+3-Red Rider
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nergal use
+1-Hamaon MP:10
+2-Heaven's Bow MP:26
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Alilat HP:242/441 MP:396/428
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nergal ataca con oscuridad a Alilat
+Alilat bloquea el ataque de Nergal
+Alilat termina con HP:242/441
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:403/411
+B-
+C-
+D-Alilat HP:242/441 MP:396/428
+Equipo de Makoto (J2)
+A-Makoto HP:235/597 MP:330/347
+B-Nergal HP:552/644 MP:268/288
+C-
+D-Red Rider HP:811/917 MP:139/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Red Rider
+3-Nergal
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Susano-o HP:896/927 MP:184/184
+2-Power HP:353/407 MP:72/81
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Alilat HP:242/441 MP:396/428
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca a Alilat
+Alilat es resistente el ataque de Makoto
+Alilat recibe 19 de daño
+Alilat termina con HP:223/441
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:403/411
+B-
+C-
+D-Alilat HP:223/441 MP:396/428
+Equipo de Makoto (J2)
+A-Makoto HP:235/597 MP:330/347
+B-Nergal HP:552/644 MP:268/288
+C-
+D-Red Rider HP:811/917 MP:139/183
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alilat
+----------------------------------------
+Seleccione una acción para Alilat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Quetzalcoatl HP:553/553 MP:247/247
+2-Mastema HP:328/399 MP:343/387
+3-Ammut HP:246/709 MP:129/140
+4-Centaur HP:76/104 MP:14/19
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Centaur ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:403/411
+B-
+C-
+D-Centaur HP:76/104 MP:14/19
+Equipo de Makoto (J2)
+A-Makoto HP:235/597 MP:330/347
+B-Nergal HP:552/644 MP:268/288
+C-
+D-Red Rider HP:811/917 MP:139/183
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Centaur
+----------------------------------------
+Seleccione una acción para Centaur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Centaur use
+1-Bufu MP:5
+2-Needle Shot MP:4
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Centaur
+1-Makoto HP:235/597 MP:330/347
+2-Nergal HP:552/644 MP:268/288
+3-Red Rider HP:811/917 MP:139/183
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Centaur dispara a Nergal
+Nergal recibe 24 de daño
+Nergal termina con HP:528/644
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:403/411
+B-
+C-
+D-Centaur HP:76/104 MP:10/19
+Equipo de Makoto (J2)
+A-Makoto HP:235/597 MP:330/347
+B-Nergal HP:528/644 MP:268/288
+C-
+D-Red Rider HP:811/917 MP:139/183
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Red Rider
+2-Nergal
+3-Makoto
+----------------------------------------
+Seleccione una acción para Red Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Susano-o HP:896/927 MP:184/184
+2-Power HP:353/407 MP:72/81
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Susano-o ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:403/411
+B-
+C-
+D-Centaur HP:76/104 MP:10/19
+Equipo de Makoto (J2)
+A-Makoto HP:235/597 MP:330/347
+B-Nergal HP:528/644 MP:268/288
+C-
+D-Susano-o HP:896/927 MP:184/184
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nergal
+2-Makoto
+3-Susano-o
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Centaur HP:76/104 MP:10/19
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:403/411
+B-
+C-
+D-Centaur HP:76/104 MP:10/19
+Equipo de Makoto (J2)
+A-Makoto HP:235/597 MP:330/347
+B-Nergal HP:528/644 MP:268/288
+C-
+D-Susano-o HP:896/927 MP:184/184
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Susano-o
+3-Nergal
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Centaur HP:76/104 MP:10/19
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Red Rider HP:811/917 MP:139/183
+2-Power HP:353/407 MP:72/81
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Nergal HP:528/644 MP:268/288 (Puesto 2)
+2-Vacío (Puesto 3)
+3-Susano-o HP:896/927 MP:184/184 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Power ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:403/411
+B-
+C-
+D-Centaur HP:76/104 MP:10/19
+Equipo de Makoto (J2)
+A-Makoto HP:235/597 MP:330/347
+B-Power HP:353/407 MP:72/81
+C-
+D-Susano-o HP:896/927 MP:184/184
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Susano-o
+2-Power
+3-Makoto
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nergal HP:528/644 MP:268/288
+2-Red Rider HP:811/917 MP:139/183
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nergal ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:403/411
+B-
+C-
+D-Centaur HP:76/104 MP:10/19
+Equipo de Makoto (J2)
+A-Makoto HP:235/597 MP:330/347
+B-Power HP:353/407 MP:72/81
+C-
+D-Nergal HP:528/644 MP:268/288
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Power
+2-Makoto
+3-Nergal
+----------------------------------------
+Seleccione una acción para Power
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Power use
+1-Tathlum Shot MP:7
+2-Diarama MP:9
+3-Megido MP:25
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Power
+1-Centaur HP:76/104 MP:10/19
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Power dispara a Centaur
+Centaur es resistente el ataque de Power
+Centaur recibe 38 de daño
+Centaur termina con HP:38/104
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:403/411
+B-
+C-
+D-Centaur HP:38/104 MP:10/19
+Equipo de Makoto (J2)
+A-Makoto HP:235/597 MP:330/347
+B-Power HP:353/407 MP:65/81
+C-
+D-Nergal HP:528/644 MP:268/288
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Centaur
+----------------------------------------
+Seleccione una acción para Centaur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Centaur use
+1-Bufu MP:5
+2-Needle Shot MP:4
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Centaur
+1-Makoto HP:235/597 MP:330/347
+2-Power HP:353/407 MP:65/81
+3-Nergal HP:528/644 MP:268/288
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Centaur lanza hielo a Power
+Power recibe 23 de daño
+Power termina con HP:330/407
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:403/411
+B-
+C-
+D-Centaur HP:38/104 MP:5/19
+Equipo de Makoto (J2)
+A-Makoto HP:235/597 MP:330/347
+B-Power HP:330/407 MP:65/81
+C-
+D-Nergal HP:528/644 MP:268/288
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nergal
+2-Makoto
+3-Power
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nergal use
+1-Hamaon MP:10
+2-Heaven's Bow MP:26
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Nergal
+1-Centaur HP:38/104 MP:5/19
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nergal
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:403/411
+B-
+C-
+D-Centaur HP:38/104 MP:5/19
+Equipo de Makoto (J2)
+A-Makoto HP:235/597 MP:330/347
+B-Power HP:330/407 MP:65/81
+C-
+D-Nergal HP:528/644 MP:268/288
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Power
+3-Nergal
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Hama MP:6
+2-Grand Tack MP:11
+3-Iron Judgement MP:8
+4-Nihil Claw MP:11
+5-Diarama MP:9
+6-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Centaur HP:38/104 MP:5/19
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Centaur HP:38/104 MP:5/19
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Hama MP:6
+2-Grand Tack MP:11
+3-Iron Judgement MP:8
+4-Nihil Claw MP:11
+5-Diarama MP:9
+6-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Centaur HP:38/104 MP:5/19
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca a Centaur
+Centaur recibe 86 de daño
+Centaur termina con HP:0/104
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Makoto (J2)

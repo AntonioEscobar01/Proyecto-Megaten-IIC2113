@@ -1,0 +1,7700 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 23
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Nebiros HP:249/249 MP:242/242
+D-Chemtrail HP:437/437 MP:423/423
+Equipo de Tamaki (J2)
+A-Tamaki HP:999/999 MP:542/542
+B-Peri HP:483/483 MP:216/216
+C-Lham Dearg HP:91/91 MP:19/19
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Yu
+3-Chemtrail
+4-Nebiros
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Tamaki HP:999/999 MP:542/542
+2-Peri HP:483/483 MP:216/216
+3-Lham Dearg HP:91/91 MP:19/19
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Demonee-Ho ataca a Tamaki
+Tamaki es resistente el ataque de Demonee-Ho
+Tamaki recibe 31 de daño
+Tamaki termina con HP:968/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Nebiros HP:249/249 MP:242/242
+D-Chemtrail HP:437/437 MP:423/423
+Equipo de Tamaki (J2)
+A-Tamaki HP:968/999 MP:542/542
+B-Peri HP:483/483 MP:216/216
+C-Lham Dearg HP:91/91 MP:19/19
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Chemtrail
+3-Nebiros
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Mudo MP:6
+2-Iron Judgement MP:8
+3-Berserker God MP:12
+4-Zio MP:5
+5-Ziodyne MP:14
+6-Oni-Kagura MP:9
+7-Diarama MP:9
+8-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tamaki HP:968/999 MP:542/542
+2-Peri HP:483/483 MP:216/216
+3-Lham Dearg HP:91/91 MP:19/19
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Yu lanza electricidad a Lham Dearg
+Lham Dearg recibe 129 de daño
+Lham Dearg termina con HP:0/91
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:333/347
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Nebiros HP:249/249 MP:242/242
+D-Chemtrail HP:437/437 MP:423/423
+Equipo de Tamaki (J2)
+A-Tamaki HP:968/999 MP:542/542
+B-Peri HP:483/483 MP:216/216
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Nebiros
+3-Demonee-Ho
+4-Yu
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mokoi HP:74/74 MP:36/36
+2-Tam Lin HP:218/218 MP:43/43
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Mokoi ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:333/347
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Nebiros HP:249/249 MP:242/242
+D-Mokoi HP:74/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:968/999 MP:542/542
+B-Peri HP:483/483 MP:216/216
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nebiros
+2-Demonee-Ho
+3-Yu
+4-Mokoi
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Tamaki HP:968/999 MP:542/542
+2-Peri HP:483/483 MP:216/216
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Nebiros ataca a Peri
+Peri recibe 26 de daño
+Peri termina con HP:457/483
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:333/347
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Nebiros HP:249/249 MP:242/242
+D-Mokoi HP:74/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:968/999 MP:542/542
+B-Peri HP:457/483 MP:216/216
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Yu
+3-Mokoi
+4-Nebiros
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chemtrail HP:437/437 MP:423/423
+2-Tam Lin HP:218/218 MP:43/43
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:333/347
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Nebiros HP:249/249 MP:242/242
+D-Mokoi HP:74/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:968/999 MP:542/542
+B-Peri HP:457/483 MP:216/216
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Mokoi
+3-Nebiros
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chemtrail HP:437/437 MP:423/423
+2-Tam Lin HP:218/218 MP:43/43
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Demonee-Ho HP:804/804 MP:160/160 (Puesto 2)
+2-Nebiros HP:249/249 MP:242/242 (Puesto 3)
+3-Mokoi HP:74/74 MP:36/36 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Tam Lin ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:333/347
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Nebiros HP:249/249 MP:242/242
+D-Tam Lin HP:218/218 MP:43/43
+Equipo de Tamaki (J2)
+A-Tamaki HP:968/999 MP:542/542
+B-Peri HP:457/483 MP:216/216
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Peri use
+1-Diarahan MP:16
+2-Me Patra MP:15
+3-Panic Voice MP:15
+4-Maragidyne MP:32
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Tamaki HP:968/999 MP:542/542
+2-Peri HP:457/483 MP:216/216
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Peri cura a Peri
+Peri recibe 483 de HP
+Peri termina con HP:483/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:333/347
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Nebiros HP:249/249 MP:242/242
+D-Tam Lin HP:218/218 MP:43/43
+Equipo de Tamaki (J2)
+A-Tamaki HP:968/999 MP:542/542
+B-Peri HP:483/483 MP:200/216
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+2-Peri
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:333/347
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Nebiros HP:249/249 MP:242/242
+D-Tam Lin HP:218/218 MP:43/43
+Equipo de Tamaki (J2)
+A-Tamaki HP:968/999 MP:542/542
+B-Peri HP:483/483 MP:200/216
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Peri
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:333/347
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Nebiros HP:249/249 MP:242/242
+D-Tam Lin HP:218/218 MP:43/43
+Equipo de Tamaki (J2)
+A-Tamaki HP:968/999 MP:542/542
+B-Peri HP:483/483 MP:200/216
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Yu
+3-Nebiros
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chemtrail HP:437/437 MP:423/423
+2-Mokoi HP:74/74 MP:36/36
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Demonee-Ho use
+1-Iron Judgement MP:8
+2-Desperate Hit MP:40
+3-Breath MP:24
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Tamaki HP:968/999 MP:542/542
+2-Peri HP:483/483 MP:200/216
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Demonee-Ho ataca a Tamaki
+Tamaki es resistente el ataque de Demonee-Ho
+Tamaki recibe 55 de daño
+Tamaki termina con HP:913/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:333/347
+B-Demonee-Ho HP:804/804 MP:152/160
+C-Nebiros HP:249/249 MP:242/242
+D-Tam Lin HP:218/218 MP:43/43
+Equipo de Tamaki (J2)
+A-Tamaki HP:913/999 MP:542/542
+B-Peri HP:483/483 MP:200/216
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Nebiros
+3-Tam Lin
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:333/347
+B-Demonee-Ho HP:804/804 MP:152/160
+C-Nebiros HP:249/249 MP:242/242
+D-Tam Lin HP:218/218 MP:43/43
+Equipo de Tamaki (J2)
+A-Tamaki HP:913/999 MP:542/542
+B-Peri HP:483/483 MP:200/216
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nebiros
+2-Tam Lin
+3-Demonee-Ho
+4-Yu
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chemtrail HP:437/437 MP:423/423
+2-Mokoi HP:74/74 MP:36/36
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Chemtrail ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:333/347
+B-Demonee-Ho HP:804/804 MP:152/160
+C-Chemtrail HP:437/437 MP:423/423
+D-Tam Lin HP:218/218 MP:43/43
+Equipo de Tamaki (J2)
+A-Tamaki HP:913/999 MP:542/542
+B-Peri HP:483/483 MP:200/216
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Demonee-Ho
+3-Yu
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Tamaki HP:913/999 MP:542/542
+2-Peri HP:483/483 MP:200/216
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Tam Lin ataca a Tamaki
+Tamaki es resistente el ataque de Tam Lin
+Tamaki recibe 7 de daño
+Tamaki termina con HP:906/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:333/347
+B-Demonee-Ho HP:804/804 MP:152/160
+C-Chemtrail HP:437/437 MP:423/423
+D-Tam Lin HP:218/218 MP:43/43
+Equipo de Tamaki (J2)
+A-Tamaki HP:906/999 MP:542/542
+B-Peri HP:483/483 MP:200/216
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Yu
+3-Chemtrail
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Demonee-Ho use
+1-Iron Judgement MP:8
+2-Desperate Hit MP:40
+3-Breath MP:24
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nebiros HP:249/249 MP:242/242
+2-Mokoi HP:74/74 MP:36/36
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:333/347
+B-Demonee-Ho HP:804/804 MP:152/160
+C-Chemtrail HP:437/437 MP:423/423
+D-Tam Lin HP:218/218 MP:43/43
+Equipo de Tamaki (J2)
+A-Tamaki HP:906/999 MP:542/542
+B-Peri HP:483/483 MP:200/216
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Chemtrail
+3-Tam Lin
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Mudo MP:6
+2-Iron Judgement MP:8
+3-Berserker God MP:12
+4-Zio MP:5
+5-Ziodyne MP:14
+6-Oni-Kagura MP:9
+7-Diarama MP:9
+8-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tamaki HP:906/999 MP:542/542
+2-Peri HP:483/483 MP:200/216
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Tamaki
+Tamaki es resistente el ataque de Yu
+Tamaki recibe 54 de daño
+Tamaki termina con HP:852/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:324/347
+B-Demonee-Ho HP:804/804 MP:152/160
+C-Chemtrail HP:437/437 MP:423/423
+D-Tam Lin HP:218/218 MP:43/43
+Equipo de Tamaki (J2)
+A-Tamaki HP:852/999 MP:542/542
+B-Peri HP:483/483 MP:200/216
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Yu HP:597/597 MP:324/347
+2-Demonee-Ho HP:804/804 MP:152/160
+3-Chemtrail HP:437/437 MP:423/423
+4-Tam Lin HP:218/218 MP:43/43
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Peri use
+1-Diarahan MP:16
+2-Me Patra MP:15
+3-Panic Voice MP:15
+4-Maragidyne MP:32
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Peri use
+1-Diarahan MP:16
+2-Me Patra MP:15
+3-Panic Voice MP:15
+4-Maragidyne MP:32
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Tamaki HP:852/999 MP:542/542
+2-Peri HP:483/483 MP:200/216
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Peri cura a Peri
+Peri recibe 483 de HP
+Peri termina con HP:483/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:324/347
+B-Demonee-Ho HP:804/804 MP:152/160
+C-Chemtrail HP:437/437 MP:423/423
+D-Tam Lin HP:218/218 MP:43/43
+Equipo de Tamaki (J2)
+A-Tamaki HP:852/999 MP:542/542
+B-Peri HP:483/483 MP:184/216
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+2-Peri
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:324/347
+B-Demonee-Ho HP:804/804 MP:152/160
+C-Chemtrail HP:437/437 MP:423/423
+D-Tam Lin HP:218/218 MP:43/43
+Equipo de Tamaki (J2)
+A-Tamaki HP:852/999 MP:542/542
+B-Peri HP:483/483 MP:184/216
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Peri
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:324/347
+B-Demonee-Ho HP:804/804 MP:152/160
+C-Chemtrail HP:437/437 MP:423/423
+D-Tam Lin HP:218/218 MP:43/43
+Equipo de Tamaki (J2)
+A-Tamaki HP:852/999 MP:542/542
+B-Peri HP:483/483 MP:184/216
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Yu
+3-Chemtrail
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nebiros HP:249/249 MP:242/242
+2-Mokoi HP:74/74 MP:36/36
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nebiros ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:324/347
+B-Nebiros HP:249/249 MP:242/242
+C-Chemtrail HP:437/437 MP:423/423
+D-Tam Lin HP:218/218 MP:43/43
+Equipo de Tamaki (J2)
+A-Tamaki HP:852/999 MP:542/542
+B-Peri HP:483/483 MP:184/216
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Chemtrail
+3-Tam Lin
+4-Nebiros
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:324/347
+B-Nebiros HP:249/249 MP:242/242
+C-Chemtrail HP:437/437 MP:423/423
+D-Tam Lin HP:218/218 MP:43/43
+Equipo de Tamaki (J2)
+A-Tamaki HP:852/999 MP:542/542
+B-Peri HP:483/483 MP:184/216
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Tam Lin
+3-Nebiros
+4-Yu
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Tamaki HP:852/999 MP:542/542
+2-Peri HP:483/483 MP:184/216
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chemtrail use
+1-Shivering Taboo MP:40
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Riot Gun MP:30
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Tamaki HP:852/999 MP:542/542
+2-Peri HP:483/483 MP:184/216
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Chemtrail dispara a Peri
+Peri recibe 172 de daño
+Peri termina con HP:311/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:324/347
+B-Nebiros HP:249/249 MP:242/242
+C-Chemtrail HP:437/437 MP:393/423
+D-Tam Lin HP:218/218 MP:43/43
+Equipo de Tamaki (J2)
+A-Tamaki HP:852/999 MP:542/542
+B-Peri HP:311/483 MP:184/216
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Nebiros
+3-Yu
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:804/804 MP:152/160
+2-Mokoi HP:74/74 MP:36/36
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Mokoi ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:324/347
+B-Nebiros HP:249/249 MP:242/242
+C-Chemtrail HP:437/437 MP:393/423
+D-Mokoi HP:74/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:852/999 MP:542/542
+B-Peri HP:311/483 MP:184/216
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nebiros
+2-Yu
+3-Chemtrail
+4-Mokoi
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:804/804 MP:152/160
+2-Tam Lin HP:218/218 MP:43/43
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:324/347
+B-Nebiros HP:249/249 MP:242/242
+C-Chemtrail HP:437/437 MP:393/423
+D-Mokoi HP:74/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:852/999 MP:542/542
+B-Peri HP:311/483 MP:184/216
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Chemtrail
+3-Mokoi
+4-Nebiros
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:324/347
+B-Nebiros HP:249/249 MP:242/242
+C-Chemtrail HP:437/437 MP:393/423
+D-Mokoi HP:74/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:852/999 MP:542/542
+B-Peri HP:311/483 MP:184/216
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Mokoi
+3-Nebiros
+4-Yu
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:804/804 MP:152/160
+2-Tam Lin HP:218/218 MP:43/43
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Demonee-Ho ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:324/347
+B-Nebiros HP:249/249 MP:242/242
+C-Demonee-Ho HP:804/804 MP:152/160
+D-Mokoi HP:74/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:852/999 MP:542/542
+B-Peri HP:311/483 MP:184/216
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Yu HP:597/597 MP:324/347
+2-Nebiros HP:249/249 MP:242/242
+3-Demonee-Ho HP:804/804 MP:152/160
+4-Mokoi HP:74/74 MP:36/36
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Peri ataca a Mokoi
+Mokoi recibe 40 de daño
+Mokoi termina con HP:34/74
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:324/347
+B-Nebiros HP:249/249 MP:242/242
+C-Demonee-Ho HP:804/804 MP:152/160
+D-Mokoi HP:34/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:852/999 MP:542/542
+B-Peri HP:311/483 MP:184/216
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+2-Peri
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Hama MP:6
+2-Gram Slice MP:5
+3-Agidyne MP:14
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Yu HP:597/597 MP:324/347
+2-Nebiros HP:249/249 MP:242/242
+3-Demonee-Ho HP:804/804 MP:152/160
+4-Mokoi HP:34/74 MP:36/36
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tamaki ataca a Nebiros
+Nebiros bloquea el ataque de Tamaki
+Nebiros termina con HP:249/249
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:324/347
+B-Nebiros HP:249/249 MP:242/242
+C-Demonee-Ho HP:804/804 MP:152/160
+D-Mokoi HP:34/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:852/999 MP:537/542
+B-Peri HP:311/483 MP:184/216
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Yu
+3-Nebiros
+4-Mokoi
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Demonee-Ho use
+1-Iron Judgement MP:8
+2-Desperate Hit MP:40
+3-Breath MP:24
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chemtrail HP:437/437 MP:393/423
+2-Tam Lin HP:218/218 MP:43/43
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Tamaki HP:852/999 MP:537/542
+2-Peri HP:311/483 MP:184/216
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Demonee-Ho ataca a Tamaki
+Tamaki es resistente el ataque de Demonee-Ho
+Tamaki recibe 31 de daño
+Tamaki termina con HP:821/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:324/347
+B-Nebiros HP:249/249 MP:242/242
+C-Demonee-Ho HP:804/804 MP:152/160
+D-Mokoi HP:34/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:821/999 MP:537/542
+B-Peri HP:311/483 MP:184/216
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Nebiros
+3-Mokoi
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tamaki HP:821/999 MP:537/542
+2-Peri HP:311/483 MP:184/216
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Yu ataca a Peri
+Peri recibe 49 de daño
+Peri termina con HP:262/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:324/347
+B-Nebiros HP:249/249 MP:242/242
+C-Demonee-Ho HP:804/804 MP:152/160
+D-Mokoi HP:34/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:821/999 MP:537/542
+B-Peri HP:262/483 MP:184/216
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nebiros
+2-Mokoi
+3-Demonee-Ho
+4-Yu
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chemtrail HP:437/437 MP:393/423
+2-Tam Lin HP:218/218 MP:43/43
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Chemtrail ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:324/347
+B-Chemtrail HP:437/437 MP:393/423
+C-Demonee-Ho HP:804/804 MP:152/160
+D-Mokoi HP:34/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:821/999 MP:537/542
+B-Peri HP:262/483 MP:184/216
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mokoi
+2-Demonee-Ho
+3-Yu
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Mokoi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mokoi
+1-Tamaki HP:821/999 MP:537/542
+2-Peri HP:262/483 MP:184/216
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Mokoi ataca a Peri
+Peri recibe 3 de daño
+Peri termina con HP:259/483
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:324/347
+B-Chemtrail HP:437/437 MP:393/423
+C-Demonee-Ho HP:804/804 MP:152/160
+D-Mokoi HP:34/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:821/999 MP:537/542
+B-Peri HP:259/483 MP:184/216
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Yu
+3-Chemtrail
+4-Mokoi
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nebiros HP:249/249 MP:242/242
+2-Tam Lin HP:218/218 MP:43/43
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Tam Lin ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:324/347
+B-Chemtrail HP:437/437 MP:393/423
+C-Tam Lin HP:218/218 MP:43/43
+D-Mokoi HP:34/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:821/999 MP:537/542
+B-Peri HP:259/483 MP:184/216
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Chemtrail
+3-Mokoi
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tamaki HP:821/999 MP:537/542
+2-Peri HP:259/483 MP:184/216
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Yu dispara a Peri
+Peri recibe 72 de daño
+Peri termina con HP:187/483
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:324/347
+B-Chemtrail HP:437/437 MP:393/423
+C-Tam Lin HP:218/218 MP:43/43
+D-Mokoi HP:34/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:821/999 MP:537/542
+B-Peri HP:187/483 MP:184/216
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:324/347
+B-Chemtrail HP:437/437 MP:393/423
+C-Tam Lin HP:218/218 MP:43/43
+D-Mokoi HP:34/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:821/999 MP:537/542
+B-Peri HP:187/483 MP:184/216
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Peri
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Yu HP:597/597 MP:324/347
+2-Chemtrail HP:437/437 MP:393/423
+3-Tam Lin HP:218/218 MP:43/43
+4-Mokoi HP:34/74 MP:36/36
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tamaki ataca a Yu
+Yu es resistente el ataque de Tamaki
+Yu recibe 9 de daño
+Yu termina con HP:588/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:588/597 MP:324/347
+B-Chemtrail HP:437/437 MP:393/423
+C-Tam Lin HP:218/218 MP:43/43
+D-Mokoi HP:34/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:821/999 MP:537/542
+B-Peri HP:187/483 MP:184/216
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Peri use
+1-Diarahan MP:16
+2-Me Patra MP:15
+3-Panic Voice MP:15
+4-Maragidyne MP:32
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:588/597 MP:324/347
+B-Chemtrail HP:437/437 MP:393/423
+C-Tam Lin HP:218/218 MP:43/43
+D-Mokoi HP:34/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:821/999 MP:537/542
+B-Peri HP:187/483 MP:184/216
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Peri
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Yu HP:588/597 MP:324/347
+2-Chemtrail HP:437/437 MP:393/423
+3-Tam Lin HP:218/218 MP:43/43
+4-Mokoi HP:34/74 MP:36/36
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Tamaki dispara a Mokoi
+Mokoi recibe 15 de daño
+Mokoi termina con HP:19/74
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:588/597 MP:324/347
+B-Chemtrail HP:437/437 MP:393/423
+C-Tam Lin HP:218/218 MP:43/43
+D-Mokoi HP:19/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:821/999 MP:537/542
+B-Peri HP:187/483 MP:184/216
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Chemtrail
+3-Tam Lin
+4-Mokoi
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tamaki HP:821/999 MP:537/542
+2-Peri HP:187/483 MP:184/216
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Yu dispara a Tamaki
+Tamaki es resistente el ataque de Yu
+Tamaki recibe 36 de daño
+Tamaki termina con HP:785/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:588/597 MP:324/347
+B-Chemtrail HP:437/437 MP:393/423
+C-Tam Lin HP:218/218 MP:43/43
+D-Mokoi HP:19/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:785/999 MP:537/542
+B-Peri HP:187/483 MP:184/216
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Tam Lin
+3-Mokoi
+4-Yu
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Tamaki HP:785/999 MP:537/542
+2-Peri HP:187/483 MP:184/216
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:804/804 MP:152/160
+2-Nebiros HP:249/249 MP:242/242
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Demonee-Ho ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:588/597 MP:324/347
+B-Demonee-Ho HP:804/804 MP:152/160
+C-Tam Lin HP:218/218 MP:43/43
+D-Mokoi HP:19/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:785/999 MP:537/542
+B-Peri HP:187/483 MP:184/216
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Mokoi
+3-Yu
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Tamaki HP:785/999 MP:537/542
+2-Peri HP:187/483 MP:184/216
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Tam Lin ataca a Tamaki
+Tamaki es resistente el ataque de Tam Lin
+Tamaki recibe 7 de daño
+Tamaki termina con HP:778/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:588/597 MP:324/347
+B-Demonee-Ho HP:804/804 MP:152/160
+C-Tam Lin HP:218/218 MP:43/43
+D-Mokoi HP:19/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:778/999 MP:537/542
+B-Peri HP:187/483 MP:184/216
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mokoi
+2-Yu
+3-Demonee-Ho
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Mokoi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:588/597 MP:324/347
+B-Demonee-Ho HP:804/804 MP:152/160
+C-Tam Lin HP:218/218 MP:43/43
+D-Mokoi HP:19/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:778/999 MP:537/542
+B-Peri HP:187/483 MP:184/216
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Demonee-Ho
+3-Tam Lin
+4-Mokoi
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:588/597 MP:324/347
+B-Demonee-Ho HP:804/804 MP:152/160
+C-Tam Lin HP:218/218 MP:43/43
+D-Mokoi HP:19/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:778/999 MP:537/542
+B-Peri HP:187/483 MP:184/216
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Tam Lin
+3-Mokoi
+4-Yu
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Demonee-Ho use
+1-Iron Judgement MP:8
+2-Desperate Hit MP:40
+3-Breath MP:24
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Tamaki HP:778/999 MP:537/542
+2-Peri HP:187/483 MP:184/216
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Demonee-Ho ataca a Tamaki
+Tamaki es resistente el ataque de Demonee-Ho
+Tamaki recibe 55 de daño
+Tamaki termina con HP:723/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:588/597 MP:324/347
+B-Demonee-Ho HP:804/804 MP:144/160
+C-Tam Lin HP:218/218 MP:43/43
+D-Mokoi HP:19/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:723/999 MP:537/542
+B-Peri HP:187/483 MP:184/216
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:588/597 MP:324/347
+B-Demonee-Ho HP:804/804 MP:144/160
+C-Tam Lin HP:218/218 MP:43/43
+D-Mokoi HP:19/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:723/999 MP:537/542
+B-Peri HP:187/483 MP:184/216
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Peri
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Hama MP:6
+2-Gram Slice MP:5
+3-Agidyne MP:14
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Yu HP:588/597 MP:324/347
+2-Demonee-Ho HP:804/804 MP:144/160
+3-Tam Lin HP:218/218 MP:43/43
+4-Mokoi HP:19/74 MP:36/36
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Hama MP:6
+2-Gram Slice MP:5
+3-Agidyne MP:14
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Yu HP:588/597 MP:324/347
+2-Demonee-Ho HP:804/804 MP:144/160
+3-Tam Lin HP:218/218 MP:43/43
+4-Mokoi HP:19/74 MP:36/36
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:588/597 MP:324/347
+B-Demonee-Ho HP:804/804 MP:144/160
+C-Tam Lin HP:218/218 MP:43/43
+D-Mokoi HP:19/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:723/999 MP:537/542
+B-Peri HP:187/483 MP:184/216
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Peri use
+1-Diarahan MP:16
+2-Me Patra MP:15
+3-Panic Voice MP:15
+4-Maragidyne MP:32
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:588/597 MP:324/347
+B-Demonee-Ho HP:804/804 MP:144/160
+C-Tam Lin HP:218/218 MP:43/43
+D-Mokoi HP:19/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:723/999 MP:537/542
+B-Peri HP:187/483 MP:184/216
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Peri
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Hama MP:6
+2-Gram Slice MP:5
+3-Agidyne MP:14
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Yu HP:588/597 MP:324/347
+2-Demonee-Ho HP:804/804 MP:144/160
+3-Tam Lin HP:218/218 MP:43/43
+4-Mokoi HP:19/74 MP:36/36
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Tamaki lanza fuego a Tam Lin
+Tam Lin recibe 64 de daño
+Tam Lin termina con HP:154/218
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:588/597 MP:324/347
+B-Demonee-Ho HP:804/804 MP:144/160
+C-Tam Lin HP:154/218 MP:43/43
+D-Mokoi HP:19/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:723/999 MP:523/542
+B-Peri HP:187/483 MP:184/216
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Yu
+3-Tam Lin
+4-Mokoi
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:588/597 MP:324/347
+B-Demonee-Ho HP:804/804 MP:144/160
+C-Tam Lin HP:154/218 MP:43/43
+D-Mokoi HP:19/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:723/999 MP:523/542
+B-Peri HP:187/483 MP:184/216
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Tam Lin
+3-Mokoi
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nebiros HP:249/249 MP:242/242
+2-Chemtrail HP:437/437 MP:393/423
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Demonee-Ho HP:804/804 MP:144/160 (Puesto 2)
+2-Tam Lin HP:154/218 MP:43/43 (Puesto 3)
+3-Mokoi HP:19/74 MP:36/36 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nebiros ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:588/597 MP:324/347
+B-Demonee-Ho HP:804/804 MP:144/160
+C-Nebiros HP:249/249 MP:242/242
+D-Mokoi HP:19/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:723/999 MP:523/542
+B-Peri HP:187/483 MP:184/216
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nebiros
+2-Mokoi
+3-Demonee-Ho
+4-Yu
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Tamaki HP:723/999 MP:523/542
+2-Peri HP:187/483 MP:184/216
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nebiros ataca a Tamaki
+Tamaki es resistente el ataque de Nebiros
+Tamaki recibe 13 de daño
+Tamaki termina con HP:710/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:588/597 MP:324/347
+B-Demonee-Ho HP:804/804 MP:144/160
+C-Nebiros HP:249/249 MP:242/242
+D-Mokoi HP:19/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:710/999 MP:523/542
+B-Peri HP:187/483 MP:184/216
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mokoi
+2-Demonee-Ho
+3-Yu
+4-Nebiros
+----------------------------------------
+Seleccione una acción para Mokoi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:588/597 MP:324/347
+B-Demonee-Ho HP:804/804 MP:144/160
+C-Nebiros HP:249/249 MP:242/242
+D-Mokoi HP:19/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:710/999 MP:523/542
+B-Peri HP:187/483 MP:184/216
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Yu
+3-Nebiros
+4-Mokoi
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Tamaki HP:710/999 MP:523/542
+2-Peri HP:187/483 MP:184/216
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Demonee-Ho ataca a Tamaki
+Tamaki es resistente el ataque de Demonee-Ho
+Tamaki recibe 31 de daño
+Tamaki termina con HP:679/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:588/597 MP:324/347
+B-Demonee-Ho HP:804/804 MP:144/160
+C-Nebiros HP:249/249 MP:242/242
+D-Mokoi HP:19/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:679/999 MP:523/542
+B-Peri HP:187/483 MP:184/216
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Nebiros
+3-Mokoi
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tamaki HP:679/999 MP:523/542
+2-Peri HP:187/483 MP:184/216
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Yu dispara a Peri
+Peri recibe 72 de daño
+Peri termina con HP:115/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:588/597 MP:324/347
+B-Demonee-Ho HP:804/804 MP:144/160
+C-Nebiros HP:249/249 MP:242/242
+D-Mokoi HP:19/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:679/999 MP:523/542
+B-Peri HP:115/483 MP:184/216
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Peri use
+1-Diarahan MP:16
+2-Me Patra MP:15
+3-Panic Voice MP:15
+4-Maragidyne MP:32
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Tamaki HP:679/999 MP:523/542
+2-Peri HP:115/483 MP:184/216
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Peri cura a Tamaki
+Tamaki recibe 999 de HP
+Tamaki termina con HP:999/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:588/597 MP:324/347
+B-Demonee-Ho HP:804/804 MP:144/160
+C-Nebiros HP:249/249 MP:242/242
+D-Mokoi HP:19/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:999/999 MP:523/542
+B-Peri HP:115/483 MP:168/216
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+2-Peri
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:588/597 MP:324/347
+B-Demonee-Ho HP:804/804 MP:144/160
+C-Nebiros HP:249/249 MP:242/242
+D-Mokoi HP:19/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:999/999 MP:523/542
+B-Peri HP:115/483 MP:168/216
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Peri
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:588/597 MP:324/347
+B-Demonee-Ho HP:804/804 MP:144/160
+C-Nebiros HP:249/249 MP:242/242
+D-Mokoi HP:19/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:999/999 MP:523/542
+B-Peri HP:115/483 MP:168/216
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Yu
+3-Nebiros
+4-Mokoi
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:588/597 MP:324/347
+B-Demonee-Ho HP:804/804 MP:144/160
+C-Nebiros HP:249/249 MP:242/242
+D-Mokoi HP:19/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:999/999 MP:523/542
+B-Peri HP:115/483 MP:168/216
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Nebiros
+3-Mokoi
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chemtrail HP:437/437 MP:393/423
+2-Tam Lin HP:154/218 MP:43/43
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Demonee-Ho HP:804/804 MP:144/160 (Puesto 2)
+2-Nebiros HP:249/249 MP:242/242 (Puesto 3)
+3-Mokoi HP:19/74 MP:36/36 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tamaki HP:999/999 MP:523/542
+2-Peri HP:115/483 MP:168/216
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Yu dispara a Peri
+Peri recibe 72 de daño
+Peri termina con HP:43/483
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:588/597 MP:324/347
+B-Demonee-Ho HP:804/804 MP:144/160
+C-Nebiros HP:249/249 MP:242/242
+D-Mokoi HP:19/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:999/999 MP:523/542
+B-Peri HP:43/483 MP:168/216
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nebiros
+2-Mokoi
+3-Demonee-Ho
+4-Yu
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nebiros use
+1-Mudoon MP:10
+2-Sabbatma MP:20
+3-Pulinpa MP:5
+4-Megidola MP:40
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nebiros use
+1-Mudoon MP:10
+2-Sabbatma MP:20
+3-Pulinpa MP:5
+4-Megidola MP:40
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chemtrail HP:437/437 MP:393/423
+2-Tam Lin HP:154/218 MP:43/43
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chemtrail HP:437/437 MP:393/423
+2-Tam Lin HP:154/218 MP:43/43
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Tamaki HP:999/999 MP:523/542
+2-Peri HP:43/483 MP:168/216
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nebiros ataca a Tamaki
+Tamaki es resistente el ataque de Nebiros
+Tamaki recibe 13 de daño
+Tamaki termina con HP:986/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:588/597 MP:324/347
+B-Demonee-Ho HP:804/804 MP:144/160
+C-Nebiros HP:249/249 MP:242/242
+D-Mokoi HP:19/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:986/999 MP:523/542
+B-Peri HP:43/483 MP:168/216
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mokoi
+2-Demonee-Ho
+3-Yu
+4-Nebiros
+----------------------------------------
+Seleccione una acción para Mokoi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mokoi
+1-Tamaki HP:986/999 MP:523/542
+2-Peri HP:43/483 MP:168/216
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Mokoi ataca a Tamaki
+Tamaki es resistente el ataque de Mokoi
+Tamaki recibe 1 de daño
+Tamaki termina con HP:985/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:588/597 MP:324/347
+B-Demonee-Ho HP:804/804 MP:144/160
+C-Nebiros HP:249/249 MP:242/242
+D-Mokoi HP:19/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:985/999 MP:523/542
+B-Peri HP:43/483 MP:168/216
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Yu
+3-Nebiros
+4-Mokoi
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Tamaki HP:985/999 MP:523/542
+2-Peri HP:43/483 MP:168/216
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Demonee-Ho ataca a Tamaki
+Tamaki es resistente el ataque de Demonee-Ho
+Tamaki recibe 31 de daño
+Tamaki termina con HP:954/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:588/597 MP:324/347
+B-Demonee-Ho HP:804/804 MP:144/160
+C-Nebiros HP:249/249 MP:242/242
+D-Mokoi HP:19/74 MP:36/36
+Equipo de Tamaki (J2)
+A-Tamaki HP:954/999 MP:523/542
+B-Peri HP:43/483 MP:168/216
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Yu HP:588/597 MP:324/347
+2-Demonee-Ho HP:804/804 MP:144/160
+3-Nebiros HP:249/249 MP:242/242
+4-Mokoi HP:19/74 MP:36/36
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Peri ataca a Mokoi
+Mokoi recibe 40 de daño
+Mokoi termina con HP:0/74
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:588/597 MP:324/347
+B-Demonee-Ho HP:804/804 MP:144/160
+C-Nebiros HP:249/249 MP:242/242
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:954/999 MP:523/542
+B-Peri HP:43/483 MP:168/216
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+2-Peri
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Yu HP:588/597 MP:324/347
+2-Demonee-Ho HP:804/804 MP:144/160
+3-Nebiros HP:249/249 MP:242/242
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Tamaki dispara a Demonee-Ho
+Demonee-Ho es resistente el ataque de Tamaki
+Demonee-Ho recibe 7 de daño
+Demonee-Ho termina con HP:797/804
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:588/597 MP:324/347
+B-Demonee-Ho HP:797/804 MP:144/160
+C-Nebiros HP:249/249 MP:242/242
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:954/999 MP:523/542
+B-Peri HP:43/483 MP:168/216
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Yu
+3-Nebiros
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:588/597 MP:324/347
+B-Demonee-Ho HP:797/804 MP:144/160
+C-Nebiros HP:249/249 MP:242/242
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:954/999 MP:523/542
+B-Peri HP:43/483 MP:168/216
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Nebiros
+3-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:588/597 MP:324/347
+B-Demonee-Ho HP:797/804 MP:144/160
+C-Nebiros HP:249/249 MP:242/242
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:954/999 MP:523/542
+B-Peri HP:43/483 MP:168/216
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nebiros
+2-Demonee-Ho
+3-Yu
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Tamaki HP:954/999 MP:523/542
+2-Peri HP:43/483 MP:168/216
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Tamaki HP:954/999 MP:523/542
+2-Peri HP:43/483 MP:168/216
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Nebiros ataca a Peri
+Peri recibe 26 de daño
+Peri termina con HP:17/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:588/597 MP:324/347
+B-Demonee-Ho HP:797/804 MP:144/160
+C-Nebiros HP:249/249 MP:242/242
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:954/999 MP:523/542
+B-Peri HP:17/483 MP:168/216
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Yu
+3-Nebiros
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chemtrail HP:437/437 MP:393/423
+2-Tam Lin HP:154/218 MP:43/43
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Tam Lin ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:588/597 MP:324/347
+B-Tam Lin HP:154/218 MP:43/43
+C-Nebiros HP:249/249 MP:242/242
+D-
+Equipo de Tamaki (J2)
+A-Tamaki HP:954/999 MP:523/542
+B-Peri HP:17/483 MP:168/216
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Nebiros
+3-Tam Lin
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:797/804 MP:144/160
+2-Chemtrail HP:437/437 MP:393/423
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Tam Lin HP:154/218 MP:43/43 (Puesto 2)
+2-Nebiros HP:249/249 MP:242/242 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Chemtrail ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:588/597 MP:324/347
+B-Tam Lin HP:154/218 MP:43/43
+C-Nebiros HP:249/249 MP:242/242
+D-Chemtrail HP:437/437 MP:393/423
+Equipo de Tamaki (J2)
+A-Tamaki HP:954/999 MP:523/542
+B-Peri HP:17/483 MP:168/216
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Peri use
+1-Diarahan MP:16
+2-Me Patra MP:15
+3-Panic Voice MP:15
+4-Maragidyne MP:32
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:588/597 MP:324/347
+B-Tam Lin HP:154/218 MP:43/43
+C-Nebiros HP:249/249 MP:242/242
+D-Chemtrail HP:437/437 MP:393/423
+Equipo de Tamaki (J2)
+A-Tamaki HP:954/999 MP:523/542
+B-Peri HP:17/483 MP:168/216
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Peri
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:588/597 MP:324/347
+B-Tam Lin HP:154/218 MP:43/43
+C-Nebiros HP:249/249 MP:242/242
+D-Chemtrail HP:437/437 MP:393/423
+Equipo de Tamaki (J2)
+A-Tamaki HP:954/999 MP:523/542
+B-Peri HP:17/483 MP:168/216
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Tamaki
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Peri use
+1-Diarahan MP:16
+2-Me Patra MP:15
+3-Panic Voice MP:15
+4-Maragidyne MP:32
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Tamaki HP:954/999 MP:523/542
+2-Peri HP:17/483 MP:168/216
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:588/597 MP:324/347
+B-Tam Lin HP:154/218 MP:43/43
+C-Nebiros HP:249/249 MP:242/242
+D-Chemtrail HP:437/437 MP:393/423
+Equipo de Tamaki (J2)
+A-Tamaki HP:954/999 MP:523/542
+B-Peri HP:17/483 MP:168/216
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Peri
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Yu HP:588/597 MP:324/347
+2-Tam Lin HP:154/218 MP:43/43
+3-Nebiros HP:249/249 MP:242/242
+4-Chemtrail HP:437/437 MP:393/423
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tamaki ataca a Yu
+Yu es resistente el ataque de Tamaki
+Yu recibe 9 de daño
+Yu termina con HP:579/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:324/347
+B-Tam Lin HP:154/218 MP:43/43
+C-Nebiros HP:249/249 MP:242/242
+D-Chemtrail HP:437/437 MP:393/423
+Equipo de Tamaki (J2)
+A-Tamaki HP:954/999 MP:523/542
+B-Peri HP:17/483 MP:168/216
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Chemtrail
+3-Nebiros
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tamaki HP:954/999 MP:523/542
+2-Peri HP:17/483 MP:168/216
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Tamaki
+Tamaki es resistente el ataque de Yu
+Tamaki recibe 24 de daño
+Tamaki termina con HP:930/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:324/347
+B-Tam Lin HP:154/218 MP:43/43
+C-Nebiros HP:249/249 MP:242/242
+D-Chemtrail HP:437/437 MP:393/423
+Equipo de Tamaki (J2)
+A-Tamaki HP:930/999 MP:523/542
+B-Peri HP:17/483 MP:168/216
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Nebiros
+3-Tam Lin
+4-Yu
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:324/347
+B-Tam Lin HP:154/218 MP:43/43
+C-Nebiros HP:249/249 MP:242/242
+D-Chemtrail HP:437/437 MP:393/423
+Equipo de Tamaki (J2)
+A-Tamaki HP:930/999 MP:523/542
+B-Peri HP:17/483 MP:168/216
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nebiros
+2-Tam Lin
+3-Yu
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Tamaki HP:930/999 MP:523/542
+2-Peri HP:17/483 MP:168/216
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nebiros ataca a Tamaki
+Tamaki es resistente el ataque de Nebiros
+Tamaki recibe 13 de daño
+Tamaki termina con HP:917/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:324/347
+B-Tam Lin HP:154/218 MP:43/43
+C-Nebiros HP:249/249 MP:242/242
+D-Chemtrail HP:437/437 MP:393/423
+Equipo de Tamaki (J2)
+A-Tamaki HP:917/999 MP:523/542
+B-Peri HP:17/483 MP:168/216
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Yu
+3-Chemtrail
+4-Nebiros
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Tamaki HP:917/999 MP:523/542
+2-Peri HP:17/483 MP:168/216
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Tam Lin ataca a Peri
+Peri recibe 14 de daño
+Peri termina con HP:3/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:324/347
+B-Tam Lin HP:154/218 MP:43/43
+C-Nebiros HP:249/249 MP:242/242
+D-Chemtrail HP:437/437 MP:393/423
+Equipo de Tamaki (J2)
+A-Tamaki HP:917/999 MP:523/542
+B-Peri HP:3/483 MP:168/216
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Chemtrail
+3-Nebiros
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Mudo MP:6
+2-Iron Judgement MP:8
+3-Berserker God MP:12
+4-Zio MP:5
+5-Ziodyne MP:14
+6-Oni-Kagura MP:9
+7-Diarama MP:9
+8-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tamaki HP:917/999 MP:523/542
+2-Peri HP:3/483 MP:168/216
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Yu lanza electricidad a Peri
+Peri recibe 80 de daño
+Peri termina con HP:0/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:319/347
+B-Tam Lin HP:154/218 MP:43/43
+C-Nebiros HP:249/249 MP:242/242
+D-Chemtrail HP:437/437 MP:393/423
+Equipo de Tamaki (J2)
+A-Tamaki HP:917/999 MP:523/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:319/347
+B-Tam Lin HP:154/218 MP:43/43
+C-Nebiros HP:249/249 MP:242/242
+D-Chemtrail HP:437/437 MP:393/423
+Equipo de Tamaki (J2)
+A-Tamaki HP:917/999 MP:523/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:319/347
+B-Tam Lin HP:154/218 MP:43/43
+C-Nebiros HP:249/249 MP:242/242
+D-Chemtrail HP:437/437 MP:393/423
+Equipo de Tamaki (J2)
+A-Tamaki HP:917/999 MP:523/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Chemtrail
+3-Nebiros
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tamaki HP:917/999 MP:523/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu dispara a Tamaki
+Tamaki es resistente el ataque de Yu
+Tamaki recibe 36 de daño
+Tamaki termina con HP:881/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:319/347
+B-Tam Lin HP:154/218 MP:43/43
+C-Nebiros HP:249/249 MP:242/242
+D-Chemtrail HP:437/437 MP:393/423
+Equipo de Tamaki (J2)
+A-Tamaki HP:881/999 MP:523/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Nebiros
+3-Tam Lin
+4-Yu
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chemtrail use
+1-Shivering Taboo MP:40
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Riot Gun MP:30
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chemtrail use
+1-Shivering Taboo MP:40
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Riot Gun MP:30
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:797/804 MP:144/160
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demonee-Ho ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:319/347
+B-Tam Lin HP:154/218 MP:43/43
+C-Nebiros HP:249/249 MP:242/242
+D-Demonee-Ho HP:797/804 MP:144/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:881/999 MP:523/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nebiros
+2-Tam Lin
+3-Yu
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Tamaki HP:881/999 MP:523/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nebiros ataca a Tamaki
+Tamaki es resistente el ataque de Nebiros
+Tamaki recibe 13 de daño
+Tamaki termina con HP:868/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:319/347
+B-Tam Lin HP:154/218 MP:43/43
+C-Nebiros HP:249/249 MP:242/242
+D-Demonee-Ho HP:797/804 MP:144/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:868/999 MP:523/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Yu
+3-Demonee-Ho
+4-Nebiros
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Tamaki HP:868/999 MP:523/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tam Lin ataca a Tamaki
+Tamaki es resistente el ataque de Tam Lin
+Tamaki recibe 7 de daño
+Tamaki termina con HP:861/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:319/347
+B-Tam Lin HP:154/218 MP:43/43
+C-Nebiros HP:249/249 MP:242/242
+D-Demonee-Ho HP:797/804 MP:144/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:861/999 MP:523/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Demonee-Ho
+3-Nebiros
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tamaki HP:861/999 MP:523/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tamaki HP:861/999 MP:523/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tamaki HP:861/999 MP:523/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tamaki HP:861/999 MP:523/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu dispara a Tamaki
+Tamaki es resistente el ataque de Yu
+Tamaki recibe 36 de daño
+Tamaki termina con HP:825/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:319/347
+B-Tam Lin HP:154/218 MP:43/43
+C-Nebiros HP:249/249 MP:242/242
+D-Demonee-Ho HP:797/804 MP:144/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:825/999 MP:523/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Yu HP:579/597 MP:319/347
+2-Tam Lin HP:154/218 MP:43/43
+3-Nebiros HP:249/249 MP:242/242
+4-Demonee-Ho HP:797/804 MP:144/160
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Hama MP:6
+2-Gram Slice MP:5
+3-Agidyne MP:14
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Yu HP:579/597 MP:319/347
+2-Tam Lin HP:154/218 MP:43/43
+3-Nebiros HP:249/249 MP:242/242
+4-Demonee-Ho HP:797/804 MP:144/160
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tamaki ataca con luz a Tam Lin
+Tam Lin bloquea el ataque de Tamaki
+Tam Lin termina con HP:154/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:319/347
+B-Tam Lin HP:154/218 MP:43/43
+C-Nebiros HP:249/249 MP:242/242
+D-Demonee-Ho HP:797/804 MP:144/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:825/999 MP:517/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Yu
+3-Nebiros
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:319/347
+B-Tam Lin HP:154/218 MP:43/43
+C-Nebiros HP:249/249 MP:242/242
+D-Demonee-Ho HP:797/804 MP:144/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:825/999 MP:517/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Nebiros
+3-Tam Lin
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:319/347
+B-Tam Lin HP:154/218 MP:43/43
+C-Nebiros HP:249/249 MP:242/242
+D-Demonee-Ho HP:797/804 MP:144/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:825/999 MP:517/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nebiros
+2-Tam Lin
+3-Demonee-Ho
+4-Yu
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nebiros use
+1-Mudoon MP:10
+2-Sabbatma MP:20
+3-Pulinpa MP:5
+4-Megidola MP:40
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chemtrail HP:437/437 MP:393/423
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nebiros use
+1-Mudoon MP:10
+2-Sabbatma MP:20
+3-Pulinpa MP:5
+4-Megidola MP:40
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chemtrail HP:437/437 MP:393/423
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Chemtrail ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:319/347
+B-Tam Lin HP:154/218 MP:43/43
+C-Chemtrail HP:437/437 MP:393/423
+D-Demonee-Ho HP:797/804 MP:144/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:825/999 MP:517/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Demonee-Ho
+3-Yu
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nebiros HP:249/249 MP:242/242
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nebiros ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:319/347
+B-Nebiros HP:249/249 MP:242/242
+C-Chemtrail HP:437/437 MP:393/423
+D-Demonee-Ho HP:797/804 MP:144/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:825/999 MP:517/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Yu
+3-Chemtrail
+4-Nebiros
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Demonee-Ho use
+1-Iron Judgement MP:8
+2-Desperate Hit MP:40
+3-Breath MP:24
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Tamaki HP:825/999 MP:517/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demonee-Ho ataca a Tamaki
+Tamaki es resistente el ataque de Demonee-Ho
+Tamaki recibe 55 de daño
+Tamaki termina con HP:770/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:319/347
+B-Nebiros HP:249/249 MP:242/242
+C-Chemtrail HP:437/437 MP:393/423
+D-Demonee-Ho HP:797/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:770/999 MP:517/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Chemtrail
+3-Nebiros
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tam Lin HP:154/218 MP:43/43
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Nebiros HP:249/249 MP:242/242 (Puesto 2)
+2-Chemtrail HP:437/437 MP:393/423 (Puesto 3)
+3-Demonee-Ho HP:797/804 MP:136/160 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tamaki HP:770/999 MP:517/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu dispara a Tamaki
+Tamaki es resistente el ataque de Yu
+Tamaki recibe 36 de daño
+Tamaki termina con HP:734/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:319/347
+B-Nebiros HP:249/249 MP:242/242
+C-Chemtrail HP:437/437 MP:393/423
+D-Demonee-Ho HP:797/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:734/999 MP:517/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:319/347
+B-Nebiros HP:249/249 MP:242/242
+C-Chemtrail HP:437/437 MP:393/423
+D-Demonee-Ho HP:797/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:734/999 MP:517/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Yu HP:579/597 MP:319/347
+2-Nebiros HP:249/249 MP:242/242
+3-Chemtrail HP:437/437 MP:393/423
+4-Demonee-Ho HP:797/804 MP:136/160
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Tamaki dispara a Chemtrail
+Chemtrail recibe 15 de daño
+Chemtrail termina con HP:422/437
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:319/347
+B-Nebiros HP:249/249 MP:242/242
+C-Chemtrail HP:422/437 MP:393/423
+D-Demonee-Ho HP:797/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:734/999 MP:517/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Yu
+3-Chemtrail
+4-Nebiros
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Demonee-Ho use
+1-Iron Judgement MP:8
+2-Desperate Hit MP:40
+3-Breath MP:24
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Demonee-Ho use
+1-Iron Judgement MP:8
+2-Desperate Hit MP:40
+3-Breath MP:24
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Demonee-Ho use
+1-Iron Judgement MP:8
+2-Desperate Hit MP:40
+3-Breath MP:24
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:319/347
+B-Nebiros HP:249/249 MP:242/242
+C-Chemtrail HP:422/437 MP:393/423
+D-Demonee-Ho HP:797/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:734/999 MP:517/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Chemtrail
+3-Nebiros
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Mudo MP:6
+2-Iron Judgement MP:8
+3-Berserker God MP:12
+4-Zio MP:5
+5-Ziodyne MP:14
+6-Oni-Kagura MP:9
+7-Diarama MP:9
+8-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tamaki HP:734/999 MP:517/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Tamaki
+Tamaki es resistente el ataque de Yu
+Tamaki recibe 54 de daño
+Tamaki termina con HP:680/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:310/347
+B-Nebiros HP:249/249 MP:242/242
+C-Chemtrail HP:422/437 MP:393/423
+D-Demonee-Ho HP:797/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:680/999 MP:517/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Nebiros
+3-Demonee-Ho
+4-Yu
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chemtrail use
+1-Shivering Taboo MP:40
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Riot Gun MP:30
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Tamaki HP:680/999 MP:517/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tam Lin HP:154/218 MP:43/43
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tam Lin ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:310/347
+B-Nebiros HP:249/249 MP:242/242
+C-Tam Lin HP:154/218 MP:43/43
+D-Demonee-Ho HP:797/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:680/999 MP:517/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nebiros
+2-Demonee-Ho
+3-Yu
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chemtrail HP:422/437 MP:393/423
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nebiros use
+1-Mudoon MP:10
+2-Sabbatma MP:20
+3-Pulinpa MP:5
+4-Megidola MP:40
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Tamaki HP:680/999 MP:517/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:310/347
+B-Nebiros HP:249/249 MP:242/242
+C-Tam Lin HP:154/218 MP:43/43
+D-Demonee-Ho HP:797/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:680/999 MP:517/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Yu
+3-Tam Lin
+4-Nebiros
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Tamaki HP:680/999 MP:517/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demonee-Ho ataca a Tamaki
+Tamaki es resistente el ataque de Demonee-Ho
+Tamaki recibe 31 de daño
+Tamaki termina con HP:649/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:310/347
+B-Nebiros HP:249/249 MP:242/242
+C-Tam Lin HP:154/218 MP:43/43
+D-Demonee-Ho HP:797/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:649/999 MP:517/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Tam Lin
+3-Nebiros
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tamaki HP:649/999 MP:517/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Mudo MP:6
+2-Iron Judgement MP:8
+3-Berserker God MP:12
+4-Zio MP:5
+5-Ziodyne MP:14
+6-Oni-Kagura MP:9
+7-Diarama MP:9
+8-Cancelar
+INPUT: 7
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Yu HP:579/597 MP:310/347
+2-Nebiros HP:249/249 MP:242/242
+3-Tam Lin HP:154/218 MP:43/43
+4-Demonee-Ho HP:797/804 MP:136/160
+5-Chemtrail HP:422/437 MP:393/423
+6-Cancelar
+INPUT: 5
+----------------------------------------
+Yu cura a Chemtrail
+Chemtrail recibe 218 de HP
+Chemtrail termina con HP:437/437
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:301/347
+B-Nebiros HP:249/249 MP:242/242
+C-Tam Lin HP:154/218 MP:43/43
+D-Demonee-Ho HP:797/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:649/999 MP:517/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Hama MP:6
+2-Gram Slice MP:5
+3-Agidyne MP:14
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Yu HP:579/597 MP:301/347
+2-Nebiros HP:249/249 MP:242/242
+3-Tam Lin HP:154/218 MP:43/43
+4-Demonee-Ho HP:797/804 MP:136/160
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Tamaki ataca a Demonee-Ho
+Demonee-Ho es resistente el ataque de Tamaki
+Demonee-Ho recibe 27 de daño
+Demonee-Ho termina con HP:770/804
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:301/347
+B-Nebiros HP:249/249 MP:242/242
+C-Tam Lin HP:154/218 MP:43/43
+D-Demonee-Ho HP:770/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:649/999 MP:512/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Yu
+3-Nebiros
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Tamaki HP:649/999 MP:512/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:301/347
+B-Nebiros HP:249/249 MP:242/242
+C-Tam Lin HP:154/218 MP:43/43
+D-Demonee-Ho HP:770/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:649/999 MP:512/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Nebiros
+3-Tam Lin
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tamaki HP:649/999 MP:512/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu dispara a Tamaki
+Tamaki es resistente el ataque de Yu
+Tamaki recibe 36 de daño
+Tamaki termina con HP:613/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:301/347
+B-Nebiros HP:249/249 MP:242/242
+C-Tam Lin HP:154/218 MP:43/43
+D-Demonee-Ho HP:770/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:613/999 MP:512/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nebiros
+2-Tam Lin
+3-Demonee-Ho
+4-Yu
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chemtrail HP:437/437 MP:393/423
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chemtrail HP:437/437 MP:393/423
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Chemtrail ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:301/347
+B-Chemtrail HP:437/437 MP:393/423
+C-Tam Lin HP:154/218 MP:43/43
+D-Demonee-Ho HP:770/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:613/999 MP:512/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Demonee-Ho
+3-Yu
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tam Lin use
+1-Hama MP:6
+2-Gram Slice MP:5
+3-Maragi MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Tamaki HP:613/999 MP:512/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tam Lin ataca a Tamaki
+Tamaki es resistente el ataque de Tam Lin
+Tamaki recibe 7 de daño
+Tamaki termina con HP:606/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:301/347
+B-Chemtrail HP:437/437 MP:393/423
+C-Tam Lin HP:154/218 MP:43/43
+D-Demonee-Ho HP:770/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:606/999 MP:512/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Yu
+3-Chemtrail
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:301/347
+B-Chemtrail HP:437/437 MP:393/423
+C-Tam Lin HP:154/218 MP:43/43
+D-Demonee-Ho HP:770/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:606/999 MP:512/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Chemtrail
+3-Tam Lin
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Mudo MP:6
+2-Iron Judgement MP:8
+3-Berserker God MP:12
+4-Zio MP:5
+5-Ziodyne MP:14
+6-Oni-Kagura MP:9
+7-Diarama MP:9
+8-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tamaki HP:606/999 MP:512/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Tamaki
+Tamaki es resistente el ataque de Yu
+Tamaki recibe 70 de daño
+Tamaki termina con HP:536/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:289/347
+B-Chemtrail HP:437/437 MP:393/423
+C-Tam Lin HP:154/218 MP:43/43
+D-Demonee-Ho HP:770/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:536/999 MP:512/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Tam Lin
+3-Demonee-Ho
+4-Yu
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chemtrail use
+1-Shivering Taboo MP:40
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Riot Gun MP:30
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Tamaki HP:536/999 MP:512/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Chemtrail dispara a Tamaki
+Tamaki es resistente el ataque de Chemtrail
+Tamaki recibe 86 de daño
+Tamaki termina con HP:450/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:289/347
+B-Chemtrail HP:437/437 MP:363/423
+C-Tam Lin HP:154/218 MP:43/43
+D-Demonee-Ho HP:770/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:450/999 MP:512/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Yu HP:579/597 MP:289/347
+2-Chemtrail HP:437/437 MP:363/423
+3-Tam Lin HP:154/218 MP:43/43
+4-Demonee-Ho HP:770/804 MP:136/160
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tamaki ataca a Chemtrail
+Chemtrail recibe 18 de daño
+Chemtrail termina con HP:419/437
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:289/347
+B-Chemtrail HP:419/437 MP:363/423
+C-Tam Lin HP:154/218 MP:43/43
+D-Demonee-Ho HP:770/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:450/999 MP:512/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Yu
+3-Chemtrail
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:289/347
+B-Chemtrail HP:419/437 MP:363/423
+C-Tam Lin HP:154/218 MP:43/43
+D-Demonee-Ho HP:770/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:450/999 MP:512/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Chemtrail
+3-Tam Lin
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tamaki HP:450/999 MP:512/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu dispara a Tamaki
+Tamaki es resistente el ataque de Yu
+Tamaki recibe 36 de daño
+Tamaki termina con HP:414/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:289/347
+B-Chemtrail HP:419/437 MP:363/423
+C-Tam Lin HP:154/218 MP:43/43
+D-Demonee-Ho HP:770/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:414/999 MP:512/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Tam Lin
+3-Demonee-Ho
+4-Yu
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chemtrail use
+1-Shivering Taboo MP:40
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Riot Gun MP:30
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Tamaki HP:414/999 MP:512/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chemtrail use
+1-Shivering Taboo MP:40
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Riot Gun MP:30
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Tamaki HP:414/999 MP:512/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:289/347
+B-Chemtrail HP:419/437 MP:363/423
+C-Tam Lin HP:154/218 MP:43/43
+D-Demonee-Ho HP:770/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:414/999 MP:512/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Demonee-Ho
+3-Yu
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nebiros HP:249/249 MP:242/242
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nebiros ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:289/347
+B-Chemtrail HP:419/437 MP:363/423
+C-Nebiros HP:249/249 MP:242/242
+D-Demonee-Ho HP:770/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:414/999 MP:512/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Yu
+3-Chemtrail
+4-Nebiros
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:289/347
+B-Chemtrail HP:419/437 MP:363/423
+C-Nebiros HP:249/249 MP:242/242
+D-Demonee-Ho HP:770/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:414/999 MP:512/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Chemtrail
+3-Nebiros
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tam Lin HP:154/218 MP:43/43
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tamaki HP:414/999 MP:512/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tam Lin HP:154/218 MP:43/43
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:289/347
+B-Chemtrail HP:419/437 MP:363/423
+C-Nebiros HP:249/249 MP:242/242
+D-Demonee-Ho HP:770/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:414/999 MP:512/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Nebiros
+3-Demonee-Ho
+4-Yu
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tam Lin HP:154/218 MP:43/43
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tam Lin ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:289/347
+B-Tam Lin HP:154/218 MP:43/43
+C-Nebiros HP:249/249 MP:242/242
+D-Demonee-Ho HP:770/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:414/999 MP:512/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nebiros
+2-Demonee-Ho
+3-Yu
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chemtrail HP:419/437 MP:363/423
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nebiros use
+1-Mudoon MP:10
+2-Sabbatma MP:20
+3-Pulinpa MP:5
+4-Megidola MP:40
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:289/347
+B-Tam Lin HP:154/218 MP:43/43
+C-Nebiros HP:249/249 MP:242/242
+D-Demonee-Ho HP:770/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:414/999 MP:512/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Hama MP:6
+2-Gram Slice MP:5
+3-Agidyne MP:14
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Yu HP:579/597 MP:289/347
+2-Tam Lin HP:154/218 MP:43/43
+3-Nebiros HP:249/249 MP:242/242
+4-Demonee-Ho HP:770/804 MP:136/160
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Tamaki ataca con luz a Demonee-Ho
+Tamaki ha fallado el ataque
+Demonee-Ho termina con HP:770/804
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:289/347
+B-Tam Lin HP:154/218 MP:43/43
+C-Nebiros HP:249/249 MP:242/242
+D-Demonee-Ho HP:770/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:414/999 MP:506/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Yu
+3-Nebiros
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chemtrail HP:419/437 MP:363/423
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:289/347
+B-Tam Lin HP:154/218 MP:43/43
+C-Nebiros HP:249/249 MP:242/242
+D-Demonee-Ho HP:770/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:414/999 MP:506/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Nebiros
+3-Tam Lin
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chemtrail HP:419/437 MP:363/423
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Tam Lin HP:154/218 MP:43/43 (Puesto 2)
+2-Nebiros HP:249/249 MP:242/242 (Puesto 3)
+3-Demonee-Ho HP:770/804 MP:136/160 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Chemtrail ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:289/347
+B-Tam Lin HP:154/218 MP:43/43
+C-Nebiros HP:249/249 MP:242/242
+D-Chemtrail HP:419/437 MP:363/423
+Equipo de Tamaki (J2)
+A-Tamaki HP:414/999 MP:506/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nebiros
+2-Tam Lin
+3-Chemtrail
+4-Yu
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Tamaki HP:414/999 MP:506/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Tamaki HP:414/999 MP:506/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nebiros ataca a Tamaki
+Tamaki es resistente el ataque de Nebiros
+Tamaki recibe 13 de daño
+Tamaki termina con HP:401/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:289/347
+B-Tam Lin HP:154/218 MP:43/43
+C-Nebiros HP:249/249 MP:242/242
+D-Chemtrail HP:419/437 MP:363/423
+Equipo de Tamaki (J2)
+A-Tamaki HP:401/999 MP:506/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Chemtrail
+3-Yu
+4-Nebiros
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:770/804 MP:136/160
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Tamaki HP:401/999 MP:506/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:289/347
+B-Tam Lin HP:154/218 MP:43/43
+C-Nebiros HP:249/249 MP:242/242
+D-Chemtrail HP:419/437 MP:363/423
+Equipo de Tamaki (J2)
+A-Tamaki HP:401/999 MP:506/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Yu
+3-Nebiros
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:770/804 MP:136/160
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demonee-Ho ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:289/347
+B-Tam Lin HP:154/218 MP:43/43
+C-Nebiros HP:249/249 MP:242/242
+D-Demonee-Ho HP:770/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:401/999 MP:506/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Nebiros
+3-Tam Lin
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chemtrail HP:419/437 MP:363/423
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chemtrail HP:419/437 MP:363/423
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tamaki HP:401/999 MP:506/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu dispara a Tamaki
+Tamaki es resistente el ataque de Yu
+Tamaki recibe 36 de daño
+Tamaki termina con HP:365/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:289/347
+B-Tam Lin HP:154/218 MP:43/43
+C-Nebiros HP:249/249 MP:242/242
+D-Demonee-Ho HP:770/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:365/999 MP:506/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Hama MP:6
+2-Gram Slice MP:5
+3-Agidyne MP:14
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Yu HP:579/597 MP:289/347
+2-Tam Lin HP:154/218 MP:43/43
+3-Nebiros HP:249/249 MP:242/242
+4-Demonee-Ho HP:770/804 MP:136/160
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tamaki ataca a Tam Lin
+Tam Lin recibe 54 de daño
+Tam Lin termina con HP:100/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:289/347
+B-Tam Lin HP:100/218 MP:43/43
+C-Nebiros HP:249/249 MP:242/242
+D-Demonee-Ho HP:770/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:365/999 MP:501/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Yu
+3-Nebiros
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Tamaki HP:365/999 MP:501/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Tamaki HP:365/999 MP:501/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:289/347
+B-Tam Lin HP:100/218 MP:43/43
+C-Nebiros HP:249/249 MP:242/242
+D-Demonee-Ho HP:770/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:365/999 MP:501/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Nebiros
+3-Tam Lin
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tamaki HP:365/999 MP:501/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Tamaki
+Tamaki es resistente el ataque de Yu
+Tamaki recibe 24 de daño
+Tamaki termina con HP:341/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:289/347
+B-Tam Lin HP:100/218 MP:43/43
+C-Nebiros HP:249/249 MP:242/242
+D-Demonee-Ho HP:770/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:341/999 MP:501/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nebiros
+2-Tam Lin
+3-Demonee-Ho
+4-Yu
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nebiros use
+1-Mudoon MP:10
+2-Sabbatma MP:20
+3-Pulinpa MP:5
+4-Megidola MP:40
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chemtrail HP:419/437 MP:363/423
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Tam Lin HP:100/218 MP:43/43 (Puesto 2)
+2-Nebiros HP:249/249 MP:242/242 (Puesto 3)
+3-Demonee-Ho HP:770/804 MP:136/160 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Chemtrail ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:289/347
+B-Tam Lin HP:100/218 MP:43/43
+C-Chemtrail HP:419/437 MP:363/423
+D-Demonee-Ho HP:770/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:341/999 MP:501/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Demonee-Ho
+3-Yu
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nebiros HP:249/249 MP:222/242
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nebiros ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:289/347
+B-Nebiros HP:249/249 MP:222/242
+C-Chemtrail HP:419/437 MP:363/423
+D-Demonee-Ho HP:770/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:341/999 MP:501/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Yu
+3-Chemtrail
+4-Nebiros
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tam Lin HP:100/218 MP:43/43
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tam Lin ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:289/347
+B-Nebiros HP:249/249 MP:222/242
+C-Chemtrail HP:419/437 MP:363/423
+D-Tam Lin HP:100/218 MP:43/43
+Equipo de Tamaki (J2)
+A-Tamaki HP:341/999 MP:501/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Chemtrail
+3-Nebiros
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:289/347
+B-Nebiros HP:249/249 MP:222/242
+C-Chemtrail HP:419/437 MP:363/423
+D-Tam Lin HP:100/218 MP:43/43
+Equipo de Tamaki (J2)
+A-Tamaki HP:341/999 MP:501/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Nebiros
+3-Tam Lin
+4-Yu
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:770/804 MP:136/160
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demonee-Ho ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:579/597 MP:289/347
+B-Nebiros HP:249/249 MP:222/242
+C-Demonee-Ho HP:770/804 MP:136/160
+D-Tam Lin HP:100/218 MP:43/43
+Equipo de Tamaki (J2)
+A-Tamaki HP:341/999 MP:501/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Yu HP:579/597 MP:289/347
+2-Nebiros HP:249/249 MP:222/242
+3-Demonee-Ho HP:770/804 MP:136/160
+4-Tam Lin HP:100/218 MP:43/43
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tamaki dispara a Yu
+Yu recibe 15 de daño
+Yu termina con HP:564/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:564/597 MP:289/347
+B-Nebiros HP:249/249 MP:222/242
+C-Demonee-Ho HP:770/804 MP:136/160
+D-Tam Lin HP:100/218 MP:43/43
+Equipo de Tamaki (J2)
+A-Tamaki HP:341/999 MP:501/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Yu
+3-Nebiros
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chemtrail HP:419/437 MP:363/423
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Chemtrail ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:564/597 MP:289/347
+B-Nebiros HP:249/249 MP:222/242
+C-Chemtrail HP:419/437 MP:363/423
+D-Tam Lin HP:100/218 MP:43/43
+Equipo de Tamaki (J2)
+A-Tamaki HP:341/999 MP:501/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Nebiros
+3-Tam Lin
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tamaki HP:341/999 MP:501/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:564/597 MP:289/347
+B-Nebiros HP:249/249 MP:222/242
+C-Chemtrail HP:419/437 MP:363/423
+D-Tam Lin HP:100/218 MP:43/43
+Equipo de Tamaki (J2)
+A-Tamaki HP:341/999 MP:501/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nebiros
+2-Tam Lin
+3-Chemtrail
+4-Yu
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Tamaki HP:341/999 MP:501/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Tamaki HP:341/999 MP:501/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nebiros ataca a Tamaki
+Tamaki es resistente el ataque de Nebiros
+Tamaki recibe 13 de daño
+Tamaki termina con HP:328/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:564/597 MP:289/347
+B-Nebiros HP:249/249 MP:222/242
+C-Chemtrail HP:419/437 MP:363/423
+D-Tam Lin HP:100/218 MP:43/43
+Equipo de Tamaki (J2)
+A-Tamaki HP:328/999 MP:501/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Chemtrail
+3-Yu
+4-Nebiros
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Tamaki HP:328/999 MP:501/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:770/804 MP:136/160
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demonee-Ho ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:564/597 MP:289/347
+B-Nebiros HP:249/249 MP:222/242
+C-Chemtrail HP:419/437 MP:363/423
+D-Demonee-Ho HP:770/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:328/999 MP:501/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Yu
+3-Nebiros
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:564/597 MP:289/347
+B-Nebiros HP:249/249 MP:222/242
+C-Chemtrail HP:419/437 MP:363/423
+D-Demonee-Ho HP:770/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:328/999 MP:501/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Nebiros
+3-Demonee-Ho
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Mudo MP:6
+2-Iron Judgement MP:8
+3-Berserker God MP:12
+4-Zio MP:5
+5-Ziodyne MP:14
+6-Oni-Kagura MP:9
+7-Diarama MP:9
+8-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tamaki HP:328/999 MP:501/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Tamaki
+Tamaki es resistente el ataque de Yu
+Tamaki recibe 70 de daño
+Tamaki termina con HP:258/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:564/597 MP:277/347
+B-Nebiros HP:249/249 MP:222/242
+C-Chemtrail HP:419/437 MP:363/423
+D-Demonee-Ho HP:770/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:258/999 MP:501/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Yu HP:564/597 MP:277/347
+2-Nebiros HP:249/249 MP:222/242
+3-Chemtrail HP:419/437 MP:363/423
+4-Demonee-Ho HP:770/804 MP:136/160
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Tamaki dispara a Demonee-Ho
+Demonee-Ho es resistente el ataque de Tamaki
+Demonee-Ho recibe 7 de daño
+Demonee-Ho termina con HP:763/804
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:564/597 MP:277/347
+B-Nebiros HP:249/249 MP:222/242
+C-Chemtrail HP:419/437 MP:363/423
+D-Demonee-Ho HP:763/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:258/999 MP:501/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Yu
+3-Chemtrail
+4-Nebiros
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:564/597 MP:277/347
+B-Nebiros HP:249/249 MP:222/242
+C-Chemtrail HP:419/437 MP:363/423
+D-Demonee-Ho HP:763/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:258/999 MP:501/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Chemtrail
+3-Nebiros
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Mudo MP:6
+2-Iron Judgement MP:8
+3-Berserker God MP:12
+4-Zio MP:5
+5-Ziodyne MP:14
+6-Oni-Kagura MP:9
+7-Diarama MP:9
+8-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tamaki HP:258/999 MP:501/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Mudo MP:6
+2-Iron Judgement MP:8
+3-Berserker God MP:12
+4-Zio MP:5
+5-Ziodyne MP:14
+6-Oni-Kagura MP:9
+7-Diarama MP:9
+8-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tamaki HP:258/999 MP:501/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tamaki HP:258/999 MP:501/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu dispara a Tamaki
+Tamaki es resistente el ataque de Yu
+Tamaki recibe 36 de daño
+Tamaki termina con HP:222/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:564/597 MP:277/347
+B-Nebiros HP:249/249 MP:222/242
+C-Chemtrail HP:419/437 MP:363/423
+D-Demonee-Ho HP:763/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:222/999 MP:501/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Nebiros
+3-Demonee-Ho
+4-Yu
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chemtrail
+1-Tamaki HP:222/999 MP:501/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Chemtrail ataca a Tamaki
+Tamaki es resistente el ataque de Chemtrail
+Tamaki recibe 23 de daño
+Tamaki termina con HP:199/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:564/597 MP:277/347
+B-Nebiros HP:249/249 MP:222/242
+C-Chemtrail HP:419/437 MP:363/423
+D-Demonee-Ho HP:763/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:199/999 MP:501/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nebiros
+2-Demonee-Ho
+3-Yu
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:564/597 MP:277/347
+B-Nebiros HP:249/249 MP:222/242
+C-Chemtrail HP:419/437 MP:363/423
+D-Demonee-Ho HP:763/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:199/999 MP:501/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Yu
+3-Chemtrail
+4-Nebiros
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Demonee-Ho use
+1-Iron Judgement MP:8
+2-Desperate Hit MP:40
+3-Breath MP:24
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Tamaki HP:199/999 MP:501/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:564/597 MP:277/347
+B-Nebiros HP:249/249 MP:222/242
+C-Chemtrail HP:419/437 MP:363/423
+D-Demonee-Ho HP:763/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:199/999 MP:501/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Chemtrail
+3-Nebiros
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tam Lin HP:100/218 MP:43/43
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Mudo MP:6
+2-Iron Judgement MP:8
+3-Berserker God MP:12
+4-Zio MP:5
+5-Ziodyne MP:14
+6-Oni-Kagura MP:9
+7-Diarama MP:9
+8-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tamaki HP:199/999 MP:501/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Tamaki
+Tamaki es resistente el ataque de Yu
+Tamaki recibe 48 de daño
+Tamaki termina con HP:151/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:564/597 MP:269/347
+B-Nebiros HP:249/249 MP:222/242
+C-Chemtrail HP:419/437 MP:363/423
+D-Demonee-Ho HP:763/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:151/999 MP:501/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Yu HP:564/597 MP:269/347
+2-Nebiros HP:249/249 MP:222/242
+3-Chemtrail HP:419/437 MP:363/423
+4-Demonee-Ho HP:763/804 MP:136/160
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Tamaki dispara a Chemtrail
+Chemtrail recibe 15 de daño
+Chemtrail termina con HP:404/437
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:564/597 MP:269/347
+B-Nebiros HP:249/249 MP:222/242
+C-Chemtrail HP:404/437 MP:363/423
+D-Demonee-Ho HP:763/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:151/999 MP:501/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Yu
+3-Chemtrail
+4-Nebiros
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Demonee-Ho use
+1-Iron Judgement MP:8
+2-Desperate Hit MP:40
+3-Breath MP:24
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Tamaki HP:151/999 MP:501/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:564/597 MP:269/347
+B-Nebiros HP:249/249 MP:222/242
+C-Chemtrail HP:404/437 MP:363/423
+D-Demonee-Ho HP:763/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:151/999 MP:501/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Chemtrail
+3-Nebiros
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tam Lin HP:100/218 MP:43/43
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tamaki HP:151/999 MP:501/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:564/597 MP:269/347
+B-Nebiros HP:249/249 MP:222/242
+C-Chemtrail HP:404/437 MP:363/423
+D-Demonee-Ho HP:763/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:151/999 MP:501/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Nebiros
+3-Demonee-Ho
+4-Yu
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:564/597 MP:269/347
+B-Nebiros HP:249/249 MP:222/242
+C-Chemtrail HP:404/437 MP:363/423
+D-Demonee-Ho HP:763/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:151/999 MP:501/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nebiros
+2-Demonee-Ho
+3-Yu
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tam Lin HP:100/218 MP:43/43
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:564/597 MP:269/347
+B-Nebiros HP:249/249 MP:222/242
+C-Chemtrail HP:404/437 MP:363/423
+D-Demonee-Ho HP:763/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:151/999 MP:501/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Yu
+3-Chemtrail
+4-Nebiros
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Demonee-Ho use
+1-Iron Judgement MP:8
+2-Desperate Hit MP:40
+3-Breath MP:24
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Demonee-Ho use
+1-Iron Judgement MP:8
+2-Desperate Hit MP:40
+3-Breath MP:24
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Demonee-Ho use
+1-Iron Judgement MP:8
+2-Desperate Hit MP:40
+3-Breath MP:24
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Demonee-Ho use
+1-Iron Judgement MP:8
+2-Desperate Hit MP:40
+3-Breath MP:24
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Tamaki HP:151/999 MP:501/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demonee-Ho ataca a Tamaki
+Tamaki es resistente el ataque de Demonee-Ho
+Tamaki recibe 31 de daño
+Tamaki termina con HP:120/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:564/597 MP:269/347
+B-Nebiros HP:249/249 MP:222/242
+C-Chemtrail HP:404/437 MP:363/423
+D-Demonee-Ho HP:763/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:120/999 MP:501/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Chemtrail
+3-Nebiros
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tamaki HP:120/999 MP:501/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu dispara a Tamaki
+Tamaki es resistente el ataque de Yu
+Tamaki recibe 36 de daño
+Tamaki termina con HP:84/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:564/597 MP:269/347
+B-Nebiros HP:249/249 MP:222/242
+C-Chemtrail HP:404/437 MP:363/423
+D-Demonee-Ho HP:763/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:84/999 MP:501/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Hama MP:6
+2-Gram Slice MP:5
+3-Agidyne MP:14
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Yu HP:564/597 MP:269/347
+2-Nebiros HP:249/249 MP:222/242
+3-Chemtrail HP:404/437 MP:363/423
+4-Demonee-Ho HP:763/804 MP:136/160
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tamaki lanza fuego a Nebiros
+Nebiros recibe 64 de daño
+Nebiros termina con HP:185/249
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:564/597 MP:269/347
+B-Nebiros HP:185/249 MP:222/242
+C-Chemtrail HP:404/437 MP:363/423
+D-Demonee-Ho HP:763/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:84/999 MP:487/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Yu
+3-Chemtrail
+4-Nebiros
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tam Lin HP:100/218 MP:43/43
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:564/597 MP:269/347
+B-Nebiros HP:185/249 MP:222/242
+C-Chemtrail HP:404/437 MP:363/423
+D-Demonee-Ho HP:763/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:84/999 MP:487/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Chemtrail
+3-Nebiros
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Mudo MP:6
+2-Iron Judgement MP:8
+3-Berserker God MP:12
+4-Zio MP:5
+5-Ziodyne MP:14
+6-Oni-Kagura MP:9
+7-Diarama MP:9
+8-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tamaki HP:84/999 MP:487/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Mudo MP:6
+2-Iron Judgement MP:8
+3-Berserker God MP:12
+4-Zio MP:5
+5-Ziodyne MP:14
+6-Oni-Kagura MP:9
+7-Diarama MP:9
+8-Cancelar
+INPUT: 8
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:564/597 MP:269/347
+B-Nebiros HP:185/249 MP:222/242
+C-Chemtrail HP:404/437 MP:363/423
+D-Demonee-Ho HP:763/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:84/999 MP:487/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Nebiros
+3-Demonee-Ho
+4-Yu
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:564/597 MP:269/347
+B-Nebiros HP:185/249 MP:222/242
+C-Chemtrail HP:404/437 MP:363/423
+D-Demonee-Ho HP:763/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:84/999 MP:487/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nebiros
+2-Demonee-Ho
+3-Yu
+4-Chemtrail
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Tamaki HP:84/999 MP:487/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nebiros use
+1-Mudoon MP:10
+2-Sabbatma MP:20
+3-Pulinpa MP:5
+4-Megidola MP:40
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nebiros use
+1-Mudoon MP:10
+2-Sabbatma MP:20
+3-Pulinpa MP:5
+4-Megidola MP:40
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tam Lin HP:100/218 MP:43/43
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Nebiros HP:185/249 MP:222/242 (Puesto 2)
+2-Chemtrail HP:404/437 MP:363/423 (Puesto 3)
+3-Demonee-Ho HP:763/804 MP:136/160 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:564/597 MP:269/347
+B-Nebiros HP:185/249 MP:222/242
+C-Chemtrail HP:404/437 MP:363/423
+D-Demonee-Ho HP:763/804 MP:136/160
+Equipo de Tamaki (J2)
+A-Tamaki HP:84/999 MP:487/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Yu
+3-Chemtrail
+4-Nebiros
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Demonee-Ho use
+1-Iron Judgement MP:8
+2-Desperate Hit MP:40
+3-Breath MP:24
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Tamaki HP:84/999 MP:487/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tam Lin HP:100/218 MP:43/43
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tam Lin ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:564/597 MP:269/347
+B-Nebiros HP:185/249 MP:222/242
+C-Chemtrail HP:404/437 MP:363/423
+D-Tam Lin HP:100/218 MP:43/43
+Equipo de Tamaki (J2)
+A-Tamaki HP:84/999 MP:487/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Chemtrail
+3-Nebiros
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:763/804 MP:136/160
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tamaki HP:84/999 MP:487/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu dispara a Tamaki
+Tamaki es resistente el ataque de Yu
+Tamaki recibe 36 de daño
+Tamaki termina con HP:48/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:564/597 MP:269/347
+B-Nebiros HP:185/249 MP:222/242
+C-Chemtrail HP:404/437 MP:363/423
+D-Tam Lin HP:100/218 MP:43/43
+Equipo de Tamaki (J2)
+A-Tamaki HP:48/999 MP:487/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chemtrail
+2-Nebiros
+3-Tam Lin
+4-Yu
+----------------------------------------
+Seleccione una acción para Chemtrail
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:763/804 MP:136/160
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demonee-Ho ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:564/597 MP:269/347
+B-Nebiros HP:185/249 MP:222/242
+C-Demonee-Ho HP:763/804 MP:136/160
+D-Tam Lin HP:100/218 MP:43/43
+Equipo de Tamaki (J2)
+A-Tamaki HP:48/999 MP:487/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nebiros
+2-Tam Lin
+3-Yu
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Tamaki HP:48/999 MP:487/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Tamaki HP:48/999 MP:487/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chemtrail HP:404/437 MP:363/423
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Chemtrail ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:564/597 MP:269/347
+B-Chemtrail HP:404/437 MP:363/423
+C-Demonee-Ho HP:763/804 MP:136/160
+D-Tam Lin HP:100/218 MP:43/43
+Equipo de Tamaki (J2)
+A-Tamaki HP:48/999 MP:487/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Yu HP:564/597 MP:269/347
+2-Chemtrail HP:404/437 MP:363/423
+3-Demonee-Ho HP:763/804 MP:136/160
+4-Tam Lin HP:100/218 MP:43/43
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Tamaki ataca a Demonee-Ho
+Demonee-Ho es resistente el ataque de Tamaki
+Demonee-Ho recibe 9 de daño
+Demonee-Ho termina con HP:754/804
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:564/597 MP:269/347
+B-Chemtrail HP:404/437 MP:363/423
+C-Demonee-Ho HP:754/804 MP:136/160
+D-Tam Lin HP:100/218 MP:43/43
+Equipo de Tamaki (J2)
+A-Tamaki HP:48/999 MP:487/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Yu
+3-Chemtrail
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Demonee-Ho use
+1-Iron Judgement MP:8
+2-Desperate Hit MP:40
+3-Breath MP:24
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Tamaki HP:48/999 MP:487/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demonee-Ho ataca a Tamaki
+Tamaki es resistente el ataque de Demonee-Ho
+Tamaki recibe 31 de daño
+Tamaki termina con HP:17/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:564/597 MP:269/347
+B-Chemtrail HP:404/437 MP:363/423
+C-Demonee-Ho HP:754/804 MP:136/160
+D-Tam Lin HP:100/218 MP:43/43
+Equipo de Tamaki (J2)
+A-Tamaki HP:17/999 MP:487/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Chemtrail
+3-Tam Lin
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tamaki HP:17/999 MP:487/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu dispara a Tamaki
+Tamaki es resistente el ataque de Yu
+Tamaki recibe 36 de daño
+Tamaki termina con HP:0/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Yu (J1)

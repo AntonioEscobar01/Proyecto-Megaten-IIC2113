@@ -1,0 +1,6355 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+100: 101.txt
+101: 102.txt
+102: 103.txt
+103: 104.txt
+104: 105.txt
+105: 106.txt
+106: 107.txt
+107: 108.txt
+108: 109.txt
+109: 110.txt
+110: 111.txt
+111: 112.txt
+112: 113.txt
+113: 114.txt
+114: 115.txt
+115: 116.txt
+116: 117.txt
+117: 118.txt
+118: 119.txt
+119: 120.txt
+120: 121.txt
+121: 122.txt
+122: 123.txt
+123: 124.txt
+124: 125.txt
+125: 126.txt
+126: 127.txt
+127: 128.txt
+128: 129.txt
+129: 130.txt
+130: 131.txt
+131: 132.txt
+132: 133.txt
+133: 134.txt
+134: 135.txt
+135: 136.txt
+136: 137.txt
+137: 138.txt
+138: 139.txt
+139: 140.txt
+140: 141.txt
+141: 142.txt
+142: 143.txt
+143: 144.txt
+144: 145.txt
+145: 146.txt
+146: 147.txt
+147: 148.txt
+148: 149.txt
+149: 150.txt
+150: 151.txt
+151: 152.txt
+152: 153.txt
+153: 154.txt
+154: 155.txt
+155: 156.txt
+156: 157.txt
+157: 158.txt
+158: 159.txt
+159: 160.txt
+160: 161.txt
+161: 162.txt
+162: 163.txt
+163: 164.txt
+164: 165.txt
+165: 166.txt
+166: 167.txt
+167: 168.txt
+168: 169.txt
+169: 170.txt
+170: 171.txt
+171: 172.txt
+172: 173.txt
+173: 174.txt
+174: 175.txt
+175: 176.txt
+176: 177.txt
+177: 178.txt
+178: 179.txt
+179: 180.txt
+180: 181.txt
+181: 182.txt
+182: 183.txt
+183: 184.txt
+184: 185.txt
+185: 186.txt
+186: 187.txt
+187: 188.txt
+188: 189.txt
+189: 190.txt
+190: 191.txt
+191: 192.txt
+192: 193.txt
+193: 194.txt
+194: 195.txt
+195: 196.txt
+196: 197.txt
+197: 198.txt
+198: 199.txt
+199: 200.txt
+INPUT: 176
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Azrael HP:338/338 MP:328/328
+C-Sedna HP:350/350 MP:68/68
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Itsuki HP:1136/1136 MP:413/413
+2-Azrael HP:338/338 MP:328/328
+3-Sedna HP:350/350 MP:68/68
+4-Gryphon HP:123/123 MP:23/23
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Yu ataca a Sedna
+Sedna recibe 49 de daño
+Sedna termina con HP:301/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Azrael HP:338/338 MP:328/328
+C-Sedna HP:301/350 MP:68/68
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Azrael
+3-Sedna
+4-Gryphon
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Yu HP:597/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Yu HP:597/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Yu
+Yu es resistente el ataque de Itsuki
+Yu recibe 22 de daño
+Yu termina con HP:575/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:575/597 MP:347/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Azrael HP:338/338 MP:328/328
+C-Sedna HP:301/350 MP:68/68
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Azrael
+2-Sedna
+3-Gryphon
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lham Dearg HP:91/91 MP:19/19
+2-Susano-o HP:927/927 MP:184/184
+3-Raphael HP:623/623 MP:279/279
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Raphael ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:575/597 MP:347/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Raphael HP:623/623 MP:279/279
+C-Sedna HP:301/350 MP:68/68
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sedna
+2-Gryphon
+3-Itsuki
+4-Raphael
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sedna use
+1-Mabufula MP:20
+2-Mamudo MP:18
+3-Posumudi MP:5
+4-Diarama MP:9
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Itsuki HP:1136/1136 MP:413/413
+2-Raphael HP:623/623 MP:279/279
+3-Sedna HP:301/350 MP:68/68
+4-Gryphon HP:123/123 MP:23/23
+5-Azrael HP:338/338 MP:328/328
+6-Lham Dearg HP:91/91 MP:19/19
+7-Susano-o HP:927/927 MP:184/184
+8-Cancelar
+INPUT: 4
+----------------------------------------
+Sedna cura a Gryphon
+Gryphon recibe 61 de HP
+Gryphon termina con HP:123/123
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:575/597 MP:347/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Raphael HP:623/623 MP:279/279
+C-Sedna HP:301/350 MP:59/68
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gryphon
+2-Itsuki
+3-Raphael
+4-Sedna
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Gryphon use
+1-Bouncing Claw MP:4
+2-Lunge MP:6
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gryphon
+1-Yu HP:575/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azrael HP:338/338 MP:328/328
+2-Lham Dearg HP:91/91 MP:19/19
+3-Susano-o HP:927/927 MP:184/184
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Azrael ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:575/597 MP:347/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Raphael HP:623/623 MP:279/279
+C-Sedna HP:301/350 MP:59/68
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Raphael
+3-Sedna
+4-Azrael
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Yu HP:575/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Yu
+Yu recibe 61 de daño
+Yu termina con HP:514/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:514/597 MP:347/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Raphael HP:623/623 MP:279/279
+C-Sedna HP:301/350 MP:59/68
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Sedna
+3-Azrael
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Gryphon HP:123/123 MP:23/23
+2-Lham Dearg HP:91/91 MP:19/19
+3-Susano-o HP:927/927 MP:184/184
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:514/597 MP:347/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Raphael HP:623/623 MP:279/279
+C-Sedna HP:301/350 MP:59/68
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sedna
+2-Azrael
+3-Itsuki
+4-Raphael
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Yu HP:514/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Sedna ataca a Yu
+Yu es resistente el ataque de Sedna
+Yu recibe 12 de daño
+Yu termina con HP:502/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:502/597 MP:347/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Raphael HP:623/623 MP:279/279
+C-Sedna HP:301/350 MP:59/68
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Mortal Jihad MP:13
+2-Iron Judgement MP:8
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Itsuki HP:1136/1136 MP:413/413
+2-Raphael HP:623/623 MP:279/279
+3-Sedna HP:301/350 MP:59/68
+4-Azrael HP:338/338 MP:328/328
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Yu ataca a Sedna
+Sedna recibe 138 de daño
+Sedna termina con HP:163/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:502/597 MP:334/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Raphael HP:623/623 MP:279/279
+C-Sedna HP:163/350 MP:59/68
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Itsuki
+3-Azrael
+4-Sedna
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Gryphon HP:123/123 MP:23/23
+2-Lham Dearg HP:91/91 MP:19/19
+3-Susano-o HP:927/927 MP:184/184
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:502/597 MP:334/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Raphael HP:623/623 MP:279/279
+C-Sedna HP:163/350 MP:59/68
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Azrael
+3-Sedna
+4-Raphael
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:502/597 MP:334/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Raphael HP:623/623 MP:279/279
+C-Sedna HP:163/350 MP:59/68
+D-Azrael HP:338/338 MP:328/328
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Azrael
+2-Sedna
+3-Raphael
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Azrael
+1-Yu HP:502/597 MP:334/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Gryphon HP:123/123 MP:23/23
+2-Lham Dearg HP:91/91 MP:19/19
+3-Susano-o HP:927/927 MP:184/184
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Gryphon ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:502/597 MP:334/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Raphael HP:623/623 MP:279/279
+C-Sedna HP:163/350 MP:59/68
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sedna
+2-Raphael
+3-Itsuki
+4-Gryphon
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Yu HP:502/597 MP:334/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Sedna ataca a Yu
+Yu es resistente el ataque de Sedna
+Yu recibe 12 de daño
+Yu termina con HP:490/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:490/597 MP:334/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Raphael HP:623/623 MP:279/279
+C-Sedna HP:163/350 MP:59/68
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Itsuki
+3-Gryphon
+4-Sedna
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:490/597 MP:334/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Raphael HP:623/623 MP:279/279
+C-Sedna HP:163/350 MP:59/68
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Gryphon
+3-Sedna
+4-Raphael
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Yu HP:490/597 MP:334/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:490/597 MP:334/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Raphael HP:623/623 MP:279/279
+C-Sedna HP:163/350 MP:59/68
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gryphon
+2-Sedna
+3-Raphael
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:490/597 MP:334/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Raphael HP:623/623 MP:279/279
+C-Sedna HP:163/350 MP:59/68
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sedna
+2-Raphael
+3-Itsuki
+4-Gryphon
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sedna use
+1-Mabufula MP:20
+2-Mamudo MP:18
+3-Posumudi MP:5
+4-Diarama MP:9
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Itsuki HP:1136/1136 MP:413/413
+2-Raphael HP:623/623 MP:279/279
+3-Sedna HP:163/350 MP:59/68
+4-Gryphon HP:123/123 MP:23/23
+5-Azrael HP:338/338 MP:328/328
+6-Lham Dearg HP:91/91 MP:19/19
+7-Susano-o HP:927/927 MP:184/184
+8-Cancelar
+INPUT: 3
+----------------------------------------
+Sedna cura a Sedna
+Sedna recibe 175 de HP
+Sedna termina con HP:338/350
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:490/597 MP:334/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Raphael HP:623/623 MP:279/279
+C-Sedna HP:338/350 MP:50/68
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:490/597 MP:334/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Raphael HP:623/623 MP:279/279
+C-Sedna HP:338/350 MP:50/68
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Mortal Jihad MP:13
+2-Iron Judgement MP:8
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Itsuki HP:1136/1136 MP:413/413
+2-Raphael HP:623/623 MP:279/279
+3-Sedna HP:338/350 MP:50/68
+4-Gryphon HP:123/123 MP:23/23
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Yu ataca a Raphael
+Raphael recibe 138 de daño
+Raphael termina con HP:485/623
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:490/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Raphael HP:485/623 MP:279/279
+C-Sedna HP:338/350 MP:50/68
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Itsuki
+3-Sedna
+4-Gryphon
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azrael HP:338/338 MP:328/328
+2-Lham Dearg HP:91/91 MP:19/19
+3-Susano-o HP:927/927 MP:184/184
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Azrael ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:490/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Azrael HP:338/338 MP:328/328
+C-Sedna HP:338/350 MP:50/68
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Sedna
+3-Gryphon
+4-Azrael
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Yu HP:490/597 MP:321/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Yu HP:490/597 MP:321/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lham Dearg HP:91/91 MP:19/19
+2-Susano-o HP:927/927 MP:184/184
+3-Raphael HP:485/623 MP:279/279
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Azrael HP:338/338 MP:328/328 (Puesto 2)
+2-Sedna HP:338/350 MP:50/68 (Puesto 3)
+3-Gryphon HP:123/123 MP:23/23 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Raphael ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:490/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Raphael HP:485/623 MP:279/279
+C-Sedna HP:338/350 MP:50/68
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sedna
+2-Gryphon
+3-Raphael
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Yu HP:490/597 MP:321/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azrael HP:338/338 MP:328/328
+2-Lham Dearg HP:91/91 MP:19/19
+3-Susano-o HP:927/927 MP:184/184
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Azrael ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:490/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Raphael HP:485/623 MP:279/279
+C-Azrael HP:338/338 MP:328/328
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Gryphon
+2-Raphael
+3-Itsuki
+4-Azrael
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:490/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Raphael HP:485/623 MP:279/279
+C-Azrael HP:338/338 MP:328/328
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Itsuki
+3-Azrael
+4-Gryphon
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:490/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Raphael HP:485/623 MP:279/279
+C-Azrael HP:338/338 MP:328/328
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Azrael
+3-Gryphon
+4-Raphael
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:490/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Raphael HP:485/623 MP:279/279
+C-Azrael HP:338/338 MP:328/328
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Azrael
+2-Gryphon
+3-Raphael
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:338/350 MP:50/68
+2-Lham Dearg HP:91/91 MP:19/19
+3-Susano-o HP:927/927 MP:184/184
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:490/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Raphael HP:485/623 MP:279/279
+C-Azrael HP:338/338 MP:328/328
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Gryphon
+2-Raphael
+3-Itsuki
+4-Azrael
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Gryphon use
+1-Bouncing Claw MP:4
+2-Lunge MP:6
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Gryphon
+1-Yu HP:490/597 MP:321/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:490/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Raphael HP:485/623 MP:279/279
+C-Azrael HP:338/338 MP:328/328
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Itsuki HP:1136/1136 MP:413/413
+2-Raphael HP:485/623 MP:279/279
+3-Azrael HP:338/338 MP:328/328
+4-Gryphon HP:123/123 MP:23/23
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Yu dispara a Azrael
+Azrael recibe 72 de daño
+Azrael termina con HP:266/338
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:490/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Raphael HP:485/623 MP:279/279
+C-Azrael HP:266/338 MP:328/328
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Itsuki
+3-Azrael
+4-Gryphon
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Raphael use
+1-God's Tornado MP:50
+2-Diarahan MP:16
+3-Stigma Attack MP:20
+4-Serpent of Sheol MP:45
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Itsuki HP:1136/1136 MP:413/413
+2-Raphael HP:485/623 MP:279/279
+3-Azrael HP:266/338 MP:328/328
+4-Gryphon HP:123/123 MP:23/23
+5-Sedna HP:338/350 MP:50/68
+6-Lham Dearg HP:91/91 MP:19/19
+7-Susano-o HP:927/927 MP:184/184
+8-Cancelar
+INPUT: 6
+----------------------------------------
+Raphael cura a Lham Dearg
+Lham Dearg recibe 91 de HP
+Lham Dearg termina con HP:91/91
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:490/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Raphael HP:485/623 MP:263/279
+C-Azrael HP:266/338 MP:328/328
+D-Gryphon HP:123/123 MP:23/23
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Azrael
+3-Gryphon
+4-Raphael
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Yu HP:490/597 MP:321/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Yu HP:490/597 MP:321/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:338/350 MP:50/68
+2-Lham Dearg HP:91/91 MP:19/19
+3-Susano-o HP:927/927 MP:184/184
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Raphael HP:485/623 MP:263/279 (Puesto 2)
+2-Azrael HP:266/338 MP:328/328 (Puesto 3)
+3-Gryphon HP:123/123 MP:23/23 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Sedna ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:490/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Raphael HP:485/623 MP:263/279
+C-Azrael HP:266/338 MP:328/328
+D-Sedna HP:338/350 MP:50/68
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Azrael
+2-Sedna
+3-Raphael
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Gryphon HP:123/123 MP:23/23
+2-Lham Dearg HP:91/91 MP:19/19
+3-Susano-o HP:927/927 MP:184/184
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Susano-o ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:490/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Raphael HP:485/623 MP:263/279
+C-Susano-o HP:927/927 MP:184/184
+D-Sedna HP:338/350 MP:50/68
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sedna
+2-Raphael
+3-Itsuki
+4-Susano-o
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azrael HP:266/338 MP:328/328
+2-Gryphon HP:123/123 MP:23/23
+3-Lham Dearg HP:91/91 MP:19/19
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Lham Dearg ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:490/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Raphael HP:485/623 MP:263/279
+C-Susano-o HP:927/927 MP:184/184
+D-Lham Dearg HP:91/91 MP:19/19
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Raphael
+2-Itsuki
+3-Susano-o
+4-Lham Dearg
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Raphael use
+1-God's Tornado MP:50
+2-Diarahan MP:16
+3-Stigma Attack MP:20
+4-Serpent of Sheol MP:45
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Itsuki HP:1136/1136 MP:413/413
+2-Raphael HP:485/623 MP:263/279
+3-Susano-o HP:927/927 MP:184/184
+4-Lham Dearg HP:91/91 MP:19/19
+5-Azrael HP:266/338 MP:328/328
+6-Sedna HP:338/350 MP:50/68
+7-Gryphon HP:123/123 MP:23/23
+8-Cancelar
+INPUT: 6
+----------------------------------------
+Raphael cura a Sedna
+Sedna recibe 350 de HP
+Sedna termina con HP:350/350
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:490/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Raphael HP:485/623 MP:247/279
+C-Susano-o HP:927/927 MP:184/184
+D-Lham Dearg HP:91/91 MP:19/19
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Susano-o
+3-Lham Dearg
+4-Raphael
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:490/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Raphael HP:485/623 MP:247/279
+C-Susano-o HP:927/927 MP:184/184
+D-Lham Dearg HP:91/91 MP:19/19
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Susano-o
+2-Lham Dearg
+3-Raphael
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:490/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Raphael HP:485/623 MP:247/279
+C-Susano-o HP:927/927 MP:184/184
+D-Lham Dearg HP:91/91 MP:19/19
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Itsuki HP:1136/1136 MP:413/413
+2-Raphael HP:485/623 MP:247/279
+3-Susano-o HP:927/927 MP:184/184
+4-Lham Dearg HP:91/91 MP:19/19
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Yu ataca a Raphael
+Raphael recibe 49 de daño
+Raphael termina con HP:436/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:490/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Raphael HP:436/623 MP:247/279
+C-Susano-o HP:927/927 MP:184/184
+D-Lham Dearg HP:91/91 MP:19/19
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Susano-o
+2-Raphael
+3-Itsuki
+4-Lham Dearg
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azrael HP:266/338 MP:328/328
+2-Sedna HP:350/350 MP:50/68
+3-Gryphon HP:123/123 MP:23/23
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Gryphon ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:490/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Raphael HP:436/623 MP:247/279
+C-Gryphon HP:123/123 MP:23/23
+D-Lham Dearg HP:91/91 MP:19/19
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Raphael
+2-Itsuki
+3-Lham Dearg
+4-Gryphon
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azrael HP:266/338 MP:328/328
+2-Sedna HP:350/350 MP:50/68
+3-Susano-o HP:927/927 MP:184/184
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Sedna ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:490/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Sedna HP:350/350 MP:50/68
+C-Gryphon HP:123/123 MP:23/23
+D-Lham Dearg HP:91/91 MP:19/19
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Lham Dearg
+3-Gryphon
+4-Sedna
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:490/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Sedna HP:350/350 MP:50/68
+C-Gryphon HP:123/123 MP:23/23
+D-Lham Dearg HP:91/91 MP:19/19
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lham Dearg
+2-Gryphon
+3-Sedna
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Lham Dearg
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lham Dearg use
+1-Gram Slice MP:5
+2-Critical Wave MP:10
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lham Dearg
+1-Yu HP:490/597 MP:321/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lham Dearg ataca a Yu
+Yu es resistente el ataque de Lham Dearg
+Yu recibe 11 de daño
+Yu termina con HP:479/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:479/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Sedna HP:350/350 MP:50/68
+C-Gryphon HP:123/123 MP:23/23
+D-Lham Dearg HP:91/91 MP:14/19
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gryphon
+2-Sedna
+3-Itsuki
+4-Lham Dearg
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:479/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Sedna HP:350/350 MP:50/68
+C-Gryphon HP:123/123 MP:23/23
+D-Lham Dearg HP:91/91 MP:14/19
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sedna
+2-Itsuki
+3-Lham Dearg
+4-Gryphon
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sedna use
+1-Mabufula MP:20
+2-Mamudo MP:18
+3-Posumudi MP:5
+4-Diarama MP:9
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Itsuki HP:1136/1136 MP:413/413
+2-Sedna HP:350/350 MP:50/68
+3-Gryphon HP:123/123 MP:23/23
+4-Lham Dearg HP:91/91 MP:14/19
+5-Azrael HP:266/338 MP:328/328
+6-Susano-o HP:927/927 MP:184/184
+7-Raphael HP:436/623 MP:247/279
+8-Cancelar
+INPUT: 4
+----------------------------------------
+Sedna cura a Lham Dearg
+Lham Dearg recibe 45 de HP
+Lham Dearg termina con HP:91/91
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:479/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Sedna HP:350/350 MP:41/68
+C-Gryphon HP:123/123 MP:23/23
+D-Lham Dearg HP:91/91 MP:14/19
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Lham Dearg
+3-Gryphon
+4-Sedna
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Yu HP:479/597 MP:321/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Yu
+Yu es resistente el ataque de Itsuki
+Yu recibe 22 de daño
+Yu termina con HP:457/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:457/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Sedna HP:350/350 MP:41/68
+C-Gryphon HP:123/123 MP:23/23
+D-Lham Dearg HP:91/91 MP:14/19
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Mortal Jihad MP:13
+2-Iron Judgement MP:8
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Itsuki HP:1136/1136 MP:413/413
+2-Sedna HP:350/350 MP:41/68
+3-Gryphon HP:123/123 MP:23/23
+4-Lham Dearg HP:91/91 MP:14/19
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Yu dispara a Itsuki
+Itsuki recibe 72 de daño
+Itsuki termina con HP:1064/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:457/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1064/1136 MP:413/413
+B-Sedna HP:350/350 MP:41/68
+C-Gryphon HP:123/123 MP:23/23
+D-Lham Dearg HP:91/91 MP:14/19
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Sedna
+3-Gryphon
+4-Lham Dearg
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Yu HP:457/597 MP:321/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Yu
+Yu es resistente el ataque de Itsuki
+Yu recibe 22 de daño
+Yu termina con HP:435/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:435/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1064/1136 MP:413/413
+B-Sedna HP:350/350 MP:41/68
+C-Gryphon HP:123/123 MP:23/23
+D-Lham Dearg HP:91/91 MP:14/19
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sedna
+2-Gryphon
+3-Lham Dearg
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azrael HP:266/338 MP:328/328
+2-Susano-o HP:927/927 MP:184/184
+3-Raphael HP:436/623 MP:247/279
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Yu HP:435/597 MP:321/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sedna use
+1-Mabufula MP:20
+2-Mamudo MP:18
+3-Posumudi MP:5
+4-Diarama MP:9
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Itsuki HP:1064/1136 MP:413/413
+2-Sedna HP:350/350 MP:41/68
+3-Gryphon HP:123/123 MP:23/23
+4-Lham Dearg HP:91/91 MP:14/19
+5-Azrael HP:266/338 MP:328/328
+6-Susano-o HP:927/927 MP:184/184
+7-Raphael HP:436/623 MP:247/279
+8-Cancelar
+INPUT: 5
+----------------------------------------
+Sedna cura a Azrael
+Azrael recibe 169 de HP
+Azrael termina con HP:338/338
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:435/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1064/1136 MP:413/413
+B-Sedna HP:350/350 MP:32/68
+C-Gryphon HP:123/123 MP:23/23
+D-Lham Dearg HP:91/91 MP:14/19
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gryphon
+2-Lham Dearg
+3-Itsuki
+4-Sedna
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gryphon
+1-Yu HP:435/597 MP:321/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Gryphon use
+1-Bouncing Claw MP:4
+2-Lunge MP:6
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Gryphon
+1-Yu HP:435/597 MP:321/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azrael HP:338/338 MP:328/328
+2-Susano-o HP:927/927 MP:184/184
+3-Raphael HP:436/623 MP:247/279
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Gryphon use
+1-Bouncing Claw MP:4
+2-Lunge MP:6
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gryphon
+1-Yu HP:435/597 MP:321/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Gryphon ataca a Yu
+Yu es resistente el ataque de Gryphon
+Yu recibe 13 de daño
+Gryphon ataca a Yu
+Yu es resistente el ataque de Gryphon
+Yu recibe 13 de daño
+Yu termina con HP:409/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:409/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1064/1136 MP:413/413
+B-Sedna HP:350/350 MP:32/68
+C-Gryphon HP:123/123 MP:19/23
+D-Lham Dearg HP:91/91 MP:14/19
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lham Dearg
+2-Itsuki
+3-Sedna
+4-Gryphon
+----------------------------------------
+Seleccione una acción para Lham Dearg
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:409/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1064/1136 MP:413/413
+B-Sedna HP:350/350 MP:32/68
+C-Gryphon HP:123/123 MP:19/23
+D-Lham Dearg HP:91/91 MP:14/19
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Sedna
+3-Gryphon
+4-Lham Dearg
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azrael HP:338/338 MP:328/328
+2-Susano-o HP:927/927 MP:184/184
+3-Raphael HP:436/623 MP:247/279
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Sedna HP:350/350 MP:32/68 (Puesto 2)
+2-Gryphon HP:123/123 MP:19/23 (Puesto 3)
+3-Lham Dearg HP:91/91 MP:14/19 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:409/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1064/1136 MP:413/413
+B-Sedna HP:350/350 MP:32/68
+C-Gryphon HP:123/123 MP:19/23
+D-Lham Dearg HP:91/91 MP:14/19
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Itsuki HP:1064/1136 MP:413/413
+2-Sedna HP:350/350 MP:32/68
+3-Gryphon HP:123/123 MP:19/23
+4-Lham Dearg HP:91/91 MP:14/19
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Yu dispara a Itsuki
+Itsuki recibe 72 de daño
+Itsuki termina con HP:992/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:409/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:992/1136 MP:413/413
+B-Sedna HP:350/350 MP:32/68
+C-Gryphon HP:123/123 MP:19/23
+D-Lham Dearg HP:91/91 MP:14/19
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Sedna
+3-Gryphon
+4-Lham Dearg
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Yu HP:409/597 MP:321/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Yu HP:409/597 MP:321/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:409/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:992/1136 MP:413/413
+B-Sedna HP:350/350 MP:32/68
+C-Gryphon HP:123/123 MP:19/23
+D-Lham Dearg HP:91/91 MP:14/19
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sedna
+2-Gryphon
+3-Lham Dearg
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:409/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:992/1136 MP:413/413
+B-Sedna HP:350/350 MP:32/68
+C-Gryphon HP:123/123 MP:19/23
+D-Lham Dearg HP:91/91 MP:14/19
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gryphon
+2-Lham Dearg
+3-Itsuki
+4-Sedna
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azrael HP:338/338 MP:328/328
+2-Susano-o HP:927/927 MP:184/184
+3-Raphael HP:436/623 MP:247/279
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Azrael ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:409/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:992/1136 MP:413/413
+B-Sedna HP:350/350 MP:32/68
+C-Azrael HP:338/338 MP:328/328
+D-Lham Dearg HP:91/91 MP:14/19
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lham Dearg
+2-Itsuki
+3-Sedna
+4-Azrael
+----------------------------------------
+Seleccione una acción para Lham Dearg
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Gryphon HP:123/123 MP:19/23
+2-Susano-o HP:927/927 MP:184/184
+3-Raphael HP:436/623 MP:247/279
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Raphael ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:409/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:992/1136 MP:413/413
+B-Sedna HP:350/350 MP:32/68
+C-Azrael HP:338/338 MP:328/328
+D-Raphael HP:436/623 MP:247/279
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Sedna
+3-Azrael
+4-Raphael
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Yu HP:409/597 MP:321/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Yu
+Yu recibe 61 de daño
+Yu termina con HP:348/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:348/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:992/1136 MP:413/413
+B-Sedna HP:350/350 MP:32/68
+C-Azrael HP:338/338 MP:328/328
+D-Raphael HP:436/623 MP:247/279
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sedna
+2-Azrael
+3-Raphael
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sedna use
+1-Mabufula MP:20
+2-Mamudo MP:18
+3-Posumudi MP:5
+4-Diarama MP:9
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sedna use
+1-Mabufula MP:20
+2-Mamudo MP:18
+3-Posumudi MP:5
+4-Diarama MP:9
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sedna use
+1-Mabufula MP:20
+2-Mamudo MP:18
+3-Posumudi MP:5
+4-Diarama MP:9
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Sedna
+1-Itsuki HP:992/1136 MP:413/413
+2-Sedna HP:350/350 MP:32/68
+3-Azrael HP:338/338 MP:328/328
+4-Raphael HP:436/623 MP:247/279
+5-Gryphon HP:123/123 MP:19/23
+6-Lham Dearg HP:91/91 MP:14/19
+7-Susano-o HP:927/927 MP:184/184
+8-Cancelar
+INPUT: 2
+----------------------------------------
+Sedna cura a Sedna
+Sedna recibe 175 de HP
+Sedna termina con HP:350/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:348/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:992/1136 MP:413/413
+B-Sedna HP:350/350 MP:23/68
+C-Azrael HP:338/338 MP:328/328
+D-Raphael HP:436/623 MP:247/279
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Itsuki HP:992/1136 MP:413/413
+2-Sedna HP:350/350 MP:23/68
+3-Azrael HP:338/338 MP:328/328
+4-Raphael HP:436/623 MP:247/279
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Yu ataca a Raphael
+Raphael recibe 49 de daño
+Raphael termina con HP:387/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:348/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:992/1136 MP:413/413
+B-Sedna HP:350/350 MP:23/68
+C-Azrael HP:338/338 MP:328/328
+D-Raphael HP:387/623 MP:247/279
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Itsuki
+3-Azrael
+4-Sedna
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Gryphon HP:123/123 MP:19/23
+2-Lham Dearg HP:91/91 MP:14/19
+3-Susano-o HP:927/927 MP:184/184
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Susano-o ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:348/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:992/1136 MP:413/413
+B-Sedna HP:350/350 MP:23/68
+C-Azrael HP:338/338 MP:328/328
+D-Susano-o HP:927/927 MP:184/184
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Azrael
+3-Sedna
+4-Susano-o
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Gryphon HP:123/123 MP:19/23
+2-Lham Dearg HP:91/91 MP:14/19
+3-Raphael HP:387/623 MP:247/279
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Sedna HP:350/350 MP:23/68 (Puesto 2)
+2-Azrael HP:338/338 MP:328/328 (Puesto 3)
+3-Susano-o HP:927/927 MP:184/184 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Gryphon ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:348/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:992/1136 MP:413/413
+B-Gryphon HP:123/123 MP:19/23
+C-Azrael HP:338/338 MP:328/328
+D-Susano-o HP:927/927 MP:184/184
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Azrael
+2-Gryphon
+3-Susano-o
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Azrael use
+1-Agidyne MP:14
+2-Samarecarm MP:40
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Azrael
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Azrael
+1-Yu HP:348/597 MP:321/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Azrael use
+1-Agidyne MP:14
+2-Samarecarm MP:40
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Azrael
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:350/350 MP:23/68
+2-Lham Dearg HP:91/91 MP:14/19
+3-Raphael HP:387/623 MP:247/279
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Lham Dearg ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:348/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:992/1136 MP:413/413
+B-Gryphon HP:123/123 MP:19/23
+C-Lham Dearg HP:91/91 MP:14/19
+D-Susano-o HP:927/927 MP:184/184
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Gryphon
+2-Susano-o
+3-Itsuki
+4-Lham Dearg
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gryphon
+1-Yu HP:348/597 MP:321/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Gryphon ataca a Yu
+Yu es resistente el ataque de Gryphon
+Yu recibe 2 de daño
+Yu termina con HP:346/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:346/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:992/1136 MP:413/413
+B-Gryphon HP:123/123 MP:19/23
+C-Lham Dearg HP:91/91 MP:14/19
+D-Susano-o HP:927/927 MP:184/184
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Susano-o
+2-Itsuki
+3-Lham Dearg
+4-Gryphon
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Susano-o use
+1-Hades Blast MP:32
+2-Deadly Wind MP:22
+3-Sea of Chaos MP:45
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Susano-o
+1-Yu HP:346/597 MP:321/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Susano-o use
+1-Hades Blast MP:32
+2-Deadly Wind MP:22
+3-Sea of Chaos MP:45
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Susano-o
+1-Yu HP:346/597 MP:321/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:346/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:992/1136 MP:413/413
+B-Gryphon HP:123/123 MP:19/23
+C-Lham Dearg HP:91/91 MP:14/19
+D-Susano-o HP:927/927 MP:184/184
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Lham Dearg
+3-Gryphon
+4-Susano-o
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Yu HP:346/597 MP:321/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Yu
+Yu es resistente el ataque de Itsuki
+Yu recibe 22 de daño
+Yu termina con HP:324/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:324/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:992/1136 MP:413/413
+B-Gryphon HP:123/123 MP:19/23
+C-Lham Dearg HP:91/91 MP:14/19
+D-Susano-o HP:927/927 MP:184/184
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lham Dearg
+2-Gryphon
+3-Susano-o
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Lham Dearg
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:324/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:992/1136 MP:413/413
+B-Gryphon HP:123/123 MP:19/23
+C-Lham Dearg HP:91/91 MP:14/19
+D-Susano-o HP:927/927 MP:184/184
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Gryphon
+2-Susano-o
+3-Itsuki
+4-Lham Dearg
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Gryphon use
+1-Bouncing Claw MP:4
+2-Lunge MP:6
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Gryphon use
+1-Bouncing Claw MP:4
+2-Lunge MP:6
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Gryphon use
+1-Bouncing Claw MP:4
+2-Lunge MP:6
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azrael HP:338/338 MP:328/328
+2-Sedna HP:350/350 MP:23/68
+3-Raphael HP:387/623 MP:247/279
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Azrael ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:324/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:992/1136 MP:413/413
+B-Azrael HP:338/338 MP:328/328
+C-Lham Dearg HP:91/91 MP:14/19
+D-Susano-o HP:927/927 MP:184/184
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Itsuki HP:992/1136 MP:413/413
+2-Azrael HP:338/338 MP:328/328
+3-Lham Dearg HP:91/91 MP:14/19
+4-Susano-o HP:927/927 MP:184/184
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Itsuki
+Itsuki recibe 49 de daño
+Itsuki termina con HP:943/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:324/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Azrael HP:338/338 MP:328/328
+C-Lham Dearg HP:91/91 MP:14/19
+D-Susano-o HP:927/927 MP:184/184
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Susano-o
+2-Itsuki
+3-Azrael
+4-Lham Dearg
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Susano-o
+1-Yu HP:324/597 MP:321/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Susano-o
+1-Yu HP:324/597 MP:321/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Susano-o ataca a Yu
+Yu es resistente el ataque de Susano-o
+Yu recibe 36 de daño
+Yu termina con HP:288/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:288/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Azrael HP:338/338 MP:328/328
+C-Lham Dearg HP:91/91 MP:14/19
+D-Susano-o HP:927/927 MP:184/184
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Azrael
+3-Lham Dearg
+4-Susano-o
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:288/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Azrael HP:338/338 MP:328/328
+C-Lham Dearg HP:91/91 MP:14/19
+D-Susano-o HP:927/927 MP:184/184
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Azrael
+2-Lham Dearg
+3-Susano-o
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Azrael use
+1-Agidyne MP:14
+2-Samarecarm MP:40
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Azrael
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:350/350 MP:23/68
+2-Gryphon HP:123/123 MP:19/23
+3-Raphael HP:387/623 MP:247/279
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Raphael ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:288/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Raphael HP:387/623 MP:247/279
+C-Lham Dearg HP:91/91 MP:14/19
+D-Susano-o HP:927/927 MP:184/184
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lham Dearg
+2-Susano-o
+3-Itsuki
+4-Raphael
+----------------------------------------
+Seleccione una acción para Lham Dearg
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lham Dearg
+1-Yu HP:288/597 MP:321/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lham Dearg ataca a Yu
+Yu es resistente el ataque de Lham Dearg
+Yu recibe 1 de daño
+Yu termina con HP:287/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:287/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Raphael HP:387/623 MP:247/279
+C-Lham Dearg HP:91/91 MP:14/19
+D-Susano-o HP:927/927 MP:184/184
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Susano-o
+2-Itsuki
+3-Raphael
+4-Lham Dearg
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:287/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Raphael HP:387/623 MP:247/279
+C-Lham Dearg HP:91/91 MP:14/19
+D-Susano-o HP:927/927 MP:184/184
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Raphael
+3-Lham Dearg
+4-Susano-o
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:287/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Raphael HP:387/623 MP:247/279
+C-Lham Dearg HP:91/91 MP:14/19
+D-Susano-o HP:927/927 MP:184/184
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Mortal Jihad MP:13
+2-Iron Judgement MP:8
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:287/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Raphael HP:387/623 MP:247/279
+C-Lham Dearg HP:91/91 MP:14/19
+D-Susano-o HP:927/927 MP:184/184
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Itsuki HP:943/1136 MP:413/413
+2-Raphael HP:387/623 MP:247/279
+3-Lham Dearg HP:91/91 MP:14/19
+4-Susano-o HP:927/927 MP:184/184
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Yu ataca a Raphael
+Raphael recibe 49 de daño
+Raphael termina con HP:338/623
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:287/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Raphael HP:338/623 MP:247/279
+C-Lham Dearg HP:91/91 MP:14/19
+D-Susano-o HP:927/927 MP:184/184
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Susano-o
+2-Raphael
+3-Itsuki
+4-Lham Dearg
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Susano-o use
+1-Hades Blast MP:32
+2-Deadly Wind MP:22
+3-Sea of Chaos MP:45
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Susano-o
+1-Yu HP:287/597 MP:321/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Susano-o
+1-Yu HP:287/597 MP:321/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Susano-o ataca a Yu
+Yu es resistente el ataque de Susano-o
+Yu recibe 36 de daño
+Yu termina con HP:251/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:251/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Raphael HP:338/623 MP:247/279
+C-Lham Dearg HP:91/91 MP:14/19
+D-Susano-o HP:927/927 MP:184/184
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Itsuki
+3-Lham Dearg
+4-Susano-o
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azrael HP:338/338 MP:328/328
+2-Sedna HP:350/350 MP:23/68
+3-Gryphon HP:123/123 MP:19/23
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Gryphon ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:251/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Gryphon HP:123/123 MP:19/23
+C-Lham Dearg HP:91/91 MP:14/19
+D-Susano-o HP:927/927 MP:184/184
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Lham Dearg
+3-Susano-o
+4-Gryphon
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Yu HP:251/597 MP:321/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azrael HP:338/338 MP:328/328
+2-Sedna HP:350/350 MP:23/68
+3-Raphael HP:338/623 MP:247/279
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Yu HP:251/597 MP:321/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Yu HP:251/597 MP:321/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Yu
+Yu es resistente el ataque de Itsuki
+Yu recibe 22 de daño
+Yu termina con HP:229/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:229/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Gryphon HP:123/123 MP:19/23
+C-Lham Dearg HP:91/91 MP:14/19
+D-Susano-o HP:927/927 MP:184/184
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lham Dearg
+2-Susano-o
+3-Gryphon
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Lham Dearg
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:229/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Gryphon HP:123/123 MP:19/23
+C-Lham Dearg HP:91/91 MP:14/19
+D-Susano-o HP:927/927 MP:184/184
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Susano-o
+2-Gryphon
+3-Itsuki
+4-Lham Dearg
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Susano-o
+1-Yu HP:229/597 MP:321/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Susano-o ataca a Yu
+Yu es resistente el ataque de Susano-o
+Yu recibe 36 de daño
+Yu termina con HP:193/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:193/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Gryphon HP:123/123 MP:19/23
+C-Lham Dearg HP:91/91 MP:14/19
+D-Susano-o HP:927/927 MP:184/184
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gryphon
+2-Itsuki
+3-Lham Dearg
+4-Susano-o
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gryphon
+1-Yu HP:193/597 MP:321/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Gryphon ataca a Yu
+Yu es resistente el ataque de Gryphon
+Yu recibe 2 de daño
+Yu termina con HP:191/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:191/597 MP:321/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Gryphon HP:123/123 MP:19/23
+C-Lham Dearg HP:91/91 MP:14/19
+D-Susano-o HP:927/927 MP:184/184
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Itsuki HP:943/1136 MP:413/413
+2-Gryphon HP:123/123 MP:19/23
+3-Lham Dearg HP:91/91 MP:14/19
+4-Susano-o HP:927/927 MP:184/184
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Mortal Jihad MP:13
+2-Iron Judgement MP:8
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Itsuki HP:943/1136 MP:413/413
+2-Gryphon HP:123/123 MP:19/23
+3-Lham Dearg HP:91/91 MP:14/19
+4-Susano-o HP:927/927 MP:184/184
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Yu ataca a Gryphon
+Gryphon recibe 97 de daño
+Gryphon termina con HP:26/123
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:191/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Gryphon HP:26/123 MP:19/23
+C-Lham Dearg HP:91/91 MP:14/19
+D-Susano-o HP:927/927 MP:184/184
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Susano-o
+2-Itsuki
+3-Gryphon
+4-Lham Dearg
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:191/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Gryphon HP:26/123 MP:19/23
+C-Lham Dearg HP:91/91 MP:14/19
+D-Susano-o HP:927/927 MP:184/184
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Gryphon
+3-Lham Dearg
+4-Susano-o
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azrael HP:338/338 MP:328/328
+2-Sedna HP:350/350 MP:23/68
+3-Raphael HP:338/623 MP:247/279
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Gryphon HP:26/123 MP:19/23 (Puesto 2)
+2-Lham Dearg HP:91/91 MP:14/19 (Puesto 3)
+3-Susano-o HP:927/927 MP:184/184 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Raphael ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:191/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Raphael HP:338/623 MP:247/279
+C-Lham Dearg HP:91/91 MP:14/19
+D-Susano-o HP:927/927 MP:184/184
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Lham Dearg
+3-Susano-o
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azrael HP:338/338 MP:328/328
+2-Sedna HP:350/350 MP:23/68
+3-Gryphon HP:26/123 MP:19/23
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Azrael ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:191/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Azrael HP:338/338 MP:328/328
+C-Lham Dearg HP:91/91 MP:14/19
+D-Susano-o HP:927/927 MP:184/184
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lham Dearg
+2-Susano-o
+3-Itsuki
+4-Azrael
+----------------------------------------
+Seleccione una acción para Lham Dearg
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:191/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Azrael HP:338/338 MP:328/328
+C-Lham Dearg HP:91/91 MP:14/19
+D-Susano-o HP:927/927 MP:184/184
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Susano-o
+2-Itsuki
+3-Azrael
+4-Lham Dearg
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Susano-o use
+1-Hades Blast MP:32
+2-Deadly Wind MP:22
+3-Sea of Chaos MP:45
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Susano-o
+1-Yu HP:191/597 MP:313/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:350/350 MP:23/68
+2-Gryphon HP:26/123 MP:19/23
+3-Raphael HP:338/623 MP:247/279
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Susano-o
+1-Yu HP:191/597 MP:313/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:191/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Azrael HP:338/338 MP:328/328
+C-Lham Dearg HP:91/91 MP:14/19
+D-Susano-o HP:927/927 MP:184/184
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Azrael
+3-Lham Dearg
+4-Susano-o
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:350/350 MP:23/68
+2-Gryphon HP:26/123 MP:19/23
+3-Raphael HP:338/623 MP:247/279
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Azrael HP:338/338 MP:328/328 (Puesto 2)
+2-Lham Dearg HP:91/91 MP:14/19 (Puesto 3)
+3-Susano-o HP:927/927 MP:184/184 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Gryphon ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:191/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Azrael HP:338/338 MP:328/328
+C-Lham Dearg HP:91/91 MP:14/19
+D-Gryphon HP:26/123 MP:19/23
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Azrael
+2-Lham Dearg
+3-Gryphon
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:191/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Azrael HP:338/338 MP:328/328
+C-Lham Dearg HP:91/91 MP:14/19
+D-Gryphon HP:26/123 MP:19/23
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lham Dearg
+2-Gryphon
+3-Itsuki
+4-Azrael
+----------------------------------------
+Seleccione una acción para Lham Dearg
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lham Dearg
+1-Yu HP:191/597 MP:313/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lham Dearg ataca a Yu
+Yu es resistente el ataque de Lham Dearg
+Yu recibe 1 de daño
+Yu termina con HP:190/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:190/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Azrael HP:338/338 MP:328/328
+C-Lham Dearg HP:91/91 MP:14/19
+D-Gryphon HP:26/123 MP:19/23
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Itsuki HP:943/1136 MP:413/413
+2-Azrael HP:338/338 MP:328/328
+3-Lham Dearg HP:91/91 MP:14/19
+4-Gryphon HP:26/123 MP:19/23
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Yu dispara a Lham Dearg
+Lham Dearg es resistente el ataque de Yu
+Lham Dearg recibe 36 de daño
+Lham Dearg termina con HP:55/91
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:190/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Azrael HP:338/338 MP:328/328
+C-Lham Dearg HP:55/91 MP:14/19
+D-Gryphon HP:26/123 MP:19/23
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Azrael
+3-Gryphon
+4-Lham Dearg
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:190/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Azrael HP:338/338 MP:328/328
+C-Lham Dearg HP:55/91 MP:14/19
+D-Gryphon HP:26/123 MP:19/23
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Azrael
+2-Gryphon
+3-Lham Dearg
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:350/350 MP:23/68
+2-Susano-o HP:927/927 MP:184/184
+3-Raphael HP:338/623 MP:247/279
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Raphael ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:190/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Raphael HP:338/623 MP:247/279
+C-Lham Dearg HP:55/91 MP:14/19
+D-Gryphon HP:26/123 MP:19/23
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gryphon
+2-Lham Dearg
+3-Itsuki
+4-Raphael
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Gryphon use
+1-Bouncing Claw MP:4
+2-Lunge MP:6
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gryphon
+1-Yu HP:190/597 MP:313/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gryphon
+1-Yu HP:190/597 MP:313/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Gryphon ataca a Yu
+Yu es resistente el ataque de Gryphon
+Yu recibe 2 de daño
+Yu termina con HP:188/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Raphael HP:338/623 MP:247/279
+C-Lham Dearg HP:55/91 MP:14/19
+D-Gryphon HP:26/123 MP:19/23
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lham Dearg
+2-Itsuki
+3-Raphael
+4-Gryphon
+----------------------------------------
+Seleccione una acción para Lham Dearg
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azrael HP:338/338 MP:328/328
+2-Sedna HP:350/350 MP:23/68
+3-Susano-o HP:927/927 MP:184/184
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Azrael ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Raphael HP:338/623 MP:247/279
+C-Azrael HP:338/338 MP:328/328
+D-Gryphon HP:26/123 MP:19/23
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Raphael
+3-Gryphon
+4-Azrael
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Raphael HP:338/623 MP:247/279
+C-Azrael HP:338/338 MP:328/328
+D-Gryphon HP:26/123 MP:19/23
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Gryphon
+3-Azrael
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Raphael HP:338/623 MP:247/279
+C-Azrael HP:338/338 MP:328/328
+D-Gryphon HP:26/123 MP:19/23
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Gryphon
+2-Azrael
+3-Itsuki
+4-Raphael
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Raphael HP:338/623 MP:247/279
+C-Azrael HP:338/338 MP:328/328
+D-Gryphon HP:26/123 MP:19/23
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Itsuki HP:943/1136 MP:413/413
+2-Raphael HP:338/623 MP:247/279
+3-Azrael HP:338/338 MP:328/328
+4-Gryphon HP:26/123 MP:19/23
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Itsuki HP:943/1136 MP:413/413
+2-Raphael HP:338/623 MP:247/279
+3-Azrael HP:338/338 MP:328/328
+4-Gryphon HP:26/123 MP:19/23
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Yu dispara a Raphael
+Raphael recibe 72 de daño
+Raphael termina con HP:266/623
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Raphael HP:266/623 MP:247/279
+C-Azrael HP:338/338 MP:328/328
+D-Gryphon HP:26/123 MP:19/23
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Raphael
+2-Itsuki
+3-Azrael
+4-Gryphon
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Yu HP:188/597 MP:313/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:188/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Raphael HP:266/623 MP:247/279
+C-Azrael HP:338/338 MP:328/328
+D-Gryphon HP:26/123 MP:19/23
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Azrael
+3-Gryphon
+4-Raphael
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Yu HP:188/597 MP:313/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Yu
+Yu es resistente el ataque de Itsuki
+Yu recibe 22 de daño
+Yu termina con HP:166/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:166/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Raphael HP:266/623 MP:247/279
+C-Azrael HP:338/338 MP:328/328
+D-Gryphon HP:26/123 MP:19/23
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Azrael
+2-Gryphon
+3-Raphael
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Azrael
+1-Yu HP:166/597 MP:313/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Azrael ataca a Yu
+Yu es resistente el ataque de Azrael
+Yu recibe 18 de daño
+Yu termina con HP:148/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:148/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Raphael HP:266/623 MP:247/279
+C-Azrael HP:338/338 MP:328/328
+D-Gryphon HP:26/123 MP:19/23
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gryphon
+2-Raphael
+3-Itsuki
+4-Azrael
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:148/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Raphael HP:266/623 MP:247/279
+C-Azrael HP:338/338 MP:328/328
+D-Gryphon HP:26/123 MP:19/23
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Raphael
+2-Itsuki
+3-Azrael
+4-Gryphon
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:350/350 MP:23/68
+2-Lham Dearg HP:55/91 MP:14/19
+3-Susano-o HP:927/927 MP:184/184
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Lham Dearg ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:148/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Lham Dearg HP:55/91 MP:14/19
+C-Azrael HP:338/338 MP:328/328
+D-Gryphon HP:26/123 MP:19/23
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Azrael
+3-Gryphon
+4-Lham Dearg
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:148/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Lham Dearg HP:55/91 MP:14/19
+C-Azrael HP:338/338 MP:328/328
+D-Gryphon HP:26/123 MP:19/23
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Azrael
+2-Gryphon
+3-Lham Dearg
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Azrael use
+1-Agidyne MP:14
+2-Samarecarm MP:40
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Azrael
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Azrael use
+1-Agidyne MP:14
+2-Samarecarm MP:40
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Azrael
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Azrael use
+1-Agidyne MP:14
+2-Samarecarm MP:40
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Azrael
+1-Yu HP:148/597 MP:313/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Azrael use
+1-Agidyne MP:14
+2-Samarecarm MP:40
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Azrael
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:148/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Lham Dearg HP:55/91 MP:14/19
+C-Azrael HP:338/338 MP:328/328
+D-Gryphon HP:26/123 MP:19/23
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:148/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Lham Dearg HP:55/91 MP:14/19
+C-Azrael HP:338/338 MP:328/328
+D-Gryphon HP:26/123 MP:19/23
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Itsuki HP:943/1136 MP:413/413
+2-Lham Dearg HP:55/91 MP:14/19
+3-Azrael HP:338/338 MP:328/328
+4-Gryphon HP:26/123 MP:19/23
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Yu dispara a Gryphon
+Gryphon es débil contra el ataque de Yu
+Gryphon recibe 109 de daño
+Gryphon termina con HP:0/123
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:148/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Lham Dearg HP:55/91 MP:14/19
+C-Azrael HP:338/338 MP:328/328
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Azrael
+3-Lham Dearg
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Yu HP:148/597 MP:313/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Yu
+Yu es resistente el ataque de Itsuki
+Yu recibe 22 de daño
+Yu termina con HP:126/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:126/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Lham Dearg HP:55/91 MP:14/19
+C-Azrael HP:338/338 MP:328/328
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Azrael
+2-Lham Dearg
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:126/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Lham Dearg HP:55/91 MP:14/19
+C-Azrael HP:338/338 MP:328/328
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lham Dearg
+2-Itsuki
+3-Azrael
+----------------------------------------
+Seleccione una acción para Lham Dearg
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:350/350 MP:23/68
+2-Susano-o HP:927/927 MP:184/184
+3-Raphael HP:266/623 MP:247/279
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Susano-o ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:126/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Susano-o HP:927/927 MP:184/184
+C-Azrael HP:338/338 MP:328/328
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Azrael
+3-Susano-o
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:350/350 MP:23/68
+2-Lham Dearg HP:55/91 MP:14/19
+3-Raphael HP:266/623 MP:247/279
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Susano-o HP:927/927 MP:184/184 (Puesto 2)
+2-Azrael HP:338/338 MP:328/328 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Lham Dearg ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:126/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Lham Dearg HP:55/91 MP:14/19
+C-Azrael HP:338/338 MP:328/328
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Azrael
+2-Lham Dearg
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:126/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Lham Dearg HP:55/91 MP:14/19
+C-Azrael HP:338/338 MP:328/328
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:126/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Lham Dearg HP:55/91 MP:14/19
+C-Azrael HP:338/338 MP:328/328
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Itsuki HP:943/1136 MP:413/413
+2-Lham Dearg HP:55/91 MP:14/19
+3-Azrael HP:338/338 MP:328/328
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Yu dispara a Azrael
+Azrael recibe 72 de daño
+Azrael termina con HP:266/338
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:126/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Lham Dearg HP:55/91 MP:14/19
+C-Azrael HP:266/338 MP:328/328
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Azrael
+3-Lham Dearg
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sedna HP:350/350 MP:23/68
+2-Susano-o HP:927/927 MP:184/184
+3-Raphael HP:266/623 MP:247/279
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Lham Dearg HP:55/91 MP:14/19 (Puesto 2)
+2-Azrael HP:266/338 MP:328/328 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Raphael ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:126/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Lham Dearg HP:55/91 MP:14/19
+C-Raphael HP:266/623 MP:247/279
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Raphael
+2-Lham Dearg
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Yu HP:126/597 MP:313/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azrael HP:266/338 MP:328/328
+2-Sedna HP:350/350 MP:23/68
+3-Susano-o HP:927/927 MP:184/184
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Susano-o ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:126/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Lham Dearg HP:55/91 MP:14/19
+C-Susano-o HP:927/927 MP:184/184
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lham Dearg
+2-Itsuki
+3-Susano-o
+----------------------------------------
+Seleccione una acción para Lham Dearg
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azrael HP:266/338 MP:328/328
+2-Sedna HP:350/350 MP:23/68
+3-Raphael HP:266/623 MP:247/279
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Raphael ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:126/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Raphael HP:266/623 MP:247/279
+C-Susano-o HP:927/927 MP:184/184
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Susano-o
+3-Raphael
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Yu HP:126/597 MP:313/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Yu
+Yu es resistente el ataque de Itsuki
+Yu recibe 22 de daño
+Yu termina con HP:104/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:104/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Raphael HP:266/623 MP:247/279
+C-Susano-o HP:927/927 MP:184/184
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Susano-o
+2-Raphael
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Susano-o use
+1-Hades Blast MP:32
+2-Deadly Wind MP:22
+3-Sea of Chaos MP:45
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Susano-o
+1-Yu HP:104/597 MP:313/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Susano-o ataca a Yu
+Yu es resistente el ataque de Susano-o
+Yu recibe 36 de daño
+Yu termina con HP:68/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:68/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:943/1136 MP:413/413
+B-Raphael HP:266/623 MP:247/279
+C-Susano-o HP:927/927 MP:184/184
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Itsuki HP:943/1136 MP:413/413
+2-Raphael HP:266/623 MP:247/279
+3-Susano-o HP:927/927 MP:184/184
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Itsuki
+Itsuki recibe 49 de daño
+Itsuki termina con HP:894/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:68/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:894/1136 MP:413/413
+B-Raphael HP:266/623 MP:247/279
+C-Susano-o HP:927/927 MP:184/184
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Susano-o
+2-Raphael
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azrael HP:266/338 MP:328/328
+2-Sedna HP:350/350 MP:23/68
+3-Lham Dearg HP:55/91 MP:14/19
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Sedna ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:68/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:894/1136 MP:413/413
+B-Raphael HP:266/623 MP:247/279
+C-Sedna HP:350/350 MP:23/68
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Raphael
+2-Itsuki
+3-Sedna
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Raphael
+1-Yu HP:68/597 MP:313/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Raphael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azrael HP:266/338 MP:328/328
+2-Lham Dearg HP:55/91 MP:14/19
+3-Susano-o HP:927/927 MP:184/184
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Susano-o ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:68/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:894/1136 MP:413/413
+B-Susano-o HP:927/927 MP:184/184
+C-Sedna HP:350/350 MP:23/68
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Sedna
+3-Susano-o
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:68/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:894/1136 MP:413/413
+B-Susano-o HP:927/927 MP:184/184
+C-Sedna HP:350/350 MP:23/68
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sedna
+2-Susano-o
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Sedna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:68/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:894/1136 MP:413/413
+B-Susano-o HP:927/927 MP:184/184
+C-Sedna HP:350/350 MP:23/68
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Susano-o
+2-Itsuki
+3-Sedna
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Susano-o
+1-Yu HP:68/597 MP:313/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Susano-o use
+1-Hades Blast MP:32
+2-Deadly Wind MP:22
+3-Sea of Chaos MP:45
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Susano-o use
+1-Hades Blast MP:32
+2-Deadly Wind MP:22
+3-Sea of Chaos MP:45
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Susano-o
+1-Yu HP:68/597 MP:313/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Susano-o ataca a Yu
+Yu es resistente el ataque de Susano-o
+Yu recibe 36 de daño
+Yu termina con HP:32/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:32/597 MP:313/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:894/1136 MP:413/413
+B-Susano-o HP:927/927 MP:184/184
+C-Sedna HP:350/350 MP:23/68
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Mortal Jihad MP:13
+2-Iron Judgement MP:8
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Itsuki HP:894/1136 MP:413/413
+2-Susano-o HP:927/927 MP:184/184
+3-Sedna HP:350/350 MP:23/68
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Yu ataca a Sedna
+Sedna recibe 138 de daño
+Sedna termina con HP:212/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:32/597 MP:300/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:894/1136 MP:413/413
+B-Susano-o HP:927/927 MP:184/184
+C-Sedna HP:212/350 MP:23/68
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Susano-o
+2-Itsuki
+3-Sedna
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:32/597 MP:300/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:894/1136 MP:413/413
+B-Susano-o HP:927/927 MP:184/184
+C-Sedna HP:212/350 MP:23/68
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Sedna
+3-Susano-o
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Yu HP:32/597 MP:300/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azrael HP:266/338 MP:328/328
+2-Lham Dearg HP:55/91 MP:14/19
+3-Raphael HP:266/623 MP:247/279
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Susano-o HP:927/927 MP:184/184 (Puesto 2)
+2-Sedna HP:212/350 MP:23/68 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Azrael ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:32/597 MP:300/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:894/1136 MP:413/413
+B-Susano-o HP:927/927 MP:184/184
+C-Azrael HP:266/338 MP:328/328
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Azrael
+2-Susano-o
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Azrael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Azrael
+1-Yu HP:32/597 MP:300/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Azrael ataca a Yu
+Yu es resistente el ataque de Azrael
+Yu recibe 18 de daño
+Yu termina con HP:14/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:14/597 MP:300/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:894/1136 MP:413/413
+B-Susano-o HP:927/927 MP:184/184
+C-Azrael HP:266/338 MP:328/328
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Susano-o
+2-Itsuki
+3-Azrael
+----------------------------------------
+Seleccione una acción para Susano-o
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:14/597 MP:300/347
+B-
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:894/1136 MP:413/413
+B-Susano-o HP:927/927 MP:184/184
+C-Azrael HP:266/338 MP:328/328
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Azrael
+3-Susano-o
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Yu HP:14/597 MP:300/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Yu
+Yu es resistente el ataque de Itsuki
+Yu recibe 22 de daño
+Yu termina con HP:0/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Itsuki (J2)
