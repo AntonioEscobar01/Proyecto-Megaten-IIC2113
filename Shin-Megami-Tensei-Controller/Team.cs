@@ -192,4 +192,9 @@ public class Team
             return false;
         });
     }
+    // Agregar este método en la clase Team
+    public void AddBlinkingTurn()
+    {
+        BlinkingTurns++;
+    }
 }

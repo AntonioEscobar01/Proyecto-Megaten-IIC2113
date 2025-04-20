@@ -5,6 +5,7 @@ public class Monster
 {
     public string Name { get; private set; }
     public List<string> Abilities { get; private set; }
+    public Affinity Affinities { get; private set; }
 
     // Original stats (immutable)
     public int OriginalHp { get; private set; }
@@ -50,10 +51,21 @@ public class Monster
             SetOriginalStatsFromData(monsterData);
             CopyOriginalStatsToCurrent();
             LoadMonsterAbilities(monsterData);
+            
+            // Cargar afinidades
+            if (monsterData.affinity != null)
+            {
+                Affinities = new Affinity(monsterData.affinity);
+            }
+            else
+            {
+                Affinities = new Affinity(new Dictionary<string, string>());
+            }
         }
         else
         {
             ApplyDefaultStats();
+            Affinities = new Affinity(new Dictionary<string, string>());
         }
     }
 

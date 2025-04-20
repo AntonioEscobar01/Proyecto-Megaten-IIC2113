@@ -137,10 +137,43 @@ public class GameUi
         return unit is Samurai samurai ? samurai.Name : ((Monster)unit).Name;
     }
 
-    public void ShowDamageResult(string attackerName, string targetName, string actionType, int damage, int remainingHp, int originalHp)
+    public void ShowDamageResult(string targetName, int remainingHp, int originalHp)
     {
-        _view.WriteLine($"{attackerName} {actionType} a {targetName}");
-        _view.WriteLine($"{targetName} recibe {damage} de daño");
         _view.WriteLine($"{targetName} termina con HP:{remainingHp}/{originalHp}");
     }
+    
+    public void ShowAttack(string attackerName, string actionType, string targetName)
+    {
+        _view.WriteLine($"{attackerName} {actionType} a {targetName}");
+    }
+    
+    public void ShowAffinityResponse(string attackerName, string affinity, string targetName, int damage)
+    {
+        if (affinity == "Rs")
+        {
+            _view.WriteLine($"{targetName} es resistente el ataque de {attackerName}");
+        }
+        else if (affinity == "Wk")
+        {
+            _view.WriteLine($"{targetName} es débil contra el ataque de {attackerName}");
+        }
+        else if (affinity == "Nu")
+        {
+            _view.WriteLine($"{targetName}  bloquea el ataque de  {attackerName}");
+        }
+        else if (affinity == "Dr")
+        {
+            _view.WriteLine($"{targetName} absorbe {damage} daño");
+        }
+        else if (affinity == "Rp")
+        {
+            _view.WriteLine($"{targetName} devuelve {damage} daño a {attackerName}");
+        }
+        else
+        {
+            _view.WriteLine($"{targetName} recibe {damage} de daño");
+        }
+    }
+    
+    
 }

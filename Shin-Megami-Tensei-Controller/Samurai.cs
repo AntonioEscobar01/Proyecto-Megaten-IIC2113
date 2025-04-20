@@ -4,6 +4,7 @@ public class Samurai
 {
     public string Name { get; private set; }
     public List<string> Abilities { get; private set; }
+    public Affinity Affinities { get; private set; }
     
     public int OriginalHp { get; private set; }
     public int OriginalMp { get; private set; }
@@ -33,6 +34,7 @@ public class Samurai
         Name = name;
         Abilities = abilities;
         LoadStats();
+        LoadAffinities();
     }
 
     private void LoadStats()
@@ -52,6 +54,19 @@ public class Samurai
         Mag = OriginalMag;
         Spd = OriginalSpd;
         Lck = OriginalLck;
+    }
+    
+    private void LoadAffinities()
+    {
+        var samuraiData = _statsManager.GetSamuraiData(Name);
+        if (samuraiData != null && samuraiData.affinity != null)
+        {
+            Affinities = new Affinity(samuraiData.affinity);
+        }
+        else
+        {
+            Affinities = new Affinity(new Dictionary<string, string>());
+        }
     }
     
     public void ResetStats()

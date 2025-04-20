@@ -128,11 +128,164 @@ public class UnitAction
         ExecuteUnitTurn();
     }
 
-    private void ProcessInvokeAction()
+        private void ProcessInvokeAction()
     {
-        // Esta funcionalidad aún no está implementada
+        object currentUnit = _currentTeam.OrderList[0];
+        bool isSamurai = currentUnit is Samurai;
+
+        // Obtener monstruos disponibles para invocar
+        var availableMonsters = GetAvailableMonsters();
+
+        if (availableMonsters.Count == 0)
+        {
+            _gameUi.PrintLine();
+            _gameUi.WriteLine("No hay monstruos disponibles para invocar");
+            _gameUi.PrintLine();
+            ExecuteUnitTurn();
+            return;
+        }
+
+        // Mostrar menú de selección de monstruos
+        _gameUi.PrintLine();
+        _gameUi.WriteLine("Seleccione un monstruo para invocar");
+        DisplayAvailableMonsters(availableMonsters);
+        _gameUi.WriteLine($"{availableMonsters.Count + 1}- Cancelar");
+
+        int selection = int.Parse(_gameUi.ReadLine());
+        
+        // Verificar si se seleccionó cancelar
+        if (selection > availableMonsters.Count || selection <= 0)
+        {
+            _gameUi.PrintLine();
+            ExecuteUnitTurn();
+            return;
+        }
+
+        Monster selectedMonster = availableMonsters[selection - 1];
+
+        if (isSamurai)
+        {
+            ProcessSamuraiInvoke(selectedMonster);
+        }
+        else
+        {
+            ProcessMonsterInvoke(selectedMonster);
+        }
     }
 
+    private List<Monster> GetAvailableMonsters()
+    {
+        // Obtener monstruos que no están en los primeros 3 puestos y no están muertos
+        List<Monster> availableMonsters = new List<Monster>();
+        
+        for (int i = 3; i < _currentTeam.Units.Count; i++)
+        {
+            if (i < _currentTeam.Units.Count && !_currentTeam.Units[i].IsDead())
+            {
+                availableMonsters.Add(_currentTeam.Units[i]);
+            }
+        }
+        
+        return availableMonsters;
+    }
+
+    private void DisplayAvailableMonsters(List<Monster> monsters)
+    {
+        for (int i = 0; i < monsters.Count; i++)
+        {
+            Monster monster = monsters[i];
+            _gameUi.WriteLine($"{i + 1}- {monster.Name} HP:{monster.Hp}/{monster.OriginalHp} MP:{monster.Mp}/{monster.OriginalMp}");
+        }
+    }
+
+    private void ProcessSamuraiInvoke(Monster selectedMonster)
+    {
+        _gameUi.PrintLine();
+        _gameUi.WriteLine("Seleccione una posición para invocar");
+        
+        // Mostrar posiciones disponibles (puestos 2, 3, 4)
+        List<int> positions = new List<int>();
+        for (int i = 0; i < 3; i++) // Posiciones 2, 3, 4
+        {
+            string positionInfo;
+            if (i < _currentTeam.Units.Count && !_currentTeam.Units[i].IsDead())
+            {
+                Monster monster = _currentTeam.Units[i];
+                positionInfo = $"{monster.Name} HP:{monster.Hp}/{monster.OriginalHp} MP:{monster.Mp}/{monster.OriginalMp} (Puesto {i + 2})";
+            }
+            else
+            {
+                positionInfo = $"Vacío (Puesto {i + 2})";
+            }
+            
+            _gameUi.WriteLine($"{i + 1}- {positionInfo}");
+            positions.Add(i + 2);
+        }
+        
+        _gameUi.WriteLine($"{positions.Count + 1}- Cancelar");
+        
+        int positionSelection = int.Parse(_gameUi.ReadLine());
+        
+        // Verificar si se seleccionó cancelar
+        if (positionSelection > positions.Count || positionSelection <= 0)
+        {
+            _gameUi.PrintLine();
+            ExecuteUnitTurn();
+            return;
+        }
+        
+        int selectedPosition = positionSelection - 1; // Índice real en Units
+        
+        // Realizar la invocación
+        PlaceMonsterAtPosition(selectedMonster, selectedPosition);
+        
+        _gameUi.PrintLine();
+        _gameUi.WriteLine($"{selectedMonster.Name} ha sido invocado");
+        _gameUi.PrintLine();
+        _gameUi.WriteLine("Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)");
+        _gameUi.WriteLine("Se han obtenido 1 Blinking Turn(s)");
+        
+        _currentTeam.AddBlinkingTurn();
+        CompleteTurn();
+    }
+
+    private void ProcessMonsterInvoke(Monster selectedMonster)
+    {
+        Monster currentMonster = _currentTeam.OrderList[0] as Monster;
+        int currentPosition = _currentTeam.Units.IndexOf(currentMonster);
+        
+        // Intercambiar el monstruo actual por el seleccionado
+        _currentTeam.Units[currentPosition] = selectedMonster;
+        _currentTeam.Units.Remove(selectedMonster);
+        
+        _gameUi.PrintLine();
+        _gameUi.WriteLine($"{selectedMonster.Name} ha sido invocado");
+        _gameUi.PrintLine();
+        _gameUi.WriteLine("Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)");
+        _gameUi.WriteLine("Se han obtenido 0 Blinking Turn(s)");
+        
+        // Actualizar la lista de orden
+        _currentTeam.InitializeOrderList();
+        CompleteTurn();
+    }
+
+    private void PlaceMonsterAtPosition(Monster monster, int position)
+    {
+        // Eliminar el monstruo de su posición actual
+        _currentTeam.Units.Remove(monster);
+        
+        // Asegurar que hay suficientes posiciones
+        while (_currentTeam.Units.Count <= position)
+        {
+            _currentTeam.Units.Add(null);
+        }
+        
+        // Colocar el monstruo en la posición seleccionada
+        _currentTeam.Units[position] = monster;
+        
+        // Actualizar la lista de orden
+        _currentTeam.InitializeOrderList();
+    }
     private void ProcessPassTurnAction()
     {
         CompleteTurn();
