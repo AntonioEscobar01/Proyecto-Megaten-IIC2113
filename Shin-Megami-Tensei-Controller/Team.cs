@@ -12,7 +12,8 @@ public class Team
     public List<object> OrderList { get; private set; }
     public int FullTurns { get; private set; }
     public int BlinkingTurns { get; private set; }
-    public int MaxFullTurns { get; set; }  
+    public int MaxFullTurns { get; private set; } 
+    public int UsedSkillsCount { get; private set; }
 
     public Team(string player)
     {
@@ -21,6 +22,7 @@ public class Team
         OrderList = new List<object>();
         FullTurns = 0;
         BlinkingTurns = 0;
+        UsedSkillsCount = 0;
     }
     
     public void InitializeOrderList()
@@ -158,7 +160,7 @@ public class Team
     
     public bool HasCompletedAllTurns()
     {
-        return FullTurns == MaxFullTurns;
+        return FullTurns == MaxFullTurns && BlinkingTurns == 0;
     }
     
     public void CompleteTurn()
@@ -192,9 +194,22 @@ public class Team
             return false;
         });
     }
-    // Agregar este método en la clase Team
+    public void ConsumeFullTurn()
+    {
+        FullTurns++;
+    }
+    
+    public void ConsumeBlinkingTurn()
+    {
+        BlinkingTurns--;
+    }
+    
     public void AddBlinkingTurn()
     {
         BlinkingTurns++;
+    }
+    public void IncrementUsedSkillsCount()
+    {
+        UsedSkillsCount++;
     }
 }

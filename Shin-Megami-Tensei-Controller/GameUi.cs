@@ -118,10 +118,11 @@ public class GameUi
         }
     }
 
-    public void PrintTurnsUsed(Team currentTeam)
+    public void PrintTurnsUsed(Team currentTeam, int fullTurnsUsed, int blinkingTurnsUsed, int blinkingTurnsGained)
     {
-        _view.WriteLine($"Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)");
-        _view.WriteLine("Se han obtenido 0 Blinking Turn(s)");
+        PrintLine();
+        _view.WriteLine($"Se han consumido {fullTurnsUsed} Full Turn(s) y {blinkingTurnsUsed} Blinking Turn(s)");
+        _view.WriteLine($"Se han obtenido {blinkingTurnsGained} Blinking Turn(s)");
     }
 
     public void DisplayWinner(Team team1, Team team2, int winnerTeam)
@@ -152,14 +153,16 @@ public class GameUi
         if (affinity == "Rs")
         {
             _view.WriteLine($"{targetName} es resistente el ataque de {attackerName}");
+            _view.WriteLine($"{targetName} recibe {damage} de daño");
         }
         else if (affinity == "Wk")
         {
             _view.WriteLine($"{targetName} es débil contra el ataque de {attackerName}");
+            _view.WriteLine($"{targetName} recibe {damage} de daño");
         }
         else if (affinity == "Nu")
         {
-            _view.WriteLine($"{targetName}  bloquea el ataque de  {attackerName}");
+            _view.WriteLine($"{targetName} bloquea el ataque de {attackerName}");
         }
         else if (affinity == "Dr")
         {
@@ -175,5 +178,31 @@ public class GameUi
         }
     }
     
+    public int GetSamuraiActionOptions(Samurai samurai)
+    {
+        _view.WriteLine($"Seleccione una acción para {samurai.Name}");
+        _view.WriteLine("1: Atacar");
+        _view.WriteLine("2: Disparar");
+        _view.WriteLine("3: Usar Habilidad");
+        _view.WriteLine("4: Invocar");
+        _view.WriteLine("5: Pasar Turno");
+        _view.WriteLine("6: Rendirse");
+        return int.Parse(_view.ReadLine());
+    }
+
+    public int GetMonsterActionOptions(Monster monster)
+    {
+        _view.WriteLine($"Seleccione una acción para {monster.Name}");
+        _view.WriteLine("1: Atacar");
+        _view.WriteLine("2: Usar Habilidad");
+        _view.WriteLine("3: Invocar");
+        _view.WriteLine("4: Pasar Turno");
+        return int.Parse(_view.ReadLine());
+    }
     
+    public void PrintTurnsUsed(Team currentTeam)
+    {
+        // Llamada al método con valores predeterminados
+        PrintTurnsUsed(currentTeam, 0, 0, 0);
+    }
 }

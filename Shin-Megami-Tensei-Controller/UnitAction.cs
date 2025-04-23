@@ -29,7 +29,6 @@ public class UnitAction
     {
         var currentUnit = _currentTeam.OrderList[0];
         int selectedAction = GetUnitAction(currentUnit);
-        _gameUi.PrintLine();
         ProcessAction(currentUnit, selectedAction);
     }
     
@@ -37,258 +36,199 @@ public class UnitAction
     {
         if (currentUnit is Samurai samurai)
         {
-            return GetSamuraiActionOptions(samurai);
+            return _gameUi.GetSamuraiActionOptions(samurai);
         }
         else
         {
-            return GetMonsterActionOptions((Monster)currentUnit);
+            return _gameUi.GetMonsterActionOptions((Monster)currentUnit);
         }
     }
-
-    private int GetSamuraiActionOptions(Samurai samurai)
-    {
-        _gameUi.WriteLine($"Seleccione una acción para {samurai.Name}");
-        _gameUi.WriteLine("1: Atacar");
-        _gameUi.WriteLine("2: Disparar");
-        _gameUi.WriteLine("3: Usar Habilidad");
-        _gameUi.WriteLine("4: Invocar");
-        _gameUi.WriteLine("5: Pasar Turno");
-        _gameUi.WriteLine("6: Rendirse");
-        return int.Parse(_gameUi.ReadLine());
-    }
-
-    private int GetMonsterActionOptions(Monster monster)
-    {
-        _gameUi.WriteLine($"Seleccione una acción para {monster.Name}");
-        _gameUi.WriteLine("1: Atacar");
-        _gameUi.WriteLine("2: Usar Habilidad");
-        _gameUi.WriteLine("3: Invocar");
-        _gameUi.WriteLine("4: Pasar Turno");
-        return int.Parse(_gameUi.ReadLine());
-    }
-
+    
     private void ProcessAction(object currentUnit, int action)
     {
-        int actionCode = currentUnit is Monster ? action + _actionConstants.MonsterOffset : action;        
+        int actionCode = currentUnit is Monster ? action + _actionConstants.MonsterOffset : action;
+        bool actionCancelled = false;
+        if (actionCode != ActionConstants.PassTurnAction && actionCode != ActionConstants.PassTurnActionMonster)
+            _gameUi.PrintLine();
+        int initialFullTurns = _currentTeam.FullTurns;
+        int initialBlinkingTurns = _currentTeam.BlinkingTurns;
+
         switch (actionCode)
         {
             case ActionConstants.AttackAction:
             case ActionConstants.ShootAction:
             case ActionConstants.AttackActionMonster:
-                ProcessAttackAction(currentUnit, action);
+                actionCancelled = ProcessAttackAction(currentUnit, action);
                 break;
-                
+
             case ActionConstants.SkillAction:
             case ActionConstants.SkillActionMonster:
-                ProcessSkillAction(currentUnit);
+                actionCancelled = ProcessSkillAction(currentUnit);
                 break;
-                
+
             case ActionConstants.InvokeAction:
             case ActionConstants.InvokeActionMonster:
                 ProcessInvokeAction();
                 break;
-                
+
             case ActionConstants.PassTurnAction:
             case ActionConstants.PassTurnActionMonster:
                 ProcessPassTurnAction();
                 break;
-                
+
             case ActionConstants.SurrenderAction:
                 ProcessSurrenderAction();
                 break;
         }
+
+        
+        if (!actionCancelled && !ShouldEndGame)
+        {
+            
+            int fullTurnsUsed = _currentTeam.FullTurns - initialFullTurns;
+            int blinkingTurnsUsed = initialBlinkingTurns - _currentTeam.BlinkingTurns;
+            if (blinkingTurnsUsed < 0) blinkingTurnsUsed = 0;
+            
+            int blinkingTurnsGained = (_currentTeam.BlinkingTurns - initialBlinkingTurns) + blinkingTurnsUsed;
+            
+            // Si blinkingTurnsGained es negativo, lo ajustamos a 0 (no se ganaron turnos)
+            if (blinkingTurnsGained < 0) blinkingTurnsGained = 0;
+            _gameUi.PrintTurnsUsed(_currentTeam, fullTurnsUsed, blinkingTurnsUsed, blinkingTurnsGained);
+            
+        }
     }
 
-    private void ProcessAttackAction(object currentUnit, int action)
+    private bool ProcessAttackAction(object currentUnit, int action)
     {
         int targetIndex = _targetSelector.ChooseUnitToAttack(currentUnit);
-        
+
         if (targetIndex == ActionConstants.CancelTargetSelection)
         {
             _gameUi.PrintLine();
-            ExecuteUnitTurn();
-            return;
+            ExecuteUnitTurn(); // Vuelve al menú de selección de acciones
+            return true; // Indica que la acción fue cancelada
         }
-        
+
         _gameUi.PrintLine();
         object targetUnit = _targetSelector.GetTarget(targetIndex);
+
+        string attackType = (action == ActionConstants.AttackAction) ? "Phys" : "Gun";
+        string affinity = GetTargetAffinity(targetUnit, attackType);
 
         if (action == ActionConstants.AttackAction)
             _battleSystem.Attack(currentUnit, targetUnit);
         else
             _battleSystem.Shoot(currentUnit, targetUnit);
-            
-        CompleteTurn();
+
+        // Consume turnos según la afinidad
+        ConsumeSkillTurns(affinity);
+    
+        _currentTeam.RotateOrderList();
+        return false; // Indica que la acción fue completada
+    }
+    
+    private string GetTargetAffinity(object target, string attackType)
+    {
+        if (target is Samurai samurai)
+            return samurai.Affinities.GetAffinity(attackType);
+        else if (target is Monster monster)
+            return monster.Affinities.GetAffinity(attackType);
+    
+        return "-"; // Afinidad neutral por defecto
     }
 
-    private void ProcessSkillAction(object currentUnit)
+    private bool ProcessSkillAction(object currentUnit)
     {
         var skillInfo = GetSkillSelection(currentUnit);
         _gameUi.PrintLine();
-        ExecuteUnitTurn();
-    }
-
-        private void ProcessInvokeAction()
-    {
-        object currentUnit = _currentTeam.OrderList[0];
-        bool isSamurai = currentUnit is Samurai;
-
-        // Obtener monstruos disponibles para invocar
-        var availableMonsters = GetAvailableMonsters();
-
-        if (availableMonsters.Count == 0)
+        if (skillInfo.SelectedIndex > skillInfo.Abilities.Count)
         {
-            _gameUi.PrintLine();
-            _gameUi.WriteLine("No hay monstruos disponibles para invocar");
-            _gameUi.PrintLine();
             ExecuteUnitTurn();
-            return;
+            return true; // Acción cancelada
         }
 
-        // Mostrar menú de selección de monstruos
-        _gameUi.PrintLine();
-        _gameUi.WriteLine("Seleccione un monstruo para invocar");
-        DisplayAvailableMonsters(availableMonsters);
-        _gameUi.WriteLine($"{availableMonsters.Count + 1}- Cancelar");
+        string selectedSkillName = skillInfo.Abilities[skillInfo.SelectedIndex - 1];
+        var skillData = _skillsManager.GetSkillByName(selectedSkillName);
 
-        int selection = int.Parse(_gameUi.ReadLine());
-        
-        // Verificar si se seleccionó cancelar
-        if (selection > availableMonsters.Count || selection <= 0)
+        bool isOffensiveSkill = IsOffensiveSkill(skillData.type);
+
+        if (isOffensiveSkill)
         {
+            int targetIndex = _targetSelector.ChooseUnitToAttack(currentUnit);
             _gameUi.PrintLine();
-            ExecuteUnitTurn();
-            return;
-        }
+            if (targetIndex == ActionConstants.CancelTargetSelection)
+            {
+                ExecuteUnitTurn();
+                return true; // Acción cancelada
+            }
 
-        Monster selectedMonster = availableMonsters[selection - 1];
+            object targetUnit = _targetSelector.GetTarget(targetIndex);
+            ConsumeMP(currentUnit, skillData.cost);
 
-        if (isSamurai)
-        {
-            ProcessSamuraiInvoke(selectedMonster);
+            // Aplica la habilidad ofensiva pasando el contador de habilidades del equipo actual
+            string affinity = _battleSystem.ApplyOffensiveSkill(currentUnit, targetUnit, skillData, _currentTeam.UsedSkillsCount);
+
+            // Incrementar el contador de habilidades usadas después de usar la habilidad
+            _currentTeam.IncrementUsedSkillsCount();
+
+            // Consume turnos según la afinidad
+            ConsumeSkillTurns(affinity);
         }
         else
         {
-            ProcessMonsterInvoke(selectedMonster);
-        }
-    }
-
-    private List<Monster> GetAvailableMonsters()
-    {
-        // Obtener monstruos que no están en los primeros 3 puestos y no están muertos
-        List<Monster> availableMonsters = new List<Monster>();
-        
-        for (int i = 3; i < _currentTeam.Units.Count; i++)
-        {
-            if (i < _currentTeam.Units.Count && !_currentTeam.Units[i].IsDead())
-            {
-                availableMonsters.Add(_currentTeam.Units[i]);
-            }
-        }
-        
-        return availableMonsters;
-    }
-
-    private void DisplayAvailableMonsters(List<Monster> monsters)
-    {
-        for (int i = 0; i < monsters.Count; i++)
-        {
-            Monster monster = monsters[i];
-            _gameUi.WriteLine($"{i + 1}- {monster.Name} HP:{monster.Hp}/{monster.OriginalHp} MP:{monster.Mp}/{monster.OriginalMp}");
-        }
-    }
-
-    private void ProcessSamuraiInvoke(Monster selectedMonster)
-    {
-        _gameUi.PrintLine();
-        _gameUi.WriteLine("Seleccione una posición para invocar");
-        
-        // Mostrar posiciones disponibles (puestos 2, 3, 4)
-        List<int> positions = new List<int>();
-        for (int i = 0; i < 3; i++) // Posiciones 2, 3, 4
-        {
-            string positionInfo;
-            if (i < _currentTeam.Units.Count && !_currentTeam.Units[i].IsDead())
-            {
-                Monster monster = _currentTeam.Units[i];
-                positionInfo = $"{monster.Name} HP:{monster.Hp}/{monster.OriginalHp} MP:{monster.Mp}/{monster.OriginalMp} (Puesto {i + 2})";
-            }
-            else
-            {
-                positionInfo = $"Vacío (Puesto {i + 2})";
-            }
-            
-            _gameUi.WriteLine($"{i + 1}- {positionInfo}");
-            positions.Add(i + 2);
-        }
-        
-        _gameUi.WriteLine($"{positions.Count + 1}- Cancelar");
-        
-        int positionSelection = int.Parse(_gameUi.ReadLine());
-        
-        // Verificar si se seleccionó cancelar
-        if (positionSelection > positions.Count || positionSelection <= 0)
-        {
-            _gameUi.PrintLine();
+            _gameUi.WriteLine("Las habilidades de apoyo no están implementadas aún.");
             ExecuteUnitTurn();
-            return;
+            return true; // Acción cancelada
         }
-        
-        int selectedPosition = positionSelection - 1; // Índice real en Units
-        
-        // Realizar la invocación
-        PlaceMonsterAtPosition(selectedMonster, selectedPosition);
-        
-        _gameUi.PrintLine();
-        _gameUi.WriteLine($"{selectedMonster.Name} ha sido invocado");
-        _gameUi.PrintLine();
-        _gameUi.WriteLine("Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)");
-        _gameUi.WriteLine("Se han obtenido 1 Blinking Turn(s)");
-        
-        _currentTeam.AddBlinkingTurn();
-        CompleteTurn();
+
+        _currentTeam.RotateOrderList();
+        return false; // Acción completada
     }
 
-    private void ProcessMonsterInvoke(Monster selectedMonster)
+    private bool IsOffensiveSkill(string skillType)
     {
-        Monster currentMonster = _currentTeam.OrderList[0] as Monster;
-        int currentPosition = _currentTeam.Units.IndexOf(currentMonster);
-        
-        // Intercambiar el monstruo actual por el seleccionado
-        _currentTeam.Units[currentPosition] = selectedMonster;
-        _currentTeam.Units.Remove(selectedMonster);
-        
-        _gameUi.PrintLine();
-        _gameUi.WriteLine($"{selectedMonster.Name} ha sido invocado");
-        _gameUi.PrintLine();
-        _gameUi.WriteLine("Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)");
-        _gameUi.WriteLine("Se han obtenido 0 Blinking Turn(s)");
-        
-        // Actualizar la lista de orden
-        _currentTeam.InitializeOrderList();
-        CompleteTurn();
+        return skillType == "Phys" || skillType == "Gun" || 
+               skillType == "Fire" || skillType == "Ice" || 
+               skillType == "Elec" || skillType == "Force";
     }
 
-    private void PlaceMonsterAtPosition(Monster monster, int position)
+    private void ConsumeMP(object unit, int mpCost)
     {
-        // Eliminar el monstruo de su posición actual
-        _currentTeam.Units.Remove(monster);
-        
-        // Asegurar que hay suficientes posiciones
-        while (_currentTeam.Units.Count <= position)
+        if (unit is Samurai samurai)
         {
-            _currentTeam.Units.Add(null);
+            samurai.Mp -= mpCost;
         }
-        
-        // Colocar el monstruo en la posición seleccionada
-        _currentTeam.Units[position] = monster;
-        
-        // Actualizar la lista de orden
-        _currentTeam.InitializeOrderList();
+        else if (unit is Monster monster)
+        {
+            monster.Mp -= mpCost;
+        }
     }
+    
+    private void ProcessInvokeAction()
+    {
+        // Gasta 1 Blinking Turn, si no hay, paga 1 Full Turn y obtén 1 Blinking Turn adicional
+        if (_currentTeam.BlinkingTurns > 0)
+            _currentTeam.ConsumeBlinkingTurn();
+        else
+        {
+            _currentTeam.ConsumeFullTurn();
+            _currentTeam.AddBlinkingTurn();
+        }
+
+        _currentTeam.RotateOrderList();
+    }
+
     private void ProcessPassTurnAction()
     {
-        CompleteTurn();
+        if (_currentTeam.BlinkingTurns > 0)
+            _currentTeam.ConsumeBlinkingTurn();
+        else
+        {
+            _currentTeam.ConsumeFullTurn();
+            _currentTeam.AddBlinkingTurn();
+        }
+
+        _currentTeam.RotateOrderList();
     }
 
     private void ProcessSurrenderAction()
@@ -297,22 +237,25 @@ public class UnitAction
         ShouldEndGame = true;
     }
     
-    private void CompleteTurn()
-    {
-        _currentTeam.RotateOrderList();
-        _currentTeam.CompleteTurn();
-    }
-    
     private SkillSelectionResult GetSkillSelection(object attacker)
     {
         var unitSkillInfo = CreateUnitSkillInfo(attacker);
         _gameUi.WriteLine($"Seleccione una habilidad para que {unitSkillInfo.Name} use");
-
+        
         List<string> affordableAbilities = GetAffordableAbilities(unitSkillInfo);
         _gameUi.WriteLine($"{affordableAbilities.Count + 1}-Cancelar");
 
         int selectedOption = int.Parse(_gameUi.ReadLine());
-        return MapSkillSelectionToResult(selectedOption, affordableAbilities, unitSkillInfo.Abilities);
+        if (selectedOption > affordableAbilities.Count)
+            return new SkillSelectionResult(unitSkillInfo.Abilities.Count + 1, unitSkillInfo.Abilities);
+
+        if (selectedOption > 0 && selectedOption <= affordableAbilities.Count)
+        {
+            string selectedAbility = affordableAbilities[selectedOption - 1];
+            int originalIndex = unitSkillInfo.Abilities.IndexOf(selectedAbility);
+            return new SkillSelectionResult(originalIndex + 1, unitSkillInfo.Abilities);
+        }
+        return new SkillSelectionResult(unitSkillInfo.Abilities.Count + 1, unitSkillInfo.Abilities);
     }
 
     private UnitSkillInfo CreateUnitSkillInfo(object attacker)
@@ -346,15 +289,88 @@ public class UnitAction
         
         return affordableAbilities;
     }
-
-    private SkillSelectionResult MapSkillSelectionToResult(int selectedOption, List<string> affordableAbilities, List<string> allAbilities)
+    
+    private void ConsumeSkillTurns(string affinity)
     {
-        if (selectedOption > 0 && selectedOption <= affordableAbilities.Count)
+        switch (affinity)
         {
-            string selectedAbility = affordableAbilities[selectedOption - 1];
-            int originalIndex = allAbilities.IndexOf(selectedAbility);
-            return new SkillSelectionResult(originalIndex + 1, allAbilities);
+            case "Rp": // Repel
+            case "Dr": // Drain
+                ConsumeAllTurns();
+                break;
+
+            case "Nu": // Null
+                // Consume 2 Blinking Turns, o los que haya y el resto como Full Turns
+                ConsumeMultipleBlinkingTurns(2);
+                break;
+
+            case "Miss": // Miss
+                // Consume 1 Blinking Turn, si no hay, paga 1 Full Turn
+                if (_currentTeam.BlinkingTurns > 0)
+                    _currentTeam.ConsumeBlinkingTurn();
+                else
+                    _currentTeam.ConsumeFullTurn();
+                break;
+
+            case "Wk": // Weak
+                // Consume 1 Full Turn y otorga 1 Blinking Turn extra si hay Full Turns disponibles
+                // Si no hay Full Turns, consume un Blinking Turn
+                if (_currentTeam.FullTurns < _currentTeam.MaxFullTurns)
+                {
+                    _currentTeam.ConsumeFullTurn();
+                    _currentTeam.AddBlinkingTurn();
+                }
+                else if (_currentTeam.BlinkingTurns > 0)
+                    _currentTeam.ConsumeBlinkingTurn();
+                else
+                    _currentTeam.ConsumeFullTurn(); // No debería ocurrir normalmente, pero como fallback
+                break;
+
+            default: // Neutral o Resist (Rs)
+                // Consume 1 Blinking Turn, si no hay, paga 1 Full Turn
+                if (_currentTeam.BlinkingTurns > 0)
+                    _currentTeam.ConsumeBlinkingTurn();
+                else
+                    _currentTeam.ConsumeFullTurn();
+                break;
         }
-        return new SkillSelectionResult(affordableAbilities.Count + 1, allAbilities);
+    }
+
+    private void ConsumeAllTurns()
+    {
+        int blinkingTurnsToConsume = _currentTeam.BlinkingTurns;
+        for (int i = 0; i < blinkingTurnsToConsume; i++)
+        {
+            _currentTeam.ConsumeBlinkingTurn();
+        }
+
+        while (_currentTeam.FullTurns < _currentTeam.MaxFullTurns)
+        {
+            _currentTeam.ConsumeFullTurn();
+        }
+    }
+
+    private void ConsumeMultipleBlinkingTurns(int count)
+    {
+        // Consume hasta 'count' Blinking Turns
+        int blinkingTurnsAvailable = _currentTeam.BlinkingTurns;
+    
+        // Consume primero los Blinking Turns disponibles
+        for (int i = 0; i < Math.Min(count, blinkingTurnsAvailable); i++)
+        {
+            _currentTeam.ConsumeBlinkingTurn();
+        }
+    
+        // Si necesitas más turnos, usa Full Turns para los restantes
+        int fullTurnsNeeded = count - blinkingTurnsAvailable;
+        int fullTurnsAvailable = _currentTeam.MaxFullTurns - _currentTeam.FullTurns;
+    
+        // Consume el mínimo entre los turnos necesarios y los disponibles
+        int fullTurnsToConsume = Math.Min(fullTurnsNeeded, fullTurnsAvailable);
+    
+        for (int i = 0; i < fullTurnsToConsume; i++)
+        {
+            _currentTeam.ConsumeFullTurn();
+        }
     }
 }

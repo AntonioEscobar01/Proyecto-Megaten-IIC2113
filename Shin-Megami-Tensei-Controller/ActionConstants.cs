@@ -12,9 +12,9 @@ public class ActionConstants
     public const int MonsterActionOffset = 10;
 
     public const int AttackActionMonster = AttackAction + MonsterActionOffset;
-    public const int SkillActionMonster = SkillAction + MonsterActionOffset;
-    public const int InvokeActionMonster = InvokeAction + MonsterActionOffset;
-    public const int PassTurnActionMonster = PassTurnAction + MonsterActionOffset;
+    public const int SkillActionMonster = 12;
+    public const int InvokeActionMonster = 13;
+    public const int PassTurnActionMonster = 14;
 
     public const int CancelTargetSelection = 5;
     

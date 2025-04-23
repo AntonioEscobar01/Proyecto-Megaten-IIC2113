@@ -84,11 +84,7 @@ public class Game
         }
         
         _gameUi.PrintLine();
-        if (!_isGameOver)
-        {
-            _gameUi.PrintTurnsUsed(currentTeam);
-            _gameUi.PrintLine();
-        }
+
     }
 
     private void UpdateGameState()
@@ -122,6 +118,7 @@ public class Game
             _gameUi.PrintPlayerRound(GetCurrentTeam());
             _gameUi.PrintLine();
             currentTeam.ResetTurns();
+            GetCurrentTeam().InitializeOrderList();
         }
     }
 
