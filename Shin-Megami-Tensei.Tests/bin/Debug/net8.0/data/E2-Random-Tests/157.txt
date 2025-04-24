@@ -201,29 +201,65 @@ Elige un archivo para cargar los equipos
 199: 200.txt
 INPUT: 156
 ----------------------------------------
-Ronda de Demi-Fiend (J1)
+Ronda de Nanashi (J1)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Okiku-Mushi HP:273/273 MP:121/121
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:693/693 MP:310/310
-Equipo de Nanashi (J2)
+Equipo de Nanashi (J1)
 A-Nanashi HP:140/140 MP:411/411
-B-Karasu Tengu HP:238/238 MP:107/107
-C-Magatsuhi HP:851/851 MP:170/170
-D-Peri HP:483/483 MP:216/216
+B-Master Therion HP:497/497 MP:223/223
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Gryphon HP:123/123 MP:23/23
+C-
+D-
 ----------------------------------------
-Full Turns: 4
+Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Demi-Fiend
-2-Samael
-3-Pale Rider
-4-Okiku-Mushi
+1-Master Therion
+2-Nanashi
 ----------------------------------------
-Seleccione una acción para Demi-Fiend
+Seleccione una acción para Master Therion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Master Therion
+1-Yu HP:597/597 MP:347/347
+2-Gryphon HP:123/123 MP:23/23
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Master Therion ataca a Gryphon
+Gryphon recibe 41 de daño
+Gryphon termina con HP:82/123
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Master Therion HP:497/497 MP:223/223
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Gryphon HP:82/123 MP:23/23
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Master Therion
+----------------------------------------
+Seleccione una acción para Nanashi
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -232,19 +268,66 @@ Seleccione una acción para Demi-Fiend
 6: Rendirse
 INPUT: 3
 ----------------------------------------
-Seleccione una habilidad para que Demi-Fiend use
-1-Agi MP:5
-2-Damascus Claw MP:7
-3-Agilao MP:8
-4-Gram Slice MP:5
-5-Berserker God MP:12
-6-Dia MP:5
-7-Ziodyne MP:14
-8-Invitation MP:45
-9-Cancelar
-INPUT: 9
+Seleccione una habilidad para que Nanashi use
+1-Mortal Jihad MP:13
+2-Axel Claw MP:15
+3-Trisagion MP:22
+4-Lunge MP:6
+5-Bufu MP:5
+6-Bouncing Claw MP:4
+7-Oni-Kagura MP:9
+8-Cancelar
+INPUT: 6
 ----------------------------------------
-Seleccione una acción para Demi-Fiend
+Seleccione un objetivo para Nanashi
+1-Yu HP:597/597 MP:347/347
+2-Gryphon HP:82/123 MP:23/23
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Yu HP:597/597 MP:347/347
+2-Gryphon HP:82/123 MP:23/23
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi dispara a Yu
+Yu recibe 31 de daño
+Yu termina con HP:566/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Master Therion HP:497/497 MP:223/223
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:566/597 MP:347/347
+B-Gryphon HP:82/123 MP:23/23
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Gryphon
+----------------------------------------
+Seleccione una acción para Yu
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -253,19 +336,413 @@ Seleccione una acción para Demi-Fiend
 6: Rendirse
 INPUT: 3
 ----------------------------------------
-Seleccione una habilidad para que Demi-Fiend use
-1-Agi MP:5
-2-Damascus Claw MP:7
-3-Agilao MP:8
-4-Gram Slice MP:5
-5-Berserker God MP:12
-6-Dia MP:5
-7-Ziodyne MP:14
-8-Invitation MP:45
-9-Cancelar
-INPUT: 9
+Seleccione una habilidad para que Yu use
+1-Fatal Sword MP:8
+2-Agi MP:5
+3-Nihil Claw MP:11
+4-Diarama MP:9
+5-Cancelar
+INPUT: 4
 ----------------------------------------
-Seleccione una acción para Demi-Fiend
+Seleccione un objetivo para Yu
+1-Yu HP:566/597 MP:347/347
+2-Gryphon HP:82/123 MP:23/23
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Yu cura a Yu
+Yu recibe 298 de HP
+Yu termina con HP:597/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Master Therion HP:497/497 MP:223/223
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:338/347
+B-Gryphon HP:82/123 MP:23/23
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gryphon
+2-Yu
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gryphon
+1-Nanashi HP:140/140 MP:411/411
+2-Master Therion HP:497/497 MP:223/223
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Gryphon ataca a Nanashi
+Nanashi recibe 5 de daño
+Nanashi termina con HP:135/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:135/140 MP:411/411
+B-Master Therion HP:497/497 MP:223/223
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:338/347
+B-Gryphon HP:82/123 MP:23/23
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Master Therion
+2-Nanashi
+----------------------------------------
+Seleccione una acción para Master Therion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:135/140 MP:411/411
+B-Master Therion HP:497/497 MP:223/223
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:338/347
+B-Gryphon HP:82/123 MP:23/23
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Master Therion
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:135/140 MP:411/411
+B-Master Therion HP:497/497 MP:223/223
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:338/347
+B-Gryphon HP:82/123 MP:23/23
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Master Therion
+2-Nanashi
+----------------------------------------
+Seleccione una acción para Master Therion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:135/140 MP:411/411
+B-Master Therion HP:497/497 MP:223/223
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:338/347
+B-Gryphon HP:82/123 MP:23/23
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Master Therion
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nanashi use
+1-Mortal Jihad MP:13
+2-Axel Claw MP:15
+3-Trisagion MP:22
+4-Lunge MP:6
+5-Bufu MP:5
+6-Bouncing Claw MP:4
+7-Oni-Kagura MP:9
+8-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Yu HP:597/597 MP:338/347
+2-Gryphon HP:82/123 MP:23/23
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi lanza fuego a Yu
+Yu es resistente el ataque de Nanashi
+Yu recibe 40 de daño
+Yu termina con HP:557/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:135/140 MP:389/411
+B-Master Therion HP:497/497 MP:223/223
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:557/597 MP:338/347
+B-Gryphon HP:82/123 MP:23/23
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Gryphon
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Nanashi HP:135/140 MP:389/411
+2-Master Therion HP:497/497 MP:223/223
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Fatal Sword MP:8
+2-Agi MP:5
+3-Nihil Claw MP:11
+4-Diarama MP:9
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Nanashi HP:135/140 MP:389/411
+2-Master Therion HP:497/497 MP:223/223
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Yu ataca a Master Therion
+Master Therion recibe 113 de daño
+Master Therion termina con HP:384/497
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:135/140 MP:389/411
+B-Master Therion HP:384/497 MP:223/223
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:557/597 MP:330/347
+B-Gryphon HP:82/123 MP:23/23
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gryphon
+2-Yu
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gryphon
+1-Nanashi HP:135/140 MP:389/411
+2-Master Therion HP:384/497 MP:223/223
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Gryphon ataca a Master Therion
+Master Therion recibe 5 de daño
+Master Therion termina con HP:379/497
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:135/140 MP:389/411
+B-Master Therion HP:379/497 MP:223/223
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:557/597 MP:330/347
+B-Gryphon HP:82/123 MP:23/23
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Master Therion
+2-Nanashi
+----------------------------------------
+Seleccione una acción para Master Therion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Master Therion use
+1-Pandemic Bomb MP:11
+2-Agidyne MP:14
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Master Therion
+1-Yu HP:557/597 MP:330/347
+2-Gryphon HP:82/123 MP:23/23
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Master Therion lanza fuego a Gryphon
+Gryphon recibe 118 de daño
+Gryphon termina con HP:0/123
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:135/140 MP:389/411
+B-Master Therion HP:379/497 MP:209/223
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:557/597 MP:330/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Master Therion
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nanashi
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -277,57 +754,191 @@ INPUT: 5
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Okiku-Mushi HP:273/273 MP:121/121
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:693/693 MP:310/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:140/140 MP:411/411
-B-Karasu Tengu HP:238/238 MP:107/107
-C-Magatsuhi HP:851/851 MP:170/170
-D-Peri HP:483/483 MP:216/216
+Equipo de Nanashi (J1)
+A-Nanashi HP:135/140 MP:389/411
+B-Master Therion HP:379/497 MP:209/223
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:557/597 MP:330/347
+B-
+C-
+D-
 ----------------------------------------
-Full Turns: 3
+Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Samael
-2-Pale Rider
-3-Okiku-Mushi
-4-Demi-Fiend
+1-Master Therion
+2-Nanashi
 ----------------------------------------
-Seleccione una acción para Samael
+Seleccione una acción para Master Therion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Master Therion
+1-Yu HP:557/597 MP:330/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Master Therion ataca a Yu
+Yu es resistente el ataque de Master Therion
+Yu recibe 20 de daño
+Yu termina con HP:537/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:135/140 MP:389/411
+B-Master Therion HP:379/497 MP:209/223
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:537/597 MP:330/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Nanashi HP:135/140 MP:389/411
+2-Master Therion HP:379/497 MP:209/223
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Yu dispara a Master Therion
+Master Therion recibe 72 de daño
+Master Therion termina con HP:307/497
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:135/140 MP:389/411
+B-Master Therion HP:307/497 MP:209/223
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:537/597 MP:330/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Master Therion
+2-Nanashi
+----------------------------------------
+Seleccione una acción para Master Therion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Master Therion use
+1-Pandemic Bomb MP:11
+2-Agidyne MP:14
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Master Therion
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 4
 ----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:135/140 MP:389/411
+B-Master Therion HP:307/497 MP:209/223
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:537/597 MP:330/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Master Therion
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Okiku-Mushi HP:273/273 MP:121/121
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:693/693 MP:310/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:140/140 MP:411/411
-B-Karasu Tengu HP:238/238 MP:107/107
-C-Magatsuhi HP:851/851 MP:170/170
-D-Peri HP:483/483 MP:216/216
+Equipo de Nanashi (J1)
+A-Nanashi HP:135/140 MP:389/411
+B-Master Therion HP:307/497 MP:209/223
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:537/597 MP:330/347
+B-
+C-
+D-
 ----------------------------------------
-Full Turns: 3
+Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Pale Rider
-2-Okiku-Mushi
-3-Demi-Fiend
-4-Samael
+1-Master Therion
+2-Nanashi
 ----------------------------------------
-Seleccione una acción para Pale Rider
+Seleccione una acción para Master Therion
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -335,62 +946,91 @@ Seleccione una acción para Pale Rider
 INPUT: 3
 ----------------------------------------
 Seleccione un monstruo para invocar
-1-Karasu Tengu HP:238/238 MP:107/107
-2-Scathach HP:343/343 MP:153/153
-3-Cancelar
-INPUT: 3
+1-Cancelar
+INPUT: 1
 ----------------------------------------
-Seleccione una acción para Pale Rider
+Seleccione una acción para Master Therion
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 2
+INPUT: 1
 ----------------------------------------
-Seleccione una habilidad para que Pale Rider use
-1-Pandemic Bomb MP:11
-2-Death's Door MP:10
-3-Deadly Wind MP:22
-4-Debilitate MP:50
-5-Cancelar
-INPUT: 3
+Seleccione un objetivo para Master Therion
+1-Yu HP:537/597 MP:330/347
+2-Cancelar
+INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Pale Rider
-1-Nanashi HP:140/140 MP:411/411
-2-Karasu Tengu HP:238/238 MP:107/107
-3-Magatsuhi HP:851/851 MP:170/170
-4-Peri HP:483/483 MP:216/216
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Pale Rider lanza viento a Karasu Tengu
-Karasu Tengu recibe 168 de daño
-Karasu Tengu termina con HP:70/238
+Master Therion ataca a Yu
+Yu es resistente el ataque de Master Therion
+Yu recibe 20 de daño
+Yu termina con HP:517/597
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Okiku-Mushi HP:273/273 MP:121/121
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:693/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:140/140 MP:411/411
-B-Karasu Tengu HP:70/238 MP:107/107
-C-Magatsuhi HP:851/851 MP:170/170
-D-Peri HP:483/483 MP:216/216
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:135/140 MP:389/411
+B-Master Therion HP:307/497 MP:209/223
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:517/597 MP:330/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Nanashi HP:135/140 MP:389/411
+2-Master Therion HP:307/497 MP:209/223
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Yu dispara a Nanashi
+Nanashi recibe 72 de daño
+Nanashi termina con HP:63/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:63/140 MP:389/411
+B-Master Therion HP:307/497 MP:209/223
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:517/597 MP:330/347
+B-
+C-
+D-
 ----------------------------------------
 Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Okiku-Mushi
-2-Demi-Fiend
-3-Samael
-4-Pale Rider
+1-Master Therion
+2-Nanashi
 ----------------------------------------
-Seleccione una acción para Okiku-Mushi
+Seleccione una acción para Master Therion
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -400,27 +1040,38 @@ INPUT: 4
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Okiku-Mushi HP:273/273 MP:121/121
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:693/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:140/140 MP:411/411
-B-Karasu Tengu HP:70/238 MP:107/107
-C-Magatsuhi HP:851/851 MP:170/170
-D-Peri HP:483/483 MP:216/216
+Equipo de Nanashi (J1)
+A-Nanashi HP:63/140 MP:389/411
+B-Master Therion HP:307/497 MP:209/223
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:517/597 MP:330/347
+B-
+C-
+D-
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Demi-Fiend
-2-Samael
-3-Pale Rider
-4-Okiku-Mushi
+1-Nanashi
+2-Master Therion
 ----------------------------------------
-Seleccione una acción para Demi-Fiend
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nanashi
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -429,54 +1080,271 @@ Seleccione una acción para Demi-Fiend
 6: Rendirse
 INPUT: 3
 ----------------------------------------
-Seleccione una habilidad para que Demi-Fiend use
-1-Agi MP:5
-2-Damascus Claw MP:7
-3-Agilao MP:8
-4-Gram Slice MP:5
-5-Berserker God MP:12
-6-Dia MP:5
-7-Ziodyne MP:14
-8-Invitation MP:45
-9-Cancelar
-INPUT: 5
+Seleccione una habilidad para que Nanashi use
+1-Mortal Jihad MP:13
+2-Axel Claw MP:15
+3-Trisagion MP:22
+4-Lunge MP:6
+5-Bufu MP:5
+6-Bouncing Claw MP:4
+7-Oni-Kagura MP:9
+8-Cancelar
+INPUT: 2
 ----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Nanashi HP:140/140 MP:411/411
-2-Karasu Tengu HP:70/238 MP:107/107
-3-Magatsuhi HP:851/851 MP:170/170
-4-Peri HP:483/483 MP:216/216
-5-Cancelar
+Seleccione un objetivo para Nanashi
+1-Yu HP:517/597 MP:330/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Yu HP:517/597 MP:330/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
 INPUT: 1
 ----------------------------------------
-Demi-Fiend ataca a Nanashi
-Nanashi recibe 261 de daño
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nanashi use
+1-Mortal Jihad MP:13
+2-Axel Claw MP:15
+3-Trisagion MP:22
+4-Lunge MP:6
+5-Bufu MP:5
+6-Bouncing Claw MP:4
+7-Oni-Kagura MP:9
+8-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Yu HP:517/597 MP:330/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi ataca a Yu
+Yu es resistente el ataque de Nanashi
+Yu recibe 54 de daño
+Nanashi ataca a Yu
+Yu es resistente el ataque de Nanashi
+Yu recibe 54 de daño
+Nanashi ataca a Yu
+Yu es resistente el ataque de Nanashi
+Yu recibe 54 de daño
+Yu termina con HP:355/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:63/140 MP:385/411
+B-Master Therion HP:307/497 MP:209/223
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:355/597 MP:330/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Master Therion
+2-Nanashi
+----------------------------------------
+Seleccione una acción para Master Therion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Master Therion
+1-Yu HP:355/597 MP:330/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Master Therion ataca a Yu
+Yu es resistente el ataque de Master Therion
+Yu recibe 20 de daño
+Yu termina con HP:335/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:63/140 MP:385/411
+B-Master Therion HP:307/497 MP:209/223
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:335/597 MP:330/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:63/140 MP:385/411
+B-Master Therion HP:307/497 MP:209/223
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:335/597 MP:330/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Fatal Sword MP:8
+2-Agi MP:5
+3-Nihil Claw MP:11
+4-Diarama MP:9
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Fatal Sword MP:8
+2-Agi MP:5
+3-Nihil Claw MP:11
+4-Diarama MP:9
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Nanashi HP:63/140 MP:385/411
+2-Master Therion HP:307/497 MP:209/223
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Nanashi
+Nanashi recibe 135 de daño
+Yu ataca a Nanashi
+Nanashi recibe 135 de daño
+Yu ataca a Nanashi
+Nanashi recibe 135 de daño
 Nanashi termina con HP:0/140
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:822/834
-B-Okiku-Mushi HP:273/273 MP:121/121
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:693/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Karasu Tengu HP:70/238 MP:107/107
-C-Magatsuhi HP:851/851 MP:170/170
-D-Peri HP:483/483 MP:216/216
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:385/411
+B-Master Therion HP:307/497 MP:209/223
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:335/597 MP:319/347
+B-
+C-
+D-
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Samael
-2-Pale Rider
-3-Okiku-Mushi
-4-Demi-Fiend
+1-Master Therion
 ----------------------------------------
-Seleccione una acción para Samael
+Seleccione una acción para Master Therion
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -486,151 +1354,68 @@ INPUT: 4
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:822/834
-B-Okiku-Mushi HP:273/273 MP:121/121
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:693/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Karasu Tengu HP:70/238 MP:107/107
-C-Magatsuhi HP:851/851 MP:170/170
-D-Peri HP:483/483 MP:216/216
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:385/411
+B-Master Therion HP:307/497 MP:209/223
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:335/597 MP:319/347
+B-
+C-
+D-
 ----------------------------------------
 Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Pale Rider
-2-Okiku-Mushi
-3-Demi-Fiend
-4-Samael
+1-Master Therion
 ----------------------------------------
-Seleccione una acción para Pale Rider
+Seleccione una acción para Master Therion
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 4
+INPUT: 2
 ----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Nanashi (J2)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:822/834
-B-Okiku-Mushi HP:273/273 MP:121/121
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:693/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Karasu Tengu HP:70/238 MP:107/107
-C-Magatsuhi HP:851/851 MP:170/170
-D-Peri HP:483/483 MP:216/216
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Magatsuhi
-2-Peri
-3-Karasu Tengu
-----------------------------------------
-Seleccione una acción para Magatsuhi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Gurulu HP:371/371 MP:166/166
-2-Manticore HP:385/385 MP:172/172
-3-Asherah HP:433/433 MP:195/195
+Seleccione una habilidad para que Master Therion use
+1-Pandemic Bomb MP:11
+2-Agidyne MP:14
+3-Concentrate MP:11
 4-Cancelar
 INPUT: 4
 ----------------------------------------
-Seleccione una acción para Magatsuhi
+Seleccione una acción para Master Therion
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 3
+INPUT: 2
 ----------------------------------------
-Seleccione un monstruo para invocar
-1-Gurulu HP:371/371 MP:166/166
-2-Manticore HP:385/385 MP:172/172
-3-Asherah HP:433/433 MP:195/195
+Seleccione una habilidad para que Master Therion use
+1-Pandemic Bomb MP:11
+2-Agidyne MP:14
+3-Concentrate MP:11
 4-Cancelar
 INPUT: 2
 ----------------------------------------
-Manticore ha sido invocado
+Seleccione un objetivo para Master Therion
+1-Yu HP:335/597 MP:319/347
+2-Cancelar
+INPUT: 2
 ----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:822/834
-B-Okiku-Mushi HP:273/273 MP:121/121
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:693/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Karasu Tengu HP:70/238 MP:107/107
-C-Manticore HP:385/385 MP:172/172
-D-Peri HP:483/483 MP:216/216
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Peri
-2-Karasu Tengu
-3-Manticore
-----------------------------------------
-Seleccione una acción para Peri
+Seleccione una acción para Master Therion
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Peri
-1-Demi-Fiend HP:1227/1227 MP:822/834
-2-Okiku-Mushi HP:273/273 MP:121/121
-3-Samael HP:945/945 MP:189/189
-4-Pale Rider HP:693/693 MP:288/310
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Peri ataca a Okiku-Mushi
-Okiku-Mushi recibe 40 de daño
-Okiku-Mushi termina con HP:233/273
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:822/834
-B-Okiku-Mushi HP:233/273 MP:121/121
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:693/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Karasu Tengu HP:70/238 MP:107/107
-C-Manticore HP:385/385 MP:172/172
-D-Peri HP:483/483 MP:216/216
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Karasu Tengu
-2-Manticore
-3-Peri
-----------------------------------------
-Seleccione una acción para Karasu Tengu
+Seleccione una acción para Master Therion
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -638,133 +1423,356 @@ Seleccione una acción para Karasu Tengu
 INPUT: 3
 ----------------------------------------
 Seleccione un monstruo para invocar
-1-Magatsuhi HP:851/851 MP:170/170
-2-Gurulu HP:371/371 MP:166/166
-3-Asherah HP:433/433 MP:195/195
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Gurulu ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:822/834
-B-Okiku-Mushi HP:233/273 MP:121/121
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:693/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Gurulu HP:371/371 MP:166/166
-C-Manticore HP:385/385 MP:172/172
-D-Peri HP:483/483 MP:216/216
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Manticore
-2-Peri
-3-Gurulu
-----------------------------------------
-Seleccione una acción para Manticore
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Manticore use
-1-Toxic Sting MP:9
-2-Damascus Claw MP:7
-3-Posumudi MP:5
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Manticore
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Karasu Tengu HP:70/238 MP:107/107
-2-Magatsuhi HP:851/851 MP:170/170
-3-Asherah HP:433/433 MP:195/195
-4-Cancelar
+1-Cancelar
 INPUT: 1
 ----------------------------------------
-Karasu Tengu ha sido invocado
+Seleccione una acción para Master Therion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:822/834
-B-Okiku-Mushi HP:233/273 MP:121/121
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:693/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Gurulu HP:371/371 MP:166/166
-C-Karasu Tengu HP:70/238 MP:107/107
-D-Peri HP:483/483 MP:216/216
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:385/411
+B-Master Therion HP:307/497 MP:209/223
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:335/597 MP:319/347
+B-
+C-
+D-
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Peri
-2-Gurulu
-3-Karasu Tengu
+1-Yu
 ----------------------------------------
-Seleccione una acción para Peri
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Master Therion HP:307/497 MP:209/223
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Fatal Sword MP:8
+2-Agi MP:5
+3-Nihil Claw MP:11
+4-Diarama MP:9
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Master Therion HP:307/497 MP:209/223
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Master Therion
+Master Therion recibe 135 de daño
+Master Therion termina con HP:172/497
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:385/411
+B-Master Therion HP:172/497 MP:209/223
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:335/597 MP:308/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Master Therion
+----------------------------------------
+Seleccione una acción para Master Therion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Master Therion use
+1-Pandemic Bomb MP:11
+2-Agidyne MP:14
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Master Therion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Master Therion use
+1-Pandemic Bomb MP:11
+2-Agidyne MP:14
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Master Therion
+1-Yu HP:335/597 MP:308/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Master Therion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Master Therion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Master Therion
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Peri
-1-Demi-Fiend HP:1227/1227 MP:822/834
-2-Okiku-Mushi HP:233/273 MP:121/121
-3-Samael HP:945/945 MP:189/189
-4-Pale Rider HP:693/693 MP:288/310
-5-Cancelar
+Seleccione un objetivo para Master Therion
+1-Yu HP:335/597 MP:308/347
+2-Cancelar
 INPUT: 2
 ----------------------------------------
-Peri ataca a Okiku-Mushi
-Okiku-Mushi recibe 40 de daño
-Okiku-Mushi termina con HP:193/273
+Seleccione una acción para Master Therion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:385/411
+B-Master Therion HP:172/497 MP:209/223
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:335/597 MP:308/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Master Therion
+----------------------------------------
+Seleccione una acción para Master Therion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Master Therion use
+1-Pandemic Bomb MP:11
+2-Agidyne MP:14
+3-Concentrate MP:11
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Master Therion
+1-Yu HP:335/597 MP:308/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Master Therion lanza fuego a Yu
+Yu es resistente el ataque de Master Therion
+Yu recibe 59 de daño
+Yu termina con HP:276/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:385/411
+B-Master Therion HP:172/497 MP:195/223
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:276/597 MP:308/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Fatal Sword MP:8
+2-Agi MP:5
+3-Nihil Claw MP:11
+4-Diarama MP:9
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Yu HP:276/597 MP:308/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu cura a Yu
+Yu recibe 298 de HP
+Yu termina con HP:574/597
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Demi-Fiend (J1)
+Ronda de Nanashi (J1)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:822/834
-B-Okiku-Mushi HP:193/273 MP:121/121
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:693/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Gurulu HP:371/371 MP:166/166
-C-Karasu Tengu HP:70/238 MP:107/107
-D-Peri HP:483/483 MP:216/216
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:385/411
+B-Master Therion HP:172/497 MP:195/223
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:574/597 MP:299/347
+B-
+C-
+D-
 ----------------------------------------
-Full Turns: 4
+Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Demi-Fiend
-2-Samael
-3-Pale Rider
-4-Okiku-Mushi
+1-Master Therion
 ----------------------------------------
-Seleccione una acción para Demi-Fiend
+Seleccione una acción para Master Therion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:385/411
+B-Master Therion HP:172/497 MP:195/223
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:574/597 MP:299/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Master Therion
+----------------------------------------
+Seleccione una acción para Master Therion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Master Therion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:385/411
+B-Master Therion HP:172/497 MP:195/223
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:574/597 MP:299/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -773,14 +1781,113 @@ Seleccione una acción para Demi-Fiend
 6: Rendirse
 INPUT: 2
 ----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Gurulu HP:371/371 MP:166/166
-2-Karasu Tengu HP:70/238 MP:107/107
-3-Peri HP:483/483 MP:216/216
-4-Cancelar
-INPUT: 4
+Seleccione un objetivo para Yu
+1-Master Therion HP:172/497 MP:195/223
+2-Cancelar
+INPUT: 2
 ----------------------------------------
-Seleccione una acción para Demi-Fiend
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Master Therion HP:172/497 MP:195/223
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu dispara a Master Therion
+Master Therion recibe 72 de daño
+Master Therion termina con HP:100/497
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:385/411
+B-Master Therion HP:100/497 MP:195/223
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:574/597 MP:299/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Master Therion
+----------------------------------------
+Seleccione una acción para Master Therion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Master Therion
+1-Yu HP:574/597 MP:299/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Master Therion ataca a Yu
+Yu es resistente el ataque de Master Therion
+Yu recibe 20 de daño
+Yu termina con HP:554/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:385/411
+B-Master Therion HP:100/497 MP:195/223
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:554/597 MP:299/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Fatal Sword MP:8
+2-Agi MP:5
+3-Nihil Claw MP:11
+4-Diarama MP:9
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Master Therion HP:100/497 MP:195/223
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -792,142 +1899,169 @@ INPUT: 5
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:822/834
-B-Okiku-Mushi HP:193/273 MP:121/121
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:693/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Gurulu HP:371/371 MP:166/166
-C-Karasu Tengu HP:70/238 MP:107/107
-D-Peri HP:483/483 MP:216/216
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:385/411
+B-Master Therion HP:100/497 MP:195/223
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:554/597 MP:299/347
+B-
+C-
+D-
 ----------------------------------------
-Full Turns: 3
+Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Samael
-2-Pale Rider
-3-Okiku-Mushi
-4-Demi-Fiend
+1-Yu
 ----------------------------------------
-Seleccione una acción para Samael
+Seleccione una acción para Yu
 1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Master Therion HP:100/497 MP:195/223
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Samael
-1-Gurulu HP:371/371 MP:166/166
-2-Karasu Tengu HP:70/238 MP:107/107
-3-Peri HP:483/483 MP:216/216
-4-Cancelar
-INPUT: 4
+Seleccione un objetivo para Yu
+1-Master Therion HP:100/497 MP:195/223
+2-Cancelar
+INPUT: 1
 ----------------------------------------
-Seleccione una acción para Samael
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
+Yu ataca a Master Therion
+Master Therion recibe 49 de daño
+Master Therion termina con HP:51/497
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:822/834
-B-Okiku-Mushi HP:193/273 MP:121/121
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:693/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Gurulu HP:371/371 MP:166/166
-C-Karasu Tengu HP:70/238 MP:107/107
-D-Peri HP:483/483 MP:216/216
+Ronda de Nanashi (J1)
 ----------------------------------------
-Full Turns: 3
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:385/411
+B-Master Therion HP:51/497 MP:195/223
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:554/597 MP:299/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Pale Rider
-2-Okiku-Mushi
-3-Demi-Fiend
-4-Samael
+1-Master Therion
 ----------------------------------------
-Seleccione una acción para Pale Rider
+Seleccione una acción para Master Therion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Master Therion
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Pale Rider
-1-Gurulu HP:371/371 MP:166/166
-2-Karasu Tengu HP:70/238 MP:107/107
-3-Peri HP:483/483 MP:216/216
-4-Cancelar
+Seleccione un objetivo para Master Therion
+1-Yu HP:554/597 MP:299/347
+2-Cancelar
 INPUT: 2
 ----------------------------------------
-Pale Rider ataca a Karasu Tengu
-Karasu Tengu recibe 58 de daño
-Karasu Tengu termina con HP:12/238
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:822/834
-B-Okiku-Mushi HP:193/273 MP:121/121
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:693/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Gurulu HP:371/371 MP:166/166
-C-Karasu Tengu HP:12/238 MP:107/107
-D-Peri HP:483/483 MP:216/216
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Okiku-Mushi
-2-Demi-Fiend
-3-Samael
-4-Pale Rider
-----------------------------------------
-Seleccione una acción para Okiku-Mushi
+Seleccione una acción para Master Therion
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 4
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Master Therion
+1-Yu HP:554/597 MP:299/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Master Therion ataca a Yu
+Yu es resistente el ataque de Master Therion
+Yu recibe 20 de daño
+Yu termina con HP:534/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:385/411
+B-Master Therion HP:51/497 MP:195/223
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:534/597 MP:299/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:822/834
-B-Okiku-Mushi HP:193/273 MP:121/121
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:693/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Gurulu HP:371/371 MP:166/166
-C-Karasu Tengu HP:12/238 MP:107/107
-D-Peri HP:483/483 MP:216/216
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:385/411
+B-Master Therion HP:51/497 MP:195/223
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:534/597 MP:299/347
+B-
+C-
+D-
 ----------------------------------------
-Full Turns: 1
+Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Demi-Fiend
-2-Samael
-3-Pale Rider
-4-Okiku-Mushi
+1-Yu
 ----------------------------------------
-Seleccione una acción para Demi-Fiend
+Seleccione una acción para Yu
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -939,68 +2073,37 @@ INPUT: 5
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:822/834
-B-Okiku-Mushi HP:193/273 MP:121/121
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:693/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Gurulu HP:371/371 MP:166/166
-C-Karasu Tengu HP:12/238 MP:107/107
-D-Peri HP:483/483 MP:216/216
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:385/411
+B-Master Therion HP:51/497 MP:195/223
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:534/597 MP:299/347
+B-
+C-
+D-
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Samael
-2-Pale Rider
-3-Okiku-Mushi
-4-Demi-Fiend
+1-Master Therion
 ----------------------------------------
-Seleccione una acción para Samael
+Seleccione una acción para Master Therion
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Samael
-1-Gurulu HP:371/371 MP:166/166
-2-Karasu Tengu HP:12/238 MP:107/107
-3-Peri HP:483/483 MP:216/216
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Samael ataca a Karasu Tengu
-Karasu Tengu recibe 73 de daño
-Karasu Tengu termina con HP:0/238
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Nanashi (J2)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:822/834
-B-Okiku-Mushi HP:193/273 MP:121/121
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:693/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Gurulu HP:371/371 MP:166/166
-C-
-D-Peri HP:483/483 MP:216/216
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Peri
-2-Gurulu
-----------------------------------------
-Seleccione una acción para Peri
+Seleccione una acción para Master Therion
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -1010,979 +2113,24 @@ INPUT: 4
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:822/834
-B-Okiku-Mushi HP:193/273 MP:121/121
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:693/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Gurulu HP:371/371 MP:166/166
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:385/411
+B-Master Therion HP:51/497 MP:195/223
 C-
-D-Peri HP:483/483 MP:216/216
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Gurulu
-2-Peri
-----------------------------------------
-Seleccione una acción para Gurulu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:822/834
-B-Okiku-Mushi HP:193/273 MP:121/121
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:693/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Gurulu HP:371/371 MP:166/166
+D-
+Equipo de Yu (J2)
+A-Yu HP:534/597 MP:299/347
+B-
 C-
-D-Peri HP:483/483 MP:216/216
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Peri
-2-Gurulu
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Peri
-1-Demi-Fiend HP:1227/1227 MP:822/834
-2-Okiku-Mushi HP:193/273 MP:121/121
-3-Samael HP:945/945 MP:189/189
-4-Pale Rider HP:693/693 MP:288/310
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Peri use
-1-Diarahan MP:16
-2-Me Patra MP:15
-3-Panic Voice MP:15
-4-Maragidyne MP:32
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Peri use
-1-Diarahan MP:16
-2-Me Patra MP:15
-3-Panic Voice MP:15
-4-Maragidyne MP:32
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Peri
-1-Nanashi HP:0/140 MP:411/411
-2-Gurulu HP:371/371 MP:166/166
-3-Peri HP:483/483 MP:216/216
-4-Magatsuhi HP:851/851 MP:170/170
-5-Manticore HP:385/385 MP:172/172
-6-Asherah HP:433/433 MP:195/195
-7-Cancelar
-INPUT: 3
-----------------------------------------
-Peri cura a Peri
-Peri recibe 483 de HP
-Peri termina con HP:483/483
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Demi-Fiend (J1)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:822/834
-B-Okiku-Mushi HP:193/273 MP:121/121
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:693/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Gurulu HP:371/371 MP:166/166
-C-
-D-Peri HP:483/483 MP:200/216
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-2-Samael
-3-Pale Rider
-4-Okiku-Mushi
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Demi-Fiend use
-1-Agi MP:5
-2-Damascus Claw MP:7
-3-Agilao MP:8
-4-Gram Slice MP:5
-5-Berserker God MP:12
-6-Dia MP:5
-7-Ziodyne MP:14
-8-Invitation MP:45
-9-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Gurulu HP:371/371 MP:166/166
-2-Peri HP:483/483 MP:200/216
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Demi-Fiend lanza fuego a Peri
-Peri absorbe 154 daño
-Peri termina con HP:483/483
-----------------------------------------
-Se han consumido 4 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Nanashi (J2)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:817/834
-B-Okiku-Mushi HP:193/273 MP:121/121
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:693/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Gurulu HP:371/371 MP:166/166
-C-
-D-Peri HP:483/483 MP:200/216
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Peri
-2-Gurulu
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Peri
-1-Demi-Fiend HP:1227/1227 MP:817/834
-2-Okiku-Mushi HP:193/273 MP:121/121
-3-Samael HP:945/945 MP:189/189
-4-Pale Rider HP:693/693 MP:288/310
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Peri ataca a Demi-Fiend
-Demi-Fiend bloquea el ataque de Peri
-Demi-Fiend termina con HP:1227/1227
-----------------------------------------
-Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Demi-Fiend (J1)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:817/834
-B-Okiku-Mushi HP:193/273 MP:121/121
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:693/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Gurulu HP:371/371 MP:166/166
-C-
-D-Peri HP:483/483 MP:200/216
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-2-Samael
-3-Pale Rider
-4-Okiku-Mushi
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Demi-Fiend use
-1-Agi MP:5
-2-Damascus Claw MP:7
-3-Agilao MP:8
-4-Gram Slice MP:5
-5-Berserker God MP:12
-6-Dia MP:5
-7-Ziodyne MP:14
-8-Invitation MP:45
-9-Cancelar
-INPUT: 7
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Gurulu HP:371/371 MP:166/166
-2-Peri HP:483/483 MP:200/216
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Demi-Fiend lanza electricidad a Peri
-Peri recibe 250 de daño
-Peri termina con HP:233/483
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:803/834
-B-Okiku-Mushi HP:193/273 MP:121/121
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:693/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Gurulu HP:371/371 MP:166/166
-C-
-D-Peri HP:233/483 MP:200/216
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Samael
-2-Pale Rider
-3-Okiku-Mushi
-4-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Samael
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:803/834
-B-Okiku-Mushi HP:193/273 MP:121/121
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:693/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Gurulu HP:371/371 MP:166/166
-C-
-D-Peri HP:233/483 MP:200/216
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Pale Rider
-2-Okiku-Mushi
-3-Demi-Fiend
-4-Samael
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:803/834
-B-Okiku-Mushi HP:193/273 MP:121/121
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:693/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Gurulu HP:371/371 MP:166/166
-C-
-D-Peri HP:233/483 MP:200/216
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Okiku-Mushi
-2-Demi-Fiend
-3-Samael
-4-Pale Rider
-----------------------------------------
-Seleccione una acción para Okiku-Mushi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Karasu Tengu HP:238/238 MP:107/107
-2-Scathach HP:343/343 MP:153/153
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Okiku-Mushi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Okiku-Mushi
-1-Gurulu HP:371/371 MP:166/166
-2-Peri HP:233/483 MP:200/216
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Okiku-Mushi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Okiku-Mushi use
-1-Poisma MP:4
-2-Tathlum Shot MP:7
-3-Mudoon MP:10
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Okiku-Mushi
-1-Gurulu HP:371/371 MP:166/166
-2-Peri HP:233/483 MP:200/216
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Okiku-Mushi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Okiku-Mushi
-1-Gurulu HP:371/371 MP:166/166
-2-Peri HP:233/483 MP:200/216
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Okiku-Mushi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Okiku-Mushi use
-1-Poisma MP:4
-2-Tathlum Shot MP:7
-3-Mudoon MP:10
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Okiku-Mushi
-1-Gurulu HP:371/371 MP:166/166
-2-Peri HP:233/483 MP:200/216
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Okiku-Mushi dispara a Peri
-Peri recibe 68 de daño
-Peri termina con HP:165/483
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:803/834
-B-Okiku-Mushi HP:193/273 MP:114/121
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:693/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Gurulu HP:371/371 MP:166/166
-C-
-D-Peri HP:165/483 MP:200/216
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-2-Samael
-3-Pale Rider
-4-Okiku-Mushi
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Demi-Fiend use
-1-Agi MP:5
-2-Damascus Claw MP:7
-3-Agilao MP:8
-4-Gram Slice MP:5
-5-Berserker God MP:12
-6-Dia MP:5
-7-Ziodyne MP:14
-8-Invitation MP:45
-9-Cancelar
-INPUT: 8
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Karasu Tengu HP:238/238 MP:107/107
-2-Scathach HP:343/343 MP:153/153
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Gurulu HP:371/371 MP:166/166
-2-Peri HP:165/483 MP:200/216
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Demi-Fiend dispara a Gurulu
-Gurulu recibe 114 de daño
-Gurulu termina con HP:257/371
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Nanashi (J2)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:803/834
-B-Okiku-Mushi HP:193/273 MP:114/121
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:693/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Gurulu HP:257/371 MP:166/166
-C-
-D-Peri HP:165/483 MP:200/216
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Peri
-2-Gurulu
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Magatsuhi HP:851/851 MP:170/170
-2-Manticore HP:385/385 MP:172/172
-3-Asherah HP:433/433 MP:195/195
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Manticore ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:803/834
-B-Okiku-Mushi HP:193/273 MP:114/121
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:693/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Gurulu HP:257/371 MP:166/166
-C-
-D-Manticore HP:385/385 MP:172/172
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Gurulu
-2-Manticore
-----------------------------------------
-Seleccione una acción para Gurulu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Gurulu
-1-Demi-Fiend HP:1227/1227 MP:803/834
-2-Okiku-Mushi HP:193/273 MP:114/121
-3-Samael HP:945/945 MP:189/189
-4-Pale Rider HP:693/693 MP:288/310
-5-Cancelar
-INPUT: 4
-----------------------------------------
-Gurulu ataca a Pale Rider
-Pale Rider recibe 30 de daño
-Pale Rider termina con HP:663/693
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:803/834
-B-Okiku-Mushi HP:193/273 MP:114/121
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:663/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Gurulu HP:257/371 MP:166/166
-C-
-D-Manticore HP:385/385 MP:172/172
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Manticore
-2-Gurulu
-----------------------------------------
-Seleccione una acción para Manticore
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Manticore use
-1-Toxic Sting MP:9
-2-Damascus Claw MP:7
-3-Posumudi MP:5
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Manticore
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Manticore use
-1-Toxic Sting MP:9
-2-Damascus Claw MP:7
-3-Posumudi MP:5
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Manticore
-1-Demi-Fiend HP:1227/1227 MP:803/834
-2-Okiku-Mushi HP:193/273 MP:114/121
-3-Samael HP:945/945 MP:189/189
-4-Pale Rider HP:663/693 MP:288/310
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Manticore ataca a Demi-Fiend
-Demi-Fiend bloquea el ataque de Manticore
-Manticore ataca a Demi-Fiend
-Demi-Fiend bloquea el ataque de Manticore
-Demi-Fiend termina con HP:1227/1227
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Demi-Fiend (J1)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:803/834
-B-Okiku-Mushi HP:193/273 MP:114/121
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:663/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Gurulu HP:257/371 MP:166/166
-C-
-D-Manticore HP:385/385 MP:165/172
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-2-Samael
-3-Pale Rider
-4-Okiku-Mushi
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Gurulu HP:257/371 MP:166/166
-2-Manticore HP:385/385 MP:165/172
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Demi-Fiend ataca a Gurulu
-Gurulu recibe 168 de daño
-Gurulu termina con HP:89/371
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:803/834
-B-Okiku-Mushi HP:193/273 MP:114/121
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:663/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Gurulu HP:89/371 MP:166/166
-C-
-D-Manticore HP:385/385 MP:165/172
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Samael
-2-Pale Rider
-3-Okiku-Mushi
-4-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Samael
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Samael
-1-Gurulu HP:89/371 MP:166/166
-2-Manticore HP:385/385 MP:165/172
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Samael ataca a Gurulu
-Gurulu recibe 73 de daño
-Gurulu termina con HP:16/371
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:803/834
-B-Okiku-Mushi HP:193/273 MP:114/121
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:663/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Gurulu HP:16/371 MP:166/166
-C-
-D-Manticore HP:385/385 MP:165/172
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Pale Rider
-2-Okiku-Mushi
-3-Demi-Fiend
-4-Samael
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:803/834
-B-Okiku-Mushi HP:193/273 MP:114/121
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:663/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Gurulu HP:16/371 MP:166/166
-C-
-D-Manticore HP:385/385 MP:165/172
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Okiku-Mushi
-2-Demi-Fiend
-3-Samael
-4-Pale Rider
-----------------------------------------
-Seleccione una acción para Okiku-Mushi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Karasu Tengu HP:238/238 MP:107/107
-2-Scathach HP:343/343 MP:153/153
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Okiku-Mushi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Karasu Tengu HP:238/238 MP:107/107
-2-Scathach HP:343/343 MP:153/153
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Karasu Tengu ha sido invocado
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:803/834
-B-Karasu Tengu HP:238/238 MP:107/107
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:663/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Gurulu HP:16/371 MP:166/166
-C-
-D-Manticore HP:385/385 MP:165/172
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-2-Samael
-3-Pale Rider
-4-Karasu Tengu
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Gurulu HP:16/371 MP:166/166
-2-Manticore HP:385/385 MP:165/172
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Demi-Fiend dispara a Manticore
-Manticore recibe 114 de daño
-Manticore termina con HP:271/385
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Nanashi (J2)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:803/834
-B-Karasu Tengu HP:238/238 MP:107/107
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:663/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Gurulu HP:16/371 MP:166/166
-C-
-D-Manticore HP:271/385 MP:165/172
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Manticore
-2-Gurulu
-----------------------------------------
-Seleccione una acción para Manticore
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Manticore
-1-Demi-Fiend HP:1227/1227 MP:803/834
-2-Karasu Tengu HP:238/238 MP:107/107
-3-Samael HP:945/945 MP:189/189
-4-Pale Rider HP:663/693 MP:288/310
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Manticore
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Magatsuhi HP:851/851 MP:170/170
-2-Peri HP:165/483 MP:200/216
-3-Asherah HP:433/433 MP:195/195
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Manticore
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Manticore
-1-Demi-Fiend HP:1227/1227 MP:803/834
-2-Karasu Tengu HP:238/238 MP:107/107
-3-Samael HP:945/945 MP:189/189
-4-Pale Rider HP:663/693 MP:288/310
-5-Cancelar
-INPUT: 4
-----------------------------------------
-Manticore ataca a Pale Rider
-Pale Rider recibe 31 de daño
-Pale Rider termina con HP:632/693
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:803/834
-B-Karasu Tengu HP:238/238 MP:107/107
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:632/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Gurulu HP:16/371 MP:166/166
-C-
-D-Manticore HP:271/385 MP:165/172
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Gurulu
-2-Manticore
-----------------------------------------
-Seleccione una acción para Gurulu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Magatsuhi HP:851/851 MP:170/170
-2-Peri HP:165/483 MP:200/216
-3-Asherah HP:433/433 MP:195/195
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Magatsuhi ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:803/834
-B-Karasu Tengu HP:238/238 MP:107/107
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:632/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Magatsuhi HP:851/851 MP:170/170
-C-
-D-Manticore HP:271/385 MP:165/172
+D-
 ----------------------------------------
 Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Manticore
-2-Magatsuhi
+1-Master Therion
 ----------------------------------------
-Seleccione una acción para Manticore
+Seleccione una acción para Master Therion
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -1992,189 +2140,39 @@ INPUT: 4
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Demi-Fiend (J1)
+Ronda de Yu (J2)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:803/834
-B-Karasu Tengu HP:238/238 MP:107/107
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:632/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Magatsuhi HP:851/851 MP:170/170
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:385/411
+B-Master Therion HP:51/497 MP:195/223
 C-
-D-Manticore HP:271/385 MP:165/172
+D-
+Equipo de Yu (J2)
+A-Yu HP:534/597 MP:299/347
+B-
+C-
+D-
 ----------------------------------------
-Full Turns: 4
+Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Demi-Fiend
-2-Samael
-3-Pale Rider
-4-Karasu Tengu
+1-Yu
 ----------------------------------------
-Seleccione una acción para Demi-Fiend
+Seleccione una acción para Yu
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Demi-Fiend use
-1-Agi MP:5
-2-Damascus Claw MP:7
-3-Agilao MP:8
-4-Gram Slice MP:5
-5-Berserker God MP:12
-6-Dia MP:5
-7-Ziodyne MP:14
-8-Invitation MP:45
-9-Cancelar
 INPUT: 4
 ----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Magatsuhi HP:851/851 MP:170/170
-2-Manticore HP:271/385 MP:165/172
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Demi-Fiend ataca a Manticore
-Manticore recibe 165 de daño
-Manticore termina con HP:106/385
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:798/834
-B-Karasu Tengu HP:238/238 MP:107/107
-C-Samael HP:945/945 MP:189/189
-D-Pale Rider HP:632/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Magatsuhi HP:851/851 MP:170/170
-C-
-D-Manticore HP:106/385 MP:165/172
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Samael
-2-Pale Rider
-3-Karasu Tengu
-4-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Samael
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
 Seleccione un monstruo para invocar
-1-Okiku-Mushi HP:193/273 MP:114/121
-2-Scathach HP:343/343 MP:153/153
-3-Cancelar
-INPUT: 2
+1-Cancelar
+INPUT: 1
 ----------------------------------------
-Scathach ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:798/834
-B-Karasu Tengu HP:238/238 MP:107/107
-C-Scathach HP:343/343 MP:153/153
-D-Pale Rider HP:632/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Magatsuhi HP:851/851 MP:170/170
-C-
-D-Manticore HP:106/385 MP:165/172
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Pale Rider
-2-Karasu Tengu
-3-Demi-Fiend
-4-Scathach
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:798/834
-B-Karasu Tengu HP:238/238 MP:107/107
-C-Scathach HP:343/343 MP:153/153
-D-Pale Rider HP:632/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Magatsuhi HP:851/851 MP:170/170
-C-
-D-Manticore HP:106/385 MP:165/172
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Karasu Tengu
-2-Demi-Fiend
-3-Scathach
-4-Pale Rider
-----------------------------------------
-Seleccione una acción para Karasu Tengu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Okiku-Mushi HP:193/273 MP:114/121
-2-Samael HP:945/945 MP:189/189
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Samael ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:798/834
-B-Samael HP:945/945 MP:189/189
-C-Scathach HP:343/343 MP:153/153
-D-Pale Rider HP:632/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Magatsuhi HP:851/851 MP:170/170
-C-
-D-Manticore HP:106/385 MP:165/172
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Demi-Fiend
-2-Scathach
-3-Pale Rider
-4-Samael
-----------------------------------------
-Seleccione una acción para Demi-Fiend
+Seleccione una acción para Yu
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -2183,633 +2181,17 @@ Seleccione una acción para Demi-Fiend
 6: Rendirse
 INPUT: 5
 ----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:798/834
-B-Samael HP:945/945 MP:189/189
-C-Scathach HP:343/343 MP:153/153
-D-Pale Rider HP:632/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Magatsuhi HP:851/851 MP:170/170
-C-
-D-Manticore HP:106/385 MP:165/172
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Scathach
-2-Pale Rider
-3-Samael
-4-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Scathach
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:798/834
-B-Samael HP:945/945 MP:189/189
-C-Scathach HP:343/343 MP:153/153
-D-Pale Rider HP:632/693 MP:288/310
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Magatsuhi HP:851/851 MP:170/170
-C-
-D-Manticore HP:106/385 MP:165/172
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Pale Rider
-2-Samael
-3-Demi-Fiend
-4-Scathach
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Okiku-Mushi HP:193/273 MP:114/121
-2-Karasu Tengu HP:238/238 MP:107/107
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Okiku-Mushi ha sido invocado
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Nanashi (J2)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:798/834
-B-Samael HP:945/945 MP:189/189
-C-Scathach HP:343/343 MP:153/153
-D-Okiku-Mushi HP:193/273 MP:114/121
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Magatsuhi HP:851/851 MP:170/170
-C-
-D-Manticore HP:106/385 MP:165/172
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Magatsuhi
-2-Manticore
-----------------------------------------
-Seleccione una acción para Magatsuhi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:798/834
-B-Samael HP:945/945 MP:189/189
-C-Scathach HP:343/343 MP:153/153
-D-Okiku-Mushi HP:193/273 MP:114/121
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Magatsuhi HP:851/851 MP:170/170
-C-
-D-Manticore HP:106/385 MP:165/172
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Manticore
-2-Magatsuhi
-----------------------------------------
-Seleccione una acción para Manticore
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Peri HP:165/483 MP:200/216
-2-Gurulu HP:16/371 MP:166/166
-3-Asherah HP:433/433 MP:195/195
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Asherah ha sido invocado
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:798/834
-B-Samael HP:945/945 MP:189/189
-C-Scathach HP:343/343 MP:153/153
-D-Okiku-Mushi HP:193/273 MP:114/121
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Magatsuhi HP:851/851 MP:170/170
-C-
-D-Asherah HP:433/433 MP:195/195
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Magatsuhi
-2-Asherah
-----------------------------------------
-Seleccione una acción para Magatsuhi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Magatsuhi use
-1-Acid Breath MP:45
-2-Shivering Taboo MP:40
-3-Poison Breath MP:11
-4-Bufudyne MP:14
-5-Death's Door MP:10
-6-Cancelar
-INPUT: 6
-----------------------------------------
-Seleccione una acción para Magatsuhi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:798/834
-B-Samael HP:945/945 MP:189/189
-C-Scathach HP:343/343 MP:153/153
-D-Okiku-Mushi HP:193/273 MP:114/121
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Magatsuhi HP:851/851 MP:170/170
-C-
-D-Asherah HP:433/433 MP:195/195
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Asherah
-2-Magatsuhi
-----------------------------------------
-Seleccione una acción para Asherah
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Asherah use
-1-Diarama MP:9
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Asherah
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Asherah use
-1-Diarama MP:9
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Asherah
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Asherah use
-1-Diarama MP:9
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Asherah
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Peri HP:165/483 MP:200/216
-2-Gurulu HP:16/371 MP:166/166
-3-Manticore HP:106/385 MP:165/172
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Gurulu ha sido invocado
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Demi-Fiend (J1)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:798/834
-B-Samael HP:945/945 MP:189/189
-C-Scathach HP:343/343 MP:153/153
-D-Okiku-Mushi HP:193/273 MP:114/121
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Magatsuhi HP:851/851 MP:170/170
-C-
-D-Gurulu HP:16/371 MP:166/166
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-2-Samael
-3-Scathach
-4-Okiku-Mushi
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Magatsuhi HP:851/851 MP:170/170
-2-Gurulu HP:16/371 MP:166/166
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Demi-Fiend dispara a Gurulu
-Gurulu recibe 114 de daño
-Gurulu termina con HP:0/371
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:798/834
-B-Samael HP:945/945 MP:189/189
-C-Scathach HP:343/343 MP:153/153
-D-Okiku-Mushi HP:193/273 MP:114/121
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Magatsuhi HP:851/851 MP:170/170
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:385/411
+B-Master Therion HP:51/497 MP:195/223
 C-
 D-
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Samael
-2-Scathach
-3-Okiku-Mushi
-4-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Samael
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Pale Rider HP:632/693 MP:288/310
-2-Karasu Tengu HP:238/238 MP:107/107
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Samael
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Samael use
-1-Diarahan MP:16
-2-Sea of Chaos MP:45
-3-Pandemic Bomb MP:11
-4-Poison Breath MP:11
-5-Doping MP:45
-6-Cancelar
-INPUT: 6
-----------------------------------------
-Seleccione una acción para Samael
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Samael
-1-Magatsuhi HP:851/851 MP:170/170
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Samael
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Pale Rider HP:632/693 MP:288/310
-2-Karasu Tengu HP:238/238 MP:107/107
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Karasu Tengu ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:798/834
-B-Karasu Tengu HP:238/238 MP:107/107
-C-Scathach HP:343/343 MP:153/153
-D-Okiku-Mushi HP:193/273 MP:114/121
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Magatsuhi HP:851/851 MP:170/170
-C-
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Scathach
-2-Okiku-Mushi
-3-Demi-Fiend
-4-Karasu Tengu
-----------------------------------------
-Seleccione una acción para Scathach
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Samael HP:945/945 MP:189/189
-2-Pale Rider HP:632/693 MP:288/310
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Scathach
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Scathach
-1-Magatsuhi HP:851/851 MP:170/170
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Scathach
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:798/834
-B-Karasu Tengu HP:238/238 MP:107/107
-C-Scathach HP:343/343 MP:153/153
-D-Okiku-Mushi HP:193/273 MP:114/121
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Magatsuhi HP:851/851 MP:170/170
-C-
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Okiku-Mushi
-2-Demi-Fiend
-3-Karasu Tengu
-4-Scathach
-----------------------------------------
-Seleccione una acción para Okiku-Mushi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Okiku-Mushi use
-1-Poisma MP:4
-2-Tathlum Shot MP:7
-3-Mudoon MP:10
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Okiku-Mushi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Samael HP:945/945 MP:189/189
-2-Pale Rider HP:632/693 MP:288/310
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Okiku-Mushi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:798/834
-B-Karasu Tengu HP:238/238 MP:107/107
-C-Scathach HP:343/343 MP:153/153
-D-Okiku-Mushi HP:193/273 MP:114/121
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Magatsuhi HP:851/851 MP:170/170
-C-
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Demi-Fiend
-2-Karasu Tengu
-3-Scathach
-4-Okiku-Mushi
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Magatsuhi HP:851/851 MP:170/170
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Demi-Fiend use
-1-Agi MP:5
-2-Damascus Claw MP:7
-3-Agilao MP:8
-4-Gram Slice MP:5
-5-Berserker God MP:12
-6-Dia MP:5
-7-Ziodyne MP:14
-8-Invitation MP:45
-9-Cancelar
-INPUT: 9
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Samael HP:945/945 MP:189/189
-2-Pale Rider HP:632/693 MP:288/310
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Magatsuhi HP:851/851 MP:170/170
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Demi-Fiend ataca a Magatsuhi
-Magatsuhi recibe 168 de daño
-Magatsuhi termina con HP:683/851
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:798/834
-B-Karasu Tengu HP:238/238 MP:107/107
-C-Scathach HP:343/343 MP:153/153
-D-Okiku-Mushi HP:193/273 MP:114/121
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Magatsuhi HP:683/851 MP:170/170
-C-
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Karasu Tengu
-2-Scathach
-3-Okiku-Mushi
-4-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Karasu Tengu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Samael HP:945/945 MP:189/189
-2-Pale Rider HP:632/693 MP:288/310
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Pale Rider ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:798/834
-B-Pale Rider HP:632/693 MP:288/310
-C-Scathach HP:343/343 MP:153/153
-D-Okiku-Mushi HP:193/273 MP:114/121
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Magatsuhi HP:683/851 MP:170/170
+Equipo de Yu (J2)
+A-Yu HP:534/597 MP:299/347
+B-
 C-
 D-
 ----------------------------------------
@@ -2817,489 +2199,27 @@ Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Scathach
-2-Okiku-Mushi
-3-Demi-Fiend
-4-Pale Rider
+1-Yu
 ----------------------------------------
-Seleccione una acción para Scathach
+Seleccione una acción para Yu
 1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Samael HP:945/945 MP:189/189
-2-Karasu Tengu HP:238/238 MP:107/107
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Scathach
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Scathach
-1-Magatsuhi HP:683/851 MP:170/170
-2-Cancelar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
 INPUT: 2
 ----------------------------------------
-Seleccione una acción para Scathach
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Scathach
-1-Magatsuhi HP:683/851 MP:170/170
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Scathach
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Scathach
-1-Magatsuhi HP:683/851 MP:170/170
+Seleccione un objetivo para Yu
+1-Master Therion HP:51/497 MP:195/223
 2-Cancelar
 INPUT: 1
 ----------------------------------------
-Scathach ataca a Magatsuhi
-Magatsuhi recibe 27 de daño
-Magatsuhi termina con HP:656/851
+Yu dispara a Master Therion
+Master Therion recibe 72 de daño
+Master Therion termina con HP:0/497
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Nanashi (J2)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:798/834
-B-Pale Rider HP:632/693 MP:288/310
-C-Scathach HP:343/343 MP:153/153
-D-Okiku-Mushi HP:193/273 MP:114/121
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Magatsuhi HP:656/851 MP:170/170
-C-
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Magatsuhi
-----------------------------------------
-Seleccione una acción para Magatsuhi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Magatsuhi use
-1-Acid Breath MP:45
-2-Shivering Taboo MP:40
-3-Poison Breath MP:11
-4-Bufudyne MP:14
-5-Death's Door MP:10
-6-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione un objetivo para Magatsuhi
-1-Demi-Fiend HP:1227/1227 MP:798/834
-2-Pale Rider HP:632/693 MP:288/310
-3-Scathach HP:343/343 MP:153/153
-4-Okiku-Mushi HP:193/273 MP:114/121
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Magatsuhi lanza hielo a Demi-Fiend
-Demi-Fiend bloquea el ataque de Magatsuhi
-Demi-Fiend termina con HP:1227/1227
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Demi-Fiend (J1)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:798/834
-B-Pale Rider HP:632/693 MP:288/310
-C-Scathach HP:343/343 MP:153/153
-D-Okiku-Mushi HP:193/273 MP:114/121
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Magatsuhi HP:656/851 MP:156/170
-C-
-D-
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-2-Pale Rider
-3-Scathach
-4-Okiku-Mushi
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Demi-Fiend use
-1-Agi MP:5
-2-Damascus Claw MP:7
-3-Agilao MP:8
-4-Gram Slice MP:5
-5-Berserker God MP:12
-6-Dia MP:5
-7-Ziodyne MP:14
-8-Invitation MP:45
-9-Cancelar
-INPUT: 8
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Samael HP:945/945 MP:189/189
-2-Karasu Tengu HP:238/238 MP:107/107
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Demi-Fiend use
-1-Agi MP:5
-2-Damascus Claw MP:7
-3-Agilao MP:8
-4-Gram Slice MP:5
-5-Berserker God MP:12
-6-Dia MP:5
-7-Ziodyne MP:14
-8-Invitation MP:45
-9-Cancelar
-INPUT: 6
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Demi-Fiend HP:1227/1227 MP:798/834
-2-Pale Rider HP:632/693 MP:288/310
-3-Scathach HP:343/343 MP:153/153
-4-Okiku-Mushi HP:193/273 MP:114/121
-5-Samael HP:945/945 MP:189/189
-6-Karasu Tengu HP:238/238 MP:107/107
-7-Cancelar
-INPUT: 2
-----------------------------------------
-Demi-Fiend cura a Pale Rider
-Pale Rider recibe 173 de HP
-Pale Rider termina con HP:693/693
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:793/834
-B-Pale Rider HP:693/693 MP:288/310
-C-Scathach HP:343/343 MP:153/153
-D-Okiku-Mushi HP:193/273 MP:114/121
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Magatsuhi HP:656/851 MP:156/170
-C-
-D-
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Pale Rider
-2-Scathach
-3-Okiku-Mushi
-4-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:793/834
-B-Pale Rider HP:693/693 MP:288/310
-C-Scathach HP:343/343 MP:153/153
-D-Okiku-Mushi HP:193/273 MP:114/121
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Magatsuhi HP:656/851 MP:156/170
-C-
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Scathach
-2-Okiku-Mushi
-3-Demi-Fiend
-4-Pale Rider
-----------------------------------------
-Seleccione una acción para Scathach
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Samael HP:945/945 MP:189/189
-2-Karasu Tengu HP:238/238 MP:107/107
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Scathach
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:793/834
-B-Pale Rider HP:693/693 MP:288/310
-C-Scathach HP:343/343 MP:153/153
-D-Okiku-Mushi HP:193/273 MP:114/121
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Magatsuhi HP:656/851 MP:156/170
-C-
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Okiku-Mushi
-2-Demi-Fiend
-3-Pale Rider
-4-Scathach
-----------------------------------------
-Seleccione una acción para Okiku-Mushi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Okiku-Mushi use
-1-Poisma MP:4
-2-Tathlum Shot MP:7
-3-Mudoon MP:10
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Okiku-Mushi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Okiku-Mushi
-1-Magatsuhi HP:656/851 MP:156/170
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Okiku-Mushi ataca a Magatsuhi
-Magatsuhi recibe 21 de daño
-Magatsuhi termina con HP:635/851
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:793/834
-B-Pale Rider HP:693/693 MP:288/310
-C-Scathach HP:343/343 MP:153/153
-D-Okiku-Mushi HP:193/273 MP:114/121
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Magatsuhi HP:635/851 MP:156/170
-C-
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-2-Pale Rider
-3-Scathach
-4-Okiku-Mushi
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Magatsuhi HP:635/851 MP:156/170
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Demi-Fiend ataca a Magatsuhi
-Magatsuhi recibe 168 de daño
-Magatsuhi termina con HP:467/851
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Nanashi (J2)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:793/834
-B-Pale Rider HP:693/693 MP:288/310
-C-Scathach HP:343/343 MP:153/153
-D-Okiku-Mushi HP:193/273 MP:114/121
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Magatsuhi HP:467/851 MP:156/170
-C-
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Magatsuhi
-----------------------------------------
-Seleccione una acción para Magatsuhi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Peri HP:165/483 MP:200/216
-2-Manticore HP:106/385 MP:165/172
-3-Asherah HP:433/433 MP:195/195
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Peri ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:793/834
-B-Pale Rider HP:693/693 MP:288/310
-C-Scathach HP:343/343 MP:153/153
-D-Okiku-Mushi HP:193/273 MP:114/121
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Peri HP:165/483 MP:200/216
-C-
-D-
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Peri
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Peri
-1-Demi-Fiend HP:1227/1227 MP:793/834
-2-Pale Rider HP:693/693 MP:288/310
-3-Scathach HP:343/343 MP:153/153
-4-Okiku-Mushi HP:193/273 MP:114/121
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Peri ataca a Scathach
-Scathach recibe 40 de daño
-Scathach termina con HP:303/343
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Demi-Fiend (J1)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:793/834
-B-Pale Rider HP:693/693 MP:288/310
-C-Scathach HP:303/343 MP:153/153
-D-Okiku-Mushi HP:193/273 MP:114/121
-Equipo de Nanashi (J2)
-A-Nanashi HP:0/140 MP:411/411
-B-Peri HP:165/483 MP:200/216
-C-
-D-
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-2-Pale Rider
-3-Scathach
-4-Okiku-Mushi
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Peri HP:165/483 MP:200/216
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Demi-Fiend ataca a Peri
-Peri recibe 168 de daño
-Peri termina con HP:0/483
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ganador: Demi-Fiend (J1)
+Ganador: Yu (J2)

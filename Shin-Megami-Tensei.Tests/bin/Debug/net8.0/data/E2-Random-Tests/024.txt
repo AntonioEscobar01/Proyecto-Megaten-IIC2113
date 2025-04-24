@@ -201,29 +201,641 @@ Elige un archivo para cargar los equipos
 199: 200.txt
 INPUT: 23
 ----------------------------------------
-Ronda de Aleph (J1)
+Ronda de Itsuki (J1)
 ----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:613/613
-B-Magatsuhi HP:851/851 MP:170/170
-C-Hachiman HP:851/851 MP:170/170
-D-Sedna HP:350/350 MP:68/68
-Equipo de Shujinko (J2)
-A-Shujinko HP:1317/1317 MP:625/625
-B-Mithras HP:293/293 MP:58/58
-C-Guedhe HP:511/511 MP:229/229
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Atropos HP:277/277 MP:269/269
+D-Anzu HP:596/596 MP:118/118
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Israfel HP:258/258 MP:251/251
+C-Scathach HP:343/343 MP:153/153
+D-Sandman HP:113/113 MP:108/108
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Itsuki
+3-Anzu
+4-Atropos
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kazfiel HP:469/469 MP:211/211
+2-Balor HP:492/492 MP:98/98
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ammut use
+1-Megaton Press MP:17
+2-War Cry MP:45
+3-Nihil Claw MP:11
+4-Energy Drain MP:10
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Kei HP:760/760 MP:398/398
+2-Israfel HP:258/258 MP:251/251
+3-Scathach HP:343/343 MP:153/153
+4-Sandman HP:113/113 MP:108/108
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ammut use
+1-Megaton Press MP:17
+2-War Cry MP:45
+3-Nihil Claw MP:11
+4-Energy Drain MP:10
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kazfiel HP:469/469 MP:211/211
+2-Balor HP:492/492 MP:98/98
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ammut use
+1-Megaton Press MP:17
+2-War Cry MP:45
+3-Nihil Claw MP:11
+4-Energy Drain MP:10
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Kei HP:760/760 MP:398/398
+2-Israfel HP:258/258 MP:251/251
+3-Scathach HP:343/343 MP:153/153
+4-Sandman HP:113/113 MP:108/108
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Kei HP:760/760 MP:398/398
+2-Israfel HP:258/258 MP:251/251
+3-Scathach HP:343/343 MP:153/153
+4-Sandman HP:113/113 MP:108/108
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Ammut ataca a Scathach
+Scathach recibe 54 de daño
+Scathach termina con HP:289/343
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Ammut HP:709/709 MP:140/140
+C-Atropos HP:277/277 MP:269/269
+D-Anzu HP:596/596 MP:118/118
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Israfel HP:258/258 MP:251/251
+C-Scathach HP:289/343 MP:153/153
+D-Sandman HP:113/113 MP:108/108
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Anzu
+3-Atropos
+4-Ammut
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Zio MP:5
+2-Fatal Sword MP:8
+3-Deadly Wind MP:22
+4-Needle Shot MP:4
+5-Berserker God MP:12
+6-Tathlum Shot MP:7
+7-Bufudyne MP:14
+8-Diarahan MP:16
+9-Cancelar
+INPUT: 8
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Itsuki HP:1136/1136 MP:413/413
+2-Ammut HP:709/709 MP:140/140
+3-Atropos HP:277/277 MP:269/269
+4-Anzu HP:596/596 MP:118/118
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki cura a Anzu
+Anzu recibe 596 de HP
+Anzu termina con HP:596/596
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:397/413
+B-Ammut HP:709/709 MP:140/140
+C-Atropos HP:277/277 MP:269/269
+D-Anzu HP:596/596 MP:118/118
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Israfel HP:258/258 MP:251/251
+C-Scathach HP:289/343 MP:153/153
+D-Sandman HP:113/113 MP:108/108
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Atropos
+3-Ammut
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:397/413
+B-Ammut HP:709/709 MP:140/140
+C-Atropos HP:277/277 MP:269/269
+D-Anzu HP:596/596 MP:118/118
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Israfel HP:258/258 MP:251/251
+C-Scathach HP:289/343 MP:153/153
+D-Sandman HP:113/113 MP:108/108
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Atropos
+2-Ammut
+3-Itsuki
+4-Anzu
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Kei HP:760/760 MP:398/398
+2-Israfel HP:258/258 MP:251/251
+3-Scathach HP:289/343 MP:153/153
+4-Sandman HP:113/113 MP:108/108
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:397/413
+B-Ammut HP:709/709 MP:140/140
+C-Atropos HP:277/277 MP:269/269
+D-Anzu HP:596/596 MP:118/118
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Israfel HP:258/258 MP:251/251
+C-Scathach HP:289/343 MP:153/153
+D-Sandman HP:113/113 MP:108/108
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Itsuki
+3-Anzu
+4-Atropos
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:397/413
+B-Ammut HP:709/709 MP:140/140
+C-Atropos HP:277/277 MP:269/269
+D-Anzu HP:596/596 MP:118/118
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Israfel HP:258/258 MP:251/251
+C-Scathach HP:289/343 MP:153/153
+D-Sandman HP:113/113 MP:108/108
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Anzu
+3-Atropos
+4-Ammut
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kazfiel HP:469/469 MP:211/211
+2-Balor HP:492/492 MP:98/98
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Kei HP:760/760 MP:398/398
+2-Israfel HP:258/258 MP:251/251
+3-Scathach HP:289/343 MP:153/153
+4-Sandman HP:113/113 MP:108/108
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Zio MP:5
+2-Fatal Sword MP:8
+3-Deadly Wind MP:22
+4-Needle Shot MP:4
+5-Berserker God MP:12
+6-Tathlum Shot MP:7
+7-Bufudyne MP:14
+8-Diarahan MP:16
+9-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Kei HP:760/760 MP:398/398
+2-Israfel HP:258/258 MP:251/251
+3-Scathach HP:289/343 MP:153/153
+4-Sandman HP:113/113 MP:108/108
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki ataca a Sandman
+Sandman recibe 136 de daño
+Sandman termina con HP:0/113
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:385/413
+B-Ammut HP:709/709 MP:140/140
+C-Atropos HP:277/277 MP:269/269
+D-Anzu HP:596/596 MP:118/118
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Israfel HP:258/258 MP:251/251
+C-Scathach HP:289/343 MP:153/153
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Scathach
+2-Israfel
+3-Kei
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ometeotl HP:324/324 MP:315/315
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ometeotl ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:385/413
+B-Ammut HP:709/709 MP:140/140
+C-Atropos HP:277/277 MP:269/269
+D-Anzu HP:596/596 MP:118/118
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Israfel HP:258/258 MP:251/251
+C-Ometeotl HP:324/324 MP:315/315
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Israfel
+2-Kei
+3-Ometeotl
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:385/413
+B-Ammut HP:709/709 MP:140/140
+C-Atropos HP:277/277 MP:269/269
+D-Anzu HP:596/596 MP:118/118
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Israfel HP:258/258 MP:251/251
+C-Ometeotl HP:324/324 MP:315/315
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Ometeotl
+3-Israfel
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:385/413
+B-Ammut HP:709/709 MP:140/140
+C-Atropos HP:277/277 MP:269/269
+D-Anzu HP:596/596 MP:118/118
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Israfel HP:258/258 MP:251/251
+C-Ometeotl HP:324/324 MP:315/315
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Israfel
+3-Kei
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:385/413
+B-Ammut HP:709/709 MP:140/140
+C-Atropos HP:277/277 MP:269/269
+D-Anzu HP:596/596 MP:118/118
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Israfel HP:258/258 MP:251/251
+C-Ometeotl HP:324/324 MP:315/315
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Israfel
+2-Kei
+3-Ometeotl
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:385/413
+B-Ammut HP:709/709 MP:140/140
+C-Atropos HP:277/277 MP:269/269
+D-Anzu HP:596/596 MP:118/118
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Israfel HP:258/258 MP:251/251
+C-Ometeotl HP:324/324 MP:315/315
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Ometeotl
+3-Israfel
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:385/413
+B-Ammut HP:709/709 MP:140/140
+C-Atropos HP:277/277 MP:269/269
+D-Anzu HP:596/596 MP:118/118
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Israfel HP:258/258 MP:251/251
+C-Ometeotl HP:324/324 MP:315/315
 D-
 ----------------------------------------
 Full Turns: 4
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Aleph
-2-Magatsuhi
-3-Hachiman
-4-Sedna
+1-Ammut
+2-Itsuki
+3-Anzu
+4-Atropos
 ----------------------------------------
-Seleccione una acción para Aleph
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kazfiel HP:469/469 MP:211/211
+2-Balor HP:492/492 MP:98/98
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kazfiel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:385/413
+B-Kazfiel HP:469/469 MP:211/211
+C-Atropos HP:277/277 MP:269/269
+D-Anzu HP:596/596 MP:118/118
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Israfel HP:258/258 MP:251/251
+C-Ometeotl HP:324/324 MP:315/315
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Anzu
+3-Atropos
+4-Kazfiel
+----------------------------------------
+Seleccione una acción para Itsuki
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -232,30 +844,68 @@ Seleccione una acción para Aleph
 6: Rendirse
 INPUT: 5
 ----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:613/613
-B-Magatsuhi HP:851/851 MP:170/170
-C-Hachiman HP:851/851 MP:170/170
-D-Sedna HP:350/350 MP:68/68
-Equipo de Shujinko (J2)
-A-Shujinko HP:1317/1317 MP:625/625
-B-Mithras HP:293/293 MP:58/58
-C-Guedhe HP:511/511 MP:229/229
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:385/413
+B-Kazfiel HP:469/469 MP:211/211
+C-Atropos HP:277/277 MP:269/269
+D-Anzu HP:596/596 MP:118/118
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Israfel HP:258/258 MP:251/251
+C-Ometeotl HP:324/324 MP:315/315
 D-
 ----------------------------------------
 Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Atropos
+3-Kazfiel
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ammut HP:709/709 MP:140/140
+2-Balor HP:492/492 MP:98/98
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Balor ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:385/413
+B-Kazfiel HP:469/469 MP:211/211
+C-Atropos HP:277/277 MP:269/269
+D-Balor HP:492/492 MP:98/98
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Israfel HP:258/258 MP:251/251
+C-Ometeotl HP:324/324 MP:315/315
+D-
+----------------------------------------
+Full Turns: 2
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Magatsuhi
-2-Hachiman
-3-Sedna
-4-Aleph
+1-Atropos
+2-Kazfiel
+3-Itsuki
+4-Balor
 ----------------------------------------
-Seleccione una acción para Magatsuhi
+Seleccione una acción para Atropos
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -265,27 +915,27 @@ INPUT: 4
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:613/613
-B-Magatsuhi HP:851/851 MP:170/170
-C-Hachiman HP:851/851 MP:170/170
-D-Sedna HP:350/350 MP:68/68
-Equipo de Shujinko (J2)
-A-Shujinko HP:1317/1317 MP:625/625
-B-Mithras HP:293/293 MP:58/58
-C-Guedhe HP:511/511 MP:229/229
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:385/413
+B-Kazfiel HP:469/469 MP:211/211
+C-Atropos HP:277/277 MP:269/269
+D-Balor HP:492/492 MP:98/98
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Israfel HP:258/258 MP:251/251
+C-Ometeotl HP:324/324 MP:315/315
 D-
 ----------------------------------------
-Full Turns: 3
+Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Hachiman
-2-Sedna
-3-Aleph
-4-Magatsuhi
+1-Kazfiel
+2-Itsuki
+3-Balor
+4-Atropos
 ----------------------------------------
-Seleccione una acción para Hachiman
+Seleccione una acción para Kazfiel
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -293,1245 +943,195 @@ Seleccione una acción para Hachiman
 INPUT: 3
 ----------------------------------------
 Seleccione un monstruo para invocar
-1-Knocker HP:126/126 MP:55/55
-2-Cancelar
+1-Ammut HP:709/709 MP:140/140
+2-Anzu HP:596/596 MP:118/118
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:385/413
+B-Ammut HP:709/709 MP:140/140
+C-Atropos HP:277/277 MP:269/269
+D-Balor HP:492/492 MP:98/98
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Israfel HP:258/258 MP:251/251
+C-Ometeotl HP:324/324 MP:315/315
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Balor
+3-Atropos
+4-Ammut
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Kei HP:760/760 MP:398/398
+2-Israfel HP:258/258 MP:251/251
+3-Ometeotl HP:324/324 MP:315/315
+4-Cancelar
 INPUT: 2
 ----------------------------------------
-Seleccione una acción para Hachiman
+Itsuki ataca a Israfel
+Israfel recibe 45 de daño
+Israfel termina con HP:213/258
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:385/413
+B-Ammut HP:709/709 MP:140/140
+C-Atropos HP:277/277 MP:269/269
+D-Balor HP:492/492 MP:98/98
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Israfel HP:213/258 MP:251/251
+C-Ometeotl HP:324/324 MP:315/315
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Balor
+2-Atropos
+3-Ammut
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Balor
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Hachiman
-1-Shujinko HP:1317/1317 MP:625/625
-2-Mithras HP:293/293 MP:58/58
-3-Guedhe HP:511/511 MP:229/229
+Seleccione un objetivo para Balor
+1-Kei HP:760/760 MP:398/398
+2-Israfel HP:213/258 MP:251/251
+3-Ometeotl HP:324/324 MP:315/315
 4-Cancelar
-INPUT: 1
+INPUT: 2
 ----------------------------------------
-Hachiman ataca a Shujinko
-Shujinko es resistente el ataque de Hachiman
-Shujinko recibe 32 de daño
-Shujinko termina con HP:1285/1317
+Balor ataca a Israfel
+Israfel recibe 36 de daño
+Israfel termina con HP:177/258
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:613/613
-B-Magatsuhi HP:851/851 MP:170/170
-C-Hachiman HP:851/851 MP:170/170
-D-Sedna HP:350/350 MP:68/68
-Equipo de Shujinko (J2)
-A-Shujinko HP:1285/1317 MP:625/625
-B-Mithras HP:293/293 MP:58/58
-C-Guedhe HP:511/511 MP:229/229
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:385/413
+B-Ammut HP:709/709 MP:140/140
+C-Atropos HP:277/277 MP:269/269
+D-Balor HP:492/492 MP:98/98
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Israfel HP:177/258 MP:251/251
+C-Ometeotl HP:324/324 MP:315/315
 D-
 ----------------------------------------
-Full Turns: 2
+Full Turns: 3
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Sedna
-2-Aleph
-3-Magatsuhi
-4-Hachiman
+1-Ometeotl
+2-Israfel
+3-Kei
 ----------------------------------------
-Seleccione una acción para Sedna
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:385/413
+B-Ammut HP:709/709 MP:140/140
+C-Atropos HP:277/277 MP:269/269
+D-Balor HP:492/492 MP:98/98
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Israfel HP:177/258 MP:251/251
+C-Ometeotl HP:324/324 MP:315/315
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Israfel
+2-Kei
+3-Ometeotl
+----------------------------------------
+Seleccione una acción para Israfel
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 2
 ----------------------------------------
-Seleccione una habilidad para que Sedna use
+Seleccione una habilidad para que Israfel use
 1-Mabufula MP:20
-2-Mamudo MP:18
-3-Posumudi MP:5
-4-Diarama MP:9
+2-Hamaon MP:10
+3-Panic Voice MP:15
+4-Diarahan MP:16
 5-Cancelar
 INPUT: 5
 ----------------------------------------
-Seleccione una acción para Sedna
+Seleccione una acción para Israfel
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Sedna
-1-Shujinko HP:1285/1317 MP:625/625
-2-Mithras HP:293/293 MP:58/58
-3-Guedhe HP:511/511 MP:229/229
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Sedna ataca a Shujinko
-Shujinko es resistente el ataque de Sedna
-Shujinko recibe 12 de daño
-Shujinko termina con HP:1273/1317
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:613/613
-B-Magatsuhi HP:851/851 MP:170/170
-C-Hachiman HP:851/851 MP:170/170
-D-Sedna HP:350/350 MP:68/68
-Equipo de Shujinko (J2)
-A-Shujinko HP:1273/1317 MP:625/625
-B-Mithras HP:293/293 MP:58/58
-C-Guedhe HP:511/511 MP:229/229
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Magatsuhi
-3-Hachiman
-4-Sedna
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Shujinko HP:1273/1317 MP:625/625
-2-Mithras HP:293/293 MP:58/58
-3-Guedhe HP:511/511 MP:229/229
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Aleph ataca a Mithras
-Mithras recibe 157 de daño
-Mithras termina con HP:136/293
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Shujinko (J2)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:613/613
-B-Magatsuhi HP:851/851 MP:170/170
-C-Hachiman HP:851/851 MP:170/170
-D-Sedna HP:350/350 MP:68/68
-Equipo de Shujinko (J2)
-A-Shujinko HP:1273/1317 MP:625/625
-B-Mithras HP:136/293 MP:58/58
-C-Guedhe HP:511/511 MP:229/229
-D-
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shujinko
-2-Guedhe
-3-Mithras
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Shujinko use
-1-Berserker God MP:12
-2-Bufula MP:8
-3-Zandyne MP:14
-4-Fatal Sword MP:8
-5-Oni-Kagura MP:9
-6-Needle Shot MP:4
-7-Zionga MP:8
-8-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Aleph HP:1309/1309 MP:613/613
-2-Magatsuhi HP:851/851 MP:170/170
-3-Hachiman HP:851/851 MP:170/170
-4-Sedna HP:350/350 MP:68/68
-5-Cancelar
 INPUT: 4
 ----------------------------------------
-Shujinko lanza viento a Sedna
-Sedna recibe 129 de daño
-Sedna termina con HP:221/350
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:613/613
-B-Magatsuhi HP:851/851 MP:170/170
-C-Hachiman HP:851/851 MP:170/170
-D-Sedna HP:221/350 MP:68/68
-Equipo de Shujinko (J2)
-A-Shujinko HP:1273/1317 MP:611/625
-B-Mithras HP:136/293 MP:58/58
-C-Guedhe HP:511/511 MP:229/229
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:385/413
+B-Ammut HP:709/709 MP:140/140
+C-Atropos HP:277/277 MP:269/269
+D-Balor HP:492/492 MP:98/98
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Israfel HP:177/258 MP:251/251
+C-Ometeotl HP:324/324 MP:315/315
 D-
 ----------------------------------------
 Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Guedhe
-2-Mithras
-3-Shujinko
-----------------------------------------
-Seleccione una acción para Guedhe
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Guedhe use
-1-Mudoon MP:10
-2-Recarm MP:20
-3-Megidola MP:40
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Guedhe
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Guedhe
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Guedhe
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Guedhe
-1-Aleph HP:1309/1309 MP:613/613
-2-Magatsuhi HP:851/851 MP:170/170
-3-Hachiman HP:851/851 MP:170/170
-4-Sedna HP:221/350 MP:68/68
-5-Cancelar
-INPUT: 4
-----------------------------------------
-Guedhe ataca a Sedna
-Sedna recibe 42 de daño
-Sedna termina con HP:179/350
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:613/613
-B-Magatsuhi HP:851/851 MP:170/170
-C-Hachiman HP:851/851 MP:170/170
-D-Sedna HP:179/350 MP:68/68
-Equipo de Shujinko (J2)
-A-Shujinko HP:1273/1317 MP:611/625
-B-Mithras HP:136/293 MP:58/58
-C-Guedhe HP:511/511 MP:229/229
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Mithras
-2-Shujinko
-3-Guedhe
-----------------------------------------
-Seleccione una acción para Mithras
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Mithras
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:613/613
-B-Magatsuhi HP:851/851 MP:170/170
-C-Hachiman HP:851/851 MP:170/170
-D-Sedna HP:179/350 MP:68/68
-Equipo de Shujinko (J2)
-A-Shujinko HP:1273/1317 MP:611/625
-B-Mithras HP:136/293 MP:58/58
-C-Guedhe HP:511/511 MP:229/229
-D-
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Shujinko
-2-Guedhe
-3-Mithras
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Aleph HP:1309/1309 MP:613/613
-2-Magatsuhi HP:851/851 MP:170/170
-3-Hachiman HP:851/851 MP:170/170
-4-Sedna HP:179/350 MP:68/68
-5-Cancelar
-INPUT: 4
-----------------------------------------
-Shujinko ataca a Sedna
-Sedna recibe 187 de daño
-Sedna termina con HP:0/350
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Aleph (J1)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:613/613
-B-Magatsuhi HP:851/851 MP:170/170
-C-Hachiman HP:851/851 MP:170/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1273/1317 MP:611/625
-B-Mithras HP:136/293 MP:58/58
-C-Guedhe HP:511/511 MP:229/229
-D-
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Hachiman
-3-Magatsuhi
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Knocker HP:126/126 MP:55/55
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Shujinko HP:1273/1317 MP:611/625
-2-Mithras HP:136/293 MP:58/58
-3-Guedhe HP:511/511 MP:229/229
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Shujinko HP:1273/1317 MP:611/625
-2-Mithras HP:136/293 MP:58/58
-3-Guedhe HP:511/511 MP:229/229
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Aleph ataca a Shujinko
-Shujinko es resistente el ataque de Aleph
-Shujinko recibe 78 de daño
-Shujinko termina con HP:1195/1317
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:613/613
-B-Magatsuhi HP:851/851 MP:170/170
-C-Hachiman HP:851/851 MP:170/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1195/1317 MP:611/625
-B-Mithras HP:136/293 MP:58/58
-C-Guedhe HP:511/511 MP:229/229
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Hachiman
-2-Magatsuhi
-3-Aleph
-----------------------------------------
-Seleccione una acción para Hachiman
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:613/613
-B-Magatsuhi HP:851/851 MP:170/170
-C-Hachiman HP:851/851 MP:170/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1195/1317 MP:611/625
-B-Mithras HP:136/293 MP:58/58
-C-Guedhe HP:511/511 MP:229/229
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Magatsuhi
-2-Aleph
-3-Hachiman
-----------------------------------------
-Seleccione una acción para Magatsuhi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Knocker HP:126/126 MP:55/55
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Magatsuhi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Magatsuhi use
-1-Acid Breath MP:45
-2-Shivering Taboo MP:40
-3-Poison Breath MP:11
-4-Bufudyne MP:14
-5-Death's Door MP:10
-6-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione un objetivo para Magatsuhi
-1-Shujinko HP:1195/1317 MP:611/625
-2-Mithras HP:136/293 MP:58/58
-3-Guedhe HP:511/511 MP:229/229
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Magatsuhi lanza hielo a Shujinko
-Shujinko recibe 124 de daño
-Shujinko termina con HP:1071/1317
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:613/613
-B-Magatsuhi HP:851/851 MP:156/170
-C-Hachiman HP:851/851 MP:170/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1071/1317 MP:611/625
-B-Mithras HP:136/293 MP:58/58
-C-Guedhe HP:511/511 MP:229/229
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Hachiman
-3-Magatsuhi
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Shujinko HP:1071/1317 MP:611/625
-2-Mithras HP:136/293 MP:58/58
-3-Guedhe HP:511/511 MP:229/229
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Aleph dispara a Guedhe
-Guedhe recibe 276 de daño
-Guedhe termina con HP:235/511
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Shujinko (J2)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:613/613
-B-Magatsuhi HP:851/851 MP:156/170
-C-Hachiman HP:851/851 MP:170/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1071/1317 MP:611/625
-B-Mithras HP:136/293 MP:58/58
-C-Guedhe HP:235/511 MP:229/229
-D-
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shujinko
-2-Guedhe
-3-Mithras
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Aleph HP:1309/1309 MP:613/613
-2-Magatsuhi HP:851/851 MP:156/170
-3-Hachiman HP:851/851 MP:170/170
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Shujinko dispara a Aleph
-Aleph bloquea el ataque de Shujinko
-Aleph termina con HP:1309/1309
-----------------------------------------
-Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:613/613
-B-Magatsuhi HP:851/851 MP:156/170
-C-Hachiman HP:851/851 MP:170/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1071/1317 MP:611/625
-B-Mithras HP:136/293 MP:58/58
-C-Guedhe HP:235/511 MP:229/229
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Guedhe
-2-Mithras
-3-Shujinko
-----------------------------------------
-Seleccione una acción para Guedhe
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:613/613
-B-Magatsuhi HP:851/851 MP:156/170
-C-Hachiman HP:851/851 MP:170/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1071/1317 MP:611/625
-B-Mithras HP:136/293 MP:58/58
-C-Guedhe HP:235/511 MP:229/229
-D-
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Mithras
-2-Shujinko
-3-Guedhe
-----------------------------------------
-Seleccione una acción para Mithras
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Aleph (J1)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:613/613
-B-Magatsuhi HP:851/851 MP:156/170
-C-Hachiman HP:851/851 MP:170/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1071/1317 MP:611/625
-B-Mithras HP:136/293 MP:58/58
-C-Guedhe HP:235/511 MP:229/229
-D-
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Magatsuhi
-3-Hachiman
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Shujinko HP:1071/1317 MP:611/625
-2-Mithras HP:136/293 MP:58/58
-3-Guedhe HP:235/511 MP:229/229
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Aleph dispara a Guedhe
-Guedhe recibe 276 de daño
-Guedhe termina con HP:0/511
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:613/613
-B-Magatsuhi HP:851/851 MP:156/170
-C-Hachiman HP:851/851 MP:170/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1071/1317 MP:611/625
-B-Mithras HP:136/293 MP:58/58
-C-
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Magatsuhi
-2-Hachiman
-3-Aleph
-----------------------------------------
-Seleccione una acción para Magatsuhi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Magatsuhi use
-1-Acid Breath MP:45
-2-Shivering Taboo MP:40
-3-Poison Breath MP:11
-4-Bufudyne MP:14
-5-Death's Door MP:10
-6-Cancelar
-INPUT: 6
-----------------------------------------
-Seleccione una acción para Magatsuhi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:613/613
-B-Magatsuhi HP:851/851 MP:156/170
-C-Hachiman HP:851/851 MP:170/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1071/1317 MP:611/625
-B-Mithras HP:136/293 MP:58/58
-C-
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Hachiman
-2-Aleph
-3-Magatsuhi
-----------------------------------------
-Seleccione una acción para Hachiman
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Knocker HP:126/126 MP:55/55
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Hachiman
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Hachiman
-1-Shujinko HP:1071/1317 MP:611/625
-2-Mithras HP:136/293 MP:58/58
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Hachiman ataca a Mithras
-Mithras recibe 65 de daño
-Mithras termina con HP:71/293
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:613/613
-B-Magatsuhi HP:851/851 MP:156/170
-C-Hachiman HP:851/851 MP:170/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1071/1317 MP:611/625
-B-Mithras HP:71/293 MP:58/58
-C-
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Magatsuhi
-3-Hachiman
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Shujinko HP:1071/1317 MP:611/625
-2-Mithras HP:71/293 MP:58/58
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Aleph ataca a Mithras
-Mithras recibe 157 de daño
-Mithras termina con HP:0/293
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Shujinko (J2)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:613/613
-B-Magatsuhi HP:851/851 MP:156/170
-C-Hachiman HP:851/851 MP:170/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1071/1317 MP:611/625
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shujinko
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Aleph HP:1309/1309 MP:613/613
-2-Magatsuhi HP:851/851 MP:156/170
-3-Hachiman HP:851/851 MP:170/170
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Shujinko ataca a Hachiman
-Hachiman recibe 187 de daño
-Hachiman termina con HP:664/851
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Aleph (J1)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:613/613
-B-Magatsuhi HP:851/851 MP:156/170
-C-Hachiman HP:664/851 MP:170/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1071/1317 MP:611/625
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Hachiman
-3-Magatsuhi
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Shujinko HP:1071/1317 MP:611/625
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Shujinko HP:1071/1317 MP:611/625
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:613/613
-B-Magatsuhi HP:851/851 MP:156/170
-C-Hachiman HP:664/851 MP:170/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1071/1317 MP:611/625
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Hachiman
-2-Magatsuhi
-3-Aleph
-----------------------------------------
-Seleccione una acción para Hachiman
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Hachiman
-1-Shujinko HP:1071/1317 MP:611/625
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Hachiman
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Hachiman use
-1-Maziodyne MP:32
-2-Tetrakarn MP:50
-3-Berserker God MP:12
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Hachiman
-1-Shujinko HP:1071/1317 MP:611/625
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Hachiman ataca a Shujinko
-Shujinko es resistente el ataque de Hachiman
-Shujinko recibe 81 de daño
-Shujinko termina con HP:990/1317
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:613/613
-B-Magatsuhi HP:851/851 MP:156/170
-C-Hachiman HP:664/851 MP:158/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:990/1317 MP:611/625
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Magatsuhi
-2-Aleph
-3-Hachiman
-----------------------------------------
-Seleccione una acción para Magatsuhi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Knocker HP:126/126 MP:55/55
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Magatsuhi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Magatsuhi use
-1-Acid Breath MP:45
-2-Shivering Taboo MP:40
-3-Poison Breath MP:11
-4-Bufudyne MP:14
-5-Death's Door MP:10
-6-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione un objetivo para Magatsuhi
-1-Shujinko HP:990/1317 MP:611/625
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Magatsuhi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Knocker HP:126/126 MP:55/55
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Magatsuhi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Magatsuhi
-1-Shujinko HP:990/1317 MP:611/625
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Magatsuhi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Magatsuhi use
-1-Acid Breath MP:45
-2-Shivering Taboo MP:40
-3-Poison Breath MP:11
-4-Bufudyne MP:14
-5-Death's Door MP:10
-6-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione un objetivo para Magatsuhi
-1-Shujinko HP:990/1317 MP:611/625
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Magatsuhi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:613/613
-B-Magatsuhi HP:851/851 MP:156/170
-C-Hachiman HP:664/851 MP:158/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:990/1317 MP:611/625
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Aleph
-2-Hachiman
-3-Magatsuhi
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Knocker HP:126/126 MP:55/55
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:613/613
-B-Magatsuhi HP:851/851 MP:156/170
-C-Hachiman HP:664/851 MP:158/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:990/1317 MP:611/625
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Hachiman
-2-Magatsuhi
-3-Aleph
-----------------------------------------
-Seleccione una acción para Hachiman
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:613/613
-B-Magatsuhi HP:851/851 MP:156/170
-C-Hachiman HP:664/851 MP:158/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:990/1317 MP:611/625
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Magatsuhi
-2-Aleph
-3-Hachiman
-----------------------------------------
-Seleccione una acción para Magatsuhi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Knocker HP:126/126 MP:55/55
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Knocker ha sido invocado
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Shujinko (J2)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:613/613
-B-Knocker HP:126/126 MP:55/55
-C-Hachiman HP:664/851 MP:158/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:990/1317 MP:611/625
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shujinko
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Aleph HP:1309/1309 MP:613/613
-2-Knocker HP:126/126 MP:55/55
-3-Hachiman HP:664/851 MP:158/170
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Shujinko
+1-Kei
+2-Ometeotl
+3-Israfel
+----------------------------------------
+Seleccione una acción para Kei
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -1540,141 +1140,304 @@ Seleccione una acción para Shujinko
 6: Rendirse
 INPUT: 3
 ----------------------------------------
-Seleccione una habilidad para que Shujinko use
-1-Berserker God MP:12
-2-Bufula MP:8
-3-Zandyne MP:14
-4-Fatal Sword MP:8
-5-Oni-Kagura MP:9
-6-Needle Shot MP:4
-7-Zionga MP:8
-8-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Aleph HP:1309/1309 MP:613/613
-2-Knocker HP:126/126 MP:55/55
-3-Hachiman HP:664/851 MP:158/170
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Shujinko lanza viento a Knocker
-Knocker bloquea el ataque de Shujinko
-Knocker termina con HP:126/126
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Aleph (J1)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:613/613
-B-Knocker HP:126/126 MP:55/55
-C-Hachiman HP:664/851 MP:158/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:990/1317 MP:597/625
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Hachiman
-3-Knocker
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Aleph use
-1-Lunge MP:6
+Seleccione una habilidad para que Kei use
+1-Gram Slice MP:5
 2-Mortal Jihad MP:13
-3-Agidyne MP:14
-4-Oni-Kagura MP:9
+3-Axel Claw MP:15
+4-Bufula MP:8
+5-Deadly Wind MP:22
+6-Damascus Claw MP:7
+7-Bufu MP:5
+8-Agilao MP:8
+9-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Itsuki HP:1136/1136 MP:385/413
+2-Ammut HP:709/709 MP:140/140
+3-Atropos HP:277/277 MP:269/269
+4-Balor HP:492/492 MP:98/98
 5-Cancelar
-INPUT: 1
+INPUT: 4
 ----------------------------------------
-Seleccione un objetivo para Aleph
-1-Shujinko HP:990/1317 MP:597/625
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Aleph ataca a Shujinko
-Shujinko es resistente el ataque de Aleph
-Shujinko recibe 75 de daño
-Shujinko termina con HP:915/1317
+Kei lanza hielo a Balor
+Balor recibe 56 de daño
+Balor termina con HP:436/492
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:607/613
-B-Knocker HP:126/126 MP:55/55
-C-Hachiman HP:664/851 MP:158/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:915/1317 MP:597/625
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Hachiman
-2-Knocker
-3-Aleph
-----------------------------------------
-Seleccione una acción para Hachiman
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Hachiman
-1-Shujinko HP:915/1317 MP:597/625
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Hachiman ataca a Shujinko
-Shujinko es resistente el ataque de Hachiman
-Shujinko recibe 32 de daño
-Shujinko termina con HP:883/1317
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:607/613
-B-Knocker HP:126/126 MP:55/55
-C-Hachiman HP:664/851 MP:158/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:883/1317 MP:597/625
-B-
-C-
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:385/413
+B-Ammut HP:709/709 MP:140/140
+C-Atropos HP:277/277 MP:269/269
+D-Balor HP:436/492 MP:98/98
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:390/398
+B-Israfel HP:177/258 MP:251/251
+C-Ometeotl HP:324/324 MP:315/315
 D-
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Knocker
-2-Aleph
-3-Hachiman
+1-Ometeotl
+2-Israfel
+3-Kei
 ----------------------------------------
-Seleccione una acción para Knocker
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Scathach HP:289/343 MP:153/153
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Scathach ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:385/413
+B-Ammut HP:709/709 MP:140/140
+C-Atropos HP:277/277 MP:269/269
+D-Balor HP:436/492 MP:98/98
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:390/398
+B-Israfel HP:177/258 MP:251/251
+C-Scathach HP:289/343 MP:153/153
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Israfel
+2-Kei
+3-Scathach
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ometeotl HP:324/324 MP:315/315
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:385/413
+B-Ammut HP:709/709 MP:140/140
+C-Atropos HP:277/277 MP:269/269
+D-Balor HP:436/492 MP:98/98
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:390/398
+B-Israfel HP:177/258 MP:251/251
+C-Scathach HP:289/343 MP:153/153
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Itsuki
+3-Balor
+4-Atropos
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Anzu HP:596/596 MP:118/118
+2-Kazfiel HP:469/469 MP:211/211
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Anzu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:385/413
+B-Anzu HP:596/596 MP:118/118
+C-Atropos HP:277/277 MP:269/269
+D-Balor HP:436/492 MP:98/98
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:390/398
+B-Israfel HP:177/258 MP:251/251
+C-Scathach HP:289/343 MP:153/153
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Balor
+3-Atropos
+4-Anzu
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Zio MP:5
+2-Fatal Sword MP:8
+3-Deadly Wind MP:22
+4-Needle Shot MP:4
+5-Berserker God MP:12
+6-Tathlum Shot MP:7
+7-Bufudyne MP:14
+8-Diarahan MP:16
+9-Cancelar
+INPUT: 7
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Kei HP:760/760 MP:390/398
+2-Israfel HP:177/258 MP:251/251
+3-Scathach HP:289/343 MP:153/153
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki lanza hielo a Kei
+Kei es resistente el ataque de Itsuki
+Kei recibe 57 de daño
+Kei termina con HP:703/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:371/413
+B-Anzu HP:596/596 MP:118/118
+C-Atropos HP:277/277 MP:269/269
+D-Balor HP:436/492 MP:98/98
+Equipo de Kei (J2)
+A-Kei HP:703/760 MP:390/398
+B-Israfel HP:177/258 MP:251/251
+C-Scathach HP:289/343 MP:153/153
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Balor
+2-Atropos
+3-Anzu
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Balor use
+1-Agidyne MP:14
+2-Titanomachia MP:30
+3-Mamudo MP:18
+4-Zandyne MP:14
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Balor
+1-Kei HP:703/760 MP:390/398
+2-Israfel HP:177/258 MP:251/251
+3-Scathach HP:289/343 MP:153/153
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ammut HP:709/709 MP:140/140
+2-Kazfiel HP:469/469 MP:211/211
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Balor
+1-Kei HP:703/760 MP:390/398
+2-Israfel HP:177/258 MP:251/251
+3-Scathach HP:289/343 MP:153/153
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ammut HP:709/709 MP:140/140
+2-Kazfiel HP:469/469 MP:211/211
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Balor use
+1-Agidyne MP:14
+2-Titanomachia MP:30
+3-Mamudo MP:18
+4-Zandyne MP:14
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Balor
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -1684,14 +1447,684 @@ INPUT: 4
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:607/613
-B-Knocker HP:126/126 MP:55/55
-C-Hachiman HP:664/851 MP:158/170
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:371/413
+B-Anzu HP:596/596 MP:118/118
+C-Atropos HP:277/277 MP:269/269
+D-Balor HP:436/492 MP:98/98
+Equipo de Kei (J2)
+A-Kei HP:703/760 MP:390/398
+B-Israfel HP:177/258 MP:251/251
+C-Scathach HP:289/343 MP:153/153
 D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:883/1317 MP:597/625
-B-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Atropos
+2-Anzu
+3-Itsuki
+4-Balor
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ammut HP:709/709 MP:140/140
+2-Kazfiel HP:469/469 MP:211/211
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Atropos
+1-Kei HP:703/760 MP:390/398
+2-Israfel HP:177/258 MP:251/251
+3-Scathach HP:289/343 MP:153/153
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ammut HP:709/709 MP:140/140
+2-Kazfiel HP:469/469 MP:211/211
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:371/413
+B-Anzu HP:596/596 MP:118/118
+C-Ammut HP:709/709 MP:140/140
+D-Balor HP:436/492 MP:98/98
+Equipo de Kei (J2)
+A-Kei HP:703/760 MP:390/398
+B-Israfel HP:177/258 MP:251/251
+C-Scathach HP:289/343 MP:153/153
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Itsuki
+3-Balor
+4-Ammut
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Anzu use
+1-Zionga MP:8
+2-Nihil Claw MP:11
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Kei HP:703/760 MP:390/398
+2-Israfel HP:177/258 MP:251/251
+3-Scathach HP:289/343 MP:153/153
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Anzu lanza electricidad a Scathach
+Scathach es débil contra el ataque de Anzu
+Scathach recibe 126 de daño
+Scathach termina con HP:163/343
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:371/413
+B-Anzu HP:596/596 MP:110/118
+C-Ammut HP:709/709 MP:140/140
+D-Balor HP:436/492 MP:98/98
+Equipo de Kei (J2)
+A-Kei HP:703/760 MP:390/398
+B-Israfel HP:177/258 MP:251/251
+C-Scathach HP:163/343 MP:153/153
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Balor
+3-Ammut
+4-Anzu
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Kei HP:703/760 MP:390/398
+2-Israfel HP:177/258 MP:251/251
+3-Scathach HP:163/343 MP:153/153
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki ataca a Scathach
+Scathach recibe 45 de daño
+Scathach termina con HP:118/343
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:371/413
+B-Anzu HP:596/596 MP:110/118
+C-Ammut HP:709/709 MP:140/140
+D-Balor HP:436/492 MP:98/98
+Equipo de Kei (J2)
+A-Kei HP:703/760 MP:390/398
+B-Israfel HP:177/258 MP:251/251
+C-Scathach HP:118/343 MP:153/153
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Balor
+2-Ammut
+3-Anzu
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Balor use
+1-Agidyne MP:14
+2-Titanomachia MP:30
+3-Mamudo MP:18
+4-Zandyne MP:14
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Balor
+1-Kei HP:703/760 MP:390/398
+2-Israfel HP:177/258 MP:251/251
+3-Scathach HP:118/343 MP:153/153
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:371/413
+B-Anzu HP:596/596 MP:110/118
+C-Ammut HP:709/709 MP:140/140
+D-Balor HP:436/492 MP:98/98
+Equipo de Kei (J2)
+A-Kei HP:703/760 MP:390/398
+B-Israfel HP:177/258 MP:251/251
+C-Scathach HP:118/343 MP:153/153
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ammut
+2-Anzu
+3-Itsuki
+4-Balor
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Kei HP:703/760 MP:390/398
+2-Israfel HP:177/258 MP:251/251
+3-Scathach HP:118/343 MP:153/153
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Kei
+Kei es resistente el ataque de Ammut
+Kei recibe 27 de daño
+Kei termina con HP:676/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:371/413
+B-Anzu HP:596/596 MP:110/118
+C-Ammut HP:709/709 MP:140/140
+D-Balor HP:436/492 MP:98/98
+Equipo de Kei (J2)
+A-Kei HP:676/760 MP:390/398
+B-Israfel HP:177/258 MP:251/251
+C-Scathach HP:118/343 MP:153/153
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Scathach
+2-Israfel
+3-Kei
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Scathach
+1-Itsuki HP:1136/1136 MP:371/413
+2-Anzu HP:596/596 MP:110/118
+3-Ammut HP:709/709 MP:140/140
+4-Balor HP:436/492 MP:98/98
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Scathach ataca a Ammut
+Ammut recibe 27 de daño
+Ammut termina con HP:682/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:371/413
+B-Anzu HP:596/596 MP:110/118
+C-Ammut HP:682/709 MP:140/140
+D-Balor HP:436/492 MP:98/98
+Equipo de Kei (J2)
+A-Kei HP:676/760 MP:390/398
+B-Israfel HP:177/258 MP:251/251
+C-Scathach HP:118/343 MP:153/153
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Israfel
+2-Kei
+3-Scathach
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Israfel use
+1-Mabufula MP:20
+2-Hamaon MP:10
+3-Panic Voice MP:15
+4-Diarahan MP:16
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Kei HP:676/760 MP:390/398
+2-Israfel HP:177/258 MP:251/251
+3-Scathach HP:118/343 MP:153/153
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Israfel cura a Kei
+Kei recibe 760 de HP
+Kei termina con HP:760/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:371/413
+B-Anzu HP:596/596 MP:110/118
+C-Ammut HP:682/709 MP:140/140
+D-Balor HP:436/492 MP:98/98
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:390/398
+B-Israfel HP:177/258 MP:235/251
+C-Scathach HP:118/343 MP:153/153
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Scathach
+3-Israfel
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:371/413
+B-Anzu HP:596/596 MP:110/118
+C-Ammut HP:682/709 MP:140/140
+D-Balor HP:436/492 MP:98/98
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:390/398
+B-Israfel HP:177/258 MP:235/251
+C-Scathach HP:118/343 MP:153/153
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Scathach
+2-Israfel
+3-Kei
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:371/413
+B-Anzu HP:596/596 MP:110/118
+C-Ammut HP:682/709 MP:140/140
+D-Balor HP:436/492 MP:98/98
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:390/398
+B-Israfel HP:177/258 MP:235/251
+C-Scathach HP:118/343 MP:153/153
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Itsuki
+3-Anzu
+4-Balor
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ammut use
+1-Megaton Press MP:17
+2-War Cry MP:45
+3-Nihil Claw MP:11
+4-Energy Drain MP:10
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ammut use
+1-Megaton Press MP:17
+2-War Cry MP:45
+3-Nihil Claw MP:11
+4-Energy Drain MP:10
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Kei HP:760/760 MP:390/398
+2-Israfel HP:177/258 MP:235/251
+3-Scathach HP:118/343 MP:153/153
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ammut use
+1-Megaton Press MP:17
+2-War Cry MP:45
+3-Nihil Claw MP:11
+4-Energy Drain MP:10
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Kei HP:760/760 MP:390/398
+2-Israfel HP:177/258 MP:235/251
+3-Scathach HP:118/343 MP:153/153
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Ammut ataca a Scathach
+Scathach recibe 142 de daño
+Ammut ataca a Scathach
+Scathach recibe 142 de daño
+Scathach termina con HP:0/343
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:371/413
+B-Anzu HP:596/596 MP:110/118
+C-Ammut HP:682/709 MP:129/140
+D-Balor HP:436/492 MP:98/98
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:390/398
+B-Israfel HP:177/258 MP:235/251
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Anzu
+3-Balor
+4-Ammut
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Kei HP:760/760 MP:390/398
+2-Israfel HP:177/258 MP:235/251
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Atropos HP:277/277 MP:269/269
+2-Kazfiel HP:469/469 MP:211/211
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Kei HP:760/760 MP:390/398
+2-Israfel HP:177/258 MP:235/251
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki dispara a Israfel
+Israfel recibe 61 de daño
+Israfel termina con HP:116/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:371/413
+B-Anzu HP:596/596 MP:110/118
+C-Ammut HP:682/709 MP:129/140
+D-Balor HP:436/492 MP:98/98
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:390/398
+B-Israfel HP:116/258 MP:235/251
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Balor
+3-Ammut
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Atropos HP:277/277 MP:269/269
+2-Kazfiel HP:469/469 MP:211/211
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kazfiel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:371/413
+B-Kazfiel HP:469/469 MP:211/211
+C-Ammut HP:682/709 MP:129/140
+D-Balor HP:436/492 MP:98/98
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:390/398
+B-Israfel HP:116/258 MP:235/251
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Balor
+2-Ammut
+3-Itsuki
+4-Kazfiel
+----------------------------------------
+Seleccione una acción para Balor
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:371/413
+B-Kazfiel HP:469/469 MP:211/211
+C-Ammut HP:682/709 MP:129/140
+D-Balor HP:436/492 MP:98/98
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:390/398
+B-Israfel HP:116/258 MP:235/251
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Itsuki
+3-Kazfiel
+4-Balor
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Atropos HP:277/277 MP:269/269
+2-Anzu HP:596/596 MP:110/118
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Atropos ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:371/413
+B-Kazfiel HP:469/469 MP:211/211
+C-Atropos HP:277/277 MP:269/269
+D-Balor HP:436/492 MP:98/98
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:390/398
+B-Israfel HP:116/258 MP:235/251
 C-
 D-
 ----------------------------------------
@@ -1699,99 +2132,48 @@ Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Aleph
-2-Hachiman
-3-Knocker
+1-Itsuki
+2-Kazfiel
+3-Balor
+4-Atropos
 ----------------------------------------
-Seleccione una acción para Aleph
+Seleccione una acción para Itsuki
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 2
+INPUT: 4
 ----------------------------------------
-Seleccione un objetivo para Aleph
-1-Shujinko HP:883/1317 MP:597/625
-2-Cancelar
-INPUT: 2
+Seleccione un monstruo para invocar
+1-Ammut HP:682/709 MP:129/140
+2-Anzu HP:596/596 MP:110/118
+3-Cancelar
+INPUT: 1
 ----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
+Seleccione una posición para invocar
+1-Kazfiel HP:469/469 MP:211/211 (Puesto 2)
+2-Atropos HP:277/277 MP:269/269 (Puesto 3)
+3-Balor HP:436/492 MP:98/98 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Ammut ha sido invocado
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Shujinko (J2)
+Ronda de Kei (J2)
 ----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:607/613
-B-Knocker HP:126/126 MP:55/55
-C-Hachiman HP:664/851 MP:158/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:883/1317 MP:597/625
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shujinko
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Shujinko use
-1-Berserker God MP:12
-2-Bufula MP:8
-3-Zandyne MP:14
-4-Fatal Sword MP:8
-5-Oni-Kagura MP:9
-6-Needle Shot MP:4
-7-Zionga MP:8
-8-Cancelar
-INPUT: 6
-----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Aleph HP:1309/1309 MP:607/613
-2-Knocker HP:126/126 MP:55/55
-3-Hachiman HP:664/851 MP:158/170
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Shujinko dispara a Knocker
-Knocker recibe 136 de daño
-Knocker termina con HP:0/126
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Aleph (J1)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:607/613
-B-
-C-Hachiman HP:664/851 MP:158/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:883/1317 MP:593/625
-B-
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:371/413
+B-Kazfiel HP:469/469 MP:211/211
+C-Atropos HP:277/277 MP:269/269
+D-Ammut HP:682/709 MP:129/140
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:390/398
+B-Israfel HP:116/258 MP:235/251
 C-
 D-
 ----------------------------------------
@@ -1799,29 +2181,27 @@ Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Aleph
-2-Hachiman
+1-Israfel
+2-Kei
 ----------------------------------------
-Seleccione una acción para Aleph
+Seleccione una acción para Israfel
 1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:607/613
-B-
-C-Hachiman HP:664/851 MP:158/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:883/1317 MP:593/625
-B-
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:371/413
+B-Kazfiel HP:469/469 MP:211/211
+C-Atropos HP:277/277 MP:269/269
+D-Ammut HP:682/709 MP:129/140
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:390/398
+B-Israfel HP:116/258 MP:235/251
 C-
 D-
 ----------------------------------------
@@ -1829,159 +2209,10 @@ Full Turns: 1
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Hachiman
-2-Aleph
+1-Kei
+2-Israfel
 ----------------------------------------
-Seleccione una acción para Hachiman
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:607/613
-B-
-C-Hachiman HP:664/851 MP:158/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:883/1317 MP:593/625
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Hachiman
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Aleph use
-1-Lunge MP:6
-2-Mortal Jihad MP:13
-3-Agidyne MP:14
-4-Oni-Kagura MP:9
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Shujinko HP:883/1317 MP:593/625
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Aleph dispara a Shujinko
-Shujinko es resistente el ataque de Aleph
-Shujinko recibe 138 de daño
-Shujinko termina con HP:745/1317
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Shujinko (J2)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:607/613
-B-
-C-Hachiman HP:664/851 MP:158/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:745/1317 MP:593/625
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shujinko
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Shujinko use
-1-Berserker God MP:12
-2-Bufula MP:8
-3-Zandyne MP:14
-4-Fatal Sword MP:8
-5-Oni-Kagura MP:9
-6-Needle Shot MP:4
-7-Zionga MP:8
-8-Cancelar
-INPUT: 8
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Aleph HP:1309/1309 MP:607/613
-2-Hachiman HP:664/851 MP:158/170
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Shujinko ataca a Aleph
-Aleph es resistente el ataque de Shujinko
-Aleph recibe 93 de daño
-Aleph termina con HP:1216/1309
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Aleph (J1)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1216/1309 MP:607/613
-B-
-C-Hachiman HP:664/851 MP:158/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:745/1317 MP:593/625
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Hachiman
-----------------------------------------
-Seleccione una acción para Aleph
+Seleccione una acción para Kei
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -1991,46 +2222,469 @@ Seleccione una acción para Aleph
 INPUT: 4
 ----------------------------------------
 Seleccione un monstruo para invocar
-1-Magatsuhi HP:851/851 MP:156/170
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Magatsuhi HP:851/851 MP:156/170
+1-Ometeotl HP:324/324 MP:315/315
 2-Cancelar
 INPUT: 1
 ----------------------------------------
 Seleccione una posición para invocar
-1-Vacío (Puesto 2)
-2-Hachiman HP:664/851 MP:158/170 (Puesto 3)
+1-Israfel HP:116/258 MP:235/251 (Puesto 2)
+2-Vacío (Puesto 3)
 3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Ometeotl ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:371/413
+B-Kazfiel HP:469/469 MP:211/211
+C-Atropos HP:277/277 MP:269/269
+D-Ammut HP:682/709 MP:129/140
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:390/398
+B-Ometeotl HP:324/324 MP:315/315
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Kei
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Israfel HP:116/258 MP:235/251
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:371/413
+B-Kazfiel HP:469/469 MP:211/211
+C-Atropos HP:277/277 MP:269/269
+D-Ammut HP:682/709 MP:129/140
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:390/398
+B-Ometeotl HP:324/324 MP:315/315
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Ometeotl
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Gram Slice MP:5
+2-Mortal Jihad MP:13
+3-Axel Claw MP:15
+4-Bufula MP:8
+5-Deadly Wind MP:22
+6-Damascus Claw MP:7
+7-Bufu MP:5
+8-Agilao MP:8
+9-Cancelar
+INPUT: 7
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Itsuki HP:1136/1136 MP:371/413
+2-Kazfiel HP:469/469 MP:211/211
+3-Atropos HP:277/277 MP:269/269
+4-Ammut HP:682/709 MP:129/140
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kei lanza hielo a Kazfiel
+Kazfiel bloquea el ataque de Kei
+Kazfiel termina con HP:469/469
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:371/413
+B-Kazfiel HP:469/469 MP:211/211
+C-Atropos HP:277/277 MP:269/269
+D-Ammut HP:682/709 MP:129/140
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:385/398
+B-Ometeotl HP:324/324 MP:315/315
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Ammut
+3-Itsuki
+4-Atropos
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Kei HP:760/760 MP:385/398
+2-Ometeotl HP:324/324 MP:315/315
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:371/413
+B-Kazfiel HP:469/469 MP:211/211
+C-Atropos HP:277/277 MP:269/269
+D-Ammut HP:682/709 MP:129/140
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:385/398
+B-Ometeotl HP:324/324 MP:315/315
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ammut
+2-Itsuki
+3-Atropos
+4-Kazfiel
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ammut use
+1-Megaton Press MP:17
+2-War Cry MP:45
+3-Nihil Claw MP:11
+4-Energy Drain MP:10
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ammut use
+1-Megaton Press MP:17
+2-War Cry MP:45
+3-Nihil Claw MP:11
+4-Energy Drain MP:10
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ammut use
+1-Megaton Press MP:17
+2-War Cry MP:45
+3-Nihil Claw MP:11
+4-Energy Drain MP:10
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Kei HP:760/760 MP:385/398
+2-Ometeotl HP:324/324 MP:315/315
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Kei
+Kei es resistente el ataque de Ammut
+Kei recibe 71 de daño
+Ammut ataca a Kei
+Kei es resistente el ataque de Ammut
+Kei recibe 71 de daño
+Ammut ataca a Kei
+Kei es resistente el ataque de Ammut
+Kei recibe 71 de daño
+Kei termina con HP:547/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:371/413
+B-Kazfiel HP:469/469 MP:211/211
+C-Atropos HP:277/277 MP:269/269
+D-Ammut HP:682/709 MP:118/140
+Equipo de Kei (J2)
+A-Kei HP:547/760 MP:385/398
+B-Ometeotl HP:324/324 MP:315/315
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Atropos
+3-Kazfiel
+4-Ammut
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Kei HP:547/760 MP:385/398
+2-Ometeotl HP:324/324 MP:315/315
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Kei
+Kei es resistente el ataque de Itsuki
+Kei recibe 22 de daño
+Kei termina con HP:525/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:371/413
+B-Kazfiel HP:469/469 MP:211/211
+C-Atropos HP:277/277 MP:269/269
+D-Ammut HP:682/709 MP:118/140
+Equipo de Kei (J2)
+A-Kei HP:525/760 MP:385/398
+B-Ometeotl HP:324/324 MP:315/315
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Atropos
+2-Kazfiel
+3-Ammut
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Anzu HP:596/596 MP:110/118
+2-Balor HP:436/492 MP:98/98
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Anzu HP:596/596 MP:110/118
+2-Balor HP:436/492 MP:98/98
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Anzu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:371/413
+B-Kazfiel HP:469/469 MP:211/211
+C-Anzu HP:596/596 MP:110/118
+D-Ammut HP:682/709 MP:118/140
+Equipo de Kei (J2)
+A-Kei HP:525/760 MP:385/398
+B-Ometeotl HP:324/324 MP:315/315
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Ammut
+3-Itsuki
+4-Anzu
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kazfiel use
+1-Javelin Rain MP:21
+2-Charge MP:9
+3-Zandyne MP:14
 4-Cancelar
 INPUT: 4
 ----------------------------------------
-Seleccione una acción para Aleph
+Seleccione una acción para Kazfiel
 1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Magatsuhi HP:851/851 MP:156/170
-2-Cancelar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
 INPUT: 2
 ----------------------------------------
-Seleccione una acción para Aleph
+Seleccione una habilidad para que Kazfiel use
+1-Javelin Rain MP:21
+2-Charge MP:9
+3-Zandyne MP:14
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Kei HP:525/760 MP:385/398
+2-Ometeotl HP:324/324 MP:315/315
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kazfiel use
+1-Javelin Rain MP:21
+2-Charge MP:9
+3-Zandyne MP:14
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:371/413
+B-Kazfiel HP:469/469 MP:211/211
+C-Anzu HP:596/596 MP:110/118
+D-Ammut HP:682/709 MP:118/140
+Equipo de Kei (J2)
+A-Kei HP:525/760 MP:385/398
+B-Ometeotl HP:324/324 MP:315/315
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Itsuki
+3-Anzu
+4-Kazfiel
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:371/413
+B-Kazfiel HP:469/469 MP:211/211
+C-Anzu HP:596/596 MP:110/118
+D-Ammut HP:682/709 MP:118/140
+Equipo de Kei (J2)
+A-Kei HP:525/760 MP:385/398
+B-Ometeotl HP:324/324 MP:315/315
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Anzu
+3-Kazfiel
+4-Ammut
+----------------------------------------
+Seleccione una acción para Itsuki
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -2039,17 +2693,47 @@ Seleccione una acción para Aleph
 6: Rendirse
 INPUT: 5
 ----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:371/413
+B-Kazfiel HP:469/469 MP:211/211
+C-Anzu HP:596/596 MP:110/118
+D-Ammut HP:682/709 MP:118/140
+Equipo de Kei (J2)
+A-Kei HP:525/760 MP:385/398
+B-Ometeotl HP:324/324 MP:315/315
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Kei
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1216/1309 MP:607/613
-B-
-C-Hachiman HP:664/851 MP:158/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:745/1317 MP:593/625
-B-
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:371/413
+B-Kazfiel HP:469/469 MP:211/211
+C-Anzu HP:596/596 MP:110/118
+D-Ammut HP:682/709 MP:118/140
+Equipo de Kei (J2)
+A-Kei HP:525/760 MP:385/398
+B-Ometeotl HP:324/324 MP:315/315
 C-
 D-
 ----------------------------------------
@@ -2057,84 +2741,41 @@ Full Turns: 1
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Hachiman
-2-Aleph
+1-Kei
+2-Ometeotl
 ----------------------------------------
-Seleccione una acción para Hachiman
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Magatsuhi HP:851/851 MP:156/170
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Magatsuhi ha sido invocado
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1216/1309 MP:607/613
-B-
-C-Magatsuhi HP:851/851 MP:156/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:745/1317 MP:593/625
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Magatsuhi
-----------------------------------------
-Seleccione una acción para Aleph
+Seleccione una acción para Kei
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 3
+INPUT: 1
 ----------------------------------------
-Seleccione una habilidad para que Aleph use
-1-Lunge MP:6
-2-Mortal Jihad MP:13
-3-Agidyne MP:14
-4-Oni-Kagura MP:9
+Seleccione un objetivo para Kei
+1-Itsuki HP:1136/1136 MP:371/413
+2-Kazfiel HP:469/469 MP:211/211
+3-Anzu HP:596/596 MP:110/118
+4-Ammut HP:682/709 MP:118/140
 5-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Aleph
-1-Shujinko HP:745/1317 MP:593/625
-2-Cancelar
-INPUT: 1
+Kei ataca a Itsuki
+Itsuki recibe 19 de daño
+Itsuki termina con HP:1117/1136
 ----------------------------------------
-Aleph ataca a Shujinko
-Shujinko es resistente el ataque de Aleph
-Shujinko recibe 75 de daño
-Shujinko termina con HP:670/1317
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Shujinko (J2)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1216/1309 MP:601/613
-B-
-C-Magatsuhi HP:851/851 MP:156/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:670/1317 MP:593/625
-B-
+Equipo de Itsuki (J1)
+A-Itsuki HP:1117/1136 MP:371/413
+B-Kazfiel HP:469/469 MP:211/211
+C-Anzu HP:596/596 MP:110/118
+D-Ammut HP:682/709 MP:118/140
+Equipo de Kei (J2)
+A-Kei HP:525/760 MP:385/398
+B-Ometeotl HP:324/324 MP:315/315
 C-
 D-
 ----------------------------------------
@@ -2142,41 +2783,61 @@ Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Shujinko
+1-Ometeotl
+2-Kei
 ----------------------------------------
-Seleccione una acción para Shujinko
+Seleccione una acción para Ometeotl
 1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
 ----------------------------------------
 Seleccione un monstruo para invocar
-1-Cancelar
+1-Israfel HP:116/258 MP:235/251
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
 INPUT: 1
 ----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
+Seleccione un objetivo para Ometeotl
+1-Itsuki HP:1117/1136 MP:371/413
+2-Kazfiel HP:469/469 MP:211/211
+3-Anzu HP:596/596 MP:110/118
+4-Ammut HP:682/709 MP:118/140
+5-Cancelar
 INPUT: 5
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Israfel HP:116/258 MP:235/251
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Israfel ha sido invocado
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1216/1309 MP:601/613
-B-
-C-Magatsuhi HP:851/851 MP:156/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:670/1317 MP:593/625
-B-
+Equipo de Itsuki (J1)
+A-Itsuki HP:1117/1136 MP:371/413
+B-Kazfiel HP:469/469 MP:211/211
+C-Anzu HP:596/596 MP:110/118
+D-Ammut HP:682/709 MP:118/140
+Equipo de Kei (J2)
+A-Kei HP:525/760 MP:385/398
+B-Israfel HP:116/258 MP:235/251
 C-
 D-
 ----------------------------------------
@@ -2184,24 +2845,10 @@ Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Shujinko
+1-Kei
+2-Israfel
 ----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Aleph HP:1216/1309 MP:601/613
-2-Magatsuhi HP:851/851 MP:156/170
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Shujinko
+Seleccione una acción para Kei
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -2211,10 +2858,734 @@ Seleccione una acción para Shujinko
 INPUT: 4
 ----------------------------------------
 Seleccione un monstruo para invocar
-1-Cancelar
+1-Ometeotl HP:324/324 MP:315/315
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
 INPUT: 1
 ----------------------------------------
-Seleccione una acción para Shujinko
+Seleccione un objetivo para Kei
+1-Itsuki HP:1117/1136 MP:371/413
+2-Kazfiel HP:469/469 MP:211/211
+3-Anzu HP:596/596 MP:110/118
+4-Ammut HP:682/709 MP:118/140
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kei ataca a Kazfiel
+Kazfiel recibe 19 de daño
+Kazfiel termina con HP:450/469
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1117/1136 MP:371/413
+B-Kazfiel HP:450/469 MP:211/211
+C-Anzu HP:596/596 MP:110/118
+D-Ammut HP:682/709 MP:118/140
+Equipo de Kei (J2)
+A-Kei HP:525/760 MP:385/398
+B-Israfel HP:116/258 MP:235/251
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Ammut
+3-Itsuki
+4-Anzu
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1117/1136 MP:371/413
+B-Kazfiel HP:450/469 MP:211/211
+C-Anzu HP:596/596 MP:110/118
+D-Ammut HP:682/709 MP:118/140
+Equipo de Kei (J2)
+A-Kei HP:525/760 MP:385/398
+B-Israfel HP:116/258 MP:235/251
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ammut
+2-Itsuki
+3-Anzu
+4-Kazfiel
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1117/1136 MP:371/413
+B-Kazfiel HP:450/469 MP:211/211
+C-Anzu HP:596/596 MP:110/118
+D-Ammut HP:682/709 MP:118/140
+Equipo de Kei (J2)
+A-Kei HP:525/760 MP:385/398
+B-Israfel HP:116/258 MP:235/251
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Anzu
+3-Kazfiel
+4-Ammut
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Kei HP:525/760 MP:385/398
+2-Israfel HP:116/258 MP:235/251
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Kei
+Kei es resistente el ataque de Itsuki
+Kei recibe 22 de daño
+Kei termina con HP:503/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1117/1136 MP:371/413
+B-Kazfiel HP:450/469 MP:211/211
+C-Anzu HP:596/596 MP:110/118
+D-Ammut HP:682/709 MP:118/140
+Equipo de Kei (J2)
+A-Kei HP:503/760 MP:385/398
+B-Israfel HP:116/258 MP:235/251
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Kazfiel
+3-Ammut
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1117/1136 MP:371/413
+B-Kazfiel HP:450/469 MP:211/211
+C-Anzu HP:596/596 MP:110/118
+D-Ammut HP:682/709 MP:118/140
+Equipo de Kei (J2)
+A-Kei HP:503/760 MP:385/398
+B-Israfel HP:116/258 MP:235/251
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Ammut
+3-Itsuki
+4-Anzu
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Atropos HP:277/277 MP:269/269
+2-Balor HP:436/492 MP:98/98
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kazfiel use
+1-Javelin Rain MP:21
+2-Charge MP:9
+3-Zandyne MP:14
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1117/1136 MP:371/413
+B-Kazfiel HP:450/469 MP:211/211
+C-Anzu HP:596/596 MP:110/118
+D-Ammut HP:682/709 MP:118/140
+Equipo de Kei (J2)
+A-Kei HP:503/760 MP:385/398
+B-Israfel HP:116/258 MP:235/251
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Itsuki
+3-Anzu
+4-Kazfiel
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Atropos HP:277/277 MP:269/269
+2-Balor HP:436/492 MP:98/98
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Kei HP:503/760 MP:385/398
+2-Israfel HP:116/258 MP:235/251
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Kei
+Kei es resistente el ataque de Ammut
+Kei recibe 27 de daño
+Kei termina con HP:476/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1117/1136 MP:371/413
+B-Kazfiel HP:450/469 MP:211/211
+C-Anzu HP:596/596 MP:110/118
+D-Ammut HP:682/709 MP:118/140
+Equipo de Kei (J2)
+A-Kei HP:476/760 MP:385/398
+B-Israfel HP:116/258 MP:235/251
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Israfel
+2-Kei
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ometeotl HP:324/324 MP:315/315
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Itsuki HP:1117/1136 MP:371/413
+2-Kazfiel HP:450/469 MP:211/211
+3-Anzu HP:596/596 MP:110/118
+4-Ammut HP:682/709 MP:118/140
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Israfel ataca a Ammut
+Ammut recibe 27 de daño
+Ammut termina con HP:655/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1117/1136 MP:371/413
+B-Kazfiel HP:450/469 MP:211/211
+C-Anzu HP:596/596 MP:110/118
+D-Ammut HP:655/709 MP:118/140
+Equipo de Kei (J2)
+A-Kei HP:476/760 MP:385/398
+B-Israfel HP:116/258 MP:235/251
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Israfel
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ometeotl HP:324/324 MP:315/315
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Itsuki HP:1117/1136 MP:371/413
+2-Kazfiel HP:450/469 MP:211/211
+3-Anzu HP:596/596 MP:110/118
+4-Ammut HP:655/709 MP:118/140
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kei ataca a Kazfiel
+Kazfiel recibe 19 de daño
+Kazfiel termina con HP:431/469
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1117/1136 MP:371/413
+B-Kazfiel HP:431/469 MP:211/211
+C-Anzu HP:596/596 MP:110/118
+D-Ammut HP:655/709 MP:118/140
+Equipo de Kei (J2)
+A-Kei HP:476/760 MP:385/398
+B-Israfel HP:116/258 MP:235/251
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Ammut
+3-Itsuki
+4-Anzu
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Kei HP:476/760 MP:385/398
+2-Israfel HP:116/258 MP:235/251
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Kei HP:476/760 MP:385/398
+2-Israfel HP:116/258 MP:235/251
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1117/1136 MP:371/413
+B-Kazfiel HP:431/469 MP:211/211
+C-Anzu HP:596/596 MP:110/118
+D-Ammut HP:655/709 MP:118/140
+Equipo de Kei (J2)
+A-Kei HP:476/760 MP:385/398
+B-Israfel HP:116/258 MP:235/251
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ammut
+2-Itsuki
+3-Anzu
+4-Kazfiel
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1117/1136 MP:371/413
+B-Kazfiel HP:431/469 MP:211/211
+C-Anzu HP:596/596 MP:110/118
+D-Ammut HP:655/709 MP:118/140
+Equipo de Kei (J2)
+A-Kei HP:476/760 MP:385/398
+B-Israfel HP:116/258 MP:235/251
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Anzu
+3-Kazfiel
+4-Ammut
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Kei HP:476/760 MP:385/398
+2-Israfel HP:116/258 MP:235/251
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki dispara a Israfel
+Israfel recibe 61 de daño
+Israfel termina con HP:55/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1117/1136 MP:371/413
+B-Kazfiel HP:431/469 MP:211/211
+C-Anzu HP:596/596 MP:110/118
+D-Ammut HP:655/709 MP:118/140
+Equipo de Kei (J2)
+A-Kei HP:476/760 MP:385/398
+B-Israfel HP:55/258 MP:235/251
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Kazfiel
+3-Ammut
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Atropos HP:277/277 MP:269/269
+2-Balor HP:436/492 MP:98/98
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Atropos HP:277/277 MP:269/269
+2-Balor HP:436/492 MP:98/98
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Atropos ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1117/1136 MP:371/413
+B-Kazfiel HP:431/469 MP:211/211
+C-Atropos HP:277/277 MP:269/269
+D-Ammut HP:655/709 MP:118/140
+Equipo de Kei (J2)
+A-Kei HP:476/760 MP:385/398
+B-Israfel HP:55/258 MP:235/251
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Ammut
+3-Itsuki
+4-Atropos
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kazfiel use
+1-Javelin Rain MP:21
+2-Charge MP:9
+3-Zandyne MP:14
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Kei HP:476/760 MP:385/398
+2-Israfel HP:55/258 MP:235/251
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kazfiel lanza viento a Kei
+Kei es resistente el ataque de Kazfiel
+Kei recibe 54 de daño
+Kei termina con HP:422/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1117/1136 MP:371/413
+B-Kazfiel HP:431/469 MP:197/211
+C-Atropos HP:277/277 MP:269/269
+D-Ammut HP:655/709 MP:118/140
+Equipo de Kei (J2)
+A-Kei HP:422/760 MP:385/398
+B-Israfel HP:55/258 MP:235/251
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Itsuki
+3-Atropos
+4-Kazfiel
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ammut use
+1-Megaton Press MP:17
+2-War Cry MP:45
+3-Nihil Claw MP:11
+4-Energy Drain MP:10
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Kei HP:422/760 MP:385/398
+2-Israfel HP:55/258 MP:235/251
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Kei
+Kei es resistente el ataque de Ammut
+Kei recibe 71 de daño
+Ammut ataca a Kei
+Kei es resistente el ataque de Ammut
+Kei recibe 71 de daño
+Kei termina con HP:280/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1117/1136 MP:371/413
+B-Kazfiel HP:431/469 MP:197/211
+C-Atropos HP:277/277 MP:269/269
+D-Ammut HP:655/709 MP:107/140
+Equipo de Kei (J2)
+A-Kei HP:280/760 MP:385/398
+B-Israfel HP:55/258 MP:235/251
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Israfel
+2-Kei
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1117/1136 MP:371/413
+B-Kazfiel HP:431/469 MP:197/211
+C-Atropos HP:277/277 MP:269/269
+D-Ammut HP:655/709 MP:107/140
+Equipo de Kei (J2)
+A-Kei HP:280/760 MP:385/398
+B-Israfel HP:55/258 MP:235/251
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Israfel
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ometeotl HP:324/324 MP:315/315
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kei
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -2226,15 +3597,607 @@ INPUT: 5
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Aleph (J1)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1216/1309 MP:601/613
-B-
-C-Magatsuhi HP:851/851 MP:156/170
+Equipo de Itsuki (J1)
+A-Itsuki HP:1117/1136 MP:371/413
+B-Kazfiel HP:431/469 MP:197/211
+C-Atropos HP:277/277 MP:269/269
+D-Ammut HP:655/709 MP:107/140
+Equipo de Kei (J2)
+A-Kei HP:280/760 MP:385/398
+B-Israfel HP:55/258 MP:235/251
+C-
 D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:670/1317 MP:593/625
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Israfel
+2-Kei
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Itsuki HP:1117/1136 MP:371/413
+2-Kazfiel HP:431/469 MP:197/211
+3-Atropos HP:277/277 MP:269/269
+4-Ammut HP:655/709 MP:107/140
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1117/1136 MP:371/413
+B-Kazfiel HP:431/469 MP:197/211
+C-Atropos HP:277/277 MP:269/269
+D-Ammut HP:655/709 MP:107/140
+Equipo de Kei (J2)
+A-Kei HP:280/760 MP:385/398
+B-Israfel HP:55/258 MP:235/251
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Israfel
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Itsuki HP:1117/1136 MP:371/413
+2-Kazfiel HP:431/469 MP:197/211
+3-Atropos HP:277/277 MP:269/269
+4-Ammut HP:655/709 MP:107/140
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kei ataca a Itsuki
+Itsuki recibe 19 de daño
+Itsuki termina con HP:1098/1136
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1098/1136 MP:371/413
+B-Kazfiel HP:431/469 MP:197/211
+C-Atropos HP:277/277 MP:269/269
+D-Ammut HP:655/709 MP:107/140
+Equipo de Kei (J2)
+A-Kei HP:280/760 MP:385/398
+B-Israfel HP:55/258 MP:235/251
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Ammut
+3-Itsuki
+4-Atropos
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Kei HP:280/760 MP:385/398
+2-Israfel HP:55/258 MP:235/251
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kazfiel ataca a Kei
+Kei es resistente el ataque de Kazfiel
+Kei recibe 19 de daño
+Kei termina con HP:261/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1098/1136 MP:371/413
+B-Kazfiel HP:431/469 MP:197/211
+C-Atropos HP:277/277 MP:269/269
+D-Ammut HP:655/709 MP:107/140
+Equipo de Kei (J2)
+A-Kei HP:261/760 MP:385/398
+B-Israfel HP:55/258 MP:235/251
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Itsuki
+3-Atropos
+4-Kazfiel
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Kei HP:261/760 MP:385/398
+2-Israfel HP:55/258 MP:235/251
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Kei
+Kei es resistente el ataque de Ammut
+Kei recibe 27 de daño
+Kei termina con HP:234/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1098/1136 MP:371/413
+B-Kazfiel HP:431/469 MP:197/211
+C-Atropos HP:277/277 MP:269/269
+D-Ammut HP:655/709 MP:107/140
+Equipo de Kei (J2)
+A-Kei HP:234/760 MP:385/398
+B-Israfel HP:55/258 MP:235/251
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Atropos
+3-Kazfiel
+4-Ammut
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1098/1136 MP:371/413
+B-Kazfiel HP:431/469 MP:197/211
+C-Atropos HP:277/277 MP:269/269
+D-Ammut HP:655/709 MP:107/140
+Equipo de Kei (J2)
+A-Kei HP:234/760 MP:385/398
+B-Israfel HP:55/258 MP:235/251
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Atropos
+2-Kazfiel
+3-Ammut
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Atropos
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Anzu HP:596/596 MP:110/118
+2-Balor HP:436/492 MP:98/98
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Anzu ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1098/1136 MP:371/413
+B-Kazfiel HP:431/469 MP:197/211
+C-Anzu HP:596/596 MP:110/118
+D-Ammut HP:655/709 MP:107/140
+Equipo de Kei (J2)
+A-Kei HP:234/760 MP:385/398
+B-Israfel HP:55/258 MP:235/251
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Ammut
+3-Itsuki
+4-Anzu
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kazfiel use
+1-Javelin Rain MP:21
+2-Charge MP:9
+3-Zandyne MP:14
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Kei HP:234/760 MP:385/398
+2-Israfel HP:55/258 MP:235/251
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kazfiel use
+1-Javelin Rain MP:21
+2-Charge MP:9
+3-Zandyne MP:14
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Atropos HP:277/277 MP:269/269
+2-Balor HP:436/492 MP:98/98
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Balor ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1098/1136 MP:371/413
+B-Balor HP:436/492 MP:98/98
+C-Anzu HP:596/596 MP:110/118
+D-Ammut HP:655/709 MP:107/140
+Equipo de Kei (J2)
+A-Kei HP:234/760 MP:385/398
+B-Israfel HP:55/258 MP:235/251
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ammut
+2-Itsuki
+3-Anzu
+4-Balor
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ammut use
+1-Megaton Press MP:17
+2-War Cry MP:45
+3-Nihil Claw MP:11
+4-Energy Drain MP:10
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Kei HP:234/760 MP:385/398
+2-Israfel HP:55/258 MP:235/251
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Ammut ataca a Israfel
+Israfel recibe 54 de daño
+Israfel termina con HP:1/258
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1098/1136 MP:371/413
+B-Balor HP:436/492 MP:98/98
+C-Anzu HP:596/596 MP:110/118
+D-Ammut HP:655/709 MP:107/140
+Equipo de Kei (J2)
+A-Kei HP:234/760 MP:385/398
+B-Israfel HP:1/258 MP:235/251
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Israfel
+2-Kei
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Israfel use
+1-Mabufula MP:20
+2-Hamaon MP:10
+3-Panic Voice MP:15
+4-Diarahan MP:16
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Itsuki HP:1098/1136 MP:371/413
+2-Balor HP:436/492 MP:98/98
+3-Anzu HP:596/596 MP:110/118
+4-Ammut HP:655/709 MP:107/140
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Israfel ataca a Anzu
+Anzu recibe 27 de daño
+Anzu termina con HP:569/596
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1098/1136 MP:371/413
+B-Balor HP:436/492 MP:98/98
+C-Anzu HP:569/596 MP:110/118
+D-Ammut HP:655/709 MP:107/140
+Equipo de Kei (J2)
+A-Kei HP:234/760 MP:385/398
+B-Israfel HP:1/258 MP:235/251
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Israfel
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Itsuki HP:1098/1136 MP:371/413
+2-Balor HP:436/492 MP:98/98
+3-Anzu HP:569/596 MP:110/118
+4-Ammut HP:655/709 MP:107/140
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1098/1136 MP:371/413
+B-Balor HP:436/492 MP:98/98
+C-Anzu HP:569/596 MP:110/118
+D-Ammut HP:655/709 MP:107/140
+Equipo de Kei (J2)
+A-Kei HP:234/760 MP:385/398
+B-Israfel HP:1/258 MP:235/251
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Israfel
+2-Kei
+----------------------------------------
+Seleccione una acción para Israfel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Israfel
+1-Itsuki HP:1098/1136 MP:371/413
+2-Balor HP:436/492 MP:98/98
+3-Anzu HP:569/596 MP:110/118
+4-Ammut HP:655/709 MP:107/140
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Israfel ataca a Ammut
+Ammut recibe 27 de daño
+Ammut termina con HP:628/709
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1098/1136 MP:371/413
+B-Balor HP:436/492 MP:98/98
+C-Anzu HP:569/596 MP:110/118
+D-Ammut HP:628/709 MP:107/140
+Equipo de Kei (J2)
+A-Kei HP:234/760 MP:385/398
+B-Israfel HP:1/258 MP:235/251
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Itsuki
+3-Anzu
+4-Balor
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Kei HP:234/760 MP:385/398
+2-Israfel HP:1/258 MP:235/251
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Ammut ataca a Israfel
+Israfel recibe 54 de daño
+Israfel termina con HP:0/258
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1098/1136 MP:371/413
+B-Balor HP:436/492 MP:98/98
+C-Anzu HP:569/596 MP:110/118
+D-Ammut HP:628/709 MP:107/140
+Equipo de Kei (J2)
+A-Kei HP:234/760 MP:385/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Anzu
+3-Balor
+4-Ammut
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Kei HP:234/760 MP:385/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Kei
+Kei es resistente el ataque de Itsuki
+Kei recibe 30 de daño
+Kei termina con HP:204/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1098/1136 MP:371/413
+B-Balor HP:436/492 MP:98/98
+C-Anzu HP:569/596 MP:110/118
+D-Ammut HP:628/709 MP:107/140
+Equipo de Kei (J2)
+A-Kei HP:204/760 MP:385/398
 B-
 C-
 D-
@@ -2243,28 +4206,36 @@ Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Aleph
-2-Magatsuhi
+1-Anzu
+2-Balor
+3-Ammut
+4-Itsuki
 ----------------------------------------
-Seleccione una acción para Aleph
+Seleccione una acción para Anzu
 1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Atropos HP:277/277 MP:269/269
+2-Kazfiel HP:431/469 MP:197/211
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kazfiel ha sido invocado
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1216/1309 MP:601/613
-B-
-C-Magatsuhi HP:851/851 MP:156/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:670/1317 MP:593/625
+Equipo de Itsuki (J1)
+A-Itsuki HP:1098/1136 MP:371/413
+B-Balor HP:436/492 MP:98/98
+C-Kazfiel HP:431/469 MP:197/211
+D-Ammut HP:628/709 MP:107/140
+Equipo de Kei (J2)
+A-Kei HP:204/760 MP:385/398
 B-
 C-
 D-
@@ -2273,36 +4244,38 @@ Full Turns: 1
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Magatsuhi
-2-Aleph
+1-Balor
+2-Ammut
+3-Itsuki
+4-Kazfiel
 ----------------------------------------
-Seleccione una acción para Magatsuhi
+Seleccione una acción para Balor
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Magatsuhi
-1-Shujinko HP:670/1317 MP:593/625
+Seleccione un objetivo para Balor
+1-Kei HP:204/760 MP:385/398
 2-Cancelar
 INPUT: 1
 ----------------------------------------
-Magatsuhi ataca a Shujinko
-Shujinko es resistente el ataque de Magatsuhi
-Shujinko recibe 32 de daño
-Shujinko termina con HP:638/1317
+Balor ataca a Kei
+Kei es resistente el ataque de Balor
+Kei recibe 18 de daño
+Kei termina con HP:186/760
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1216/1309 MP:601/613
-B-
-C-Magatsuhi HP:851/851 MP:156/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:638/1317 MP:593/625
+Equipo de Itsuki (J1)
+A-Itsuki HP:1098/1136 MP:371/413
+B-Balor HP:436/492 MP:98/98
+C-Kazfiel HP:431/469 MP:197/211
+D-Ammut HP:628/709 MP:107/140
+Equipo de Kei (J2)
+A-Kei HP:186/760 MP:385/398
 B-
 C-
 D-
@@ -2311,28 +4284,36 @@ Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Aleph
-2-Magatsuhi
+1-Ammut
+2-Itsuki
+3-Kazfiel
+4-Balor
 ----------------------------------------
-Seleccione una acción para Aleph
+Seleccione una acción para Ammut
 1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Atropos HP:277/277 MP:269/269
+2-Anzu HP:569/596 MP:110/118
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Atropos ha sido invocado
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1216/1309 MP:601/613
-B-
-C-Magatsuhi HP:851/851 MP:156/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:638/1317 MP:593/625
+Equipo de Itsuki (J1)
+A-Itsuki HP:1098/1136 MP:371/413
+B-Balor HP:436/492 MP:98/98
+C-Kazfiel HP:431/469 MP:197/211
+D-Atropos HP:277/277 MP:269/269
+Equipo de Kei (J2)
+A-Kei HP:186/760 MP:385/398
 B-
 C-
 D-
@@ -2341,71 +4322,42 @@ Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Magatsuhi
-2-Aleph
+1-Itsuki
+2-Kazfiel
+3-Balor
+4-Atropos
 ----------------------------------------
-Seleccione una acción para Magatsuhi
+Seleccione una acción para Itsuki
 1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
 INPUT: 2
 ----------------------------------------
-Seleccione una habilidad para que Magatsuhi use
-1-Acid Breath MP:45
-2-Shivering Taboo MP:40
-3-Poison Breath MP:11
-4-Bufudyne MP:14
-5-Death's Door MP:10
-6-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione un objetivo para Magatsuhi
-1-Shujinko HP:638/1317 MP:593/625
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Magatsuhi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Magatsuhi
-1-Shujinko HP:638/1317 MP:593/625
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Magatsuhi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Magatsuhi
-1-Shujinko HP:638/1317 MP:593/625
+Seleccione un objetivo para Itsuki
+1-Kei HP:186/760 MP:385/398
 2-Cancelar
 INPUT: 1
 ----------------------------------------
-Magatsuhi ataca a Shujinko
-Shujinko es resistente el ataque de Magatsuhi
-Shujinko recibe 32 de daño
-Shujinko termina con HP:606/1317
+Itsuki dispara a Kei
+Kei es resistente el ataque de Itsuki
+Kei recibe 30 de daño
+Kei termina con HP:156/760
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Shujinko (J2)
+Ronda de Kei (J2)
 ----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1216/1309 MP:601/613
-B-
-C-Magatsuhi HP:851/851 MP:156/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:606/1317 MP:593/625
+Equipo de Itsuki (J1)
+A-Itsuki HP:1098/1136 MP:371/413
+B-Balor HP:436/492 MP:98/98
+C-Kazfiel HP:431/469 MP:197/211
+D-Atropos HP:277/277 MP:269/269
+Equipo de Kei (J2)
+A-Kei HP:156/760 MP:385/398
 B-
 C-
 D-
@@ -2414,9 +4366,9 @@ Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Shujinko
+1-Kei
 ----------------------------------------
-Seleccione una acción para Shujinko
+Seleccione una acción para Kei
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -2425,69 +4377,103 @@ Seleccione una acción para Shujinko
 6: Rendirse
 INPUT: 2
 ----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Aleph HP:1216/1309 MP:601/613
-2-Magatsuhi HP:851/851 MP:156/170
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
+Seleccione un objetivo para Kei
+1-Itsuki HP:1098/1136 MP:371/413
+2-Balor HP:436/492 MP:98/98
+3-Kazfiel HP:431/469 MP:197/211
+4-Atropos HP:277/277 MP:269/269
+5-Cancelar
 INPUT: 2
 ----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Aleph HP:1216/1309 MP:601/613
-2-Magatsuhi HP:851/851 MP:156/170
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Shujinko dispara a Magatsuhi
-Magatsuhi recibe 228 de daño
-Magatsuhi termina con HP:623/851
+Kei dispara a Balor
+Balor recibe 15 de daño
+Balor termina con HP:421/492
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Aleph (J1)
+Ronda de Itsuki (J1)
 ----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1216/1309 MP:601/613
-B-
-C-Magatsuhi HP:623/851 MP:156/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:606/1317 MP:593/625
+Equipo de Itsuki (J1)
+A-Itsuki HP:1098/1136 MP:371/413
+B-Balor HP:421/492 MP:98/98
+C-Kazfiel HP:431/469 MP:197/211
+D-Atropos HP:277/277 MP:269/269
+Equipo de Kei (J2)
+A-Kei HP:156/760 MP:385/398
 B-
 C-
 D-
 ----------------------------------------
-Full Turns: 2
+Full Turns: 4
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Aleph
-2-Magatsuhi
+1-Kazfiel
+2-Itsuki
+3-Balor
+4-Atropos
 ----------------------------------------
-Seleccione una acción para Aleph
+Seleccione una acción para Kazfiel
 1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
 ----------------------------------------
-Seleccione un monstruo para invocar
-1-Hachiman HP:664/851 MP:158/170
+Seleccione un objetivo para Kazfiel
+1-Kei HP:156/760 MP:385/398
 2-Cancelar
 INPUT: 2
 ----------------------------------------
-Seleccione una acción para Aleph
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kazfiel use
+1-Javelin Rain MP:21
+2-Charge MP:9
+3-Zandyne MP:14
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Kei HP:156/760 MP:385/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kazfiel lanza viento a Kei
+Kei es resistente el ataque de Kazfiel
+Kei recibe 54 de daño
+Kei termina con HP:102/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1098/1136 MP:371/413
+B-Balor HP:421/492 MP:98/98
+C-Kazfiel HP:431/469 MP:183/211
+D-Atropos HP:277/277 MP:269/269
+Equipo de Kei (J2)
+A-Kei HP:102/760 MP:385/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Balor
+3-Atropos
+4-Kazfiel
+----------------------------------------
+Seleccione una acción para Itsuki
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -2497,42 +4483,44 @@ Seleccione una acción para Aleph
 INPUT: 4
 ----------------------------------------
 Seleccione un monstruo para invocar
-1-Hachiman HP:664/851 MP:158/170
-2-Cancelar
+1-Ammut HP:628/709 MP:107/140
+2-Anzu HP:569/596 MP:110/118
+3-Cancelar
 INPUT: 1
 ----------------------------------------
 Seleccione una posición para invocar
-1-Vacío (Puesto 2)
-2-Magatsuhi HP:623/851 MP:156/170 (Puesto 3)
-3-Vacío (Puesto 4)
+1-Balor HP:421/492 MP:98/98 (Puesto 2)
+2-Kazfiel HP:431/469 MP:183/211 (Puesto 3)
+3-Atropos HP:277/277 MP:269/269 (Puesto 4)
 4-Cancelar
 INPUT: 1
 ----------------------------------------
-Hachiman ha sido invocado
+Ammut ha sido invocado
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1216/1309 MP:601/613
-B-Hachiman HP:664/851 MP:158/170
-C-Magatsuhi HP:623/851 MP:156/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:606/1317 MP:593/625
+Equipo de Itsuki (J1)
+A-Itsuki HP:1098/1136 MP:371/413
+B-Ammut HP:628/709 MP:107/140
+C-Kazfiel HP:431/469 MP:183/211
+D-Atropos HP:277/277 MP:269/269
+Equipo de Kei (J2)
+A-Kei HP:102/760 MP:385/398
 B-
 C-
 D-
 ----------------------------------------
-Full Turns: 1
+Full Turns: 2
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Magatsuhi
-2-Hachiman
-3-Aleph
+1-Ammut
+2-Atropos
+3-Kazfiel
+4-Itsuki
 ----------------------------------------
-Seleccione una acción para Magatsuhi
+Seleccione una acción para Ammut
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -2542,183 +4530,13 @@ INPUT: 4
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1216/1309 MP:601/613
-B-Hachiman HP:664/851 MP:158/170
-C-Magatsuhi HP:623/851 MP:156/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:606/1317 MP:593/625
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Hachiman
-2-Aleph
-3-Magatsuhi
-----------------------------------------
-Seleccione una acción para Hachiman
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Hachiman
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Hachiman
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Hachiman
-1-Shujinko HP:606/1317 MP:593/625
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Hachiman ataca a Shujinko
-Shujinko es resistente el ataque de Hachiman
-Shujinko recibe 32 de daño
-Shujinko termina con HP:574/1317
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Shujinko (J2)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1216/1309 MP:601/613
-B-Hachiman HP:664/851 MP:158/170
-C-Magatsuhi HP:623/851 MP:156/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:574/1317 MP:593/625
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shujinko
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Shujinko use
-1-Berserker God MP:12
-2-Bufula MP:8
-3-Zandyne MP:14
-4-Fatal Sword MP:8
-5-Oni-Kagura MP:9
-6-Needle Shot MP:4
-7-Zionga MP:8
-8-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Aleph HP:1216/1309 MP:601/613
-2-Hachiman HP:664/851 MP:158/170
-3-Magatsuhi HP:623/851 MP:156/170
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Shujinko ataca a Hachiman
-Hachiman recibe 220 de daño
-Hachiman termina con HP:444/851
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Aleph (J1)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1216/1309 MP:601/613
-B-Hachiman HP:444/851 MP:158/170
-C-Magatsuhi HP:623/851 MP:156/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:574/1317 MP:585/625
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Magatsuhi
-3-Hachiman
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Shujinko HP:574/1317 MP:585/625
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Aleph dispara a Shujinko
-Shujinko es resistente el ataque de Aleph
-Shujinko recibe 138 de daño
-Shujinko termina con HP:436/1317
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1216/1309 MP:601/613
-B-Hachiman HP:444/851 MP:158/170
-C-Magatsuhi HP:623/851 MP:156/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:436/1317 MP:585/625
+Equipo de Itsuki (J1)
+A-Itsuki HP:1098/1136 MP:371/413
+B-Ammut HP:628/709 MP:107/140
+C-Kazfiel HP:431/469 MP:183/211
+D-Atropos HP:277/277 MP:269/269
+Equipo de Kei (J2)
+A-Kei HP:102/760 MP:385/398
 B-
 C-
 D-
@@ -2727,50 +4545,12 @@ Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Magatsuhi
-2-Hachiman
-3-Aleph
+1-Atropos
+2-Kazfiel
+3-Itsuki
+4-Ammut
 ----------------------------------------
-Seleccione una acción para Magatsuhi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Magatsuhi
-1-Shujinko HP:436/1317 MP:585/625
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Magatsuhi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Magatsuhi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Magatsuhi use
-1-Acid Breath MP:45
-2-Shivering Taboo MP:40
-3-Poison Breath MP:11
-4-Bufudyne MP:14
-5-Death's Door MP:10
-6-Cancelar
-INPUT: 6
-----------------------------------------
-Seleccione una acción para Magatsuhi
+Seleccione una acción para Atropos
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -2780,13 +4560,13 @@ INPUT: 4
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1216/1309 MP:601/613
-B-Hachiman HP:444/851 MP:158/170
-C-Magatsuhi HP:623/851 MP:156/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:436/1317 MP:585/625
+Equipo de Itsuki (J1)
+A-Itsuki HP:1098/1136 MP:371/413
+B-Ammut HP:628/709 MP:107/140
+C-Kazfiel HP:431/469 MP:183/211
+D-Atropos HP:277/277 MP:269/269
+Equipo de Kei (J2)
+A-Kei HP:102/760 MP:385/398
 B-
 C-
 D-
@@ -2795,59 +4575,99 @@ Full Turns: 1
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Hachiman
-2-Aleph
-3-Magatsuhi
+1-Kazfiel
+2-Itsuki
+3-Ammut
+4-Atropos
 ----------------------------------------
-Seleccione una acción para Hachiman
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Hachiman
+Seleccione una acción para Kazfiel
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Hachiman
-1-Shujinko HP:436/1317 MP:585/625
+Seleccione un objetivo para Kazfiel
+1-Kei HP:102/760 MP:385/398
 2-Cancelar
-INPUT: 2
+INPUT: 1
 ----------------------------------------
-Seleccione una acción para Hachiman
+Kazfiel ataca a Kei
+Kei es resistente el ataque de Kazfiel
+Kei recibe 19 de daño
+Kei termina con HP:83/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1098/1136 MP:371/413
+B-Ammut HP:628/709 MP:107/140
+C-Kazfiel HP:431/469 MP:183/211
+D-Atropos HP:277/277 MP:269/269
+Equipo de Kei (J2)
+A-Kei HP:83/760 MP:385/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Ammut
+3-Atropos
+4-Kazfiel
+----------------------------------------
+Seleccione una acción para Itsuki
 1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Hachiman use
-1-Maziodyne MP:32
-2-Tetrakarn MP:50
-3-Berserker God MP:12
-4-Cancelar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
 INPUT: 4
 ----------------------------------------
-Seleccione una acción para Hachiman
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
 Seleccione un monstruo para invocar
-1-Cancelar
+1-Anzu HP:569/596 MP:110/118
+2-Balor HP:421/492 MP:98/98
+3-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione una acción para Hachiman
+Seleccione una posición para invocar
+1-Ammut HP:628/709 MP:107/140 (Puesto 2)
+2-Kazfiel HP:431/469 MP:183/211 (Puesto 3)
+3-Atropos HP:277/277 MP:269/269 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Anzu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1098/1136 MP:371/413
+B-Ammut HP:628/709 MP:107/140
+C-Kazfiel HP:431/469 MP:183/211
+D-Anzu HP:569/596 MP:110/118
+Equipo de Kei (J2)
+A-Kei HP:83/760 MP:385/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ammut
+2-Anzu
+3-Kazfiel
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Ammut
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -2857,13 +4677,15 @@ INPUT: 4
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1216/1309 MP:601/613
-B-Hachiman HP:444/851 MP:158/170
-C-Magatsuhi HP:623/851 MP:156/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:436/1317 MP:585/625
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1098/1136 MP:371/413
+B-Ammut HP:628/709 MP:107/140
+C-Kazfiel HP:431/469 MP:183/211
+D-Anzu HP:569/596 MP:110/118
+Equipo de Kei (J2)
+A-Kei HP:83/760 MP:385/398
 B-
 C-
 D-
@@ -2872,11 +4694,9 @@ Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Aleph
-2-Magatsuhi
-3-Hachiman
+1-Kei
 ----------------------------------------
-Seleccione una acción para Aleph
+Seleccione una acción para Kei
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -2885,513 +4705,115 @@ Seleccione una acción para Aleph
 6: Rendirse
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Aleph
-1-Shujinko HP:436/1317 MP:585/625
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Shujinko HP:436/1317 MP:585/625
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Aleph dispara a Shujinko
-Shujinko es resistente el ataque de Aleph
-Shujinko recibe 138 de daño
-Shujinko termina con HP:298/1317
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Shujinko (J2)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1216/1309 MP:601/613
-B-Hachiman HP:444/851 MP:158/170
-C-Magatsuhi HP:623/851 MP:156/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:298/1317 MP:585/625
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shujinko
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Aleph HP:1216/1309 MP:601/613
-2-Hachiman HP:444/851 MP:158/170
-3-Magatsuhi HP:623/851 MP:156/170
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Shujinko use
-1-Berserker God MP:12
-2-Bufula MP:8
-3-Zandyne MP:14
-4-Fatal Sword MP:8
-5-Oni-Kagura MP:9
-6-Needle Shot MP:4
-7-Zionga MP:8
-8-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Aleph HP:1216/1309 MP:601/613
-2-Hachiman HP:444/851 MP:158/170
-3-Magatsuhi HP:623/851 MP:156/170
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Shujinko lanza viento a Magatsuhi
-Magatsuhi recibe 129 de daño
-Magatsuhi termina con HP:494/851
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Aleph (J1)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1216/1309 MP:601/613
-B-Hachiman HP:444/851 MP:158/170
-C-Magatsuhi HP:494/851 MP:156/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:298/1317 MP:571/625
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Hachiman
-3-Magatsuhi
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Aleph use
-1-Lunge MP:6
-2-Mortal Jihad MP:13
-3-Agidyne MP:14
-4-Oni-Kagura MP:9
+Seleccione un objetivo para Kei
+1-Itsuki HP:1098/1136 MP:371/413
+2-Ammut HP:628/709 MP:107/140
+3-Kazfiel HP:431/469 MP:183/211
+4-Anzu HP:569/596 MP:110/118
 5-Cancelar
-INPUT: 2
+INPUT: 4
 ----------------------------------------
-Seleccione un objetivo para Aleph
-1-Shujinko HP:298/1317 MP:571/625
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Shujinko HP:298/1317 MP:571/625
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Aleph dispara a Shujinko
-Shujinko es resistente el ataque de Aleph
-Shujinko recibe 138 de daño
-Shujinko termina con HP:160/1317
+Kei ataca a Anzu
+Anzu recibe 19 de daño
+Anzu termina con HP:550/596
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1216/1309 MP:601/613
-B-Hachiman HP:444/851 MP:158/170
-C-Magatsuhi HP:494/851 MP:156/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:160/1317 MP:571/625
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1098/1136 MP:371/413
+B-Ammut HP:628/709 MP:107/140
+C-Kazfiel HP:431/469 MP:183/211
+D-Anzu HP:550/596 MP:110/118
+Equipo de Kei (J2)
+A-Kei HP:83/760 MP:385/398
 B-
 C-
 D-
 ----------------------------------------
-Full Turns: 2
+Full Turns: 4
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Hachiman
-2-Magatsuhi
-3-Aleph
+1-Kazfiel
+2-Ammut
+3-Itsuki
+4-Anzu
 ----------------------------------------
-Seleccione una acción para Hachiman
+Seleccione una acción para Kazfiel
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Hachiman
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Hachiman use
-1-Maziodyne MP:32
-2-Tetrakarn MP:50
-3-Berserker God MP:12
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Hachiman
-1-Shujinko HP:160/1317 MP:571/625
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Hachiman
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Hachiman
-1-Shujinko HP:160/1317 MP:571/625
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Hachiman
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Hachiman use
-1-Maziodyne MP:32
-2-Tetrakarn MP:50
-3-Berserker God MP:12
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Hachiman
-1-Shujinko HP:160/1317 MP:571/625
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Hachiman
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Hachiman
-1-Shujinko HP:160/1317 MP:571/625
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Hachiman
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Hachiman use
-1-Maziodyne MP:32
-2-Tetrakarn MP:50
-3-Berserker God MP:12
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Hachiman
-1-Shujinko HP:160/1317 MP:571/625
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Hachiman
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Hachiman use
-1-Maziodyne MP:32
-2-Tetrakarn MP:50
-3-Berserker God MP:12
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Hachiman
-1-Shujinko HP:160/1317 MP:571/625
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Hachiman
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Hachiman use
-1-Maziodyne MP:32
-2-Tetrakarn MP:50
-3-Berserker God MP:12
-4-Cancelar
 INPUT: 4
 ----------------------------------------
-Seleccione una acción para Hachiman
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Hachiman
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Hachiman
-1-Shujinko HP:160/1317 MP:571/625
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Hachiman ataca a Shujinko
-Shujinko es resistente el ataque de Hachiman
-Shujinko recibe 32 de daño
-Shujinko termina con HP:128/1317
-----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1216/1309 MP:601/613
-B-Hachiman HP:444/851 MP:158/170
-C-Magatsuhi HP:494/851 MP:156/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:128/1317 MP:571/625
+Equipo de Itsuki (J1)
+A-Itsuki HP:1098/1136 MP:371/413
+B-Ammut HP:628/709 MP:107/140
+C-Kazfiel HP:431/469 MP:183/211
+D-Anzu HP:550/596 MP:110/118
+Equipo de Kei (J2)
+A-Kei HP:83/760 MP:385/398
 B-
 C-
 D-
 ----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
+Full Turns: 3
+Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Magatsuhi
-2-Aleph
-3-Hachiman
+1-Ammut
+2-Itsuki
+3-Anzu
+4-Kazfiel
 ----------------------------------------
-Seleccione una acción para Magatsuhi
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ammut use
+1-Megaton Press MP:17
+2-War Cry MP:45
+3-Nihil Claw MP:11
+4-Energy Drain MP:10
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ammut
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Magatsuhi
-1-Shujinko HP:128/1317 MP:571/625
+Seleccione un objetivo para Ammut
+1-Kei HP:83/760 MP:385/398
 2-Cancelar
 INPUT: 1
 ----------------------------------------
-Magatsuhi ataca a Shujinko
-Shujinko es resistente el ataque de Magatsuhi
-Shujinko recibe 32 de daño
-Shujinko termina con HP:96/1317
+Ammut ataca a Kei
+Kei es resistente el ataque de Ammut
+Kei recibe 27 de daño
+Kei termina con HP:56/760
 ----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Shujinko (J2)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1216/1309 MP:601/613
-B-Hachiman HP:444/851 MP:158/170
-C-Magatsuhi HP:494/851 MP:156/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:96/1317 MP:571/625
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shujinko
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Aleph HP:1216/1309 MP:601/613
-2-Hachiman HP:444/851 MP:158/170
-3-Magatsuhi HP:494/851 MP:156/170
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Aleph HP:1216/1309 MP:601/613
-2-Hachiman HP:444/851 MP:158/170
-3-Magatsuhi HP:494/851 MP:156/170
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Shujinko dispara a Magatsuhi
-Magatsuhi recibe 228 de daño
-Magatsuhi termina con HP:266/851
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Aleph (J1)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1216/1309 MP:601/613
-B-Hachiman HP:444/851 MP:158/170
-C-Magatsuhi HP:266/851 MP:156/170
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:96/1317 MP:571/625
+Equipo de Itsuki (J1)
+A-Itsuki HP:1098/1136 MP:371/413
+B-Ammut HP:628/709 MP:107/140
+C-Kazfiel HP:431/469 MP:183/211
+D-Anzu HP:550/596 MP:110/118
+Equipo de Kei (J2)
+A-Kei HP:56/760 MP:385/398
 B-
 C-
 D-
@@ -3400,11 +4822,26 @@ Full Turns: 3
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Aleph
-2-Hachiman
-3-Magatsuhi
+1-Itsuki
+2-Anzu
+3-Kazfiel
+4-Ammut
 ----------------------------------------
-Seleccione una acción para Aleph
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Kei HP:56/760 MP:385/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -3413,45 +4850,358 @@ Seleccione una acción para Aleph
 6: Rendirse
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Aleph
-1-Shujinko HP:96/1317 MP:571/625
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Shujinko HP:96/1317 MP:571/625
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Shujinko HP:96/1317 MP:571/625
+Seleccione un objetivo para Itsuki
+1-Kei HP:56/760 MP:385/398
 2-Cancelar
 INPUT: 1
 ----------------------------------------
-Aleph dispara a Shujinko
-Shujinko es resistente el ataque de Aleph
-Shujinko recibe 138 de daño
-Shujinko termina con HP:0/1317
+Itsuki ataca a Kei
+Kei es resistente el ataque de Itsuki
+Kei recibe 22 de daño
+Kei termina con HP:34/760
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ganador: Aleph (J1)
+Equipo de Itsuki (J1)
+A-Itsuki HP:1098/1136 MP:371/413
+B-Ammut HP:628/709 MP:107/140
+C-Kazfiel HP:431/469 MP:183/211
+D-Anzu HP:550/596 MP:110/118
+Equipo de Kei (J2)
+A-Kei HP:34/760 MP:385/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Kazfiel
+3-Ammut
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1098/1136 MP:371/413
+B-Ammut HP:628/709 MP:107/140
+C-Kazfiel HP:431/469 MP:183/211
+D-Anzu HP:550/596 MP:110/118
+Equipo de Kei (J2)
+A-Kei HP:34/760 MP:385/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Ammut
+3-Itsuki
+4-Anzu
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1098/1136 MP:371/413
+B-Ammut HP:628/709 MP:107/140
+C-Kazfiel HP:431/469 MP:183/211
+D-Anzu HP:550/596 MP:110/118
+Equipo de Kei (J2)
+A-Kei HP:34/760 MP:385/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Itsuki
+3-Anzu
+4-Kazfiel
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ammut use
+1-Megaton Press MP:17
+2-War Cry MP:45
+3-Nihil Claw MP:11
+4-Energy Drain MP:10
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Kei HP:34/760 MP:385/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ammut use
+1-Megaton Press MP:17
+2-War Cry MP:45
+3-Nihil Claw MP:11
+4-Energy Drain MP:10
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Atropos HP:277/277 MP:269/269
+2-Balor HP:421/492 MP:98/98
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ammut use
+1-Megaton Press MP:17
+2-War Cry MP:45
+3-Nihil Claw MP:11
+4-Energy Drain MP:10
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Atropos HP:277/277 MP:269/269
+2-Balor HP:421/492 MP:98/98
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Balor ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1098/1136 MP:371/413
+B-Balor HP:421/492 MP:98/98
+C-Kazfiel HP:431/469 MP:183/211
+D-Anzu HP:550/596 MP:110/118
+Equipo de Kei (J2)
+A-Kei HP:34/760 MP:385/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Anzu
+3-Kazfiel
+4-Balor
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Kei HP:34/760 MP:385/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Kei
+Kei es resistente el ataque de Itsuki
+Kei recibe 30 de daño
+Kei termina con HP:4/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1098/1136 MP:371/413
+B-Balor HP:421/492 MP:98/98
+C-Kazfiel HP:431/469 MP:183/211
+D-Anzu HP:550/596 MP:110/118
+Equipo de Kei (J2)
+A-Kei HP:4/760 MP:385/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1098/1136 MP:371/413
+B-Balor HP:421/492 MP:98/98
+C-Kazfiel HP:431/469 MP:183/211
+D-Anzu HP:550/596 MP:110/118
+Equipo de Kei (J2)
+A-Kei HP:4/760 MP:385/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Itsuki HP:1098/1136 MP:371/413
+2-Balor HP:421/492 MP:98/98
+3-Kazfiel HP:431/469 MP:183/211
+4-Anzu HP:550/596 MP:110/118
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Itsuki HP:1098/1136 MP:371/413
+2-Balor HP:421/492 MP:98/98
+3-Kazfiel HP:431/469 MP:183/211
+4-Anzu HP:550/596 MP:110/118
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kei ataca a Kazfiel
+Kazfiel recibe 19 de daño
+Kazfiel termina con HP:412/469
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1098/1136 MP:371/413
+B-Balor HP:421/492 MP:98/98
+C-Kazfiel HP:412/469 MP:183/211
+D-Anzu HP:550/596 MP:110/118
+Equipo de Kei (J2)
+A-Kei HP:4/760 MP:385/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Itsuki
+3-Anzu
+4-Balor
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kazfiel use
+1-Javelin Rain MP:21
+2-Charge MP:9
+3-Zandyne MP:14
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Kei HP:4/760 MP:385/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kazfiel lanza viento a Kei
+Kei es resistente el ataque de Kazfiel
+Kei recibe 54 de daño
+Kei termina con HP:0/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Itsuki (J1)

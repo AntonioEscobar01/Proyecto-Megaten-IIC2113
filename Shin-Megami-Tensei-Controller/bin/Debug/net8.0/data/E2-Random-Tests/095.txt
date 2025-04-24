@@ -227,7 +227,7 @@ Seleccione una acción para Makoto
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 1
+INPUT: 2
 ----------------------------------------
 Seleccione un objetivo para Makoto
 1-Kei HP:760/760 MP:398/398
@@ -237,9 +237,9 @@ Seleccione un objetivo para Makoto
 5-Cancelar
 INPUT: 4
 ----------------------------------------
-Makoto ataca a Kikuri-Hime
-Kikuri-Hime recibe 38 de daño
-Kikuri-Hime termina con HP:178/216
+Makoto dispara a Kikuri-Hime
+Kikuri-Hime recibe 57 de daño
+Kikuri-Hime termina con HP:159/216
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
@@ -255,7 +255,7 @@ Equipo de Kei (J2)
 A-Kei HP:760/760 MP:398/398
 B-Taown HP:709/709 MP:140/140
 C-Tam Lin HP:218/218 MP:43/43
-D-Kikuri-Hime HP:178/216 MP:210/210
+D-Kikuri-Hime HP:159/216 MP:210/210
 ----------------------------------------
 Full Turns: 4
 Blinking Turns: 0
@@ -295,7 +295,7 @@ Equipo de Kei (J2)
 A-Kei HP:760/760 MP:398/398
 B-Taown HP:709/709 MP:140/140
 C-Tam Lin HP:218/218 MP:43/43
-D-Kikuri-Hime HP:178/216 MP:210/210
+D-Kikuri-Hime HP:159/216 MP:210/210
 ----------------------------------------
 Full Turns: 3
 Blinking Turns: 0
@@ -311,13 +311,23 @@ Seleccione una acción para Kikuri-Hime
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 4
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kikuri-Hime
+1-Makoto HP:570/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kikuri-Hime ataca a Makoto
+Makoto es resistente el ataque de Kikuri-Hime
+Makoto recibe 11 de daño
+Makoto termina con HP:559/597
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
 Equipo de Makoto (J1)
-A-Makoto HP:570/597 MP:347/347
+A-Makoto HP:559/597 MP:347/347
 B-
 C-
 D-
@@ -325,10 +335,10 @@ Equipo de Kei (J2)
 A-Kei HP:760/760 MP:398/398
 B-Taown HP:709/709 MP:140/140
 C-Tam Lin HP:218/218 MP:43/43
-D-Kikuri-Hime HP:178/216 MP:210/210
+D-Kikuri-Hime HP:159/216 MP:210/210
 ----------------------------------------
 Full Turns: 2
-Blinking Turns: 1
+Blinking Turns: 0
 ----------------------------------------
 Orden:
 1-Kei
@@ -343,45 +353,24 @@ Seleccione una acción para Kei
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 3
+INPUT: 5
 ----------------------------------------
-Seleccione una habilidad para que Kei use
-1-Agidyne MP:14
-2-Zandyne MP:14
-3-Agi MP:5
-4-Samarecarm MP:40
-5-Tathlum Shot MP:7
-6-Bouncing Claw MP:4
-7-Damascus Claw MP:7
-8-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Kei
-1-Makoto HP:570/597 MP:347/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Kei lanza fuego a Makoto
-Makoto es resistente el ataque de Kei
-Makoto recibe 21 de daño
-Makoto termina con HP:549/597
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
 Equipo de Makoto (J1)
-A-Makoto HP:549/597 MP:347/347
+A-Makoto HP:559/597 MP:347/347
 B-
 C-
 D-
 Equipo de Kei (J2)
-A-Kei HP:760/760 MP:393/398
+A-Kei HP:760/760 MP:398/398
 B-Taown HP:709/709 MP:140/140
 C-Tam Lin HP:218/218 MP:43/43
-D-Kikuri-Hime HP:178/216 MP:210/210
+D-Kikuri-Hime HP:159/216 MP:210/210
 ----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
+Full Turns: 1
+Blinking Turns: 1
 ----------------------------------------
 Orden:
 1-Tam Lin
@@ -394,58 +383,24 @@ Seleccione una acción para Tam Lin
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Tam Lin
-1-Makoto HP:549/597 MP:347/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
 INPUT: 4
 ----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
 Equipo de Makoto (J1)
-A-Makoto HP:549/597 MP:347/347
+A-Makoto HP:559/597 MP:347/347
 B-
 C-
 D-
 Equipo de Kei (J2)
-A-Kei HP:760/760 MP:393/398
+A-Kei HP:760/760 MP:398/398
 B-Taown HP:709/709 MP:140/140
 C-Tam Lin HP:218/218 MP:43/43
-D-Kikuri-Hime HP:178/216 MP:210/210
+D-Kikuri-Hime HP:159/216 MP:210/210
 ----------------------------------------
 Full Turns: 1
-Blinking Turns: 1
+Blinking Turns: 0
 ----------------------------------------
 Orden:
 1-Taown
@@ -460,19 +415,348 @@ Seleccione una acción para Taown
 4: Pasar Turno
 INPUT: 4
 ----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
 Equipo de Makoto (J1)
-A-Makoto HP:549/597 MP:347/347
+A-Makoto HP:559/597 MP:347/347
 B-
 C-
 D-
 Equipo de Kei (J2)
-A-Kei HP:760/760 MP:393/398
+A-Kei HP:760/760 MP:398/398
 B-Taown HP:709/709 MP:140/140
 C-Tam Lin HP:218/218 MP:43/43
-D-Kikuri-Hime HP:178/216 MP:210/210
+D-Kikuri-Hime HP:159/216 MP:210/210
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kikuri-Hime
+2-Kei
+3-Tam Lin
+4-Taown
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kikuri-Hime use
+1-Tetraja MP:15
+2-Me Patra MP:15
+3-Diarama MP:9
+4-Recarm MP:20
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Kikuri-Hime
+1-Kei HP:760/760 MP:398/398
+2-Taown HP:709/709 MP:140/140
+3-Tam Lin HP:218/218 MP:43/43
+4-Kikuri-Hime HP:159/216 MP:210/210
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kikuri-Hime cura a Taown
+Taown recibe 354 de HP
+Taown termina con HP:709/709
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:559/597 MP:347/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Taown HP:709/709 MP:140/140
+C-Tam Lin HP:218/218 MP:43/43
+D-Kikuri-Hime HP:159/216 MP:201/210
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:559/597 MP:347/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Taown HP:709/709 MP:140/140
+C-Tam Lin HP:218/218 MP:43/43
+D-Kikuri-Hime HP:159/216 MP:201/210
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:559/597 MP:347/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Taown HP:709/709 MP:140/140
+C-Tam Lin HP:218/218 MP:43/43
+D-Kikuri-Hime HP:159/216 MP:201/210
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Kikuri-Hime
+3-Kei
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:559/597 MP:347/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Taown HP:709/709 MP:140/140
+C-Tam Lin HP:218/218 MP:43/43
+D-Kikuri-Hime HP:159/216 MP:201/210
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kikuri-Hime
+2-Kei
+3-Tam Lin
+4-Taown
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kikuri-Hime use
+1-Tetraja MP:15
+2-Me Patra MP:15
+3-Diarama MP:9
+4-Recarm MP:20
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Kikuri-Hime
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:559/597 MP:347/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Taown HP:709/709 MP:140/140
+C-Tam Lin HP:218/218 MP:43/43
+D-Kikuri-Hime HP:159/216 MP:201/210
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Tam Lin
+3-Taown
+4-Kikuri-Hime
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:559/597 MP:347/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Taown HP:709/709 MP:140/140
+C-Tam Lin HP:218/218 MP:43/43
+D-Kikuri-Hime HP:159/216 MP:201/210
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Taown
+3-Kikuri-Hime
+4-Kei
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tam Lin use
+1-Hama MP:6
+2-Gram Slice MP:5
+3-Maragi MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:559/597 MP:347/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Taown HP:709/709 MP:140/140
+C-Tam Lin HP:218/218 MP:43/43
+D-Kikuri-Hime HP:159/216 MP:201/210
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Kikuri-Hime
+3-Kei
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Makoto HP:559/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Taown ataca a Makoto
+Makoto es resistente el ataque de Taown
+Makoto recibe 27 de daño
+Makoto termina con HP:532/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:347/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Taown HP:709/709 MP:140/140
+C-Tam Lin HP:218/218 MP:43/43
+D-Kikuri-Hime HP:159/216 MP:201/210
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
@@ -510,196 +794,19 @@ Seleccione una acción para Kikuri-Hime
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:549/597 MP:347/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:393/398
-B-Taown HP:709/709 MP:140/140
-C-Tam Lin HP:218/218 MP:43/43
-D-Kikuri-Hime HP:178/216 MP:210/210
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Kei
-2-Tam Lin
-3-Taown
-4-Kikuri-Hime
-----------------------------------------
-Seleccione una acción para Kei
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Kei
-1-Makoto HP:549/597 MP:347/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Kei ataca a Makoto
-Makoto es resistente el ataque de Kei
-Makoto recibe 9 de daño
-Makoto termina con HP:540/597
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Makoto (J1)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:540/597 MP:347/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:393/398
-B-Taown HP:709/709 MP:140/140
-C-Tam Lin HP:218/218 MP:43/43
-D-Kikuri-Hime HP:178/216 MP:210/210
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Makoto
-----------------------------------------
-Seleccione una acción para Makoto
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Makoto
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Makoto
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Makoto use
-1-Bufu MP:5
-2-Stigma Attack MP:20
-3-Riot Gun MP:30
-4-Zionga MP:8
-5-Damascus Claw MP:7
-6-Deadly Wind MP:22
-7-Lunge MP:6
-8-Diarama MP:9
-9-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Makoto
-1-Kei HP:760/760 MP:393/398
-2-Taown HP:709/709 MP:140/140
-3-Tam Lin HP:218/218 MP:43/43
-4-Kikuri-Hime HP:178/216 MP:210/210
-5-Cancelar
 INPUT: 2
 ----------------------------------------
-Makoto lanza hielo a Taown
-Taown recibe 70 de daño
-Taown termina con HP:639/709
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Kei (J2)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:540/597 MP:342/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:393/398
-B-Taown HP:639/709 MP:140/140
-C-Tam Lin HP:218/218 MP:43/43
-D-Kikuri-Hime HP:178/216 MP:210/210
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Taown
-2-Kikuri-Hime
-3-Tam Lin
-4-Kei
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
+Seleccione una habilidad para que Kikuri-Hime use
+1-Tetraja MP:15
+2-Me Patra MP:15
+3-Diarama MP:9
+4-Recarm MP:20
+5-Cancelar
 INPUT: 4
 ----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:540/597 MP:342/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:393/398
-B-Taown HP:639/709 MP:140/140
-C-Tam Lin HP:218/218 MP:43/43
-D-Kikuri-Hime HP:178/216 MP:210/210
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Kikuri-Hime
-2-Tam Lin
-3-Kei
-4-Taown
+Seleccione un objetivo para Kikuri-Hime
+1-Cancelar
+INPUT: 1
 ----------------------------------------
 Seleccione una acción para Kikuri-Hime
 1: Atacar
@@ -721,6 +828,52 @@ Seleccione una acción para Kikuri-Hime
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kikuri-Hime
+1-Makoto HP:532/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kikuri-Hime
+1-Makoto HP:532/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
 INPUT: 2
 ----------------------------------------
 Seleccione una habilidad para que Kikuri-Hime use
@@ -740,138 +893,107 @@ Seleccione una acción para Kikuri-Hime
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
 INPUT: 1
 ----------------------------------------
 Seleccione un objetivo para Kikuri-Hime
-1-Makoto HP:540/597 MP:342/347
+1-Makoto HP:532/597 MP:347/347
 2-Cancelar
 INPUT: 1
 ----------------------------------------
 Kikuri-Hime ataca a Makoto
 Makoto es resistente el ataque de Kikuri-Hime
 Makoto recibe 11 de daño
-Makoto termina con HP:529/597
+Makoto termina con HP:521/597
 ----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
 Equipo de Makoto (J1)
-A-Makoto HP:529/597 MP:342/347
+A-Makoto HP:521/597 MP:347/347
 B-
 C-
 D-
 Equipo de Kei (J2)
-A-Kei HP:760/760 MP:393/398
-B-Taown HP:639/709 MP:140/140
+A-Kei HP:760/760 MP:398/398
+B-Taown HP:709/709 MP:140/140
 C-Tam Lin HP:218/218 MP:43/43
-D-Kikuri-Hime HP:178/216 MP:210/210
+D-Kikuri-Hime HP:159/216 MP:201/210
 ----------------------------------------
-Full Turns: 3
+Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Tam Lin
-2-Kei
-3-Taown
-4-Kikuri-Hime
+1-Makoto
 ----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:529/597 MP:342/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:393/398
-B-Taown HP:639/709 MP:140/140
-C-Tam Lin HP:218/218 MP:43/43
-D-Kikuri-Hime HP:178/216 MP:210/210
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Kei
-2-Taown
-3-Kikuri-Hime
-4-Tam Lin
-----------------------------------------
-Seleccione una acción para Kei
+Seleccione una acción para Makoto
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Kei
-1-Makoto HP:529/597 MP:342/347
-2-Cancelar
 INPUT: 2
 ----------------------------------------
-Seleccione una acción para Kei
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
+Seleccione un objetivo para Makoto
+1-Kei HP:760/760 MP:398/398
+2-Taown HP:709/709 MP:140/140
+3-Tam Lin HP:218/218 MP:43/43
+4-Kikuri-Hime HP:159/216 MP:201/210
+5-Cancelar
+INPUT: 4
 ----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Makoto dispara a Kikuri-Hime
+Kikuri-Hime recibe 57 de daño
+Kikuri-Hime termina con HP:102/216
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
 Equipo de Makoto (J1)
-A-Makoto HP:529/597 MP:342/347
+A-Makoto HP:521/597 MP:347/347
 B-
 C-
 D-
 Equipo de Kei (J2)
-A-Kei HP:760/760 MP:393/398
-B-Taown HP:639/709 MP:140/140
+A-Kei HP:760/760 MP:398/398
+B-Taown HP:709/709 MP:140/140
 C-Tam Lin HP:218/218 MP:43/43
-D-Kikuri-Hime HP:178/216 MP:210/210
+D-Kikuri-Hime HP:102/216 MP:201/210
 ----------------------------------------
-Full Turns: 2
+Full Turns: 4
 Blinking Turns: 0
 ----------------------------------------
 Orden:
 1-Taown
 2-Kikuri-Hime
-3-Tam Lin
-4-Kei
+3-Kei
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
 ----------------------------------------
 Seleccione una acción para Taown
 1: Atacar
@@ -881,59 +1003,37 @@ Seleccione una acción para Taown
 INPUT: 1
 ----------------------------------------
 Seleccione un objetivo para Taown
-1-Makoto HP:529/597 MP:342/347
+1-Makoto HP:521/597 MP:347/347
 2-Cancelar
 INPUT: 1
 ----------------------------------------
 Taown ataca a Makoto
 Makoto es resistente el ataque de Taown
 Makoto recibe 27 de daño
-Makoto termina con HP:502/597
+Makoto termina con HP:494/597
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
 Equipo de Makoto (J1)
-A-Makoto HP:502/597 MP:342/347
+A-Makoto HP:494/597 MP:347/347
 B-
 C-
 D-
 Equipo de Kei (J2)
-A-Kei HP:760/760 MP:393/398
-B-Taown HP:639/709 MP:140/140
+A-Kei HP:760/760 MP:398/398
+B-Taown HP:709/709 MP:140/140
 C-Tam Lin HP:218/218 MP:43/43
-D-Kikuri-Hime HP:178/216 MP:210/210
+D-Kikuri-Hime HP:102/216 MP:201/210
 ----------------------------------------
-Full Turns: 1
+Full Turns: 3
 Blinking Turns: 0
 ----------------------------------------
 Orden:
 1-Kikuri-Hime
-2-Tam Lin
-3-Kei
+2-Kei
+3-Tam Lin
 4-Taown
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
 ----------------------------------------
 Seleccione una acción para Kikuri-Hime
 1: Atacar
@@ -959,44 +1059,14 @@ Seleccione una acción para Kikuri-Hime
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:502/597 MP:342/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:393/398
-B-Taown HP:639/709 MP:140/140
-C-Tam Lin HP:218/218 MP:43/43
-D-Kikuri-Hime HP:178/216 MP:210/210
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Tam Lin
-2-Kei
-3-Taown
-4-Kikuri-Hime
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Tam Lin
-1-Makoto HP:502/597 MP:342/347
+Seleccione un objetivo para Kikuri-Hime
+1-Makoto HP:494/597 MP:347/347
 2-Cancelar
 INPUT: 2
 ----------------------------------------
-Seleccione una acción para Tam Lin
+Seleccione una acción para Kikuri-Hime
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -1006,269 +1076,6 @@ INPUT: 3
 Seleccione un monstruo para invocar
 1-Cancelar
 INPUT: 1
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Tam Lin
-1-Makoto HP:502/597 MP:342/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Tam Lin
-1-Makoto HP:502/597 MP:342/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Tam Lin use
-1-Hama MP:6
-2-Gram Slice MP:5
-3-Maragi MP:11
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Tam Lin use
-1-Hama MP:6
-2-Gram Slice MP:5
-3-Maragi MP:11
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Tam Lin
-1-Makoto HP:502/597 MP:342/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Tam Lin use
-1-Hama MP:6
-2-Gram Slice MP:5
-3-Maragi MP:11
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Tam Lin
-1-Makoto HP:502/597 MP:342/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Tam Lin ataca a Makoto
-Makoto es resistente el ataque de Tam Lin
-Makoto recibe 23 de daño
-Makoto termina con HP:479/597
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Makoto (J1)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:479/597 MP:342/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:393/398
-B-Taown HP:639/709 MP:140/140
-C-Tam Lin HP:218/218 MP:38/43
-D-Kikuri-Hime HP:178/216 MP:210/210
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Makoto
-----------------------------------------
-Seleccione una acción para Makoto
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Makoto
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Makoto use
-1-Bufu MP:5
-2-Stigma Attack MP:20
-3-Riot Gun MP:30
-4-Zionga MP:8
-5-Damascus Claw MP:7
-6-Deadly Wind MP:22
-7-Lunge MP:6
-8-Diarama MP:9
-9-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Makoto
-1-Kei HP:760/760 MP:393/398
-2-Taown HP:639/709 MP:140/140
-3-Tam Lin HP:218/218 MP:38/43
-4-Kikuri-Hime HP:178/216 MP:210/210
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Makoto lanza hielo a Tam Lin
-Tam Lin es débil contra el ataque de Makoto
-Tam Lin recibe 106 de daño
-Tam Lin termina con HP:112/218
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:479/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:393/398
-B-Taown HP:639/709 MP:140/140
-C-Tam Lin HP:112/218 MP:38/43
-D-Kikuri-Hime HP:178/216 MP:210/210
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Makoto
-----------------------------------------
-Seleccione una acción para Makoto
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Kei (J2)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:479/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:393/398
-B-Taown HP:639/709 MP:140/140
-C-Tam Lin HP:112/218 MP:38/43
-D-Kikuri-Hime HP:178/216 MP:210/210
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Taown
-2-Kikuri-Hime
-3-Kei
-4-Tam Lin
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:479/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:393/398
-B-Taown HP:639/709 MP:140/140
-C-Tam Lin HP:112/218 MP:38/43
-D-Kikuri-Hime HP:178/216 MP:210/210
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Kikuri-Hime
-2-Kei
-3-Tam Lin
-4-Taown
 ----------------------------------------
 Seleccione una acción para Kikuri-Hime
 1: Atacar
@@ -1277,22 +1084,22 @@ Seleccione una acción para Kikuri-Hime
 4: Pasar Turno
 INPUT: 4
 ----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
 Equipo de Makoto (J1)
-A-Makoto HP:479/597 MP:337/347
+A-Makoto HP:494/597 MP:347/347
 B-
 C-
 D-
 Equipo de Kei (J2)
-A-Kei HP:760/760 MP:393/398
-B-Taown HP:639/709 MP:140/140
-C-Tam Lin HP:112/218 MP:38/43
-D-Kikuri-Hime HP:178/216 MP:210/210
+A-Kei HP:760/760 MP:398/398
+B-Taown HP:709/709 MP:140/140
+C-Tam Lin HP:218/218 MP:43/43
+D-Kikuri-Hime HP:102/216 MP:201/210
 ----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
+Full Turns: 2
+Blinking Turns: 1
 ----------------------------------------
 Orden:
 1-Kei
@@ -1307,44 +1114,21 @@ Seleccione una acción para Kei
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 4
+INPUT: 5
 ----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Kei
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Kei
-1-Makoto HP:479/597 MP:337/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Kei ataca a Makoto
-Makoto es resistente el ataque de Kei
-Makoto recibe 9 de daño
-Makoto termina con HP:470/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
 Equipo de Makoto (J1)
-A-Makoto HP:470/597 MP:337/347
+A-Makoto HP:494/597 MP:347/347
 B-
 C-
 D-
 Equipo de Kei (J2)
-A-Kei HP:760/760 MP:393/398
-B-Taown HP:639/709 MP:140/140
-C-Tam Lin HP:112/218 MP:38/43
-D-Kikuri-Hime HP:178/216 MP:210/210
+A-Kei HP:760/760 MP:398/398
+B-Taown HP:709/709 MP:140/140
+C-Tam Lin HP:218/218 MP:43/43
+D-Kikuri-Hime HP:102/216 MP:201/210
 ----------------------------------------
 Full Turns: 2
 Blinking Turns: 0
@@ -1360,21 +1144,72 @@ Seleccione una acción para Tam Lin
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 2
+INPUT: 4
 ----------------------------------------
-Seleccione una habilidad para que Tam Lin use
-1-Hama MP:6
-2-Gram Slice MP:5
-3-Maragi MP:11
-4-Cancelar
-INPUT: 2
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Seleccione un objetivo para Tam Lin
-1-Makoto HP:470/597 MP:337/347
+Equipo de Makoto (J1)
+A-Makoto HP:494/597 MP:347/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Taown HP:709/709 MP:140/140
+C-Tam Lin HP:218/218 MP:43/43
+D-Kikuri-Hime HP:102/216 MP:201/210
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Taown
+2-Kikuri-Hime
+3-Kei
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Makoto HP:494/597 MP:347/347
 2-Cancelar
-INPUT: 2
+INPUT: 1
 ----------------------------------------
-Seleccione una acción para Tam Lin
+Taown ataca a Makoto
+Makoto es resistente el ataque de Taown
+Makoto recibe 27 de daño
+Makoto termina con HP:467/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:467/597 MP:347/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Taown HP:709/709 MP:140/140
+C-Tam Lin HP:218/218 MP:43/43
+D-Kikuri-Hime HP:102/216 MP:201/210
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kikuri-Hime
+2-Kei
+3-Tam Lin
+4-Taown
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -1385,29 +1220,106 @@ Seleccione un monstruo para invocar
 1-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione una acción para Tam Lin
+Seleccione una acción para Kikuri-Hime
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 4
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kikuri-Hime
+1-Makoto HP:467/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kikuri-Hime ataca a Makoto
+Makoto es resistente el ataque de Kikuri-Hime
+Makoto recibe 11 de daño
+Makoto termina con HP:456/597
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
 ----------------------------------------
 Equipo de Makoto (J1)
-A-Makoto HP:470/597 MP:337/347
+A-Makoto HP:456/597 MP:347/347
 B-
 C-
 D-
 Equipo de Kei (J2)
-A-Kei HP:760/760 MP:393/398
-B-Taown HP:639/709 MP:140/140
-C-Tam Lin HP:112/218 MP:38/43
-D-Kikuri-Hime HP:178/216 MP:210/210
+A-Kei HP:760/760 MP:398/398
+B-Taown HP:709/709 MP:140/140
+C-Tam Lin HP:218/218 MP:43/43
+D-Kikuri-Hime HP:102/216 MP:201/210
 ----------------------------------------
 Full Turns: 1
-Blinking Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Kei HP:760/760 MP:398/398
+2-Taown HP:709/709 MP:140/140
+3-Tam Lin HP:218/218 MP:43/43
+4-Kikuri-Hime HP:102/216 MP:201/210
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Makoto dispara a Tam Lin
+Tam Lin recibe 57 de daño
+Tam Lin termina con HP:161/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:456/597 MP:347/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Taown HP:709/709 MP:140/140
+C-Tam Lin HP:161/218 MP:43/43
+D-Kikuri-Hime HP:102/216 MP:201/210
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
 ----------------------------------------
 Orden:
 1-Taown
@@ -1431,34 +1343,35 @@ Seleccione una acción para Taown
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Taown
-1-Makoto HP:470/597 MP:337/347
-2-Cancelar
-INPUT: 1
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
 ----------------------------------------
-Taown ataca a Makoto
-Makoto es resistente el ataque de Taown
-Makoto recibe 27 de daño
-Makoto termina con HP:443/597
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
 Equipo de Makoto (J1)
-A-Makoto HP:443/597 MP:337/347
+A-Makoto HP:456/597 MP:347/347
 B-
 C-
 D-
 Equipo de Kei (J2)
-A-Kei HP:760/760 MP:393/398
-B-Taown HP:639/709 MP:140/140
-C-Tam Lin HP:112/218 MP:38/43
-D-Kikuri-Hime HP:178/216 MP:210/210
+A-Kei HP:760/760 MP:398/398
+B-Taown HP:709/709 MP:140/140
+C-Tam Lin HP:161/218 MP:43/43
+D-Kikuri-Hime HP:102/216 MP:201/210
 ----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
+Full Turns: 3
+Blinking Turns: 1
 ----------------------------------------
 Orden:
 1-Kikuri-Hime
@@ -1473,28 +1386,41 @@ Seleccione una acción para Kikuri-Hime
 4: Pasar Turno
 INPUT: 4
 ----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
 Equipo de Makoto (J1)
-A-Makoto HP:443/597 MP:337/347
+A-Makoto HP:456/597 MP:347/347
 B-
 C-
 D-
 Equipo de Kei (J2)
-A-Kei HP:760/760 MP:393/398
-B-Taown HP:639/709 MP:140/140
-C-Tam Lin HP:112/218 MP:38/43
-D-Kikuri-Hime HP:178/216 MP:210/210
+A-Kei HP:760/760 MP:398/398
+B-Taown HP:709/709 MP:140/140
+C-Tam Lin HP:161/218 MP:43/43
+D-Kikuri-Hime HP:102/216 MP:201/210
 ----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
+Full Turns: 3
+Blinking Turns: 0
 ----------------------------------------
 Orden:
 1-Kei
 2-Tam Lin
 3-Taown
 4-Kikuri-Hime
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
 ----------------------------------------
 Seleccione una acción para Kei
 1: Atacar
@@ -1514,202 +1440,40 @@ Seleccione una habilidad para que Kei use
 6-Bouncing Claw MP:4
 7-Damascus Claw MP:7
 8-Cancelar
-INPUT: 1
+INPUT: 3
 ----------------------------------------
 Seleccione un objetivo para Kei
-1-Makoto HP:443/597 MP:337/347
+1-Makoto HP:456/597 MP:347/347
 2-Cancelar
 INPUT: 1
 ----------------------------------------
 Kei lanza fuego a Makoto
 Makoto es resistente el ataque de Kei
-Makoto recibe 34 de daño
-Makoto termina con HP:409/597
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Makoto (J1)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:409/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:639/709 MP:140/140
-C-Tam Lin HP:112/218 MP:38/43
-D-Kikuri-Hime HP:178/216 MP:210/210
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Makoto
-----------------------------------------
-Seleccione una acción para Makoto
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Makoto
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Makoto
-1-Kei HP:760/760 MP:379/398
-2-Taown HP:639/709 MP:140/140
-3-Tam Lin HP:112/218 MP:38/43
-4-Kikuri-Hime HP:178/216 MP:210/210
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Makoto dispara a Tam Lin
-Tam Lin recibe 57 de daño
-Tam Lin termina con HP:55/218
+Makoto recibe 21 de daño
+Makoto termina con HP:435/597
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Kei (J2)
-----------------------------------------
 Equipo de Makoto (J1)
-A-Makoto HP:409/597 MP:337/347
+A-Makoto HP:435/597 MP:347/347
 B-
 C-
 D-
 Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:639/709 MP:140/140
-C-Tam Lin HP:55/218 MP:38/43
-D-Kikuri-Hime HP:178/216 MP:210/210
+A-Kei HP:760/760 MP:393/398
+B-Taown HP:709/709 MP:140/140
+C-Tam Lin HP:161/218 MP:43/43
+D-Kikuri-Hime HP:102/216 MP:201/210
 ----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Taown
-2-Kikuri-Hime
-3-Tam Lin
-4-Kei
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:409/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:639/709 MP:140/140
-C-Tam Lin HP:55/218 MP:38/43
-D-Kikuri-Hime HP:178/216 MP:210/210
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Kikuri-Hime
-2-Tam Lin
-3-Kei
-4-Taown
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:409/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:639/709 MP:140/140
-C-Tam Lin HP:55/218 MP:38/43
-D-Kikuri-Hime HP:178/216 MP:210/210
-----------------------------------------
-Full Turns: 3
+Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
 1-Tam Lin
-2-Kei
-3-Taown
-4-Kikuri-Hime
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
+2-Taown
+3-Kikuri-Hime
+4-Kei
 ----------------------------------------
 Seleccione una acción para Tam Lin
 1: Atacar
@@ -1719,9 +1483,39 @@ Seleccione una acción para Tam Lin
 INPUT: 1
 ----------------------------------------
 Seleccione un objetivo para Tam Lin
-1-Makoto HP:409/597 MP:337/347
+1-Makoto HP:435/597 MP:347/347
 2-Cancelar
 INPUT: 2
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tam Lin use
+1-Hama MP:6
+2-Gram Slice MP:5
+3-Maragi MP:11
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Makoto HP:435/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
 ----------------------------------------
 Seleccione una acción para Tam Lin
 1: Atacar
@@ -1734,77 +1528,36 @@ Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
 Equipo de Makoto (J1)
-A-Makoto HP:409/597 MP:337/347
+A-Makoto HP:435/597 MP:347/347
 B-
 C-
 D-
 Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:639/709 MP:140/140
-C-Tam Lin HP:55/218 MP:38/43
-D-Kikuri-Hime HP:178/216 MP:210/210
+A-Kei HP:760/760 MP:393/398
+B-Taown HP:709/709 MP:140/140
+C-Tam Lin HP:161/218 MP:43/43
+D-Kikuri-Hime HP:102/216 MP:201/210
 ----------------------------------------
-Full Turns: 2
+Full Turns: 1
 Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Kei
-2-Taown
-3-Kikuri-Hime
-4-Tam Lin
-----------------------------------------
-Seleccione una acción para Kei
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Kei
-1-Makoto HP:409/597 MP:337/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Kei ataca a Makoto
-Makoto es resistente el ataque de Kei
-Makoto recibe 9 de daño
-Makoto termina con HP:400/597
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:400/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:639/709 MP:140/140
-C-Tam Lin HP:55/218 MP:38/43
-D-Kikuri-Hime HP:178/216 MP:210/210
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
 ----------------------------------------
 Orden:
 1-Taown
 2-Kikuri-Hime
-3-Tam Lin
-4-Kei
+3-Kei
+4-Tam Lin
 ----------------------------------------
 Seleccione una acción para Taown
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
 INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Makoto HP:435/597 MP:347/347
+2-Cancelar
+INPUT: 2
 ----------------------------------------
 Seleccione una acción para Taown
 1: Atacar
@@ -1813,27 +1566,27 @@ Seleccione una acción para Taown
 4: Pasar Turno
 INPUT: 4
 ----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
 Equipo de Makoto (J1)
-A-Makoto HP:400/597 MP:337/347
+A-Makoto HP:435/597 MP:347/347
 B-
 C-
 D-
 Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:639/709 MP:140/140
-C-Tam Lin HP:55/218 MP:38/43
-D-Kikuri-Hime HP:178/216 MP:210/210
+A-Kei HP:760/760 MP:393/398
+B-Taown HP:709/709 MP:140/140
+C-Tam Lin HP:161/218 MP:43/43
+D-Kikuri-Hime HP:102/216 MP:201/210
 ----------------------------------------
 Full Turns: 1
-Blinking Turns: 1
+Blinking Turns: 0
 ----------------------------------------
 Orden:
 1-Kikuri-Hime
-2-Tam Lin
-3-Kei
+2-Kei
+3-Tam Lin
 4-Taown
 ----------------------------------------
 Seleccione una acción para Kikuri-Hime
@@ -1841,119 +1594,30 @@ Seleccione una acción para Kikuri-Hime
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Kikuri-Hime use
-1-Tetraja MP:15
-2-Me Patra MP:15
-3-Diarama MP:9
-4-Recarm MP:20
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Kikuri-Hime
-1-Kei HP:760/760 MP:379/398
-2-Taown HP:639/709 MP:140/140
-3-Tam Lin HP:55/218 MP:38/43
-4-Kikuri-Hime HP:178/216 MP:210/210
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Kikuri-Hime cura a Tam Lin
-Tam Lin recibe 109 de HP
-Tam Lin termina con HP:164/218
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:400/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:639/709 MP:140/140
-C-Tam Lin HP:164/218 MP:38/43
-D-Kikuri-Hime HP:178/216 MP:201/210
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Tam Lin
-2-Kei
-3-Taown
-4-Kikuri-Hime
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
 INPUT: 4
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
 Equipo de Makoto (J1)
-A-Makoto HP:400/597 MP:337/347
+A-Makoto HP:435/597 MP:347/347
 B-
 C-
 D-
 Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:639/709 MP:140/140
-C-Tam Lin HP:164/218 MP:38/43
-D-Kikuri-Hime HP:178/216 MP:201/210
+A-Kei HP:760/760 MP:393/398
+B-Taown HP:709/709 MP:140/140
+C-Tam Lin HP:161/218 MP:43/43
+D-Kikuri-Hime HP:102/216 MP:201/210
 ----------------------------------------
 Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
 1-Kei
-2-Taown
-3-Kikuri-Hime
-4-Tam Lin
-----------------------------------------
-Seleccione una acción para Kei
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Kei
-1-Makoto HP:400/597 MP:337/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Kei
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Kei
-1-Makoto HP:400/597 MP:337/347
-2-Cancelar
-INPUT: 2
+2-Tam Lin
+3-Taown
+4-Kikuri-Hime
 ----------------------------------------
 Seleccione una acción para Kei
 1: Atacar
@@ -1976,77 +1640,20 @@ Seleccione una habilidad para que Kei use
 INPUT: 6
 ----------------------------------------
 Seleccione un objetivo para Kei
-1-Makoto HP:400/597 MP:337/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Kei
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Kei use
-1-Agidyne MP:14
-2-Zandyne MP:14
-3-Agi MP:5
-4-Samarecarm MP:40
-5-Tathlum Shot MP:7
-6-Bouncing Claw MP:4
-7-Damascus Claw MP:7
-8-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Kei
-1-Makoto HP:400/597 MP:337/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Kei
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Kei use
-1-Agidyne MP:14
-2-Zandyne MP:14
-3-Agi MP:5
-4-Samarecarm MP:40
-5-Tathlum Shot MP:7
-6-Bouncing Claw MP:4
-7-Damascus Claw MP:7
-8-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione un objetivo para Kei
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Kei
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Kei
-1-Makoto HP:400/597 MP:337/347
+1-Makoto HP:435/597 MP:347/347
 2-Cancelar
 INPUT: 1
 ----------------------------------------
-Kei dispara a Makoto
+Kei ataca a Makoto
 Makoto es resistente el ataque de Kei
-Makoto recibe 7 de daño
-Makoto termina con HP:393/597
+Makoto recibe 25 de daño
+Kei ataca a Makoto
+Makoto es resistente el ataque de Kei
+Makoto recibe 25 de daño
+Kei ataca a Makoto
+Makoto es resistente el ataque de Kei
+Makoto recibe 25 de daño
+Makoto termina con HP:360/597
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
@@ -2054,15 +1661,15 @@ Se han obtenido 0 Blinking Turn(s)
 Ronda de Makoto (J1)
 ----------------------------------------
 Equipo de Makoto (J1)
-A-Makoto HP:393/597 MP:337/347
+A-Makoto HP:360/597 MP:347/347
 B-
 C-
 D-
 Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:639/709 MP:140/140
-C-Tam Lin HP:164/218 MP:38/43
-D-Kikuri-Hime HP:178/216 MP:201/210
+A-Kei HP:760/760 MP:389/398
+B-Taown HP:709/709 MP:140/140
+C-Tam Lin HP:161/218 MP:43/43
+D-Kikuri-Hime HP:102/216 MP:201/210
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
@@ -2077,35 +1684,52 @@ Seleccione una acción para Makoto
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Makoto
-1-Kei HP:760/760 MP:379/398
-2-Taown HP:639/709 MP:140/140
-3-Tam Lin HP:164/218 MP:38/43
-4-Kikuri-Hime HP:178/216 MP:201/210
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Makoto dispara a Tam Lin
-Tam Lin recibe 57 de daño
-Tam Lin termina con HP:107/218
+INPUT: 5
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:360/597 MP:347/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:389/398
+B-Taown HP:709/709 MP:140/140
+C-Tam Lin HP:161/218 MP:43/43
+D-Kikuri-Hime HP:102/216 MP:201/210
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
 Ronda de Kei (J2)
 ----------------------------------------
 Equipo de Makoto (J1)
-A-Makoto HP:393/597 MP:337/347
+A-Makoto HP:360/597 MP:347/347
 B-
 C-
 D-
 Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:639/709 MP:140/140
-C-Tam Lin HP:107/218 MP:38/43
-D-Kikuri-Hime HP:178/216 MP:201/210
+A-Kei HP:760/760 MP:389/398
+B-Taown HP:709/709 MP:140/140
+C-Tam Lin HP:161/218 MP:43/43
+D-Kikuri-Hime HP:102/216 MP:201/210
 ----------------------------------------
 Full Turns: 4
 Blinking Turns: 0
@@ -2113,8 +1737,876 @@ Blinking Turns: 0
 Orden:
 1-Taown
 2-Kikuri-Hime
+3-Kei
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:360/597 MP:347/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:389/398
+B-Taown HP:709/709 MP:140/140
+C-Tam Lin HP:161/218 MP:43/43
+D-Kikuri-Hime HP:102/216 MP:201/210
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kikuri-Hime
+2-Kei
 3-Tam Lin
+4-Taown
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kikuri-Hime
+1-Makoto HP:360/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kikuri-Hime ataca a Makoto
+Makoto es resistente el ataque de Kikuri-Hime
+Makoto recibe 11 de daño
+Makoto termina con HP:349/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:349/597 MP:347/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:389/398
+B-Taown HP:709/709 MP:140/140
+C-Tam Lin HP:161/218 MP:43/43
+D-Kikuri-Hime HP:102/216 MP:201/210
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Tam Lin
+3-Taown
+4-Kikuri-Hime
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Agidyne MP:14
+2-Zandyne MP:14
+3-Agi MP:5
+4-Samarecarm MP:40
+5-Tathlum Shot MP:7
+6-Bouncing Claw MP:4
+7-Damascus Claw MP:7
+8-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Makoto HP:349/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kei lanza fuego a Makoto
+Makoto es resistente el ataque de Kei
+Makoto recibe 21 de daño
+Makoto termina con HP:328/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:328/597 MP:347/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:384/398
+B-Taown HP:709/709 MP:140/140
+C-Tam Lin HP:161/218 MP:43/43
+D-Kikuri-Hime HP:102/216 MP:201/210
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Taown
+3-Kikuri-Hime
 4-Kei
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tam Lin use
+1-Hama MP:6
+2-Gram Slice MP:5
+3-Maragi MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tam Lin use
+1-Hama MP:6
+2-Gram Slice MP:5
+3-Maragi MP:11
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Makoto HP:328/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Makoto HP:328/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Makoto HP:328/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tam Lin use
+1-Hama MP:6
+2-Gram Slice MP:5
+3-Maragi MP:11
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Makoto HP:328/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:328/597 MP:347/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:384/398
+B-Taown HP:709/709 MP:140/140
+C-Tam Lin HP:161/218 MP:43/43
+D-Kikuri-Hime HP:102/216 MP:201/210
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Taown
+2-Kikuri-Hime
+3-Kei
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Makoto HP:328/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Makoto HP:328/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Makoto HP:328/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:328/597 MP:347/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:384/398
+B-Taown HP:709/709 MP:140/140
+C-Tam Lin HP:161/218 MP:43/43
+D-Kikuri-Hime HP:102/216 MP:201/210
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kikuri-Hime
+2-Kei
+3-Tam Lin
+4-Taown
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kikuri-Hime
+1-Makoto HP:328/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kikuri-Hime ataca a Makoto
+Makoto es resistente el ataque de Kikuri-Hime
+Makoto recibe 11 de daño
+Makoto termina con HP:317/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:317/597 MP:347/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:384/398
+B-Taown HP:709/709 MP:140/140
+C-Tam Lin HP:161/218 MP:43/43
+D-Kikuri-Hime HP:102/216 MP:201/210
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Bufu MP:5
+2-Stigma Attack MP:20
+3-Riot Gun MP:30
+4-Zionga MP:8
+5-Damascus Claw MP:7
+6-Deadly Wind MP:22
+7-Lunge MP:6
+8-Diarama MP:9
+9-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Kei HP:760/760 MP:384/398
+2-Taown HP:709/709 MP:140/140
+3-Tam Lin HP:161/218 MP:43/43
+4-Kikuri-Hime HP:102/216 MP:201/210
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto lanza hielo a Kei
+Kei es resistente el ataque de Makoto
+Kei recibe 35 de daño
+Kei termina con HP:725/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:317/597 MP:342/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:725/760 MP:384/398
+B-Taown HP:709/709 MP:140/140
+C-Tam Lin HP:161/218 MP:43/43
+D-Kikuri-Hime HP:102/216 MP:201/210
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Kikuri-Hime
+3-Kei
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Makoto HP:317/597 MP:342/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Taown ataca a Makoto
+Makoto es resistente el ataque de Taown
+Makoto recibe 27 de daño
+Makoto termina con HP:290/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:290/597 MP:342/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:725/760 MP:384/398
+B-Taown HP:709/709 MP:140/140
+C-Tam Lin HP:161/218 MP:43/43
+D-Kikuri-Hime HP:102/216 MP:201/210
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kikuri-Hime
+2-Kei
+3-Tam Lin
+4-Taown
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kikuri-Hime use
+1-Tetraja MP:15
+2-Me Patra MP:15
+3-Diarama MP:9
+4-Recarm MP:20
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Kikuri-Hime
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kikuri-Hime use
+1-Tetraja MP:15
+2-Me Patra MP:15
+3-Diarama MP:9
+4-Recarm MP:20
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Kikuri-Hime
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kikuri-Hime use
+1-Tetraja MP:15
+2-Me Patra MP:15
+3-Diarama MP:9
+4-Recarm MP:20
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Kikuri-Hime
+1-Kei HP:725/760 MP:384/398
+2-Taown HP:709/709 MP:140/140
+3-Tam Lin HP:161/218 MP:43/43
+4-Kikuri-Hime HP:102/216 MP:201/210
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:290/597 MP:342/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:725/760 MP:384/398
+B-Taown HP:709/709 MP:140/140
+C-Tam Lin HP:161/218 MP:43/43
+D-Kikuri-Hime HP:102/216 MP:201/210
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Tam Lin
+3-Taown
+4-Kikuri-Hime
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Agidyne MP:14
+2-Zandyne MP:14
+3-Agi MP:5
+4-Samarecarm MP:40
+5-Tathlum Shot MP:7
+6-Bouncing Claw MP:4
+7-Damascus Claw MP:7
+8-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Makoto HP:290/597 MP:342/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Makoto HP:290/597 MP:342/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Agidyne MP:14
+2-Zandyne MP:14
+3-Agi MP:5
+4-Samarecarm MP:40
+5-Tathlum Shot MP:7
+6-Bouncing Claw MP:4
+7-Damascus Claw MP:7
+8-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Makoto HP:290/597 MP:342/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Makoto HP:290/597 MP:342/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Makoto HP:290/597 MP:342/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kei dispara a Makoto
+Makoto es resistente el ataque de Kei
+Makoto recibe 7 de daño
+Makoto termina con HP:283/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:283/597 MP:342/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:725/760 MP:384/398
+B-Taown HP:709/709 MP:140/140
+C-Tam Lin HP:161/218 MP:43/43
+D-Kikuri-Hime HP:102/216 MP:201/210
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Taown
+3-Kikuri-Hime
+4-Kei
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Makoto HP:283/597 MP:342/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tam Lin ataca a Makoto
+Makoto es resistente el ataque de Tam Lin
+Makoto recibe 7 de daño
+Makoto termina con HP:276/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:276/597 MP:342/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:725/760 MP:384/398
+B-Taown HP:709/709 MP:140/140
+C-Tam Lin HP:161/218 MP:43/43
+D-Kikuri-Hime HP:102/216 MP:201/210
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Kikuri-Hime
+3-Kei
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Makoto HP:276/597 MP:342/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Taown ataca a Makoto
+Makoto es resistente el ataque de Taown
+Makoto recibe 27 de daño
+Makoto termina con HP:249/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:249/597 MP:342/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:725/760 MP:384/398
+B-Taown HP:709/709 MP:140/140
+C-Tam Lin HP:161/218 MP:43/43
+D-Kikuri-Hime HP:102/216 MP:201/210
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Bufu MP:5
+2-Stigma Attack MP:20
+3-Riot Gun MP:30
+4-Zionga MP:8
+5-Damascus Claw MP:7
+6-Deadly Wind MP:22
+7-Lunge MP:6
+8-Diarama MP:9
+9-Cancelar
+INPUT: 9
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Bufu MP:5
+2-Stigma Attack MP:20
+3-Riot Gun MP:30
+4-Zionga MP:8
+5-Damascus Claw MP:7
+6-Deadly Wind MP:22
+7-Lunge MP:6
+8-Diarama MP:9
+9-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Kei HP:725/760 MP:384/398
+2-Taown HP:709/709 MP:140/140
+3-Tam Lin HP:161/218 MP:43/43
+4-Kikuri-Hime HP:102/216 MP:201/210
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Makoto lanza electricidad a Tam Lin
+Tam Lin recibe 93 de daño
+Tam Lin termina con HP:68/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:249/597 MP:334/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:725/760 MP:384/398
+B-Taown HP:709/709 MP:140/140
+C-Tam Lin HP:68/218 MP:43/43
+D-Kikuri-Hime HP:102/216 MP:201/210
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Kikuri-Hime
+3-Kei
+4-Tam Lin
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
 ----------------------------------------
 Seleccione una acción para Taown
 1: Atacar
@@ -2132,11 +2624,42 @@ Seleccione una habilidad para que Taown use
 INPUT: 3
 ----------------------------------------
 Seleccione un objetivo para Taown
-1-Makoto HP:393/597 MP:337/347
+1-Makoto HP:249/597 MP:334/347
 2-Cancelar
-INPUT: 2
+INPUT: 1
 ----------------------------------------
-Seleccione una acción para Taown
+Taown ataca a Makoto
+Makoto es resistente el ataque de Taown
+Makoto recibe 71 de daño
+Taown ataca a Makoto
+Makoto es resistente el ataque de Taown
+Makoto recibe 71 de daño
+Makoto termina con HP:107/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:107/597 MP:334/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:725/760 MP:384/398
+B-Taown HP:709/709 MP:129/140
+C-Tam Lin HP:68/218 MP:43/43
+D-Kikuri-Hime HP:102/216 MP:201/210
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kikuri-Hime
+2-Kei
+3-Tam Lin
+4-Taown
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -2147,205 +2670,24 @@ Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
 Equipo de Makoto (J1)
-A-Makoto HP:393/597 MP:337/347
+A-Makoto HP:107/597 MP:334/347
 B-
 C-
 D-
 Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:639/709 MP:140/140
-C-Tam Lin HP:107/218 MP:38/43
-D-Kikuri-Hime HP:178/216 MP:201/210
+A-Kei HP:725/760 MP:384/398
+B-Taown HP:709/709 MP:129/140
+C-Tam Lin HP:68/218 MP:43/43
+D-Kikuri-Hime HP:102/216 MP:201/210
 ----------------------------------------
-Full Turns: 3
+Full Turns: 2
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Kikuri-Hime
+1-Kei
 2-Tam Lin
-3-Kei
-4-Taown
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Kikuri-Hime use
-1-Tetraja MP:15
-2-Me Patra MP:15
-3-Diarama MP:9
-4-Recarm MP:20
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Kikuri-Hime
-1-Makoto HP:393/597 MP:337/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Kikuri-Hime ataca a Makoto
-Makoto es resistente el ataque de Kikuri-Hime
-Makoto recibe 11 de daño
-Makoto termina con HP:382/597
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:382/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:639/709 MP:140/140
-C-Tam Lin HP:107/218 MP:38/43
-D-Kikuri-Hime HP:178/216 MP:201/210
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Tam Lin
-2-Kei
 3-Taown
 4-Kikuri-Hime
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Tam Lin use
-1-Hama MP:6
-2-Gram Slice MP:5
-3-Maragi MP:11
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Tam Lin
-1-Makoto HP:382/597 MP:337/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Tam Lin
-1-Makoto HP:382/597 MP:337/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Tam Lin use
-1-Hama MP:6
-2-Gram Slice MP:5
-3-Maragi MP:11
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Tam Lin
-1-Makoto HP:382/597 MP:337/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Tam Lin use
-1-Hama MP:6
-2-Gram Slice MP:5
-3-Maragi MP:11
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Tam Lin
-1-Makoto HP:382/597 MP:337/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Tam Lin ataca a Makoto
-Makoto es resistente el ataque de Tam Lin
-Makoto recibe 7 de daño
-Makoto termina con HP:375/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:375/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:639/709 MP:140/140
-C-Tam Lin HP:107/218 MP:38/43
-D-Kikuri-Hime HP:178/216 MP:201/210
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Kei
-2-Taown
-3-Kikuri-Hime
-4-Tam Lin
 ----------------------------------------
 Seleccione una acción para Kei
 1: Atacar
@@ -2354,21 +2696,75 @@ Seleccione una acción para Kei
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 5
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Makoto HP:107/597 MP:334/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Makoto HP:107/597 MP:334/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kei dispara a Makoto
+Makoto es resistente el ataque de Kei
+Makoto recibe 7 de daño
+Makoto termina con HP:100/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:100/597 MP:334/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:725/760 MP:384/398
+B-Taown HP:709/709 MP:129/140
+C-Tam Lin HP:68/218 MP:43/43
+D-Kikuri-Hime HP:102/216 MP:201/210
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Taown
+3-Kikuri-Hime
+4-Kei
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
 Equipo de Makoto (J1)
-A-Makoto HP:375/597 MP:337/347
+A-Makoto HP:100/597 MP:334/347
 B-
 C-
 D-
 Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:639/709 MP:140/140
-C-Tam Lin HP:107/218 MP:38/43
-D-Kikuri-Hime HP:178/216 MP:201/210
+A-Kei HP:725/760 MP:384/398
+B-Taown HP:709/709 MP:129/140
+C-Tam Lin HP:68/218 MP:43/43
+D-Kikuri-Hime HP:102/216 MP:201/210
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 1
@@ -2376,34 +2772,8 @@ Blinking Turns: 1
 Orden:
 1-Taown
 2-Kikuri-Hime
-3-Tam Lin
-4-Kei
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Taown use
-1-Ziodyne MP:14
-2-Madness Needle MP:11
-3-Nihil Claw MP:11
-4-Mediarama MP:22
-5-Cancelar
-INPUT: 5
+3-Kei
+4-Tam Lin
 ----------------------------------------
 Seleccione una acción para Taown
 1: Atacar
@@ -2416,23 +2786,23 @@ Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
 Equipo de Makoto (J1)
-A-Makoto HP:375/597 MP:337/347
+A-Makoto HP:100/597 MP:334/347
 B-
 C-
 D-
 Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:639/709 MP:140/140
-C-Tam Lin HP:107/218 MP:38/43
-D-Kikuri-Hime HP:178/216 MP:201/210
+A-Kei HP:725/760 MP:384/398
+B-Taown HP:709/709 MP:129/140
+C-Tam Lin HP:68/218 MP:43/43
+D-Kikuri-Hime HP:102/216 MP:201/210
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
 1-Kikuri-Hime
-2-Tam Lin
-3-Kei
+2-Kei
+3-Tam Lin
 4-Taown
 ----------------------------------------
 Seleccione una acción para Kikuri-Hime
@@ -2448,109 +2818,41 @@ Seleccione una habilidad para que Kikuri-Hime use
 3-Diarama MP:9
 4-Recarm MP:20
 5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
 INPUT: 3
 ----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
+Seleccione un objetivo para Kikuri-Hime
+1-Kei HP:725/760 MP:384/398
+2-Taown HP:709/709 MP:129/140
+3-Tam Lin HP:68/218 MP:43/43
+4-Kikuri-Hime HP:102/216 MP:201/210
+5-Cancelar
+INPUT: 3
 ----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
+Kikuri-Hime cura a Tam Lin
+Tam Lin recibe 109 de HP
+Tam Lin termina con HP:177/218
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:375/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:639/709 MP:140/140
-C-Tam Lin HP:107/218 MP:38/43
-D-Kikuri-Hime HP:178/216 MP:201/210
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Tam Lin
-2-Kei
-3-Taown
-4-Kikuri-Hime
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Tam Lin use
-1-Hama MP:6
-2-Gram Slice MP:5
-3-Maragi MP:11
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Tam Lin
-1-Makoto HP:375/597 MP:337/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
 Ronda de Makoto (J1)
 ----------------------------------------
 Equipo de Makoto (J1)
-A-Makoto HP:375/597 MP:337/347
+A-Makoto HP:100/597 MP:334/347
 B-
 C-
 D-
 Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:639/709 MP:140/140
-C-Tam Lin HP:107/218 MP:38/43
-D-Kikuri-Hime HP:178/216 MP:201/210
+A-Kei HP:725/760 MP:384/398
+B-Taown HP:709/709 MP:129/140
+C-Tam Lin HP:177/218 MP:43/43
+D-Kikuri-Hime HP:102/216 MP:192/210
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
 1-Makoto
-----------------------------------------
-Seleccione una acción para Makoto
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
 ----------------------------------------
 Seleccione una acción para Makoto
 1: Atacar
@@ -2587,10 +2889,10 @@ Seleccione una habilidad para que Makoto use
 INPUT: 2
 ----------------------------------------
 Seleccione un objetivo para Makoto
-1-Kei HP:760/760 MP:379/398
-2-Taown HP:639/709 MP:140/140
-3-Tam Lin HP:107/218 MP:38/43
-4-Kikuri-Hime HP:178/216 MP:201/210
+1-Kei HP:725/760 MP:384/398
+2-Taown HP:709/709 MP:129/140
+3-Tam Lin HP:177/218 MP:43/43
+4-Kikuri-Hime HP:102/216 MP:192/210
 5-Cancelar
 INPUT: 5
 ----------------------------------------
@@ -2604,16 +2906,16 @@ Seleccione una acción para Makoto
 INPUT: 2
 ----------------------------------------
 Seleccione un objetivo para Makoto
-1-Kei HP:760/760 MP:379/398
-2-Taown HP:639/709 MP:140/140
-3-Tam Lin HP:107/218 MP:38/43
-4-Kikuri-Hime HP:178/216 MP:201/210
+1-Kei HP:725/760 MP:384/398
+2-Taown HP:709/709 MP:129/140
+3-Tam Lin HP:177/218 MP:43/43
+4-Kikuri-Hime HP:102/216 MP:192/210
 5-Cancelar
-INPUT: 3
+INPUT: 4
 ----------------------------------------
-Makoto dispara a Tam Lin
-Tam Lin recibe 57 de daño
-Tam Lin termina con HP:50/218
+Makoto dispara a Kikuri-Hime
+Kikuri-Hime recibe 57 de daño
+Kikuri-Hime termina con HP:45/216
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
@@ -2621,15 +2923,15 @@ Se han obtenido 0 Blinking Turn(s)
 Ronda de Kei (J2)
 ----------------------------------------
 Equipo de Makoto (J1)
-A-Makoto HP:375/597 MP:337/347
+A-Makoto HP:100/597 MP:334/347
 B-
 C-
 D-
 Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:639/709 MP:140/140
-C-Tam Lin HP:50/218 MP:38/43
-D-Kikuri-Hime HP:178/216 MP:201/210
+A-Kei HP:725/760 MP:384/398
+B-Taown HP:709/709 MP:129/140
+C-Tam Lin HP:177/218 MP:43/43
+D-Kikuri-Hime HP:45/216 MP:192/210
 ----------------------------------------
 Full Turns: 4
 Blinking Turns: 0
@@ -2648,21 +2950,332 @@ Seleccione una acción para Taown
 INPUT: 1
 ----------------------------------------
 Seleccione un objetivo para Taown
-1-Makoto HP:375/597 MP:337/347
+1-Makoto HP:100/597 MP:334/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Taown ataca a Makoto
+Makoto es resistente el ataque de Taown
+Makoto recibe 27 de daño
+Makoto termina con HP:73/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:73/597 MP:334/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:725/760 MP:384/398
+B-Taown HP:709/709 MP:129/140
+C-Tam Lin HP:177/218 MP:43/43
+D-Kikuri-Hime HP:45/216 MP:192/210
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kikuri-Hime
+2-Kei
+3-Tam Lin
+4-Taown
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kikuri-Hime use
+1-Tetraja MP:15
+2-Me Patra MP:15
+3-Diarama MP:9
+4-Recarm MP:20
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Kikuri-Hime
+1-Kei HP:725/760 MP:384/398
+2-Taown HP:709/709 MP:129/140
+3-Tam Lin HP:177/218 MP:43/43
+4-Kikuri-Hime HP:45/216 MP:192/210
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kikuri-Hime cura a Tam Lin
+Tam Lin recibe 109 de HP
+Tam Lin termina con HP:218/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:73/597 MP:334/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:725/760 MP:384/398
+B-Taown HP:709/709 MP:129/140
+C-Tam Lin HP:218/218 MP:43/43
+D-Kikuri-Hime HP:45/216 MP:183/210
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Tam Lin
+3-Taown
+4-Kikuri-Hime
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Agidyne MP:14
+2-Zandyne MP:14
+3-Agi MP:5
+4-Samarecarm MP:40
+5-Tathlum Shot MP:7
+6-Bouncing Claw MP:4
+7-Damascus Claw MP:7
+8-Cancelar
+INPUT: 8
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Makoto HP:73/597 MP:334/347
 2-Cancelar
 INPUT: 2
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:73/597 MP:334/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:725/760 MP:384/398
+B-Taown HP:709/709 MP:129/140
+C-Tam Lin HP:218/218 MP:43/43
+D-Kikuri-Hime HP:45/216 MP:183/210
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Taown
+3-Kikuri-Hime
+4-Kei
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:73/597 MP:334/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:725/760 MP:384/398
+B-Taown HP:709/709 MP:129/140
+C-Tam Lin HP:218/218 MP:43/43
+D-Kikuri-Hime HP:45/216 MP:183/210
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Kikuri-Hime
+3-Kei
+4-Tam Lin
 ----------------------------------------
 Seleccione una acción para Taown
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Taown
-1-Makoto HP:375/597 MP:337/347
-2-Cancelar
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:73/597 MP:334/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:725/760 MP:384/398
+B-Taown HP:709/709 MP:129/140
+C-Tam Lin HP:218/218 MP:43/43
+D-Kikuri-Hime HP:45/216 MP:183/210
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kikuri-Hime
+2-Kei
+3-Tam Lin
+4-Taown
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kikuri-Hime
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:73/597 MP:334/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:725/760 MP:384/398
+B-Taown HP:709/709 MP:129/140
+C-Tam Lin HP:218/218 MP:43/43
+D-Kikuri-Hime HP:45/216 MP:183/210
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Bufu MP:5
+2-Stigma Attack MP:20
+3-Riot Gun MP:30
+4-Zionga MP:8
+5-Damascus Claw MP:7
+6-Deadly Wind MP:22
+7-Lunge MP:6
+8-Diarama MP:9
+9-Cancelar
 INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Kei HP:725/760 MP:384/398
+2-Taown HP:709/709 MP:129/140
+3-Tam Lin HP:218/218 MP:43/43
+4-Kikuri-Hime HP:45/216 MP:183/210
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Makoto ataca a Kikuri-Hime
+Kikuri-Hime recibe 139 de daño
+Kikuri-Hime termina con HP:0/216
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:73/597 MP:314/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:725/760 MP:384/398
+B-Taown HP:709/709 MP:129/140
+C-Tam Lin HP:218/218 MP:43/43
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Kei
+3-Tam Lin
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
 ----------------------------------------
 Seleccione una acción para Taown
 1: Atacar
@@ -2680,97 +3293,351 @@ Seleccione una habilidad para que Taown use
 INPUT: 1
 ----------------------------------------
 Seleccione un objetivo para Taown
-1-Makoto HP:375/597 MP:337/347
+1-Makoto HP:73/597 MP:314/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:73/597 MP:314/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:725/760 MP:384/398
+B-Taown HP:709/709 MP:129/140
+C-Tam Lin HP:218/218 MP:43/43
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Tam Lin
+3-Taown
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:73/597 MP:314/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:725/760 MP:384/398
+B-Taown HP:709/709 MP:129/140
+C-Tam Lin HP:218/218 MP:43/43
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tam Lin
+2-Taown
+3-Kei
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Makoto HP:73/597 MP:314/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tam Lin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tam Lin
+1-Makoto HP:73/597 MP:314/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tam Lin ataca a Makoto
+Makoto es resistente el ataque de Tam Lin
+Makoto recibe 7 de daño
+Makoto termina con HP:66/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:66/597 MP:314/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:725/760 MP:384/398
+B-Taown HP:709/709 MP:129/140
+C-Tam Lin HP:218/218 MP:43/43
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Kei
+3-Tam Lin
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Taown use
+1-Ziodyne MP:14
+2-Madness Needle MP:11
+3-Nihil Claw MP:11
+4-Mediarama MP:22
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Taown use
+1-Ziodyne MP:14
+2-Madness Needle MP:11
+3-Nihil Claw MP:11
+4-Mediarama MP:22
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Makoto HP:66/597 MP:314/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:66/597 MP:314/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:725/760 MP:384/398
+B-Taown HP:709/709 MP:129/140
+C-Tam Lin HP:218/218 MP:43/43
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Tam Lin
+3-Taown
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:66/597 MP:314/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:725/760 MP:384/398
+B-Taown HP:709/709 MP:129/140
+C-Tam Lin HP:218/218 MP:43/43
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:66/597 MP:314/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:725/760 MP:384/398
+B-Taown HP:709/709 MP:129/140
+C-Tam Lin HP:218/218 MP:43/43
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:66/597 MP:314/347
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:725/760 MP:384/398
+B-Taown HP:709/709 MP:129/140
+C-Tam Lin HP:218/218 MP:43/43
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Kei
+3-Tam Lin
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Taown use
+1-Ziodyne MP:14
+2-Madness Needle MP:11
+3-Nihil Claw MP:11
+4-Mediarama MP:22
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Makoto HP:66/597 MP:314/347
 2-Cancelar
 INPUT: 1
 ----------------------------------------
 Taown lanza electricidad a Makoto
 Makoto es resistente el ataque de Taown
 Makoto recibe 56 de daño
-Makoto termina con HP:319/597
+Makoto termina con HP:10/597
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
 Equipo de Makoto (J1)
-A-Makoto HP:319/597 MP:337/347
+A-Makoto HP:10/597 MP:314/347
 B-
 C-
 D-
 Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:639/709 MP:126/140
-C-Tam Lin HP:50/218 MP:38/43
-D-Kikuri-Hime HP:178/216 MP:201/210
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Kikuri-Hime
-2-Kei
-3-Tam Lin
-4-Taown
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Kikuri-Hime use
-1-Tetraja MP:15
-2-Me Patra MP:15
-3-Diarama MP:9
-4-Recarm MP:20
-5-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione un objetivo para Kikuri-Hime
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Kikuri-Hime use
-1-Tetraja MP:15
-2-Me Patra MP:15
-3-Diarama MP:9
-4-Recarm MP:20
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Kikuri-Hime
-1-Kei HP:760/760 MP:379/398
-2-Taown HP:639/709 MP:126/140
-3-Tam Lin HP:50/218 MP:38/43
-4-Kikuri-Hime HP:178/216 MP:201/210
-5-Cancelar
-INPUT: 4
-----------------------------------------
-Kikuri-Hime cura a Kikuri-Hime
-Kikuri-Hime recibe 108 de HP
-Kikuri-Hime termina con HP:216/216
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:319/597 MP:337/347
-B-
-C-
+A-Kei HP:725/760 MP:384/398
+B-Taown HP:709/709 MP:115/140
+C-Tam Lin HP:218/218 MP:43/43
 D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:639/709 MP:126/140
-C-Tam Lin HP:50/218 MP:38/43
-D-Kikuri-Hime HP:216/216 MP:192/210
 ----------------------------------------
 Full Turns: 2
 Blinking Turns: 0
@@ -2779,7 +3646,6 @@ Orden:
 1-Kei
 2-Tam Lin
 3-Taown
-4-Kikuri-Hime
 ----------------------------------------
 Seleccione una acción para Kei
 1: Atacar
@@ -2788,81 +3654,29 @@ Seleccione una acción para Kei
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Kei
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Kei
-1-Makoto HP:319/597 MP:337/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Kei
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Kei
-1-Makoto HP:319/597 MP:337/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Kei
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Kei
-1-Makoto HP:319/597 MP:337/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Kei ataca a Makoto
-Makoto es resistente el ataque de Kei
-Makoto recibe 9 de daño
-Makoto termina con HP:310/597
+INPUT: 5
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
 Equipo de Makoto (J1)
-A-Makoto HP:310/597 MP:337/347
+A-Makoto HP:10/597 MP:314/347
 B-
 C-
 D-
 Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:639/709 MP:126/140
-C-Tam Lin HP:50/218 MP:38/43
-D-Kikuri-Hime HP:216/216 MP:192/210
+A-Kei HP:725/760 MP:384/398
+B-Taown HP:709/709 MP:115/140
+C-Tam Lin HP:218/218 MP:43/43
+D-
 ----------------------------------------
 Full Turns: 1
-Blinking Turns: 0
+Blinking Turns: 1
 ----------------------------------------
 Orden:
 1-Tam Lin
 2-Taown
-3-Kikuri-Hime
-4-Kei
+3-Kei
 ----------------------------------------
 Seleccione una acción para Tam Lin
 1: Atacar
@@ -2872,561 +3686,36 @@ Seleccione una acción para Tam Lin
 INPUT: 1
 ----------------------------------------
 Seleccione un objetivo para Tam Lin
-1-Makoto HP:310/597 MP:337/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Tam Lin
-1-Makoto HP:310/597 MP:337/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Tam Lin
-1-Makoto HP:310/597 MP:337/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Tam Lin
-1-Makoto HP:310/597 MP:337/347
+1-Makoto HP:10/597 MP:314/347
 2-Cancelar
 INPUT: 1
 ----------------------------------------
 Tam Lin ataca a Makoto
 Makoto es resistente el ataque de Tam Lin
 Makoto recibe 7 de daño
-Makoto termina con HP:303/597
+Makoto termina con HP:3/597
 ----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Makoto (J1)
-----------------------------------------
 Equipo de Makoto (J1)
-A-Makoto HP:303/597 MP:337/347
+A-Makoto HP:3/597 MP:314/347
 B-
 C-
 D-
 Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:639/709 MP:126/140
-C-Tam Lin HP:50/218 MP:38/43
-D-Kikuri-Hime HP:216/216 MP:192/210
+A-Kei HP:725/760 MP:384/398
+B-Taown HP:709/709 MP:115/140
+C-Tam Lin HP:218/218 MP:43/43
+D-
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Makoto
-----------------------------------------
-Seleccione una acción para Makoto
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Makoto
-1-Kei HP:760/760 MP:379/398
-2-Taown HP:639/709 MP:126/140
-3-Tam Lin HP:50/218 MP:38/43
-4-Kikuri-Hime HP:216/216 MP:192/210
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Makoto ataca a Tam Lin
-Tam Lin recibe 38 de daño
-Tam Lin termina con HP:12/218
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Kei (J2)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:303/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:639/709 MP:126/140
-C-Tam Lin HP:12/218 MP:38/43
-D-Kikuri-Hime HP:216/216 MP:192/210
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
 1-Taown
-2-Kikuri-Hime
-3-Kei
-4-Tam Lin
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:303/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:639/709 MP:126/140
-C-Tam Lin HP:12/218 MP:38/43
-D-Kikuri-Hime HP:216/216 MP:192/210
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Kikuri-Hime
 2-Kei
 3-Tam Lin
-4-Taown
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Kikuri-Hime use
-1-Tetraja MP:15
-2-Me Patra MP:15
-3-Diarama MP:9
-4-Recarm MP:20
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Kikuri-Hime use
-1-Tetraja MP:15
-2-Me Patra MP:15
-3-Diarama MP:9
-4-Recarm MP:20
-5-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione un objetivo para Kikuri-Hime
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Kikuri-Hime use
-1-Tetraja MP:15
-2-Me Patra MP:15
-3-Diarama MP:9
-4-Recarm MP:20
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Kikuri-Hime
-1-Kei HP:760/760 MP:379/398
-2-Taown HP:639/709 MP:126/140
-3-Tam Lin HP:12/218 MP:38/43
-4-Kikuri-Hime HP:216/216 MP:192/210
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Kikuri-Hime cura a Taown
-Taown recibe 354 de HP
-Taown termina con HP:709/709
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:303/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:709/709 MP:126/140
-C-Tam Lin HP:12/218 MP:38/43
-D-Kikuri-Hime HP:216/216 MP:183/210
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Kei
-2-Tam Lin
-3-Taown
-4-Kikuri-Hime
-----------------------------------------
-Seleccione una acción para Kei
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Kei
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:303/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:709/709 MP:126/140
-C-Tam Lin HP:12/218 MP:38/43
-D-Kikuri-Hime HP:216/216 MP:183/210
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Tam Lin
-2-Taown
-3-Kikuri-Hime
-4-Kei
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Tam Lin
-1-Makoto HP:303/597 MP:337/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Tam Lin ataca a Makoto
-Makoto es resistente el ataque de Tam Lin
-Makoto recibe 7 de daño
-Makoto termina con HP:296/597
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:296/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:709/709 MP:126/140
-C-Tam Lin HP:12/218 MP:38/43
-D-Kikuri-Hime HP:216/216 MP:183/210
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Taown
-2-Kikuri-Hime
-3-Kei
-4-Tam Lin
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Taown use
-1-Ziodyne MP:14
-2-Madness Needle MP:11
-3-Nihil Claw MP:11
-4-Mediarama MP:22
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:296/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:709/709 MP:126/140
-C-Tam Lin HP:12/218 MP:38/43
-D-Kikuri-Hime HP:216/216 MP:183/210
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Kikuri-Hime
-2-Kei
-3-Tam Lin
-4-Taown
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Kikuri-Hime
-1-Makoto HP:296/597 MP:337/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Kikuri-Hime
-1-Makoto HP:296/597 MP:337/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Kikuri-Hime ataca a Makoto
-Makoto es resistente el ataque de Kikuri-Hime
-Makoto recibe 11 de daño
-Makoto termina con HP:285/597
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:285/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:709/709 MP:126/140
-C-Tam Lin HP:12/218 MP:38/43
-D-Kikuri-Hime HP:216/216 MP:183/210
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Kei
-2-Tam Lin
-3-Taown
-4-Kikuri-Hime
-----------------------------------------
-Seleccione una acción para Kei
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Kei use
-1-Agidyne MP:14
-2-Zandyne MP:14
-3-Agi MP:5
-4-Samarecarm MP:40
-5-Tathlum Shot MP:7
-6-Bouncing Claw MP:4
-7-Damascus Claw MP:7
-8-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione un objetivo para Kei
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Kei
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Kei
-1-Makoto HP:285/597 MP:337/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Kei
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Kei
-1-Makoto HP:285/597 MP:337/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Kei ataca a Makoto
-Makoto es resistente el ataque de Kei
-Makoto recibe 9 de daño
-Makoto termina con HP:276/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Makoto (J1)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:276/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:709/709 MP:126/140
-C-Tam Lin HP:12/218 MP:38/43
-D-Kikuri-Hime HP:216/216 MP:183/210
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Makoto
-----------------------------------------
-Seleccione una acción para Makoto
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Makoto
-1-Kei HP:760/760 MP:379/398
-2-Taown HP:709/709 MP:126/140
-3-Tam Lin HP:12/218 MP:38/43
-4-Kikuri-Hime HP:216/216 MP:183/210
-5-Cancelar
-INPUT: 4
-----------------------------------------
-Makoto dispara a Kikuri-Hime
-Kikuri-Hime recibe 57 de daño
-Kikuri-Hime termina con HP:159/216
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Kei (J2)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:276/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:709/709 MP:126/140
-C-Tam Lin HP:12/218 MP:38/43
-D-Kikuri-Hime HP:159/216 MP:183/210
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Taown
-2-Kikuri-Hime
-3-Tam Lin
-4-Kei
 ----------------------------------------
 Seleccione una acción para Taown
 1: Atacar
@@ -3444,1743 +3733,13 @@ Seleccione una habilidad para que Taown use
 INPUT: 1
 ----------------------------------------
 Seleccione un objetivo para Taown
-1-Makoto HP:276/597 MP:337/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Taown
-1-Makoto HP:276/597 MP:337/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Taown use
-1-Ziodyne MP:14
-2-Madness Needle MP:11
-3-Nihil Claw MP:11
-4-Mediarama MP:22
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Taown
-1-Makoto HP:276/597 MP:337/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Taown use
-1-Ziodyne MP:14
-2-Madness Needle MP:11
-3-Nihil Claw MP:11
-4-Mediarama MP:22
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Taown use
-1-Ziodyne MP:14
-2-Madness Needle MP:11
-3-Nihil Claw MP:11
-4-Mediarama MP:22
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Taown
-1-Makoto HP:276/597 MP:337/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Taown
-1-Makoto HP:276/597 MP:337/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Taown use
-1-Ziodyne MP:14
-2-Madness Needle MP:11
-3-Nihil Claw MP:11
-4-Mediarama MP:22
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Taown
-1-Makoto HP:276/597 MP:337/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Taown
-1-Makoto HP:276/597 MP:337/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Taown use
-1-Ziodyne MP:14
-2-Madness Needle MP:11
-3-Nihil Claw MP:11
-4-Mediarama MP:22
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Taown
-1-Makoto HP:276/597 MP:337/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Taown use
-1-Ziodyne MP:14
-2-Madness Needle MP:11
-3-Nihil Claw MP:11
-4-Mediarama MP:22
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Taown
-1-Makoto HP:276/597 MP:337/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:276/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:709/709 MP:126/140
-C-Tam Lin HP:12/218 MP:38/43
-D-Kikuri-Hime HP:159/216 MP:183/210
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Kikuri-Hime
-2-Tam Lin
-3-Kei
-4-Taown
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:276/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:709/709 MP:126/140
-C-Tam Lin HP:12/218 MP:38/43
-D-Kikuri-Hime HP:159/216 MP:183/210
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Tam Lin
-2-Kei
-3-Taown
-4-Kikuri-Hime
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Tam Lin
-1-Makoto HP:276/597 MP:337/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Tam Lin use
-1-Hama MP:6
-2-Gram Slice MP:5
-3-Maragi MP:11
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:276/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:709/709 MP:126/140
-C-Tam Lin HP:12/218 MP:38/43
-D-Kikuri-Hime HP:159/216 MP:183/210
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Kei
-2-Taown
-3-Kikuri-Hime
-4-Tam Lin
-----------------------------------------
-Seleccione una acción para Kei
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Kei
-1-Makoto HP:276/597 MP:337/347
+1-Makoto HP:3/597 MP:314/347
 2-Cancelar
 INPUT: 1
 ----------------------------------------
-Kei dispara a Makoto
-Makoto es resistente el ataque de Kei
-Makoto recibe 7 de daño
-Makoto termina con HP:269/597
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:269/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:709/709 MP:126/140
-C-Tam Lin HP:12/218 MP:38/43
-D-Kikuri-Hime HP:159/216 MP:183/210
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Taown
-2-Kikuri-Hime
-3-Tam Lin
-4-Kei
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Taown use
-1-Ziodyne MP:14
-2-Madness Needle MP:11
-3-Nihil Claw MP:11
-4-Mediarama MP:22
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:269/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:709/709 MP:126/140
-C-Tam Lin HP:12/218 MP:38/43
-D-Kikuri-Hime HP:159/216 MP:183/210
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Kikuri-Hime
-2-Tam Lin
-3-Kei
-4-Taown
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:269/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:709/709 MP:126/140
-C-Tam Lin HP:12/218 MP:38/43
-D-Kikuri-Hime HP:159/216 MP:183/210
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Tam Lin
-2-Kei
-3-Taown
-4-Kikuri-Hime
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Tam Lin use
-1-Hama MP:6
-2-Gram Slice MP:5
-3-Maragi MP:11
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Tam Lin
-1-Makoto HP:269/597 MP:337/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:269/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:709/709 MP:126/140
-C-Tam Lin HP:12/218 MP:38/43
-D-Kikuri-Hime HP:159/216 MP:183/210
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Kei
-2-Taown
-3-Kikuri-Hime
-4-Tam Lin
-----------------------------------------
-Seleccione una acción para Kei
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Kei
-1-Makoto HP:269/597 MP:337/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Kei
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Kei
-1-Makoto HP:269/597 MP:337/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Kei dispara a Makoto
-Makoto es resistente el ataque de Kei
-Makoto recibe 7 de daño
-Makoto termina con HP:262/597
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Makoto (J1)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:262/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:709/709 MP:126/140
-C-Tam Lin HP:12/218 MP:38/43
-D-Kikuri-Hime HP:159/216 MP:183/210
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Makoto
-----------------------------------------
-Seleccione una acción para Makoto
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Makoto
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Makoto
-1-Kei HP:760/760 MP:379/398
-2-Taown HP:709/709 MP:126/140
-3-Tam Lin HP:12/218 MP:38/43
-4-Kikuri-Hime HP:159/216 MP:183/210
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Makoto
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:262/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:709/709 MP:126/140
-C-Tam Lin HP:12/218 MP:38/43
-D-Kikuri-Hime HP:159/216 MP:183/210
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Makoto
-----------------------------------------
-Seleccione una acción para Makoto
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Makoto
-1-Kei HP:760/760 MP:379/398
-2-Taown HP:709/709 MP:126/140
-3-Tam Lin HP:12/218 MP:38/43
-4-Kikuri-Hime HP:159/216 MP:183/210
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Makoto ataca a Taown
-Taown recibe 38 de daño
-Taown termina con HP:671/709
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Kei (J2)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:262/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:671/709 MP:126/140
-C-Tam Lin HP:12/218 MP:38/43
-D-Kikuri-Hime HP:159/216 MP:183/210
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Taown
-2-Kikuri-Hime
-3-Tam Lin
-4-Kei
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Taown use
-1-Ziodyne MP:14
-2-Madness Needle MP:11
-3-Nihil Claw MP:11
-4-Mediarama MP:22
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Taown
-1-Makoto HP:262/597 MP:337/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:262/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:671/709 MP:126/140
-C-Tam Lin HP:12/218 MP:38/43
-D-Kikuri-Hime HP:159/216 MP:183/210
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Kikuri-Hime
-2-Tam Lin
-3-Kei
-4-Taown
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:262/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:671/709 MP:126/140
-C-Tam Lin HP:12/218 MP:38/43
-D-Kikuri-Hime HP:159/216 MP:183/210
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Tam Lin
-2-Kei
-3-Taown
-4-Kikuri-Hime
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Tam Lin use
-1-Hama MP:6
-2-Gram Slice MP:5
-3-Maragi MP:11
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Tam Lin
-1-Makoto HP:262/597 MP:337/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Tam Lin ataca a Makoto
-Makoto es resistente el ataque de Tam Lin
-Makoto recibe 7 de daño
-Makoto termina con HP:255/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:255/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:671/709 MP:126/140
-C-Tam Lin HP:12/218 MP:38/43
-D-Kikuri-Hime HP:159/216 MP:183/210
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Kei
-2-Taown
-3-Kikuri-Hime
-4-Tam Lin
-----------------------------------------
-Seleccione una acción para Kei
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Kei
-1-Makoto HP:255/597 MP:337/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Kei
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Kei
-1-Makoto HP:255/597 MP:337/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Kei
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:255/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:671/709 MP:126/140
-C-Tam Lin HP:12/218 MP:38/43
-D-Kikuri-Hime HP:159/216 MP:183/210
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Taown
-2-Kikuri-Hime
-3-Tam Lin
-4-Kei
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:255/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:671/709 MP:126/140
-C-Tam Lin HP:12/218 MP:38/43
-D-Kikuri-Hime HP:159/216 MP:183/210
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Kikuri-Hime
-2-Tam Lin
-3-Kei
-4-Taown
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Kikuri-Hime
-1-Makoto HP:255/597 MP:337/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:255/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:671/709 MP:126/140
-C-Tam Lin HP:12/218 MP:38/43
-D-Kikuri-Hime HP:159/216 MP:183/210
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Tam Lin
-2-Kei
-3-Taown
-4-Kikuri-Hime
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Tam Lin use
-1-Hama MP:6
-2-Gram Slice MP:5
-3-Maragi MP:11
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Tam Lin
-1-Makoto HP:255/597 MP:337/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Tam Lin
-1-Makoto HP:255/597 MP:337/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Tam Lin use
-1-Hama MP:6
-2-Gram Slice MP:5
-3-Maragi MP:11
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Makoto (J1)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:255/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:671/709 MP:126/140
-C-Tam Lin HP:12/218 MP:38/43
-D-Kikuri-Hime HP:159/216 MP:183/210
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Makoto
-----------------------------------------
-Seleccione una acción para Makoto
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Makoto
-1-Kei HP:760/760 MP:379/398
-2-Taown HP:671/709 MP:126/140
-3-Tam Lin HP:12/218 MP:38/43
-4-Kikuri-Hime HP:159/216 MP:183/210
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Makoto dispara a Tam Lin
-Tam Lin recibe 57 de daño
-Tam Lin termina con HP:0/218
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Kei (J2)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:255/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:671/709 MP:126/140
-C-
-D-Kikuri-Hime HP:159/216 MP:183/210
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Taown
-2-Kikuri-Hime
-3-Kei
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Taown use
-1-Ziodyne MP:14
-2-Madness Needle MP:11
-3-Nihil Claw MP:11
-4-Mediarama MP:22
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Taown
-1-Makoto HP:255/597 MP:337/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Taown ataca a Makoto
+Taown lanza electricidad a Makoto
 Makoto es resistente el ataque de Taown
-Makoto recibe 27 de daño
-Makoto termina con HP:228/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:228/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:671/709 MP:126/140
-C-
-D-Kikuri-Hime HP:159/216 MP:183/210
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Kikuri-Hime
-2-Kei
-3-Taown
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Kikuri-Hime
-1-Makoto HP:228/597 MP:337/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Kikuri-Hime ataca a Makoto
-Makoto es resistente el ataque de Kikuri-Hime
-Makoto recibe 11 de daño
-Makoto termina con HP:217/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:217/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:671/709 MP:126/140
-C-
-D-Kikuri-Hime HP:159/216 MP:183/210
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Kei
-2-Taown
-3-Kikuri-Hime
-----------------------------------------
-Seleccione una acción para Kei
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Kei
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:217/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:671/709 MP:126/140
-C-
-D-Kikuri-Hime HP:159/216 MP:183/210
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Taown
-2-Kikuri-Hime
-3-Kei
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Taown use
-1-Ziodyne MP:14
-2-Madness Needle MP:11
-3-Nihil Claw MP:11
-4-Mediarama MP:22
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Taown use
-1-Ziodyne MP:14
-2-Madness Needle MP:11
-3-Nihil Claw MP:11
-4-Mediarama MP:22
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Taown
-1-Makoto HP:217/597 MP:337/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Taown ataca a Makoto
-Makoto es resistente el ataque de Taown
-Makoto recibe 71 de daño
-Taown ataca a Makoto
-Makoto es resistente el ataque de Taown
-Makoto recibe 71 de daño
-Makoto termina con HP:75/597
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Makoto (J1)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:75/597 MP:337/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:760/760 MP:379/398
-B-Taown HP:671/709 MP:115/140
-C-
-D-Kikuri-Hime HP:159/216 MP:183/210
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Makoto
-----------------------------------------
-Seleccione una acción para Makoto
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Makoto
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Makoto use
-1-Bufu MP:5
-2-Stigma Attack MP:20
-3-Riot Gun MP:30
-4-Zionga MP:8
-5-Damascus Claw MP:7
-6-Deadly Wind MP:22
-7-Lunge MP:6
-8-Diarama MP:9
-9-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Makoto
-1-Kei HP:760/760 MP:379/398
-2-Taown HP:671/709 MP:115/140
-3-Kikuri-Hime HP:159/216 MP:183/210
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Makoto dispara a Kei
-Kei es resistente el ataque de Makoto
-Kei recibe 74 de daño
-Kei termina con HP:686/760
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Kei (J2)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:75/597 MP:307/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:686/760 MP:379/398
-B-Taown HP:671/709 MP:115/140
-C-
-D-Kikuri-Hime HP:159/216 MP:183/210
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Taown
-2-Kikuri-Hime
-3-Kei
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Taown use
-1-Ziodyne MP:14
-2-Madness Needle MP:11
-3-Nihil Claw MP:11
-4-Mediarama MP:22
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:75/597 MP:307/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:686/760 MP:379/398
-B-Taown HP:671/709 MP:115/140
-C-
-D-Kikuri-Hime HP:159/216 MP:183/210
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Kikuri-Hime
-2-Kei
-3-Taown
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Kikuri-Hime
-1-Makoto HP:75/597 MP:307/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Kikuri-Hime
-1-Makoto HP:75/597 MP:307/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:75/597 MP:307/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:686/760 MP:379/398
-B-Taown HP:671/709 MP:115/140
-C-
-D-Kikuri-Hime HP:159/216 MP:183/210
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Kei
-2-Taown
-3-Kikuri-Hime
-----------------------------------------
-Seleccione una acción para Kei
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Kei
-1-Makoto HP:75/597 MP:307/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Kei
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Kei use
-1-Agidyne MP:14
-2-Zandyne MP:14
-3-Agi MP:5
-4-Samarecarm MP:40
-5-Tathlum Shot MP:7
-6-Bouncing Claw MP:4
-7-Damascus Claw MP:7
-8-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Kei
-1-Makoto HP:75/597 MP:307/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Kei lanza fuego a Makoto
-Makoto es resistente el ataque de Kei
-Makoto recibe 34 de daño
-Makoto termina con HP:41/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:41/597 MP:307/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:686/760 MP:365/398
-B-Taown HP:671/709 MP:115/140
-C-
-D-Kikuri-Hime HP:159/216 MP:183/210
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Taown
-2-Kikuri-Hime
-3-Kei
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Taown
-1-Makoto HP:41/597 MP:307/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Taown ataca a Makoto
-Makoto es resistente el ataque de Taown
-Makoto recibe 27 de daño
-Makoto termina con HP:14/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Makoto (J1)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:14/597 MP:307/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:686/760 MP:365/398
-B-Taown HP:671/709 MP:115/140
-C-
-D-Kikuri-Hime HP:159/216 MP:183/210
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Makoto
-----------------------------------------
-Seleccione una acción para Makoto
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Makoto use
-1-Bufu MP:5
-2-Stigma Attack MP:20
-3-Riot Gun MP:30
-4-Zionga MP:8
-5-Damascus Claw MP:7
-6-Deadly Wind MP:22
-7-Lunge MP:6
-8-Diarama MP:9
-9-Cancelar
-INPUT: 7
-----------------------------------------
-Seleccione un objetivo para Makoto
-1-Kei HP:686/760 MP:365/398
-2-Taown HP:671/709 MP:115/140
-3-Kikuri-Hime HP:159/216 MP:183/210
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Makoto
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Makoto
-1-Kei HP:686/760 MP:365/398
-2-Taown HP:671/709 MP:115/140
-3-Kikuri-Hime HP:159/216 MP:183/210
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Makoto ataca a Taown
-Taown recibe 38 de daño
-Taown termina con HP:633/709
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Kei (J2)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:14/597 MP:307/347
-B-
-C-
-D-
-Equipo de Kei (J2)
-A-Kei HP:686/760 MP:365/398
-B-Taown HP:633/709 MP:115/140
-C-
-D-Kikuri-Hime HP:159/216 MP:183/210
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Taown
-2-Kikuri-Hime
-3-Kei
-----------------------------------------
-Seleccione una acción para Taown
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Taown
-1-Makoto HP:14/597 MP:307/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Taown ataca a Makoto
-Makoto es resistente el ataque de Taown
-Makoto recibe 27 de daño
+Makoto recibe 56 de daño
 Makoto termina con HP:0/597
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)

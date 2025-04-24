@@ -199,10 +199,42 @@ public class GameUi
         _view.WriteLine("4: Pasar Turno");
         return int.Parse(_view.ReadLine());
     }
-    
-    public void PrintTurnsUsed(Team currentTeam)
+
+    public int DisplaySummonMenu(List<Monster> availableMonsters)
     {
-        // Llamada al método con valores predeterminados
-        PrintTurnsUsed(currentTeam, 0, 0, 0);
+        WriteLine("Seleccione un monstruo para invocar");
+        for (int i = 0; i < availableMonsters.Count; i++)
+        {
+            Monster monster = availableMonsters[i];
+            WriteLine($"{i + 1}-{monster.Name} HP:{monster.Hp}/{monster.OriginalHp} MP:{monster.Mp}/{monster.OriginalMp}");
+        }
+        WriteLine($"{availableMonsters.Count + 1}-Cancelar");
+        return int.Parse(ReadLine());
+    }
+
+    public int DisplayPositionMenu(Team currentTeam)
+    {
+        WriteLine("Seleccione una posición para invocar");
+
+        for (int i = 0; i < 3; i++)
+        {
+            if (i < currentTeam.Units.Count && !currentTeam.Units[i].IsDead())
+            {
+                Monster monster = currentTeam.Units[i];
+                WriteLine($"{i+1}-{monster.Name} HP:{monster.Hp}/{monster.OriginalHp} MP:{monster.Mp}/{monster.OriginalMp} (Puesto {i+2})");
+            }
+            else
+            {
+                WriteLine($"{i+1}-Vacío (Puesto {i+2})");
+            }
+        }
+    
+        WriteLine("4-Cancelar");
+        return int.Parse(ReadLine());
+    }
+
+    public void DisplaySummonSuccess(string monsterName)
+    {
+        WriteLine($"{monsterName} ha sido invocado");
     }
 }

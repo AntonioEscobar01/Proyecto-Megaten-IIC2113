@@ -68,7 +68,7 @@ public class UnitAction
 
             case ActionConstants.InvokeAction:
             case ActionConstants.InvokeActionMonster:
-                ProcessInvokeAction();
+                actionCancelled = ProcessInvokeAction(currentUnit);
                 break;
 
             case ActionConstants.PassTurnAction:
@@ -204,18 +204,45 @@ public class UnitAction
         }
     }
     
-    private void ProcessInvokeAction()
+    private bool ProcessInvokeAction(object currentUnit)
     {
-        // Gasta 1 Blinking Turn, si no hay, paga 1 Full Turn y obtén 1 Blinking Turn adicional
-        if (_currentTeam.BlinkingTurns > 0)
-            _currentTeam.ConsumeBlinkingTurn();
-        else
+        bool isSamurai = currentUnit is Samurai;
+        List<Monster> availableMonsters = _currentTeam.GetAvailableMonstersForSummon();
+    
+        // Siempre mostramos el selector, aunque esté vacío
+        int selectedMonsterIndex = _gameUi.DisplaySummonMenu(availableMonsters);
+    
+        // Si se selecciona cancelar (única opción cuando no hay monstruos)
+        if (selectedMonsterIndex == availableMonsters.Count + 1)
         {
-            _currentTeam.ConsumeFullTurn();
-            _currentTeam.AddBlinkingTurn();
+            _gameUi.PrintLine();
+            ExecuteUnitTurn();
+            return true;
         }
 
-        _currentTeam.RotateOrderList();
+        Monster selectedMonster = availableMonsters[selectedMonsterIndex - 1];
+    
+
+        if (isSamurai)
+        {
+            _gameUi.PrintLine();
+            int selectedPosition = _gameUi.DisplayPositionMenu(_currentTeam);
+            if (selectedPosition == ActionConstants.CancelInvokeSelection)
+            {
+                ExecuteUnitTurn();
+                return true;
+            }
+            _currentTeam.PlaceMonsterInPosition(selectedMonster, selectedPosition - 1);
+        }
+        else
+        {
+            _currentTeam.SwapMonsters((Monster)currentUnit, selectedMonster);
+        }
+
+        _gameUi.PrintLine();
+        _gameUi.DisplaySummonSuccess(selectedMonster.Name);
+        _currentTeam.ConsumeSummonTurns();
+        return false;
     }
 
     private void ProcessPassTurnAction()

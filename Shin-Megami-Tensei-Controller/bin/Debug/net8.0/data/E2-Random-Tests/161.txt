@@ -201,250 +201,276 @@ Elige un archivo para cargar los equipos
 199: 200.txt
 INPUT: 160
 ----------------------------------------
-Ronda de Tadano (J1)
+Ronda de Kei (J1)
 ----------------------------------------
-Equipo de Tadano (J1)
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Shax HP:371/371 MP:360/360
+C-Spriggan HP:147/147 MP:66/66
+D-
+Equipo de Tadano (J2)
 A-Tadano HP:388/388 MP:193/193
-B-Balor HP:492/492 MP:98/98
-C-Melchom HP:71/71 MP:67/67
-D-Spriggan HP:147/147 MP:66/66
-Equipo de Shujinko (J2)
-A-Shujinko HP:1317/1317 MP:625/625
-B-Demonee-Ho HP:804/804 MP:160/160
-C-Nue HP:341/341 MP:67/67
-D-Jueyuan HP:154/154 MP:68/68
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Balor
-2-Tadano
-3-Spriggan
-4-Melchom
-----------------------------------------
-Seleccione una acción para Balor
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Balor use
-1-Agidyne MP:14
-2-Titanomachia MP:30
-3-Mamudo MP:18
-4-Zandyne MP:14
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Balor
-1-Shujinko HP:1317/1317 MP:625/625
-2-Demonee-Ho HP:804/804 MP:160/160
-3-Nue HP:341/341 MP:67/67
-4-Jueyuan HP:154/154 MP:68/68
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Balor lanza fuego a Nue
-Nue recibe 93 de daño
-Nue termina con HP:248/341
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:388/388 MP:193/193
-B-Balor HP:492/492 MP:84/98
-C-Melchom HP:71/71 MP:67/67
-D-Spriggan HP:147/147 MP:66/66
-Equipo de Shujinko (J2)
-A-Shujinko HP:1317/1317 MP:625/625
-B-Demonee-Ho HP:804/804 MP:160/160
-C-Nue HP:248/341 MP:67/67
-D-Jueyuan HP:154/154 MP:68/68
+B-Pale Rider HP:693/693 MP:310/310
+C-
+D-
 ----------------------------------------
 Full Turns: 3
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Tadano
-2-Spriggan
-3-Melchom
-4-Balor
+1-Shax
+2-Kei
+3-Spriggan
 ----------------------------------------
-Seleccione una acción para Tadano
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Shax HP:371/371 MP:360/360
+C-Spriggan HP:147/147 MP:66/66
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Pale Rider HP:693/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Spriggan
+3-Shax
+----------------------------------------
+Seleccione una acción para Kei
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Tadano
-1-Shujinko HP:1317/1317 MP:625/625
-2-Demonee-Ho HP:804/804 MP:160/160
-3-Nue HP:248/341 MP:67/67
-4-Jueyuan HP:154/154 MP:68/68
-5-Cancelar
 INPUT: 3
 ----------------------------------------
-Tadano ataca a Nue
-Nue recibe 16 de daño
-Nue termina con HP:232/341
+Seleccione una habilidad para que Kei use
+1-Damascus Claw MP:7
+2-Trisagion MP:22
+3-Sabbatma MP:20
+4-Cancelar
+INPUT: 1
 ----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Seleccione un objetivo para Kei
+1-Tadano HP:388/388 MP:193/193
+2-Pale Rider HP:693/693 MP:310/310
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Tadano HP:388/388 MP:193/193
+2-Pale Rider HP:693/693 MP:310/310
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kei dispara a Pale Rider
+Pale Rider recibe 15 de daño
+Pale Rider termina con HP:678/693
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Tadano (J1)
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Shax HP:371/371 MP:360/360
+C-Spriggan HP:147/147 MP:66/66
+D-
+Equipo de Tadano (J2)
 A-Tadano HP:388/388 MP:193/193
-B-Balor HP:492/492 MP:84/98
-C-Melchom HP:71/71 MP:67/67
-D-Spriggan HP:147/147 MP:66/66
-Equipo de Shujinko (J2)
-A-Shujinko HP:1317/1317 MP:625/625
-B-Demonee-Ho HP:804/804 MP:160/160
-C-Nue HP:232/341 MP:67/67
-D-Jueyuan HP:154/154 MP:68/68
+B-Pale Rider HP:678/693 MP:310/310
+C-
+D-
 ----------------------------------------
 Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
 1-Spriggan
-2-Melchom
-3-Balor
-4-Tadano
+2-Shax
+3-Kei
 ----------------------------------------
 Seleccione una acción para Spriggan
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Nidhoggr HP:681/681 MP:135/135
-2-Sandman HP:113/113 MP:108/108
-3-Sedna HP:350/350 MP:68/68
-4-Hel HP:254/254 MP:246/246
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Sandman ha sido invocado
+INPUT: 4
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Tadano (J1)
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Shax HP:371/371 MP:360/360
+C-Spriggan HP:147/147 MP:66/66
+D-
+Equipo de Tadano (J2)
 A-Tadano HP:388/388 MP:193/193
-B-Balor HP:492/492 MP:84/98
-C-Melchom HP:71/71 MP:67/67
-D-Sandman HP:113/113 MP:108/108
-Equipo de Shujinko (J2)
-A-Shujinko HP:1317/1317 MP:625/625
-B-Demonee-Ho HP:804/804 MP:160/160
-C-Nue HP:232/341 MP:67/67
-D-Jueyuan HP:154/154 MP:68/68
+B-Pale Rider HP:678/693 MP:310/310
+C-
+D-
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Melchom
-2-Balor
-3-Tadano
-4-Sandman
+1-Shax
+2-Kei
+3-Spriggan
 ----------------------------------------
-Seleccione una acción para Melchom
+Seleccione una acción para Shax
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 2
 ----------------------------------------
-Seleccione una habilidad para que Melchom use
-1-Agi MP:5
-2-Dia MP:5
+Seleccione una habilidad para que Shax use
+1-Deadly Wind MP:22
+2-Poison Breath MP:11
+3-Grand Tack MP:11
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Tadano HP:388/388 MP:193/193
+2-Pale Rider HP:678/693 MP:310/310
 3-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Melchom
-1-Shujinko HP:1317/1317 MP:625/625
-2-Demonee-Ho HP:804/804 MP:160/160
-3-Nue HP:232/341 MP:67/67
-4-Jueyuan HP:154/154 MP:68/68
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Melchom lanza fuego a Demonee-Ho
-Demonee-Ho es resistente el ataque de Melchom
-Demonee-Ho recibe 16 de daño
-Demonee-Ho termina con HP:788/804
+Shax dispara a Tadano
+Tadano recibe 127 de daño
+Tadano termina con HP:261/388
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:388/388 MP:193/193
-B-Balor HP:492/492 MP:84/98
-C-Melchom HP:71/71 MP:62/67
-D-Sandman HP:113/113 MP:108/108
-Equipo de Shujinko (J2)
-A-Shujinko HP:1317/1317 MP:625/625
-B-Demonee-Ho HP:788/804 MP:160/160
-C-Nue HP:232/341 MP:67/67
-D-Jueyuan HP:154/154 MP:68/68
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Shax HP:371/371 MP:349/360
+C-Spriggan HP:147/147 MP:66/66
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:261/388 MP:193/193
+B-Pale Rider HP:678/693 MP:310/310
+C-
+D-
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Balor
-2-Tadano
-3-Sandman
-4-Melchom
+1-Kei
+2-Spriggan
+3-Shax
 ----------------------------------------
-Seleccione una acción para Balor
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Tadano HP:261/388 MP:193/193
+2-Pale Rider HP:678/693 MP:310/310
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kei ataca a Tadano
+Tadano es resistente el ataque de Kei
+Tadano recibe 9 de daño
+Tadano termina con HP:252/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Shax HP:371/371 MP:349/360
+C-Spriggan HP:147/147 MP:66/66
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:252/388 MP:193/193
+B-Pale Rider HP:678/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Tadano
+----------------------------------------
+Seleccione una acción para Pale Rider
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Spriggan HP:147/147 MP:66/66
-2-Nidhoggr HP:681/681 MP:135/135
-3-Sedna HP:350/350 MP:68/68
-4-Hel HP:254/254 MP:246/246
-5-Cancelar
 INPUT: 1
 ----------------------------------------
-Spriggan ha sido invocado
+Seleccione un objetivo para Pale Rider
+1-Kei HP:760/760 MP:398/398
+2-Shax HP:371/371 MP:349/360
+3-Spriggan HP:147/147 MP:66/66
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Pale Rider ataca a Spriggan
+Spriggan es resistente el ataque de Pale Rider
+Spriggan recibe 29 de daño
+Spriggan termina con HP:118/147
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:388/388 MP:193/193
-B-Spriggan HP:147/147 MP:66/66
-C-Melchom HP:71/71 MP:62/67
-D-Sandman HP:113/113 MP:108/108
-Equipo de Shujinko (J2)
-A-Shujinko HP:1317/1317 MP:625/625
-B-Demonee-Ho HP:788/804 MP:160/160
-C-Nue HP:232/341 MP:67/67
-D-Jueyuan HP:154/154 MP:68/68
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Shax HP:371/371 MP:349/360
+C-Spriggan HP:118/147 MP:66/66
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:252/388 MP:193/193
+B-Pale Rider HP:678/693 MP:310/310
+C-
+D-
 ----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
+Full Turns: 1
+Blinking Turns: 0
 ----------------------------------------
 Orden:
 1-Tadano
-2-Sandman
-3-Melchom
-4-Spriggan
+2-Pale Rider
 ----------------------------------------
 Seleccione una acción para Tadano
 1: Atacar
@@ -453,206 +479,13 @@ Seleccione una acción para Tadano
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Tadano
-1-Shujinko HP:1317/1317 MP:625/625
-2-Demonee-Ho HP:788/804 MP:160/160
-3-Nue HP:232/341 MP:67/67
-4-Jueyuan HP:154/154 MP:68/68
-5-Cancelar
 INPUT: 4
-----------------------------------------
-Tadano ataca a Jueyuan
-Jueyuan recibe 16 de daño
-Jueyuan termina con HP:138/154
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Shujinko (J2)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:388/388 MP:193/193
-B-Spriggan HP:147/147 MP:66/66
-C-Melchom HP:71/71 MP:62/67
-D-Sandman HP:113/113 MP:108/108
-Equipo de Shujinko (J2)
-A-Shujinko HP:1317/1317 MP:625/625
-B-Demonee-Ho HP:788/804 MP:160/160
-C-Nue HP:232/341 MP:67/67
-D-Jueyuan HP:138/154 MP:68/68
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shujinko
-2-Demonee-Ho
-3-Nue
-4-Jueyuan
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Tadano HP:388/388 MP:193/193
-2-Spriggan HP:147/147 MP:66/66
-3-Melchom HP:71/71 MP:62/67
-4-Sandman HP:113/113 MP:108/108
-5-Cancelar
-INPUT: 4
-----------------------------------------
-Shujinko dispara a Sandman
-Sandman recibe 228 de daño
-Sandman termina con HP:0/113
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:388/388 MP:193/193
-B-Spriggan HP:147/147 MP:66/66
-C-Melchom HP:71/71 MP:62/67
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1317/1317 MP:625/625
-B-Demonee-Ho HP:788/804 MP:160/160
-C-Nue HP:232/341 MP:67/67
-D-Jueyuan HP:138/154 MP:68/68
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demonee-Ho
-2-Nue
-3-Jueyuan
-4-Shujinko
-----------------------------------------
-Seleccione una acción para Demonee-Ho
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Demonee-Ho use
-1-Iron Judgement MP:8
-2-Desperate Hit MP:40
-3-Breath MP:24
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Demonee-Ho
-1-Tadano HP:388/388 MP:193/193
-2-Spriggan HP:147/147 MP:66/66
-3-Melchom HP:71/71 MP:62/67
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Demonee-Ho ataca a Spriggan
-Spriggan es resistente el ataque de Demonee-Ho
-Spriggan recibe 55 de daño
-Spriggan termina con HP:92/147
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:388/388 MP:193/193
-B-Spriggan HP:92/147 MP:66/66
-C-Melchom HP:71/71 MP:62/67
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1317/1317 MP:625/625
-B-Demonee-Ho HP:788/804 MP:152/160
-C-Nue HP:232/341 MP:67/67
-D-Jueyuan HP:138/154 MP:68/68
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Nue
-2-Jueyuan
-3-Shujinko
-4-Demonee-Ho
-----------------------------------------
-Seleccione una acción para Nue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:388/388 MP:193/193
-B-Spriggan HP:92/147 MP:66/66
-C-Melchom HP:71/71 MP:62/67
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1317/1317 MP:625/625
-B-Demonee-Ho HP:788/804 MP:152/160
-C-Nue HP:232/341 MP:67/67
-D-Jueyuan HP:138/154 MP:68/68
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Jueyuan
-2-Shujinko
-3-Demonee-Ho
-4-Nue
-----------------------------------------
-Seleccione una acción para Jueyuan
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
 ----------------------------------------
 Seleccione un monstruo para invocar
-1-Nebiros HP:249/249 MP:242/242
-2-Cancelar
+1-Cancelar
 INPUT: 1
 ----------------------------------------
-Nebiros ha sido invocado
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:388/388 MP:193/193
-B-Spriggan HP:92/147 MP:66/66
-C-Melchom HP:71/71 MP:62/67
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1317/1317 MP:625/625
-B-Demonee-Ho HP:788/804 MP:152/160
-C-Nue HP:232/341 MP:67/67
-D-Nebiros HP:249/249 MP:242/242
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shujinko
-2-Demonee-Ho
-3-Nue
-4-Nebiros
-----------------------------------------
-Seleccione una acción para Shujinko
+Seleccione una acción para Tadano
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -664,105 +497,174 @@ INPUT: 5
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:388/388 MP:193/193
-B-Spriggan HP:92/147 MP:66/66
-C-Melchom HP:71/71 MP:62/67
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Shax HP:371/371 MP:349/360
+C-Spriggan HP:118/147 MP:66/66
 D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1317/1317 MP:625/625
-B-Demonee-Ho HP:788/804 MP:152/160
-C-Nue HP:232/341 MP:67/67
-D-Nebiros HP:249/249 MP:242/242
+Equipo de Tadano (J2)
+A-Tadano HP:252/388 MP:193/193
+B-Pale Rider HP:678/693 MP:310/310
+C-
+D-
 ----------------------------------------
 Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Demonee-Ho
-2-Nue
-3-Nebiros
-4-Shujinko
+1-Pale Rider
+2-Tadano
 ----------------------------------------
-Seleccione una acción para Demonee-Ho
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Kei HP:760/760 MP:398/398
+2-Shax HP:371/371 MP:349/360
+3-Spriggan HP:118/147 MP:66/66
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Pale Rider ataca a Kei
+Kei es resistente el ataque de Pale Rider
+Kei recibe 29 de daño
+Kei termina con HP:731/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:731/760 MP:398/398
+B-Shax HP:371/371 MP:349/360
+C-Spriggan HP:118/147 MP:66/66
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:252/388 MP:193/193
+B-Pale Rider HP:678/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Kei
+3-Spriggan
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Tadano HP:252/388 MP:193/193
+2-Pale Rider HP:678/693 MP:310/310
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Shax
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 4
 ----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Ronda de Tadano (J1)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:388/388 MP:193/193
-B-Spriggan HP:92/147 MP:66/66
-C-Melchom HP:71/71 MP:62/67
+Equipo de Kei (J1)
+A-Kei HP:731/760 MP:398/398
+B-Shax HP:371/371 MP:349/360
+C-Spriggan HP:118/147 MP:66/66
 D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1317/1317 MP:625/625
-B-Demonee-Ho HP:788/804 MP:152/160
-C-Nue HP:232/341 MP:67/67
-D-Nebiros HP:249/249 MP:242/242
+Equipo de Tadano (J2)
+A-Tadano HP:252/388 MP:193/193
+B-Pale Rider HP:678/693 MP:310/310
+C-
+D-
 ----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
+Full Turns: 2
+Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Tadano
+1-Kei
 2-Spriggan
-3-Melchom
+3-Shax
 ----------------------------------------
-Seleccione una acción para Tadano
+Seleccione una acción para Kei
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 4
+INPUT: 2
 ----------------------------------------
-Seleccione un monstruo para invocar
-1-Balor HP:492/492 MP:84/98
-2-Nidhoggr HP:681/681 MP:135/135
-3-Sedna HP:350/350 MP:68/68
-4-Hel HP:254/254 MP:246/246
-5-Cancelar
-INPUT: 3
+Seleccione un objetivo para Kei
+1-Tadano HP:252/388 MP:193/193
+2-Pale Rider HP:678/693 MP:310/310
+3-Cancelar
+INPUT: 1
 ----------------------------------------
-Seleccione una posición para invocar
-1-Spriggan HP:92/147 MP:66/66 (Puesto 2)
-2-Melchom HP:71/71 MP:62/67 (Puesto 3)
-3-Vacío (Puesto 4)
-4-Cancelar
-INPUT: 3
+Kei dispara a Tadano
+Tadano recibe 15 de daño
+Tadano termina con HP:237/388
 ----------------------------------------
-Sedna ha sido invocado
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:388/388 MP:193/193
-B-Spriggan HP:92/147 MP:66/66
-C-Melchom HP:71/71 MP:62/67
-D-Sedna HP:350/350 MP:68/68
-Equipo de Shujinko (J2)
-A-Shujinko HP:1317/1317 MP:625/625
-B-Demonee-Ho HP:788/804 MP:152/160
-C-Nue HP:232/341 MP:67/67
-D-Nebiros HP:249/249 MP:242/242
+Equipo de Kei (J1)
+A-Kei HP:731/760 MP:398/398
+B-Shax HP:371/371 MP:349/360
+C-Spriggan HP:118/147 MP:66/66
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:237/388 MP:193/193
+B-Pale Rider HP:678/693 MP:310/310
+C-
+D-
 ----------------------------------------
 Full Turns: 2
-Blinking Turns: 1
+Blinking Turns: 0
 ----------------------------------------
 Orden:
 1-Spriggan
-2-Melchom
-3-Sedna
-4-Tadano
+2-Shax
+3-Kei
+----------------------------------------
+Seleccione una acción para Spriggan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Spriggan use
+1-Agi MP:5
+2-Dormina MP:4
+3-Maragi MP:11
+4-Cancelar
+INPUT: 4
 ----------------------------------------
 Seleccione una acción para Spriggan
 1: Atacar
@@ -779,196 +681,67 @@ Seleccione una habilidad para que Spriggan use
 INPUT: 1
 ----------------------------------------
 Seleccione un objetivo para Spriggan
-1-Shujinko HP:1317/1317 MP:625/625
-2-Demonee-Ho HP:788/804 MP:152/160
-3-Nue HP:232/341 MP:67/67
-4-Nebiros HP:249/249 MP:242/242
-5-Cancelar
+1-Tadano HP:237/388 MP:193/193
+2-Pale Rider HP:678/693 MP:310/310
+3-Cancelar
 INPUT: 2
 ----------------------------------------
-Spriggan lanza fuego a Demonee-Ho
-Demonee-Ho es resistente el ataque de Spriggan
-Demonee-Ho recibe 18 de daño
-Demonee-Ho termina con HP:770/804
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:388/388 MP:193/193
-B-Spriggan HP:92/147 MP:61/66
-C-Melchom HP:71/71 MP:62/67
-D-Sedna HP:350/350 MP:68/68
-Equipo de Shujinko (J2)
-A-Shujinko HP:1317/1317 MP:625/625
-B-Demonee-Ho HP:770/804 MP:152/160
-C-Nue HP:232/341 MP:67/67
-D-Nebiros HP:249/249 MP:242/242
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Melchom
-2-Sedna
-3-Tadano
-4-Spriggan
-----------------------------------------
-Seleccione una acción para Melchom
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Melchom
-1-Shujinko HP:1317/1317 MP:625/625
-2-Demonee-Ho HP:770/804 MP:152/160
-3-Nue HP:232/341 MP:67/67
-4-Nebiros HP:249/249 MP:242/242
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Melchom ataca a Shujinko
-Shujinko es resistente el ataque de Melchom
-Shujinko recibe 3 de daño
-Shujinko termina con HP:1314/1317
+Spriggan lanza fuego a Pale Rider
+Pale Rider recibe 36 de daño
+Pale Rider termina con HP:642/693
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:388/388 MP:193/193
-B-Spriggan HP:92/147 MP:61/66
-C-Melchom HP:71/71 MP:62/67
-D-Sedna HP:350/350 MP:68/68
-Equipo de Shujinko (J2)
-A-Shujinko HP:1314/1317 MP:625/625
-B-Demonee-Ho HP:770/804 MP:152/160
-C-Nue HP:232/341 MP:67/67
-D-Nebiros HP:249/249 MP:242/242
+Equipo de Kei (J1)
+A-Kei HP:731/760 MP:398/398
+B-Shax HP:371/371 MP:349/360
+C-Spriggan HP:118/147 MP:61/66
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:237/388 MP:193/193
+B-Pale Rider HP:642/693 MP:310/310
+C-
+D-
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Sedna
-2-Tadano
+1-Shax
+2-Kei
 3-Spriggan
-4-Melchom
 ----------------------------------------
-Seleccione una acción para Sedna
+Seleccione una acción para Shax
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Balor HP:492/492 MP:84/98
-2-Nidhoggr HP:681/681 MP:135/135
-3-Hel HP:254/254 MP:246/246
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Nidhoggr ha sido invocado
+INPUT: 4
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:388/388 MP:193/193
-B-Spriggan HP:92/147 MP:61/66
-C-Melchom HP:71/71 MP:62/67
-D-Nidhoggr HP:681/681 MP:135/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1314/1317 MP:625/625
-B-Demonee-Ho HP:770/804 MP:152/160
-C-Nue HP:232/341 MP:67/67
-D-Nebiros HP:249/249 MP:242/242
+Equipo de Kei (J1)
+A-Kei HP:731/760 MP:398/398
+B-Shax HP:371/371 MP:349/360
+C-Spriggan HP:118/147 MP:61/66
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:237/388 MP:193/193
+B-Pale Rider HP:642/693 MP:310/310
+C-
+D-
 ----------------------------------------
 Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Tadano
+1-Kei
 2-Spriggan
-3-Melchom
-4-Nidhoggr
+3-Shax
 ----------------------------------------
-Seleccione una acción para Tadano
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Tadano
-1-Shujinko HP:1314/1317 MP:625/625
-2-Demonee-Ho HP:770/804 MP:152/160
-3-Nue HP:232/341 MP:67/67
-4-Nebiros HP:249/249 MP:242/242
-5-Cancelar
-INPUT: 4
-----------------------------------------
-Tadano dispara a Nebiros
-Nebiros recibe 20 de daño
-Nebiros termina con HP:229/249
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Shujinko (J2)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:388/388 MP:193/193
-B-Spriggan HP:92/147 MP:61/66
-C-Melchom HP:71/71 MP:62/67
-D-Nidhoggr HP:681/681 MP:135/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1314/1317 MP:625/625
-B-Demonee-Ho HP:770/804 MP:152/160
-C-Nue HP:232/341 MP:67/67
-D-Nebiros HP:229/249 MP:242/242
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shujinko
-2-Demonee-Ho
-3-Nebiros
-4-Nue
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Shujinko use
-1-Zanma MP:8
-2-Zio MP:5
-3-Needle Shot MP:4
-4-Samarecarm MP:40
-5-Riot Gun MP:30
-6-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Tadano HP:388/388 MP:193/193
-2-Spriggan HP:92/147 MP:61/66
-3-Melchom HP:71/71 MP:62/67
-4-Nidhoggr HP:681/681 MP:135/135
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Shujinko
+Seleccione una acción para Kei
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -978,73 +751,194 @@ Seleccione una acción para Shujinko
 INPUT: 4
 ----------------------------------------
 Seleccione un monstruo para invocar
-1-Jueyuan HP:138/154 MP:68/68
-2-Cancelar
-INPUT: 2
+1-Cancelar
+INPUT: 1
 ----------------------------------------
-Seleccione una acción para Shujinko
+Seleccione una acción para Kei
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Tadano HP:388/388 MP:193/193
-2-Spriggan HP:92/147 MP:61/66
-3-Melchom HP:71/71 MP:62/67
-4-Nidhoggr HP:681/681 MP:135/135
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Tadano HP:388/388 MP:193/193
-2-Spriggan HP:92/147 MP:61/66
-3-Melchom HP:71/71 MP:62/67
-4-Nidhoggr HP:681/681 MP:135/135
-5-Cancelar
 INPUT: 4
 ----------------------------------------
-Shujinko ataca a Nidhoggr
-Nidhoggr es resistente el ataque de Shujinko
-Nidhoggr recibe 93 de daño
-Nidhoggr termina con HP:588/681
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Tadano HP:237/388 MP:193/193
+2-Pale Rider HP:642/693 MP:310/310
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kei ataca a Pale Rider
+Pale Rider recibe 19 de daño
+Pale Rider termina con HP:623/693
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:731/760 MP:398/398
+B-Shax HP:371/371 MP:349/360
+C-Spriggan HP:118/147 MP:61/66
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:237/388 MP:193/193
+B-Pale Rider HP:623/693 MP:310/310
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Tadano
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pale Rider use
+1-Pandemic Bomb MP:11
+2-Death's Door MP:10
+3-Deadly Wind MP:22
+4-Debilitate MP:50
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Kei HP:731/760 MP:398/398
+2-Shax HP:371/371 MP:349/360
+3-Spriggan HP:118/147 MP:61/66
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Pale Rider lanza viento a Kei
+Kei es resistente el ataque de Pale Rider
+Kei recibe 84 de daño
+Kei termina con HP:647/760
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:388/388 MP:193/193
-B-Spriggan HP:92/147 MP:61/66
-C-Melchom HP:71/71 MP:62/67
-D-Nidhoggr HP:588/681 MP:135/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1314/1317 MP:625/625
-B-Demonee-Ho HP:770/804 MP:152/160
-C-Nue HP:232/341 MP:67/67
-D-Nebiros HP:229/249 MP:242/242
+Equipo de Kei (J1)
+A-Kei HP:647/760 MP:398/398
+B-Shax HP:371/371 MP:349/360
+C-Spriggan HP:118/147 MP:61/66
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:237/388 MP:193/193
+B-Pale Rider HP:623/693 MP:288/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Pale Rider
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tadano use
+1-Tathlum Shot MP:7
+2-Axel Claw MP:15
+3-Diarama MP:9
+4-Bufula MP:8
+5-Oni-Kagura MP:9
+6-Zio MP:5
+7-Needle Shot MP:4
+8-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Kei HP:647/760 MP:398/398
+2-Shax HP:371/371 MP:349/360
+3-Spriggan HP:118/147 MP:61/66
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Kei
+Kei es resistente el ataque de Tadano
+Kei recibe 38 de daño
+Tadano ataca a Kei
+Kei es resistente el ataque de Tadano
+Kei recibe 38 de daño
+Kei termina con HP:571/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:571/760 MP:398/398
+B-Shax HP:371/371 MP:349/360
+C-Spriggan HP:118/147 MP:61/66
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:237/388 MP:178/193
+B-Pale Rider HP:623/693 MP:288/310
+C-
+D-
 ----------------------------------------
 Full Turns: 3
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Demonee-Ho
-2-Nebiros
-3-Nue
-4-Shujinko
+1-Shax
+2-Kei
+3-Spriggan
 ----------------------------------------
-Seleccione una acción para Demonee-Ho
+Seleccione una acción para Shax
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -1054,1978 +948,162 @@ INPUT: 4
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:388/388 MP:193/193
-B-Spriggan HP:92/147 MP:61/66
-C-Melchom HP:71/71 MP:62/67
-D-Nidhoggr HP:588/681 MP:135/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1314/1317 MP:625/625
-B-Demonee-Ho HP:770/804 MP:152/160
-C-Nue HP:232/341 MP:67/67
-D-Nebiros HP:229/249 MP:242/242
+Equipo de Kei (J1)
+A-Kei HP:571/760 MP:398/398
+B-Shax HP:371/371 MP:349/360
+C-Spriggan HP:118/147 MP:61/66
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:237/388 MP:178/193
+B-Pale Rider HP:623/693 MP:288/310
+C-
+D-
 ----------------------------------------
 Full Turns: 2
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Nebiros
-2-Nue
-3-Shujinko
-4-Demonee-Ho
+1-Kei
+2-Spriggan
+3-Shax
 ----------------------------------------
-Seleccione una acción para Nebiros
+Seleccione una acción para Kei
 1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Nebiros
-1-Tadano HP:388/388 MP:193/193
-2-Spriggan HP:92/147 MP:61/66
-3-Melchom HP:71/71 MP:62/67
-4-Nidhoggr HP:588/681 MP:135/135
-5-Cancelar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
 INPUT: 3
 ----------------------------------------
-Nebiros ataca a Melchom
-Melchom recibe 26 de daño
-Melchom termina con HP:45/71
+Seleccione una habilidad para que Kei use
+1-Damascus Claw MP:7
+2-Trisagion MP:22
+3-Sabbatma MP:20
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Damascus Claw MP:7
+2-Trisagion MP:22
+3-Sabbatma MP:20
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Tadano HP:237/388 MP:178/193
+2-Pale Rider HP:623/693 MP:288/310
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kei ataca a Tadano
+Tadano es resistente el ataque de Kei
+Tadano recibe 9 de daño
+Tadano termina con HP:228/388
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:388/388 MP:193/193
-B-Spriggan HP:92/147 MP:61/66
-C-Melchom HP:45/71 MP:62/67
-D-Nidhoggr HP:588/681 MP:135/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1314/1317 MP:625/625
-B-Demonee-Ho HP:770/804 MP:152/160
-C-Nue HP:232/341 MP:67/67
-D-Nebiros HP:229/249 MP:242/242
+Equipo de Kei (J1)
+A-Kei HP:571/760 MP:398/398
+B-Shax HP:371/371 MP:349/360
+C-Spriggan HP:118/147 MP:61/66
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:228/388 MP:178/193
+B-Pale Rider HP:623/693 MP:288/310
+C-
+D-
 ----------------------------------------
 Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Nue
-2-Shujinko
-3-Demonee-Ho
-4-Nebiros
-----------------------------------------
-Seleccione una acción para Nue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Nue use
-1-Scratch Dance MP:9
-2-Zionga MP:8
-3-Shock MP:21
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Nue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Nue
-1-Tadano HP:388/388 MP:193/193
-2-Spriggan HP:92/147 MP:61/66
-3-Melchom HP:45/71 MP:62/67
-4-Nidhoggr HP:588/681 MP:135/135
-5-Cancelar
-INPUT: 4
-----------------------------------------
-Nue ataca a Nidhoggr
-Nidhoggr es resistente el ataque de Nue
-Nidhoggr recibe 12 de daño
-Nidhoggr termina con HP:576/681
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:388/388 MP:193/193
-B-Spriggan HP:92/147 MP:61/66
-C-Melchom HP:45/71 MP:62/67
-D-Nidhoggr HP:576/681 MP:135/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1314/1317 MP:625/625
-B-Demonee-Ho HP:770/804 MP:152/160
-C-Nue HP:232/341 MP:67/67
-D-Nebiros HP:229/249 MP:242/242
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shujinko
-2-Demonee-Ho
-3-Nebiros
-4-Nue
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Tadano HP:388/388 MP:193/193
-2-Spriggan HP:92/147 MP:61/66
-3-Melchom HP:45/71 MP:62/67
-4-Nidhoggr HP:576/681 MP:135/135
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Shujinko dispara a Melchom
-Melchom recibe 228 de daño
-Melchom termina con HP:0/71
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Tadano (J1)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:388/388 MP:193/193
-B-Spriggan HP:92/147 MP:61/66
-C-
-D-Nidhoggr HP:576/681 MP:135/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1314/1317 MP:625/625
-B-Demonee-Ho HP:770/804 MP:152/160
-C-Nue HP:232/341 MP:67/67
-D-Nebiros HP:229/249 MP:242/242
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Nidhoggr
-2-Tadano
-3-Spriggan
-----------------------------------------
-Seleccione una acción para Nidhoggr
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Nidhoggr use
-1-Grand Tack MP:11
-2-Life Drain MP:5
-3-Madness Nails MP:26
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Nidhoggr
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Nidhoggr
-1-Shujinko HP:1314/1317 MP:625/625
-2-Demonee-Ho HP:770/804 MP:152/160
-3-Nue HP:232/341 MP:67/67
-4-Nebiros HP:229/249 MP:242/242
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Nidhoggr ataca a Shujinko
-Shujinko es resistente el ataque de Nidhoggr
-Shujinko recibe 26 de daño
-Shujinko termina con HP:1288/1317
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:388/388 MP:193/193
-B-Spriggan HP:92/147 MP:61/66
-C-
-D-Nidhoggr HP:576/681 MP:135/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1288/1317 MP:625/625
-B-Demonee-Ho HP:770/804 MP:152/160
-C-Nue HP:232/341 MP:67/67
-D-Nebiros HP:229/249 MP:242/242
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Tadano
-2-Spriggan
-3-Nidhoggr
-----------------------------------------
-Seleccione una acción para Tadano
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Tadano
-1-Shujinko HP:1288/1317 MP:625/625
-2-Demonee-Ho HP:770/804 MP:152/160
-3-Nue HP:232/341 MP:67/67
-4-Nebiros HP:229/249 MP:242/242
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Tadano ataca a Nue
-Nue recibe 16 de daño
-Nue termina con HP:216/341
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:388/388 MP:193/193
-B-Spriggan HP:92/147 MP:61/66
-C-
-D-Nidhoggr HP:576/681 MP:135/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1288/1317 MP:625/625
-B-Demonee-Ho HP:770/804 MP:152/160
-C-Nue HP:216/341 MP:67/67
-D-Nebiros HP:229/249 MP:242/242
-----------------------------------------
-Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
 1-Spriggan
-2-Nidhoggr
-3-Tadano
+2-Shax
+3-Kei
 ----------------------------------------
 Seleccione una acción para Spriggan
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Balor HP:492/492 MP:84/98
-2-Sedna HP:350/350 MP:68/68
-3-Hel HP:254/254 MP:246/246
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Sedna ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:388/388 MP:193/193
-B-Sedna HP:350/350 MP:68/68
-C-
-D-Nidhoggr HP:576/681 MP:135/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1288/1317 MP:625/625
-B-Demonee-Ho HP:770/804 MP:152/160
-C-Nue HP:216/341 MP:67/67
-D-Nebiros HP:229/249 MP:242/242
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Nidhoggr
-2-Tadano
-3-Sedna
-----------------------------------------
-Seleccione una acción para Nidhoggr
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Balor HP:492/492 MP:84/98
-2-Spriggan HP:92/147 MP:61/66
-3-Hel HP:254/254 MP:246/246
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Nidhoggr
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Nidhoggr use
-1-Grand Tack MP:11
-2-Life Drain MP:5
-3-Madness Nails MP:26
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Nidhoggr
-1-Shujinko HP:1288/1317 MP:625/625
-2-Demonee-Ho HP:770/804 MP:152/160
-3-Nue HP:216/341 MP:67/67
-4-Nebiros HP:229/249 MP:242/242
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Nidhoggr dispara a Demonee-Ho
-Demonee-Ho es resistente el ataque de Nidhoggr
-Demonee-Ho recibe 64 de daño
-Demonee-Ho termina con HP:706/804
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Shujinko (J2)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:388/388 MP:193/193
-B-Sedna HP:350/350 MP:68/68
-C-
-D-Nidhoggr HP:576/681 MP:124/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1288/1317 MP:625/625
-B-Demonee-Ho HP:706/804 MP:152/160
-C-Nue HP:216/341 MP:67/67
-D-Nebiros HP:229/249 MP:242/242
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shujinko
-2-Demonee-Ho
-3-Nebiros
-4-Nue
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Jueyuan HP:138/154 MP:68/68
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una posición para invocar
-1-Demonee-Ho HP:706/804 MP:152/160 (Puesto 2)
-2-Nue HP:216/341 MP:67/67 (Puesto 3)
-3-Nebiros HP:229/249 MP:242/242 (Puesto 4)
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Jueyuan ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:388/388 MP:193/193
-B-Sedna HP:350/350 MP:68/68
-C-
-D-Nidhoggr HP:576/681 MP:124/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1288/1317 MP:625/625
-B-Demonee-Ho HP:706/804 MP:152/160
-C-Jueyuan HP:138/154 MP:68/68
-D-Nebiros HP:229/249 MP:242/242
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Demonee-Ho
-2-Nebiros
-3-Jueyuan
-4-Shujinko
-----------------------------------------
-Seleccione una acción para Demonee-Ho
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:388/388 MP:193/193
-B-Sedna HP:350/350 MP:68/68
-C-
-D-Nidhoggr HP:576/681 MP:124/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1288/1317 MP:625/625
-B-Demonee-Ho HP:706/804 MP:152/160
-C-Jueyuan HP:138/154 MP:68/68
-D-Nebiros HP:229/249 MP:242/242
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Nebiros
-2-Jueyuan
-3-Shujinko
-4-Demonee-Ho
-----------------------------------------
-Seleccione una acción para Nebiros
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Nebiros
-1-Tadano HP:388/388 MP:193/193
-2-Sedna HP:350/350 MP:68/68
-3-Nidhoggr HP:576/681 MP:124/135
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Nebiros ataca a Nidhoggr
-Nidhoggr es resistente el ataque de Nebiros
-Nidhoggr recibe 13 de daño
-Nidhoggr termina con HP:563/681
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:388/388 MP:193/193
-B-Sedna HP:350/350 MP:68/68
-C-
-D-Nidhoggr HP:563/681 MP:124/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1288/1317 MP:625/625
-B-Demonee-Ho HP:706/804 MP:152/160
-C-Jueyuan HP:138/154 MP:68/68
-D-Nebiros HP:229/249 MP:242/242
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Jueyuan
-2-Shujinko
-3-Demonee-Ho
-4-Nebiros
-----------------------------------------
-Seleccione una acción para Jueyuan
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
 INPUT: 4
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:388/388 MP:193/193
-B-Sedna HP:350/350 MP:68/68
+Equipo de Kei (J1)
+A-Kei HP:571/760 MP:398/398
+B-Shax HP:371/371 MP:349/360
+C-Spriggan HP:118/147 MP:61/66
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:228/388 MP:178/193
+B-Pale Rider HP:623/693 MP:288/310
 C-
-D-Nidhoggr HP:563/681 MP:124/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1288/1317 MP:625/625
-B-Demonee-Ho HP:706/804 MP:152/160
-C-Jueyuan HP:138/154 MP:68/68
-D-Nebiros HP:229/249 MP:242/242
+D-
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Shujinko
-2-Demonee-Ho
-3-Nebiros
-4-Jueyuan
+1-Shax
+2-Kei
+3-Spriggan
 ----------------------------------------
-Seleccione una acción para Shujinko
+Seleccione una acción para Shax
 1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
 INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Nue HP:216/341 MP:67/67
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una posición para invocar
-1-Demonee-Ho HP:706/804 MP:152/160 (Puesto 2)
-2-Jueyuan HP:138/154 MP:68/68 (Puesto 3)
-3-Nebiros HP:229/249 MP:242/242 (Puesto 4)
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Nue ha sido invocado
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:388/388 MP:193/193
-B-Sedna HP:350/350 MP:68/68
+Equipo de Kei (J1)
+A-Kei HP:571/760 MP:398/398
+B-Shax HP:371/371 MP:349/360
+C-Spriggan HP:118/147 MP:61/66
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:228/388 MP:178/193
+B-Pale Rider HP:623/693 MP:288/310
 C-
-D-Nidhoggr HP:563/681 MP:124/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1288/1317 MP:625/625
-B-Demonee-Ho HP:706/804 MP:152/160
-C-Nue HP:216/341 MP:67/67
-D-Nebiros HP:229/249 MP:242/242
+D-
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Demonee-Ho
-2-Nebiros
-3-Nue
-4-Shujinko
-----------------------------------------
-Seleccione una acción para Demonee-Ho
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Demonee-Ho
-1-Tadano HP:388/388 MP:193/193
-2-Sedna HP:350/350 MP:68/68
-3-Nidhoggr HP:563/681 MP:124/135
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Demonee-Ho ataca a Tadano
-Tadano es resistente el ataque de Demonee-Ho
-Tadano recibe 31 de daño
-Tadano termina con HP:357/388
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Tadano (J1)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:357/388 MP:193/193
-B-Sedna HP:350/350 MP:68/68
-C-
-D-Nidhoggr HP:563/681 MP:124/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1288/1317 MP:625/625
-B-Demonee-Ho HP:706/804 MP:152/160
-C-Nue HP:216/341 MP:67/67
-D-Nebiros HP:229/249 MP:242/242
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Nidhoggr
-2-Sedna
-3-Tadano
-----------------------------------------
-Seleccione una acción para Nidhoggr
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Balor HP:492/492 MP:84/98
-2-Spriggan HP:92/147 MP:61/66
-3-Hel HP:254/254 MP:246/246
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Nidhoggr
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:357/388 MP:193/193
-B-Sedna HP:350/350 MP:68/68
-C-
-D-Nidhoggr HP:563/681 MP:124/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1288/1317 MP:625/625
-B-Demonee-Ho HP:706/804 MP:152/160
-C-Nue HP:216/341 MP:67/67
-D-Nebiros HP:229/249 MP:242/242
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Sedna
-2-Tadano
-3-Nidhoggr
-----------------------------------------
-Seleccione una acción para Sedna
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Sedna use
-1-Mabufula MP:20
-2-Mamudo MP:18
-3-Posumudi MP:5
-4-Diarama MP:9
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Sedna
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Balor HP:492/492 MP:84/98
-2-Spriggan HP:92/147 MP:61/66
-3-Hel HP:254/254 MP:246/246
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Balor ha sido invocado
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:357/388 MP:193/193
-B-Balor HP:492/492 MP:84/98
-C-
-D-Nidhoggr HP:563/681 MP:124/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1288/1317 MP:625/625
-B-Demonee-Ho HP:706/804 MP:152/160
-C-Nue HP:216/341 MP:67/67
-D-Nebiros HP:229/249 MP:242/242
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Tadano
-2-Nidhoggr
-3-Balor
-----------------------------------------
-Seleccione una acción para Tadano
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Tadano
-1-Shujinko HP:1288/1317 MP:625/625
-2-Demonee-Ho HP:706/804 MP:152/160
-3-Nue HP:216/341 MP:67/67
-4-Nebiros HP:229/249 MP:242/242
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Tadano ataca a Shujinko
-Shujinko es resistente el ataque de Tadano
-Shujinko recibe 8 de daño
-Shujinko termina con HP:1280/1317
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:357/388 MP:193/193
-B-Balor HP:492/492 MP:84/98
-C-
-D-Nidhoggr HP:563/681 MP:124/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1280/1317 MP:625/625
-B-Demonee-Ho HP:706/804 MP:152/160
-C-Nue HP:216/341 MP:67/67
-D-Nebiros HP:229/249 MP:242/242
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Nidhoggr
-2-Balor
-3-Tadano
-----------------------------------------
-Seleccione una acción para Nidhoggr
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Spriggan HP:92/147 MP:61/66
-2-Sedna HP:350/350 MP:68/68
-3-Hel HP:254/254 MP:246/246
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Nidhoggr
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:357/388 MP:193/193
-B-Balor HP:492/492 MP:84/98
-C-
-D-Nidhoggr HP:563/681 MP:124/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1280/1317 MP:625/625
-B-Demonee-Ho HP:706/804 MP:152/160
-C-Nue HP:216/341 MP:67/67
-D-Nebiros HP:229/249 MP:242/242
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Balor
-2-Tadano
-3-Nidhoggr
-----------------------------------------
-Seleccione una acción para Balor
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Shujinko (J2)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:357/388 MP:193/193
-B-Balor HP:492/492 MP:84/98
-C-
-D-Nidhoggr HP:563/681 MP:124/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1280/1317 MP:625/625
-B-Demonee-Ho HP:706/804 MP:152/160
-C-Nue HP:216/341 MP:67/67
-D-Nebiros HP:229/249 MP:242/242
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shujinko
-2-Demonee-Ho
-3-Nebiros
-4-Nue
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Tadano HP:357/388 MP:193/193
-2-Balor HP:492/492 MP:84/98
-3-Nidhoggr HP:563/681 MP:124/135
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Shujinko dispara a Tadano
-Tadano recibe 228 de daño
-Tadano termina con HP:129/388
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:129/388 MP:193/193
-B-Balor HP:492/492 MP:84/98
-C-
-D-Nidhoggr HP:563/681 MP:124/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1280/1317 MP:625/625
-B-Demonee-Ho HP:706/804 MP:152/160
-C-Nue HP:216/341 MP:67/67
-D-Nebiros HP:229/249 MP:242/242
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demonee-Ho
-2-Nebiros
-3-Nue
-4-Shujinko
-----------------------------------------
-Seleccione una acción para Demonee-Ho
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:129/388 MP:193/193
-B-Balor HP:492/492 MP:84/98
-C-
-D-Nidhoggr HP:563/681 MP:124/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1280/1317 MP:625/625
-B-Demonee-Ho HP:706/804 MP:152/160
-C-Nue HP:216/341 MP:67/67
-D-Nebiros HP:229/249 MP:242/242
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Nebiros
-2-Nue
-3-Shujinko
-4-Demonee-Ho
-----------------------------------------
-Seleccione una acción para Nebiros
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Nebiros
-1-Tadano HP:129/388 MP:193/193
-2-Balor HP:492/492 MP:84/98
-3-Nidhoggr HP:563/681 MP:124/135
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Nebiros ataca a Balor
-Balor recibe 26 de daño
-Balor termina con HP:466/492
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:129/388 MP:193/193
-B-Balor HP:466/492 MP:84/98
-C-
-D-Nidhoggr HP:563/681 MP:124/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1280/1317 MP:625/625
-B-Demonee-Ho HP:706/804 MP:152/160
-C-Nue HP:216/341 MP:67/67
-D-Nebiros HP:229/249 MP:242/242
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Nue
-2-Shujinko
-3-Demonee-Ho
-4-Nebiros
-----------------------------------------
-Seleccione una acción para Nue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:129/388 MP:193/193
-B-Balor HP:466/492 MP:84/98
-C-
-D-Nidhoggr HP:563/681 MP:124/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1280/1317 MP:625/625
-B-Demonee-Ho HP:706/804 MP:152/160
-C-Nue HP:216/341 MP:67/67
-D-Nebiros HP:229/249 MP:242/242
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Shujinko
-2-Demonee-Ho
-3-Nebiros
-4-Nue
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Tadano HP:129/388 MP:193/193
-2-Balor HP:466/492 MP:84/98
-3-Nidhoggr HP:563/681 MP:124/135
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Shujinko ataca a Nidhoggr
-Nidhoggr es resistente el ataque de Shujinko
-Nidhoggr recibe 93 de daño
-Nidhoggr termina con HP:470/681
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:129/388 MP:193/193
-B-Balor HP:466/492 MP:84/98
-C-
-D-Nidhoggr HP:470/681 MP:124/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1280/1317 MP:625/625
-B-Demonee-Ho HP:706/804 MP:152/160
-C-Nue HP:216/341 MP:67/67
-D-Nebiros HP:229/249 MP:242/242
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demonee-Ho
-2-Nebiros
-3-Nue
-4-Shujinko
-----------------------------------------
-Seleccione una acción para Demonee-Ho
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Jueyuan HP:138/154 MP:68/68
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Jueyuan ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:129/388 MP:193/193
-B-Balor HP:466/492 MP:84/98
-C-
-D-Nidhoggr HP:470/681 MP:124/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1280/1317 MP:625/625
-B-Jueyuan HP:138/154 MP:68/68
-C-Nue HP:216/341 MP:67/67
-D-Nebiros HP:229/249 MP:242/242
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Nebiros
-2-Nue
-3-Shujinko
-4-Jueyuan
-----------------------------------------
-Seleccione una acción para Nebiros
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Demonee-Ho HP:706/804 MP:152/160
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Nebiros
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Nebiros
-1-Tadano HP:129/388 MP:193/193
-2-Balor HP:466/492 MP:84/98
-3-Nidhoggr HP:470/681 MP:124/135
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Nebiros ataca a Tadano
-Tadano es resistente el ataque de Nebiros
-Tadano recibe 13 de daño
-Tadano termina con HP:116/388
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Tadano (J1)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:116/388 MP:193/193
-B-Balor HP:466/492 MP:84/98
-C-
-D-Nidhoggr HP:470/681 MP:124/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1280/1317 MP:625/625
-B-Jueyuan HP:138/154 MP:68/68
-C-Nue HP:216/341 MP:67/67
-D-Nebiros HP:229/249 MP:242/242
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Nidhoggr
-2-Balor
-3-Tadano
-----------------------------------------
-Seleccione una acción para Nidhoggr
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Nidhoggr
-1-Shujinko HP:1280/1317 MP:625/625
-2-Jueyuan HP:138/154 MP:68/68
-3-Nue HP:216/341 MP:67/67
-4-Nebiros HP:229/249 MP:242/242
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Nidhoggr
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:116/388 MP:193/193
-B-Balor HP:466/492 MP:84/98
-C-
-D-Nidhoggr HP:470/681 MP:124/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1280/1317 MP:625/625
-B-Jueyuan HP:138/154 MP:68/68
-C-Nue HP:216/341 MP:67/67
-D-Nebiros HP:229/249 MP:242/242
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Balor
-2-Tadano
-3-Nidhoggr
-----------------------------------------
-Seleccione una acción para Balor
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Balor
-1-Shujinko HP:1280/1317 MP:625/625
-2-Jueyuan HP:138/154 MP:68/68
-3-Nue HP:216/341 MP:67/67
-4-Nebiros HP:229/249 MP:242/242
-5-Cancelar
-INPUT: 4
-----------------------------------------
-Balor ataca a Nebiros
-Nebiros bloquea el ataque de Balor
-Nebiros termina con HP:229/249
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:116/388 MP:193/193
-B-Balor HP:466/492 MP:84/98
-C-
-D-Nidhoggr HP:470/681 MP:124/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1280/1317 MP:625/625
-B-Jueyuan HP:138/154 MP:68/68
-C-Nue HP:216/341 MP:67/67
-D-Nebiros HP:229/249 MP:242/242
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Tadano
-2-Nidhoggr
-3-Balor
-----------------------------------------
-Seleccione una acción para Tadano
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Tadano use
-1-Axel Claw MP:15
-2-Mortal Jihad MP:13
-3-Diarahan MP:16
-4-Bouncing Claw MP:4
-5-Agidyne MP:14
-6-Agi MP:5
-7-Lunge MP:6
-8-Cancelar
-INPUT: 8
-----------------------------------------
-Seleccione una acción para Tadano
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Tadano use
-1-Axel Claw MP:15
-2-Mortal Jihad MP:13
-3-Diarahan MP:16
-4-Bouncing Claw MP:4
-5-Agidyne MP:14
-6-Agi MP:5
-7-Lunge MP:6
-8-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Tadano
-1-Tadano HP:116/388 MP:193/193
-2-Balor HP:466/492 MP:84/98
-3-Nidhoggr HP:470/681 MP:124/135
-4-Spriggan HP:92/147 MP:61/66
-5-Sedna HP:350/350 MP:68/68
-6-Hel HP:254/254 MP:246/246
-7-Cancelar
-INPUT: 6
-----------------------------------------
-Tadano cura a Hel
-Hel recibe 254 de HP
-Hel termina con HP:254/254
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Shujinko (J2)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:116/388 MP:177/193
-B-Balor HP:466/492 MP:84/98
-C-
-D-Nidhoggr HP:470/681 MP:124/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1280/1317 MP:625/625
-B-Jueyuan HP:138/154 MP:68/68
-C-Nue HP:216/341 MP:67/67
-D-Nebiros HP:229/249 MP:242/242
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shujinko
-2-Nebiros
-3-Nue
-4-Jueyuan
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Tadano HP:116/388 MP:177/193
-2-Balor HP:466/492 MP:84/98
-3-Nidhoggr HP:470/681 MP:124/135
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Demonee-Ho HP:706/804 MP:152/160
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una posición para invocar
-1-Jueyuan HP:138/154 MP:68/68 (Puesto 2)
-2-Nue HP:216/341 MP:67/67 (Puesto 3)
-3-Nebiros HP:229/249 MP:242/242 (Puesto 4)
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Demonee-Ho ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:116/388 MP:177/193
-B-Balor HP:466/492 MP:84/98
-C-
-D-Nidhoggr HP:470/681 MP:124/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1280/1317 MP:625/625
-B-Demonee-Ho HP:706/804 MP:152/160
-C-Nue HP:216/341 MP:67/67
-D-Nebiros HP:229/249 MP:242/242
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Nebiros
-2-Nue
-3-Demonee-Ho
-4-Shujinko
-----------------------------------------
-Seleccione una acción para Nebiros
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Nebiros
-1-Tadano HP:116/388 MP:177/193
-2-Balor HP:466/492 MP:84/98
-3-Nidhoggr HP:470/681 MP:124/135
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Nebiros ataca a Tadano
-Tadano es resistente el ataque de Nebiros
-Tadano recibe 13 de daño
-Tadano termina con HP:103/388
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:103/388 MP:177/193
-B-Balor HP:466/492 MP:84/98
-C-
-D-Nidhoggr HP:470/681 MP:124/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1280/1317 MP:625/625
-B-Demonee-Ho HP:706/804 MP:152/160
-C-Nue HP:216/341 MP:67/67
-D-Nebiros HP:229/249 MP:242/242
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Nue
-2-Demonee-Ho
-3-Shujinko
-4-Nebiros
-----------------------------------------
-Seleccione una acción para Nue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:103/388 MP:177/193
-B-Balor HP:466/492 MP:84/98
-C-
-D-Nidhoggr HP:470/681 MP:124/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1280/1317 MP:625/625
-B-Demonee-Ho HP:706/804 MP:152/160
-C-Nue HP:216/341 MP:67/67
-D-Nebiros HP:229/249 MP:242/242
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Demonee-Ho
-2-Shujinko
-3-Nebiros
-4-Nue
-----------------------------------------
-Seleccione una acción para Demonee-Ho
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:103/388 MP:177/193
-B-Balor HP:466/492 MP:84/98
-C-
-D-Nidhoggr HP:470/681 MP:124/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1280/1317 MP:625/625
-B-Demonee-Ho HP:706/804 MP:152/160
-C-Nue HP:216/341 MP:67/67
-D-Nebiros HP:229/249 MP:242/242
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shujinko
-2-Nebiros
-3-Nue
-4-Demonee-Ho
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Tadano HP:103/388 MP:177/193
-2-Balor HP:466/492 MP:84/98
-3-Nidhoggr HP:470/681 MP:124/135
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Tadano HP:103/388 MP:177/193
-2-Balor HP:466/492 MP:84/98
-3-Nidhoggr HP:470/681 MP:124/135
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Shujinko dispara a Balor
-Balor recibe 228 de daño
-Balor termina con HP:238/492
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:103/388 MP:177/193
-B-Balor HP:238/492 MP:84/98
-C-
-D-Nidhoggr HP:470/681 MP:124/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1280/1317 MP:625/625
-B-Demonee-Ho HP:706/804 MP:152/160
-C-Nue HP:216/341 MP:67/67
-D-Nebiros HP:229/249 MP:242/242
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Nebiros
-2-Nue
-3-Demonee-Ho
-4-Shujinko
-----------------------------------------
-Seleccione una acción para Nebiros
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Jueyuan HP:138/154 MP:68/68
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Nebiros
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Jueyuan HP:138/154 MP:68/68
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Nebiros
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:103/388 MP:177/193
-B-Balor HP:238/492 MP:84/98
-C-
-D-Nidhoggr HP:470/681 MP:124/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1280/1317 MP:625/625
-B-Demonee-Ho HP:706/804 MP:152/160
-C-Nue HP:216/341 MP:67/67
-D-Nebiros HP:229/249 MP:242/242
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Nue
-2-Demonee-Ho
-3-Shujinko
-4-Nebiros
-----------------------------------------
-Seleccione una acción para Nue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Jueyuan HP:138/154 MP:68/68
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Jueyuan ha sido invocado
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Tadano (J1)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:103/388 MP:177/193
-B-Balor HP:238/492 MP:84/98
-C-
-D-Nidhoggr HP:470/681 MP:124/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1280/1317 MP:625/625
-B-Demonee-Ho HP:706/804 MP:152/160
-C-Jueyuan HP:138/154 MP:68/68
-D-Nebiros HP:229/249 MP:242/242
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Nidhoggr
-2-Balor
-3-Tadano
-----------------------------------------
-Seleccione una acción para Nidhoggr
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Nidhoggr
-1-Shujinko HP:1280/1317 MP:625/625
-2-Demonee-Ho HP:706/804 MP:152/160
-3-Jueyuan HP:138/154 MP:68/68
-4-Nebiros HP:229/249 MP:242/242
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Nidhoggr ataca a Shujinko
-Shujinko es resistente el ataque de Nidhoggr
-Shujinko recibe 26 de daño
-Shujinko termina con HP:1254/1317
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:103/388 MP:177/193
-B-Balor HP:238/492 MP:84/98
-C-
-D-Nidhoggr HP:470/681 MP:124/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1254/1317 MP:625/625
-B-Demonee-Ho HP:706/804 MP:152/160
-C-Jueyuan HP:138/154 MP:68/68
-D-Nebiros HP:229/249 MP:242/242
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Balor
-2-Tadano
-3-Nidhoggr
-----------------------------------------
-Seleccione una acción para Balor
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Balor
-1-Shujinko HP:1254/1317 MP:625/625
-2-Demonee-Ho HP:706/804 MP:152/160
-3-Jueyuan HP:138/154 MP:68/68
-4-Nebiros HP:229/249 MP:242/242
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Balor ataca a Demonee-Ho
-Demonee-Ho es resistente el ataque de Balor
-Demonee-Ho recibe 18 de daño
-Demonee-Ho termina con HP:688/804
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:103/388 MP:177/193
-B-Balor HP:238/492 MP:84/98
-C-
-D-Nidhoggr HP:470/681 MP:124/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1254/1317 MP:625/625
-B-Demonee-Ho HP:688/804 MP:152/160
-C-Jueyuan HP:138/154 MP:68/68
-D-Nebiros HP:229/249 MP:242/242
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Tadano
-2-Nidhoggr
-3-Balor
-----------------------------------------
-Seleccione una acción para Tadano
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Tadano
-1-Shujinko HP:1254/1317 MP:625/625
-2-Demonee-Ho HP:688/804 MP:152/160
-3-Jueyuan HP:138/154 MP:68/68
-4-Nebiros HP:229/249 MP:242/242
-5-Cancelar
-INPUT: 4
-----------------------------------------
-Tadano dispara a Nebiros
-Nebiros recibe 20 de daño
-Nebiros termina con HP:209/249
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Shujinko (J2)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:103/388 MP:177/193
-B-Balor HP:238/492 MP:84/98
-C-
-D-Nidhoggr HP:470/681 MP:124/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1254/1317 MP:625/625
-B-Demonee-Ho HP:688/804 MP:152/160
-C-Jueyuan HP:138/154 MP:68/68
-D-Nebiros HP:209/249 MP:242/242
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shujinko
-2-Demonee-Ho
-3-Nebiros
-4-Jueyuan
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Tadano HP:103/388 MP:177/193
-2-Balor HP:238/492 MP:84/98
-3-Nidhoggr HP:470/681 MP:124/135
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Shujinko ataca a Balor
-Balor recibe 187 de daño
-Balor termina con HP:51/492
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:103/388 MP:177/193
-B-Balor HP:51/492 MP:84/98
-C-
-D-Nidhoggr HP:470/681 MP:124/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1254/1317 MP:625/625
-B-Demonee-Ho HP:688/804 MP:152/160
-C-Jueyuan HP:138/154 MP:68/68
-D-Nebiros HP:209/249 MP:242/242
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demonee-Ho
-2-Nebiros
-3-Jueyuan
-4-Shujinko
-----------------------------------------
-Seleccione una acción para Demonee-Ho
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Demonee-Ho
-1-Tadano HP:103/388 MP:177/193
-2-Balor HP:51/492 MP:84/98
-3-Nidhoggr HP:470/681 MP:124/135
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Demonee-Ho
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Demonee-Ho
-1-Tadano HP:103/388 MP:177/193
-2-Balor HP:51/492 MP:84/98
-3-Nidhoggr HP:470/681 MP:124/135
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Demonee-Ho ataca a Balor
-Balor recibe 62 de daño
-Balor termina con HP:0/492
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:103/388 MP:177/193
-B-
-C-
-D-Nidhoggr HP:470/681 MP:124/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1254/1317 MP:625/625
-B-Demonee-Ho HP:688/804 MP:152/160
-C-Jueyuan HP:138/154 MP:68/68
-D-Nebiros HP:209/249 MP:242/242
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Nebiros
-2-Jueyuan
-3-Shujinko
-4-Demonee-Ho
-----------------------------------------
-Seleccione una acción para Nebiros
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Nebiros use
-1-Mudoon MP:10
-2-Sabbatma MP:20
-3-Pulinpa MP:5
-4-Megidola MP:40
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Nue HP:216/341 MP:67/67
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Nebiros
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Nue HP:216/341 MP:67/67
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Nebiros
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Nebiros
-1-Tadano HP:103/388 MP:177/193
-2-Nidhoggr HP:470/681 MP:124/135
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Nebiros
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Nue HP:216/341 MP:67/67
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Nebiros
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Nue HP:216/341 MP:67/67
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Nebiros
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Nebiros
-1-Tadano HP:103/388 MP:177/193
-2-Nidhoggr HP:470/681 MP:124/135
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Nebiros ataca a Tadano
-Tadano es resistente el ataque de Nebiros
-Tadano recibe 13 de daño
-Tadano termina con HP:90/388
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:90/388 MP:177/193
-B-
-C-
-D-Nidhoggr HP:470/681 MP:124/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1254/1317 MP:625/625
-B-Demonee-Ho HP:688/804 MP:152/160
-C-Jueyuan HP:138/154 MP:68/68
-D-Nebiros HP:209/249 MP:242/242
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Jueyuan
-2-Shujinko
-3-Demonee-Ho
-4-Nebiros
-----------------------------------------
-Seleccione una acción para Jueyuan
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Nue HP:216/341 MP:67/67
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Nue ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:90/388 MP:177/193
-B-
-C-
-D-Nidhoggr HP:470/681 MP:124/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1254/1317 MP:625/625
-B-Demonee-Ho HP:688/804 MP:152/160
-C-Nue HP:216/341 MP:67/67
-D-Nebiros HP:209/249 MP:242/242
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Shujinko
-2-Demonee-Ho
-3-Nebiros
-4-Nue
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Shujinko use
-1-Zanma MP:8
-2-Zio MP:5
-3-Needle Shot MP:4
-4-Samarecarm MP:40
-5-Riot Gun MP:30
-6-Cancelar
-INPUT: 6
-----------------------------------------
-Seleccione una acción para Shujinko
+1-Kei
+2-Spriggan
+3-Shax
+----------------------------------------
+Seleccione una acción para Kei
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -3034,216 +1112,134 @@ Seleccione una acción para Shujinko
 6: Rendirse
 INPUT: 5
 ----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Tadano (J1)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:90/388 MP:177/193
-B-
-C-
-D-Nidhoggr HP:470/681 MP:124/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1254/1317 MP:625/625
-B-Demonee-Ho HP:688/804 MP:152/160
-C-Nue HP:216/341 MP:67/67
-D-Nebiros HP:209/249 MP:242/242
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Nidhoggr
-2-Tadano
-----------------------------------------
-Seleccione una acción para Nidhoggr
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Nidhoggr
-1-Shujinko HP:1254/1317 MP:625/625
-2-Demonee-Ho HP:688/804 MP:152/160
-3-Nue HP:216/341 MP:67/67
-4-Nebiros HP:209/249 MP:242/242
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Nidhoggr
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Nidhoggr use
-1-Grand Tack MP:11
-2-Life Drain MP:5
-3-Madness Nails MP:26
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Nidhoggr
-1-Shujinko HP:1254/1317 MP:625/625
-2-Demonee-Ho HP:688/804 MP:152/160
-3-Nue HP:216/341 MP:67/67
-4-Nebiros HP:209/249 MP:242/242
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Nidhoggr dispara a Demonee-Ho
-Demonee-Ho es resistente el ataque de Nidhoggr
-Demonee-Ho recibe 64 de daño
-Demonee-Ho termina con HP:624/804
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:90/388 MP:177/193
-B-
-C-
-D-Nidhoggr HP:470/681 MP:113/135
-Equipo de Shujinko (J2)
-A-Shujinko HP:1254/1317 MP:625/625
-B-Demonee-Ho HP:624/804 MP:152/160
-C-Nue HP:216/341 MP:67/67
-D-Nebiros HP:209/249 MP:242/242
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Tadano
-2-Nidhoggr
-----------------------------------------
-Seleccione una acción para Tadano
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Spriggan HP:92/147 MP:61/66
-2-Sedna HP:350/350 MP:68/68
-3-Hel HP:254/254 MP:246/246
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una posición para invocar
-1-Vacío (Puesto 2)
-2-Vacío (Puesto 3)
-3-Nidhoggr HP:470/681 MP:113/135 (Puesto 4)
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Hel ha sido invocado
-----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:90/388 MP:177/193
-B-
+Equipo de Kei (J1)
+A-Kei HP:571/760 MP:398/398
+B-Shax HP:371/371 MP:349/360
+C-Spriggan HP:118/147 MP:61/66
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:228/388 MP:178/193
+B-Pale Rider HP:623/693 MP:288/310
 C-
-D-Hel HP:254/254 MP:246/246
-Equipo de Shujinko (J2)
-A-Shujinko HP:1254/1317 MP:625/625
-B-Demonee-Ho HP:624/804 MP:152/160
-C-Nue HP:216/341 MP:67/67
-D-Nebiros HP:209/249 MP:242/242
+D-
 ----------------------------------------
 Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Hel
-2-Tadano
+1-Spriggan
+2-Shax
+3-Kei
 ----------------------------------------
-Seleccione una acción para Hel
+Seleccione una acción para Spriggan
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Hel use
-1-Mamudo MP:18
-2-Sabbatma MP:20
-3-Mabufula MP:20
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Spriggan HP:92/147 MP:61/66
-2-Nidhoggr HP:470/681 MP:113/135
-3-Sedna HP:350/350 MP:68/68
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una posición para invocar
-1-Vacío (Puesto 2)
-2-Vacío (Puesto 3)
-3-Hel HP:254/254 MP:246/246 (Puesto 4)
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Sedna ha sido invocado
+INPUT: 4
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Shujinko (J2)
+Ronda de Tadano (J2)
 ----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:90/388 MP:177/193
-B-
+Equipo de Kei (J1)
+A-Kei HP:571/760 MP:398/398
+B-Shax HP:371/371 MP:349/360
+C-Spriggan HP:118/147 MP:61/66
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:228/388 MP:178/193
+B-Pale Rider HP:623/693 MP:288/310
 C-
-D-Sedna HP:350/350 MP:68/68
-Equipo de Shujinko (J2)
-A-Shujinko HP:1254/1317 MP:625/625
-B-Demonee-Ho HP:624/804 MP:152/160
-C-Nue HP:216/341 MP:67/67
-D-Nebiros HP:209/249 MP:242/242
+D-
 ----------------------------------------
-Full Turns: 4
+Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Shujinko
-2-Demonee-Ho
-3-Nebiros
-4-Nue
+1-Pale Rider
+2-Tadano
 ----------------------------------------
-Seleccione una acción para Shujinko
+Seleccione una acción para Pale Rider
 1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
 INPUT: 3
 ----------------------------------------
-Seleccione una habilidad para que Shujinko use
-1-Zanma MP:8
-2-Zio MP:5
-3-Needle Shot MP:4
-4-Samarecarm MP:40
-5-Riot Gun MP:30
-6-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione un objetivo para Shujinko
+Seleccione un monstruo para invocar
 1-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione una acción para Shujinko
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pale Rider use
+1-Pandemic Bomb MP:11
+2-Death's Door MP:10
+3-Deadly Wind MP:22
+4-Debilitate MP:50
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Kei HP:571/760 MP:398/398
+2-Shax HP:371/371 MP:349/360
+3-Spriggan HP:118/147 MP:61/66
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Pale Rider lanza viento a Shax
+Shax es resistente el ataque de Pale Rider
+Shax recibe 84 de daño
+Shax termina con HP:287/371
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:571/760 MP:398/398
+B-Shax HP:287/371 MP:349/360
+C-Spriggan HP:118/147 MP:61/66
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:228/388 MP:178/193
+B-Pale Rider HP:623/693 MP:266/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Pale Rider
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Kei HP:571/760 MP:398/398
+2-Shax HP:287/371 MP:349/360
+3-Spriggan HP:118/147 MP:61/66
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tadano
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -3252,162 +1248,2303 @@ Seleccione una acción para Shujinko
 6: Rendirse
 INPUT: 3
 ----------------------------------------
-Seleccione una habilidad para que Shujinko use
-1-Zanma MP:8
-2-Zio MP:5
-3-Needle Shot MP:4
-4-Samarecarm MP:40
-5-Riot Gun MP:30
-6-Cancelar
+Seleccione una habilidad para que Tadano use
+1-Tathlum Shot MP:7
+2-Axel Claw MP:15
+3-Diarama MP:9
+4-Bufula MP:8
+5-Oni-Kagura MP:9
+6-Zio MP:5
+7-Needle Shot MP:4
+8-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Kei HP:571/760 MP:398/398
+2-Shax HP:287/371 MP:349/360
+3-Spriggan HP:118/147 MP:61/66
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano lanza electricidad a Kei
+Kei es resistente el ataque de Tadano
+Kei recibe 23 de daño
+Kei termina con HP:548/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:548/760 MP:398/398
+B-Shax HP:287/371 MP:349/360
+C-Spriggan HP:118/147 MP:61/66
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:228/388 MP:173/193
+B-Pale Rider HP:623/693 MP:266/310
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Kei
+3-Spriggan
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:548/760 MP:398/398
+B-Shax HP:287/371 MP:349/360
+C-Spriggan HP:118/147 MP:61/66
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:228/388 MP:173/193
+B-Pale Rider HP:623/693 MP:266/310
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Spriggan
+3-Shax
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
 INPUT: 3
 ----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Tadano HP:90/388 MP:177/193
-2-Sedna HP:350/350 MP:68/68
+Seleccione una habilidad para que Kei use
+1-Damascus Claw MP:7
+2-Trisagion MP:22
+3-Sabbatma MP:20
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Damascus Claw MP:7
+2-Trisagion MP:22
+3-Sabbatma MP:20
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:548/760 MP:398/398
+B-Shax HP:287/371 MP:349/360
+C-Spriggan HP:118/147 MP:61/66
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:228/388 MP:173/193
+B-Pale Rider HP:623/693 MP:266/310
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Spriggan
+2-Shax
+3-Kei
+----------------------------------------
+Seleccione una acción para Spriggan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Spriggan
+1-Tadano HP:228/388 MP:173/193
+2-Pale Rider HP:623/693 MP:266/310
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Spriggan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Spriggan
+1-Tadano HP:228/388 MP:173/193
+2-Pale Rider HP:623/693 MP:266/310
 3-Cancelar
 INPUT: 1
 ----------------------------------------
-Shujinko dispara a Tadano
-Tadano recibe 136 de daño
+Spriggan ataca a Tadano
+Tadano es resistente el ataque de Spriggan
+Tadano recibe 5 de daño
+Tadano termina con HP:223/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:548/760 MP:398/398
+B-Shax HP:287/371 MP:349/360
+C-Spriggan HP:118/147 MP:61/66
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:223/388 MP:173/193
+B-Pale Rider HP:623/693 MP:266/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Kei
+3-Spriggan
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:548/760 MP:398/398
+B-Shax HP:287/371 MP:349/360
+C-Spriggan HP:118/147 MP:61/66
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:223/388 MP:173/193
+B-Pale Rider HP:623/693 MP:266/310
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Spriggan
+3-Shax
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Tadano HP:223/388 MP:173/193
+2-Pale Rider HP:623/693 MP:266/310
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kei dispara a Pale Rider
+Pale Rider recibe 15 de daño
+Pale Rider termina con HP:608/693
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:548/760 MP:398/398
+B-Shax HP:287/371 MP:349/360
+C-Spriggan HP:118/147 MP:61/66
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:223/388 MP:173/193
+B-Pale Rider HP:608/693 MP:266/310
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Tadano
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pale Rider use
+1-Pandemic Bomb MP:11
+2-Death's Door MP:10
+3-Deadly Wind MP:22
+4-Debilitate MP:50
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Kei HP:548/760 MP:398/398
+2-Shax HP:287/371 MP:349/360
+3-Spriggan HP:118/147 MP:61/66
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Kei HP:548/760 MP:398/398
+2-Shax HP:287/371 MP:349/360
+3-Spriggan HP:118/147 MP:61/66
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pale Rider use
+1-Pandemic Bomb MP:11
+2-Death's Door MP:10
+3-Deadly Wind MP:22
+4-Debilitate MP:50
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Kei HP:548/760 MP:398/398
+2-Shax HP:287/371 MP:349/360
+3-Spriggan HP:118/147 MP:61/66
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Pale Rider lanza viento a Spriggan
+Spriggan recibe 168 de daño
+Spriggan termina con HP:0/147
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:548/760 MP:398/398
+B-Shax HP:287/371 MP:349/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:223/388 MP:173/193
+B-Pale Rider HP:608/693 MP:244/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Pale Rider
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:548/760 MP:398/398
+B-Shax HP:287/371 MP:349/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:223/388 MP:173/193
+B-Pale Rider HP:608/693 MP:244/310
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Tadano
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:548/760 MP:398/398
+B-Shax HP:287/371 MP:349/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:223/388 MP:173/193
+B-Pale Rider HP:608/693 MP:244/310
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Kei
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:548/760 MP:398/398
+B-Shax HP:287/371 MP:349/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:223/388 MP:173/193
+B-Pale Rider HP:608/693 MP:244/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Shax
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Tadano HP:223/388 MP:173/193
+2-Pale Rider HP:608/693 MP:244/310
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kei ataca a Tadano
+Tadano es resistente el ataque de Kei
+Tadano recibe 9 de daño
+Tadano termina con HP:214/388
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:548/760 MP:398/398
+B-Shax HP:287/371 MP:349/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:214/388 MP:173/193
+B-Pale Rider HP:608/693 MP:244/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Kei
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:548/760 MP:398/398
+B-Shax HP:287/371 MP:349/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:214/388 MP:173/193
+B-Pale Rider HP:608/693 MP:244/310
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Shax
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Tadano HP:214/388 MP:173/193
+2-Pale Rider HP:608/693 MP:244/310
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kei ataca a Pale Rider
+Pale Rider recibe 19 de daño
+Pale Rider termina con HP:589/693
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:548/760 MP:398/398
+B-Shax HP:287/371 MP:349/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:214/388 MP:173/193
+B-Pale Rider HP:589/693 MP:244/310
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Tadano
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:548/760 MP:398/398
+B-Shax HP:287/371 MP:349/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:214/388 MP:173/193
+B-Pale Rider HP:589/693 MP:244/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Pale Rider
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Kei HP:548/760 MP:398/398
+2-Shax HP:287/371 MP:349/360
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:548/760 MP:398/398
+B-Shax HP:287/371 MP:349/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:214/388 MP:173/193
+B-Pale Rider HP:589/693 MP:244/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Tadano
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:548/760 MP:398/398
+B-Shax HP:287/371 MP:349/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:214/388 MP:173/193
+B-Pale Rider HP:589/693 MP:244/310
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Pale Rider
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:548/760 MP:398/398
+B-Shax HP:287/371 MP:349/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:214/388 MP:173/193
+B-Pale Rider HP:589/693 MP:244/310
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Kei
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:548/760 MP:398/398
+B-Shax HP:287/371 MP:349/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:214/388 MP:173/193
+B-Pale Rider HP:589/693 MP:244/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Shax
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:548/760 MP:398/398
+B-Shax HP:287/371 MP:349/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:214/388 MP:173/193
+B-Pale Rider HP:589/693 MP:244/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Kei
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Shax use
+1-Deadly Wind MP:22
+2-Poison Breath MP:11
+3-Grand Tack MP:11
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Tadano HP:214/388 MP:173/193
+2-Pale Rider HP:589/693 MP:244/310
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Shax lanza viento a Tadano
+Tadano recibe 167 de daño
+Tadano termina con HP:47/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:548/760 MP:398/398
+B-Shax HP:287/371 MP:327/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:47/388 MP:173/193
+B-Pale Rider HP:589/693 MP:244/310
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Tadano
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pale Rider use
+1-Pandemic Bomb MP:11
+2-Death's Door MP:10
+3-Deadly Wind MP:22
+4-Debilitate MP:50
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Kei HP:548/760 MP:398/398
+2-Shax HP:287/371 MP:327/360
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Pale Rider lanza viento a Kei
+Kei es resistente el ataque de Pale Rider
+Kei recibe 84 de daño
+Kei termina con HP:464/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:464/760 MP:398/398
+B-Shax HP:287/371 MP:327/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:47/388 MP:173/193
+B-Pale Rider HP:589/693 MP:222/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Pale Rider
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Kei HP:464/760 MP:398/398
+2-Shax HP:287/371 MP:327/360
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Kei HP:464/760 MP:398/398
+2-Shax HP:287/371 MP:327/360
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Kei HP:464/760 MP:398/398
+2-Shax HP:287/371 MP:327/360
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Kei
+Kei es resistente el ataque de Tadano
+Kei recibe 8 de daño
+Kei termina con HP:456/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:456/760 MP:398/398
+B-Shax HP:287/371 MP:327/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:47/388 MP:173/193
+B-Pale Rider HP:589/693 MP:222/310
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Kei
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:456/760 MP:398/398
+B-Shax HP:287/371 MP:327/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:47/388 MP:173/193
+B-Pale Rider HP:589/693 MP:222/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Shax
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Damascus Claw MP:7
+2-Trisagion MP:22
+3-Sabbatma MP:20
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Tadano HP:47/388 MP:173/193
+2-Pale Rider HP:589/693 MP:222/310
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kei lanza fuego a Pale Rider
+Pale Rider recibe 83 de daño
+Pale Rider termina con HP:506/693
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:456/760 MP:376/398
+B-Shax HP:287/371 MP:327/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:47/388 MP:173/193
+B-Pale Rider HP:506/693 MP:222/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Kei
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:456/760 MP:376/398
+B-Shax HP:287/371 MP:327/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:47/388 MP:173/193
+B-Pale Rider HP:506/693 MP:222/310
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Shax
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Tadano HP:47/388 MP:173/193
+2-Pale Rider HP:506/693 MP:222/310
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:456/760 MP:376/398
+B-Shax HP:287/371 MP:327/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:47/388 MP:173/193
+B-Pale Rider HP:506/693 MP:222/310
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Tadano
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Kei HP:456/760 MP:376/398
+2-Shax HP:287/371 MP:327/360
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pale Rider use
+1-Pandemic Bomb MP:11
+2-Death's Door MP:10
+3-Deadly Wind MP:22
+4-Debilitate MP:50
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Kei HP:456/760 MP:376/398
+2-Shax HP:287/371 MP:327/360
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Pale Rider lanza viento a Shax
+Shax es resistente el ataque de Pale Rider
+Shax recibe 84 de daño
+Shax termina con HP:203/371
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:456/760 MP:376/398
+B-Shax HP:203/371 MP:327/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:47/388 MP:173/193
+B-Pale Rider HP:506/693 MP:200/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Pale Rider
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:456/760 MP:376/398
+B-Shax HP:203/371 MP:327/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:47/388 MP:173/193
+B-Pale Rider HP:506/693 MP:200/310
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Tadano
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:456/760 MP:376/398
+B-Shax HP:203/371 MP:327/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:47/388 MP:173/193
+B-Pale Rider HP:506/693 MP:200/310
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Kei
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Tadano HP:47/388 MP:173/193
+2-Pale Rider HP:506/693 MP:200/310
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Shax use
+1-Deadly Wind MP:22
+2-Poison Breath MP:11
+3-Grand Tack MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Shax use
+1-Deadly Wind MP:22
+2-Poison Breath MP:11
+3-Grand Tack MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:456/760 MP:376/398
+B-Shax HP:203/371 MP:327/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:47/388 MP:173/193
+B-Pale Rider HP:506/693 MP:200/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Shax
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Tadano HP:47/388 MP:173/193
+2-Pale Rider HP:506/693 MP:200/310
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kei ataca a Pale Rider
+Pale Rider recibe 19 de daño
+Pale Rider termina con HP:487/693
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:456/760 MP:376/398
+B-Shax HP:203/371 MP:327/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:47/388 MP:173/193
+B-Pale Rider HP:487/693 MP:200/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Kei
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:456/760 MP:376/398
+B-Shax HP:203/371 MP:327/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:47/388 MP:173/193
+B-Pale Rider HP:487/693 MP:200/310
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Shax
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Tadano HP:47/388 MP:173/193
+2-Pale Rider HP:487/693 MP:200/310
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:456/760 MP:376/398
+B-Shax HP:203/371 MP:327/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:47/388 MP:173/193
+B-Pale Rider HP:487/693 MP:200/310
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Tadano
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:456/760 MP:376/398
+B-Shax HP:203/371 MP:327/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:47/388 MP:173/193
+B-Pale Rider HP:487/693 MP:200/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Pale Rider
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:456/760 MP:376/398
+B-Shax HP:203/371 MP:327/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:47/388 MP:173/193
+B-Pale Rider HP:487/693 MP:200/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Tadano
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:456/760 MP:376/398
+B-Shax HP:203/371 MP:327/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:47/388 MP:173/193
+B-Pale Rider HP:487/693 MP:200/310
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Pale Rider
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Kei HP:456/760 MP:376/398
+2-Shax HP:203/371 MP:327/360
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:456/760 MP:376/398
+B-Shax HP:203/371 MP:327/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:47/388 MP:173/193
+B-Pale Rider HP:487/693 MP:200/310
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Kei
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Shax use
+1-Deadly Wind MP:22
+2-Poison Breath MP:11
+3-Grand Tack MP:11
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Tadano HP:47/388 MP:173/193
+2-Pale Rider HP:487/693 MP:200/310
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Shax lanza viento a Tadano
+Tadano recibe 167 de daño
 Tadano termina con HP:0/388
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:0/388 MP:177/193
-B-
+Equipo de Kei (J1)
+A-Kei HP:456/760 MP:376/398
+B-Shax HP:203/371 MP:305/360
 C-
-D-Sedna HP:350/350 MP:68/68
-Equipo de Shujinko (J2)
-A-Shujinko HP:1254/1317 MP:621/625
-B-Demonee-Ho HP:624/804 MP:152/160
-C-Nue HP:216/341 MP:67/67
-D-Nebiros HP:209/249 MP:242/242
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:173/193
+B-Pale Rider HP:487/693 MP:200/310
+C-
+D-
 ----------------------------------------
-Full Turns: 3
+Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Demonee-Ho
-2-Nebiros
-3-Nue
-4-Shujinko
+1-Kei
+2-Shax
 ----------------------------------------
-Seleccione una acción para Demonee-Ho
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Pale Rider HP:487/693 MP:200/310
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Damascus Claw MP:7
+2-Trisagion MP:22
+3-Sabbatma MP:20
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Pale Rider HP:487/693 MP:200/310
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Pale Rider HP:487/693 MP:200/310
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kei ataca a Pale Rider
+Pale Rider recibe 19 de daño
+Pale Rider termina con HP:468/693
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:456/760 MP:376/398
+B-Shax HP:203/371 MP:305/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:173/193
+B-Pale Rider HP:468/693 MP:200/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+----------------------------------------
+Seleccione una acción para Pale Rider
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Jueyuan HP:138/154 MP:68/68
-2-Cancelar
 INPUT: 1
 ----------------------------------------
-Jueyuan ha sido invocado
+Seleccione un objetivo para Pale Rider
+1-Kei HP:456/760 MP:376/398
+2-Shax HP:203/371 MP:305/360
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Pale Rider ataca a Shax
+Shax recibe 58 de daño
+Shax termina con HP:145/371
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:0/388 MP:177/193
-B-
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:456/760 MP:376/398
+B-Shax HP:145/371 MP:305/360
 C-
-D-Sedna HP:350/350 MP:68/68
-Equipo de Shujinko (J2)
-A-Shujinko HP:1254/1317 MP:621/625
-B-Jueyuan HP:138/154 MP:68/68
-C-Nue HP:216/341 MP:67/67
-D-Nebiros HP:209/249 MP:242/242
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:173/193
+B-Pale Rider HP:468/693 MP:200/310
+C-
+D-
 ----------------------------------------
 Full Turns: 2
-Blinking Turns: 1
+Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Nebiros
-2-Nue
-3-Shujinko
-4-Jueyuan
+1-Shax
+2-Kei
 ----------------------------------------
-Seleccione una acción para Nebiros
+Seleccione una acción para Shax
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 4
 ----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:456/760 MP:376/398
+B-Shax HP:145/371 MP:305/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:173/193
+B-Pale Rider HP:468/693 MP:200/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Shax
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:0/388 MP:177/193
-B-
+Equipo de Kei (J1)
+A-Kei HP:456/760 MP:376/398
+B-Shax HP:145/371 MP:305/360
 C-
-D-Sedna HP:350/350 MP:68/68
-Equipo de Shujinko (J2)
-A-Shujinko HP:1254/1317 MP:621/625
-B-Jueyuan HP:138/154 MP:68/68
-C-Nue HP:216/341 MP:67/67
-D-Nebiros HP:209/249 MP:242/242
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:173/193
+B-Pale Rider HP:468/693 MP:200/310
+C-
+D-
 ----------------------------------------
-Full Turns: 2
+Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Nue
-2-Shujinko
-3-Jueyuan
-4-Nebiros
+1-Shax
+2-Kei
 ----------------------------------------
-Seleccione una acción para Nue
+Seleccione una acción para Shax
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 2
 ----------------------------------------
-Seleccione una habilidad para que Nue use
-1-Scratch Dance MP:9
-2-Zionga MP:8
-3-Shock MP:21
+Seleccione una habilidad para que Shax use
+1-Deadly Wind MP:22
+2-Poison Breath MP:11
+3-Grand Tack MP:11
 4-Cancelar
-INPUT: 2
+INPUT: 4
 ----------------------------------------
-Seleccione un objetivo para Nue
-1-Sedna HP:350/350 MP:68/68
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:456/760 MP:376/398
+B-Shax HP:145/371 MP:305/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:173/193
+B-Pale Rider HP:468/693 MP:200/310
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Shax
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Damascus Claw MP:7
+2-Trisagion MP:22
+3-Sabbatma MP:20
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Pale Rider HP:468/693 MP:200/310
 2-Cancelar
 INPUT: 1
 ----------------------------------------
-Nue lanza electricidad a Sedna
-Sedna recibe 62 de daño
-Sedna termina con HP:288/350
+Kei ataca a Pale Rider
+Pale Rider recibe 66 de daño
+Kei ataca a Pale Rider
+Pale Rider recibe 66 de daño
+Kei ataca a Pale Rider
+Pale Rider recibe 66 de daño
+Pale Rider termina con HP:270/693
 ----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:0/388 MP:177/193
-B-
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:456/760 MP:369/398
+B-Shax HP:145/371 MP:305/360
 C-
-D-Sedna HP:288/350 MP:68/68
-Equipo de Shujinko (J2)
-A-Shujinko HP:1254/1317 MP:621/625
-B-Jueyuan HP:138/154 MP:68/68
-C-Nue HP:216/341 MP:59/67
-D-Nebiros HP:209/249 MP:242/242
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:173/193
+B-Pale Rider HP:270/693 MP:200/310
+C-
+D-
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Shujinko
-2-Jueyuan
-3-Nebiros
-4-Nue
+1-Pale Rider
 ----------------------------------------
-Seleccione una acción para Shujinko
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pale Rider use
+1-Pandemic Bomb MP:11
+2-Death's Door MP:10
+3-Deadly Wind MP:22
+4-Debilitate MP:50
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Kei HP:456/760 MP:369/398
+2-Shax HP:145/371 MP:305/360
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:456/760 MP:369/398
+B-Shax HP:145/371 MP:305/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:173/193
+B-Pale Rider HP:270/693 MP:200/310
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pale Rider
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Kei HP:456/760 MP:369/398
+2-Shax HP:145/371 MP:305/360
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Pale Rider ataca a Kei
+Kei es resistente el ataque de Pale Rider
+Kei recibe 29 de daño
+Kei termina con HP:427/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:427/760 MP:369/398
+B-Shax HP:145/371 MP:305/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:173/193
+B-Pale Rider HP:270/693 MP:200/310
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Kei
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:427/760 MP:369/398
+B-Shax HP:145/371 MP:305/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:173/193
+B-Pale Rider HP:270/693 MP:200/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Shax
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:427/760 MP:369/398
+B-Shax HP:145/371 MP:305/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:173/193
+B-Pale Rider HP:270/693 MP:200/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Kei
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Shax use
+1-Deadly Wind MP:22
+2-Poison Breath MP:11
+3-Grand Tack MP:11
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Pale Rider HP:270/693 MP:200/310
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Pale Rider HP:270/693 MP:200/310
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Shax ataca a Pale Rider
+Pale Rider recibe 40 de daño
+Pale Rider termina con HP:230/693
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:427/760 MP:369/398
+B-Shax HP:145/371 MP:305/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:173/193
+B-Pale Rider HP:230/693 MP:200/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:427/760 MP:369/398
+B-Shax HP:145/371 MP:305/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:173/193
+B-Pale Rider HP:230/693 MP:200/310
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pale Rider
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Kei HP:427/760 MP:369/398
+2-Shax HP:145/371 MP:305/360
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Pale Rider ataca a Shax
+Shax recibe 58 de daño
+Shax termina con HP:87/371
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:427/760 MP:369/398
+B-Shax HP:87/371 MP:305/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:173/193
+B-Pale Rider HP:230/693 MP:200/310
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Kei
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Pale Rider HP:230/693 MP:200/310
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Pale Rider HP:230/693 MP:200/310
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Shax ataca a Pale Rider
+Pale Rider recibe 40 de daño
+Pale Rider termina con HP:190/693
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:427/760 MP:369/398
+B-Shax HP:87/371 MP:305/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:173/193
+B-Pale Rider HP:190/693 MP:200/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Shax
+----------------------------------------
+Seleccione una acción para Kei
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -3417,189 +3554,99 @@ Seleccione una acción para Shujinko
 INPUT: 4
 ----------------------------------------
 Seleccione un monstruo para invocar
-1-Demonee-Ho HP:624/804 MP:152/160
-2-Cancelar
+1-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione una posición para invocar
-1-Jueyuan HP:138/154 MP:68/68 (Puesto 2)
-2-Nue HP:216/341 MP:59/67 (Puesto 3)
-3-Nebiros HP:209/249 MP:242/242 (Puesto 4)
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Demonee-Ho ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:0/388 MP:177/193
-B-
-C-
-D-Sedna HP:288/350 MP:68/68
-Equipo de Shujinko (J2)
-A-Shujinko HP:1254/1317 MP:621/625
-B-Jueyuan HP:138/154 MP:68/68
-C-Nue HP:216/341 MP:59/67
-D-Demonee-Ho HP:624/804 MP:152/160
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Jueyuan
-2-Demonee-Ho
-3-Nue
-4-Shujinko
-----------------------------------------
-Seleccione una acción para Jueyuan
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Jueyuan use
-1-Poison Claw MP:9
-2-Agi MP:5
-3-Posumudi MP:5
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Jueyuan
-1-Sedna HP:288/350 MP:68/68
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Jueyuan lanza fuego a Sedna
-Sedna es débil contra el ataque de Jueyuan
-Sedna recibe 56 de daño
-Sedna termina con HP:232/350
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Tadano (J1)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:0/388 MP:177/193
-B-
-C-
-D-Sedna HP:232/350 MP:68/68
-Equipo de Shujinko (J2)
-A-Shujinko HP:1254/1317 MP:621/625
-B-Jueyuan HP:138/154 MP:63/68
-C-Nue HP:216/341 MP:59/67
-D-Demonee-Ho HP:624/804 MP:152/160
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Sedna
-----------------------------------------
-Seleccione una acción para Sedna
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:0/388 MP:177/193
-B-
-C-
-D-Sedna HP:232/350 MP:68/68
-Equipo de Shujinko (J2)
-A-Shujinko HP:1254/1317 MP:621/625
-B-Jueyuan HP:138/154 MP:63/68
-C-Nue HP:216/341 MP:59/67
-D-Demonee-Ho HP:624/804 MP:152/160
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Sedna
-----------------------------------------
-Seleccione una acción para Sedna
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Shujinko (J2)
-----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:0/388 MP:177/193
-B-
-C-
-D-Sedna HP:232/350 MP:68/68
-Equipo de Shujinko (J2)
-A-Shujinko HP:1254/1317 MP:621/625
-B-Jueyuan HP:138/154 MP:63/68
-C-Nue HP:216/341 MP:59/67
-D-Demonee-Ho HP:624/804 MP:152/160
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shujinko
-2-Demonee-Ho
-3-Nue
-4-Jueyuan
-----------------------------------------
-Seleccione una acción para Shujinko
+Seleccione una acción para Kei
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 2
+INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Sedna HP:232/350 MP:68/68
+Seleccione un objetivo para Kei
+1-Pale Rider HP:190/693 MP:200/310
 2-Cancelar
 INPUT: 1
 ----------------------------------------
-Shujinko dispara a Sedna
-Sedna recibe 228 de daño
-Sedna termina con HP:4/350
+Kei ataca a Pale Rider
+Pale Rider recibe 19 de daño
+Pale Rider termina con HP:171/693
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:0/388 MP:177/193
-B-
-C-
-D-Sedna HP:4/350 MP:68/68
-Equipo de Shujinko (J2)
-A-Shujinko HP:1254/1317 MP:621/625
-B-Jueyuan HP:138/154 MP:63/68
-C-Nue HP:216/341 MP:59/67
-D-Demonee-Ho HP:624/804 MP:152/160
+Ronda de Tadano (J2)
 ----------------------------------------
-Full Turns: 3
+Equipo de Kei (J1)
+A-Kei HP:427/760 MP:369/398
+B-Shax HP:87/371 MP:305/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:173/193
+B-Pale Rider HP:171/693 MP:200/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Demonee-Ho
-2-Nue
-3-Jueyuan
-4-Shujinko
+1-Pale Rider
 ----------------------------------------
-Seleccione una acción para Demonee-Ho
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pale Rider use
+1-Pandemic Bomb MP:11
+2-Death's Door MP:10
+3-Deadly Wind MP:22
+4-Debilitate MP:50
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Kei HP:427/760 MP:369/398
+2-Shax HP:87/371 MP:305/360
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Pale Rider lanza viento a Kei
+Kei es resistente el ataque de Pale Rider
+Kei recibe 84 de daño
+Kei termina con HP:343/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:343/760 MP:369/398
+B-Shax HP:87/371 MP:305/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:173/193
+B-Pale Rider HP:171/693 MP:178/310
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Kei
+----------------------------------------
+Seleccione una acción para Shax
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -3609,43 +3656,94 @@ INPUT: 4
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Tadano (J1)
-A-Tadano HP:0/388 MP:177/193
-B-
+Equipo de Kei (J1)
+A-Kei HP:343/760 MP:369/398
+B-Shax HP:87/371 MP:305/360
 C-
-D-Sedna HP:4/350 MP:68/68
-Equipo de Shujinko (J2)
-A-Shujinko HP:1254/1317 MP:621/625
-B-Jueyuan HP:138/154 MP:63/68
-C-Nue HP:216/341 MP:59/67
-D-Demonee-Ho HP:624/804 MP:152/160
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:173/193
+B-Pale Rider HP:171/693 MP:178/310
+C-
+D-
 ----------------------------------------
-Full Turns: 2
+Full Turns: 1
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Nue
-2-Jueyuan
-3-Shujinko
-4-Demonee-Ho
+1-Kei
+2-Shax
 ----------------------------------------
-Seleccione una acción para Nue
+Seleccione una acción para Kei
 1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Damascus Claw MP:7
+2-Trisagion MP:22
+3-Sabbatma MP:20
+4-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Nue
-1-Sedna HP:4/350 MP:68/68
+Seleccione un objetivo para Kei
+1-Pale Rider HP:171/693 MP:178/310
 2-Cancelar
 INPUT: 1
 ----------------------------------------
-Nue ataca a Sedna
-Sedna recibe 24 de daño
-Sedna termina con HP:0/350
+Kei ataca a Pale Rider
+Pale Rider recibe 66 de daño
+Pale Rider termina con HP:105/693
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ganador: Shujinko (J2)
+Equipo de Kei (J1)
+A-Kei HP:343/760 MP:362/398
+B-Shax HP:87/371 MP:305/360
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:0/388 MP:173/193
+B-Pale Rider HP:105/693 MP:178/310
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Kei
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Shax use
+1-Deadly Wind MP:22
+2-Poison Breath MP:11
+3-Grand Tack MP:11
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Pale Rider HP:105/693 MP:178/310
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Shax dispara a Pale Rider
+Pale Rider recibe 127 de daño
+Pale Rider termina con HP:0/693
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Kei (J1)

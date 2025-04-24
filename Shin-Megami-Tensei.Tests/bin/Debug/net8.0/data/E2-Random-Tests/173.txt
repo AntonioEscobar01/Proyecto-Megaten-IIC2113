@@ -201,84 +201,84 @@ Elige un archivo para cargar los equipos
 199: 200.txt
 INPUT: 172
 ----------------------------------------
-Ronda de Kei (J1)
+Ronda de Kyouji (J1)
 ----------------------------------------
-Equipo de Kei (J1)
-A-Kei HP:760/760 MP:398/398
-B-Sarasvati HP:273/273 MP:264/264
-C-Bai Suzhen HP:155/155 MP:149/149
-D-
-Equipo de Kyouji (J2)
+Equipo de Kyouji (J1)
 A-Kyouji HP:999/999 MP:0/0
-B-Nue HP:341/341 MP:67/67
-C-Nebiros HP:249/249 MP:242/242
-D-Centaur HP:104/104 MP:19/19
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Sarasvati HP:273/273 MP:264/264
+C-Manticore HP:385/385 MP:172/172
+D-Ammut HP:709/709 MP:140/140
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Joker HP:597/597 MP:347/347
+2-Sarasvati HP:273/273 MP:264/264
+3-Manticore HP:385/385 MP:172/172
+4-Ammut HP:709/709 MP:140/140
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kyouji dispara a Manticore
+Manticore recibe 911 de daño
+Manticore termina con HP:0/385
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Sarasvati HP:273/273 MP:264/264
+C-
+D-Ammut HP:709/709 MP:140/140
 ----------------------------------------
 Full Turns: 3
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Sarasvati
-2-Bai Suzhen
-3-Kei
-----------------------------------------
-Seleccione una acción para Sarasvati
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Sarasvati
-1-Kyouji HP:999/999 MP:0/0
-2-Nue HP:341/341 MP:67/67
-3-Nebiros HP:249/249 MP:242/242
-4-Centaur HP:104/104 MP:19/19
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Sarasvati
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Sarasvati
-1-Kyouji HP:999/999 MP:0/0
-2-Nue HP:341/341 MP:67/67
-3-Nebiros HP:249/249 MP:242/242
-4-Centaur HP:104/104 MP:19/19
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Sarasvati ataca a Kyouji
-Kyouji recibe 28 de daño
-Kyouji termina con HP:971/999
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Kei (J1)
-A-Kei HP:760/760 MP:398/398
-B-Sarasvati HP:273/273 MP:264/264
-C-Bai Suzhen HP:155/155 MP:149/149
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:971/999 MP:0/0
-B-Nue HP:341/341 MP:67/67
-C-Nebiros HP:249/249 MP:242/242
-D-Centaur HP:104/104 MP:19/19
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Bai Suzhen
-2-Kei
+1-Ammut
+2-Joker
 3-Sarasvati
 ----------------------------------------
-Seleccione una acción para Bai Suzhen
+Seleccione una acción para Ammut
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -286,36 +286,26 @@ Seleccione una acción para Bai Suzhen
 INPUT: 3
 ----------------------------------------
 Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
+1-Bilwis HP:161/161 MP:31/31
+2-Cancelar
+INPUT: 2
 ----------------------------------------
-Seleccione una acción para Bai Suzhen
+Seleccione una acción para Ammut
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 3
+INPUT: 2
 ----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Bai Suzhen
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Bai Suzhen
-1-Kyouji HP:971/999 MP:0/0
-2-Nue HP:341/341 MP:67/67
-3-Nebiros HP:249/249 MP:242/242
-4-Centaur HP:104/104 MP:19/19
+Seleccione una habilidad para que Ammut use
+1-Megaton Press MP:17
+2-War Cry MP:45
+3-Nihil Claw MP:11
+4-Energy Drain MP:10
 5-Cancelar
 INPUT: 5
 ----------------------------------------
-Seleccione una acción para Bai Suzhen
+Seleccione una acción para Ammut
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -323,137 +313,240 @@ Seleccione una acción para Bai Suzhen
 INPUT: 3
 ----------------------------------------
 Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
+1-Bilwis HP:161/161 MP:31/31
+2-Cancelar
+INPUT: 2
 ----------------------------------------
-Seleccione una acción para Bai Suzhen
+Seleccione una acción para Ammut
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Bai Suzhen
-1-Kyouji HP:971/999 MP:0/0
-2-Nue HP:341/341 MP:67/67
-3-Nebiros HP:249/249 MP:242/242
-4-Centaur HP:104/104 MP:19/19
-5-Cancelar
-INPUT: 4
+Seleccione un objetivo para Ammut
+1-Kyouji HP:999/999 MP:0/0
+2-Cancelar
+INPUT: 1
 ----------------------------------------
-Bai Suzhen ataca a Centaur
-Centaur recibe 16 de daño
-Centaur termina con HP:88/104
+Ammut ataca a Kyouji
+Kyouji recibe 54 de daño
+Kyouji termina con HP:945/999
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kei (J1)
-A-Kei HP:760/760 MP:398/398
-B-Sarasvati HP:273/273 MP:264/264
-C-Bai Suzhen HP:155/155 MP:149/149
+Equipo de Kyouji (J1)
+A-Kyouji HP:945/999 MP:0/0
+B-
+C-
 D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:971/999 MP:0/0
-B-Nue HP:341/341 MP:67/67
-C-Nebiros HP:249/249 MP:242/242
-D-Centaur HP:88/104 MP:19/19
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Sarasvati HP:273/273 MP:264/264
+C-
+D-Ammut HP:709/709 MP:140/140
 ----------------------------------------
-Full Turns: 1
+Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Kei
+1-Joker
 2-Sarasvati
-3-Bai Suzhen
+3-Ammut
 ----------------------------------------
-Seleccione una acción para Kei
+Seleccione una acción para Joker
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Zionga MP:8
+2-Sabbatma MP:20
+3-Ziodyne MP:14
+4-Needle Shot MP:4
+5-Agidyne MP:14
+6-Dia MP:5
+7-Iron Judgement MP:8
+8-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Kyouji HP:945/999 MP:0/0
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Zionga MP:8
+2-Sabbatma MP:20
+3-Ziodyne MP:14
+4-Needle Shot MP:4
+5-Agidyne MP:14
+6-Dia MP:5
+7-Iron Judgement MP:8
+8-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Kyouji HP:945/999 MP:0/0
+2-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Kei
-1-Kyouji HP:971/999 MP:0/0
-2-Nue HP:341/341 MP:67/67
-3-Nebiros HP:249/249 MP:242/242
-4-Centaur HP:88/104 MP:19/19
-5-Cancelar
-INPUT: 4
-----------------------------------------
-Kei ataca a Centaur
-Centaur recibe 19 de daño
-Centaur termina con HP:69/104
+Joker lanza electricidad a Kyouji
+Kyouji es resistente el ataque de Joker
+Kyouji recibe 50 de daño
+Kyouji termina con HP:895/999
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Kyouji (J2)
-----------------------------------------
-Equipo de Kei (J1)
-A-Kei HP:760/760 MP:398/398
-B-Sarasvati HP:273/273 MP:264/264
-C-Bai Suzhen HP:155/155 MP:149/149
+Equipo de Kyouji (J1)
+A-Kyouji HP:895/999 MP:0/0
+B-
+C-
 D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:971/999 MP:0/0
-B-Nue HP:341/341 MP:67/67
-C-Nebiros HP:249/249 MP:242/242
-D-Centaur HP:69/104 MP:19/19
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:333/347
+B-Sarasvati HP:273/273 MP:264/264
+C-
+D-Ammut HP:709/709 MP:140/140
 ----------------------------------------
-Full Turns: 4
+Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Nebiros
-2-Kyouji
-3-Nue
-4-Centaur
+1-Sarasvati
+2-Ammut
+3-Joker
 ----------------------------------------
-Seleccione una acción para Nebiros
+Seleccione una acción para Sarasvati
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 1
+INPUT: 2
 ----------------------------------------
-Seleccione un objetivo para Nebiros
-1-Kei HP:760/760 MP:398/398
-2-Sarasvati HP:273/273 MP:264/264
-3-Bai Suzhen HP:155/155 MP:149/149
+Seleccione una habilidad para que Sarasvati use
+1-Bufudyne MP:14
+2-Rakunda MP:15
+3-Mabufudyne MP:32
 4-Cancelar
 INPUT: 1
 ----------------------------------------
-Nebiros ataca a Kei
-Kei es resistente el ataque de Nebiros
-Kei recibe 13 de daño
-Kei termina con HP:747/760
+Seleccione un objetivo para Sarasvati
+1-Kyouji HP:895/999 MP:0/0
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Bilwis HP:161/161 MP:31/31
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Bilwis HP:161/161 MP:31/31
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Bilwis ha sido invocado
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:895/999 MP:0/0
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:333/347
+B-Bilwis HP:161/161 MP:31/31
+C-
+D-Ammut HP:709/709 MP:140/140
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ammut
+2-Joker
+3-Bilwis
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ammut use
+1-Megaton Press MP:17
+2-War Cry MP:45
+3-Nihil Claw MP:11
+4-Energy Drain MP:10
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Kyouji HP:895/999 MP:0/0
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kei (J1)
-A-Kei HP:747/760 MP:398/398
-B-Sarasvati HP:273/273 MP:264/264
-C-Bai Suzhen HP:155/155 MP:149/149
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:971/999 MP:0/0
-B-Nue HP:341/341 MP:67/67
-C-Nebiros HP:249/249 MP:242/242
-D-Centaur HP:69/104 MP:19/19
+Ronda de Kyouji (J1)
 ----------------------------------------
-Full Turns: 3
+Equipo de Kyouji (J1)
+A-Kyouji HP:895/999 MP:0/0
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:333/347
+B-Bilwis HP:161/161 MP:31/31
+C-
+D-Ammut HP:709/709 MP:140/140
+----------------------------------------
+Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
 1-Kyouji
-2-Nue
-3-Centaur
-4-Nebiros
 ----------------------------------------
 Seleccione una acción para Kyouji
 1: Atacar
@@ -467,67 +560,203 @@ INPUT: 5
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kei (J1)
-A-Kei HP:747/760 MP:398/398
-B-Sarasvati HP:273/273 MP:264/264
-C-Bai Suzhen HP:155/155 MP:149/149
+Equipo de Kyouji (J1)
+A-Kyouji HP:895/999 MP:0/0
+B-
+C-
 D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:971/999 MP:0/0
-B-Nue HP:341/341 MP:67/67
-C-Nebiros HP:249/249 MP:242/242
-D-Centaur HP:69/104 MP:19/19
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:333/347
+B-Bilwis HP:161/161 MP:31/31
+C-
+D-Ammut HP:709/709 MP:140/140
 ----------------------------------------
-Full Turns: 2
+Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Nue
-2-Centaur
-3-Nebiros
-4-Kyouji
+1-Kyouji
 ----------------------------------------
-Seleccione una acción para Nue
+Seleccione una acción para Kyouji
 1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
 INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kyouji use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
 ----------------------------------------
 Seleccione un monstruo para invocar
-1-Senri HP:165/165 MP:158/158
-2-Tsuchigumo HP:280/280 MP:126/126
-3-Alilat HP:441/441 MP:428/428
-4-Magatsuhi HP:851/851 MP:170/170
-5-Cancelar
-INPUT: 3
+1-Cancelar
+INPUT: 1
 ----------------------------------------
-Alilat ha sido invocado
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kei (J1)
-A-Kei HP:747/760 MP:398/398
-B-Sarasvati HP:273/273 MP:264/264
-C-Bai Suzhen HP:155/155 MP:149/149
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:895/999 MP:0/0
+B-
+C-
 D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:971/999 MP:0/0
-B-Alilat HP:441/441 MP:428/428
-C-Nebiros HP:249/249 MP:242/242
-D-Centaur HP:69/104 MP:19/19
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:333/347
+B-Bilwis HP:161/161 MP:31/31
+C-
+D-Ammut HP:709/709 MP:140/140
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Joker
+3-Bilwis
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ammut use
+1-Megaton Press MP:17
+2-War Cry MP:45
+3-Nihil Claw MP:11
+4-Energy Drain MP:10
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Kyouji HP:895/999 MP:0/0
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ammut use
+1-Megaton Press MP:17
+2-War Cry MP:45
+3-Nihil Claw MP:11
+4-Energy Drain MP:10
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Kyouji HP:895/999 MP:0/0
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Kyouji
+Kyouji recibe 142 de daño
+Ammut ataca a Kyouji
+Kyouji recibe 142 de daño
+Kyouji termina con HP:611/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:611/999 MP:0/0
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:333/347
+B-Bilwis HP:161/161 MP:31/31
+C-
+D-Ammut HP:709/709 MP:129/140
 ----------------------------------------
 Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Centaur
-2-Nebiros
-3-Kyouji
-4-Alilat
+1-Joker
+2-Bilwis
+3-Ammut
 ----------------------------------------
-Seleccione una acción para Centaur
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Zionga MP:8
+2-Sabbatma MP:20
+3-Ziodyne MP:14
+4-Needle Shot MP:4
+5-Agidyne MP:14
+6-Dia MP:5
+7-Iron Judgement MP:8
+8-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Kyouji HP:611/999 MP:0/0
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Joker lanza electricidad a Kyouji
+Kyouji es resistente el ataque de Joker
+Kyouji recibe 41 de daño
+Kyouji termina con HP:570/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:570/999 MP:0/0
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:325/347
+B-Bilwis HP:161/161 MP:31/31
+C-
+D-Ammut HP:709/709 MP:129/140
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bilwis
+2-Ammut
+3-Joker
+----------------------------------------
+Seleccione una acción para Bilwis
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -537,27 +766,41 @@ INPUT: 4
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kei (J1)
-A-Kei HP:747/760 MP:398/398
-B-Sarasvati HP:273/273 MP:264/264
-C-Bai Suzhen HP:155/155 MP:149/149
+Equipo de Kyouji (J1)
+A-Kyouji HP:570/999 MP:0/0
+B-
+C-
 D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:971/999 MP:0/0
-B-Alilat HP:441/441 MP:428/428
-C-Nebiros HP:249/249 MP:242/242
-D-Centaur HP:69/104 MP:19/19
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:325/347
+B-Bilwis HP:161/161 MP:31/31
+C-
+D-Ammut HP:709/709 MP:129/140
 ----------------------------------------
-Full Turns: 1
+Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Nebiros
-2-Kyouji
-3-Alilat
-4-Centaur
+1-Ammut
+2-Joker
+3-Bilwis
 ----------------------------------------
-Seleccione una acción para Nebiros
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ammut use
+1-Megaton Press MP:17
+2-War Cry MP:45
+3-Nihil Claw MP:11
+4-Energy Drain MP:10
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ammut
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -565,37 +808,68 @@ Seleccione una acción para Nebiros
 INPUT: 3
 ----------------------------------------
 Seleccione un monstruo para invocar
-1-Nue HP:341/341 MP:67/67
-2-Senri HP:165/165 MP:158/158
-3-Tsuchigumo HP:280/280 MP:126/126
-4-Magatsuhi HP:851/851 MP:170/170
+1-Sarasvati HP:273/273 MP:264/264
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ammut use
+1-Megaton Press MP:17
+2-War Cry MP:45
+3-Nihil Claw MP:11
+4-Energy Drain MP:10
 5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Kyouji HP:570/999 MP:0/0
+2-Cancelar
 INPUT: 1
 ----------------------------------------
-Nue ha sido invocado
+Ammut ataca a Kyouji
+Kyouji recibe 142 de daño
+Kyouji termina con HP:428/999
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kei (J1)
-A-Kei HP:747/760 MP:398/398
-B-Sarasvati HP:273/273 MP:264/264
-C-Bai Suzhen HP:155/155 MP:149/149
+Ronda de Kyouji (J1)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:428/999 MP:0/0
+B-
+C-
 D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:971/999 MP:0/0
-B-Alilat HP:441/441 MP:428/428
-C-Nue HP:341/341 MP:67/67
-D-Centaur HP:69/104 MP:19/19
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:325/347
+B-Bilwis HP:161/161 MP:31/31
+C-
+D-Ammut HP:709/709 MP:118/140
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
 1-Kyouji
-2-Alilat
-3-Centaur
-4-Nue
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kyouji use
+1-Cancelar
+INPUT: 1
 ----------------------------------------
 Seleccione una acción para Kyouji
 1: Atacar
@@ -607,38 +881,179 @@ Seleccione una acción para Kyouji
 INPUT: 1
 ----------------------------------------
 Seleccione un objetivo para Kyouji
-1-Kei HP:747/760 MP:398/398
-2-Sarasvati HP:273/273 MP:264/264
-3-Bai Suzhen HP:155/155 MP:149/149
+1-Joker HP:597/597 MP:325/347
+2-Bilwis HP:161/161 MP:31/31
+3-Ammut HP:709/709 MP:118/140
 4-Cancelar
-INPUT: 3
+INPUT: 4
 ----------------------------------------
-Kyouji ataca a Bai Suzhen
-Bai Suzhen recibe 614 de daño
-Bai Suzhen termina con HP:0/155
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Joker HP:597/597 MP:325/347
+2-Bilwis HP:161/161 MP:31/31
+3-Ammut HP:709/709 MP:118/140
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Kyouji ataca a Bilwis
+Bilwis recibe 614 de daño
+Bilwis termina con HP:0/161
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Kei (J1)
+Ronda de Joker (J2)
 ----------------------------------------
-Equipo de Kei (J1)
-A-Kei HP:747/760 MP:398/398
-B-Sarasvati HP:273/273 MP:264/264
+Equipo de Kyouji (J1)
+A-Kyouji HP:428/999 MP:0/0
+B-
 C-
 D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:971/999 MP:0/0
-B-Alilat HP:441/441 MP:428/428
-C-Nue HP:341/341 MP:67/67
-D-Centaur HP:69/104 MP:19/19
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:325/347
+B-
+C-
+D-Ammut HP:709/709 MP:118/140
 ----------------------------------------
 Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
+1-Ammut
+2-Joker
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Kyouji HP:428/999 MP:0/0
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Kyouji HP:428/999 MP:0/0
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ammut use
+1-Megaton Press MP:17
+2-War Cry MP:45
+3-Nihil Claw MP:11
+4-Energy Drain MP:10
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sarasvati HP:273/273 MP:264/264
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Sarasvati ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:428/999 MP:0/0
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:325/347
+B-
+C-
+D-Sarasvati HP:273/273 MP:264/264
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Sarasvati
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Zionga MP:8
+2-Sabbatma MP:20
+3-Ziodyne MP:14
+4-Needle Shot MP:4
+5-Agidyne MP:14
+6-Dia MP:5
+7-Iron Judgement MP:8
+8-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Kyouji HP:428/999 MP:0/0
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Joker lanza electricidad a Kyouji
+Kyouji es resistente el ataque de Joker
+Kyouji recibe 50 de daño
+Kyouji termina con HP:378/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:378/999 MP:0/0
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:311/347
+B-
+C-
+D-Sarasvati HP:273/273 MP:264/264
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
 1-Sarasvati
-2-Kei
+2-Joker
 ----------------------------------------
 Seleccione una acción para Sarasvati
 1: Atacar
@@ -648,166 +1063,35 @@ Seleccione una acción para Sarasvati
 INPUT: 1
 ----------------------------------------
 Seleccione un objetivo para Sarasvati
-1-Kyouji HP:971/999 MP:0/0
-2-Alilat HP:441/441 MP:428/428
-3-Nue HP:341/341 MP:67/67
-4-Centaur HP:69/104 MP:19/19
-5-Cancelar
+1-Kyouji HP:378/999 MP:0/0
+2-Cancelar
 INPUT: 1
 ----------------------------------------
 Sarasvati ataca a Kyouji
 Kyouji recibe 28 de daño
-Kyouji termina con HP:943/999
+Kyouji termina con HP:350/999
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kei (J1)
-A-Kei HP:747/760 MP:398/398
-B-Sarasvati HP:273/273 MP:264/264
+Ronda de Kyouji (J1)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:350/999 MP:0/0
+B-
 C-
 D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:943/999 MP:0/0
-B-Alilat HP:441/441 MP:428/428
-C-Nue HP:341/341 MP:67/67
-D-Centaur HP:69/104 MP:19/19
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:311/347
+B-
+C-
+D-Sarasvati HP:273/273 MP:264/264
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Kei
-2-Sarasvati
-----------------------------------------
-Seleccione una acción para Kei
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Kei
-1-Kyouji HP:943/999 MP:0/0
-2-Alilat HP:441/441 MP:428/428
-3-Nue HP:341/341 MP:67/67
-4-Centaur HP:69/104 MP:19/19
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Kei ataca a Kyouji
-Kyouji recibe 19 de daño
-Kyouji termina con HP:924/999
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Kyouji (J2)
-----------------------------------------
-Equipo de Kei (J1)
-A-Kei HP:747/760 MP:398/398
-B-Sarasvati HP:273/273 MP:264/264
-C-
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:924/999 MP:0/0
-B-Alilat HP:441/441 MP:428/428
-C-Nue HP:341/341 MP:67/67
-D-Centaur HP:69/104 MP:19/19
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Alilat
-2-Nue
-3-Kyouji
-4-Centaur
-----------------------------------------
-Seleccione una acción para Alilat
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Alilat use
-1-Diarahan MP:16
-2-Megidolaon MP:60
-3-Concentrate MP:11
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Alilat
-1-Kyouji HP:924/999 MP:0/0
-2-Alilat HP:441/441 MP:428/428
-3-Nue HP:341/341 MP:67/67
-4-Centaur HP:69/104 MP:19/19
-5-Nebiros HP:249/249 MP:242/242
-6-Senri HP:165/165 MP:158/158
-7-Tsuchigumo HP:280/280 MP:126/126
-8-Magatsuhi HP:851/851 MP:170/170
-9-Cancelar
-INPUT: 8
-----------------------------------------
-Alilat cura a Magatsuhi
-Magatsuhi recibe 851 de HP
-Magatsuhi termina con HP:851/851
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Kei (J1)
-A-Kei HP:747/760 MP:398/398
-B-Sarasvati HP:273/273 MP:264/264
-C-
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:924/999 MP:0/0
-B-Alilat HP:441/441 MP:412/428
-C-Nue HP:341/341 MP:67/67
-D-Centaur HP:69/104 MP:19/19
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Nue
-2-Kyouji
-3-Centaur
-4-Alilat
-----------------------------------------
-Seleccione una acción para Nue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Kei (J1)
-A-Kei HP:747/760 MP:398/398
-B-Sarasvati HP:273/273 MP:264/264
-C-
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:924/999 MP:0/0
-B-Alilat HP:441/441 MP:412/428
-C-Nue HP:341/341 MP:67/67
-D-Centaur HP:69/104 MP:19/19
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
 1-Kyouji
-2-Centaur
-3-Alilat
-4-Nue
 ----------------------------------------
 Seleccione una acción para Kyouji
 1: Atacar
@@ -816,150 +1100,102 @@ Seleccione una acción para Kyouji
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 5
+INPUT: 1
 ----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Kei (J1)
-A-Kei HP:747/760 MP:398/398
-B-Sarasvati HP:273/273 MP:264/264
-C-
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:924/999 MP:0/0
-B-Alilat HP:441/441 MP:412/428
-C-Nue HP:341/341 MP:67/67
-D-Centaur HP:69/104 MP:19/19
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Centaur
-2-Alilat
-3-Nue
-4-Kyouji
-----------------------------------------
-Seleccione una acción para Centaur
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Kei (J1)
-A-Kei HP:747/760 MP:398/398
-B-Sarasvati HP:273/273 MP:264/264
-C-
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:924/999 MP:0/0
-B-Alilat HP:441/441 MP:412/428
-C-Nue HP:341/341 MP:67/67
-D-Centaur HP:69/104 MP:19/19
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Alilat
-2-Nue
-3-Kyouji
-4-Centaur
-----------------------------------------
-Seleccione una acción para Alilat
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Kei (J1)
-A-Kei HP:747/760 MP:398/398
-B-Sarasvati HP:273/273 MP:264/264
-C-
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:924/999 MP:0/0
-B-Alilat HP:441/441 MP:412/428
-C-Nue HP:341/341 MP:67/67
-D-Centaur HP:69/104 MP:19/19
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Nue
-2-Kyouji
-3-Centaur
-4-Alilat
-----------------------------------------
-Seleccione una acción para Nue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Nue use
-1-Scratch Dance MP:9
-2-Zionga MP:8
-3-Shock MP:21
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Nue
-1-Kei HP:747/760 MP:398/398
+Seleccione un objetivo para Kyouji
+1-Joker HP:597/597 MP:311/347
 2-Sarasvati HP:273/273 MP:264/264
 3-Cancelar
-INPUT: 3
+INPUT: 1
 ----------------------------------------
-Seleccione una acción para Nue
+Kyouji ataca a Joker
+Joker recibe 614 de daño
+Joker termina con HP:0/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:350/999 MP:0/0
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:311/347
+B-
+C-
+D-Sarasvati HP:273/273 MP:264/264
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sarasvati
+----------------------------------------
+Seleccione una acción para Sarasvati
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Nebiros HP:249/249 MP:242/242
-2-Senri HP:165/165 MP:158/158
-3-Tsuchigumo HP:280/280 MP:126/126
-4-Magatsuhi HP:851/851 MP:170/170
-5-Cancelar
 INPUT: 4
-----------------------------------------
-Magatsuhi ha sido invocado
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kei (J1)
-A-Kei HP:747/760 MP:398/398
-B-Sarasvati HP:273/273 MP:264/264
+Equipo de Kyouji (J1)
+A-Kyouji HP:350/999 MP:0/0
+B-
 C-
 D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:924/999 MP:0/0
-B-Alilat HP:441/441 MP:412/428
-C-Magatsuhi HP:851/851 MP:170/170
-D-Centaur HP:69/104 MP:19/19
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:311/347
+B-
+C-
+D-Sarasvati HP:273/273 MP:264/264
 ----------------------------------------
 Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
+1-Sarasvati
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ammut HP:709/709 MP:118/140
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J1)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:350/999 MP:0/0
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:0/597 MP:311/347
+B-
+C-
+D-Ammut HP:709/709 MP:118/140
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
 1-Kyouji
-2-Centaur
-3-Alilat
-4-Magatsuhi
 ----------------------------------------
 Seleccione una acción para Kyouji
 1: Atacar
@@ -968,241 +1204,25 @@ Seleccione una acción para Kyouji
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 1
+INPUT: 4
 ----------------------------------------
-Seleccione un objetivo para Kyouji
-1-Kei HP:747/760 MP:398/398
-2-Sarasvati HP:273/273 MP:264/264
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Kyouji ataca a Sarasvati
-Sarasvati recibe 614 de daño
-Sarasvati termina con HP:0/273
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Kei (J1)
-----------------------------------------
-Equipo de Kei (J1)
-A-Kei HP:747/760 MP:398/398
-B-
-C-
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:924/999 MP:0/0
-B-Alilat HP:441/441 MP:412/428
-C-Magatsuhi HP:851/851 MP:170/170
-D-Centaur HP:69/104 MP:19/19
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Kei
-----------------------------------------
-Seleccione una acción para Kei
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Kei use
+Seleccione un monstruo para invocar
 1-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione una acción para Kei
+Seleccione una acción para Kyouji
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 2
+INPUT: 4
 ----------------------------------------
-Seleccione un objetivo para Kei
-1-Kyouji HP:924/999 MP:0/0
-2-Alilat HP:441/441 MP:412/428
-3-Magatsuhi HP:851/851 MP:170/170
-4-Centaur HP:69/104 MP:19/19
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Kei
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Kei use
+Seleccione un monstruo para invocar
 1-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione una acción para Kei
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Kei
-1-Kyouji HP:924/999 MP:0/0
-2-Alilat HP:441/441 MP:412/428
-3-Magatsuhi HP:851/851 MP:170/170
-4-Centaur HP:69/104 MP:19/19
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Kei dispara a Magatsuhi
-Magatsuhi recibe 15 de daño
-Magatsuhi termina con HP:836/851
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Kyouji (J2)
-----------------------------------------
-Equipo de Kei (J1)
-A-Kei HP:747/760 MP:398/398
-B-
-C-
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:924/999 MP:0/0
-B-Alilat HP:441/441 MP:412/428
-C-Magatsuhi HP:836/851 MP:170/170
-D-Centaur HP:69/104 MP:19/19
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Magatsuhi
-2-Alilat
-3-Kyouji
-4-Centaur
-----------------------------------------
-Seleccione una acción para Magatsuhi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Magatsuhi
-1-Kei HP:747/760 MP:398/398
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Magatsuhi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Kei (J1)
-A-Kei HP:747/760 MP:398/398
-B-
-C-
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:924/999 MP:0/0
-B-Alilat HP:441/441 MP:412/428
-C-Magatsuhi HP:836/851 MP:170/170
-D-Centaur HP:69/104 MP:19/19
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Alilat
-2-Kyouji
-3-Centaur
-4-Magatsuhi
-----------------------------------------
-Seleccione una acción para Alilat
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Alilat use
-1-Diarahan MP:16
-2-Megidolaon MP:60
-3-Concentrate MP:11
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Alilat
-1-Kyouji HP:924/999 MP:0/0
-2-Alilat HP:441/441 MP:412/428
-3-Magatsuhi HP:836/851 MP:170/170
-4-Centaur HP:69/104 MP:19/19
-5-Nue HP:341/341 MP:67/67
-6-Nebiros HP:249/249 MP:242/242
-7-Senri HP:165/165 MP:158/158
-8-Tsuchigumo HP:280/280 MP:126/126
-9-Cancelar
-INPUT: 4
-----------------------------------------
-Alilat cura a Centaur
-Centaur recibe 104 de HP
-Centaur termina con HP:104/104
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Kei (J1)
-A-Kei HP:747/760 MP:398/398
-B-
-C-
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:924/999 MP:0/0
-B-Alilat HP:441/441 MP:396/428
-C-Magatsuhi HP:836/851 MP:170/170
-D-Centaur HP:104/104 MP:19/19
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Kyouji
-2-Centaur
-3-Magatsuhi
-4-Alilat
-----------------------------------------
-Seleccione una acción para Kyouji
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Nue HP:341/341 MP:67/67
-2-Nebiros HP:249/249 MP:242/242
-3-Senri HP:165/165 MP:158/158
-4-Tsuchigumo HP:280/280 MP:126/126
-5-Cancelar
-INPUT: 5
-----------------------------------------
 Seleccione una acción para Kyouji
 1: Atacar
 2: Disparar
@@ -1213,168 +1233,15 @@ Seleccione una acción para Kyouji
 INPUT: 2
 ----------------------------------------
 Seleccione un objetivo para Kyouji
-1-Kei HP:747/760 MP:398/398
+1-Ammut HP:709/709 MP:118/140
 2-Cancelar
 INPUT: 1
 ----------------------------------------
-Kyouji dispara a Kei
-Kei es resistente el ataque de Kyouji
-Kei recibe 455 de daño
-Kei termina con HP:292/760
+Kyouji dispara a Ammut
+Ammut recibe 911 de daño
+Ammut termina con HP:0/709
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kei (J1)
-A-Kei HP:292/760 MP:398/398
-B-
-C-
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:924/999 MP:0/0
-B-Alilat HP:441/441 MP:396/428
-C-Magatsuhi HP:836/851 MP:170/170
-D-Centaur HP:104/104 MP:19/19
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Centaur
-2-Magatsuhi
-3-Alilat
-4-Kyouji
-----------------------------------------
-Seleccione una acción para Centaur
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Nue HP:341/341 MP:67/67
-2-Nebiros HP:249/249 MP:242/242
-3-Senri HP:165/165 MP:158/158
-4-Tsuchigumo HP:280/280 MP:126/126
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Nebiros ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Kei (J1)
-A-Kei HP:292/760 MP:398/398
-B-
-C-
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:924/999 MP:0/0
-B-Alilat HP:441/441 MP:396/428
-C-Magatsuhi HP:836/851 MP:170/170
-D-Nebiros HP:249/249 MP:242/242
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Magatsuhi
-2-Alilat
-3-Kyouji
-4-Nebiros
-----------------------------------------
-Seleccione una acción para Magatsuhi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Nue HP:341/341 MP:67/67
-2-Centaur HP:104/104 MP:19/19
-3-Senri HP:165/165 MP:158/158
-4-Tsuchigumo HP:280/280 MP:126/126
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Senri ha sido invocado
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Kei (J1)
-A-Kei HP:292/760 MP:398/398
-B-
-C-
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:924/999 MP:0/0
-B-Alilat HP:441/441 MP:396/428
-C-Senri HP:165/165 MP:158/158
-D-Nebiros HP:249/249 MP:242/242
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Alilat
-2-Kyouji
-3-Nebiros
-4-Senri
-----------------------------------------
-Seleccione una acción para Alilat
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Kei (J1)
-A-Kei HP:292/760 MP:398/398
-B-
-C-
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:924/999 MP:0/0
-B-Alilat HP:441/441 MP:396/428
-C-Senri HP:165/165 MP:158/158
-D-Nebiros HP:249/249 MP:242/242
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Kyouji
-2-Nebiros
-3-Senri
-4-Alilat
-----------------------------------------
-Seleccione una acción para Kyouji
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Kyouji
-1-Kei HP:292/760 MP:398/398
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Kyouji dispara a Kei
-Kei es resistente el ataque de Kyouji
-Kei recibe 455 de daño
-Kei termina con HP:0/760
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ganador: Kyouji (J2)
+Ganador: Kyouji (J1)

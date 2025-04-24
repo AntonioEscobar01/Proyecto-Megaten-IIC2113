@@ -201,198 +201,29 @@ Elige un archivo para cargar los equipos
 199: 200.txt
 INPUT: 171
 ----------------------------------------
-Ronda de Kotone (J1)
+Ronda de Nahobino (J1)
 ----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:597/597 MP:347/347
-B-Kingu HP:464/464 MP:91/91
-C-Jueyuan HP:154/154 MP:68/68
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1136/1136 MP:413/413
-B-Manticore HP:385/385 MP:172/172
-C-Mithras HP:293/293 MP:58/58
-D-Python HP:637/637 MP:286/286
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Kotone
-2-Kingu
-3-Jueyuan
-----------------------------------------
-Seleccione una acción para Kotone
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Kotone
-1-Itsuki HP:1136/1136 MP:413/413
-2-Manticore HP:385/385 MP:172/172
-3-Mithras HP:293/293 MP:58/58
-4-Python HP:637/637 MP:286/286
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Kotone dispara a Mithras
-Mithras recibe 57 de daño
-Mithras termina con HP:236/293
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:597/597 MP:347/347
-B-Kingu HP:464/464 MP:91/91
-C-Jueyuan HP:154/154 MP:68/68
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1136/1136 MP:413/413
-B-Manticore HP:385/385 MP:172/172
-C-Mithras HP:236/293 MP:58/58
-D-Python HP:637/637 MP:286/286
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Kingu
-2-Jueyuan
-3-Kotone
-----------------------------------------
-Seleccione una acción para Kingu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Kingu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Kingu use
-1-Zanma MP:8
-2-Recarmdra MP:2
-3-Shock MP:21
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Kingu cura a Kotone
-Kotone recibe 298 de HP
-Kotone termina con HP:597/597
-Kingu cura a Jueyuan
-Jueyuan recibe 77 de HP
-Jueyuan termina con HP:154/154
-Kingu termina con HP:0/464
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:597/597 MP:347/347
-B-
-C-Jueyuan HP:154/154 MP:68/68
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1136/1136 MP:413/413
-B-Manticore HP:385/385 MP:172/172
-C-Mithras HP:236/293 MP:58/58
-D-Python HP:637/637 MP:286/286
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Kotone
-2-Jueyuan
-----------------------------------------
-Seleccione una acción para Kotone
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:597/597 MP:347/347
-B-
-C-Jueyuan HP:154/154 MP:68/68
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1136/1136 MP:413/413
-B-Manticore HP:385/385 MP:172/172
-C-Mithras HP:236/293 MP:58/58
-D-Python HP:637/637 MP:286/286
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Jueyuan
-2-Kotone
-----------------------------------------
-Seleccione una acción para Jueyuan
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Itsuki (J2)
-----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:597/597 MP:347/347
-B-
-C-Jueyuan HP:154/154 MP:68/68
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1136/1136 MP:413/413
-B-Manticore HP:385/385 MP:172/172
-C-Mithras HP:236/293 MP:58/58
-D-Python HP:637/637 MP:286/286
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Scathach HP:343/343 MP:153/153
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Zouchouten HP:221/221 MP:214/214
+C-Anubis HP:497/497 MP:223/223
+D-Sphinx HP:376/376 MP:364/364
 ----------------------------------------
 Full Turns: 4
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Python
-2-Itsuki
-3-Manticore
-4-Mithras
+1-Asherah
+2-Nahobino
+3-Scathach
+4-Karasu Tengu
 ----------------------------------------
-Seleccione una acción para Python
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Python
+Seleccione una acción para Asherah
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -402,124 +233,113 @@ INPUT: 4
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:597/597 MP:347/347
-B-
-C-Jueyuan HP:154/154 MP:68/68
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1136/1136 MP:413/413
-B-Manticore HP:385/385 MP:172/172
-C-Mithras HP:236/293 MP:58/58
-D-Python HP:637/637 MP:286/286
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Scathach HP:343/343 MP:153/153
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Zouchouten HP:221/221 MP:214/214
+C-Anubis HP:497/497 MP:223/223
+D-Sphinx HP:376/376 MP:364/364
 ----------------------------------------
 Full Turns: 3
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Itsuki
-2-Manticore
-3-Mithras
-4-Python
+1-Nahobino
+2-Scathach
+3-Karasu Tengu
+4-Asherah
 ----------------------------------------
-Seleccione una acción para Itsuki
+Seleccione una acción para Nahobino
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione una acción para Itsuki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
+Seleccione un objetivo para Nahobino
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Zouchouten HP:221/221 MP:214/214
+3-Anubis HP:497/497 MP:223/223
+4-Sphinx HP:376/376 MP:364/364
+5-Cancelar
 INPUT: 2
 ----------------------------------------
-Seleccione un objetivo para Itsuki
-1-Kotone HP:597/597 MP:347/347
-2-Jueyuan HP:154/154 MP:68/68
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Itsuki dispara a Kotone
-Kotone es resistente el ataque de Itsuki
-Kotone recibe 30 de daño
-Kotone termina con HP:567/597
+Nahobino ataca a Zouchouten
+Zouchouten recibe 29 de daño
+Zouchouten termina con HP:192/221
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:567/597 MP:347/347
-B-
-C-Jueyuan HP:154/154 MP:68/68
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1136/1136 MP:413/413
-B-Manticore HP:385/385 MP:172/172
-C-Mithras HP:236/293 MP:58/58
-D-Python HP:637/637 MP:286/286
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Scathach HP:343/343 MP:153/153
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Zouchouten HP:192/221 MP:214/214
+C-Anubis HP:497/497 MP:223/223
+D-Sphinx HP:376/376 MP:364/364
 ----------------------------------------
 Full Turns: 3
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Manticore
-2-Mithras
-3-Python
-4-Itsuki
+1-Scathach
+2-Karasu Tengu
+3-Asherah
+4-Nahobino
 ----------------------------------------
-Seleccione una acción para Manticore
+Seleccione una acción para Scathach
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Manticore
-1-Kotone HP:567/597 MP:347/347
-2-Jueyuan HP:154/154 MP:68/68
-3-Cancelar
-INPUT: 1
+Seleccione un objetivo para Scathach
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Zouchouten HP:192/221 MP:214/214
+3-Anubis HP:497/497 MP:223/223
+4-Sphinx HP:376/376 MP:364/364
+5-Cancelar
+INPUT: 2
 ----------------------------------------
-Manticore ataca a Kotone
-Kotone es resistente el ataque de Manticore
-Kotone recibe 15 de daño
-Kotone termina con HP:552/597
+Scathach ataca a Zouchouten
+Zouchouten recibe 27 de daño
+Zouchouten termina con HP:165/221
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:552/597 MP:347/347
-B-
-C-Jueyuan HP:154/154 MP:68/68
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1136/1136 MP:413/413
-B-Manticore HP:385/385 MP:172/172
-C-Mithras HP:236/293 MP:58/58
-D-Python HP:637/637 MP:286/286
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Scathach HP:343/343 MP:153/153
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Zouchouten HP:165/221 MP:214/214
+C-Anubis HP:497/497 MP:223/223
+D-Sphinx HP:376/376 MP:364/364
 ----------------------------------------
 Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Mithras
-2-Python
-3-Itsuki
-4-Manticore
+1-Karasu Tengu
+2-Asherah
+3-Nahobino
+4-Scathach
 ----------------------------------------
-Seleccione una acción para Mithras
+Seleccione una acción para Karasu Tengu
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -530,55 +350,29 @@ Seleccione un monstruo para invocar
 1-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione una acción para Mithras
+Seleccione una acción para Karasu Tengu
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 2
+INPUT: 3
 ----------------------------------------
-Seleccione una habilidad para que Mithras use
-1-Mahama MP:18
-2-Heat Wave MP:11
-3-Rakunda MP:15
-4-Fatal Sword MP:8
-5-Cancelar
-INPUT: 4
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Mithras
-1-Kotone HP:552/597 MP:347/347
-2-Jueyuan HP:154/154 MP:68/68
-3-Cancelar
-INPUT: 2
+Seleccione una acción para Karasu Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
 ----------------------------------------
-Mithras ataca a Jueyuan
-Jueyuan recibe 72 de daño
-Jueyuan termina con HP:82/154
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
 ----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:552/597 MP:347/347
-B-
-C-Jueyuan HP:82/154 MP:68/68
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1136/1136 MP:413/413
-B-Manticore HP:385/385 MP:172/172
-C-Mithras HP:236/293 MP:50/58
-D-Python HP:637/637 MP:286/286
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Python
-2-Itsuki
-3-Manticore
-4-Mithras
-----------------------------------------
-Seleccione una acción para Python
+Seleccione una acción para Karasu Tengu
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -588,197 +382,224 @@ INPUT: 4
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:552/597 MP:347/347
-B-
-C-Jueyuan HP:82/154 MP:68/68
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1136/1136 MP:413/413
-B-Manticore HP:385/385 MP:172/172
-C-Mithras HP:236/293 MP:50/58
-D-Python HP:637/637 MP:286/286
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Scathach HP:343/343 MP:153/153
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Zouchouten HP:165/221 MP:214/214
+C-Anubis HP:497/497 MP:223/223
+D-Sphinx HP:376/376 MP:364/364
 ----------------------------------------
-Full Turns: 0
+Full Turns: 1
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Itsuki
-2-Manticore
-3-Mithras
-4-Python
+1-Asherah
+2-Nahobino
+3-Scathach
+4-Karasu Tengu
 ----------------------------------------
-Seleccione una acción para Itsuki
+Seleccione una acción para Asherah
 1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
 ----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
+Seleccione una habilidad para que Asherah use
+1-Diarama MP:9
+2-Cancelar
+INPUT: 2
 ----------------------------------------
-Seleccione una acción para Itsuki
+Seleccione una acción para Asherah
 1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
 INPUT: 3
 ----------------------------------------
-Seleccione una habilidad para que Itsuki use
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Itsuki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
 Seleccione un monstruo para invocar
 1-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione una acción para Itsuki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Itsuki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Kotone (J1)
-----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:552/597 MP:347/347
-B-
-C-Jueyuan HP:82/154 MP:68/68
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1136/1136 MP:413/413
-B-Manticore HP:385/385 MP:172/172
-C-Mithras HP:236/293 MP:50/58
-D-Python HP:637/637 MP:286/286
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Kotone
-2-Jueyuan
-----------------------------------------
-Seleccione una acción para Kotone
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Kotone
-1-Itsuki HP:1136/1136 MP:413/413
-2-Manticore HP:385/385 MP:172/172
-3-Mithras HP:236/293 MP:50/58
-4-Python HP:637/637 MP:286/286
-5-Cancelar
-INPUT: 4
-----------------------------------------
-Kotone ataca a Python
-Python recibe 38 de daño
-Python termina con HP:599/637
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:552/597 MP:347/347
-B-
-C-Jueyuan HP:82/154 MP:68/68
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1136/1136 MP:413/413
-B-Manticore HP:385/385 MP:172/172
-C-Mithras HP:236/293 MP:50/58
-D-Python HP:599/637 MP:286/286
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Jueyuan
-2-Kotone
-----------------------------------------
-Seleccione una acción para Jueyuan
+Seleccione una acción para Asherah
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Jueyuan
-1-Itsuki HP:1136/1136 MP:413/413
-2-Manticore HP:385/385 MP:172/172
-3-Mithras HP:236/293 MP:50/58
-4-Python HP:599/637 MP:286/286
+Seleccione un objetivo para Asherah
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Zouchouten HP:165/221 MP:214/214
+3-Anubis HP:497/497 MP:223/223
+4-Sphinx HP:376/376 MP:364/364
 5-Cancelar
-INPUT: 4
+INPUT: 3
 ----------------------------------------
-Jueyuan ataca a Python
-Python recibe 11 de daño
-Python termina con HP:588/637
+Asherah ataca a Anubis
+Anubis recibe 35 de daño
+Anubis termina con HP:462/497
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Scathach HP:343/343 MP:153/153
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Zouchouten HP:165/221 MP:214/214
+C-Anubis HP:462/497 MP:223/223
+D-Sphinx HP:376/376 MP:364/364
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Scathach
+3-Karasu Tengu
+4-Asherah
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Zouchouten HP:165/221 MP:214/214
+3-Anubis HP:462/497 MP:223/223
+4-Sphinx HP:376/376 MP:364/364
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Nahobino
+Demi-Fiend termina con HP:1227/1227
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Itsuki (J2)
+Ronda de Demi-Fiend (J2)
 ----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:552/597 MP:347/347
-B-
-C-Jueyuan HP:82/154 MP:68/68
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1136/1136 MP:413/413
-B-Manticore HP:385/385 MP:172/172
-C-Mithras HP:236/293 MP:50/58
-D-Python HP:588/637 MP:286/286
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Scathach HP:343/343 MP:153/153
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:238/238 MP:107/107
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Zouchouten HP:165/221 MP:214/214
+C-Anubis HP:462/497 MP:223/223
+D-Sphinx HP:376/376 MP:364/364
 ----------------------------------------
 Full Turns: 4
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Python
-2-Itsuki
-3-Manticore
-4-Mithras
+1-Demi-Fiend
+2-Anubis
+3-Sphinx
+4-Zouchouten
 ----------------------------------------
-Seleccione una acción para Python
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Nahobino HP:453/453 MP:389/389
+2-Scathach HP:343/343 MP:153/153
+3-Asherah HP:433/433 MP:195/195
+4-Karasu Tengu HP:238/238 MP:107/107
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Demi-Fiend ataca a Karasu Tengu
+Karasu Tengu recibe 168 de daño
+Karasu Tengu termina con HP:70/238
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Scathach HP:343/343 MP:153/153
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:70/238 MP:107/107
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Zouchouten HP:165/221 MP:214/214
+C-Anubis HP:462/497 MP:223/223
+D-Sphinx HP:376/376 MP:364/364
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anubis
+2-Sphinx
+3-Zouchouten
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Nahobino HP:453/453 MP:389/389
+2-Scathach HP:343/343 MP:153/153
+3-Asherah HP:433/433 MP:195/195
+4-Karasu Tengu HP:70/238 MP:107/107
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Anubis ataca a Scathach
+Scathach recibe 41 de daño
+Scathach termina con HP:302/343
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Scathach HP:302/343 MP:153/153
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:70/238 MP:107/107
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Zouchouten HP:165/221 MP:214/214
+C-Anubis HP:462/497 MP:223/223
+D-Sphinx HP:376/376 MP:364/364
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sphinx
+2-Zouchouten
+3-Demi-Fiend
+4-Anubis
+----------------------------------------
+Seleccione una acción para Sphinx
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -788,374 +609,163 @@ INPUT: 4
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:552/597 MP:347/347
-B-
-C-Jueyuan HP:82/154 MP:68/68
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1136/1136 MP:413/413
-B-Manticore HP:385/385 MP:172/172
-C-Mithras HP:236/293 MP:50/58
-D-Python HP:588/637 MP:286/286
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Itsuki
-2-Manticore
-3-Mithras
-4-Python
-----------------------------------------
-Seleccione una acción para Itsuki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Itsuki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Itsuki
-1-Kotone HP:552/597 MP:347/347
-2-Jueyuan HP:82/154 MP:68/68
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Itsuki ataca a Kotone
-Kotone es resistente el ataque de Itsuki
-Kotone recibe 22 de daño
-Kotone termina con HP:530/597
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:530/597 MP:347/347
-B-
-C-Jueyuan HP:82/154 MP:68/68
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1136/1136 MP:413/413
-B-Manticore HP:385/385 MP:172/172
-C-Mithras HP:236/293 MP:50/58
-D-Python HP:588/637 MP:286/286
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Manticore
-2-Mithras
-3-Python
-4-Itsuki
-----------------------------------------
-Seleccione una acción para Manticore
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Manticore
-1-Kotone HP:530/597 MP:347/347
-2-Jueyuan HP:82/154 MP:68/68
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Manticore ataca a Kotone
-Kotone es resistente el ataque de Manticore
-Kotone recibe 15 de daño
-Kotone termina con HP:515/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:515/597 MP:347/347
-B-
-C-Jueyuan HP:82/154 MP:68/68
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1136/1136 MP:413/413
-B-Manticore HP:385/385 MP:172/172
-C-Mithras HP:236/293 MP:50/58
-D-Python HP:588/637 MP:286/286
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Mithras
-2-Python
-3-Itsuki
-4-Manticore
-----------------------------------------
-Seleccione una acción para Mithras
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:515/597 MP:347/347
-B-
-C-Jueyuan HP:82/154 MP:68/68
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1136/1136 MP:413/413
-B-Manticore HP:385/385 MP:172/172
-C-Mithras HP:236/293 MP:50/58
-D-Python HP:588/637 MP:286/286
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Scathach HP:302/343 MP:153/153
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:70/238 MP:107/107
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Zouchouten HP:165/221 MP:214/214
+C-Anubis HP:462/497 MP:223/223
+D-Sphinx HP:376/376 MP:364/364
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Python
-2-Itsuki
-3-Manticore
-4-Mithras
+1-Zouchouten
+2-Demi-Fiend
+3-Anubis
+4-Sphinx
 ----------------------------------------
-Seleccione una acción para Python
+Seleccione una acción para Zouchouten
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Python
-1-Kotone HP:515/597 MP:347/347
-2-Jueyuan HP:82/154 MP:68/68
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Python ataca a Kotone
-Kotone es resistente el ataque de Python
-Kotone recibe 26 de daño
-Kotone termina con HP:489/597
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:489/597 MP:347/347
-B-
-C-Jueyuan HP:82/154 MP:68/68
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1136/1136 MP:413/413
-B-Manticore HP:385/385 MP:172/172
-C-Mithras HP:236/293 MP:50/58
-D-Python HP:588/637 MP:286/286
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Itsuki
-2-Manticore
-3-Mithras
-4-Python
-----------------------------------------
-Seleccione una acción para Itsuki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
 INPUT: 2
 ----------------------------------------
-Seleccione un objetivo para Itsuki
-1-Kotone HP:489/597 MP:347/347
-2-Jueyuan HP:82/154 MP:68/68
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Itsuki dispara a Jueyuan
-Jueyuan recibe 61 de daño
-Jueyuan termina con HP:21/154
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Kotone (J1)
-----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:489/597 MP:347/347
-B-
-C-Jueyuan HP:21/154 MP:68/68
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1136/1136 MP:413/413
-B-Manticore HP:385/385 MP:172/172
-C-Mithras HP:236/293 MP:50/58
-D-Python HP:588/637 MP:286/286
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Kotone
-2-Jueyuan
-----------------------------------------
-Seleccione una acción para Kotone
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
+Seleccione una habilidad para que Zouchouten use
+1-Agidyne MP:14
+2-Dream Fist MP:9
+3-Myriad Arrows MP:30
+4-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Kotone
-1-Itsuki HP:1136/1136 MP:413/413
-2-Manticore HP:385/385 MP:172/172
-3-Mithras HP:236/293 MP:50/58
-4-Python HP:588/637 MP:286/286
+Seleccione un objetivo para Zouchouten
+1-Nahobino HP:453/453 MP:389/389
+2-Scathach HP:302/343 MP:153/153
+3-Asherah HP:433/433 MP:195/195
+4-Karasu Tengu HP:70/238 MP:107/107
 5-Cancelar
 INPUT: 1
 ----------------------------------------
-Kotone ataca a Itsuki
-Itsuki recibe 38 de daño
-Itsuki termina con HP:1098/1136
+Zouchouten lanza fuego a Nahobino
+Nahobino es resistente el ataque de Zouchouten
+Nahobino recibe 52 de daño
+Nahobino termina con HP:401/453
 ----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:489/597 MP:347/347
-B-
-C-Jueyuan HP:21/154 MP:68/68
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1098/1136 MP:413/413
-B-Manticore HP:385/385 MP:172/172
-C-Mithras HP:236/293 MP:50/58
-D-Python HP:588/637 MP:286/286
+Equipo de Nahobino (J1)
+A-Nahobino HP:401/453 MP:389/389
+B-Scathach HP:302/343 MP:153/153
+C-Asherah HP:433/433 MP:195/195
+D-Karasu Tengu HP:70/238 MP:107/107
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Zouchouten HP:165/221 MP:200/214
+C-Anubis HP:462/497 MP:223/223
+D-Sphinx HP:376/376 MP:364/364
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Jueyuan
-2-Kotone
+1-Demi-Fiend
+2-Anubis
+3-Sphinx
+4-Zouchouten
 ----------------------------------------
-Seleccione una acción para Jueyuan
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Nahobino HP:401/453 MP:389/389
+2-Scathach HP:302/343 MP:153/153
+3-Asherah HP:433/433 MP:195/195
+4-Karasu Tengu HP:70/238 MP:107/107
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Demi-Fiend dispara a Karasu Tengu
+Karasu Tengu recibe 114 de daño
+Karasu Tengu termina con HP:0/238
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:401/453 MP:389/389
+B-Scathach HP:302/343 MP:153/153
+C-Asherah HP:433/433 MP:195/195
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Zouchouten HP:165/221 MP:200/214
+C-Anubis HP:462/497 MP:223/223
+D-Sphinx HP:376/376 MP:364/364
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Nahobino
+3-Scathach
+----------------------------------------
+Seleccione una acción para Asherah
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 2
+INPUT: 1
 ----------------------------------------
-Seleccione una habilidad para que Jueyuan use
-1-Poison Claw MP:9
-2-Agi MP:5
-3-Posumudi MP:5
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Jueyuan
-1-Itsuki HP:1098/1136 MP:413/413
-2-Manticore HP:385/385 MP:172/172
-3-Mithras HP:236/293 MP:50/58
-4-Python HP:588/637 MP:286/286
+Seleccione un objetivo para Asherah
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Zouchouten HP:165/221 MP:200/214
+3-Anubis HP:462/497 MP:223/223
+4-Sphinx HP:376/376 MP:364/364
 5-Cancelar
 INPUT: 3
 ----------------------------------------
-Jueyuan lanza fuego a Mithras
-Mithras es resistente el ataque de Jueyuan
-Mithras recibe 18 de daño
-Mithras termina con HP:218/293
+Asherah ataca a Anubis
+Anubis recibe 35 de daño
+Anubis termina con HP:427/497
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Itsuki (J2)
-----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:489/597 MP:347/347
-B-
-C-Jueyuan HP:21/154 MP:63/68
+Equipo de Nahobino (J1)
+A-Nahobino HP:401/453 MP:389/389
+B-Scathach HP:302/343 MP:153/153
+C-Asherah HP:433/433 MP:195/195
 D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1098/1136 MP:413/413
-B-Manticore HP:385/385 MP:172/172
-C-Mithras HP:218/293 MP:50/58
-D-Python HP:588/637 MP:286/286
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Zouchouten HP:165/221 MP:200/214
+C-Anubis HP:427/497 MP:223/223
+D-Sphinx HP:376/376 MP:364/364
 ----------------------------------------
-Full Turns: 4
+Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Python
-2-Itsuki
-3-Manticore
-4-Mithras
+1-Nahobino
+2-Scathach
+3-Asherah
 ----------------------------------------
-Seleccione una acción para Python
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:489/597 MP:347/347
-B-
-C-Jueyuan HP:21/154 MP:63/68
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1098/1136 MP:413/413
-B-Manticore HP:385/385 MP:172/172
-C-Mithras HP:218/293 MP:50/58
-D-Python HP:588/637 MP:286/286
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Itsuki
-2-Manticore
-3-Mithras
-4-Python
-----------------------------------------
-Seleccione una acción para Itsuki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Itsuki use
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Itsuki
+Seleccione una acción para Nahobino
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -1164,470 +774,278 @@ Seleccione una acción para Itsuki
 6: Rendirse
 INPUT: 2
 ----------------------------------------
-Seleccione un objetivo para Itsuki
-1-Kotone HP:489/597 MP:347/347
-2-Jueyuan HP:21/154 MP:63/68
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Itsuki dispara a Kotone
-Kotone es resistente el ataque de Itsuki
-Kotone recibe 30 de daño
-Kotone termina con HP:459/597
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:459/597 MP:347/347
-B-
-C-Jueyuan HP:21/154 MP:63/68
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1098/1136 MP:413/413
-B-Manticore HP:385/385 MP:172/172
-C-Mithras HP:218/293 MP:50/58
-D-Python HP:588/637 MP:286/286
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Manticore
-2-Mithras
-3-Python
-4-Itsuki
-----------------------------------------
-Seleccione una acción para Manticore
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Manticore use
-1-Toxic Sting MP:9
-2-Damascus Claw MP:7
-3-Posumudi MP:5
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Manticore
-1-Kotone HP:459/597 MP:347/347
-2-Jueyuan HP:21/154 MP:63/68
-3-Cancelar
+Seleccione un objetivo para Nahobino
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Zouchouten HP:165/221 MP:200/214
+3-Anubis HP:427/497 MP:223/223
+4-Sphinx HP:376/376 MP:364/364
+5-Cancelar
 INPUT: 3
 ----------------------------------------
-Seleccione una acción para Manticore
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:459/597 MP:347/347
-B-
-C-Jueyuan HP:21/154 MP:63/68
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1098/1136 MP:413/413
-B-Manticore HP:385/385 MP:172/172
-C-Mithras HP:218/293 MP:50/58
-D-Python HP:588/637 MP:286/286
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Mithras
-2-Python
-3-Itsuki
-4-Manticore
-----------------------------------------
-Seleccione una acción para Mithras
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Mithras
-1-Kotone HP:459/597 MP:347/347
-2-Jueyuan HP:21/154 MP:63/68
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Mithras ataca a Jueyuan
-Jueyuan recibe 20 de daño
-Jueyuan termina con HP:1/154
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:459/597 MP:347/347
-B-
-C-Jueyuan HP:1/154 MP:63/68
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1098/1136 MP:413/413
-B-Manticore HP:385/385 MP:172/172
-C-Mithras HP:218/293 MP:50/58
-D-Python HP:588/637 MP:286/286
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Python
-2-Itsuki
-3-Manticore
-4-Mithras
-----------------------------------------
-Seleccione una acción para Python
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Python use
-1-Fog Breath MP:45
-2-Bufudyne MP:14
-3-Ziodyne MP:14
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Python
-1-Kotone HP:459/597 MP:347/347
-2-Jueyuan HP:1/154 MP:63/68
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Python lanza electricidad a Kotone
-Kotone es resistente el ataque de Python
-Kotone recibe 67 de daño
-Kotone termina con HP:392/597
+Nahobino dispara a Anubis
+Anubis recibe 83 de daño
+Anubis termina con HP:344/497
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:392/597 MP:347/347
-B-
-C-Jueyuan HP:1/154 MP:63/68
+Equipo de Nahobino (J1)
+A-Nahobino HP:401/453 MP:389/389
+B-Scathach HP:302/343 MP:153/153
+C-Asherah HP:433/433 MP:195/195
 D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1098/1136 MP:413/413
-B-Manticore HP:385/385 MP:172/172
-C-Mithras HP:218/293 MP:50/58
-D-Python HP:588/637 MP:272/286
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Zouchouten HP:165/221 MP:200/214
+C-Anubis HP:344/497 MP:223/223
+D-Sphinx HP:376/376 MP:364/364
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Itsuki
-2-Manticore
-3-Mithras
-4-Python
+1-Scathach
+2-Asherah
+3-Nahobino
 ----------------------------------------
-Seleccione una acción para Itsuki
+Seleccione una acción para Scathach
 1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Itsuki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
 INPUT: 2
 ----------------------------------------
-Seleccione un objetivo para Itsuki
-1-Kotone HP:392/597 MP:347/347
-2-Jueyuan HP:1/154 MP:63/68
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Itsuki dispara a Kotone
-Kotone es resistente el ataque de Itsuki
-Kotone recibe 30 de daño
-Kotone termina con HP:362/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Kotone (J1)
-----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:362/597 MP:347/347
-B-
-C-Jueyuan HP:1/154 MP:63/68
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1098/1136 MP:413/413
-B-Manticore HP:385/385 MP:172/172
-C-Mithras HP:218/293 MP:50/58
-D-Python HP:588/637 MP:272/286
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Kotone
-2-Jueyuan
-----------------------------------------
-Seleccione una acción para Kotone
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Kotone use
-1-Nihil Claw MP:11
+Seleccione una habilidad para que Scathach use
+1-Mazanma MP:20
 2-Oni-Kagura MP:9
-3-Dia MP:5
-4-Iron Judgement MP:8
-5-Agidyne MP:14
-6-Agi MP:5
-7-Deadly Wind MP:22
-8-Cancelar
-INPUT: 7
-----------------------------------------
-Seleccione un objetivo para Kotone
-1-Itsuki HP:1098/1136 MP:413/413
-2-Manticore HP:385/385 MP:172/172
-3-Mithras HP:218/293 MP:50/58
-4-Python HP:588/637 MP:272/286
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Kotone lanza viento a Manticore
-Manticore es débil contra el ataque de Kotone
-Manticore recibe 206 de daño
-Manticore termina con HP:179/385
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:362/597 MP:325/347
-B-
-C-Jueyuan HP:1/154 MP:63/68
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1098/1136 MP:413/413
-B-Manticore HP:179/385 MP:172/172
-C-Mithras HP:218/293 MP:50/58
-D-Python HP:588/637 MP:272/286
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Jueyuan
-2-Kotone
-----------------------------------------
-Seleccione una acción para Jueyuan
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Jueyuan
-1-Itsuki HP:1098/1136 MP:413/413
-2-Manticore HP:179/385 MP:172/172
-3-Mithras HP:218/293 MP:50/58
-4-Python HP:588/637 MP:272/286
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Jueyuan
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Jueyuan
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Jueyuan
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Jueyuan
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Jueyuan
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
+3-Grand Tack MP:11
+4-Cancelar
 INPUT: 4
 ----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:362/597 MP:325/347
-B-
-C-Jueyuan HP:1/154 MP:63/68
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1098/1136 MP:413/413
-B-Manticore HP:179/385 MP:172/172
-C-Mithras HP:218/293 MP:50/58
-D-Python HP:588/637 MP:272/286
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Kotone
-2-Jueyuan
-----------------------------------------
-Seleccione una acción para Kotone
+Seleccione una acción para Scathach
 1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
 INPUT: 2
 ----------------------------------------
-Seleccione un objetivo para Kotone
-1-Itsuki HP:1098/1136 MP:413/413
-2-Manticore HP:179/385 MP:172/172
-3-Mithras HP:218/293 MP:50/58
-4-Python HP:588/637 MP:272/286
-5-Cancelar
-INPUT: 3
+Seleccione una habilidad para que Scathach use
+1-Mazanma MP:20
+2-Oni-Kagura MP:9
+3-Grand Tack MP:11
+4-Cancelar
+INPUT: 2
 ----------------------------------------
-Kotone dispara a Mithras
-Mithras recibe 57 de daño
-Mithras termina con HP:161/293
+Seleccione un objetivo para Scathach
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Zouchouten HP:165/221 MP:200/214
+3-Anubis HP:344/497 MP:223/223
+4-Sphinx HP:376/376 MP:364/364
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Scathach ataca a Sphinx
+Sphinx recibe 82 de daño
+Sphinx termina con HP:294/376
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Itsuki (J2)
+Ronda de Demi-Fiend (J2)
 ----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:362/597 MP:325/347
-B-
-C-Jueyuan HP:1/154 MP:63/68
+Equipo de Nahobino (J1)
+A-Nahobino HP:401/453 MP:389/389
+B-Scathach HP:302/343 MP:144/153
+C-Asherah HP:433/433 MP:195/195
 D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1098/1136 MP:413/413
-B-Manticore HP:179/385 MP:172/172
-C-Mithras HP:161/293 MP:50/58
-D-Python HP:588/637 MP:272/286
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Zouchouten HP:165/221 MP:200/214
+C-Anubis HP:344/497 MP:223/223
+D-Sphinx HP:294/376 MP:364/364
 ----------------------------------------
 Full Turns: 4
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Python
-2-Itsuki
-3-Manticore
-4-Mithras
+1-Demi-Fiend
+2-Anubis
+3-Sphinx
+4-Zouchouten
 ----------------------------------------
-Seleccione una acción para Python
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Nahobino HP:401/453 MP:389/389
+2-Scathach HP:302/343 MP:144/153
+3-Asherah HP:433/433 MP:195/195
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Nahobino HP:401/453 MP:389/389
+2-Scathach HP:302/343 MP:144/153
+3-Asherah HP:433/433 MP:195/195
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Demi-Fiend ataca a Asherah
+Asherah recibe 168 de daño
+Asherah termina con HP:265/433
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:401/453 MP:389/389
+B-Scathach HP:302/343 MP:144/153
+C-Asherah HP:265/433 MP:195/195
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Zouchouten HP:165/221 MP:200/214
+C-Anubis HP:344/497 MP:223/223
+D-Sphinx HP:294/376 MP:364/364
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anubis
+2-Sphinx
+3-Zouchouten
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:401/453 MP:389/389
+B-Scathach HP:302/343 MP:144/153
+C-Asherah HP:265/433 MP:195/195
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Zouchouten HP:165/221 MP:200/214
+C-Anubis HP:344/497 MP:223/223
+D-Sphinx HP:294/376 MP:364/364
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sphinx
+2-Zouchouten
+3-Demi-Fiend
+4-Anubis
+----------------------------------------
+Seleccione una acción para Sphinx
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 2
 ----------------------------------------
-Seleccione una habilidad para que Python use
-1-Fog Breath MP:45
-2-Bufudyne MP:14
-3-Ziodyne MP:14
+Seleccione una habilidad para que Sphinx use
+1-Mediarahan MP:40
+2-Mahamaon MP:30
+3-Grand Tack MP:11
 4-Cancelar
-INPUT: 2
+INPUT: 4
 ----------------------------------------
-Seleccione un objetivo para Python
-1-Kotone HP:362/597 MP:325/347
-2-Jueyuan HP:1/154 MP:63/68
-3-Cancelar
-INPUT: 1
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
 ----------------------------------------
-Python lanza hielo a Kotone
-Kotone es resistente el ataque de Python
-Kotone recibe 67 de daño
-Kotone termina con HP:295/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:295/597 MP:325/347
-B-
-C-Jueyuan HP:1/154 MP:63/68
+Equipo de Nahobino (J1)
+A-Nahobino HP:401/453 MP:389/389
+B-Scathach HP:302/343 MP:144/153
+C-Asherah HP:265/433 MP:195/195
 D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1098/1136 MP:413/413
-B-Manticore HP:179/385 MP:172/172
-C-Mithras HP:161/293 MP:50/58
-D-Python HP:588/637 MP:258/286
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Zouchouten HP:165/221 MP:200/214
+C-Anubis HP:344/497 MP:223/223
+D-Sphinx HP:294/376 MP:364/364
 ----------------------------------------
-Full Turns: 3
+Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Itsuki
-2-Manticore
-3-Mithras
-4-Python
+1-Zouchouten
+2-Demi-Fiend
+3-Anubis
+4-Sphinx
 ----------------------------------------
-Seleccione una acción para Itsuki
+Seleccione una acción para Zouchouten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Fortuna HP:147/147 MP:66/66
+2-Anzu HP:596/596 MP:118/118
+3-Guedhe HP:511/511 MP:229/229
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Fortuna ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:401/453 MP:389/389
+B-Scathach HP:302/343 MP:144/153
+C-Asherah HP:265/433 MP:195/195
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Fortuna HP:147/147 MP:66/66
+C-Anubis HP:344/497 MP:223/223
+D-Sphinx HP:294/376 MP:364/364
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Anubis
+3-Sphinx
+4-Fortuna
+----------------------------------------
+Seleccione una acción para Demi-Fiend
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -1637,543 +1055,420 @@ Seleccione una acción para Itsuki
 INPUT: 4
 ----------------------------------------
 Seleccione un monstruo para invocar
-1-Cancelar
+1-Zouchouten HP:165/221 MP:200/214
+2-Anzu HP:596/596 MP:118/118
+3-Guedhe HP:511/511 MP:229/229
+4-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione una acción para Itsuki
+Seleccione una posición para invocar
+1-Fortuna HP:147/147 MP:66/66 (Puesto 2)
+2-Anubis HP:344/497 MP:223/223 (Puesto 3)
+3-Sphinx HP:294/376 MP:364/364 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demi-Fiend
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:295/597 MP:325/347
-B-
-C-Jueyuan HP:1/154 MP:63/68
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1098/1136 MP:413/413
-B-Manticore HP:179/385 MP:172/172
-C-Mithras HP:161/293 MP:50/58
-D-Python HP:588/637 MP:258/286
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Manticore
-2-Mithras
-3-Python
-4-Itsuki
-----------------------------------------
-Seleccione una acción para Manticore
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Manticore use
-1-Toxic Sting MP:9
-2-Damascus Claw MP:7
-3-Posumudi MP:5
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Manticore
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Manticore use
-1-Toxic Sting MP:9
-2-Damascus Claw MP:7
-3-Posumudi MP:5
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Manticore
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Manticore use
-1-Toxic Sting MP:9
-2-Damascus Claw MP:7
-3-Posumudi MP:5
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Manticore
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Manticore
-1-Kotone HP:295/597 MP:325/347
-2-Jueyuan HP:1/154 MP:63/68
-3-Cancelar
-INPUT: 1
+Seleccione un objetivo para Demi-Fiend
+1-Nahobino HP:401/453 MP:389/389
+2-Scathach HP:302/343 MP:144/153
+3-Asherah HP:265/433 MP:195/195
+4-Cancelar
+INPUT: 3
 ----------------------------------------
-Manticore ataca a Kotone
-Kotone es resistente el ataque de Manticore
-Kotone recibe 15 de daño
-Kotone termina con HP:280/597
+Demi-Fiend ataca a Asherah
+Asherah recibe 168 de daño
+Asherah termina con HP:97/433
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:280/597 MP:325/347
-B-
-C-Jueyuan HP:1/154 MP:63/68
+Equipo de Nahobino (J1)
+A-Nahobino HP:401/453 MP:389/389
+B-Scathach HP:302/343 MP:144/153
+C-Asherah HP:97/433 MP:195/195
 D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1098/1136 MP:413/413
-B-Manticore HP:179/385 MP:172/172
-C-Mithras HP:161/293 MP:50/58
-D-Python HP:588/637 MP:258/286
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Mithras
-2-Python
-3-Itsuki
-4-Manticore
-----------------------------------------
-Seleccione una acción para Mithras
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Mithras use
-1-Mahama MP:18
-2-Heat Wave MP:11
-3-Rakunda MP:15
-4-Fatal Sword MP:8
-5-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione un objetivo para Mithras
-1-Kotone HP:280/597 MP:325/347
-2-Jueyuan HP:1/154 MP:63/68
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Mithras ataca a Jueyuan
-Jueyuan recibe 72 de daño
-Jueyuan termina con HP:0/154
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:280/597 MP:325/347
-B-
-C-
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1098/1136 MP:413/413
-B-Manticore HP:179/385 MP:172/172
-C-Mithras HP:161/293 MP:42/58
-D-Python HP:588/637 MP:258/286
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Fortuna HP:147/147 MP:66/66
+C-Anubis HP:344/497 MP:223/223
+D-Sphinx HP:294/376 MP:364/364
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Python
-2-Itsuki
-3-Manticore
-4-Mithras
+1-Anubis
+2-Sphinx
+3-Fortuna
+4-Demi-Fiend
 ----------------------------------------
-Seleccione una acción para Python
+Seleccione una acción para Anubis
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 4
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Zouchouten HP:165/221 MP:200/214
+2-Anzu HP:596/596 MP:118/118
+3-Guedhe HP:511/511 MP:229/229
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Guedhe ha sido invocado
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:280/597 MP:325/347
-B-
-C-
+Equipo de Nahobino (J1)
+A-Nahobino HP:401/453 MP:389/389
+B-Scathach HP:302/343 MP:144/153
+C-Asherah HP:97/433 MP:195/195
 D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1098/1136 MP:413/413
-B-Manticore HP:179/385 MP:172/172
-C-Mithras HP:161/293 MP:42/58
-D-Python HP:588/637 MP:258/286
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Fortuna HP:147/147 MP:66/66
+C-Guedhe HP:511/511 MP:229/229
+D-Sphinx HP:294/376 MP:364/364
 ----------------------------------------
 Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Itsuki
-2-Manticore
-3-Mithras
-4-Python
+1-Sphinx
+2-Fortuna
+3-Demi-Fiend
+4-Guedhe
 ----------------------------------------
-Seleccione una acción para Itsuki
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sphinx
+1-Nahobino HP:401/453 MP:389/389
+2-Scathach HP:302/343 MP:144/153
+3-Asherah HP:97/433 MP:195/195
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Sphinx ataca a Asherah
+Asherah recibe 52 de daño
+Asherah termina con HP:45/433
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:401/453 MP:389/389
+B-Scathach HP:302/343 MP:144/153
+C-Asherah HP:45/433 MP:195/195
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Fortuna HP:147/147 MP:66/66
+C-Guedhe HP:511/511 MP:229/229
+D-Sphinx HP:294/376 MP:364/364
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Nahobino
+3-Scathach
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:401/453 MP:389/389
+B-Scathach HP:302/343 MP:144/153
+C-Asherah HP:45/433 MP:195/195
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Fortuna HP:147/147 MP:66/66
+C-Guedhe HP:511/511 MP:229/229
+D-Sphinx HP:294/376 MP:364/364
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Scathach
+3-Asherah
+----------------------------------------
+Seleccione una acción para Nahobino
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 5
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Fortuna HP:147/147 MP:66/66
+3-Guedhe HP:511/511 MP:229/229
+4-Sphinx HP:294/376 MP:364/364
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Nahobino ataca a Sphinx
+Sphinx recibe 29 de daño
+Sphinx termina con HP:265/376
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Kotone (J1)
-----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:280/597 MP:325/347
-B-
-C-
+Equipo de Nahobino (J1)
+A-Nahobino HP:401/453 MP:389/389
+B-Scathach HP:302/343 MP:144/153
+C-Asherah HP:45/433 MP:195/195
 D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1098/1136 MP:413/413
-B-Manticore HP:179/385 MP:172/172
-C-Mithras HP:161/293 MP:42/58
-D-Python HP:588/637 MP:258/286
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Fortuna HP:147/147 MP:66/66
+C-Guedhe HP:511/511 MP:229/229
+D-Sphinx HP:265/376 MP:364/364
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Scathach
+2-Asherah
+3-Nahobino
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Scathach
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Scathach use
+1-Mazanma MP:20
+2-Oni-Kagura MP:9
+3-Grand Tack MP:11
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Scathach
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Fortuna HP:147/147 MP:66/66
+3-Guedhe HP:511/511 MP:229/229
+4-Sphinx HP:265/376 MP:364/364
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Scathach ataca a Guedhe
+Guedhe recibe 82 de daño
+Guedhe termina con HP:429/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:401/453 MP:389/389
+B-Scathach HP:302/343 MP:135/153
+C-Asherah HP:45/433 MP:195/195
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Fortuna HP:147/147 MP:66/66
+C-Guedhe HP:429/511 MP:229/229
+D-Sphinx HP:265/376 MP:364/364
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Kotone
+1-Asherah
+2-Nahobino
+3-Scathach
 ----------------------------------------
-Seleccione una acción para Kotone
+Seleccione una acción para Asherah
 1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
 INPUT: 2
 ----------------------------------------
-Seleccione un objetivo para Kotone
-1-Itsuki HP:1098/1136 MP:413/413
-2-Manticore HP:179/385 MP:172/172
-3-Mithras HP:161/293 MP:42/58
-4-Python HP:588/637 MP:258/286
-5-Cancelar
+Seleccione una habilidad para que Asherah use
+1-Diarama MP:9
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Nahobino HP:401/453 MP:389/389
+2-Scathach HP:302/343 MP:135/153
+3-Asherah HP:45/433 MP:195/195
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
 INPUT: 2
 ----------------------------------------
-Kotone dispara a Manticore
-Manticore recibe 57 de daño
-Manticore termina con HP:122/385
+Seleccione una habilidad para que Asherah use
+1-Diarama MP:9
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Nahobino HP:401/453 MP:389/389
+2-Scathach HP:302/343 MP:135/153
+3-Asherah HP:45/433 MP:195/195
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Asherah cura a Asherah
+Asherah recibe 216 de HP
+Asherah termina con HP:261/433
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Itsuki (J2)
+Ronda de Demi-Fiend (J2)
 ----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:280/597 MP:325/347
-B-
-C-
+Equipo de Nahobino (J1)
+A-Nahobino HP:401/453 MP:389/389
+B-Scathach HP:302/343 MP:135/153
+C-Asherah HP:261/433 MP:186/195
 D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1098/1136 MP:413/413
-B-Manticore HP:122/385 MP:172/172
-C-Mithras HP:161/293 MP:42/58
-D-Python HP:588/637 MP:258/286
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Fortuna HP:147/147 MP:66/66
+C-Guedhe HP:429/511 MP:229/229
+D-Sphinx HP:265/376 MP:364/364
 ----------------------------------------
 Full Turns: 4
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Python
-2-Itsuki
-3-Manticore
-4-Mithras
+1-Demi-Fiend
+2-Guedhe
+3-Sphinx
+4-Fortuna
 ----------------------------------------
-Seleccione una acción para Python
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Python
-1-Kotone HP:280/597 MP:325/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Python
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Python
-1-Kotone HP:280/597 MP:325/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Python
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Python
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Python use
-1-Fog Breath MP:45
-2-Bufudyne MP:14
-3-Ziodyne MP:14
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Python
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Python
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Python use
-1-Fog Breath MP:45
-2-Bufudyne MP:14
-3-Ziodyne MP:14
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Python
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Python
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Python
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Python
-1-Kotone HP:280/597 MP:325/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Python
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Python
-1-Kotone HP:280/597 MP:325/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Python
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Python use
-1-Fog Breath MP:45
-2-Bufudyne MP:14
-3-Ziodyne MP:14
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Python
-1-Kotone HP:280/597 MP:325/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Python
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Python
-1-Kotone HP:280/597 MP:325/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Python
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:280/597 MP:325/347
-B-
-C-
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1098/1136 MP:413/413
-B-Manticore HP:122/385 MP:172/172
-C-Mithras HP:161/293 MP:42/58
-D-Python HP:588/637 MP:258/286
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Itsuki
-2-Manticore
-3-Mithras
-4-Python
-----------------------------------------
-Seleccione una acción para Itsuki
+Seleccione una acción para Demi-Fiend
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Itsuki
-1-Kotone HP:280/597 MP:325/347
-2-Cancelar
 INPUT: 1
 ----------------------------------------
-Itsuki dispara a Kotone
-Kotone es resistente el ataque de Itsuki
-Kotone recibe 30 de daño
-Kotone termina con HP:250/597
+Seleccione un objetivo para Demi-Fiend
+1-Nahobino HP:401/453 MP:389/389
+2-Scathach HP:302/343 MP:135/153
+3-Asherah HP:261/433 MP:186/195
+4-Cancelar
+INPUT: 2
 ----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Demi-Fiend ataca a Scathach
+Scathach recibe 168 de daño
+Scathach termina con HP:134/343
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:250/597 MP:325/347
-B-
-C-
+Equipo de Nahobino (J1)
+A-Nahobino HP:401/453 MP:389/389
+B-Scathach HP:134/343 MP:135/153
+C-Asherah HP:261/433 MP:186/195
 D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1098/1136 MP:413/413
-B-Manticore HP:122/385 MP:172/172
-C-Mithras HP:161/293 MP:42/58
-D-Python HP:588/637 MP:258/286
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Fortuna HP:147/147 MP:66/66
+C-Guedhe HP:429/511 MP:229/229
+D-Sphinx HP:265/376 MP:364/364
 ----------------------------------------
 Full Turns: 3
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Manticore
-2-Mithras
-3-Python
-4-Itsuki
+1-Guedhe
+2-Sphinx
+3-Fortuna
+4-Demi-Fiend
 ----------------------------------------
-Seleccione una acción para Manticore
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Manticore
-1-Kotone HP:250/597 MP:325/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Manticore ataca a Kotone
-Kotone es resistente el ataque de Manticore
-Kotone recibe 15 de daño
-Kotone termina con HP:235/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:235/597 MP:325/347
-B-
-C-
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1098/1136 MP:413/413
-B-Manticore HP:122/385 MP:172/172
-C-Mithras HP:161/293 MP:42/58
-D-Python HP:588/637 MP:258/286
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Mithras
-2-Python
-3-Itsuki
-4-Manticore
-----------------------------------------
-Seleccione una acción para Mithras
+Seleccione una acción para Guedhe
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -2181,361 +1476,38 @@ Seleccione una acción para Mithras
 INPUT: 3
 ----------------------------------------
 Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Mithras
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
+1-Zouchouten HP:165/221 MP:200/214
+2-Anubis HP:344/497 MP:223/223
+3-Anzu HP:596/596 MP:118/118
+4-Cancelar
 INPUT: 2
 ----------------------------------------
-Seleccione una habilidad para que Mithras use
-1-Mahama MP:18
-2-Heat Wave MP:11
-3-Rakunda MP:15
-4-Fatal Sword MP:8
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Mithras
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Mithras
-1-Kotone HP:235/597 MP:325/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Mithras
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Mithras
-1-Kotone HP:235/597 MP:325/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Mithras
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
+Anubis ha sido invocado
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:235/597 MP:325/347
-B-
-C-
+Equipo de Nahobino (J1)
+A-Nahobino HP:401/453 MP:389/389
+B-Scathach HP:134/343 MP:135/153
+C-Asherah HP:261/433 MP:186/195
 D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1098/1136 MP:413/413
-B-Manticore HP:122/385 MP:172/172
-C-Mithras HP:161/293 MP:42/58
-D-Python HP:588/637 MP:258/286
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Python
-2-Itsuki
-3-Manticore
-4-Mithras
-----------------------------------------
-Seleccione una acción para Python
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Python
-1-Kotone HP:235/597 MP:325/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Python
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Python use
-1-Fog Breath MP:45
-2-Bufudyne MP:14
-3-Ziodyne MP:14
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Python
-1-Kotone HP:235/597 MP:325/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Python
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Python use
-1-Fog Breath MP:45
-2-Bufudyne MP:14
-3-Ziodyne MP:14
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Python
-1-Kotone HP:235/597 MP:325/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Python
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Python
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:235/597 MP:325/347
-B-
-C-
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1098/1136 MP:413/413
-B-Manticore HP:122/385 MP:172/172
-C-Mithras HP:161/293 MP:42/58
-D-Python HP:588/637 MP:258/286
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Itsuki
-2-Manticore
-3-Mithras
-4-Python
-----------------------------------------
-Seleccione una acción para Itsuki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Itsuki use
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Itsuki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Itsuki
-1-Kotone HP:235/597 MP:325/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Itsuki ataca a Kotone
-Kotone es resistente el ataque de Itsuki
-Kotone recibe 22 de daño
-Kotone termina con HP:213/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Kotone (J1)
-----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:213/597 MP:325/347
-B-
-C-
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1098/1136 MP:413/413
-B-Manticore HP:122/385 MP:172/172
-C-Mithras HP:161/293 MP:42/58
-D-Python HP:588/637 MP:258/286
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Kotone
-----------------------------------------
-Seleccione una acción para Kotone
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Kotone
-1-Itsuki HP:1098/1136 MP:413/413
-2-Manticore HP:122/385 MP:172/172
-3-Mithras HP:161/293 MP:42/58
-4-Python HP:588/637 MP:258/286
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Kotone dispara a Itsuki
-Itsuki recibe 57 de daño
-Itsuki termina con HP:1041/1136
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Itsuki (J2)
-----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:213/597 MP:325/347
-B-
-C-
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1041/1136 MP:413/413
-B-Manticore HP:122/385 MP:172/172
-C-Mithras HP:161/293 MP:42/58
-D-Python HP:588/637 MP:258/286
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Python
-2-Itsuki
-3-Manticore
-4-Mithras
-----------------------------------------
-Seleccione una acción para Python
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Python use
-1-Fog Breath MP:45
-2-Bufudyne MP:14
-3-Ziodyne MP:14
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Python
-1-Kotone HP:213/597 MP:325/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Python lanza electricidad a Kotone
-Kotone es resistente el ataque de Python
-Kotone recibe 67 de daño
-Kotone termina con HP:146/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:146/597 MP:325/347
-B-
-C-
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1041/1136 MP:413/413
-B-Manticore HP:122/385 MP:172/172
-C-Mithras HP:161/293 MP:42/58
-D-Python HP:588/637 MP:244/286
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Itsuki
-2-Manticore
-3-Mithras
-4-Python
-----------------------------------------
-Seleccione una acción para Itsuki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:146/597 MP:325/347
-B-
-C-
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1041/1136 MP:413/413
-B-Manticore HP:122/385 MP:172/172
-C-Mithras HP:161/293 MP:42/58
-D-Python HP:588/637 MP:244/286
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Fortuna HP:147/147 MP:66/66
+C-Anubis HP:344/497 MP:223/223
+D-Sphinx HP:265/376 MP:364/364
 ----------------------------------------
 Full Turns: 2
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Manticore
-2-Mithras
-3-Python
-4-Itsuki
+1-Sphinx
+2-Fortuna
+3-Demi-Fiend
+4-Anubis
 ----------------------------------------
-Seleccione una acción para Manticore
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Manticore
-1-Kotone HP:146/597 MP:325/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Manticore
+Seleccione una acción para Sphinx
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -2543,355 +1515,399 @@ Seleccione una acción para Manticore
 INPUT: 3
 ----------------------------------------
 Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
+1-Zouchouten HP:165/221 MP:200/214
+2-Anzu HP:596/596 MP:118/118
+3-Guedhe HP:429/511 MP:229/229
+4-Cancelar
+INPUT: 4
 ----------------------------------------
-Seleccione una acción para Manticore
+Seleccione una acción para Sphinx
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 4
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Zouchouten HP:165/221 MP:200/214
+2-Anzu HP:596/596 MP:118/118
+3-Guedhe HP:429/511 MP:229/229
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Guedhe ha sido invocado
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:146/597 MP:325/347
-B-
-C-
+Equipo de Nahobino (J1)
+A-Nahobino HP:401/453 MP:389/389
+B-Scathach HP:134/343 MP:135/153
+C-Asherah HP:261/433 MP:186/195
 D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1041/1136 MP:413/413
-B-Manticore HP:122/385 MP:172/172
-C-Mithras HP:161/293 MP:42/58
-D-Python HP:588/637 MP:244/286
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Fortuna HP:147/147 MP:66/66
+C-Anubis HP:344/497 MP:223/223
+D-Guedhe HP:429/511 MP:229/229
 ----------------------------------------
 Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Mithras
-2-Python
-3-Itsuki
-4-Manticore
+1-Fortuna
+2-Demi-Fiend
+3-Anubis
+4-Guedhe
 ----------------------------------------
-Seleccione una acción para Mithras
+Seleccione una acción para Fortuna
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 4
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Fortuna use
+1-Zan MP:5
+2-Media MP:12
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Fortuna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Zouchouten HP:165/221 MP:200/214
+2-Sphinx HP:265/376 MP:364/364
+3-Anzu HP:596/596 MP:118/118
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Sphinx ha sido invocado
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:146/597 MP:325/347
-B-
-C-
+Equipo de Nahobino (J1)
+A-Nahobino HP:401/453 MP:389/389
+B-Scathach HP:134/343 MP:135/153
+C-Asherah HP:261/433 MP:186/195
 D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1041/1136 MP:413/413
-B-Manticore HP:122/385 MP:172/172
-C-Mithras HP:161/293 MP:42/58
-D-Python HP:588/637 MP:244/286
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Sphinx HP:265/376 MP:364/364
+C-Anubis HP:344/497 MP:223/223
+D-Guedhe HP:429/511 MP:229/229
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Python
-2-Itsuki
-3-Manticore
-4-Mithras
+1-Demi-Fiend
+2-Anubis
+3-Guedhe
+4-Sphinx
 ----------------------------------------
-Seleccione una acción para Python
+Seleccione una acción para Demi-Fiend
 1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
 ----------------------------------------
-Seleccione una habilidad para que Python use
-1-Fog Breath MP:45
-2-Bufudyne MP:14
-3-Ziodyne MP:14
+Seleccione un objetivo para Demi-Fiend
+1-Nahobino HP:401/453 MP:389/389
+2-Scathach HP:134/343 MP:135/153
+3-Asherah HP:261/433 MP:186/195
 4-Cancelar
-INPUT: 4
+INPUT: 1
 ----------------------------------------
-Seleccione una acción para Python
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
+Demi-Fiend ataca a Nahobino
+Nahobino recibe 168 de daño
+Nahobino termina con HP:233/453
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:146/597 MP:325/347
-B-
-C-
+Equipo de Nahobino (J1)
+A-Nahobino HP:233/453 MP:389/389
+B-Scathach HP:134/343 MP:135/153
+C-Asherah HP:261/433 MP:186/195
 D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1041/1136 MP:413/413
-B-Manticore HP:122/385 MP:172/172
-C-Mithras HP:161/293 MP:42/58
-D-Python HP:588/637 MP:244/286
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Sphinx HP:265/376 MP:364/364
+C-Anubis HP:344/497 MP:223/223
+D-Guedhe HP:429/511 MP:229/229
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Itsuki
-2-Manticore
-3-Mithras
-4-Python
+1-Anubis
+2-Guedhe
+3-Sphinx
+4-Demi-Fiend
 ----------------------------------------
-Seleccione una acción para Itsuki
+Seleccione una acción para Anubis
 1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Itsuki
-1-Kotone HP:146/597 MP:325/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Itsuki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Itsuki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Itsuki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Itsuki
-1-Kotone HP:146/597 MP:325/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Itsuki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
 INPUT: 3
 ----------------------------------------
-Seleccione una habilidad para que Itsuki use
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Itsuki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Itsuki
-1-Kotone HP:146/597 MP:325/347
-2-Cancelar
+Seleccione un monstruo para invocar
+1-Zouchouten HP:165/221 MP:200/214
+2-Fortuna HP:147/147 MP:66/66
+3-Anzu HP:596/596 MP:118/118
+4-Cancelar
 INPUT: 2
 ----------------------------------------
-Seleccione una acción para Itsuki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
+Fortuna ha sido invocado
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:146/597 MP:325/347
-B-
-C-
+Equipo de Nahobino (J1)
+A-Nahobino HP:233/453 MP:389/389
+B-Scathach HP:134/343 MP:135/153
+C-Asherah HP:261/433 MP:186/195
 D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1041/1136 MP:413/413
-B-Manticore HP:122/385 MP:172/172
-C-Mithras HP:161/293 MP:42/58
-D-Python HP:588/637 MP:244/286
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Sphinx HP:265/376 MP:364/364
+C-Fortuna HP:147/147 MP:66/66
+D-Guedhe HP:429/511 MP:229/229
 ----------------------------------------
 Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Manticore
-2-Mithras
-3-Python
-4-Itsuki
+1-Guedhe
+2-Sphinx
+3-Demi-Fiend
+4-Fortuna
 ----------------------------------------
-Seleccione una acción para Manticore
+Seleccione una acción para Guedhe
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Guedhe use
+1-Mudoon MP:10
+2-Recarm MP:20
+3-Megidola MP:40
+4-Cancelar
 INPUT: 4
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Guedhe
+1-Nahobino HP:233/453 MP:389/389
+2-Scathach HP:134/343 MP:135/153
+3-Asherah HP:261/433 MP:186/195
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Zouchouten HP:165/221 MP:200/214
+2-Anubis HP:344/497 MP:223/223
+3-Anzu HP:596/596 MP:118/118
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Guedhe
+1-Nahobino HP:233/453 MP:389/389
+2-Scathach HP:134/343 MP:135/153
+3-Asherah HP:261/433 MP:186/195
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Zouchouten HP:165/221 MP:200/214
+2-Anubis HP:344/497 MP:223/223
+3-Anzu HP:596/596 MP:118/118
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Zouchouten HP:165/221 MP:200/214
+2-Anubis HP:344/497 MP:223/223
+3-Anzu HP:596/596 MP:118/118
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Anzu ha sido invocado
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Kotone (J1)
+Ronda de Nahobino (J1)
 ----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:146/597 MP:325/347
-B-
-C-
+Equipo de Nahobino (J1)
+A-Nahobino HP:233/453 MP:389/389
+B-Scathach HP:134/343 MP:135/153
+C-Asherah HP:261/433 MP:186/195
 D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1041/1136 MP:413/413
-B-Manticore HP:122/385 MP:172/172
-C-Mithras HP:161/293 MP:42/58
-D-Python HP:588/637 MP:244/286
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Kotone
-----------------------------------------
-Seleccione una acción para Kotone
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Kotone
-1-Itsuki HP:1041/1136 MP:413/413
-2-Manticore HP:122/385 MP:172/172
-3-Mithras HP:161/293 MP:42/58
-4-Python HP:588/637 MP:244/286
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Kotone dispara a Manticore
-Manticore recibe 57 de daño
-Manticore termina con HP:65/385
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Itsuki (J2)
-----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:146/597 MP:325/347
-B-
-C-
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1041/1136 MP:413/413
-B-Manticore HP:65/385 MP:172/172
-C-Mithras HP:161/293 MP:42/58
-D-Python HP:588/637 MP:244/286
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Python
-2-Itsuki
-3-Manticore
-4-Mithras
-----------------------------------------
-Seleccione una acción para Python
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Python
-1-Kotone HP:146/597 MP:325/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Python ataca a Kotone
-Kotone es resistente el ataque de Python
-Kotone recibe 26 de daño
-Kotone termina con HP:120/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:120/597 MP:325/347
-B-
-C-
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1041/1136 MP:413/413
-B-Manticore HP:65/385 MP:172/172
-C-Mithras HP:161/293 MP:42/58
-D-Python HP:588/637 MP:244/286
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Sphinx HP:265/376 MP:364/364
+C-Fortuna HP:147/147 MP:66/66
+D-Anzu HP:596/596 MP:118/118
 ----------------------------------------
 Full Turns: 3
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Itsuki
-2-Manticore
-3-Mithras
-4-Python
+1-Asherah
+2-Nahobino
+3-Scathach
 ----------------------------------------
-Seleccione una acción para Itsuki
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Asherah use
+1-Diarama MP:9
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Sphinx HP:265/376 MP:364/364
+3-Fortuna HP:147/147 MP:66/66
+4-Anzu HP:596/596 MP:118/118
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Asherah ataca a Sphinx
+Sphinx recibe 35 de daño
+Sphinx termina con HP:230/376
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:233/453 MP:389/389
+B-Scathach HP:134/343 MP:135/153
+C-Asherah HP:261/433 MP:186/195
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Sphinx HP:230/376 MP:364/364
+C-Fortuna HP:147/147 MP:66/66
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Scathach
+3-Asherah
+----------------------------------------
+Seleccione una acción para Nahobino
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Itsuki use
-1-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione una acción para Itsuki
+Seleccione un objetivo para Nahobino
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Sphinx HP:230/376 MP:364/364
+3-Fortuna HP:147/147 MP:66/66
+4-Anzu HP:596/596 MP:118/118
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nahobino
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -2904,20 +1920,7 @@ Seleccione un monstruo para invocar
 1-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione una acción para Itsuki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Itsuki use
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Itsuki
+Seleccione una acción para Nahobino
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -2929,245 +1932,1160 @@ INPUT: 5
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:120/597 MP:325/347
-B-
-C-
+Equipo de Nahobino (J1)
+A-Nahobino HP:233/453 MP:389/389
+B-Scathach HP:134/343 MP:135/153
+C-Asherah HP:261/433 MP:186/195
 D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1041/1136 MP:413/413
-B-Manticore HP:65/385 MP:172/172
-C-Mithras HP:161/293 MP:42/58
-D-Python HP:588/637 MP:244/286
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Sphinx HP:230/376 MP:364/364
+C-Fortuna HP:147/147 MP:66/66
+D-Anzu HP:596/596 MP:118/118
 ----------------------------------------
-Full Turns: 2
+Full Turns: 1
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Manticore
-2-Mithras
-3-Python
-4-Itsuki
+1-Scathach
+2-Asherah
+3-Nahobino
 ----------------------------------------
-Seleccione una acción para Manticore
+Seleccione una acción para Scathach
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 1
+INPUT: 2
 ----------------------------------------
-Seleccione un objetivo para Manticore
-1-Kotone HP:120/597 MP:325/347
-2-Cancelar
-INPUT: 1
+Seleccione una habilidad para que Scathach use
+1-Mazanma MP:20
+2-Oni-Kagura MP:9
+3-Grand Tack MP:11
+4-Cancelar
+INPUT: 2
 ----------------------------------------
-Manticore ataca a Kotone
-Kotone es resistente el ataque de Manticore
-Kotone recibe 15 de daño
-Kotone termina con HP:105/597
+Seleccione un objetivo para Scathach
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Sphinx HP:230/376 MP:364/364
+3-Fortuna HP:147/147 MP:66/66
+4-Anzu HP:596/596 MP:118/118
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Scathach ataca a Fortuna
+Fortuna recibe 82 de daño
+Fortuna termina con HP:65/147
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:105/597 MP:325/347
-B-
-C-
+Equipo de Nahobino (J1)
+A-Nahobino HP:233/453 MP:389/389
+B-Scathach HP:134/343 MP:126/153
+C-Asherah HP:261/433 MP:186/195
 D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1041/1136 MP:413/413
-B-Manticore HP:65/385 MP:172/172
-C-Mithras HP:161/293 MP:42/58
-D-Python HP:588/637 MP:244/286
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Sphinx HP:230/376 MP:364/364
+C-Fortuna HP:65/147 MP:66/66
+D-Anzu HP:596/596 MP:118/118
 ----------------------------------------
-Full Turns: 2
+Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Mithras
-2-Python
-3-Itsuki
-4-Manticore
+1-Asherah
+2-Nahobino
+3-Scathach
 ----------------------------------------
-Seleccione una acción para Mithras
+Seleccione una acción para Asherah
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 2
 ----------------------------------------
-Seleccione una habilidad para que Mithras use
-1-Mahama MP:18
-2-Heat Wave MP:11
-3-Rakunda MP:15
-4-Fatal Sword MP:8
-5-Cancelar
+Seleccione una habilidad para que Asherah use
+1-Diarama MP:9
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
 INPUT: 4
-----------------------------------------
-Seleccione un objetivo para Mithras
-1-Kotone HP:105/597 MP:325/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Mithras
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Mithras
-1-Kotone HP:105/597 MP:325/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Mithras
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Mithras use
-1-Mahama MP:18
-2-Heat Wave MP:11
-3-Rakunda MP:15
-4-Fatal Sword MP:8
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Mithras
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Mithras
-1-Kotone HP:105/597 MP:325/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Mithras ataca a Kotone
-Kotone es resistente el ataque de Mithras
-Kotone recibe 10 de daño
-Kotone termina con HP:95/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:95/597 MP:325/347
-B-
-C-
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1041/1136 MP:413/413
-B-Manticore HP:65/385 MP:172/172
-C-Mithras HP:161/293 MP:42/58
-D-Python HP:588/637 MP:244/286
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Python
-2-Itsuki
-3-Manticore
-4-Mithras
-----------------------------------------
-Seleccione una acción para Python
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Python
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Python
-1-Kotone HP:95/597 MP:325/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Python
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Python
-1-Kotone HP:95/597 MP:325/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Python ataca a Kotone
-Kotone es resistente el ataque de Python
-Kotone recibe 26 de daño
-Kotone termina con HP:69/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Kotone (J1)
-----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:69/597 MP:325/347
-B-
-C-
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1041/1136 MP:413/413
-B-Manticore HP:65/385 MP:172/172
-C-Mithras HP:161/293 MP:42/58
-D-Python HP:588/637 MP:244/286
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Kotone
-----------------------------------------
-Seleccione una acción para Kotone
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:69/597 MP:325/347
-B-
-C-
+Equipo de Nahobino (J1)
+A-Nahobino HP:233/453 MP:389/389
+B-Scathach HP:134/343 MP:126/153
+C-Asherah HP:261/433 MP:186/195
 D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1041/1136 MP:413/413
-B-Manticore HP:65/385 MP:172/172
-C-Mithras HP:161/293 MP:42/58
-D-Python HP:588/637 MP:244/286
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Sphinx HP:230/376 MP:364/364
+C-Fortuna HP:65/147 MP:66/66
+D-Anzu HP:596/596 MP:118/118
 ----------------------------------------
 Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Kotone
+1-Nahobino
+2-Scathach
+3-Asherah
 ----------------------------------------
-Seleccione una acción para Kotone
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Sphinx HP:230/376 MP:364/364
+3-Fortuna HP:65/147 MP:66/66
+4-Anzu HP:596/596 MP:118/118
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Sphinx HP:230/376 MP:364/364
+3-Fortuna HP:65/147 MP:66/66
+4-Anzu HP:596/596 MP:118/118
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Nahobino dispara a Anzu
+Anzu recibe 83 de daño
+Anzu termina con HP:513/596
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:233/453 MP:389/389
+B-Scathach HP:134/343 MP:126/153
+C-Asherah HP:261/433 MP:186/195
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Sphinx HP:230/376 MP:364/364
+C-Fortuna HP:65/147 MP:66/66
+D-Anzu HP:513/596 MP:118/118
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Sphinx
+3-Anzu
+4-Fortuna
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Nahobino HP:233/453 MP:389/389
+2-Scathach HP:134/343 MP:126/153
+3-Asherah HP:261/433 MP:186/195
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Demi-Fiend ataca a Scathach
+Scathach recibe 168 de daño
+Scathach termina con HP:0/343
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:233/453 MP:389/389
+B-
+C-Asherah HP:261/433 MP:186/195
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Sphinx HP:230/376 MP:364/364
+C-Fortuna HP:65/147 MP:66/66
+D-Anzu HP:513/596 MP:118/118
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sphinx
+2-Anzu
+3-Fortuna
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:233/453 MP:389/389
+B-
+C-Asherah HP:261/433 MP:186/195
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Sphinx HP:230/376 MP:364/364
+C-Fortuna HP:65/147 MP:66/66
+D-Anzu HP:513/596 MP:118/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Anzu
+2-Fortuna
+3-Demi-Fiend
+4-Sphinx
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Anzu use
+1-Zionga MP:8
+2-Nihil Claw MP:11
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Zouchouten HP:165/221 MP:200/214
+2-Anubis HP:344/497 MP:223/223
+3-Guedhe HP:429/511 MP:229/229
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Guedhe ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:233/453 MP:389/389
+B-
+C-Asherah HP:261/433 MP:186/195
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Sphinx HP:230/376 MP:364/364
+C-Fortuna HP:65/147 MP:66/66
+D-Guedhe HP:429/511 MP:229/229
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Fortuna
+2-Demi-Fiend
+3-Sphinx
+4-Guedhe
+----------------------------------------
+Seleccione una acción para Fortuna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Zouchouten HP:165/221 MP:200/214
+2-Anubis HP:344/497 MP:223/223
+3-Anzu HP:513/596 MP:118/118
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Zouchouten ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:233/453 MP:389/389
+B-
+C-Asherah HP:261/433 MP:186/195
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Sphinx HP:230/376 MP:364/364
+C-Zouchouten HP:165/221 MP:200/214
+D-Guedhe HP:429/511 MP:229/229
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Sphinx
+3-Guedhe
+4-Zouchouten
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Nahobino HP:233/453 MP:389/389
+2-Asherah HP:261/433 MP:186/195
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Demi-Fiend dispara a Asherah
+Asherah recibe 114 de daño
+Asherah termina con HP:147/433
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:233/453 MP:389/389
+B-
+C-Asherah HP:147/433 MP:186/195
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Sphinx HP:230/376 MP:364/364
+C-Zouchouten HP:165/221 MP:200/214
+D-Guedhe HP:429/511 MP:229/229
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sphinx
+2-Guedhe
+3-Zouchouten
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:233/453 MP:389/389
+B-
+C-Asherah HP:147/433 MP:186/195
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Sphinx HP:230/376 MP:364/364
+C-Zouchouten HP:165/221 MP:200/214
+D-Guedhe HP:429/511 MP:229/229
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Guedhe
+2-Zouchouten
+3-Demi-Fiend
+4-Sphinx
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:233/453 MP:389/389
+B-
+C-Asherah HP:147/433 MP:186/195
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Sphinx HP:230/376 MP:364/364
+C-Zouchouten HP:165/221 MP:200/214
+D-Guedhe HP:429/511 MP:229/229
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Asherah use
+1-Diarama MP:9
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Asherah use
+1-Diarama MP:9
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:233/453 MP:389/389
+B-
+C-Asherah HP:147/433 MP:186/195
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Sphinx HP:230/376 MP:364/364
+C-Zouchouten HP:165/221 MP:200/214
+D-Guedhe HP:429/511 MP:229/229
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Asherah
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Sphinx HP:230/376 MP:364/364
+3-Zouchouten HP:165/221 MP:200/214
+4-Guedhe HP:429/511 MP:229/229
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino dispara a Zouchouten
+Zouchouten recibe 83 de daño
+Zouchouten termina con HP:82/221
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:233/453 MP:389/389
+B-
+C-Asherah HP:147/433 MP:186/195
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Sphinx HP:230/376 MP:364/364
+C-Zouchouten HP:82/221 MP:200/214
+D-Guedhe HP:429/511 MP:229/229
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:233/453 MP:389/389
+B-
+C-Asherah HP:147/433 MP:186/195
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Sphinx HP:230/376 MP:364/364
+C-Zouchouten HP:82/221 MP:200/214
+D-Guedhe HP:429/511 MP:229/229
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Asherah
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Sphinx HP:230/376 MP:364/364
+3-Zouchouten HP:82/221 MP:200/214
+4-Guedhe HP:429/511 MP:229/229
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nahobino ataca a Sphinx
+Sphinx recibe 29 de daño
+Sphinx termina con HP:201/376
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:233/453 MP:389/389
+B-
+C-Asherah HP:147/433 MP:186/195
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Sphinx HP:201/376 MP:364/364
+C-Zouchouten HP:82/221 MP:200/214
+D-Guedhe HP:429/511 MP:229/229
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Guedhe
+3-Sphinx
+4-Zouchouten
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Nahobino HP:233/453 MP:389/389
+2-Asherah HP:147/433 MP:186/195
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Nahobino HP:233/453 MP:389/389
+2-Asherah HP:147/433 MP:186/195
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Demi-Fiend dispara a Asherah
+Asherah recibe 114 de daño
+Asherah termina con HP:33/433
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:233/453 MP:389/389
+B-
+C-Asherah HP:33/433 MP:186/195
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Sphinx HP:201/376 MP:364/364
+C-Zouchouten HP:82/221 MP:200/214
+D-Guedhe HP:429/511 MP:229/229
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Guedhe
+2-Sphinx
+3-Zouchouten
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Guedhe use
+1-Mudoon MP:10
+2-Recarm MP:20
+3-Megidola MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Guedhe use
+1-Mudoon MP:10
+2-Recarm MP:20
+3-Megidola MP:40
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Guedhe
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:233/453 MP:389/389
+B-
+C-Asherah HP:33/433 MP:186/195
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Sphinx HP:201/376 MP:364/364
+C-Zouchouten HP:82/221 MP:200/214
+D-Guedhe HP:429/511 MP:229/229
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sphinx
+2-Zouchouten
+3-Demi-Fiend
+4-Guedhe
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:233/453 MP:389/389
+B-
+C-Asherah HP:33/433 MP:186/195
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Sphinx HP:201/376 MP:364/364
+C-Zouchouten HP:82/221 MP:200/214
+D-Guedhe HP:429/511 MP:229/229
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zouchouten
+2-Demi-Fiend
+3-Guedhe
+4-Sphinx
+----------------------------------------
+Seleccione una acción para Zouchouten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Zouchouten use
+1-Agidyne MP:14
+2-Dream Fist MP:9
+3-Myriad Arrows MP:30
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Zouchouten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Zouchouten use
+1-Agidyne MP:14
+2-Dream Fist MP:9
+3-Myriad Arrows MP:30
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Zouchouten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Anubis HP:344/497 MP:223/223
+2-Fortuna HP:65/147 MP:66/66
+3-Anzu HP:513/596 MP:118/118
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Fortuna ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:233/453 MP:389/389
+B-
+C-Asherah HP:33/433 MP:186/195
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Sphinx HP:201/376 MP:364/364
+C-Fortuna HP:65/147 MP:66/66
+D-Guedhe HP:429/511 MP:229/229
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Guedhe
+3-Sphinx
+4-Fortuna
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Nahobino HP:233/453 MP:389/389
+2-Asherah HP:33/433 MP:186/195
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Demi-Fiend ataca a Asherah
+Asherah recibe 168 de daño
+Asherah termina con HP:0/433
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:233/453 MP:389/389
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Sphinx HP:201/376 MP:364/364
+C-Fortuna HP:65/147 MP:66/66
+D-Guedhe HP:429/511 MP:229/229
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Guedhe
+2-Sphinx
+3-Fortuna
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Guedhe
+1-Nahobino HP:233/453 MP:389/389
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Guedhe
+1-Nahobino HP:233/453 MP:389/389
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Guedhe ataca a Nahobino
+Nahobino recibe 42 de daño
+Nahobino termina con HP:191/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:191/453 MP:389/389
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Sphinx HP:201/376 MP:364/364
+C-Fortuna HP:65/147 MP:66/66
+D-Guedhe HP:429/511 MP:229/229
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Sphinx HP:201/376 MP:364/364
+3-Fortuna HP:65/147 MP:66/66
+4-Guedhe HP:429/511 MP:229/229
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino dispara a Demi-Fiend
+Demi-Fiend recibe 83 de daño
+Demi-Fiend termina con HP:1144/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:191/453 MP:389/389
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1144/1227 MP:834/834
+B-Sphinx HP:201/376 MP:364/364
+C-Fortuna HP:65/147 MP:66/66
+D-Guedhe HP:429/511 MP:229/229
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Guedhe
+3-Sphinx
+4-Fortuna
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Nahobino HP:191/453 MP:389/389
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:191/453 MP:389/389
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1144/1227 MP:834/834
+B-Sphinx HP:201/376 MP:364/364
+C-Fortuna HP:65/147 MP:66/66
+D-Guedhe HP:429/511 MP:229/229
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Guedhe
+2-Sphinx
+3-Fortuna
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Guedhe
+1-Nahobino HP:191/453 MP:389/389
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Guedhe ataca a Nahobino
+Nahobino recibe 42 de daño
+Nahobino termina con HP:149/453
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:149/453 MP:389/389
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1144/1227 MP:834/834
+B-Sphinx HP:201/376 MP:364/364
+C-Fortuna HP:65/147 MP:66/66
+D-Guedhe HP:429/511 MP:229/229
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sphinx
+2-Fortuna
+3-Demi-Fiend
+4-Guedhe
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sphinx use
+1-Mediarahan MP:40
+2-Mahamaon MP:30
+3-Grand Tack MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sphinx
+1-Nahobino HP:149/453 MP:389/389
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Sphinx ataca a Nahobino
+Nahobino recibe 52 de daño
+Nahobino termina con HP:97/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:97/453 MP:389/389
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1144/1227 MP:834/834
+B-Sphinx HP:201/376 MP:364/364
+C-Fortuna HP:65/147 MP:66/66
+D-Guedhe HP:429/511 MP:229/229
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Fortuna
+2-Demi-Fiend
+3-Guedhe
+4-Sphinx
+----------------------------------------
+Seleccione una acción para Fortuna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Fortuna
+1-Nahobino HP:97/453 MP:389/389
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Fortuna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:97/453 MP:389/389
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1144/1227 MP:834/834
+B-Sphinx HP:201/376 MP:364/364
+C-Fortuna HP:65/147 MP:66/66
+D-Guedhe HP:429/511 MP:229/229
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Guedhe
+3-Sphinx
+4-Fortuna
+----------------------------------------
+Seleccione una acción para Demi-Fiend
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -3179,69 +3097,430 @@ INPUT: 5
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Itsuki (J2)
-----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:69/597 MP:325/347
+Equipo de Nahobino (J1)
+A-Nahobino HP:97/453 MP:389/389
 B-
 C-
 D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1041/1136 MP:413/413
-B-Manticore HP:65/385 MP:172/172
-C-Mithras HP:161/293 MP:42/58
-D-Python HP:588/637 MP:244/286
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1144/1227 MP:834/834
+B-Sphinx HP:201/376 MP:364/364
+C-Fortuna HP:65/147 MP:66/66
+D-Guedhe HP:429/511 MP:229/229
 ----------------------------------------
-Full Turns: 4
+Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Python
-2-Itsuki
-3-Manticore
-4-Mithras
+1-Guedhe
+2-Sphinx
+3-Fortuna
+4-Demi-Fiend
 ----------------------------------------
-Seleccione una acción para Python
+Seleccione una acción para Guedhe
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Python
-1-Kotone HP:69/597 MP:325/347
+Seleccione un objetivo para Guedhe
+1-Nahobino HP:97/453 MP:389/389
 2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Zouchouten HP:82/221 MP:200/214
+2-Anubis HP:344/497 MP:223/223
+3-Anzu HP:513/596 MP:118/118
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
 INPUT: 1
 ----------------------------------------
-Python ataca a Kotone
-Kotone es resistente el ataque de Python
-Kotone recibe 26 de daño
-Kotone termina con HP:43/597
+Seleccione un objetivo para Guedhe
+1-Nahobino HP:97/453 MP:389/389
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:43/597 MP:325/347
+Equipo de Nahobino (J1)
+A-Nahobino HP:97/453 MP:389/389
 B-
 C-
 D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1041/1136 MP:413/413
-B-Manticore HP:65/385 MP:172/172
-C-Mithras HP:161/293 MP:42/58
-D-Python HP:588/637 MP:244/286
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1144/1227 MP:834/834
+B-Sphinx HP:201/376 MP:364/364
+C-Fortuna HP:65/147 MP:66/66
+D-Guedhe HP:429/511 MP:229/229
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sphinx
+2-Fortuna
+3-Demi-Fiend
+4-Guedhe
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sphinx
+1-Nahobino HP:97/453 MP:389/389
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Zouchouten HP:82/221 MP:200/214
+2-Anubis HP:344/497 MP:223/223
+3-Anzu HP:513/596 MP:118/118
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sphinx use
+1-Mediarahan MP:40
+2-Mahamaon MP:30
+3-Grand Tack MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sphinx
+1-Nahobino HP:97/453 MP:389/389
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sphinx use
+1-Mediarahan MP:40
+2-Mahamaon MP:30
+3-Grand Tack MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:97/453 MP:389/389
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1144/1227 MP:834/834
+B-Sphinx HP:201/376 MP:364/364
+C-Fortuna HP:65/147 MP:66/66
+D-Guedhe HP:429/511 MP:229/229
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:97/453 MP:389/389
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1144/1227 MP:834/834
+B-Sphinx HP:201/376 MP:364/364
+C-Fortuna HP:65/147 MP:66/66
+D-Guedhe HP:429/511 MP:229/229
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nahobino use
+1-Sabbatma MP:20
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nahobino use
+1-Sabbatma MP:20
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Demi-Fiend HP:1144/1227 MP:834/834
+2-Sphinx HP:201/376 MP:364/364
+3-Fortuna HP:65/147 MP:66/66
+4-Guedhe HP:429/511 MP:229/229
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino dispara a Fortuna
+Fortuna recibe 83 de daño
+Fortuna termina con HP:0/147
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:97/453 MP:389/389
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1144/1227 MP:834/834
+B-Sphinx HP:201/376 MP:364/364
+C-
+D-Guedhe HP:429/511 MP:229/229
 ----------------------------------------
 Full Turns: 3
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Itsuki
-2-Manticore
-3-Mithras
-4-Python
+1-Demi-Fiend
+2-Guedhe
+3-Sphinx
 ----------------------------------------
-Seleccione una acción para Itsuki
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:97/453 MP:389/389
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1144/1227 MP:834/834
+B-Sphinx HP:201/376 MP:364/364
+C-
+D-Guedhe HP:429/511 MP:229/229
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Guedhe
+2-Sphinx
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Guedhe use
+1-Mudoon MP:10
+2-Recarm MP:20
+3-Megidola MP:40
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Guedhe
+1-Fortuna HP:0/147 MP:66/66
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Zouchouten HP:82/221 MP:200/214
+2-Anubis HP:344/497 MP:223/223
+3-Anzu HP:513/596 MP:118/118
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Zouchouten ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:97/453 MP:389/389
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1144/1227 MP:834/834
+B-Sphinx HP:201/376 MP:364/364
+C-
+D-Zouchouten HP:82/221 MP:200/214
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sphinx
+2-Demi-Fiend
+3-Zouchouten
+----------------------------------------
+Seleccione una acción para Sphinx
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:97/453 MP:389/389
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1144/1227 MP:834/834
+B-Sphinx HP:201/376 MP:364/364
+C-
+D-Zouchouten HP:82/221 MP:200/214
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Zouchouten
+3-Sphinx
+----------------------------------------
+Seleccione una acción para Demi-Fiend
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -3250,123 +3529,16 @@ Seleccione una acción para Itsuki
 6: Rendirse
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Itsuki
-1-Kotone HP:43/597 MP:325/347
+Seleccione un objetivo para Demi-Fiend
+1-Nahobino HP:97/453 MP:389/389
 2-Cancelar
 INPUT: 1
 ----------------------------------------
-Itsuki ataca a Kotone
-Kotone es resistente el ataque de Itsuki
-Kotone recibe 22 de daño
-Kotone termina con HP:21/597
+Demi-Fiend ataca a Nahobino
+Nahobino recibe 168 de daño
+Nahobino termina con HP:0/453
 ----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:21/597 MP:325/347
-B-
-C-
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1041/1136 MP:413/413
-B-Manticore HP:65/385 MP:172/172
-C-Mithras HP:161/293 MP:42/58
-D-Python HP:588/637 MP:244/286
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Manticore
-2-Mithras
-3-Python
-4-Itsuki
-----------------------------------------
-Seleccione una acción para Manticore
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Manticore
-1-Kotone HP:21/597 MP:325/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Manticore ataca a Kotone
-Kotone es resistente el ataque de Manticore
-Kotone recibe 15 de daño
-Kotone termina con HP:6/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Kotone (J1)
-A-Kotone HP:6/597 MP:325/347
-B-
-C-
-D-
-Equipo de Itsuki (J2)
-A-Itsuki HP:1041/1136 MP:413/413
-B-Manticore HP:65/385 MP:172/172
-C-Mithras HP:161/293 MP:42/58
-D-Python HP:588/637 MP:244/286
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Mithras
-2-Python
-3-Itsuki
-4-Manticore
-----------------------------------------
-Seleccione una acción para Mithras
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Mithras
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Mithras use
-1-Mahama MP:18
-2-Heat Wave MP:11
-3-Rakunda MP:15
-4-Fatal Sword MP:8
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Mithras
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Mithras
-1-Kotone HP:6/597 MP:325/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Mithras ataca a Kotone
-Kotone es resistente el ataque de Mithras
-Kotone recibe 10 de daño
-Kotone termina con HP:0/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ganador: Itsuki (J2)
+Ganador: Demi-Fiend (J2)

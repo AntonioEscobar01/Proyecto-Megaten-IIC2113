@@ -201,68 +201,26 @@ Elige un archivo para cargar los equipos
 199: 200.txt
 INPUT: 141
 ----------------------------------------
-Ronda de Makoto (J1)
+Ronda de Yu (J1)
 ----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:597/597 MP:347/347
-B-Samael HP:945/945 MP:189/189
-C-Persephone HP:315/315 MP:306/306
-D-Tam Lin HP:218/218 MP:43/43
-Equipo de Nanashi (J2)
-A-Nanashi HP:140/140 MP:411/411
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
 B-
 C-
 D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Persephone HP:315/315 MP:306/306
+C-Shax HP:371/371 MP:360/360
+D-Power HP:407/407 MP:81/81
 ----------------------------------------
-Full Turns: 4
+Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Samael
-2-Makoto
-3-Persephone
-4-Tam Lin
+1-Yu
 ----------------------------------------
-Seleccione una acción para Samael
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Samael
-1-Nanashi HP:140/140 MP:411/411
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Samael ataca a Nanashi
-Nanashi recibe 73 de daño
-Nanashi termina con HP:67/140
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:597/597 MP:347/347
-B-Samael HP:945/945 MP:189/189
-C-Persephone HP:315/315 MP:306/306
-D-Tam Lin HP:218/218 MP:43/43
-Equipo de Nanashi (J2)
-A-Nanashi HP:67/140 MP:411/411
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Makoto
-2-Persephone
-3-Tam Lin
-4-Samael
-----------------------------------------
-Seleccione una acción para Makoto
+Seleccione una acción para Yu
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -274,101 +232,141 @@ INPUT: 5
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:597/597 MP:347/347
-B-Samael HP:945/945 MP:189/189
-C-Persephone HP:315/315 MP:306/306
-D-Tam Lin HP:218/218 MP:43/43
-Equipo de Nanashi (J2)
-A-Nanashi HP:67/140 MP:411/411
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
 B-
 C-
 D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Persephone HP:315/315 MP:306/306
+C-Shax HP:371/371 MP:360/360
+D-Power HP:407/407 MP:81/81
 ----------------------------------------
-Full Turns: 2
+Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
+1-Yu
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Tathlum Shot MP:7
+2-Dia MP:5
+3-Diarama MP:9
+4-Zan MP:5
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Yu HP:597/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu cura a Yu
+Yu recibe 298 de HP
+Yu termina con HP:597/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:338/347
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Persephone HP:315/315 MP:306/306
+C-Shax HP:371/371 MP:360/360
+D-Power HP:407/407 MP:81/81
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Persephone
+3-Power
+4-Kyouji
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Yu HP:597/597 MP:338/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Yu HP:597/597 MP:338/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Shax ataca a Yu
+Yu es resistente el ataque de Shax
+Yu recibe 20 de daño
+Yu termina con HP:577/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:577/597 MP:338/347
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Persephone HP:315/315 MP:306/306
+C-Shax HP:371/371 MP:360/360
+D-Power HP:407/407 MP:81/81
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
 1-Persephone
-2-Tam Lin
-3-Samael
-4-Makoto
+2-Power
+3-Kyouji
+4-Shax
 ----------------------------------------
 Seleccione una acción para Persephone
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:597/597 MP:347/347
-B-Samael HP:945/945 MP:189/189
-C-Persephone HP:315/315 MP:306/306
-D-Tam Lin HP:218/218 MP:43/43
-Equipo de Nanashi (J2)
-A-Nanashi HP:67/140 MP:411/411
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Tam Lin
-2-Samael
-3-Makoto
-4-Persephone
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
 INPUT: 2
 ----------------------------------------
-Seleccione una habilidad para que Tam Lin use
-1-Hama MP:6
-2-Gram Slice MP:5
-3-Maragi MP:11
+Seleccione una habilidad para que Persephone use
+1-Bufudyne MP:14
+2-Death's Door MP:10
+3-Mamudoon MP:30
 4-Cancelar
 INPUT: 4
 ----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:597/597 MP:347/347
-B-Samael HP:945/945 MP:189/189
-C-Persephone HP:315/315 MP:306/306
-D-Tam Lin HP:218/218 MP:43/43
-Equipo de Nanashi (J2)
-A-Nanashi HP:67/140 MP:411/411
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Samael
-2-Makoto
-3-Persephone
-4-Tam Lin
-----------------------------------------
-Seleccione una acción para Samael
+Seleccione una acción para Persephone
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -376,124 +374,23 @@ Seleccione una acción para Samael
 INPUT: 3
 ----------------------------------------
 Seleccione un monstruo para invocar
-1-Quetzalcoatl HP:553/553 MP:247/247
-2-Lilith HP:380/380 MP:369/369
-3-Cancelar
-INPUT: 3
+1-Karasu Tengu HP:238/238 MP:107/107
+2-Bilwis HP:161/161 MP:31/31
+3-Chemtrail HP:437/437 MP:423/423
+4-Cancelar
+INPUT: 4
 ----------------------------------------
-Seleccione una acción para Samael
+Seleccione una acción para Persephone
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Samael use
-1-Diarahan MP:16
-2-Sea of Chaos MP:45
-3-Pandemic Bomb MP:11
-4-Poison Breath MP:11
-5-Doping MP:45
-6-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Samael
-1-Makoto HP:597/597 MP:347/347
-2-Samael HP:945/945 MP:189/189
-3-Persephone HP:315/315 MP:306/306
-4-Tam Lin HP:218/218 MP:43/43
-5-Quetzalcoatl HP:553/553 MP:247/247
-6-Lilith HP:380/380 MP:369/369
-7-Cancelar
-INPUT: 1
-----------------------------------------
-Samael cura a Makoto
-Makoto recibe 597 de HP
-Makoto termina con HP:597/597
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:597/597 MP:347/347
-B-Samael HP:945/945 MP:173/189
-C-Persephone HP:315/315 MP:306/306
-D-Tam Lin HP:218/218 MP:43/43
-Equipo de Nanashi (J2)
-A-Nanashi HP:67/140 MP:411/411
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Makoto
-2-Persephone
-3-Tam Lin
-4-Samael
-----------------------------------------
-Seleccione una acción para Makoto
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Makoto
-1-Nanashi HP:67/140 MP:411/411
+Seleccione un objetivo para Persephone
+1-Yu HP:577/597 MP:338/347
 2-Cancelar
 INPUT: 2
-----------------------------------------
-Seleccione una acción para Makoto
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Quetzalcoatl HP:553/553 MP:247/247
-2-Lilith HP:380/380 MP:369/369
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Makoto
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:597/597 MP:347/347
-B-Samael HP:945/945 MP:173/189
-C-Persephone HP:315/315 MP:306/306
-D-Tam Lin HP:218/218 MP:43/43
-Equipo de Nanashi (J2)
-A-Nanashi HP:67/140 MP:411/411
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Persephone
-2-Tam Lin
-3-Samael
-4-Makoto
 ----------------------------------------
 Seleccione una acción para Persephone
 1: Atacar
@@ -510,206 +407,98 @@ Seleccione una habilidad para que Persephone use
 INPUT: 1
 ----------------------------------------
 Seleccione un objetivo para Persephone
-1-Nanashi HP:67/140 MP:411/411
+1-Yu HP:577/597 MP:338/347
 2-Cancelar
-INPUT: 1
+INPUT: 2
 ----------------------------------------
-Persephone lanza hielo a Nanashi
-Nanashi es resistente el ataque de Persephone
-Nanashi recibe 56 de daño
-Nanashi termina con HP:11/140
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Nanashi (J2)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:597/597 MP:347/347
-B-Samael HP:945/945 MP:173/189
-C-Persephone HP:315/315 MP:292/306
-D-Tam Lin HP:218/218 MP:43/43
-Equipo de Nanashi (J2)
-A-Nanashi HP:11/140 MP:411/411
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Nanashi
-----------------------------------------
-Seleccione una acción para Nanashi
+Seleccione una acción para Persephone
 1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Nanashi
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
 INPUT: 3
 ----------------------------------------
-Seleccione una habilidad para que Nanashi use
-1-Recarm MP:20
-2-Zanma MP:8
-3-Axel Claw MP:15
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Nanashi
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
 Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Nanashi
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
+1-Karasu Tengu HP:238/238 MP:107/107
+2-Bilwis HP:161/161 MP:31/31
+3-Chemtrail HP:437/437 MP:423/423
+4-Cancelar
 INPUT: 2
 ----------------------------------------
-Seleccione un objetivo para Nanashi
-1-Makoto HP:597/597 MP:347/347
-2-Samael HP:945/945 MP:173/189
-3-Persephone HP:315/315 MP:292/306
-4-Tam Lin HP:218/218 MP:43/43
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Nanashi dispara a Samael
-Samael recibe 31 de daño
-Samael termina con HP:914/945
+Bilwis ha sido invocado
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Ronda de Makoto (J1)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:597/597 MP:347/347
-B-Samael HP:914/945 MP:173/189
-C-Persephone HP:315/315 MP:292/306
-D-Tam Lin HP:218/218 MP:43/43
-Equipo de Nanashi (J2)
-A-Nanashi HP:11/140 MP:411/411
+Equipo de Yu (J1)
+A-Yu HP:577/597 MP:338/347
 B-
 C-
 D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Bilwis HP:161/161 MP:31/31
+C-Shax HP:371/371 MP:360/360
+D-Power HP:407/407 MP:81/81
 ----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
+Full Turns: 2
+Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Samael
-2-Makoto
-3-Persephone
-4-Tam Lin
+1-Power
+2-Kyouji
+3-Shax
+4-Bilwis
 ----------------------------------------
-Seleccione una acción para Samael
+Seleccione una acción para Power
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 4
 ----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:597/597 MP:347/347
-B-Samael HP:914/945 MP:173/189
-C-Persephone HP:315/315 MP:292/306
-D-Tam Lin HP:218/218 MP:43/43
-Equipo de Nanashi (J2)
-A-Nanashi HP:11/140 MP:411/411
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Makoto
-2-Persephone
-3-Tam Lin
-4-Samael
-----------------------------------------
-Seleccione una acción para Makoto
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Makoto use
-1-Fatal Sword MP:8
-2-Diarama MP:9
-3-Zionga MP:8
-4-Recarm MP:20
-5-Berserker God MP:12
-6-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione un objetivo para Makoto
-1-Nanashi HP:11/140 MP:411/411
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Makoto
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Makoto use
-1-Fatal Sword MP:8
-2-Diarama MP:9
-3-Zionga MP:8
-4-Recarm MP:20
-5-Berserker God MP:12
-6-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Makoto
-1-Nanashi HP:11/140 MP:411/411
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Makoto lanza electricidad a Nanashi
-Nanashi recibe 93 de daño
-Nanashi termina con HP:0/140
-----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ganador: Makoto (J1)
+Equipo de Yu (J1)
+A-Yu HP:577/597 MP:338/347
+B-
+C-
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Bilwis HP:161/161 MP:31/31
+C-Shax HP:371/371 MP:360/360
+D-Power HP:407/407 MP:81/81
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+2-Shax
+3-Bilwis
+4-Power
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Yu HP:577/597 MP:338/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kyouji dispara a Yu
+Yu recibe 911 de daño
+Yu termina con HP:0/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Kyouji (J2)

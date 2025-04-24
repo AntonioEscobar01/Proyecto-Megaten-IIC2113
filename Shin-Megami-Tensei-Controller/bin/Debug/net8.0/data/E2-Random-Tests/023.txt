@@ -201,27 +201,47 @@ Elige un archivo para cargar los equipos
 199: 200.txt
 INPUT: 22
 ----------------------------------------
-Ronda de Demi-Fiend (J1)
+Ronda de Kotone (J1)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Alilat HP:441/441 MP:428/428
-C-
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Manticore HP:385/385 MP:172/172
 D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:453/453 MP:389/389
-B-Shax HP:371/371 MP:360/360
-C-Strix HP:189/189 MP:85/85
-D-Aniel HP:567/567 MP:255/255
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Arachne HP:350/350 MP:157/157
+C-Lham Dearg HP:91/91 MP:19/19
+D-Okiku-Mushi HP:273/273 MP:121/121
 ----------------------------------------
-Full Turns: 2
+Full Turns: 3
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Demi-Fiend
-2-Alilat
+1-Kotone
+2-Manticore
+3-Okiku-Mushi
 ----------------------------------------
-Seleccione una acción para Demi-Fiend
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Mortal Jihad MP:13
+2-Axel Claw MP:15
+3-Zionga MP:8
+4-Tathlum Shot MP:7
+5-Iron Judgement MP:8
+6-Zan MP:5
+7-Cancelar
+INPUT: 7
+----------------------------------------
+Seleccione una acción para Kotone
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -230,132 +250,466 @@ Seleccione una acción para Demi-Fiend
 6: Rendirse
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Nahobino HP:453/453 MP:389/389
-2-Shax HP:371/371 MP:360/360
-3-Strix HP:189/189 MP:85/85
-4-Aniel HP:567/567 MP:255/255
+Seleccione un objetivo para Kotone
+1-Shujinko HP:1317/1317 MP:625/625
+2-Arachne HP:350/350 MP:157/157
+3-Lham Dearg HP:91/91 MP:19/19
+4-Okiku-Mushi HP:273/273 MP:121/121
 5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
 INPUT: 3
 ----------------------------------------
-Demi-Fiend ataca a Strix
-Strix recibe 168 de daño
-Strix termina con HP:21/189
+Seleccione una habilidad para que Kotone use
+1-Mortal Jihad MP:13
+2-Axel Claw MP:15
+3-Zionga MP:8
+4-Tathlum Shot MP:7
+5-Iron Judgement MP:8
+6-Zan MP:5
+7-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Shujinko HP:1317/1317 MP:625/625
+2-Arachne HP:350/350 MP:157/157
+3-Lham Dearg HP:91/91 MP:19/19
+4-Okiku-Mushi HP:273/273 MP:121/121
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kotone ataca a Arachne
+Arachne recibe 117 de daño
+Arachne termina con HP:233/350
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Alilat HP:441/441 MP:428/428
-C-
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:332/347
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Manticore HP:385/385 MP:172/172
 D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:453/453 MP:389/389
-B-Shax HP:371/371 MP:360/360
-C-Strix HP:21/189 MP:85/85
-D-Aniel HP:567/567 MP:255/255
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Arachne HP:233/350 MP:157/157
+C-Lham Dearg HP:91/91 MP:19/19
+D-Okiku-Mushi HP:273/273 MP:121/121
 ----------------------------------------
-Full Turns: 1
+Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Alilat
-2-Demi-Fiend
+1-Manticore
+2-Okiku-Mushi
+3-Kotone
 ----------------------------------------
-Seleccione una acción para Alilat
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:332/347
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Manticore HP:385/385 MP:172/172
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Arachne HP:233/350 MP:157/157
+C-Lham Dearg HP:91/91 MP:19/19
+D-Okiku-Mushi HP:273/273 MP:121/121
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Okiku-Mushi
+2-Kotone
+3-Manticore
+----------------------------------------
+Seleccione una acción para Okiku-Mushi
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Alilat
-1-Nahobino HP:453/453 MP:389/389
-2-Shax HP:371/371 MP:360/360
-3-Strix HP:21/189 MP:85/85
-4-Aniel HP:567/567 MP:255/255
+Seleccione un objetivo para Okiku-Mushi
+1-Shujinko HP:1317/1317 MP:625/625
+2-Arachne HP:233/350 MP:157/157
+3-Lham Dearg HP:91/91 MP:19/19
+4-Okiku-Mushi HP:273/273 MP:121/121
 5-Cancelar
-INPUT: 2
+INPUT: 5
 ----------------------------------------
-Alilat ataca a Shax
-Shax recibe 47 de daño
-Shax termina con HP:324/371
+Seleccione una acción para Okiku-Mushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
 ----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Seleccione un objetivo para Okiku-Mushi
+1-Shujinko HP:1317/1317 MP:625/625
+2-Arachne HP:233/350 MP:157/157
+3-Lham Dearg HP:91/91 MP:19/19
+4-Okiku-Mushi HP:273/273 MP:121/121
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Okiku-Mushi ataca a Okiku-Mushi
+Okiku-Mushi recibe 21 de daño
+Okiku-Mushi termina con HP:252/273
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Nahobino (J2)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Alilat HP:441/441 MP:428/428
-C-
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:332/347
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Manticore HP:385/385 MP:172/172
 D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:453/453 MP:389/389
-B-Shax HP:324/371 MP:360/360
-C-Strix HP:21/189 MP:85/85
-D-Aniel HP:567/567 MP:255/255
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Arachne HP:233/350 MP:157/157
+C-Lham Dearg HP:91/91 MP:19/19
+D-Okiku-Mushi HP:252/273 MP:121/121
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Manticore
+3-Okiku-Mushi
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:332/347
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Manticore HP:385/385 MP:172/172
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Arachne HP:233/350 MP:157/157
+C-Lham Dearg HP:91/91 MP:19/19
+D-Okiku-Mushi HP:252/273 MP:121/121
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Manticore
+2-Okiku-Mushi
+3-Kotone
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Shujinko HP:1317/1317 MP:625/625
+2-Arachne HP:233/350 MP:157/157
+3-Lham Dearg HP:91/91 MP:19/19
+4-Okiku-Mushi HP:252/273 MP:121/121
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Manticore ataca a Lham Dearg
+Lham Dearg es resistente el ataque de Manticore
+Lham Dearg recibe 15 de daño
+Lham Dearg termina con HP:76/91
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:332/347
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Manticore HP:385/385 MP:172/172
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Arachne HP:233/350 MP:157/157
+C-Lham Dearg HP:76/91 MP:19/19
+D-Okiku-Mushi HP:252/273 MP:121/121
 ----------------------------------------
 Full Turns: 4
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Aniel
-2-Shax
-3-Nahobino
-4-Strix
+1-Shujinko
+2-Arachne
+3-Okiku-Mushi
+4-Lham Dearg
 ----------------------------------------
-Seleccione una acción para Aniel
+Seleccione una acción para Shujinko
 1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
 INPUT: 2
 ----------------------------------------
-Seleccione una habilidad para que Aniel use
-1-Ziodyne MP:14
-2-Diarama MP:9
-3-Pulinpa MP:5
-4-Hamaon MP:10
-5-Cancelar
-INPUT: 1
+Seleccione un objetivo para Shujinko
+1-Kotone HP:597/597 MP:332/347
+2-Okiku-Mushi HP:273/273 MP:121/121
+3-Manticore HP:385/385 MP:172/172
+4-Cancelar
+INPUT: 3
 ----------------------------------------
-Seleccione un objetivo para Aniel
-1-Demi-Fiend HP:1227/1227 MP:834/834
-2-Alilat HP:441/441 MP:428/428
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Aniel lanza electricidad a Alilat
-Alilat recibe 127 de daño
-Alilat termina con HP:314/441
+Shujinko dispara a Manticore
+Manticore recibe 228 de daño
+Manticore termina con HP:157/385
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Alilat HP:314/441 MP:428/428
-C-
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:332/347
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Manticore HP:157/385 MP:172/172
 D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:453/453 MP:389/389
-B-Shax HP:324/371 MP:360/360
-C-Strix HP:21/189 MP:85/85
-D-Aniel HP:567/567 MP:241/255
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Arachne HP:233/350 MP:157/157
+C-Lham Dearg HP:76/91 MP:19/19
+D-Okiku-Mushi HP:252/273 MP:121/121
 ----------------------------------------
 Full Turns: 3
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Shax
-2-Nahobino
-3-Strix
-4-Aniel
+1-Arachne
+2-Okiku-Mushi
+3-Lham Dearg
+4-Shujinko
 ----------------------------------------
-Seleccione una acción para Shax
+Seleccione una acción para Arachne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Arachne use
+1-Stun Needles MP:14
+2-Damascus Claw MP:7
+3-Blast Arrow MP:16
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Arachne
+1-Kotone HP:597/597 MP:332/347
+2-Okiku-Mushi HP:273/273 MP:121/121
+3-Manticore HP:157/385 MP:172/172
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Arachne ataca a Kotone
+Kotone es resistente el ataque de Arachne
+Kotone recibe 40 de daño
+Kotone termina con HP:557/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:557/597 MP:332/347
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Manticore HP:157/385 MP:172/172
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Arachne HP:233/350 MP:150/157
+C-Lham Dearg HP:76/91 MP:19/19
+D-Okiku-Mushi HP:252/273 MP:121/121
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Okiku-Mushi
+2-Lham Dearg
+3-Shujinko
+4-Arachne
+----------------------------------------
+Seleccione una acción para Okiku-Mushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Okiku-Mushi use
+1-Poisma MP:4
+2-Tathlum Shot MP:7
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Okiku-Mushi
+1-Kotone HP:557/597 MP:332/347
+2-Okiku-Mushi HP:273/273 MP:121/121
+3-Manticore HP:157/385 MP:172/172
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Okiku-Mushi dispara a Okiku-Mushi
+Okiku-Mushi bloquea el ataque de Okiku-Mushi
+Okiku-Mushi termina con HP:273/273
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:557/597 MP:332/347
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Manticore HP:157/385 MP:172/172
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Arachne HP:233/350 MP:150/157
+C-Lham Dearg HP:76/91 MP:19/19
+D-Okiku-Mushi HP:252/273 MP:114/121
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Manticore
+3-Okiku-Mushi
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:557/597 MP:332/347
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Manticore HP:157/385 MP:172/172
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Arachne HP:233/350 MP:150/157
+C-Lham Dearg HP:76/91 MP:19/19
+D-Okiku-Mushi HP:252/273 MP:114/121
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Manticore
+2-Okiku-Mushi
+3-Kotone
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Manticore
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Manticore
+1-Shujinko HP:1317/1317 MP:625/625
+2-Arachne HP:233/350 MP:150/157
+3-Lham Dearg HP:76/91 MP:19/19
+4-Okiku-Mushi HP:252/273 MP:114/121
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Manticore ataca a Okiku-Mushi
+Okiku-Mushi recibe 31 de daño
+Okiku-Mushi termina con HP:221/273
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:557/597 MP:332/347
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Manticore HP:157/385 MP:172/172
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Arachne HP:233/350 MP:150/157
+C-Lham Dearg HP:76/91 MP:19/19
+D-Okiku-Mushi HP:221/273 MP:114/121
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Okiku-Mushi
+2-Kotone
+3-Manticore
+----------------------------------------
+Seleccione una acción para Okiku-Mushi
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -365,1358 +719,781 @@ INPUT: 4
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Alilat HP:314/441 MP:428/428
-C-
+Equipo de Kotone (J1)
+A-Kotone HP:557/597 MP:332/347
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Manticore HP:157/385 MP:172/172
 D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:453/453 MP:389/389
-B-Shax HP:324/371 MP:360/360
-C-Strix HP:21/189 MP:85/85
-D-Aniel HP:567/567 MP:241/255
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Arachne HP:233/350 MP:150/157
+C-Lham Dearg HP:76/91 MP:19/19
+D-Okiku-Mushi HP:221/273 MP:114/121
 ----------------------------------------
-Full Turns: 2
+Full Turns: 1
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Nahobino
-2-Strix
-3-Aniel
-4-Shax
+1-Kotone
+2-Manticore
+3-Okiku-Mushi
 ----------------------------------------
-Seleccione una acción para Nahobino
+Seleccione una acción para Kotone
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Nahobino
-1-Demi-Fiend HP:1227/1227 MP:834/834
-2-Alilat HP:314/441 MP:428/428
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Nahobino ataca a Alilat
-Alilat es resistente el ataque de Nahobino
-Alilat recibe 14 de daño
-Alilat termina con HP:300/441
+INPUT: 5
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Alilat HP:300/441 MP:428/428
-C-
+Equipo de Kotone (J1)
+A-Kotone HP:557/597 MP:332/347
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Manticore HP:157/385 MP:172/172
 D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:453/453 MP:389/389
-B-Shax HP:324/371 MP:360/360
-C-Strix HP:21/189 MP:85/85
-D-Aniel HP:567/567 MP:241/255
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Strix
-2-Aniel
-3-Shax
-4-Nahobino
-----------------------------------------
-Seleccione una acción para Strix
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Strix use
-1-Spirit Drain MP:5
-2-Bouncing Claw MP:4
-3-Tarunda MP:15
-4-Mabufu MP:11
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Strix
-1-Demi-Fiend HP:1227/1227 MP:834/834
-2-Alilat HP:300/441 MP:428/428
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Strix ataca a Alilat
-Alilat es resistente el ataque de Strix
-Alilat recibe 21 de daño
-Strix ataca a Alilat
-Alilat es resistente el ataque de Strix
-Alilat recibe 21 de daño
-Alilat termina con HP:258/441
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Alilat HP:258/441 MP:428/428
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:453/453 MP:389/389
-B-Shax HP:324/371 MP:360/360
-C-Strix HP:21/189 MP:81/85
-D-Aniel HP:567/567 MP:241/255
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Arachne HP:233/350 MP:150/157
+C-Lham Dearg HP:76/91 MP:19/19
+D-Okiku-Mushi HP:221/273 MP:114/121
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Aniel
-2-Shax
-3-Nahobino
-4-Strix
+1-Manticore
+2-Okiku-Mushi
+3-Kotone
 ----------------------------------------
-Seleccione una acción para Aniel
+Seleccione una acción para Manticore
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Aniel use
-1-Ziodyne MP:14
-2-Diarama MP:9
-3-Pulinpa MP:5
-4-Hamaon MP:10
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Aniel
-1-Nahobino HP:453/453 MP:389/389
-2-Shax HP:324/371 MP:360/360
-3-Strix HP:21/189 MP:81/85
-4-Aniel HP:567/567 MP:241/255
-5-Pale Rider HP:693/693 MP:310/310
-6-Cancelar
-INPUT: 6
-----------------------------------------
-Seleccione una acción para Aniel
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Aniel use
-1-Ziodyne MP:14
-2-Diarama MP:9
-3-Pulinpa MP:5
-4-Hamaon MP:10
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Aniel
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Pale Rider HP:693/693 MP:310/310
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Pale Rider ha sido invocado
+INPUT: 4
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Alilat HP:258/441 MP:428/428
-C-
+Equipo de Kotone (J1)
+A-Kotone HP:557/597 MP:332/347
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Manticore HP:157/385 MP:172/172
 D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:453/453 MP:389/389
-B-Shax HP:324/371 MP:360/360
-C-Strix HP:21/189 MP:81/85
-D-Pale Rider HP:693/693 MP:310/310
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Arachne HP:233/350 MP:150/157
+C-Lham Dearg HP:76/91 MP:19/19
+D-Okiku-Mushi HP:221/273 MP:114/121
 ----------------------------------------
 Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Shax
-2-Nahobino
-3-Strix
-4-Pale Rider
+1-Okiku-Mushi
+2-Kotone
+3-Manticore
 ----------------------------------------
-Seleccione una acción para Shax
+Seleccione una acción para Okiku-Mushi
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Aniel HP:567/567 MP:241/255
-2-Cancelar
 INPUT: 1
 ----------------------------------------
-Aniel ha sido invocado
+Seleccione un objetivo para Okiku-Mushi
+1-Shujinko HP:1317/1317 MP:625/625
+2-Arachne HP:233/350 MP:150/157
+3-Lham Dearg HP:76/91 MP:19/19
+4-Okiku-Mushi HP:221/273 MP:114/121
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Okiku-Mushi ataca a Lham Dearg
+Lham Dearg es resistente el ataque de Okiku-Mushi
+Lham Dearg recibe 10 de daño
+Lham Dearg termina con HP:66/91
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Demi-Fiend (J1)
+Ronda de Shujinko (J2)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Alilat HP:258/441 MP:428/428
-C-
+Equipo de Kotone (J1)
+A-Kotone HP:557/597 MP:332/347
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-Manticore HP:157/385 MP:172/172
 D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:453/453 MP:389/389
-B-Aniel HP:567/567 MP:241/255
-C-Strix HP:21/189 MP:81/85
-D-Pale Rider HP:693/693 MP:310/310
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-2-Alilat
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Nahobino HP:453/453 MP:389/389
-2-Aniel HP:567/567 MP:241/255
-3-Strix HP:21/189 MP:81/85
-4-Pale Rider HP:693/693 MP:310/310
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Demi-Fiend dispara a Nahobino
-Nahobino recibe 114 de daño
-Nahobino termina con HP:339/453
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Alilat HP:258/441 MP:428/428
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:339/453 MP:389/389
-B-Aniel HP:567/567 MP:241/255
-C-Strix HP:21/189 MP:81/85
-D-Pale Rider HP:693/693 MP:310/310
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Alilat
-2-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Alilat
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Alilat
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Alilat
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Alilat use
-1-Diarahan MP:16
-2-Megidolaon MP:60
-3-Concentrate MP:11
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Alilat
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Alilat
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Alilat
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Alilat
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Alilat use
-1-Diarahan MP:16
-2-Megidolaon MP:60
-3-Concentrate MP:11
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Alilat
-1-Demi-Fiend HP:1227/1227 MP:834/834
-2-Alilat HP:258/441 MP:428/428
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Alilat
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Alilat
-1-Nahobino HP:339/453 MP:389/389
-2-Aniel HP:567/567 MP:241/255
-3-Strix HP:21/189 MP:81/85
-4-Pale Rider HP:693/693 MP:310/310
-5-Cancelar
-INPUT: 4
-----------------------------------------
-Alilat ataca a Pale Rider
-Pale Rider recibe 47 de daño
-Pale Rider termina con HP:646/693
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Nahobino (J2)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Alilat HP:258/441 MP:428/428
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:339/453 MP:389/389
-B-Aniel HP:567/567 MP:241/255
-C-Strix HP:21/189 MP:81/85
-D-Pale Rider HP:646/693 MP:310/310
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Arachne HP:233/350 MP:150/157
+C-Lham Dearg HP:66/91 MP:19/19
+D-Okiku-Mushi HP:221/273 MP:114/121
 ----------------------------------------
 Full Turns: 4
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Pale Rider
-2-Aniel
-3-Nahobino
-4-Strix
+1-Shujinko
+2-Arachne
+3-Okiku-Mushi
+4-Lham Dearg
 ----------------------------------------
-Seleccione una acción para Pale Rider
+Seleccione una acción para Shujinko
 1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Pale Rider
-1-Demi-Fiend HP:1227/1227 MP:834/834
-2-Alilat HP:258/441 MP:428/428
-3-Cancelar
-INPUT: 2
+Seleccione un objetivo para Shujinko
+1-Kotone HP:557/597 MP:332/347
+2-Okiku-Mushi HP:273/273 MP:121/121
+3-Manticore HP:157/385 MP:172/172
+4-Cancelar
+INPUT: 3
 ----------------------------------------
-Pale Rider ataca a Alilat
-Alilat es resistente el ataque de Pale Rider
-Alilat recibe 29 de daño
-Alilat termina con HP:229/441
+Shujinko ataca a Manticore
+Manticore recibe 187 de daño
+Manticore termina con HP:0/385
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Alilat HP:229/441 MP:428/428
+Equipo de Kotone (J1)
+A-Kotone HP:557/597 MP:332/347
+B-Okiku-Mushi HP:273/273 MP:121/121
 C-
 D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:339/453 MP:389/389
-B-Aniel HP:567/567 MP:241/255
-C-Strix HP:21/189 MP:81/85
-D-Pale Rider HP:646/693 MP:310/310
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Arachne HP:233/350 MP:150/157
+C-Lham Dearg HP:66/91 MP:19/19
+D-Okiku-Mushi HP:221/273 MP:114/121
 ----------------------------------------
 Full Turns: 3
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Aniel
-2-Nahobino
-3-Strix
-4-Pale Rider
+1-Arachne
+2-Okiku-Mushi
+3-Lham Dearg
+4-Shujinko
 ----------------------------------------
-Seleccione una acción para Aniel
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Aniel
-1-Demi-Fiend HP:1227/1227 MP:834/834
-2-Alilat HP:229/441 MP:428/428
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Aniel
+Seleccione una acción para Arachne
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 2
 ----------------------------------------
-Seleccione una habilidad para que Aniel use
-1-Ziodyne MP:14
-2-Diarama MP:9
-3-Pulinpa MP:5
-4-Hamaon MP:10
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Aniel
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Alilat HP:229/441 MP:428/428
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:339/453 MP:389/389
-B-Aniel HP:567/567 MP:241/255
-C-Strix HP:21/189 MP:81/85
-D-Pale Rider HP:646/693 MP:310/310
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Nahobino
-2-Strix
-3-Pale Rider
-4-Aniel
-----------------------------------------
-Seleccione una acción para Nahobino
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Nahobino
-1-Demi-Fiend HP:1227/1227 MP:834/834
-2-Alilat HP:229/441 MP:428/428
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Nahobino
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Nahobino
-1-Demi-Fiend HP:1227/1227 MP:834/834
-2-Alilat HP:229/441 MP:428/428
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Nahobino
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Alilat HP:229/441 MP:428/428
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:339/453 MP:389/389
-B-Aniel HP:567/567 MP:241/255
-C-Strix HP:21/189 MP:81/85
-D-Pale Rider HP:646/693 MP:310/310
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Strix
-2-Pale Rider
-3-Aniel
-4-Nahobino
-----------------------------------------
-Seleccione una acción para Strix
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Strix
-1-Demi-Fiend HP:1227/1227 MP:834/834
-2-Alilat HP:229/441 MP:428/428
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Strix
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Alilat HP:229/441 MP:428/428
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:339/453 MP:389/389
-B-Aniel HP:567/567 MP:241/255
-C-Strix HP:21/189 MP:81/85
-D-Pale Rider HP:646/693 MP:310/310
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Pale Rider
-2-Aniel
-3-Nahobino
-4-Strix
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Pale Rider use
-1-Pandemic Bomb MP:11
-2-Death's Door MP:10
-3-Deadly Wind MP:22
-4-Debilitate MP:50
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Pale Rider use
-1-Pandemic Bomb MP:11
-2-Death's Door MP:10
-3-Deadly Wind MP:22
-4-Debilitate MP:50
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Pale Rider
-1-Demi-Fiend HP:1227/1227 MP:834/834
-2-Alilat HP:229/441 MP:428/428
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Pale Rider use
-1-Pandemic Bomb MP:11
-2-Death's Door MP:10
-3-Deadly Wind MP:22
-4-Debilitate MP:50
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Pale Rider
-1-Demi-Fiend HP:1227/1227 MP:834/834
-2-Alilat HP:229/441 MP:428/428
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Pale Rider lanza viento a Alilat
-Alilat recibe 168 de daño
-Alilat termina con HP:61/441
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Alilat HP:61/441 MP:428/428
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:339/453 MP:389/389
-B-Aniel HP:567/567 MP:241/255
-C-Strix HP:21/189 MP:81/85
-D-Pale Rider HP:646/693 MP:288/310
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aniel
-2-Nahobino
-3-Strix
-4-Pale Rider
-----------------------------------------
-Seleccione una acción para Aniel
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Aniel
-1-Demi-Fiend HP:1227/1227 MP:834/834
-2-Alilat HP:61/441 MP:428/428
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Aniel ataca a Demi-Fiend
-Demi-Fiend bloquea el ataque de Aniel
-Demi-Fiend termina con HP:1227/1227
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Demi-Fiend (J1)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Alilat HP:61/441 MP:428/428
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:339/453 MP:389/389
-B-Aniel HP:567/567 MP:241/255
-C-Strix HP:21/189 MP:81/85
-D-Pale Rider HP:646/693 MP:288/310
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-2-Alilat
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Alilat HP:61/441 MP:428/428
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:339/453 MP:389/389
-B-Aniel HP:567/567 MP:241/255
-C-Strix HP:21/189 MP:81/85
-D-Pale Rider HP:646/693 MP:288/310
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Alilat
-2-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Alilat
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Alilat use
-1-Diarahan MP:16
-2-Megidolaon MP:60
-3-Concentrate MP:11
+Seleccione una habilidad para que Arachne use
+1-Stun Needles MP:14
+2-Damascus Claw MP:7
+3-Blast Arrow MP:16
 4-Cancelar
-INPUT: 1
+INPUT: 4
 ----------------------------------------
-Seleccione un objetivo para Alilat
-1-Demi-Fiend HP:1227/1227 MP:834/834
-2-Alilat HP:61/441 MP:428/428
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Alilat
+Seleccione una acción para Arachne
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 4
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ammut HP:709/709 MP:140/140
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:557/597 MP:332/347
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Ammut HP:709/709 MP:140/140
+C-Lham Dearg HP:66/91 MP:19/19
+D-Okiku-Mushi HP:221/273 MP:114/121
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Okiku-Mushi
+2-Lham Dearg
+3-Shujinko
+4-Ammut
+----------------------------------------
+Seleccione una acción para Okiku-Mushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Arachne HP:233/350 MP:150/157
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Arachne ha sido invocado
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Alilat HP:61/441 MP:428/428
+Equipo de Kotone (J1)
+A-Kotone HP:557/597 MP:332/347
+B-Okiku-Mushi HP:273/273 MP:121/121
 C-
 D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:339/453 MP:389/389
-B-Aniel HP:567/567 MP:241/255
-C-Strix HP:21/189 MP:81/85
-D-Pale Rider HP:646/693 MP:288/310
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Ammut HP:709/709 MP:140/140
+C-Lham Dearg HP:66/91 MP:19/19
+D-Arachne HP:233/350 MP:150/157
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lham Dearg
+2-Shujinko
+3-Ammut
+4-Arachne
+----------------------------------------
+Seleccione una acción para Lham Dearg
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lham Dearg use
+1-Gram Slice MP:5
+2-Critical Wave MP:10
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Lham Dearg
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Okiku-Mushi HP:221/273 MP:114/121
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Okiku-Mushi ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:557/597 MP:332/347
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Ammut HP:709/709 MP:140/140
+C-Okiku-Mushi HP:221/273 MP:114/121
+D-Arachne HP:233/350 MP:150/157
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Shujinko
+2-Ammut
+3-Arachne
+4-Okiku-Mushi
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Kotone HP:557/597 MP:332/347
+2-Okiku-Mushi HP:273/273 MP:121/121
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko ataca a Kotone
+Kotone es resistente el ataque de Shujinko
+Kotone recibe 93 de daño
+Kotone termina con HP:464/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:464/597 MP:332/347
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Ammut HP:709/709 MP:140/140
+C-Okiku-Mushi HP:221/273 MP:114/121
+D-Arachne HP:233/350 MP:150/157
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Demi-Fiend
-2-Alilat
+1-Ammut
+2-Arachne
+3-Okiku-Mushi
+4-Shujinko
 ----------------------------------------
-Seleccione una acción para Demi-Fiend
+Seleccione una acción para Ammut
 1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
 ----------------------------------------
 Seleccione un monstruo para invocar
-1-Cancelar
+1-Lham Dearg HP:66/91 MP:19/19
+2-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
+Lham Dearg ha sido invocado
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Alilat HP:61/441 MP:428/428
+Equipo de Kotone (J1)
+A-Kotone HP:464/597 MP:332/347
+B-Okiku-Mushi HP:273/273 MP:121/121
 C-
 D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:339/453 MP:389/389
-B-Aniel HP:567/567 MP:241/255
-C-Strix HP:21/189 MP:81/85
-D-Pale Rider HP:646/693 MP:288/310
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Lham Dearg HP:66/91 MP:19/19
+C-Okiku-Mushi HP:221/273 MP:114/121
+D-Arachne HP:233/350 MP:150/157
 ----------------------------------------
 Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Alilat
-2-Demi-Fiend
+1-Arachne
+2-Okiku-Mushi
+3-Shujinko
+4-Lham Dearg
 ----------------------------------------
-Seleccione una acción para Alilat
+Seleccione una acción para Arachne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Arachne
+1-Kotone HP:464/597 MP:332/347
+2-Okiku-Mushi HP:273/273 MP:121/121
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Arachne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ammut HP:709/709 MP:140/140
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:464/597 MP:332/347
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Lham Dearg HP:66/91 MP:19/19
+C-Okiku-Mushi HP:221/273 MP:114/121
+D-Ammut HP:709/709 MP:140/140
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Okiku-Mushi
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Shujinko HP:1317/1317 MP:625/625
+2-Lham Dearg HP:66/91 MP:19/19
+3-Okiku-Mushi HP:221/273 MP:114/121
+4-Ammut HP:709/709 MP:140/140
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kotone dispara a Lham Dearg
+Lham Dearg es resistente el ataque de Kotone
+Lham Dearg recibe 28 de daño
+Lham Dearg termina con HP:38/91
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:464/597 MP:332/347
+B-Okiku-Mushi HP:273/273 MP:121/121
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Lham Dearg HP:38/91 MP:19/19
+C-Okiku-Mushi HP:221/273 MP:114/121
+D-Ammut HP:709/709 MP:140/140
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Okiku-Mushi
+2-Kotone
+----------------------------------------
+Seleccione una acción para Okiku-Mushi
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 2
 ----------------------------------------
-Seleccione una habilidad para que Alilat use
-1-Diarahan MP:16
-2-Megidolaon MP:60
-3-Concentrate MP:11
+Seleccione una habilidad para que Okiku-Mushi use
+1-Poisma MP:4
+2-Tathlum Shot MP:7
+3-Mudoon MP:10
 4-Cancelar
-INPUT: 1
+INPUT: 2
 ----------------------------------------
-Seleccione un objetivo para Alilat
-1-Demi-Fiend HP:1227/1227 MP:834/834
-2-Alilat HP:61/441 MP:428/428
-3-Cancelar
-INPUT: 3
+Seleccione un objetivo para Okiku-Mushi
+1-Shujinko HP:1317/1317 MP:625/625
+2-Lham Dearg HP:38/91 MP:19/19
+3-Okiku-Mushi HP:221/273 MP:114/121
+4-Ammut HP:709/709 MP:140/140
+5-Cancelar
+INPUT: 2
 ----------------------------------------
-Seleccione una acción para Alilat
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
+Okiku-Mushi dispara a Lham Dearg
+Lham Dearg es resistente el ataque de Okiku-Mushi
+Lham Dearg recibe 34 de daño
+Lham Dearg termina con HP:4/91
 ----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Nahobino (J2)
+Ronda de Shujinko (J2)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Alilat HP:61/441 MP:428/428
+Equipo de Kotone (J1)
+A-Kotone HP:464/597 MP:332/347
+B-Okiku-Mushi HP:273/273 MP:114/121
 C-
 D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:339/453 MP:389/389
-B-Aniel HP:567/567 MP:241/255
-C-Strix HP:21/189 MP:81/85
-D-Pale Rider HP:646/693 MP:288/310
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Lham Dearg HP:4/91 MP:19/19
+C-Okiku-Mushi HP:221/273 MP:114/121
+D-Ammut HP:709/709 MP:140/140
 ----------------------------------------
 Full Turns: 4
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Pale Rider
-2-Aniel
-3-Nahobino
-4-Strix
+1-Shujinko
+2-Ammut
+3-Okiku-Mushi
+4-Lham Dearg
 ----------------------------------------
-Seleccione una acción para Pale Rider
+Seleccione una acción para Shujinko
 1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Pale Rider use
-1-Pandemic Bomb MP:11
-2-Death's Door MP:10
-3-Deadly Wind MP:22
-4-Debilitate MP:50
-5-Cancelar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
 INPUT: 5
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Pale Rider use
-1-Pandemic Bomb MP:11
-2-Death's Door MP:10
-3-Deadly Wind MP:22
-4-Debilitate MP:50
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Alilat HP:61/441 MP:428/428
+Equipo de Kotone (J1)
+A-Kotone HP:464/597 MP:332/347
+B-Okiku-Mushi HP:273/273 MP:114/121
 C-
 D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:339/453 MP:389/389
-B-Aniel HP:567/567 MP:241/255
-C-Strix HP:21/189 MP:81/85
-D-Pale Rider HP:646/693 MP:288/310
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Lham Dearg HP:4/91 MP:19/19
+C-Okiku-Mushi HP:221/273 MP:114/121
+D-Ammut HP:709/709 MP:140/140
 ----------------------------------------
 Full Turns: 3
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Aniel
-2-Nahobino
-3-Strix
-4-Pale Rider
+1-Ammut
+2-Okiku-Mushi
+3-Lham Dearg
+4-Shujinko
 ----------------------------------------
-Seleccione una acción para Aniel
+Seleccione una acción para Ammut
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 4
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Kotone HP:464/597 MP:332/347
+2-Okiku-Mushi HP:273/273 MP:114/121
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Kotone
+Kotone es resistente el ataque de Ammut
+Kotone recibe 27 de daño
+Kotone termina con HP:437/597
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Alilat HP:61/441 MP:428/428
+Equipo de Kotone (J1)
+A-Kotone HP:437/597 MP:332/347
+B-Okiku-Mushi HP:273/273 MP:114/121
 C-
 D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:339/453 MP:389/389
-B-Aniel HP:567/567 MP:241/255
-C-Strix HP:21/189 MP:81/85
-D-Pale Rider HP:646/693 MP:288/310
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Lham Dearg HP:4/91 MP:19/19
+C-Okiku-Mushi HP:221/273 MP:114/121
+D-Ammut HP:709/709 MP:140/140
 ----------------------------------------
 Full Turns: 3
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Nahobino
-2-Strix
-3-Pale Rider
-4-Aniel
+1-Okiku-Mushi
+2-Lham Dearg
+3-Shujinko
+4-Ammut
 ----------------------------------------
-Seleccione una acción para Nahobino
+Seleccione una acción para Okiku-Mushi
 1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Nahobino use
-1-Recarm MP:20
-2-Grand Tack MP:11
-3-Tathlum Shot MP:7
-4-Zan MP:5
-5-Berserker God MP:12
-6-Bufula MP:8
-7-Cancelar
-INPUT: 6
-----------------------------------------
-Seleccione un objetivo para Nahobino
-1-Demi-Fiend HP:1227/1227 MP:834/834
-2-Alilat HP:61/441 MP:428/428
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Nahobino
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
 INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Shax HP:324/371 MP:360/360
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una posición para invocar
-1-Aniel HP:567/567 MP:241/255 (Puesto 2)
-2-Strix HP:21/189 MP:81/85 (Puesto 3)
-3-Pale Rider HP:646/693 MP:288/310 (Puesto 4)
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Shax ha sido invocado
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Alilat HP:61/441 MP:428/428
+Equipo de Kotone (J1)
+A-Kotone HP:437/597 MP:332/347
+B-Okiku-Mushi HP:273/273 MP:114/121
 C-
 D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:339/453 MP:389/389
-B-Shax HP:324/371 MP:360/360
-C-Strix HP:21/189 MP:81/85
-D-Pale Rider HP:646/693 MP:288/310
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Lham Dearg HP:4/91 MP:19/19
+C-Okiku-Mushi HP:221/273 MP:114/121
+D-Ammut HP:709/709 MP:140/140
 ----------------------------------------
 Full Turns: 2
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Strix
-2-Pale Rider
-3-Shax
-4-Nahobino
+1-Lham Dearg
+2-Shujinko
+3-Ammut
+4-Okiku-Mushi
 ----------------------------------------
-Seleccione una acción para Strix
+Seleccione una acción para Lham Dearg
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Strix
-1-Demi-Fiend HP:1227/1227 MP:834/834
-2-Alilat HP:61/441 MP:428/428
-3-Cancelar
 INPUT: 2
 ----------------------------------------
-Strix ataca a Alilat
-Alilat es resistente el ataque de Strix
-Alilat recibe 7 de daño
-Alilat termina con HP:54/441
+Seleccione una habilidad para que Lham Dearg use
+1-Gram Slice MP:5
+2-Critical Wave MP:10
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Lham Dearg
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Alilat HP:54/441 MP:428/428
+Equipo de Kotone (J1)
+A-Kotone HP:437/597 MP:332/347
+B-Okiku-Mushi HP:273/273 MP:114/121
 C-
 D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:339/453 MP:389/389
-B-Shax HP:324/371 MP:360/360
-C-Strix HP:21/189 MP:81/85
-D-Pale Rider HP:646/693 MP:288/310
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Lham Dearg HP:4/91 MP:19/19
+C-Okiku-Mushi HP:221/273 MP:114/121
+D-Ammut HP:709/709 MP:140/140
 ----------------------------------------
 Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Pale Rider
-2-Shax
-3-Nahobino
-4-Strix
+1-Shujinko
+2-Ammut
+3-Okiku-Mushi
+4-Lham Dearg
 ----------------------------------------
-Seleccione una acción para Pale Rider
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Kotone HP:437/597 MP:332/347
+2-Okiku-Mushi HP:273/273 MP:114/121
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko dispara a Kotone
+Kotone es resistente el ataque de Shujinko
+Kotone recibe 114 de daño
+Kotone termina con HP:323/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:323/597 MP:332/347
+B-Okiku-Mushi HP:273/273 MP:114/121
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Lham Dearg HP:4/91 MP:19/19
+C-Okiku-Mushi HP:221/273 MP:114/121
+D-Ammut HP:709/709 MP:140/140
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Okiku-Mushi
+3-Lham Dearg
+4-Shujinko
+----------------------------------------
+Seleccione una acción para Ammut
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 2
 ----------------------------------------
-Seleccione una habilidad para que Pale Rider use
-1-Pandemic Bomb MP:11
-2-Death's Door MP:10
-3-Deadly Wind MP:22
-4-Debilitate MP:50
+Seleccione una habilidad para que Ammut use
+1-Megaton Press MP:17
+2-War Cry MP:45
+3-Nihil Claw MP:11
+4-Energy Drain MP:10
 5-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Pale Rider
-1-Demi-Fiend HP:1227/1227 MP:834/834
-2-Alilat HP:54/441 MP:428/428
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Pale Rider
-1-Demi-Fiend HP:1227/1227 MP:834/834
-2-Alilat HP:54/441 MP:428/428
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Aniel HP:567/567 MP:241/255
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Aniel ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Alilat HP:54/441 MP:428/428
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:339/453 MP:389/389
-B-Shax HP:324/371 MP:360/360
-C-Strix HP:21/189 MP:81/85
-D-Aniel HP:567/567 MP:241/255
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Shax
-2-Nahobino
-3-Strix
-4-Aniel
-----------------------------------------
-Seleccione una acción para Shax
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Pale Rider HP:646/693 MP:288/310
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Shax
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Alilat HP:54/441 MP:428/428
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:339/453 MP:389/389
-B-Shax HP:324/371 MP:360/360
-C-Strix HP:21/189 MP:81/85
-D-Aniel HP:567/567 MP:241/255
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Nahobino
-2-Strix
-3-Aniel
-4-Shax
-----------------------------------------
-Seleccione una acción para Nahobino
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Nahobino
-1-Demi-Fiend HP:1227/1227 MP:834/834
-2-Alilat HP:54/441 MP:428/428
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Nahobino dispara a Demi-Fiend
-Demi-Fiend recibe 83 de daño
-Demi-Fiend termina con HP:1144/1227
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Demi-Fiend (J1)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1144/1227 MP:834/834
-B-Alilat HP:54/441 MP:428/428
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:339/453 MP:389/389
-B-Shax HP:324/371 MP:360/360
-C-Strix HP:21/189 MP:81/85
-D-Aniel HP:567/567 MP:241/255
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-2-Alilat
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
 INPUT: 5
 ----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1144/1227 MP:834/834
-B-Alilat HP:54/441 MP:428/428
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:339/453 MP:389/389
-B-Shax HP:324/371 MP:360/360
-C-Strix HP:21/189 MP:81/85
-D-Aniel HP:567/567 MP:241/255
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Alilat
-2-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Alilat
+Seleccione una acción para Ammut
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Alilat
-1-Nahobino HP:339/453 MP:389/389
-2-Shax HP:324/371 MP:360/360
-3-Strix HP:21/189 MP:81/85
-4-Aniel HP:567/567 MP:241/255
-5-Cancelar
-INPUT: 3
+Seleccione un objetivo para Ammut
+1-Kotone HP:323/597 MP:332/347
+2-Okiku-Mushi HP:273/273 MP:114/121
+3-Cancelar
+INPUT: 2
 ----------------------------------------
-Alilat ataca a Strix
-Strix recibe 47 de daño
-Strix termina con HP:0/189
+Ammut ataca a Okiku-Mushi
+Okiku-Mushi recibe 54 de daño
+Okiku-Mushi termina con HP:219/273
 ----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1144/1227 MP:834/834
-B-Alilat HP:54/441 MP:428/428
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:323/597 MP:332/347
+B-Okiku-Mushi HP:219/273 MP:114/121
 C-
 D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:339/453 MP:389/389
-B-Shax HP:324/371 MP:360/360
-C-
-D-Aniel HP:567/567 MP:241/255
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Lham Dearg HP:4/91 MP:19/19
+C-Okiku-Mushi HP:221/273 MP:114/121
+D-Ammut HP:709/709 MP:140/140
 ----------------------------------------
-Full Turns: 1
+Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Demi-Fiend
-2-Alilat
+1-Kotone
+2-Okiku-Mushi
 ----------------------------------------
-Seleccione una acción para Demi-Fiend
+Seleccione una acción para Kotone
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -1729,205 +1506,65 @@ Seleccione un monstruo para invocar
 1-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione una acción para Demi-Fiend
+Seleccione una acción para Kotone
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Nahobino HP:339/453 MP:389/389
-2-Shax HP:324/371 MP:360/360
-3-Aniel HP:567/567 MP:241/255
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Demi-Fiend ataca a Shax
-Shax recibe 168 de daño
-Shax termina con HP:156/371
+INPUT: 5
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Ronda de Nahobino (J2)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1144/1227 MP:834/834
-B-Alilat HP:54/441 MP:428/428
+Equipo de Kotone (J1)
+A-Kotone HP:323/597 MP:332/347
+B-Okiku-Mushi HP:219/273 MP:114/121
 C-
 D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:339/453 MP:389/389
-B-Shax HP:156/371 MP:360/360
-C-
-D-Aniel HP:567/567 MP:241/255
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Lham Dearg HP:4/91 MP:19/19
+C-Okiku-Mushi HP:221/273 MP:114/121
+D-Ammut HP:709/709 MP:140/140
 ----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
+Full Turns: 1
+Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Aniel
-2-Shax
-3-Nahobino
+1-Okiku-Mushi
+2-Kotone
 ----------------------------------------
-Seleccione una acción para Aniel
+Seleccione una acción para Okiku-Mushi
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 1
+INPUT: 4
 ----------------------------------------
-Seleccione un objetivo para Aniel
-1-Demi-Fiend HP:1144/1227 MP:834/834
-2-Alilat HP:54/441 MP:428/428
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Aniel
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Aniel
-1-Demi-Fiend HP:1144/1227 MP:834/834
-2-Alilat HP:54/441 MP:428/428
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Aniel ataca a Demi-Fiend
-Demi-Fiend bloquea el ataque de Aniel
-Demi-Fiend termina con HP:1144/1227
-----------------------------------------
-Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1144/1227 MP:834/834
-B-Alilat HP:54/441 MP:428/428
+Equipo de Kotone (J1)
+A-Kotone HP:323/597 MP:332/347
+B-Okiku-Mushi HP:219/273 MP:114/121
 C-
 D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:339/453 MP:389/389
-B-Shax HP:156/371 MP:360/360
-C-
-D-Aniel HP:567/567 MP:241/255
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Lham Dearg HP:4/91 MP:19/19
+C-Okiku-Mushi HP:221/273 MP:114/121
+D-Ammut HP:709/709 MP:140/140
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Shax
-2-Nahobino
-3-Aniel
+1-Kotone
+2-Okiku-Mushi
 ----------------------------------------
-Seleccione una acción para Shax
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Pale Rider HP:646/693 MP:288/310
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Shax
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Pale Rider HP:646/693 MP:288/310
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Shax
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Pale Rider HP:646/693 MP:288/310
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Pale Rider ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1144/1227 MP:834/834
-B-Alilat HP:54/441 MP:428/428
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:339/453 MP:389/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Aniel HP:567/567 MP:241/255
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Nahobino
-2-Aniel
-3-Pale Rider
-----------------------------------------
-Seleccione una acción para Nahobino
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Nahobino
-1-Demi-Fiend HP:1144/1227 MP:834/834
-2-Alilat HP:54/441 MP:428/428
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Nahobino dispara a Demi-Fiend
-Demi-Fiend recibe 83 de daño
-Demi-Fiend termina con HP:1061/1227
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Demi-Fiend (J1)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1061/1227 MP:834/834
-B-Alilat HP:54/441 MP:428/428
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:339/453 MP:389/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Aniel HP:567/567 MP:241/255
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-2-Alilat
-----------------------------------------
-Seleccione una acción para Demi-Fiend
+Seleccione una acción para Kotone
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -1940,7 +1577,7 @@ Seleccione un monstruo para invocar
 1-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione una acción para Demi-Fiend
+Seleccione una acción para Kotone
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -1949,372 +1586,44 @@ Seleccione una acción para Demi-Fiend
 6: Rendirse
 INPUT: 2
 ----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Nahobino HP:339/453 MP:389/389
-2-Pale Rider HP:646/693 MP:288/310
-3-Aniel HP:567/567 MP:241/255
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Nahobino HP:339/453 MP:389/389
-2-Pale Rider HP:646/693 MP:288/310
-3-Aniel HP:567/567 MP:241/255
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Demi-Fiend ataca a Aniel
-Aniel recibe 168 de daño
-Aniel termina con HP:399/567
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1061/1227 MP:834/834
-B-Alilat HP:54/441 MP:428/428
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:339/453 MP:389/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Aniel HP:399/567 MP:241/255
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Alilat
-2-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Alilat
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Alilat use
-1-Diarahan MP:16
-2-Megidolaon MP:60
-3-Concentrate MP:11
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Alilat
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1061/1227 MP:834/834
-B-Alilat HP:54/441 MP:428/428
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:339/453 MP:389/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Aniel HP:399/567 MP:241/255
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Demi-Fiend
-2-Alilat
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Nahobino HP:339/453 MP:389/389
-2-Pale Rider HP:646/693 MP:288/310
-3-Aniel HP:399/567 MP:241/255
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Demi-Fiend dispara a Nahobino
-Nahobino recibe 114 de daño
-Nahobino termina con HP:225/453
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Nahobino (J2)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1061/1227 MP:834/834
-B-Alilat HP:54/441 MP:428/428
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:225/453 MP:389/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Aniel HP:399/567 MP:241/255
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Pale Rider
-2-Aniel
-3-Nahobino
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Pale Rider use
-1-Pandemic Bomb MP:11
-2-Death's Door MP:10
-3-Deadly Wind MP:22
-4-Debilitate MP:50
+Seleccione un objetivo para Kotone
+1-Shujinko HP:1317/1317 MP:625/625
+2-Lham Dearg HP:4/91 MP:19/19
+3-Okiku-Mushi HP:221/273 MP:114/121
+4-Ammut HP:709/709 MP:140/140
 5-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Pale Rider
-1-Demi-Fiend HP:1061/1227 MP:834/834
-2-Alilat HP:54/441 MP:428/428
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Pale Rider use
-1-Pandemic Bomb MP:11
-2-Death's Door MP:10
-3-Deadly Wind MP:22
-4-Debilitate MP:50
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Shax HP:156/371 MP:360/360
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Shax ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1061/1227 MP:834/834
-B-Alilat HP:54/441 MP:428/428
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:225/453 MP:389/389
-B-Shax HP:156/371 MP:360/360
-C-
-D-Aniel HP:399/567 MP:241/255
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Aniel
-2-Nahobino
-3-Shax
-----------------------------------------
-Seleccione una acción para Aniel
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
 INPUT: 4
 ----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Kotone dispara a Ammut
+Ammut recibe 57 de daño
+Ammut termina con HP:652/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1061/1227 MP:834/834
-B-Alilat HP:54/441 MP:428/428
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:323/597 MP:332/347
+B-Okiku-Mushi HP:219/273 MP:114/121
 C-
 D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:225/453 MP:389/389
-B-Shax HP:156/371 MP:360/360
-C-
-D-Aniel HP:399/567 MP:241/255
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Lham Dearg HP:4/91 MP:19/19
+C-Okiku-Mushi HP:221/273 MP:114/121
+D-Ammut HP:652/709 MP:140/140
 ----------------------------------------
-Full Turns: 2
+Full Turns: 4
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Nahobino
-2-Shax
-3-Aniel
+1-Shujinko
+2-Ammut
+3-Okiku-Mushi
+4-Lham Dearg
 ----------------------------------------
-Seleccione una acción para Nahobino
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1061/1227 MP:834/834
-B-Alilat HP:54/441 MP:428/428
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:225/453 MP:389/389
-B-Shax HP:156/371 MP:360/360
-C-
-D-Aniel HP:399/567 MP:241/255
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Shax
-2-Aniel
-3-Nahobino
-----------------------------------------
-Seleccione una acción para Shax
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Pale Rider HP:646/693 MP:288/310
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Shax
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Shax use
-1-Deadly Wind MP:22
-2-Poison Breath MP:11
-3-Grand Tack MP:11
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Shax
-1-Demi-Fiend HP:1061/1227 MP:834/834
-2-Alilat HP:54/441 MP:428/428
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Shax lanza viento a Alilat
-Alilat recibe 167 de daño
-Alilat termina con HP:0/441
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1061/1227 MP:834/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:225/453 MP:389/389
-B-Shax HP:156/371 MP:338/360
-C-
-D-Aniel HP:399/567 MP:241/255
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aniel
-2-Nahobino
-3-Shax
-----------------------------------------
-Seleccione una acción para Aniel
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Aniel
-1-Demi-Fiend HP:1061/1227 MP:834/834
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aniel
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1061/1227 MP:834/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:225/453 MP:389/389
-B-Shax HP:156/371 MP:338/360
-C-
-D-Aniel HP:399/567 MP:241/255
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Nahobino
-2-Shax
-3-Aniel
-----------------------------------------
-Seleccione una acción para Nahobino
+Seleccione una acción para Shujinko
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -2323,1728 +1632,144 @@ Seleccione una acción para Nahobino
 6: Rendirse
 INPUT: 3
 ----------------------------------------
-Seleccione una habilidad para que Nahobino use
-1-Recarm MP:20
-2-Grand Tack MP:11
-3-Tathlum Shot MP:7
-4-Zan MP:5
-5-Berserker God MP:12
-6-Bufula MP:8
-7-Cancelar
-INPUT: 6
-----------------------------------------
-Seleccione un objetivo para Nahobino
-1-Demi-Fiend HP:1061/1227 MP:834/834
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Nahobino lanza hielo a Demi-Fiend
-Demi-Fiend bloquea el ataque de Nahobino
-Demi-Fiend termina con HP:1061/1227
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Demi-Fiend (J1)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1061/1227 MP:834/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:225/453 MP:381/389
-B-Shax HP:156/371 MP:338/360
-C-
-D-Aniel HP:399/567 MP:241/255
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1061/1227 MP:834/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:225/453 MP:381/389
-B-Shax HP:156/371 MP:338/360
-C-
-D-Aniel HP:399/567 MP:241/255
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Nahobino HP:225/453 MP:381/389
-2-Shax HP:156/371 MP:338/360
-3-Aniel HP:399/567 MP:241/255
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Demi-Fiend ataca a Aniel
-Aniel recibe 168 de daño
-Aniel termina con HP:231/567
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Nahobino (J2)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1061/1227 MP:834/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:225/453 MP:381/389
-B-Shax HP:156/371 MP:338/360
-C-
-D-Aniel HP:231/567 MP:241/255
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aniel
-2-Shax
-3-Nahobino
-----------------------------------------
-Seleccione una acción para Aniel
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Aniel use
-1-Ziodyne MP:14
-2-Diarama MP:9
-3-Pulinpa MP:5
-4-Hamaon MP:10
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Aniel
-1-Nahobino HP:225/453 MP:381/389
-2-Shax HP:156/371 MP:338/360
-3-Aniel HP:231/567 MP:241/255
-4-Pale Rider HP:646/693 MP:288/310
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Aniel cura a Shax
-Shax recibe 185 de HP
-Shax termina con HP:341/371
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1061/1227 MP:834/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:225/453 MP:381/389
-B-Shax HP:341/371 MP:338/360
-C-
-D-Aniel HP:231/567 MP:232/255
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shax
-2-Nahobino
-3-Aniel
-----------------------------------------
-Seleccione una acción para Shax
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Pale Rider HP:646/693 MP:288/310
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Pale Rider ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1061/1227 MP:834/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:225/453 MP:381/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Aniel HP:231/567 MP:232/255
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Nahobino
-2-Aniel
-3-Pale Rider
-----------------------------------------
-Seleccione una acción para Nahobino
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Nahobino
-1-Demi-Fiend HP:1061/1227 MP:834/834
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Nahobino dispara a Demi-Fiend
-Demi-Fiend recibe 83 de daño
-Demi-Fiend termina con HP:978/1227
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:978/1227 MP:834/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:225/453 MP:381/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Aniel HP:231/567 MP:232/255
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aniel
-2-Pale Rider
-3-Nahobino
-----------------------------------------
-Seleccione una acción para Aniel
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Aniel use
-1-Ziodyne MP:14
-2-Diarama MP:9
-3-Pulinpa MP:5
-4-Hamaon MP:10
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Aniel
-1-Demi-Fiend HP:978/1227 MP:834/834
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Aniel lanza electricidad a Demi-Fiend
-Demi-Fiend bloquea el ataque de Aniel
-Demi-Fiend termina con HP:978/1227
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Demi-Fiend (J1)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:978/1227 MP:834/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:225/453 MP:381/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Aniel HP:231/567 MP:218/255
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:978/1227 MP:834/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:225/453 MP:381/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Aniel HP:231/567 MP:218/255
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Nahobino (J2)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:978/1227 MP:834/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:225/453 MP:381/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Aniel HP:231/567 MP:218/255
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Pale Rider
-2-Aniel
-3-Nahobino
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Pale Rider use
-1-Pandemic Bomb MP:11
-2-Death's Door MP:10
-3-Deadly Wind MP:22
-4-Debilitate MP:50
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Pale Rider
-1-Demi-Fiend HP:978/1227 MP:834/834
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Pale Rider use
-1-Pandemic Bomb MP:11
-2-Death's Door MP:10
-3-Deadly Wind MP:22
-4-Debilitate MP:50
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:978/1227 MP:834/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:225/453 MP:381/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Aniel HP:231/567 MP:218/255
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Aniel
-2-Nahobino
-3-Pale Rider
-----------------------------------------
-Seleccione una acción para Aniel
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Aniel use
-1-Ziodyne MP:14
-2-Diarama MP:9
-3-Pulinpa MP:5
-4-Hamaon MP:10
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Aniel
-1-Nahobino HP:225/453 MP:381/389
-2-Pale Rider HP:646/693 MP:288/310
-3-Aniel HP:231/567 MP:218/255
-4-Shax HP:341/371 MP:338/360
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Aniel
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Aniel use
-1-Ziodyne MP:14
-2-Diarama MP:9
-3-Pulinpa MP:5
-4-Hamaon MP:10
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Aniel
-1-Demi-Fiend HP:978/1227 MP:834/834
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aniel
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Shax HP:341/371 MP:338/360
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aniel
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Shax HP:341/371 MP:338/360
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Shax ha sido invocado
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:978/1227 MP:834/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:225/453 MP:381/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Shax HP:341/371 MP:338/360
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Nahobino
-2-Pale Rider
-3-Shax
-----------------------------------------
-Seleccione una acción para Nahobino
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:978/1227 MP:834/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:225/453 MP:381/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Shax HP:341/371 MP:338/360
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Pale Rider
-2-Shax
-3-Nahobino
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Pale Rider
-1-Demi-Fiend HP:978/1227 MP:834/834
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Aniel HP:231/567 MP:218/255
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Aniel ha sido invocado
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:978/1227 MP:834/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:225/453 MP:381/389
-B-Aniel HP:231/567 MP:218/255
-C-
-D-Shax HP:341/371 MP:338/360
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shax
-2-Nahobino
-3-Aniel
-----------------------------------------
-Seleccione una acción para Shax
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Shax
-1-Demi-Fiend HP:978/1227 MP:834/834
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Shax ataca a Demi-Fiend
-Demi-Fiend bloquea el ataque de Shax
-Demi-Fiend termina con HP:978/1227
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Demi-Fiend (J1)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:978/1227 MP:834/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:225/453 MP:381/389
-B-Aniel HP:231/567 MP:218/255
-C-
-D-Shax HP:341/371 MP:338/360
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Nahobino HP:225/453 MP:381/389
-2-Aniel HP:231/567 MP:218/255
-3-Shax HP:341/371 MP:338/360
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Demi-Fiend ataca a Nahobino
-Nahobino recibe 168 de daño
-Nahobino termina con HP:57/453
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Nahobino (J2)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:978/1227 MP:834/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:57/453 MP:381/389
-B-Aniel HP:231/567 MP:218/255
-C-
-D-Shax HP:341/371 MP:338/360
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aniel
-2-Shax
-3-Nahobino
-----------------------------------------
-Seleccione una acción para Aniel
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Pale Rider HP:646/693 MP:288/310
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Pale Rider ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:978/1227 MP:834/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:57/453 MP:381/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Shax HP:341/371 MP:338/360
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Shax
-2-Nahobino
-3-Pale Rider
-----------------------------------------
-Seleccione una acción para Shax
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Aniel HP:231/567 MP:218/255
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Shax
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Shax use
-1-Deadly Wind MP:22
-2-Poison Breath MP:11
-3-Grand Tack MP:11
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Shax
-1-Demi-Fiend HP:978/1227 MP:834/834
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Shax dispara a Demi-Fiend
-Demi-Fiend recibe 127 de daño
-Demi-Fiend termina con HP:851/1227
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:851/1227 MP:834/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:57/453 MP:381/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Shax HP:341/371 MP:327/360
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Nahobino
-2-Pale Rider
-3-Shax
-----------------------------------------
-Seleccione una acción para Nahobino
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:851/1227 MP:834/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:57/453 MP:381/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Shax HP:341/371 MP:327/360
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Pale Rider
-2-Shax
-3-Nahobino
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Aniel HP:231/567 MP:218/255
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:851/1227 MP:834/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:57/453 MP:381/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Shax HP:341/371 MP:327/360
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shax
-2-Nahobino
-3-Pale Rider
-----------------------------------------
-Seleccione una acción para Shax
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:851/1227 MP:834/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:57/453 MP:381/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Shax HP:341/371 MP:327/360
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Nahobino
-2-Pale Rider
-3-Shax
-----------------------------------------
-Seleccione una acción para Nahobino
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Demi-Fiend (J1)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:851/1227 MP:834/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:57/453 MP:381/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Shax HP:341/371 MP:327/360
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:851/1227 MP:834/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:57/453 MP:381/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Shax HP:341/371 MP:327/360
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Nahobino (J2)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:851/1227 MP:834/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:57/453 MP:381/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Shax HP:341/371 MP:327/360
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Pale Rider
-2-Shax
-3-Nahobino
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Aniel HP:231/567 MP:218/255
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Pale Rider use
-1-Pandemic Bomb MP:11
-2-Death's Door MP:10
-3-Deadly Wind MP:22
-4-Debilitate MP:50
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Pale Rider use
-1-Pandemic Bomb MP:11
-2-Death's Door MP:10
-3-Deadly Wind MP:22
-4-Debilitate MP:50
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Pale Rider use
-1-Pandemic Bomb MP:11
-2-Death's Door MP:10
-3-Deadly Wind MP:22
-4-Debilitate MP:50
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Pale Rider
-1-Demi-Fiend HP:851/1227 MP:834/834
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Pale Rider ataca a Demi-Fiend
-Demi-Fiend bloquea el ataque de Pale Rider
-Demi-Fiend termina con HP:851/1227
-----------------------------------------
-Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:851/1227 MP:834/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:57/453 MP:381/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Shax HP:341/371 MP:327/360
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shax
-2-Nahobino
-3-Pale Rider
-----------------------------------------
-Seleccione una acción para Shax
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Shax use
-1-Deadly Wind MP:22
-2-Poison Breath MP:11
-3-Grand Tack MP:11
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Shax
-1-Demi-Fiend HP:851/1227 MP:834/834
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Shax
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Aniel HP:231/567 MP:218/255
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Shax
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Shax
-1-Demi-Fiend HP:851/1227 MP:834/834
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Shax ataca a Demi-Fiend
-Demi-Fiend bloquea el ataque de Shax
-Demi-Fiend termina con HP:851/1227
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Demi-Fiend (J1)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:851/1227 MP:834/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:57/453 MP:381/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Shax HP:341/371 MP:327/360
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Nahobino HP:57/453 MP:381/389
-2-Pale Rider HP:646/693 MP:288/310
-3-Shax HP:341/371 MP:327/360
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Demi-Fiend ataca a Shax
-Shax recibe 168 de daño
-Shax termina con HP:173/371
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Nahobino (J2)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:851/1227 MP:834/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:57/453 MP:381/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Shax HP:173/371 MP:327/360
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Pale Rider
-2-Shax
-3-Nahobino
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:851/1227 MP:834/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:57/453 MP:381/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Shax HP:173/371 MP:327/360
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Shax
-2-Nahobino
-3-Pale Rider
-----------------------------------------
-Seleccione una acción para Shax
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Shax
-1-Demi-Fiend HP:851/1227 MP:834/834
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Shax ataca a Demi-Fiend
-Demi-Fiend bloquea el ataque de Shax
-Demi-Fiend termina con HP:851/1227
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:851/1227 MP:834/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:57/453 MP:381/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Shax HP:173/371 MP:327/360
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Nahobino
-2-Pale Rider
-3-Shax
-----------------------------------------
-Seleccione una acción para Nahobino
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:851/1227 MP:834/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:57/453 MP:381/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Shax HP:173/371 MP:327/360
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Pale Rider
-2-Shax
-3-Nahobino
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Demi-Fiend (J1)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:851/1227 MP:834/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:57/453 MP:381/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Shax HP:173/371 MP:327/360
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Nahobino HP:57/453 MP:381/389
-2-Pale Rider HP:646/693 MP:288/310
-3-Shax HP:173/371 MP:327/360
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Demi-Fiend dispara a Nahobino
-Nahobino recibe 114 de daño
-Nahobino termina con HP:0/453
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Nahobino (J2)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:851/1227 MP:834/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:381/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Shax HP:173/371 MP:327/360
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Pale Rider
-2-Shax
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Pale Rider use
-1-Pandemic Bomb MP:11
-2-Death's Door MP:10
-3-Deadly Wind MP:22
-4-Debilitate MP:50
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Pale Rider
-1-Demi-Fiend HP:851/1227 MP:834/834
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Pale Rider ataca a Demi-Fiend
-Demi-Fiend bloquea el ataque de Pale Rider
-Demi-Fiend termina con HP:851/1227
-----------------------------------------
-Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Demi-Fiend (J1)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:851/1227 MP:834/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:381/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Shax HP:173/371 MP:327/360
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Pale Rider HP:646/693 MP:288/310
-2-Shax HP:173/371 MP:327/360
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Pale Rider HP:646/693 MP:288/310
-2-Shax HP:173/371 MP:327/360
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Pale Rider HP:646/693 MP:288/310
-2-Shax HP:173/371 MP:327/360
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Demi-Fiend dispara a Shax
-Shax recibe 114 de daño
-Shax termina con HP:59/371
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Nahobino (J2)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:851/1227 MP:834/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:381/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Shax HP:59/371 MP:327/360
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Pale Rider
-2-Shax
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:851/1227 MP:834/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:381/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Shax HP:59/371 MP:327/360
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Shax
-2-Pale Rider
-----------------------------------------
-Seleccione una acción para Shax
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Shax use
-1-Deadly Wind MP:22
-2-Poison Breath MP:11
-3-Grand Tack MP:11
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Shax
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:851/1227 MP:834/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:381/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Shax HP:59/371 MP:327/360
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Pale Rider
-2-Shax
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Aniel HP:231/567 MP:218/255
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Pale Rider
-1-Demi-Fiend HP:851/1227 MP:834/834
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Pale Rider ataca a Demi-Fiend
-Demi-Fiend bloquea el ataque de Pale Rider
-Demi-Fiend termina con HP:851/1227
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Demi-Fiend (J1)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:851/1227 MP:834/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:381/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Shax HP:59/371 MP:327/360
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:851/1227 MP:834/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:381/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Shax HP:59/371 MP:327/360
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Demi-Fiend use
-1-Nihil Claw MP:11
-2-Diarahan MP:16
-3-Bouncing Claw MP:4
-4-Zandyne MP:14
-5-Fatal Sword MP:8
-6-Deadly Wind MP:22
+Seleccione una habilidad para que Shujinko use
+1-Mortal Jihad MP:13
+2-Fatal Sword MP:8
+3-Diarama MP:9
+4-Nihil Claw MP:11
+5-Agi MP:5
+6-Damascus Claw MP:7
 7-Cancelar
 INPUT: 4
 ----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Pale Rider HP:646/693 MP:288/310
-2-Shax HP:59/371 MP:327/360
+Seleccione un objetivo para Shujinko
+1-Kotone HP:323/597 MP:332/347
+2-Okiku-Mushi HP:219/273 MP:114/121
 3-Cancelar
 INPUT: 1
 ----------------------------------------
-Demi-Fiend lanza viento a Pale Rider
-Pale Rider devuelve 250 daño a Demi-Fiend
-Demi-Fiend termina con HP:601/1227
+Shujinko ataca a Kotone
+Kotone es resistente el ataque de Shujinko
+Kotone recibe 132 de daño
+Shujinko ataca a Kotone
+Kotone es resistente el ataque de Shujinko
+Kotone recibe 132 de daño
+Shujinko ataca a Kotone
+Kotone es resistente el ataque de Shujinko
+Kotone recibe 132 de daño
+Kotone termina con HP:0/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:0/597 MP:332/347
+B-Okiku-Mushi HP:219/273 MP:114/121
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:614/625
+B-Lham Dearg HP:4/91 MP:19/19
+C-Okiku-Mushi HP:221/273 MP:114/121
+D-Ammut HP:652/709 MP:140/140
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Okiku-Mushi
+3-Lham Dearg
+4-Shujinko
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ammut use
+1-Megaton Press MP:17
+2-War Cry MP:45
+3-Nihil Claw MP:11
+4-Energy Drain MP:10
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Okiku-Mushi HP:219/273 MP:114/121
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:0/597 MP:332/347
+B-Okiku-Mushi HP:219/273 MP:114/121
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:614/625
+B-Lham Dearg HP:4/91 MP:19/19
+C-Okiku-Mushi HP:221/273 MP:114/121
+D-Ammut HP:652/709 MP:140/140
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Okiku-Mushi
+2-Lham Dearg
+3-Shujinko
+4-Ammut
+----------------------------------------
+Seleccione una acción para Okiku-Mushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Arachne HP:233/350 MP:150/157
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Arachne ha sido invocado
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Nahobino (J2)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:601/1227 MP:820/834
-B-
+Equipo de Kotone (J1)
+A-Kotone HP:0/597 MP:332/347
+B-Okiku-Mushi HP:219/273 MP:114/121
 C-
 D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:381/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Shax HP:59/371 MP:327/360
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:614/625
+B-Lham Dearg HP:4/91 MP:19/19
+C-Arachne HP:233/350 MP:150/157
+D-Ammut HP:652/709 MP:140/140
 ----------------------------------------
 Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Pale Rider
-2-Shax
+1-Lham Dearg
+2-Shujinko
+3-Ammut
+4-Arachne
 ----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Pale Rider use
-1-Pandemic Bomb MP:11
-2-Death's Door MP:10
-3-Deadly Wind MP:22
-4-Debilitate MP:50
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Pale Rider
+Seleccione una acción para Lham Dearg
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -4054,315 +1779,27 @@ INPUT: 4
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:601/1227 MP:820/834
-B-
+Equipo de Kotone (J1)
+A-Kotone HP:0/597 MP:332/347
+B-Okiku-Mushi HP:219/273 MP:114/121
 C-
 D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:381/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Shax HP:59/371 MP:327/360
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:614/625
+B-Lham Dearg HP:4/91 MP:19/19
+C-Arachne HP:233/350 MP:150/157
+D-Ammut HP:652/709 MP:140/140
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Shax
-2-Pale Rider
+1-Shujinko
+2-Ammut
+3-Arachne
+4-Lham Dearg
 ----------------------------------------
-Seleccione una acción para Shax
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Shax
-1-Demi-Fiend HP:601/1227 MP:820/834
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Shax
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Aniel HP:231/567 MP:218/255
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Aniel ha sido invocado
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:601/1227 MP:820/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:381/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Aniel HP:231/567 MP:218/255
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Pale Rider
-2-Aniel
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Pale Rider use
-1-Pandemic Bomb MP:11
-2-Death's Door MP:10
-3-Deadly Wind MP:22
-4-Debilitate MP:50
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:601/1227 MP:820/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:381/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Aniel HP:231/567 MP:218/255
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Aniel
-2-Pale Rider
-----------------------------------------
-Seleccione una acción para Aniel
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Shax HP:59/371 MP:327/360
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Shax ha sido invocado
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Demi-Fiend (J1)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:601/1227 MP:820/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:381/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Shax HP:59/371 MP:327/360
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:601/1227 MP:820/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:381/389
-B-Pale Rider HP:646/693 MP:288/310
-C-
-D-Shax HP:59/371 MP:327/360
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Pale Rider HP:646/693 MP:288/310
-2-Shax HP:59/371 MP:327/360
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Demi-Fiend ataca a Pale Rider
-Pale Rider recibe 168 de daño
-Pale Rider termina con HP:478/693
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Nahobino (J2)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:601/1227 MP:820/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:381/389
-B-Pale Rider HP:478/693 MP:288/310
-C-
-D-Shax HP:59/371 MP:327/360
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Pale Rider
-2-Shax
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Pale Rider
-1-Demi-Fiend HP:601/1227 MP:820/834
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Pale Rider ataca a Demi-Fiend
-Demi-Fiend bloquea el ataque de Pale Rider
-Demi-Fiend termina con HP:601/1227
-----------------------------------------
-Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Demi-Fiend (J1)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:601/1227 MP:820/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:381/389
-B-Pale Rider HP:478/693 MP:288/310
-C-
-D-Shax HP:59/371 MP:327/360
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:601/1227 MP:820/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:381/389
-B-Pale Rider HP:478/693 MP:288/310
-C-
-D-Shax HP:59/371 MP:327/360
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Demi-Fiend
+Seleccione una acción para Shujinko
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -4371,17 +1808,55 @@ Seleccione una acción para Demi-Fiend
 6: Rendirse
 INPUT: 3
 ----------------------------------------
-Seleccione una habilidad para que Demi-Fiend use
-1-Nihil Claw MP:11
-2-Diarahan MP:16
-3-Bouncing Claw MP:4
-4-Zandyne MP:14
-5-Fatal Sword MP:8
-6-Deadly Wind MP:22
+Seleccione una habilidad para que Shujinko use
+1-Mortal Jihad MP:13
+2-Fatal Sword MP:8
+3-Diarama MP:9
+4-Nihil Claw MP:11
+5-Agi MP:5
+6-Damascus Claw MP:7
+7-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Okiku-Mushi HP:219/273 MP:114/121
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Okiku-Mushi HP:221/273 MP:114/121
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Mortal Jihad MP:13
+2-Fatal Sword MP:8
+3-Diarama MP:9
+4-Nihil Claw MP:11
+5-Agi MP:5
+6-Damascus Claw MP:7
 7-Cancelar
 INPUT: 7
 ----------------------------------------
-Seleccione una acción para Demi-Fiend
+Seleccione una acción para Shujinko
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -4390,177 +1865,69 @@ Seleccione una acción para Demi-Fiend
 6: Rendirse
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Pale Rider HP:478/693 MP:288/310
-2-Shax HP:59/371 MP:327/360
-3-Cancelar
-INPUT: 2
+Seleccione un objetivo para Shujinko
+1-Okiku-Mushi HP:219/273 MP:114/121
+2-Cancelar
+INPUT: 1
 ----------------------------------------
-Demi-Fiend ataca a Shax
-Shax recibe 168 de daño
-Shax termina con HP:0/371
+Shujinko ataca a Okiku-Mushi
+Okiku-Mushi recibe 187 de daño
+Okiku-Mushi termina con HP:32/273
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Nahobino (J2)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:601/1227 MP:820/834
-B-
+Equipo de Kotone (J1)
+A-Kotone HP:0/597 MP:332/347
+B-Okiku-Mushi HP:32/273 MP:114/121
 C-
 D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:381/389
-B-Pale Rider HP:478/693 MP:288/310
-C-
-D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:614/625
+B-Lham Dearg HP:4/91 MP:19/19
+C-Arachne HP:233/350 MP:150/157
+D-Ammut HP:652/709 MP:140/140
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Pale Rider
+1-Ammut
+2-Arachne
+3-Lham Dearg
+4-Shujinko
 ----------------------------------------
-Seleccione una acción para Pale Rider
+Seleccione una acción para Ammut
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Pale Rider
-1-Demi-Fiend HP:601/1227 MP:820/834
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Pale Rider ataca a Demi-Fiend
-Demi-Fiend bloquea el ataque de Pale Rider
-Demi-Fiend termina con HP:601/1227
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Demi-Fiend (J1)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:601/1227 MP:820/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:381/389
-B-Pale Rider HP:478/693 MP:288/310
-C-
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Pale Rider HP:478/693 MP:288/310
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Pale Rider HP:478/693 MP:288/310
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Demi-Fiend dispara a Pale Rider
-Pale Rider recibe 114 de daño
-Pale Rider termina con HP:364/693
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Nahobino (J2)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:601/1227 MP:820/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:381/389
-B-Pale Rider HP:364/693 MP:288/310
-C-
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Pale Rider
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Pale Rider
-1-Demi-Fiend HP:601/1227 MP:820/834
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Aniel HP:231/567 MP:218/255
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Aniel ha sido invocado
+INPUT: 4
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:601/1227 MP:820/834
-B-
+Equipo de Kotone (J1)
+A-Kotone HP:0/597 MP:332/347
+B-Okiku-Mushi HP:32/273 MP:114/121
 C-
 D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:381/389
-B-Aniel HP:231/567 MP:218/255
-C-
-D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:614/625
+B-Lham Dearg HP:4/91 MP:19/19
+C-Arachne HP:233/350 MP:150/157
+D-Ammut HP:652/709 MP:140/140
 ----------------------------------------
 Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Aniel
+1-Arachne
+2-Lham Dearg
+3-Shujinko
+4-Ammut
 ----------------------------------------
-Seleccione una acción para Aniel
+Seleccione una acción para Arachne
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -4570,728 +1937,88 @@ INPUT: 4
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Demi-Fiend (J1)
+Ronda de Kotone (J1)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:601/1227 MP:820/834
-B-
+Equipo de Kotone (J1)
+A-Kotone HP:0/597 MP:332/347
+B-Okiku-Mushi HP:32/273 MP:114/121
 C-
 D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:381/389
-B-Aniel HP:231/567 MP:218/255
-C-
-D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:614/625
+B-Lham Dearg HP:4/91 MP:19/19
+C-Arachne HP:233/350 MP:150/157
+D-Ammut HP:652/709 MP:140/140
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Demi-Fiend
+1-Okiku-Mushi
 ----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Aniel HP:231/567 MP:218/255
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Demi-Fiend ataca a Aniel
-Aniel recibe 168 de daño
-Aniel termina con HP:63/567
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Nahobino (J2)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:601/1227 MP:820/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:381/389
-B-Aniel HP:63/567 MP:218/255
-C-
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aniel
-----------------------------------------
-Seleccione una acción para Aniel
+Seleccione una acción para Okiku-Mushi
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Aniel
-1-Demi-Fiend HP:601/1227 MP:820/834
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aniel
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Pale Rider HP:364/693 MP:288/310
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Pale Rider ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:601/1227 MP:820/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:381/389
-B-Pale Rider HP:364/693 MP:288/310
-C-
-D-
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Pale Rider
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Pale Rider
-1-Demi-Fiend HP:601/1227 MP:820/834
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Pale Rider use
-1-Pandemic Bomb MP:11
-2-Death's Door MP:10
-3-Deadly Wind MP:22
-4-Debilitate MP:50
+Seleccione un objetivo para Okiku-Mushi
+1-Shujinko HP:1317/1317 MP:614/625
+2-Lham Dearg HP:4/91 MP:19/19
+3-Arachne HP:233/350 MP:150/157
+4-Ammut HP:652/709 MP:140/140
 5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Pale Rider
-1-Demi-Fiend HP:601/1227 MP:820/834
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Pale Rider
-1-Demi-Fiend HP:601/1227 MP:820/834
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Pale Rider ataca a Demi-Fiend
-Demi-Fiend bloquea el ataque de Pale Rider
-Demi-Fiend termina con HP:601/1227
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Demi-Fiend (J1)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:601/1227 MP:820/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:381/389
-B-Pale Rider HP:364/693 MP:288/310
-C-
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
 INPUT: 3
 ----------------------------------------
-Seleccione una habilidad para que Demi-Fiend use
-1-Nihil Claw MP:11
-2-Diarahan MP:16
-3-Bouncing Claw MP:4
-4-Zandyne MP:14
-5-Fatal Sword MP:8
-6-Deadly Wind MP:22
-7-Cancelar
-INPUT: 7
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Demi-Fiend use
-1-Nihil Claw MP:11
-2-Diarahan MP:16
-3-Bouncing Claw MP:4
-4-Zandyne MP:14
-5-Fatal Sword MP:8
-6-Deadly Wind MP:22
-7-Cancelar
-INPUT: 6
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Pale Rider HP:364/693 MP:288/310
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Demi-Fiend use
-1-Nihil Claw MP:11
-2-Diarahan MP:16
-3-Bouncing Claw MP:4
-4-Zandyne MP:14
-5-Fatal Sword MP:8
-6-Deadly Wind MP:22
-7-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Demi-Fiend HP:601/1227 MP:820/834
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Pale Rider HP:364/693 MP:288/310
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Demi-Fiend ataca a Pale Rider
-Pale Rider recibe 168 de daño
-Pale Rider termina con HP:196/693
+Okiku-Mushi ataca a Arachne
+Arachne recibe 21 de daño
+Arachne termina con HP:212/350
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Nahobino (J2)
+Ronda de Shujinko (J2)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:601/1227 MP:820/834
-B-
+Equipo de Kotone (J1)
+A-Kotone HP:0/597 MP:332/347
+B-Okiku-Mushi HP:32/273 MP:114/121
 C-
 D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:381/389
-B-Pale Rider HP:196/693 MP:288/310
-C-
-D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:614/625
+B-Lham Dearg HP:4/91 MP:19/19
+C-Arachne HP:212/350 MP:150/157
+D-Ammut HP:652/709 MP:140/140
 ----------------------------------------
-Full Turns: 1
+Full Turns: 4
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Pale Rider
+1-Shujinko
+2-Ammut
+3-Arachne
+4-Lham Dearg
 ----------------------------------------
-Seleccione una acción para Pale Rider
+Seleccione una acción para Shujinko
 1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Pale Rider
-1-Demi-Fiend HP:601/1227 MP:820/834
+Seleccione un objetivo para Shujinko
+1-Okiku-Mushi HP:32/273 MP:114/121
 2-Cancelar
 INPUT: 1
 ----------------------------------------
-Pale Rider ataca a Demi-Fiend
-Demi-Fiend bloquea el ataque de Pale Rider
-Demi-Fiend termina con HP:601/1227
+Shujinko ataca a Okiku-Mushi
+Okiku-Mushi recibe 187 de daño
+Okiku-Mushi termina con HP:0/273
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Demi-Fiend (J1)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:601/1227 MP:820/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:381/389
-B-Pale Rider HP:196/693 MP:288/310
-C-
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Pale Rider HP:196/693 MP:288/310
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Demi-Fiend use
-1-Nihil Claw MP:11
-2-Diarahan MP:16
-3-Bouncing Claw MP:4
-4-Zandyne MP:14
-5-Fatal Sword MP:8
-6-Deadly Wind MP:22
-7-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Demi-Fiend HP:601/1227 MP:820/834
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Demi-Fiend cura a Demi-Fiend
-Demi-Fiend recibe 1227 de HP
-Demi-Fiend termina con HP:1227/1227
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Nahobino (J2)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:804/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:381/389
-B-Pale Rider HP:196/693 MP:288/310
-C-
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Pale Rider
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:804/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:381/389
-B-Pale Rider HP:196/693 MP:288/310
-C-
-D-
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Pale Rider
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Pale Rider
-1-Demi-Fiend HP:1227/1227 MP:804/834
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Pale Rider ataca a Demi-Fiend
-Demi-Fiend bloquea el ataque de Pale Rider
-Demi-Fiend termina con HP:1227/1227
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Demi-Fiend (J1)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:804/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:381/389
-B-Pale Rider HP:196/693 MP:288/310
-C-
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Pale Rider HP:196/693 MP:288/310
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Pale Rider HP:196/693 MP:288/310
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Pale Rider HP:196/693 MP:288/310
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Demi-Fiend ataca a Pale Rider
-Pale Rider recibe 168 de daño
-Pale Rider termina con HP:28/693
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Nahobino (J2)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:804/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:381/389
-B-Pale Rider HP:28/693 MP:288/310
-C-
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Pale Rider
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Pale Rider use
-1-Pandemic Bomb MP:11
-2-Death's Door MP:10
-3-Deadly Wind MP:22
-4-Debilitate MP:50
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Pale Rider use
-1-Pandemic Bomb MP:11
-2-Death's Door MP:10
-3-Deadly Wind MP:22
-4-Debilitate MP:50
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:804/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:381/389
-B-Pale Rider HP:28/693 MP:288/310
-C-
-D-
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Pale Rider
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Aniel HP:63/567 MP:218/255
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Aniel ha sido invocado
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Demi-Fiend (J1)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:804/834
-B-
-C-
-D-
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:381/389
-B-Aniel HP:63/567 MP:218/255
-C-
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Demi-Fiend use
-1-Nihil Claw MP:11
-2-Diarahan MP:16
-3-Bouncing Claw MP:4
-4-Zandyne MP:14
-5-Fatal Sword MP:8
-6-Deadly Wind MP:22
-7-Cancelar
-INPUT: 7
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Aniel HP:63/567 MP:218/255
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Demi-Fiend use
-1-Nihil Claw MP:11
-2-Diarahan MP:16
-3-Bouncing Claw MP:4
-4-Zandyne MP:14
-5-Fatal Sword MP:8
-6-Deadly Wind MP:22
-7-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Aniel HP:63/567 MP:218/255
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Demi-Fiend ataca a Aniel
-Aniel recibe 147 de daño
-Demi-Fiend ataca a Aniel
-Aniel recibe 147 de daño
-Demi-Fiend ataca a Aniel
-Aniel recibe 147 de daño
-Aniel termina con HP:0/567
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ganador: Demi-Fiend (J1)
+Ganador: Shujinko (J2)

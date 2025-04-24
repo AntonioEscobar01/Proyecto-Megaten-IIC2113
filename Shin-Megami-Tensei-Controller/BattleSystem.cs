@@ -184,14 +184,7 @@ public class BattleSystem
         // Aplicar cada hit individualmente
         for (int i = 0; i < numberOfHits; i++)
         {
-            // Si el objetivo está muerto (o el atacante en caso de repel), no continuar
-            // if ((GetUnitHp(target) <= 0 && affinity != REPEL_AFFINITY) ||
-            //     (GetUnitHp(attacker) <= 0 && affinity == REPEL_AFFINITY))
-            // {
-            //     break;
-            // }
-
-            // Mostrar mensaje de ataque para cada hit
+            
             string actionVerb = skill.GetSkillActionVerb(skillType);
             _gameUi.WriteLine($"{attackerName} {actionVerb} {targetName}");
 

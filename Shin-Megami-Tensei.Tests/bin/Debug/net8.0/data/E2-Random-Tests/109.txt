@@ -201,2207 +201,1079 @@ Elige un archivo para cargar los equipos
 199: 200.txt
 INPUT: 108
 ----------------------------------------
-Ronda de Shujinko (J1)
+Ronda de Kyouji (J1)
 ----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1317/1317 MP:625/625
-B-Kikuri-Hime HP:216/216 MP:210/210
-C-Zouchouten HP:221/221 MP:214/214
-D-Sphinx HP:376/376 MP:364/364
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-
+C-
+D-
 Equipo de Nahobino (J2)
 A-Nahobino HP:453/453 MP:389/389
-B-Nadja HP:399/399 MP:179/179
-C-Anubis HP:497/497 MP:223/223
-D-
+B-Fortuna HP:147/147 MP:66/66
+C-Lailah HP:212/212 MP:205/205
+D-Peri HP:483/483 MP:216/216
 ----------------------------------------
-Full Turns: 4
+Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Shujinko
-2-Sphinx
-3-Kikuri-Hime
-4-Zouchouten
+1-Kyouji
 ----------------------------------------
-Seleccione una acción para Shujinko
+Seleccione una acción para Kyouji
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 5
+INPUT: 3
 ----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1317/1317 MP:625/625
-B-Kikuri-Hime HP:216/216 MP:210/210
-C-Zouchouten HP:221/221 MP:214/214
-D-Sphinx HP:376/376 MP:364/364
-Equipo de Nahobino (J2)
-A-Nahobino HP:453/453 MP:389/389
-B-Nadja HP:399/399 MP:179/179
-C-Anubis HP:497/497 MP:223/223
-D-
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Sphinx
-2-Kikuri-Hime
-3-Zouchouten
-4-Shujinko
-----------------------------------------
-Seleccione una acción para Sphinx
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
+Seleccione una habilidad para que Kyouji use
+1-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Sphinx
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kyouji
 1-Nahobino HP:453/453 MP:389/389
-2-Nadja HP:399/399 MP:179/179
-3-Anubis HP:497/497 MP:223/223
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Sphinx ataca a Nahobino
-Nahobino recibe 52 de daño
-Nahobino termina con HP:401/453
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1317/1317 MP:625/625
-B-Kikuri-Hime HP:216/216 MP:210/210
-C-Zouchouten HP:221/221 MP:214/214
-D-Sphinx HP:376/376 MP:364/364
-Equipo de Nahobino (J2)
-A-Nahobino HP:401/453 MP:389/389
-B-Nadja HP:399/399 MP:179/179
-C-Anubis HP:497/497 MP:223/223
-D-
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Kikuri-Hime
-2-Zouchouten
-3-Shujinko
-4-Sphinx
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1317/1317 MP:625/625
-B-Kikuri-Hime HP:216/216 MP:210/210
-C-Zouchouten HP:221/221 MP:214/214
-D-Sphinx HP:376/376 MP:364/364
-Equipo de Nahobino (J2)
-A-Nahobino HP:401/453 MP:389/389
-B-Nadja HP:399/399 MP:179/179
-C-Anubis HP:497/497 MP:223/223
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Zouchouten
-2-Shujinko
-3-Sphinx
-4-Kikuri-Hime
-----------------------------------------
-Seleccione una acción para Zouchouten
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1317/1317 MP:625/625
-B-Kikuri-Hime HP:216/216 MP:210/210
-C-Zouchouten HP:221/221 MP:214/214
-D-Sphinx HP:376/376 MP:364/364
-Equipo de Nahobino (J2)
-A-Nahobino HP:401/453 MP:389/389
-B-Nadja HP:399/399 MP:179/179
-C-Anubis HP:497/497 MP:223/223
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shujinko
-2-Sphinx
-3-Kikuri-Hime
-4-Zouchouten
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1317/1317 MP:625/625
-B-Kikuri-Hime HP:216/216 MP:210/210
-C-Zouchouten HP:221/221 MP:214/214
-D-Sphinx HP:376/376 MP:364/364
-Equipo de Nahobino (J2)
-A-Nahobino HP:401/453 MP:389/389
-B-Nadja HP:399/399 MP:179/179
-C-Anubis HP:497/497 MP:223/223
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Sphinx
-2-Kikuri-Hime
-3-Zouchouten
-4-Shujinko
-----------------------------------------
-Seleccione una acción para Sphinx
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Sphinx
-1-Nahobino HP:401/453 MP:389/389
-2-Nadja HP:399/399 MP:179/179
-3-Anubis HP:497/497 MP:223/223
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Sphinx
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1317/1317 MP:625/625
-B-Kikuri-Hime HP:216/216 MP:210/210
-C-Zouchouten HP:221/221 MP:214/214
-D-Sphinx HP:376/376 MP:364/364
-Equipo de Nahobino (J2)
-A-Nahobino HP:401/453 MP:389/389
-B-Nadja HP:399/399 MP:179/179
-C-Anubis HP:497/497 MP:223/223
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Kikuri-Hime
-2-Zouchouten
-3-Shujinko
-4-Sphinx
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Kikuri-Hime use
-1-Tetraja MP:15
-2-Me Patra MP:15
-3-Diarama MP:9
-4-Recarm MP:20
-5-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione un objetivo para Kikuri-Hime
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1317/1317 MP:625/625
-B-Kikuri-Hime HP:216/216 MP:210/210
-C-Zouchouten HP:221/221 MP:214/214
-D-Sphinx HP:376/376 MP:364/364
-Equipo de Nahobino (J2)
-A-Nahobino HP:401/453 MP:389/389
-B-Nadja HP:399/399 MP:179/179
-C-Anubis HP:497/497 MP:223/223
-D-
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Zouchouten
-2-Shujinko
-3-Sphinx
-4-Kikuri-Hime
-----------------------------------------
-Seleccione una acción para Zouchouten
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Zouchouten use
-1-Agidyne MP:14
-2-Dream Fist MP:9
-3-Myriad Arrows MP:30
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Zouchouten
-1-Nahobino HP:401/453 MP:389/389
-2-Nadja HP:399/399 MP:179/179
-3-Anubis HP:497/497 MP:223/223
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Zouchouten lanza fuego a Nahobino
-Nahobino es resistente el ataque de Zouchouten
-Nahobino recibe 52 de daño
-Nahobino termina con HP:349/453
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Nahobino (J2)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1317/1317 MP:625/625
-B-Kikuri-Hime HP:216/216 MP:210/210
-C-Zouchouten HP:221/221 MP:200/214
-D-Sphinx HP:376/376 MP:364/364
-Equipo de Nahobino (J2)
-A-Nahobino HP:349/453 MP:389/389
-B-Nadja HP:399/399 MP:179/179
-C-Anubis HP:497/497 MP:223/223
-D-
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Anubis
-2-Nadja
-3-Nahobino
-----------------------------------------
-Seleccione una acción para Anubis
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Anubis
-1-Shujinko HP:1317/1317 MP:625/625
-2-Kikuri-Hime HP:216/216 MP:210/210
-3-Zouchouten HP:221/221 MP:200/214
-4-Sphinx HP:376/376 MP:364/364
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Anubis ataca a Shujinko
-Shujinko es resistente el ataque de Anubis
-Shujinko recibe 20 de daño
-Shujinko termina con HP:1297/1317
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1297/1317 MP:625/625
-B-Kikuri-Hime HP:216/216 MP:210/210
-C-Zouchouten HP:221/221 MP:200/214
-D-Sphinx HP:376/376 MP:364/364
-Equipo de Nahobino (J2)
-A-Nahobino HP:349/453 MP:389/389
-B-Nadja HP:399/399 MP:179/179
-C-Anubis HP:497/497 MP:223/223
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Nadja
-2-Nahobino
-3-Anubis
-----------------------------------------
-Seleccione una acción para Nadja
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Nadja
-1-Shujinko HP:1297/1317 MP:625/625
-2-Kikuri-Hime HP:216/216 MP:210/210
-3-Zouchouten HP:221/221 MP:200/214
-4-Sphinx HP:376/376 MP:364/364
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Nadja ataca a Zouchouten
-Zouchouten recibe 32 de daño
-Zouchouten termina con HP:189/221
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1297/1317 MP:625/625
-B-Kikuri-Hime HP:216/216 MP:210/210
-C-Zouchouten HP:189/221 MP:200/214
-D-Sphinx HP:376/376 MP:364/364
-Equipo de Nahobino (J2)
-A-Nahobino HP:349/453 MP:389/389
-B-Nadja HP:399/399 MP:179/179
-C-Anubis HP:497/497 MP:223/223
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Nahobino
-2-Anubis
-3-Nadja
-----------------------------------------
-Seleccione una acción para Nahobino
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1297/1317 MP:625/625
-B-Kikuri-Hime HP:216/216 MP:210/210
-C-Zouchouten HP:189/221 MP:200/214
-D-Sphinx HP:376/376 MP:364/364
-Equipo de Nahobino (J2)
-A-Nahobino HP:349/453 MP:389/389
-B-Nadja HP:399/399 MP:179/179
-C-Anubis HP:497/497 MP:223/223
-D-
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Anubis
-2-Nadja
-3-Nahobino
-----------------------------------------
-Seleccione una acción para Anubis
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Shujinko (J1)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1297/1317 MP:625/625
-B-Kikuri-Hime HP:216/216 MP:210/210
-C-Zouchouten HP:189/221 MP:200/214
-D-Sphinx HP:376/376 MP:364/364
-Equipo de Nahobino (J2)
-A-Nahobino HP:349/453 MP:389/389
-B-Nadja HP:399/399 MP:179/179
-C-Anubis HP:497/497 MP:223/223
-D-
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shujinko
-2-Sphinx
-3-Kikuri-Hime
-4-Zouchouten
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Nahobino HP:349/453 MP:389/389
-2-Nadja HP:399/399 MP:179/179
-3-Anubis HP:497/497 MP:223/223
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Shujinko dispara a Nadja
-Nadja recibe 228 de daño
-Nadja termina con HP:171/399
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1297/1317 MP:625/625
-B-Kikuri-Hime HP:216/216 MP:210/210
-C-Zouchouten HP:189/221 MP:200/214
-D-Sphinx HP:376/376 MP:364/364
-Equipo de Nahobino (J2)
-A-Nahobino HP:349/453 MP:389/389
-B-Nadja HP:171/399 MP:179/179
-C-Anubis HP:497/497 MP:223/223
-D-
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Sphinx
-2-Kikuri-Hime
-3-Zouchouten
-4-Shujinko
-----------------------------------------
-Seleccione una acción para Sphinx
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Sphinx
-1-Nahobino HP:349/453 MP:389/389
-2-Nadja HP:171/399 MP:179/179
-3-Anubis HP:497/497 MP:223/223
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Sphinx ataca a Nadja
-Nadja recibe 52 de daño
-Nadja termina con HP:119/399
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1297/1317 MP:625/625
-B-Kikuri-Hime HP:216/216 MP:210/210
-C-Zouchouten HP:189/221 MP:200/214
-D-Sphinx HP:376/376 MP:364/364
-Equipo de Nahobino (J2)
-A-Nahobino HP:349/453 MP:389/389
-B-Nadja HP:119/399 MP:179/179
-C-Anubis HP:497/497 MP:223/223
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Kikuri-Hime
-2-Zouchouten
-3-Shujinko
-4-Sphinx
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Gurulu HP:371/371 MP:166/166
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Gurulu ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1297/1317 MP:625/625
-B-Gurulu HP:371/371 MP:166/166
-C-Zouchouten HP:189/221 MP:200/214
-D-Sphinx HP:376/376 MP:364/364
-Equipo de Nahobino (J2)
-A-Nahobino HP:349/453 MP:389/389
-B-Nadja HP:119/399 MP:179/179
-C-Anubis HP:497/497 MP:223/223
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Zouchouten
-2-Shujinko
-3-Sphinx
-4-Gurulu
-----------------------------------------
-Seleccione una acción para Zouchouten
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Zouchouten
-1-Nahobino HP:349/453 MP:389/389
-2-Nadja HP:119/399 MP:179/179
-3-Anubis HP:497/497 MP:223/223
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Zouchouten ataca a Anubis
-Anubis recibe 22 de daño
-Anubis termina con HP:475/497
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1297/1317 MP:625/625
-B-Gurulu HP:371/371 MP:166/166
-C-Zouchouten HP:189/221 MP:200/214
-D-Sphinx HP:376/376 MP:364/364
-Equipo de Nahobino (J2)
-A-Nahobino HP:349/453 MP:389/389
-B-Nadja HP:119/399 MP:179/179
-C-Anubis HP:475/497 MP:223/223
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shujinko
-2-Sphinx
-3-Gurulu
-4-Zouchouten
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1297/1317 MP:625/625
-B-Gurulu HP:371/371 MP:166/166
-C-Zouchouten HP:189/221 MP:200/214
-D-Sphinx HP:376/376 MP:364/364
-Equipo de Nahobino (J2)
-A-Nahobino HP:349/453 MP:389/389
-B-Nadja HP:119/399 MP:179/179
-C-Anubis HP:475/497 MP:223/223
-D-
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Sphinx
-2-Gurulu
-3-Zouchouten
-4-Shujinko
-----------------------------------------
-Seleccione una acción para Sphinx
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Sphinx use
-1-Mediarahan MP:40
-2-Mahamaon MP:30
-3-Grand Tack MP:11
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Sphinx
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Kikuri-Hime HP:216/216 MP:210/210
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Sphinx
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Nahobino (J2)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1297/1317 MP:625/625
-B-Gurulu HP:371/371 MP:166/166
-C-Zouchouten HP:189/221 MP:200/214
-D-Sphinx HP:376/376 MP:364/364
-Equipo de Nahobino (J2)
-A-Nahobino HP:349/453 MP:389/389
-B-Nadja HP:119/399 MP:179/179
-C-Anubis HP:475/497 MP:223/223
-D-
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Anubis
-2-Nadja
-3-Nahobino
-----------------------------------------
-Seleccione una acción para Anubis
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1297/1317 MP:625/625
-B-Gurulu HP:371/371 MP:166/166
-C-Zouchouten HP:189/221 MP:200/214
-D-Sphinx HP:376/376 MP:364/364
-Equipo de Nahobino (J2)
-A-Nahobino HP:349/453 MP:389/389
-B-Nadja HP:119/399 MP:179/179
-C-Anubis HP:475/497 MP:223/223
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Nadja
-2-Nahobino
-3-Anubis
-----------------------------------------
-Seleccione una acción para Nadja
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1297/1317 MP:625/625
-B-Gurulu HP:371/371 MP:166/166
-C-Zouchouten HP:189/221 MP:200/214
-D-Sphinx HP:376/376 MP:364/364
-Equipo de Nahobino (J2)
-A-Nahobino HP:349/453 MP:389/389
-B-Nadja HP:119/399 MP:179/179
-C-Anubis HP:475/497 MP:223/223
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Nahobino
-2-Anubis
-3-Nadja
-----------------------------------------
-Seleccione una acción para Nahobino
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Nahobino
-1-Shujinko HP:1297/1317 MP:625/625
-2-Gurulu HP:371/371 MP:166/166
-3-Zouchouten HP:189/221 MP:200/214
-4-Sphinx HP:376/376 MP:364/364
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Nahobino ataca a Zouchouten
-Zouchouten recibe 29 de daño
-Zouchouten termina con HP:160/221
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1297/1317 MP:625/625
-B-Gurulu HP:371/371 MP:166/166
-C-Zouchouten HP:160/221 MP:200/214
-D-Sphinx HP:376/376 MP:364/364
-Equipo de Nahobino (J2)
-A-Nahobino HP:349/453 MP:389/389
-B-Nadja HP:119/399 MP:179/179
-C-Anubis HP:475/497 MP:223/223
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Anubis
-2-Nadja
-3-Nahobino
-----------------------------------------
-Seleccione una acción para Anubis
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Anubis
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Anubis use
-1-Judgement Light MP:45
-2-Mamudoon MP:30
-3-Samarecarm MP:40
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Anubis
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Anubis
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Anubis
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Anubis
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Anubis
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Anubis
-1-Shujinko HP:1297/1317 MP:625/625
-2-Gurulu HP:371/371 MP:166/166
-3-Zouchouten HP:160/221 MP:200/214
-4-Sphinx HP:376/376 MP:364/364
-5-Cancelar
-INPUT: 4
-----------------------------------------
-Anubis ataca a Sphinx
-Sphinx recibe 41 de daño
-Sphinx termina con HP:335/376
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Shujinko (J1)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1297/1317 MP:625/625
-B-Gurulu HP:371/371 MP:166/166
-C-Zouchouten HP:160/221 MP:200/214
-D-Sphinx HP:335/376 MP:364/364
-Equipo de Nahobino (J2)
-A-Nahobino HP:349/453 MP:389/389
-B-Nadja HP:119/399 MP:179/179
-C-Anubis HP:475/497 MP:223/223
-D-
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shujinko
-2-Sphinx
-3-Gurulu
-4-Zouchouten
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Kikuri-Hime HP:216/216 MP:210/210
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una posición para invocar
-1-Gurulu HP:371/371 MP:166/166 (Puesto 2)
-2-Zouchouten HP:160/221 MP:200/214 (Puesto 3)
-3-Sphinx HP:335/376 MP:364/364 (Puesto 4)
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Kikuri-Hime ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1297/1317 MP:625/625
-B-Gurulu HP:371/371 MP:166/166
-C-Zouchouten HP:160/221 MP:200/214
-D-Kikuri-Hime HP:216/216 MP:210/210
-Equipo de Nahobino (J2)
-A-Nahobino HP:349/453 MP:389/389
-B-Nadja HP:119/399 MP:179/179
-C-Anubis HP:475/497 MP:223/223
-D-
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Kikuri-Hime
-2-Gurulu
-3-Zouchouten
-4-Shujinko
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1297/1317 MP:625/625
-B-Gurulu HP:371/371 MP:166/166
-C-Zouchouten HP:160/221 MP:200/214
-D-Kikuri-Hime HP:216/216 MP:210/210
-Equipo de Nahobino (J2)
-A-Nahobino HP:349/453 MP:389/389
-B-Nadja HP:119/399 MP:179/179
-C-Anubis HP:475/497 MP:223/223
-D-
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Gurulu
-2-Zouchouten
-3-Shujinko
-4-Kikuri-Hime
-----------------------------------------
-Seleccione una acción para Gurulu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Gurulu use
-1-Mazanma MP:20
-2-Axel Claw MP:15
-3-Nihil Claw MP:11
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Gurulu
-1-Nahobino HP:349/453 MP:389/389
-2-Nadja HP:119/399 MP:179/179
-3-Anubis HP:475/497 MP:223/223
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Gurulu ataca a Anubis
-Anubis recibe 103 de daño
-Gurulu ataca a Anubis
-Anubis recibe 103 de daño
-Anubis termina con HP:269/497
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1297/1317 MP:625/625
-B-Gurulu HP:371/371 MP:151/166
-C-Zouchouten HP:160/221 MP:200/214
-D-Kikuri-Hime HP:216/216 MP:210/210
-Equipo de Nahobino (J2)
-A-Nahobino HP:349/453 MP:389/389
-B-Nadja HP:119/399 MP:179/179
-C-Anubis HP:269/497 MP:223/223
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Zouchouten
-2-Shujinko
-3-Kikuri-Hime
-4-Gurulu
-----------------------------------------
-Seleccione una acción para Zouchouten
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1297/1317 MP:625/625
-B-Gurulu HP:371/371 MP:151/166
-C-Zouchouten HP:160/221 MP:200/214
-D-Kikuri-Hime HP:216/216 MP:210/210
-Equipo de Nahobino (J2)
-A-Nahobino HP:349/453 MP:389/389
-B-Nadja HP:119/399 MP:179/179
-C-Anubis HP:269/497 MP:223/223
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Shujinko
-2-Kikuri-Hime
-3-Gurulu
-4-Zouchouten
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Sphinx HP:335/376 MP:364/364
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una posición para invocar
-1-Gurulu HP:371/371 MP:151/166 (Puesto 2)
-2-Zouchouten HP:160/221 MP:200/214 (Puesto 3)
-3-Kikuri-Hime HP:216/216 MP:210/210 (Puesto 4)
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Sphinx ha sido invocado
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1297/1317 MP:625/625
-B-Gurulu HP:371/371 MP:151/166
-C-Sphinx HP:335/376 MP:364/364
-D-Kikuri-Hime HP:216/216 MP:210/210
-Equipo de Nahobino (J2)
-A-Nahobino HP:349/453 MP:389/389
-B-Nadja HP:119/399 MP:179/179
-C-Anubis HP:269/497 MP:223/223
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Kikuri-Hime
-2-Gurulu
-3-Sphinx
-4-Shujinko
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Zouchouten HP:160/221 MP:200/214
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Zouchouten ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1297/1317 MP:625/625
-B-Gurulu HP:371/371 MP:151/166
-C-Sphinx HP:335/376 MP:364/364
-D-Zouchouten HP:160/221 MP:200/214
-Equipo de Nahobino (J2)
-A-Nahobino HP:349/453 MP:389/389
-B-Nadja HP:119/399 MP:179/179
-C-Anubis HP:269/497 MP:223/223
-D-
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Gurulu
-2-Sphinx
-3-Shujinko
-4-Zouchouten
-----------------------------------------
-Seleccione una acción para Gurulu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Nahobino (J2)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1297/1317 MP:625/625
-B-Gurulu HP:371/371 MP:151/166
-C-Sphinx HP:335/376 MP:364/364
-D-Zouchouten HP:160/221 MP:200/214
-Equipo de Nahobino (J2)
-A-Nahobino HP:349/453 MP:389/389
-B-Nadja HP:119/399 MP:179/179
-C-Anubis HP:269/497 MP:223/223
-D-
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Anubis
-2-Nadja
-3-Nahobino
-----------------------------------------
-Seleccione una acción para Anubis
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Anubis use
-1-Judgement Light MP:45
-2-Mamudoon MP:30
-3-Samarecarm MP:40
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Anubis
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Anubis
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Anubis
-1-Shujinko HP:1297/1317 MP:625/625
-2-Gurulu HP:371/371 MP:151/166
-3-Sphinx HP:335/376 MP:364/364
-4-Zouchouten HP:160/221 MP:200/214
+2-Fortuna HP:147/147 MP:66/66
+3-Lailah HP:212/212 MP:205/205
+4-Peri HP:483/483 MP:216/216
 5-Cancelar
 INPUT: 5
 ----------------------------------------
-Seleccione una acción para Anubis
+Seleccione una acción para Kyouji
 1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
 INPUT: 1
 ----------------------------------------
-Seleccione una acción para Anubis
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Anubis
-1-Shujinko HP:1297/1317 MP:625/625
-2-Gurulu HP:371/371 MP:151/166
-3-Sphinx HP:335/376 MP:364/364
-4-Zouchouten HP:160/221 MP:200/214
+Seleccione un objetivo para Kyouji
+1-Nahobino HP:453/453 MP:389/389
+2-Fortuna HP:147/147 MP:66/66
+3-Lailah HP:212/212 MP:205/205
+4-Peri HP:483/483 MP:216/216
 5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Anubis
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Anubis use
-1-Judgement Light MP:45
-2-Mamudoon MP:30
-3-Samarecarm MP:40
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Anubis
-1-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione una acción para Anubis
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Anubis use
-1-Judgement Light MP:45
-2-Mamudoon MP:30
-3-Samarecarm MP:40
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Anubis
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Anubis
-1-Shujinko HP:1297/1317 MP:625/625
-2-Gurulu HP:371/371 MP:151/166
-3-Sphinx HP:335/376 MP:364/364
-4-Zouchouten HP:160/221 MP:200/214
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Anubis ataca a Gurulu
-Gurulu recibe 41 de daño
-Gurulu termina con HP:330/371
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1297/1317 MP:625/625
-B-Gurulu HP:330/371 MP:151/166
-C-Sphinx HP:335/376 MP:364/364
-D-Zouchouten HP:160/221 MP:200/214
-Equipo de Nahobino (J2)
-A-Nahobino HP:349/453 MP:389/389
-B-Nadja HP:119/399 MP:179/179
-C-Anubis HP:269/497 MP:223/223
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Nadja
-2-Nahobino
-3-Anubis
-----------------------------------------
-Seleccione una acción para Nadja
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Nadja
-1-Shujinko HP:1297/1317 MP:625/625
-2-Gurulu HP:330/371 MP:151/166
-3-Sphinx HP:335/376 MP:364/364
-4-Zouchouten HP:160/221 MP:200/214
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Nadja ataca a Sphinx
-Sphinx recibe 32 de daño
-Sphinx termina con HP:303/376
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1297/1317 MP:625/625
-B-Gurulu HP:330/371 MP:151/166
-C-Sphinx HP:303/376 MP:364/364
-D-Zouchouten HP:160/221 MP:200/214
-Equipo de Nahobino (J2)
-A-Nahobino HP:349/453 MP:389/389
-B-Nadja HP:119/399 MP:179/179
-C-Anubis HP:269/497 MP:223/223
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Nahobino
-2-Anubis
-3-Nadja
-----------------------------------------
-Seleccione una acción para Nahobino
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Nahobino use
-1-Deadly Wind MP:22
-2-Samarecarm MP:40
-3-Grand Tack MP:11
-4-Zanma MP:8
-5-Nihil Claw MP:11
-6-Bufula MP:8
-7-Bouncing Claw MP:4
-8-Gram Slice MP:5
-9-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Nahobino
-1-Shujinko HP:1297/1317 MP:625/625
-2-Gurulu HP:330/371 MP:151/166
-3-Sphinx HP:303/376 MP:364/364
-4-Zouchouten HP:160/221 MP:200/214
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Nahobino dispara a Gurulu
-Gurulu recibe 143 de daño
-Gurulu termina con HP:187/371
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Shujinko (J1)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1297/1317 MP:625/625
-B-Gurulu HP:187/371 MP:151/166
-C-Sphinx HP:303/376 MP:364/364
-D-Zouchouten HP:160/221 MP:200/214
-Equipo de Nahobino (J2)
-A-Nahobino HP:349/453 MP:378/389
-B-Nadja HP:119/399 MP:179/179
-C-Anubis HP:269/497 MP:223/223
-D-
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shujinko
-2-Sphinx
-3-Gurulu
-4-Zouchouten
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Kikuri-Hime HP:216/216 MP:210/210
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Nahobino HP:349/453 MP:378/389
-2-Nadja HP:119/399 MP:179/179
-3-Anubis HP:269/497 MP:223/223
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Shujinko ataca a Nadja
-Nadja recibe 187 de daño
-Nadja termina con HP:0/399
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1297/1317 MP:625/625
-B-Gurulu HP:187/371 MP:151/166
-C-Sphinx HP:303/376 MP:364/364
-D-Zouchouten HP:160/221 MP:200/214
-Equipo de Nahobino (J2)
-A-Nahobino HP:349/453 MP:378/389
-B-
-C-Anubis HP:269/497 MP:223/223
-D-
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Sphinx
-2-Gurulu
-3-Zouchouten
-4-Shujinko
-----------------------------------------
-Seleccione una acción para Sphinx
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Sphinx use
-1-Mediarahan MP:40
-2-Mahamaon MP:30
-3-Grand Tack MP:11
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Sphinx
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Sphinx use
-1-Mediarahan MP:40
-2-Mahamaon MP:30
-3-Grand Tack MP:11
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Sphinx
-1-Nahobino HP:349/453 MP:378/389
-2-Anubis HP:269/497 MP:223/223
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Sphinx dispara a Anubis
-Anubis recibe 128 de daño
-Anubis termina con HP:141/497
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1297/1317 MP:625/625
-B-Gurulu HP:187/371 MP:151/166
-C-Sphinx HP:303/376 MP:353/364
-D-Zouchouten HP:160/221 MP:200/214
-Equipo de Nahobino (J2)
-A-Nahobino HP:349/453 MP:378/389
-B-
-C-Anubis HP:141/497 MP:223/223
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Gurulu
-2-Zouchouten
-3-Shujinko
-4-Sphinx
-----------------------------------------
-Seleccione una acción para Gurulu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1297/1317 MP:625/625
-B-Gurulu HP:187/371 MP:151/166
-C-Sphinx HP:303/376 MP:353/364
-D-Zouchouten HP:160/221 MP:200/214
-Equipo de Nahobino (J2)
-A-Nahobino HP:349/453 MP:378/389
-B-
-C-Anubis HP:141/497 MP:223/223
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Zouchouten
-2-Shujinko
-3-Sphinx
-4-Gurulu
-----------------------------------------
-Seleccione una acción para Zouchouten
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1297/1317 MP:625/625
-B-Gurulu HP:187/371 MP:151/166
-C-Sphinx HP:303/376 MP:353/364
-D-Zouchouten HP:160/221 MP:200/214
-Equipo de Nahobino (J2)
-A-Nahobino HP:349/453 MP:378/389
-B-
-C-Anubis HP:141/497 MP:223/223
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shujinko
-2-Sphinx
-3-Gurulu
-4-Zouchouten
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Nahobino HP:349/453 MP:378/389
-2-Anubis HP:141/497 MP:223/223
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Shujinko ataca a Anubis
-Anubis recibe 187 de daño
-Anubis termina con HP:0/497
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Nahobino (J2)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1297/1317 MP:625/625
-B-Gurulu HP:187/371 MP:151/166
-C-Sphinx HP:303/376 MP:353/364
-D-Zouchouten HP:160/221 MP:200/214
-Equipo de Nahobino (J2)
-A-Nahobino HP:349/453 MP:378/389
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Nahobino
-----------------------------------------
-Seleccione una acción para Nahobino
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Nahobino
-1-Shujinko HP:1297/1317 MP:625/625
-2-Gurulu HP:187/371 MP:151/166
-3-Sphinx HP:303/376 MP:353/364
-4-Zouchouten HP:160/221 MP:200/214
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Nahobino ataca a Gurulu
-Gurulu recibe 29 de daño
-Gurulu termina con HP:158/371
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Shujinko (J1)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1297/1317 MP:625/625
-B-Gurulu HP:158/371 MP:151/166
-C-Sphinx HP:303/376 MP:353/364
-D-Zouchouten HP:160/221 MP:200/214
-Equipo de Nahobino (J2)
-A-Nahobino HP:349/453 MP:378/389
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shujinko
-2-Sphinx
-3-Gurulu
-4-Zouchouten
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Kikuri-Hime HP:216/216 MP:210/210
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Nahobino HP:349/453 MP:378/389
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Kikuri-Hime HP:216/216 MP:210/210
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una posición para invocar
-1-Gurulu HP:158/371 MP:151/166 (Puesto 2)
-2-Sphinx HP:303/376 MP:353/364 (Puesto 3)
-3-Zouchouten HP:160/221 MP:200/214 (Puesto 4)
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Kikuri-Hime ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1297/1317 MP:625/625
-B-Gurulu HP:158/371 MP:151/166
-C-Sphinx HP:303/376 MP:353/364
-D-Kikuri-Hime HP:216/216 MP:210/210
-Equipo de Nahobino (J2)
-A-Nahobino HP:349/453 MP:378/389
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Sphinx
-2-Gurulu
-3-Kikuri-Hime
-4-Shujinko
-----------------------------------------
-Seleccione una acción para Sphinx
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Sphinx
-1-Nahobino HP:349/453 MP:378/389
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Sphinx
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Sphinx
-1-Nahobino HP:349/453 MP:378/389
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Sphinx ataca a Nahobino
-Nahobino recibe 52 de daño
-Nahobino termina con HP:297/453
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1297/1317 MP:625/625
-B-Gurulu HP:158/371 MP:151/166
-C-Sphinx HP:303/376 MP:353/364
-D-Kikuri-Hime HP:216/216 MP:210/210
-Equipo de Nahobino (J2)
-A-Nahobino HP:297/453 MP:378/389
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Gurulu
-2-Kikuri-Hime
-3-Shujinko
-4-Sphinx
-----------------------------------------
-Seleccione una acción para Gurulu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Gurulu use
-1-Mazanma MP:20
-2-Axel Claw MP:15
-3-Nihil Claw MP:11
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Gurulu
-1-Nahobino HP:297/453 MP:378/389
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Gurulu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Gurulu use
-1-Mazanma MP:20
-2-Axel Claw MP:15
-3-Nihil Claw MP:11
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Gurulu
-1-Nahobino HP:297/453 MP:378/389
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Gurulu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Gurulu use
-1-Mazanma MP:20
-2-Axel Claw MP:15
-3-Nihil Claw MP:11
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Gurulu
-1-Nahobino HP:297/453 MP:378/389
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Gurulu ataca a Nahobino
-Nahobino recibe 103 de daño
-Nahobino termina con HP:194/453
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1297/1317 MP:625/625
-B-Gurulu HP:158/371 MP:136/166
-C-Sphinx HP:303/376 MP:353/364
-D-Kikuri-Hime HP:216/216 MP:210/210
-Equipo de Nahobino (J2)
-A-Nahobino HP:194/453 MP:378/389
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Kikuri-Hime
-2-Shujinko
-3-Sphinx
-4-Gurulu
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Kikuri-Hime
-1-Nahobino HP:194/453 MP:378/389
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Kikuri-Hime
-1-Nahobino HP:194/453 MP:378/389
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Kikuri-Hime use
-1-Tetraja MP:15
-2-Me Patra MP:15
-3-Diarama MP:9
-4-Recarm MP:20
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Kikuri-Hime
-1-Shujinko HP:1297/1317 MP:625/625
-2-Gurulu HP:158/371 MP:136/166
-3-Sphinx HP:303/376 MP:353/364
-4-Kikuri-Hime HP:216/216 MP:210/210
-5-Zouchouten HP:160/221 MP:200/214
-6-Cancelar
-INPUT: 2
-----------------------------------------
-Kikuri-Hime cura a Gurulu
-Gurulu recibe 185 de HP
-Gurulu termina con HP:343/371
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1297/1317 MP:625/625
-B-Gurulu HP:343/371 MP:136/166
-C-Sphinx HP:303/376 MP:353/364
-D-Kikuri-Hime HP:216/216 MP:201/210
-Equipo de Nahobino (J2)
-A-Nahobino HP:194/453 MP:378/389
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shujinko
-2-Sphinx
-3-Gurulu
-4-Kikuri-Hime
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Zouchouten HP:160/221 MP:200/214
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Shujinko use
-1-Nihil Claw MP:11
-2-Trisagion MP:22
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Shujinko use
-1-Nihil Claw MP:11
-2-Trisagion MP:22
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Shujinko use
-1-Nihil Claw MP:11
-2-Trisagion MP:22
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Nahobino HP:194/453 MP:378/389
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Shujinko lanza fuego a Nahobino
-Nahobino es resistente el ataque de Shujinko
-Nahobino recibe 77 de daño
-Nahobino termina con HP:117/453
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Nahobino (J2)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1297/1317 MP:603/625
-B-Gurulu HP:343/371 MP:136/166
-C-Sphinx HP:303/376 MP:353/364
-D-Kikuri-Hime HP:216/216 MP:201/210
-Equipo de Nahobino (J2)
-A-Nahobino HP:117/453 MP:378/389
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Nahobino
-----------------------------------------
-Seleccione una acción para Nahobino
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Nahobino use
-1-Deadly Wind MP:22
-2-Samarecarm MP:40
-3-Grand Tack MP:11
-4-Zanma MP:8
-5-Nihil Claw MP:11
-6-Bufula MP:8
-7-Bouncing Claw MP:4
-8-Gram Slice MP:5
-9-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Nahobino
-1-Shujinko HP:1297/1317 MP:603/625
-2-Gurulu HP:343/371 MP:136/166
-3-Sphinx HP:303/376 MP:353/364
-4-Kikuri-Hime HP:216/216 MP:201/210
-5-Cancelar
-INPUT: 4
-----------------------------------------
-Nahobino lanza viento a Kikuri-Hime
-Kikuri-Hime bloquea el ataque de Nahobino
-Kikuri-Hime termina con HP:216/216
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Shujinko (J1)
-----------------------------------------
-Equipo de Shujinko (J1)
-A-Shujinko HP:1297/1317 MP:603/625
-B-Gurulu HP:343/371 MP:136/166
-C-Sphinx HP:303/376 MP:353/364
-D-Kikuri-Hime HP:216/216 MP:201/210
-Equipo de Nahobino (J2)
-A-Nahobino HP:117/453 MP:356/389
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shujinko
-2-Sphinx
-3-Gurulu
-4-Kikuri-Hime
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Shujinko use
-1-Nihil Claw MP:11
-2-Trisagion MP:22
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Nahobino HP:117/453 MP:356/389
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Shujinko use
-1-Nihil Claw MP:11
-2-Trisagion MP:22
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Nahobino HP:117/453 MP:356/389
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Nahobino HP:117/453 MP:356/389
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Shujinko dispara a Nahobino
-Nahobino recibe 228 de daño
+Kyouji ataca a Nahobino
+Nahobino recibe 614 de daño
 Nahobino termina con HP:0/453
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ganador: Shujinko (J1)
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Fortuna HP:147/147 MP:66/66
+C-Lailah HP:212/212 MP:205/205
+D-Peri HP:483/483 MP:216/216
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Lailah
+3-Fortuna
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Fortuna HP:147/147 MP:66/66
+C-Lailah HP:212/212 MP:205/205
+D-Peri HP:483/483 MP:216/216
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lailah
+2-Fortuna
+3-Peri
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Fortuna HP:147/147 MP:66/66
+C-Lailah HP:212/212 MP:205/205
+D-Peri HP:483/483 MP:216/216
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Fortuna
+2-Peri
+3-Lailah
+----------------------------------------
+Seleccione una acción para Fortuna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Fortuna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Fortuna
+1-Kyouji HP:999/999 MP:0/0
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Fortuna ataca a Kyouji
+Kyouji recibe 10 de daño
+Kyouji termina con HP:989/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:989/999 MP:0/0
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Fortuna HP:147/147 MP:66/66
+C-Lailah HP:212/212 MP:205/205
+D-Peri HP:483/483 MP:216/216
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Lailah
+3-Fortuna
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:989/999 MP:0/0
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Fortuna HP:147/147 MP:66/66
+C-Lailah HP:212/212 MP:205/205
+D-Peri HP:483/483 MP:216/216
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lailah
+2-Fortuna
+3-Peri
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lailah use
+1-Recarm MP:20
+2-Mahama MP:18
+3-Hamaon MP:10
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lailah
+1-Nahobino HP:0/453 MP:389/389
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lailah use
+1-Recarm MP:20
+2-Mahama MP:18
+3-Hamaon MP:10
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lailah
+1-Nahobino HP:0/453 MP:389/389
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lailah
+1-Kyouji HP:989/999 MP:0/0
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J1)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:989/999 MP:0/0
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Fortuna HP:147/147 MP:66/66
+C-Lailah HP:212/212 MP:205/205
+D-Peri HP:483/483 MP:216/216
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Fortuna HP:147/147 MP:66/66
+2-Lailah HP:212/212 MP:205/205
+3-Peri HP:483/483 MP:216/216
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Kyouji ataca a Peri
+Peri recibe 614 de daño
+Peri termina con HP:0/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:989/999 MP:0/0
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:0/453 MP:389/389
+B-Fortuna HP:147/147 MP:66/66
+C-Lailah HP:212/212 MP:205/205
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lailah
+2-Fortuna
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lailah use
+1-Recarm MP:20
+2-Mahama MP:18
+3-Hamaon MP:10
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lailah
+1-Nahobino HP:0/453 MP:389/389
+2-Peri HP:0/483 MP:216/216
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Lailah revive a Nahobino
+Nahobino recibe 226 de HP
+Nahobino termina con HP:226/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:989/999 MP:0/0
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:226/453 MP:389/389
+B-Fortuna HP:147/147 MP:66/66
+C-Lailah HP:212/212 MP:185/205
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Fortuna
+2-Nahobino
+3-Lailah
+----------------------------------------
+Seleccione una acción para Fortuna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Fortuna use
+1-Zan MP:5
+2-Media MP:12
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Fortuna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:989/999 MP:0/0
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:226/453 MP:389/389
+B-Fortuna HP:147/147 MP:66/66
+C-Lailah HP:212/212 MP:185/205
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+2-Lailah
+3-Fortuna
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Kyouji HP:989/999 MP:0/0
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J1)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:989/999 MP:0/0
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:226/453 MP:389/389
+B-Fortuna HP:147/147 MP:66/66
+C-Lailah HP:212/212 MP:185/205
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kyouji use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:989/999 MP:0/0
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:226/453 MP:389/389
+B-Fortuna HP:147/147 MP:66/66
+C-Lailah HP:212/212 MP:185/205
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kyouji
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Nahobino HP:226/453 MP:389/389
+2-Fortuna HP:147/147 MP:66/66
+3-Lailah HP:212/212 MP:185/205
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Kyouji ataca a Lailah
+Lailah recibe 614 de daño
+Lailah termina con HP:0/212
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:989/999 MP:0/0
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:226/453 MP:389/389
+B-Fortuna HP:147/147 MP:66/66
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Fortuna
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Kyouji HP:989/999 MP:0/0
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Kyouji HP:989/999 MP:0/0
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Kyouji HP:989/999 MP:0/0
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Kyouji HP:989/999 MP:0/0
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Kyouji HP:989/999 MP:0/0
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:989/999 MP:0/0
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:226/453 MP:389/389
+B-Fortuna HP:147/147 MP:66/66
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Fortuna
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Fortuna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:989/999 MP:0/0
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:226/453 MP:389/389
+B-Fortuna HP:147/147 MP:66/66
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Fortuna
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nahobino use
+1-Trisagion MP:22
+2-Agilao MP:8
+3-Zanma MP:8
+4-Oni-Kagura MP:9
+5-Riot Gun MP:30
+6-Mortal Jihad MP:13
+7-Fatal Sword MP:8
+8-Diarama MP:9
+9-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Kyouji HP:989/999 MP:0/0
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Kyouji
+Kyouji recibe 84 de daño
+Kyouji termina con HP:905/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J1)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:905/999 MP:0/0
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:226/453 MP:380/389
+B-Fortuna HP:147/147 MP:66/66
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:905/999 MP:0/0
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:226/453 MP:380/389
+B-Fortuna HP:147/147 MP:66/66
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kyouji
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Nahobino HP:226/453 MP:380/389
+2-Fortuna HP:147/147 MP:66/66
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kyouji dispara a Fortuna
+Fortuna recibe 911 de daño
+Fortuna termina con HP:0/147
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nahobino (J2)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:905/999 MP:0/0
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:226/453 MP:380/389
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:905/999 MP:0/0
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:226/453 MP:380/389
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nahobino
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Kyouji HP:905/999 MP:0/0
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Kyouji
+Kyouji recibe 29 de daño
+Kyouji termina con HP:876/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J1)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:876/999 MP:0/0
+B-
+C-
+D-
+Equipo de Nahobino (J2)
+A-Nahobino HP:226/453 MP:380/389
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kyouji use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Nahobino HP:226/453 MP:380/389
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kyouji ataca a Nahobino
+Nahobino recibe 614 de daño
+Nahobino termina con HP:0/453
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Kyouji (J1)

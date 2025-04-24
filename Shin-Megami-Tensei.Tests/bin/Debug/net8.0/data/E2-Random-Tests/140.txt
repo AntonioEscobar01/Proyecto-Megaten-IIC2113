@@ -201,162 +201,165 @@ Elige un archivo para cargar los equipos
 199: 200.txt
 INPUT: 139
 ----------------------------------------
-Ronda de Tamaki (J1)
+Ronda de Aleph (J1)
 ----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:999/999 MP:542/542
-B-
-C-
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:613/613
+B-Patrimpas HP:155/155 MP:149/149
+C-Kazfiel HP:469/469 MP:211/211
 D-
 Equipo de Aleph (J2)
 A-Aleph HP:1309/1309 MP:613/613
-B-Sedna HP:350/350 MP:68/68
-C-Lham Dearg HP:91/91 MP:19/19
-D-Mokoi HP:74/74 MP:36/36
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Tamaki
-----------------------------------------
-Seleccione una acción para Tamaki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Tamaki
-1-Aleph HP:1309/1309 MP:613/613
-2-Sedna HP:350/350 MP:68/68
-3-Lham Dearg HP:91/91 MP:19/19
-4-Mokoi HP:74/74 MP:36/36
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Tamaki ataca a Aleph
-Aleph es resistente el ataque de Tamaki
-Aleph recibe 9 de daño
-Aleph termina con HP:1300/1309
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Aleph (J2)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:999/999 MP:542/542
-B-
+B-Mastema HP:399/399 MP:387/387
 C-
 D-
-Equipo de Aleph (J2)
-A-Aleph HP:1300/1309 MP:613/613
-B-Sedna HP:350/350 MP:68/68
-C-Lham Dearg HP:91/91 MP:19/19
-D-Mokoi HP:74/74 MP:36/36
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Sedna
-3-Mokoi
-4-Lham Dearg
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Tamaki HP:999/999 MP:542/542
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Aleph use
-1-Damascus Claw MP:7
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Tamaki HP:999/999 MP:542/542
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Aleph use
-1-Damascus Claw MP:7
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Tamaki HP:999/999 MP:542/542
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Aleph ataca a Tamaki
-Tamaki es resistente el ataque de Aleph
-Tamaki recibe 94 de daño
-Tamaki termina con HP:905/999
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:905/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1300/1309 MP:606/613
-B-Sedna HP:350/350 MP:68/68
-C-Lham Dearg HP:91/91 MP:19/19
-D-Mokoi HP:74/74 MP:36/36
 ----------------------------------------
 Full Turns: 3
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Sedna
-2-Mokoi
-3-Lham Dearg
-4-Aleph
+1-Aleph
+2-Kazfiel
+3-Patrimpas
 ----------------------------------------
-Seleccione una acción para Sedna
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Aleph HP:1309/1309 MP:613/613
+2-Mastema HP:399/399 MP:387/387
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Aleph HP:1309/1309 MP:613/613
+2-Mastema HP:399/399 MP:387/387
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Aleph dispara a Mastema
+Mastema devuelve 276 daño a Aleph
+Aleph termina con HP:1033/1309
+----------------------------------------
+Se han consumido 3 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1033/1309 MP:613/613
+B-Patrimpas HP:155/155 MP:149/149
+C-Kazfiel HP:469/469 MP:211/211
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Mastema HP:399/399 MP:387/387
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Mastema
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Aleph HP:1033/1309 MP:613/613
+2-Patrimpas HP:155/155 MP:149/149
+3-Kazfiel HP:469/469 MP:211/211
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Aleph ataca a Patrimpas
+Patrimpas recibe 157 de daño
+Patrimpas termina con HP:0/155
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1033/1309 MP:613/613
+B-
+C-Kazfiel HP:469/469 MP:211/211
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Mastema HP:399/399 MP:387/387
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mastema
+2-Aleph
+----------------------------------------
+Seleccione una acción para Mastema
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -364,95 +367,136 @@ Seleccione una acción para Sedna
 INPUT: 3
 ----------------------------------------
 Seleccione un monstruo para invocar
-1-Azrael HP:338/338 MP:328/328
-2-Pale Rider HP:693/693 MP:310/310
-3-Cancelar
-INPUT: 2
+1-Cancelar
+INPUT: 1
 ----------------------------------------
-Pale Rider ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:905/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1300/1309 MP:606/613
-B-Pale Rider HP:693/693 MP:310/310
-C-Lham Dearg HP:91/91 MP:19/19
-D-Mokoi HP:74/74 MP:36/36
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Mokoi
-2-Lham Dearg
-3-Aleph
-4-Pale Rider
-----------------------------------------
-Seleccione una acción para Mokoi
+Seleccione una acción para Mastema
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 4
+INPUT: 3
 ----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Mastema
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mastema use
+1-Megidolaon MP:60
+2-Pandemic Bomb MP:11
+3-Panic Voice MP:15
+4-Mahamaon MP:30
+5-Deadly Wind MP:22
+6-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un objetivo para Mastema
+1-Aleph HP:1033/1309 MP:613/613
+2-Kazfiel HP:469/469 MP:211/211
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Mastema lanza viento a Aleph
+Aleph recibe 174 de daño
+Aleph termina con HP:859/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:905/999 MP:542/542
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:859/1309 MP:613/613
 B-
-C-
+C-Kazfiel HP:469/469 MP:211/211
 D-
 Equipo de Aleph (J2)
-A-Aleph HP:1300/1309 MP:606/613
-B-Pale Rider HP:693/693 MP:310/310
-C-Lham Dearg HP:91/91 MP:19/19
-D-Mokoi HP:74/74 MP:36/36
+A-Aleph HP:1309/1309 MP:613/613
+B-Mastema HP:399/399 MP:365/387
+C-
+D-
 ----------------------------------------
 Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Lham Dearg
-2-Aleph
-3-Pale Rider
-4-Mokoi
+1-Aleph
+2-Kazfiel
 ----------------------------------------
-Seleccione una acción para Lham Dearg
+Seleccione una acción para Aleph
 1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
 ----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
+Seleccione un objetivo para Aleph
+1-Aleph HP:1309/1309 MP:613/613
+2-Mastema HP:399/399 MP:365/387
+3-Cancelar
+INPUT: 1
 ----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:905/999 MP:542/542
+Aleph dispara a Aleph
+Aleph bloquea el ataque de Aleph
+Aleph termina con HP:1309/1309
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:859/1309 MP:613/613
 B-
-C-
+C-Kazfiel HP:469/469 MP:211/211
 D-
 Equipo de Aleph (J2)
-A-Aleph HP:1300/1309 MP:606/613
-B-Pale Rider HP:693/693 MP:310/310
-C-Lham Dearg HP:91/91 MP:19/19
-D-Mokoi HP:74/74 MP:36/36
+A-Aleph HP:1309/1309 MP:613/613
+B-Mastema HP:399/399 MP:365/387
+C-
+D-
 ----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
+Full Turns: 2
+Blinking Turns: 0
 ----------------------------------------
 Orden:
 1-Aleph
-2-Pale Rider
-3-Mokoi
-4-Lham Dearg
+2-Mastema
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
 ----------------------------------------
 Seleccione una acción para Aleph
 1: Atacar
@@ -463,119 +507,246 @@ Seleccione una acción para Aleph
 6: Rendirse
 INPUT: 5
 ----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:859/1309 MP:613/613
+B-
+C-Kazfiel HP:469/469 MP:211/211
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Mastema HP:399/399 MP:365/387
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mastema
+2-Aleph
+----------------------------------------
+Seleccione una acción para Mastema
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:905/999 MP:542/542
+Equipo de Aleph (J1)
+A-Aleph HP:859/1309 MP:613/613
 B-
-C-
+C-Kazfiel HP:469/469 MP:211/211
 D-
 Equipo de Aleph (J2)
-A-Aleph HP:1300/1309 MP:606/613
-B-Pale Rider HP:693/693 MP:310/310
-C-Lham Dearg HP:91/91 MP:19/19
-D-Mokoi HP:74/74 MP:36/36
+A-Aleph HP:1309/1309 MP:613/613
+B-Mastema HP:399/399 MP:365/387
+C-
+D-
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Pale Rider
-2-Mokoi
-3-Lham Dearg
-4-Aleph
+1-Aleph
+2-Mastema
 ----------------------------------------
-Seleccione una acción para Pale Rider
+Seleccione una acción para Aleph
 1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Pale Rider
-1-Tamaki HP:905/999 MP:542/542
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Sedna HP:350/350 MP:68/68
-2-Azrael HP:338/338 MP:328/328
+Seleccione un objetivo para Aleph
+1-Aleph HP:859/1309 MP:613/613
+2-Kazfiel HP:469/469 MP:211/211
 3-Cancelar
 INPUT: 2
 ----------------------------------------
-Azrael ha sido invocado
+Aleph ataca a Kazfiel
+Kazfiel recibe 157 de daño
+Kazfiel termina con HP:312/469
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:859/1309 MP:613/613
+B-
+C-Kazfiel HP:312/469 MP:211/211
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Mastema HP:399/399 MP:365/387
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Kazfiel
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Aleph HP:1309/1309 MP:613/613
+2-Mastema HP:399/399 MP:365/387
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Aleph HP:1309/1309 MP:613/613
+2-Mastema HP:399/399 MP:365/387
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Aleph dispara a Mastema
+Mastema devuelve 276 daño a Aleph
+Aleph termina con HP:583/1309
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:583/1309 MP:613/613
+B-
+C-Kazfiel HP:312/469 MP:211/211
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Mastema HP:399/399 MP:365/387
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Mastema
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Aleph HP:583/1309 MP:613/613
+2-Kazfiel HP:312/469 MP:211/211
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph ataca a Aleph
+Aleph es resistente el ataque de Aleph
+Aleph recibe 78 de daño
+Aleph termina con HP:505/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:505/1309 MP:613/613
+B-
+C-Kazfiel HP:312/469 MP:211/211
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Mastema HP:399/399 MP:365/387
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mastema
+2-Aleph
+----------------------------------------
+Seleccione una acción para Mastema
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mastema use
+1-Megidolaon MP:60
+2-Pandemic Bomb MP:11
+3-Panic Voice MP:15
+4-Mahamaon MP:30
+5-Deadly Wind MP:22
+6-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un objetivo para Mastema
+1-Aleph HP:505/1309 MP:613/613
+2-Kazfiel HP:312/469 MP:211/211
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Mastema
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:905/999 MP:542/542
+Equipo de Aleph (J1)
+A-Aleph HP:505/1309 MP:613/613
 B-
-C-
+C-Kazfiel HP:312/469 MP:211/211
 D-
 Equipo de Aleph (J2)
-A-Aleph HP:1300/1309 MP:606/613
-B-Azrael HP:338/338 MP:328/328
-C-Lham Dearg HP:91/91 MP:19/19
-D-Mokoi HP:74/74 MP:36/36
+A-Aleph HP:1309/1309 MP:613/613
+B-Mastema HP:399/399 MP:365/387
+C-
+D-
 ----------------------------------------
 Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Mokoi
-2-Lham Dearg
-3-Aleph
-4-Azrael
+1-Aleph
+2-Mastema
 ----------------------------------------
-Seleccione una acción para Mokoi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Mokoi
-1-Tamaki HP:905/999 MP:542/542
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Mokoi ataca a Tamaki
-Tamaki es resistente el ataque de Mokoi
-Tamaki recibe 1 de daño
-Tamaki termina con HP:904/999
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Tamaki (J1)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:904/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1300/1309 MP:606/613
-B-Azrael HP:338/338 MP:328/328
-C-Lham Dearg HP:91/91 MP:19/19
-D-Mokoi HP:74/74 MP:36/36
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Tamaki
-----------------------------------------
-Seleccione una acción para Tamaki
+Seleccione una acción para Aleph
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -587,65 +758,6 @@ INPUT: 4
 Seleccione un monstruo para invocar
 1-Cancelar
 INPUT: 1
-----------------------------------------
-Seleccione una acción para Tamaki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Tamaki use
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Tamaki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Tamaki
-1-Aleph HP:1300/1309 MP:606/613
-2-Azrael HP:338/338 MP:328/328
-3-Lham Dearg HP:91/91 MP:19/19
-4-Mokoi HP:74/74 MP:36/36
-5-Cancelar
-INPUT: 4
-----------------------------------------
-Tamaki ataca a Mokoi
-Mokoi recibe 18 de daño
-Mokoi termina con HP:56/74
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Aleph (J2)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:904/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1300/1309 MP:606/613
-B-Azrael HP:338/338 MP:328/328
-C-Lham Dearg HP:91/91 MP:19/19
-D-Mokoi HP:56/74 MP:36/36
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Azrael
-3-Mokoi
-4-Lham Dearg
 ----------------------------------------
 Seleccione una acción para Aleph
 1: Atacar
@@ -657,818 +769,139 @@ Seleccione una acción para Aleph
 INPUT: 2
 ----------------------------------------
 Seleccione un objetivo para Aleph
-1-Tamaki HP:904/999 MP:542/542
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Aleph dispara a Tamaki
-Tamaki es resistente el ataque de Aleph
-Tamaki recibe 138 de daño
-Tamaki termina con HP:766/999
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:766/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1300/1309 MP:606/613
-B-Azrael HP:338/338 MP:328/328
-C-Lham Dearg HP:91/91 MP:19/19
-D-Mokoi HP:56/74 MP:36/36
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Azrael
-2-Mokoi
-3-Lham Dearg
-4-Aleph
-----------------------------------------
-Seleccione una acción para Azrael
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
+1-Aleph HP:505/1309 MP:613/613
+2-Kazfiel HP:312/469 MP:211/211
+3-Cancelar
 INPUT: 3
 ----------------------------------------
-Seleccione un monstruo para invocar
-1-Sedna HP:350/350 MP:68/68
-2-Pale Rider HP:693/693 MP:310/310
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Aleph HP:505/1309 MP:613/613
+2-Kazfiel HP:312/469 MP:211/211
 3-Cancelar
 INPUT: 1
 ----------------------------------------
-Sedna ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:766/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1300/1309 MP:606/613
-B-Sedna HP:350/350 MP:68/68
-C-Lham Dearg HP:91/91 MP:19/19
-D-Mokoi HP:56/74 MP:36/36
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Mokoi
-2-Lham Dearg
-3-Aleph
-4-Sedna
-----------------------------------------
-Seleccione una acción para Mokoi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
+Aleph ataca a Aleph
+Aleph es resistente el ataque de Aleph
+Aleph recibe 78 de daño
+Aleph termina con HP:427/1309
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:766/999 MP:542/542
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:427/1309 MP:613/613
 B-
-C-
+C-Kazfiel HP:312/469 MP:211/211
 D-
 Equipo de Aleph (J2)
-A-Aleph HP:1300/1309 MP:606/613
-B-Sedna HP:350/350 MP:68/68
-C-Lham Dearg HP:91/91 MP:19/19
-D-Mokoi HP:56/74 MP:36/36
+A-Aleph HP:1309/1309 MP:613/613
+B-Mastema HP:399/399 MP:365/387
+C-
+D-
 ----------------------------------------
 Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Lham Dearg
+1-Aleph
+2-Kazfiel
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:427/1309 MP:613/613
+B-
+C-Kazfiel HP:312/469 MP:211/211
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Mastema HP:399/399 MP:365/387
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kazfiel
 2-Aleph
-3-Sedna
-4-Mokoi
 ----------------------------------------
-Seleccione una acción para Lham Dearg
+Seleccione una acción para Kazfiel
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 2
 ----------------------------------------
-Seleccione una habilidad para que Lham Dearg use
-1-Gram Slice MP:5
-2-Critical Wave MP:10
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Lham Dearg
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Azrael HP:338/338 MP:328/328
-2-Pale Rider HP:693/693 MP:310/310
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Azrael ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:766/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1300/1309 MP:606/613
-B-Sedna HP:350/350 MP:68/68
-C-Azrael HP:338/338 MP:328/328
-D-Mokoi HP:56/74 MP:36/36
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Aleph
-2-Sedna
-3-Mokoi
-4-Azrael
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:766/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1300/1309 MP:606/613
-B-Sedna HP:350/350 MP:68/68
-C-Azrael HP:338/338 MP:328/328
-D-Mokoi HP:56/74 MP:36/36
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Sedna
-2-Mokoi
-3-Azrael
-4-Aleph
-----------------------------------------
-Seleccione una acción para Sedna
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Sedna use
-1-Mabufula MP:20
-2-Mamudo MP:18
-3-Posumudi MP:5
-4-Diarama MP:9
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Sedna
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Sedna use
-1-Mabufula MP:20
-2-Mamudo MP:18
-3-Posumudi MP:5
-4-Diarama MP:9
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Sedna
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Sedna
-1-Tamaki HP:766/999 MP:542/542
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Sedna ataca a Tamaki
-Tamaki es resistente el ataque de Sedna
-Tamaki recibe 12 de daño
-Tamaki termina con HP:754/999
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Tamaki (J1)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:754/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1300/1309 MP:606/613
-B-Sedna HP:350/350 MP:68/68
-C-Azrael HP:338/338 MP:328/328
-D-Mokoi HP:56/74 MP:36/36
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Tamaki
-----------------------------------------
-Seleccione una acción para Tamaki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Tamaki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Tamaki use
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Tamaki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Tamaki use
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Tamaki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Tamaki use
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Tamaki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Tamaki use
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Tamaki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Tamaki
-1-Aleph HP:1300/1309 MP:606/613
-2-Sedna HP:350/350 MP:68/68
-3-Azrael HP:338/338 MP:328/328
-4-Mokoi HP:56/74 MP:36/36
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Tamaki ataca a Aleph
-Aleph es resistente el ataque de Tamaki
-Aleph recibe 9 de daño
-Aleph termina con HP:1291/1309
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Aleph (J2)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:754/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Sedna HP:350/350 MP:68/68
-C-Azrael HP:338/338 MP:328/328
-D-Mokoi HP:56/74 MP:36/36
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Azrael
-3-Sedna
-4-Mokoi
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Tamaki HP:754/999 MP:542/542
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:754/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Sedna HP:350/350 MP:68/68
-C-Azrael HP:338/338 MP:328/328
-D-Mokoi HP:56/74 MP:36/36
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Azrael
-2-Sedna
-3-Mokoi
-4-Aleph
-----------------------------------------
-Seleccione una acción para Azrael
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Lham Dearg HP:91/91 MP:19/19
-2-Pale Rider HP:693/693 MP:310/310
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Azrael
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Azrael
-1-Tamaki HP:754/999 MP:542/542
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Azrael
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:754/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Sedna HP:350/350 MP:68/68
-C-Azrael HP:338/338 MP:328/328
-D-Mokoi HP:56/74 MP:36/36
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Sedna
-2-Mokoi
-3-Aleph
-4-Azrael
-----------------------------------------
-Seleccione una acción para Sedna
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:754/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Sedna HP:350/350 MP:68/68
-C-Azrael HP:338/338 MP:328/328
-D-Mokoi HP:56/74 MP:36/36
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Mokoi
-2-Aleph
-3-Azrael
-4-Sedna
-----------------------------------------
-Seleccione una acción para Mokoi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:754/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Sedna HP:350/350 MP:68/68
-C-Azrael HP:338/338 MP:328/328
-D-Mokoi HP:56/74 MP:36/36
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Azrael
-3-Sedna
-4-Mokoi
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Tamaki HP:754/999 MP:542/542
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Aleph use
-1-Damascus Claw MP:7
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Tamaki HP:754/999 MP:542/542
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Aleph use
-1-Damascus Claw MP:7
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Aleph use
-1-Damascus Claw MP:7
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Tamaki HP:754/999 MP:542/542
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Aleph dispara a Tamaki
-Tamaki es resistente el ataque de Aleph
-Tamaki recibe 138 de daño
-Tamaki termina con HP:616/999
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:616/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Sedna HP:350/350 MP:68/68
-C-Azrael HP:338/338 MP:328/328
-D-Mokoi HP:56/74 MP:36/36
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Azrael
-2-Sedna
-3-Mokoi
-4-Aleph
-----------------------------------------
-Seleccione una acción para Azrael
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Azrael
-1-Tamaki HP:616/999 MP:542/542
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Azrael
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Azrael
-1-Tamaki HP:616/999 MP:542/542
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Azrael
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Azrael use
-1-Agidyne MP:14
-2-Samarecarm MP:40
-3-Mamudoon MP:30
+Seleccione una habilidad para que Kazfiel use
+1-Javelin Rain MP:21
+2-Charge MP:9
+3-Zandyne MP:14
 4-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Azrael
-1-Tamaki HP:616/999 MP:542/542
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Azrael lanza fuego a Tamaki
-Tamaki es resistente el ataque de Azrael
-Tamaki recibe 66 de daño
-Tamaki termina con HP:550/999
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Tamaki (J1)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:550/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Sedna HP:350/350 MP:68/68
-C-Azrael HP:338/338 MP:314/328
-D-Mokoi HP:56/74 MP:36/36
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Tamaki
-----------------------------------------
-Seleccione una acción para Tamaki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Tamaki use
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Tamaki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Tamaki use
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Tamaki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Tamaki
-1-Aleph HP:1291/1309 MP:606/613
-2-Sedna HP:350/350 MP:68/68
-3-Azrael HP:338/338 MP:314/328
-4-Mokoi HP:56/74 MP:36/36
-5-Cancelar
 INPUT: 4
 ----------------------------------------
-Tamaki dispara a Mokoi
-Mokoi recibe 15 de daño
-Mokoi termina con HP:41/74
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Aleph (J2)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:550/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Sedna HP:350/350 MP:68/68
-C-Azrael HP:338/338 MP:314/328
-D-Mokoi HP:41/74 MP:36/36
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Azrael
-3-Sedna
-4-Mokoi
-----------------------------------------
-Seleccione una acción para Aleph
+Seleccione una acción para Kazfiel
 1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
 ----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
+Seleccione una habilidad para que Kazfiel use
+1-Javelin Rain MP:21
+2-Charge MP:9
+3-Zandyne MP:14
+4-Cancelar
+INPUT: 4
 ----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:550/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Sedna HP:350/350 MP:68/68
-C-Azrael HP:338/338 MP:314/328
-D-Mokoi HP:41/74 MP:36/36
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
 ----------------------------------------
-Full Turns: 3
-Blinking Turns: 1
+Seleccione un objetivo para Kazfiel
+1-Aleph HP:1309/1309 MP:613/613
+2-Mastema HP:399/399 MP:365/387
+3-Cancelar
+INPUT: 3
 ----------------------------------------
-Orden:
-1-Azrael
-2-Sedna
-3-Mokoi
-4-Aleph
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
 ----------------------------------------
-Seleccione una acción para Azrael
+Seleccione un objetivo para Kazfiel
+1-Aleph HP:1309/1309 MP:613/613
+2-Mastema HP:399/399 MP:365/387
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kazfiel
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -1476,95 +909,218 @@ Seleccione una acción para Azrael
 INPUT: 3
 ----------------------------------------
 Seleccione un monstruo para invocar
-1-Lham Dearg HP:91/91 MP:19/19
-2-Pale Rider HP:693/693 MP:310/310
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kazfiel use
+1-Javelin Rain MP:21
+2-Charge MP:9
+3-Zandyne MP:14
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Aleph HP:1309/1309 MP:613/613
+2-Mastema HP:399/399 MP:365/387
 3-Cancelar
 INPUT: 1
 ----------------------------------------
-Lham Dearg ha sido invocado
+Kazfiel ataca a Aleph
+Aleph es resistente el ataque de Kazfiel
+Aleph recibe 19 de daño
+Aleph termina con HP:1290/1309
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:550/999 MP:542/542
+Equipo de Aleph (J1)
+A-Aleph HP:427/1309 MP:613/613
 B-
-C-
+C-Kazfiel HP:312/469 MP:211/211
 D-
 Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Sedna HP:350/350 MP:68/68
-C-Lham Dearg HP:91/91 MP:19/19
-D-Mokoi HP:41/74 MP:36/36
+A-Aleph HP:1290/1309 MP:613/613
+B-Mastema HP:399/399 MP:365/387
+C-
+D-
 ----------------------------------------
-Full Turns: 3
+Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Sedna
-2-Mokoi
-3-Aleph
-4-Lham Dearg
+1-Aleph
+2-Kazfiel
 ----------------------------------------
-Seleccione una acción para Sedna
+Seleccione una acción para Aleph
 1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Aleph HP:1290/1309 MP:613/613
+2-Mastema HP:399/399 MP:365/387
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph dispara a Aleph
+Aleph bloquea el ataque de Aleph
+Aleph termina con HP:1290/1309
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:550/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Sedna HP:350/350 MP:68/68
-C-Lham Dearg HP:91/91 MP:19/19
-D-Mokoi HP:41/74 MP:36/36
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Mokoi
-2-Aleph
-3-Lham Dearg
-4-Sedna
-----------------------------------------
-Seleccione una acción para Mokoi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:550/999 MP:542/542
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:427/1309 MP:613/613
 B-
-C-
+C-Kazfiel HP:312/469 MP:211/211
 D-
 Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Sedna HP:350/350 MP:68/68
-C-Lham Dearg HP:91/91 MP:19/19
-D-Mokoi HP:41/74 MP:36/36
+A-Aleph HP:1290/1309 MP:613/613
+B-Mastema HP:399/399 MP:365/387
+C-
+D-
 ----------------------------------------
 Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
 1-Aleph
-2-Lham Dearg
-3-Sedna
-4-Mokoi
+2-Mastema
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Aleph HP:427/1309 MP:613/613
+2-Kazfiel HP:312/469 MP:211/211
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph dispara a Aleph
+Aleph bloquea el ataque de Aleph
+Aleph termina con HP:427/1309
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:427/1309 MP:613/613
+B-
+C-Kazfiel HP:312/469 MP:211/211
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1290/1309 MP:613/613
+B-Mastema HP:399/399 MP:365/387
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Kazfiel
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Iron Judgement MP:8
+2-Dia MP:5
+3-Zan MP:5
+4-Agi MP:5
+5-Ziodyne MP:14
+6-Nihil Claw MP:11
+7-Cancelar
+INPUT: 7
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Aleph HP:1290/1309 MP:613/613
+2-Mastema HP:399/399 MP:365/387
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Aleph HP:1290/1309 MP:613/613
+2-Mastema HP:399/399 MP:365/387
+3-Cancelar
+INPUT: 3
 ----------------------------------------
 Seleccione una acción para Aleph
 1: Atacar
@@ -1578,174 +1134,142 @@ INPUT: 5
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:550/999 MP:542/542
+Equipo de Aleph (J1)
+A-Aleph HP:427/1309 MP:613/613
 B-
-C-
+C-Kazfiel HP:312/469 MP:211/211
 D-
 Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Sedna HP:350/350 MP:68/68
-C-Lham Dearg HP:91/91 MP:19/19
-D-Mokoi HP:41/74 MP:36/36
+A-Aleph HP:1290/1309 MP:613/613
+B-Mastema HP:399/399 MP:365/387
+C-
+D-
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Lham Dearg
-2-Sedna
-3-Mokoi
-4-Aleph
+1-Kazfiel
+2-Aleph
 ----------------------------------------
-Seleccione una acción para Lham Dearg
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Lham Dearg
-1-Tamaki HP:550/999 MP:542/542
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Lham Dearg
+Seleccione una acción para Kazfiel
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 2
 ----------------------------------------
-Seleccione una habilidad para que Lham Dearg use
-1-Gram Slice MP:5
-2-Critical Wave MP:10
+Seleccione una habilidad para que Kazfiel use
+1-Javelin Rain MP:21
+2-Charge MP:9
+3-Zandyne MP:14
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Aleph HP:1290/1309 MP:613/613
+2-Mastema HP:399/399 MP:365/387
 3-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Lham Dearg
-1-Tamaki HP:550/999 MP:542/542
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Lham Dearg
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Lham Dearg
-1-Tamaki HP:550/999 MP:542/542
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Lham Dearg ataca a Tamaki
-Tamaki es resistente el ataque de Lham Dearg
-Tamaki recibe 1 de daño
-Tamaki termina con HP:549/999
+Kazfiel lanza viento a Aleph
+Aleph recibe 109 de daño
+Aleph termina con HP:1181/1309
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:549/999 MP:542/542
+Equipo de Aleph (J1)
+A-Aleph HP:427/1309 MP:613/613
 B-
-C-
+C-Kazfiel HP:312/469 MP:197/211
 D-
 Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Sedna HP:350/350 MP:68/68
-C-Lham Dearg HP:91/91 MP:19/19
-D-Mokoi HP:41/74 MP:36/36
+A-Aleph HP:1181/1309 MP:613/613
+B-Mastema HP:399/399 MP:365/387
+C-
+D-
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Sedna
-2-Mokoi
-3-Aleph
-4-Lham Dearg
+1-Aleph
+2-Kazfiel
 ----------------------------------------
-Seleccione una acción para Sedna
+Seleccione una acción para Aleph
 1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
 ----------------------------------------
-Seleccione una habilidad para que Sedna use
-1-Mabufula MP:20
-2-Mamudo MP:18
-3-Posumudi MP:5
-4-Diarama MP:9
-5-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione un objetivo para Sedna
-1-Aleph HP:1291/1309 MP:606/613
-2-Sedna HP:350/350 MP:68/68
-3-Lham Dearg HP:91/91 MP:19/19
-4-Mokoi HP:41/74 MP:36/36
-5-Azrael HP:338/338 MP:314/328
-6-Pale Rider HP:693/693 MP:310/310
+Seleccione una habilidad para que Aleph use
+1-Iron Judgement MP:8
+2-Dia MP:5
+3-Zan MP:5
+4-Agi MP:5
+5-Ziodyne MP:14
+6-Nihil Claw MP:11
 7-Cancelar
 INPUT: 2
 ----------------------------------------
-Sedna cura a Sedna
-Sedna recibe 175 de HP
-Sedna termina con HP:350/350
+Seleccione un objetivo para Aleph
+1-Aleph HP:427/1309 MP:613/613
+2-Kazfiel HP:312/469 MP:197/211
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Aleph cura a Kazfiel
+Kazfiel recibe 117 de HP
+Kazfiel termina con HP:429/469
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Tamaki (J1)
+Ronda de Aleph (J2)
 ----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:549/999 MP:542/542
+Equipo de Aleph (J1)
+A-Aleph HP:427/1309 MP:608/613
 B-
-C-
+C-Kazfiel HP:429/469 MP:197/211
 D-
 Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Sedna HP:350/350 MP:59/68
-C-Lham Dearg HP:91/91 MP:19/19
-D-Mokoi HP:41/74 MP:36/36
+A-Aleph HP:1181/1309 MP:613/613
+B-Mastema HP:399/399 MP:365/387
+C-
+D-
 ----------------------------------------
-Full Turns: 1
+Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Tamaki
+1-Aleph
+2-Mastema
 ----------------------------------------
-Seleccione una acción para Tamaki
+Seleccione una acción para Aleph
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 4
+INPUT: 3
 ----------------------------------------
-Seleccione un monstruo para invocar
+Seleccione una habilidad para que Aleph use
+1-Samarecarm MP:40
+2-Gram Slice MP:5
+3-Dia MP:5
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
 1-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione una acción para Tamaki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Tamaki
+Seleccione una acción para Aleph
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -1757,24 +1281,299 @@ INPUT: 5
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:549/999 MP:542/542
+Equipo de Aleph (J1)
+A-Aleph HP:427/1309 MP:608/613
 B-
-C-
+C-Kazfiel HP:429/469 MP:197/211
 D-
 Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Sedna HP:350/350 MP:59/68
-C-Lham Dearg HP:91/91 MP:19/19
-D-Mokoi HP:41/74 MP:36/36
+A-Aleph HP:1181/1309 MP:613/613
+B-Mastema HP:399/399 MP:365/387
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mastema
+2-Aleph
+----------------------------------------
+Seleccione una acción para Mastema
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:427/1309 MP:608/613
+B-
+C-Kazfiel HP:429/469 MP:197/211
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1181/1309 MP:613/613
+B-Mastema HP:399/399 MP:365/387
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Mastema
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Aleph HP:427/1309 MP:608/613
+2-Kazfiel HP:429/469 MP:197/211
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:427/1309 MP:608/613
+B-
+C-Kazfiel HP:429/469 MP:197/211
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1181/1309 MP:613/613
+B-Mastema HP:399/399 MP:365/387
+C-
+D-
 ----------------------------------------
 Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Tamaki
+1-Mastema
+2-Aleph
 ----------------------------------------
-Seleccione una acción para Tamaki
+Seleccione una acción para Mastema
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mastema
+1-Aleph HP:427/1309 MP:608/613
+2-Kazfiel HP:429/469 MP:197/211
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Mastema ataca a Kazfiel
+Kazfiel recibe 43 de daño
+Kazfiel termina con HP:386/469
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:427/1309 MP:608/613
+B-
+C-Kazfiel HP:386/469 MP:197/211
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1181/1309 MP:613/613
+B-Mastema HP:399/399 MP:365/387
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Kazfiel
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:427/1309 MP:608/613
+B-
+C-Kazfiel HP:386/469 MP:197/211
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1181/1309 MP:613/613
+B-Mastema HP:399/399 MP:365/387
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Aleph
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kazfiel use
+1-Javelin Rain MP:21
+2-Charge MP:9
+3-Zandyne MP:14
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Aleph HP:1181/1309 MP:613/613
+2-Mastema HP:399/399 MP:365/387
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kazfiel use
+1-Javelin Rain MP:21
+2-Charge MP:9
+3-Zandyne MP:14
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Aleph HP:1181/1309 MP:613/613
+2-Mastema HP:399/399 MP:365/387
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kazfiel lanza viento a Aleph
+Aleph recibe 109 de daño
+Aleph termina con HP:1072/1309
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:427/1309 MP:608/613
+B-
+C-Kazfiel HP:386/469 MP:183/211
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1072/1309 MP:613/613
+B-Mastema HP:399/399 MP:365/387
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Kazfiel
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Aleph HP:1072/1309 MP:613/613
+2-Mastema HP:399/399 MP:365/387
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Aleph dispara a Mastema
+Mastema devuelve 276 daño a Aleph
+Aleph termina con HP:151/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:151/1309 MP:608/613
+B-
+C-Kazfiel HP:386/469 MP:183/211
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1072/1309 MP:613/613
+B-Mastema HP:399/399 MP:365/387
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Mastema
+----------------------------------------
+Seleccione una acción para Aleph
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -1787,289 +1586,152 @@ Seleccione un monstruo para invocar
 1-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione una acción para Tamaki
+Seleccione una acción para Aleph
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 4
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Aleph HP:151/1309 MP:608/613
+2-Kazfiel HP:386/469 MP:183/211
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Aleph HP:151/1309 MP:608/613
+2-Kazfiel HP:386/469 MP:183/211
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Aleph ataca a Kazfiel
+Kazfiel recibe 157 de daño
+Kazfiel termina con HP:229/469
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:151/1309 MP:608/613
+B-
+C-Kazfiel HP:229/469 MP:183/211
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1072/1309 MP:613/613
+B-Mastema HP:399/399 MP:365/387
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mastema
+2-Aleph
+----------------------------------------
+Seleccione una acción para Mastema
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mastema use
+1-Megidolaon MP:60
+2-Pandemic Bomb MP:11
+3-Panic Voice MP:15
+4-Mahamaon MP:30
+5-Deadly Wind MP:22
+6-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un objetivo para Mastema
+1-Aleph HP:151/1309 MP:608/613
+2-Kazfiel HP:229/469 MP:183/211
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Mastema lanza viento a Aleph
+Aleph recibe 174 de daño
+Aleph termina con HP:0/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:0/1309 MP:608/613
+B-
+C-Kazfiel HP:229/469 MP:183/211
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1072/1309 MP:613/613
+B-Mastema HP:399/399 MP:343/387
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kazfiel use
+1-Javelin Rain MP:21
+2-Charge MP:9
+3-Zandyne MP:14
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Aleph HP:1072/1309 MP:613/613
+2-Mastema HP:399/399 MP:343/387
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
 ----------------------------------------
 Seleccione un monstruo para invocar
 1-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione una acción para Tamaki
+Seleccione una acción para Kazfiel
 1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
 ----------------------------------------
 Seleccione un monstruo para invocar
 1-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione una acción para Tamaki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Aleph (J2)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:549/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Sedna HP:350/350 MP:59/68
-C-Lham Dearg HP:91/91 MP:19/19
-D-Mokoi HP:41/74 MP:36/36
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Sedna
-3-Mokoi
-4-Lham Dearg
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Aleph use
-1-Damascus Claw MP:7
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Aleph use
-1-Damascus Claw MP:7
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Aleph use
-1-Damascus Claw MP:7
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Azrael HP:338/338 MP:314/328
-2-Pale Rider HP:693/693 MP:310/310
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una posición para invocar
-1-Sedna HP:350/350 MP:59/68 (Puesto 2)
-2-Lham Dearg HP:91/91 MP:19/19 (Puesto 3)
-3-Mokoi HP:41/74 MP:36/36 (Puesto 4)
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:549/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Sedna HP:350/350 MP:59/68
-C-Lham Dearg HP:91/91 MP:19/19
-D-Mokoi HP:41/74 MP:36/36
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Sedna
-2-Mokoi
-3-Lham Dearg
-4-Aleph
-----------------------------------------
-Seleccione una acción para Sedna
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Sedna
-1-Tamaki HP:549/999 MP:542/542
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Sedna
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Sedna
-1-Tamaki HP:549/999 MP:542/542
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Sedna
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:549/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Sedna HP:350/350 MP:59/68
-C-Lham Dearg HP:91/91 MP:19/19
-D-Mokoi HP:41/74 MP:36/36
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Mokoi
-2-Lham Dearg
-3-Aleph
-4-Sedna
-----------------------------------------
-Seleccione una acción para Mokoi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Azrael HP:338/338 MP:314/328
-2-Pale Rider HP:693/693 MP:310/310
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Mokoi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Azrael HP:338/338 MP:314/328
-2-Pale Rider HP:693/693 MP:310/310
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Mokoi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Mokoi use
-1-Zio MP:5
-2-Dream Fist MP:9
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Mokoi
-1-Tamaki HP:549/999 MP:542/542
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Mokoi lanza electricidad a Tamaki
-Tamaki es resistente el ataque de Mokoi
-Tamaki recibe 10 de daño
-Tamaki termina con HP:539/999
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:539/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Sedna HP:350/350 MP:59/68
-C-Lham Dearg HP:91/91 MP:19/19
-D-Mokoi HP:41/74 MP:31/36
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Lham Dearg
-2-Aleph
-3-Sedna
-4-Mokoi
-----------------------------------------
-Seleccione una acción para Lham Dearg
+Seleccione una acción para Kazfiel
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -2079,1535 +1741,52 @@ INPUT: 4
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:539/999 MP:542/542
+Equipo de Aleph (J1)
+A-Aleph HP:0/1309 MP:608/613
 B-
-C-
+C-Kazfiel HP:229/469 MP:183/211
 D-
 Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Sedna HP:350/350 MP:59/68
-C-Lham Dearg HP:91/91 MP:19/19
-D-Mokoi HP:41/74 MP:31/36
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Aleph
-2-Sedna
-3-Mokoi
-4-Lham Dearg
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Azrael HP:338/338 MP:314/328
-2-Pale Rider HP:693/693 MP:310/310
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una posición para invocar
-1-Sedna HP:350/350 MP:59/68 (Puesto 2)
-2-Lham Dearg HP:91/91 MP:19/19 (Puesto 3)
-3-Mokoi HP:41/74 MP:31/36 (Puesto 4)
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Azrael ha sido invocado
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:539/999 MP:542/542
-B-
+A-Aleph HP:1072/1309 MP:613/613
+B-Mastema HP:399/399 MP:343/387
 C-
 D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Sedna HP:350/350 MP:59/68
-C-Azrael HP:338/338 MP:314/328
-D-Mokoi HP:41/74 MP:31/36
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Sedna
-2-Mokoi
-3-Azrael
-4-Aleph
-----------------------------------------
-Seleccione una acción para Sedna
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Lham Dearg HP:91/91 MP:19/19
-2-Pale Rider HP:693/693 MP:310/310
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Pale Rider ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:539/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Pale Rider HP:693/693 MP:310/310
-C-Azrael HP:338/338 MP:314/328
-D-Mokoi HP:41/74 MP:31/36
 ----------------------------------------
 Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Mokoi
-2-Azrael
-3-Aleph
-4-Pale Rider
+1-Kazfiel
 ----------------------------------------
-Seleccione una acción para Mokoi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Mokoi
-1-Tamaki HP:539/999 MP:542/542
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Mokoi ataca a Tamaki
-Tamaki es resistente el ataque de Mokoi
-Tamaki recibe 1 de daño
-Tamaki termina con HP:538/999
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Tamaki (J1)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:538/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Pale Rider HP:693/693 MP:310/310
-C-Azrael HP:338/338 MP:314/328
-D-Mokoi HP:41/74 MP:31/36
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Tamaki
-----------------------------------------
-Seleccione una acción para Tamaki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Tamaki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Tamaki
-1-Aleph HP:1291/1309 MP:606/613
-2-Pale Rider HP:693/693 MP:310/310
-3-Azrael HP:338/338 MP:314/328
-4-Mokoi HP:41/74 MP:31/36
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Tamaki dispara a Azrael
-Azrael recibe 15 de daño
-Azrael termina con HP:323/338
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Aleph (J2)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:538/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Pale Rider HP:693/693 MP:310/310
-C-Azrael HP:323/338 MP:314/328
-D-Mokoi HP:41/74 MP:31/36
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Pale Rider
-3-Azrael
-4-Mokoi
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Aleph use
-1-Damascus Claw MP:7
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Tamaki HP:538/999 MP:542/542
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Tamaki HP:538/999 MP:542/542
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Aleph use
-1-Damascus Claw MP:7
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Tamaki HP:538/999 MP:542/542
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Sedna HP:350/350 MP:59/68
-2-Lham Dearg HP:91/91 MP:19/19
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Sedna HP:350/350 MP:59/68
-2-Lham Dearg HP:91/91 MP:19/19
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una posición para invocar
-1-Pale Rider HP:693/693 MP:310/310 (Puesto 2)
-2-Azrael HP:323/338 MP:314/328 (Puesto 3)
-3-Mokoi HP:41/74 MP:31/36 (Puesto 4)
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Lham Dearg ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:538/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Pale Rider HP:693/693 MP:310/310
-C-Azrael HP:323/338 MP:314/328
-D-Lham Dearg HP:91/91 MP:19/19
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Pale Rider
-2-Azrael
-3-Lham Dearg
-4-Aleph
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Sedna HP:350/350 MP:59/68
-2-Mokoi HP:41/74 MP:31/36
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Pale Rider use
-1-Pandemic Bomb MP:11
-2-Death's Door MP:10
-3-Deadly Wind MP:22
-4-Debilitate MP:50
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Sedna HP:350/350 MP:59/68
-2-Mokoi HP:41/74 MP:31/36
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Mokoi ha sido invocado
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:538/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Mokoi HP:41/74 MP:31/36
-C-Azrael HP:323/338 MP:314/328
-D-Lham Dearg HP:91/91 MP:19/19
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Azrael
-2-Lham Dearg
-3-Aleph
-4-Mokoi
-----------------------------------------
-Seleccione una acción para Azrael
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Azrael use
-1-Agidyne MP:14
-2-Samarecarm MP:40
-3-Mamudoon MP:30
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Azrael
+Seleccione una acción para Kazfiel
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:538/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Mokoi HP:41/74 MP:31/36
-C-Azrael HP:323/338 MP:314/328
-D-Lham Dearg HP:91/91 MP:19/19
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Lham Dearg
-2-Aleph
-3-Mokoi
-4-Azrael
-----------------------------------------
-Seleccione una acción para Lham Dearg
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Sedna HP:350/350 MP:59/68
-2-Pale Rider HP:693/693 MP:310/310
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Pale Rider ha sido invocado
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:538/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Mokoi HP:41/74 MP:31/36
-C-Azrael HP:323/338 MP:314/328
-D-Pale Rider HP:693/693 MP:310/310
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Mokoi
-3-Azrael
-4-Pale Rider
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Tamaki HP:538/999 MP:542/542
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Aleph use
-1-Damascus Claw MP:7
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Aleph use
-1-Damascus Claw MP:7
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Sedna HP:350/350 MP:59/68
-2-Lham Dearg HP:91/91 MP:19/19
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una posición para invocar
-1-Mokoi HP:41/74 MP:31/36 (Puesto 2)
-2-Azrael HP:323/338 MP:314/328 (Puesto 3)
-3-Pale Rider HP:693/693 MP:310/310 (Puesto 4)
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Sedna ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:538/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Mokoi HP:41/74 MP:31/36
-C-Sedna HP:350/350 MP:59/68
-D-Pale Rider HP:693/693 MP:310/310
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Mokoi
-2-Sedna
-3-Pale Rider
-4-Aleph
-----------------------------------------
-Seleccione una acción para Mokoi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:538/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Mokoi HP:41/74 MP:31/36
-C-Sedna HP:350/350 MP:59/68
-D-Pale Rider HP:693/693 MP:310/310
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Sedna
-2-Pale Rider
-3-Aleph
-4-Mokoi
-----------------------------------------
-Seleccione una acción para Sedna
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Sedna
-1-Tamaki HP:538/999 MP:542/542
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Sedna
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Sedna
-1-Tamaki HP:538/999 MP:542/542
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Sedna
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:538/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Mokoi HP:41/74 MP:31/36
-C-Sedna HP:350/350 MP:59/68
-D-Pale Rider HP:693/693 MP:310/310
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Pale Rider
-2-Aleph
-3-Mokoi
-4-Sedna
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Pale Rider
-1-Tamaki HP:538/999 MP:542/542
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Pale Rider ataca a Tamaki
-Tamaki es resistente el ataque de Pale Rider
-Tamaki recibe 29 de daño
-Tamaki termina con HP:509/999
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Tamaki (J1)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:509/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Mokoi HP:41/74 MP:31/36
-C-Sedna HP:350/350 MP:59/68
-D-Pale Rider HP:693/693 MP:310/310
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Tamaki
-----------------------------------------
-Seleccione una acción para Tamaki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Tamaki
-1-Aleph HP:1291/1309 MP:606/613
-2-Mokoi HP:41/74 MP:31/36
-3-Sedna HP:350/350 MP:59/68
-4-Pale Rider HP:693/693 MP:310/310
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Tamaki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Tamaki
-1-Aleph HP:1291/1309 MP:606/613
-2-Mokoi HP:41/74 MP:31/36
-3-Sedna HP:350/350 MP:59/68
-4-Pale Rider HP:693/693 MP:310/310
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Tamaki ataca a Sedna
-Sedna recibe 18 de daño
-Sedna termina con HP:332/350
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Aleph (J2)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:509/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Mokoi HP:41/74 MP:31/36
-C-Sedna HP:332/350 MP:59/68
-D-Pale Rider HP:693/693 MP:310/310
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Pale Rider
-3-Sedna
-4-Mokoi
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Aleph use
-1-Damascus Claw MP:7
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Tamaki HP:509/999 MP:542/542
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:509/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Mokoi HP:41/74 MP:31/36
-C-Sedna HP:332/350 MP:59/68
-D-Pale Rider HP:693/693 MP:310/310
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Pale Rider
-2-Sedna
-3-Mokoi
-4-Aleph
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Lham Dearg HP:91/91 MP:19/19
-2-Azrael HP:323/338 MP:314/328
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Lham Dearg ha sido invocado
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:509/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Mokoi HP:41/74 MP:31/36
-C-Sedna HP:332/350 MP:59/68
-D-Lham Dearg HP:91/91 MP:19/19
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Sedna
-2-Mokoi
-3-Aleph
-4-Lham Dearg
-----------------------------------------
-Seleccione una acción para Sedna
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Azrael HP:323/338 MP:314/328
-2-Pale Rider HP:693/693 MP:310/310
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Azrael ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:509/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Mokoi HP:41/74 MP:31/36
-C-Azrael HP:323/338 MP:314/328
-D-Lham Dearg HP:91/91 MP:19/19
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Mokoi
-2-Aleph
-3-Lham Dearg
-4-Azrael
-----------------------------------------
-Seleccione una acción para Mokoi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Sedna HP:332/350 MP:59/68
-2-Pale Rider HP:693/693 MP:310/310
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Pale Rider ha sido invocado
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:509/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Pale Rider HP:693/693 MP:310/310
-C-Azrael HP:323/338 MP:314/328
-D-Lham Dearg HP:91/91 MP:19/19
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Lham Dearg
-3-Azrael
-4-Pale Rider
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Tamaki HP:509/999 MP:542/542
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Sedna HP:332/350 MP:59/68
-2-Mokoi HP:41/74 MP:31/36
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una posición para invocar
-1-Pale Rider HP:693/693 MP:310/310 (Puesto 2)
-2-Azrael HP:323/338 MP:314/328 (Puesto 3)
-3-Lham Dearg HP:91/91 MP:19/19 (Puesto 4)
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Mokoi ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:509/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Pale Rider HP:693/693 MP:310/310
-C-Azrael HP:323/338 MP:314/328
-D-Mokoi HP:41/74 MP:31/36
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Mokoi
-2-Azrael
-3-Pale Rider
-4-Aleph
-----------------------------------------
-Seleccione una acción para Mokoi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Sedna HP:332/350 MP:59/68
-2-Lham Dearg HP:91/91 MP:19/19
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Mokoi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Mokoi
-1-Tamaki HP:509/999 MP:542/542
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Mokoi ataca a Tamaki
-Tamaki es resistente el ataque de Mokoi
-Tamaki recibe 1 de daño
-Tamaki termina con HP:508/999
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:508/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Pale Rider HP:693/693 MP:310/310
-C-Azrael HP:323/338 MP:314/328
-D-Mokoi HP:41/74 MP:31/36
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Azrael
-2-Pale Rider
-3-Aleph
-4-Mokoi
-----------------------------------------
-Seleccione una acción para Azrael
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Azrael
-1-Tamaki HP:508/999 MP:542/542
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Azrael ataca a Tamaki
-Tamaki es resistente el ataque de Azrael
-Tamaki recibe 18 de daño
-Tamaki termina con HP:490/999
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Tamaki (J1)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:490/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Pale Rider HP:693/693 MP:310/310
-C-Azrael HP:323/338 MP:314/328
-D-Mokoi HP:41/74 MP:31/36
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Tamaki
-----------------------------------------
-Seleccione una acción para Tamaki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:490/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Pale Rider HP:693/693 MP:310/310
-C-Azrael HP:323/338 MP:314/328
-D-Mokoi HP:41/74 MP:31/36
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Tamaki
-----------------------------------------
-Seleccione una acción para Tamaki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Tamaki use
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Tamaki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
 Ronda de Aleph (J2)
 ----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:490/999 MP:542/542
+Equipo de Aleph (J1)
+A-Aleph HP:0/1309 MP:608/613
 B-
-C-
+C-Kazfiel HP:229/469 MP:183/211
 D-
 Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Pale Rider HP:693/693 MP:310/310
-C-Azrael HP:323/338 MP:314/328
-D-Mokoi HP:41/74 MP:31/36
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Pale Rider
-3-Azrael
-4-Mokoi
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Tamaki HP:490/999 MP:542/542
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:490/999 MP:542/542
-B-
+A-Aleph HP:1072/1309 MP:613/613
+B-Mastema HP:399/399 MP:343/387
 C-
 D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Pale Rider HP:693/693 MP:310/310
-C-Azrael HP:323/338 MP:314/328
-D-Mokoi HP:41/74 MP:31/36
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Pale Rider
-2-Azrael
-3-Mokoi
-4-Aleph
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Sedna HP:332/350 MP:59/68
-2-Lham Dearg HP:91/91 MP:19/19
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Sedna HP:332/350 MP:59/68
-2-Lham Dearg HP:91/91 MP:19/19
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Lham Dearg ha sido invocado
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:490/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Lham Dearg HP:91/91 MP:19/19
-C-Azrael HP:323/338 MP:314/328
-D-Mokoi HP:41/74 MP:31/36
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Azrael
-2-Mokoi
-3-Aleph
-4-Lham Dearg
-----------------------------------------
-Seleccione una acción para Azrael
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Sedna HP:332/350 MP:59/68
-2-Pale Rider HP:693/693 MP:310/310
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Azrael
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Azrael
-1-Tamaki HP:490/999 MP:542/542
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Azrael ataca a Tamaki
-Tamaki es resistente el ataque de Azrael
-Tamaki recibe 18 de daño
-Tamaki termina con HP:472/999
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:472/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Lham Dearg HP:91/91 MP:19/19
-C-Azrael HP:323/338 MP:314/328
-D-Mokoi HP:41/74 MP:31/36
 ----------------------------------------
 Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Mokoi
-2-Aleph
-3-Lham Dearg
-4-Azrael
-----------------------------------------
-Seleccione una acción para Mokoi
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Sedna HP:332/350 MP:59/68
-2-Pale Rider HP:693/693 MP:310/310
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Sedna ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:472/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Lham Dearg HP:91/91 MP:19/19
-C-Azrael HP:323/338 MP:314/328
-D-Sedna HP:332/350 MP:59/68
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
 1-Aleph
-2-Lham Dearg
-3-Azrael
-4-Sedna
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:472/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Lham Dearg HP:91/91 MP:19/19
-C-Azrael HP:323/338 MP:314/328
-D-Sedna HP:332/350 MP:59/68
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Lham Dearg
-2-Azrael
-3-Sedna
-4-Aleph
-----------------------------------------
-Seleccione una acción para Lham Dearg
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Lham Dearg
-1-Tamaki HP:472/999 MP:542/542
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Lham Dearg
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Lham Dearg
-1-Tamaki HP:472/999 MP:542/542
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Lham Dearg ataca a Tamaki
-Tamaki es resistente el ataque de Lham Dearg
-Tamaki recibe 1 de daño
-Tamaki termina con HP:471/999
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Tamaki (J1)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:471/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Lham Dearg HP:91/91 MP:19/19
-C-Azrael HP:323/338 MP:314/328
-D-Sedna HP:332/350 MP:59/68
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Tamaki
-----------------------------------------
-Seleccione una acción para Tamaki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:471/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1291/1309 MP:606/613
-B-Lham Dearg HP:91/91 MP:19/19
-C-Azrael HP:323/338 MP:314/328
-D-Sedna HP:332/350 MP:59/68
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Tamaki
-----------------------------------------
-Seleccione una acción para Tamaki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Tamaki
-1-Aleph HP:1291/1309 MP:606/613
-2-Lham Dearg HP:91/91 MP:19/19
-3-Azrael HP:323/338 MP:314/328
-4-Sedna HP:332/350 MP:59/68
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Tamaki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Tamaki
-1-Aleph HP:1291/1309 MP:606/613
-2-Lham Dearg HP:91/91 MP:19/19
-3-Azrael HP:323/338 MP:314/328
-4-Sedna HP:332/350 MP:59/68
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Tamaki ataca a Aleph
-Aleph es resistente el ataque de Tamaki
-Aleph recibe 9 de daño
-Aleph termina con HP:1282/1309
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Aleph (J2)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:471/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1282/1309 MP:606/613
-B-Lham Dearg HP:91/91 MP:19/19
-C-Azrael HP:323/338 MP:314/328
-D-Sedna HP:332/350 MP:59/68
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Azrael
-3-Sedna
-4-Lham Dearg
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Aleph use
-1-Damascus Claw MP:7
-2-Cancelar
-INPUT: 2
+2-Mastema
 ----------------------------------------
 Seleccione una acción para Aleph
 1: Atacar
@@ -3619,605 +1798,13 @@ Seleccione una acción para Aleph
 INPUT: 2
 ----------------------------------------
 Seleccione un objetivo para Aleph
-1-Tamaki HP:471/999 MP:542/542
+1-Kazfiel HP:229/469 MP:183/211
 2-Cancelar
 INPUT: 1
 ----------------------------------------
-Aleph dispara a Tamaki
-Tamaki es resistente el ataque de Aleph
-Tamaki recibe 138 de daño
-Tamaki termina con HP:333/999
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:333/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1282/1309 MP:606/613
-B-Lham Dearg HP:91/91 MP:19/19
-C-Azrael HP:323/338 MP:314/328
-D-Sedna HP:332/350 MP:59/68
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Azrael
-2-Sedna
-3-Lham Dearg
-4-Aleph
-----------------------------------------
-Seleccione una acción para Azrael
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:333/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1282/1309 MP:606/613
-B-Lham Dearg HP:91/91 MP:19/19
-C-Azrael HP:323/338 MP:314/328
-D-Sedna HP:332/350 MP:59/68
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Sedna
-2-Lham Dearg
-3-Aleph
-4-Azrael
-----------------------------------------
-Seleccione una acción para Sedna
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:333/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1282/1309 MP:606/613
-B-Lham Dearg HP:91/91 MP:19/19
-C-Azrael HP:323/338 MP:314/328
-D-Sedna HP:332/350 MP:59/68
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Lham Dearg
-2-Aleph
-3-Azrael
-4-Sedna
-----------------------------------------
-Seleccione una acción para Lham Dearg
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Lham Dearg use
-1-Gram Slice MP:5
-2-Critical Wave MP:10
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Lham Dearg
-1-Tamaki HP:333/999 MP:542/542
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Lham Dearg ataca a Tamaki
-Tamaki es resistente el ataque de Lham Dearg
-Tamaki recibe 11 de daño
-Tamaki termina con HP:322/999
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:322/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1282/1309 MP:606/613
-B-Lham Dearg HP:91/91 MP:14/19
-C-Azrael HP:323/338 MP:314/328
-D-Sedna HP:332/350 MP:59/68
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Azrael
-3-Sedna
-4-Lham Dearg
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Aleph use
-1-Damascus Claw MP:7
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Tamaki HP:322/999 MP:542/542
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Aleph dispara a Tamaki
-Tamaki es resistente el ataque de Aleph
-Tamaki recibe 138 de daño
-Tamaki termina con HP:184/999
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Tamaki (J1)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:184/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1282/1309 MP:606/613
-B-Lham Dearg HP:91/91 MP:14/19
-C-Azrael HP:323/338 MP:314/328
-D-Sedna HP:332/350 MP:59/68
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Tamaki
-----------------------------------------
-Seleccione una acción para Tamaki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Tamaki
-1-Aleph HP:1282/1309 MP:606/613
-2-Lham Dearg HP:91/91 MP:14/19
-3-Azrael HP:323/338 MP:314/328
-4-Sedna HP:332/350 MP:59/68
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Tamaki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Tamaki
-1-Aleph HP:1282/1309 MP:606/613
-2-Lham Dearg HP:91/91 MP:14/19
-3-Azrael HP:323/338 MP:314/328
-4-Sedna HP:332/350 MP:59/68
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Tamaki dispara a Azrael
-Azrael recibe 15 de daño
-Azrael termina con HP:308/338
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Aleph (J2)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:184/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1282/1309 MP:606/613
-B-Lham Dearg HP:91/91 MP:14/19
-C-Azrael HP:308/338 MP:314/328
-D-Sedna HP:332/350 MP:59/68
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Azrael
-3-Sedna
-4-Lham Dearg
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:184/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1282/1309 MP:606/613
-B-Lham Dearg HP:91/91 MP:14/19
-C-Azrael HP:308/338 MP:314/328
-D-Sedna HP:332/350 MP:59/68
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Azrael
-2-Sedna
-3-Lham Dearg
-4-Aleph
-----------------------------------------
-Seleccione una acción para Azrael
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Mokoi HP:41/74 MP:31/36
-2-Pale Rider HP:693/693 MP:310/310
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Pale Rider ha sido invocado
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:184/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1282/1309 MP:606/613
-B-Lham Dearg HP:91/91 MP:14/19
-C-Pale Rider HP:693/693 MP:310/310
-D-Sedna HP:332/350 MP:59/68
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Sedna
-2-Lham Dearg
-3-Aleph
-4-Pale Rider
-----------------------------------------
-Seleccione una acción para Sedna
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Mokoi HP:41/74 MP:31/36
-2-Azrael HP:308/338 MP:314/328
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Sedna
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Sedna use
-1-Mabufula MP:20
-2-Mamudo MP:18
-3-Posumudi MP:5
-4-Diarama MP:9
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Sedna
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Sedna
-1-Tamaki HP:184/999 MP:542/542
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Sedna ataca a Tamaki
-Tamaki es resistente el ataque de Sedna
-Tamaki recibe 12 de daño
-Tamaki termina con HP:172/999
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:172/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1282/1309 MP:606/613
-B-Lham Dearg HP:91/91 MP:14/19
-C-Pale Rider HP:693/693 MP:310/310
-D-Sedna HP:332/350 MP:59/68
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Lham Dearg
-2-Aleph
-3-Pale Rider
-4-Sedna
-----------------------------------------
-Seleccione una acción para Lham Dearg
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Lham Dearg use
-1-Gram Slice MP:5
-2-Critical Wave MP:10
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Lham Dearg
-1-Tamaki HP:172/999 MP:542/542
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Lham Dearg ataca a Tamaki
-Tamaki es resistente el ataque de Lham Dearg
-Tamaki recibe 11 de daño
-Tamaki termina con HP:161/999
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:161/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1282/1309 MP:606/613
-B-Lham Dearg HP:91/91 MP:9/19
-C-Pale Rider HP:693/693 MP:310/310
-D-Sedna HP:332/350 MP:59/68
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Pale Rider
-3-Sedna
-4-Lham Dearg
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Aleph use
-1-Damascus Claw MP:7
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Tamaki HP:161/999 MP:542/542
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Aleph ataca a Tamaki
-Tamaki es resistente el ataque de Aleph
-Tamaki recibe 94 de daño
-Tamaki termina con HP:67/999
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Tamaki (J1)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:67/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1282/1309 MP:599/613
-B-Lham Dearg HP:91/91 MP:9/19
-C-Pale Rider HP:693/693 MP:310/310
-D-Sedna HP:332/350 MP:59/68
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Tamaki
-----------------------------------------
-Seleccione una acción para Tamaki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:67/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1282/1309 MP:599/613
-B-Lham Dearg HP:91/91 MP:9/19
-C-Pale Rider HP:693/693 MP:310/310
-D-Sedna HP:332/350 MP:59/68
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Tamaki
-----------------------------------------
-Seleccione una acción para Tamaki
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Tamaki
-1-Aleph HP:1282/1309 MP:599/613
-2-Lham Dearg HP:91/91 MP:9/19
-3-Pale Rider HP:693/693 MP:310/310
-4-Sedna HP:332/350 MP:59/68
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Tamaki ataca a Aleph
-Aleph es resistente el ataque de Tamaki
-Aleph recibe 9 de daño
-Aleph termina con HP:1273/1309
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Aleph (J2)
-----------------------------------------
-Equipo de Tamaki (J1)
-A-Tamaki HP:67/999 MP:542/542
-B-
-C-
-D-
-Equipo de Aleph (J2)
-A-Aleph HP:1273/1309 MP:599/613
-B-Lham Dearg HP:91/91 MP:9/19
-C-Pale Rider HP:693/693 MP:310/310
-D-Sedna HP:332/350 MP:59/68
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Pale Rider
-3-Sedna
-4-Lham Dearg
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Aleph use
-1-Damascus Claw MP:7
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Tamaki HP:67/999 MP:542/542
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Tamaki HP:67/999 MP:542/542
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Aleph ataca a Tamaki
-Tamaki es resistente el ataque de Aleph
-Tamaki recibe 78 de daño
-Tamaki termina con HP:0/999
+Aleph dispara a Kazfiel
+Kazfiel recibe 276 de daño
+Kazfiel termina con HP:0/469
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)

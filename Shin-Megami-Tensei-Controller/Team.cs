@@ -5,10 +5,12 @@ public class Team
     private const int MAX_SAMURAI_ALLOWED = 1;
     private const int MAX_ABILITIES_ALLOWED = 8;
     private const int MAX_VISIBLE_MONSTERS = 3;
+    private int _initialMaxFullTurns;
     
     public string Player { get; private set; }
     public List<Monster> Units { get; private set; }
     public Samurai? Samurai { get; private set; }
+    private List<string> _originalMonstersOrder;
     public List<object> OrderList { get; private set; }
     public int FullTurns { get; private set; }
     public int BlinkingTurns { get; private set; }
@@ -62,6 +64,9 @@ public class Team
 
     public bool IsValidTeam(List<string> possibleUnits)
     {
+        _originalMonstersOrder = possibleUnits
+            .Where(name => !name.Contains("[Samurai]"))
+            .ToList();
         if (HasTooManyUnits(possibleUnits)) return false;
         
         HashSet<string> uniqueUnits = new HashSet<string>();
@@ -142,14 +147,14 @@ public class Team
     
     public void SetMaxFullTurns()
     {
-        MaxFullTurns = 0;
-        foreach (var entity in OrderList)
+        if (FullTurns == 0)
         {
-            if ((entity is Samurai samurai && !samurai.IsDead()) || 
-                (entity is Monster monster && !monster.IsDead()))
-            {
-                MaxFullTurns++;
-            }
+            MaxFullTurns = OrderList.Count;
+            _initialMaxFullTurns = MaxFullTurns;
+        }
+        else 
+        {
+            MaxFullTurns = _initialMaxFullTurns;
         }
     }
     
@@ -161,14 +166,6 @@ public class Team
     public bool HasCompletedAllTurns()
     {
         return FullTurns == MaxFullTurns && BlinkingTurns == 0;
-    }
-    
-    public void CompleteTurn()
-    {
-        if (FullTurns >= 0)
-        {
-            FullTurns += 1;
-        }
     }
     
     public bool AreAllUnitsDead()
@@ -211,5 +208,129 @@ public class Team
     public void IncrementUsedSkillsCount()
     {
         UsedSkillsCount++;
+    }
+    
+    public List<Monster> GetAvailableMonstersForSummon()
+    {
+        List<Monster> availableMonsters = new List<Monster>();
+        int frontLineCount = Math.Min(Units.Count, 3);
+
+        for (int i = frontLineCount; i < Units.Count; i++)
+        {
+            if (!Units[i].IsDead())
+                availableMonsters.Add(Units[i]);
+        }
+        return availableMonsters;
+    }
+
+    public void PlaceMonsterInPosition(Monster summonedMonster, int position)
+    {
+        // Guardar el índice original del monstruo invocado
+        int originalSummonedIndex = Units.IndexOf(summonedMonster);
+
+        // Eliminar el monstruo de su posición actual
+        Units.Remove(summonedMonster);
+
+        // Verificar si la posición está vacía (fuera de rango o monstruo muerto)
+        bool isEmptyPosition = position >= Units.Count ||
+                              (position < Units.Count && Units[position].IsDead());
+
+        if (isEmptyPosition)
+        {
+            // Colocar el monstruo en la posición especificada
+            if (position >= Units.Count)
+                Units.Add(summonedMonster);
+            else
+                Units[position] = summonedMonster;
+
+            // Asegurar que el monstruo esté al final de la lista de orden
+            if (OrderList.Contains(summonedMonster))
+                OrderList.Remove(summonedMonster);
+                
+            // Añadir el monstruo al final de la lista de orden
+            OrderList.Add(summonedMonster);
+
+            // Eliminar esta línea para evitar la rotación duplicada
+            // RotateOrderList();
+            
+            // Ordenar las unidades de reserva para mostrarlas correctamente
+            SortReserveMonsters();
+        }
+        else
+        {
+            // Si reemplazamos un monstruo existente, mantener el comportamiento actual
+            Monster replacedMonster = Units[position];
+            Units[position] = summonedMonster;
+
+            // Actualizar la posición en OrderList si el reemplazado estaba allí
+            if (OrderList.Contains(replacedMonster))
+            {
+                int index = OrderList.IndexOf(replacedMonster);
+                OrderList[index] = summonedMonster;
+            }
+            else if (!OrderList.Contains(summonedMonster))
+            {
+                OrderList.Add(summonedMonster);
+            }
+
+            // Colocar el monstruo reemplazado en su nueva posición
+            if (originalSummonedIndex >= 0 && originalSummonedIndex < Units.Count)
+            {
+                Units.Insert(originalSummonedIndex, replacedMonster);
+            }
+            else
+            {
+                Units.Add(replacedMonster);
+            }
+
+            // Ordenar las unidades de reserva
+            SortReserveMonsters();
+        }
+    }
+
+    public void SwapMonsters(Monster currentMonster, Monster summonedMonster)
+    {
+        // Obtener índices
+        int currentIndex = Units.IndexOf(currentMonster);
+        int summonedIndex = Units.IndexOf(summonedMonster);
+    
+        // Intercambiar posiciones en la lista de unidades
+        if (currentIndex >= 0 && summonedIndex >= 0)
+        {
+            Units[currentIndex] = summonedMonster;
+            Units[summonedIndex] = currentMonster;
+        }
+    
+        // Mantener la posición en la lista de orden
+        int orderIndex = OrderList.IndexOf(currentMonster);
+        if (orderIndex >= 0)
+            OrderList[orderIndex] = summonedMonster;
+        SortReserveMonsters();
+    }
+
+    public void ConsumeSummonTurns()
+    {
+        if (BlinkingTurns > 0)
+            ConsumeBlinkingTurn();
+        else
+        {
+            ConsumeFullTurn();
+            AddBlinkingTurn();
+        }
+        RotateOrderList();
+    }
+    
+    private void SortReserveMonsters()
+    {
+        // Separar los monstruos de reserva
+        var reserveMonsters = Units.Skip(MAX_VISIBLE_MONSTERS).ToList();
+    
+        // Ordenarlos según el orden original
+        reserveMonsters = reserveMonsters.OrderBy(monster => 
+            _originalMonstersOrder.IndexOf(monster.Name)).ToList();
+    
+        // Reemplazar la sección de reserva en la lista Units
+        Units.RemoveRange(MAX_VISIBLE_MONSTERS, Units.Count - MAX_VISIBLE_MONSTERS);
+        Units.AddRange(reserveMonsters);
     }
 }

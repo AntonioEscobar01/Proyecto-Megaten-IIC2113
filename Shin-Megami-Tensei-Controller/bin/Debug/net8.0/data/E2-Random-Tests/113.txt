@@ -201,29 +201,194 @@ Elige un archivo para cargar los equipos
 199: 200.txt
 INPUT: 112
 ----------------------------------------
-Ronda de Kyouji (J1)
+Ronda de Tadano (J1)
 ----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Kikuri-Hime HP:216/216 MP:210/210
-C-Mithras HP:293/293 MP:58/58
-D-Demonee-Ho HP:804/804 MP:160/160
-Equipo de Nahobino (J2)
-A-Nahobino HP:453/453 MP:389/389
-B-Sedna HP:350/350 MP:68/68
-C-Kama HP:574/574 MP:257/257
-D-Tam Lin HP:218/218 MP:43/43
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Kingu HP:464/464 MP:91/91
+C-Lailah HP:212/212 MP:205/205
+D-Anubis HP:497/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Kei HP:760/760 MP:398/398
+2-Kingu HP:464/464 MP:91/91
+3-Lailah HP:212/212 MP:205/205
+4-Anubis HP:497/497 MP:223/223
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tadano ataca a Kingu
+Kingu recibe 16 de daño
+Kingu termina con HP:448/464
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Kingu HP:448/464 MP:91/91
+C-Lailah HP:212/212 MP:205/205
+D-Anubis HP:497/497 MP:223/223
 ----------------------------------------
 Full Turns: 4
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Demonee-Ho
-2-Kikuri-Hime
-3-Kyouji
-4-Mithras
+1-Anubis
+2-Kingu
+3-Lailah
+4-Kei
 ----------------------------------------
-Seleccione una acción para Demonee-Ho
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Tadano HP:388/388 MP:193/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Anubis ataca a Tadano
+Tadano es resistente el ataque de Anubis
+Tadano recibe 20 de daño
+Tadano termina con HP:368/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:368/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Kingu HP:448/464 MP:91/91
+C-Lailah HP:212/212 MP:205/205
+D-Anubis HP:497/497 MP:223/223
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Lailah
+3-Kei
+4-Anubis
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:368/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Kingu HP:448/464 MP:91/91
+C-Lailah HP:212/212 MP:205/205
+D-Anubis HP:497/497 MP:223/223
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lailah
+2-Kei
+3-Anubis
+4-Kingu
+----------------------------------------
+Seleccione una acción para Lailah
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -231,222 +396,96 @@ Seleccione una acción para Demonee-Ho
 INPUT: 3
 ----------------------------------------
 Seleccione un monstruo para invocar
-1-Hachiman HP:851/851 MP:170/170
-2-Virtue HP:240/240 MP:232/232
-3-Alilat HP:441/441 MP:428/428
-4-Anzu HP:596/596 MP:118/118
-5-Cancelar
-INPUT: 4
+1-Cancelar
+INPUT: 1
 ----------------------------------------
-Anzu ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Kikuri-Hime HP:216/216 MP:210/210
-C-Mithras HP:293/293 MP:58/58
-D-Anzu HP:596/596 MP:118/118
-Equipo de Nahobino (J2)
-A-Nahobino HP:453/453 MP:389/389
-B-Sedna HP:350/350 MP:68/68
-C-Kama HP:574/574 MP:257/257
-D-Tam Lin HP:218/218 MP:43/43
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Kikuri-Hime
-2-Kyouji
-3-Mithras
-4-Anzu
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
+Seleccione una acción para Lailah
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Kikuri-Hime use
-1-Tetraja MP:15
-2-Me Patra MP:15
-3-Diarama MP:9
-4-Recarm MP:20
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Kikuri-Hime
-1-Kyouji HP:999/999 MP:0/0
-2-Kikuri-Hime HP:216/216 MP:210/210
-3-Mithras HP:293/293 MP:58/58
-4-Anzu HP:596/596 MP:118/118
-5-Demonee-Ho HP:804/804 MP:160/160
-6-Hachiman HP:851/851 MP:170/170
-7-Virtue HP:240/240 MP:232/232
-8-Alilat HP:441/441 MP:428/428
-9-Cancelar
-INPUT: 8
-----------------------------------------
-Kikuri-Hime cura a Alilat
-Alilat recibe 220 de HP
-Alilat termina con HP:441/441
+INPUT: 4
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Kikuri-Hime HP:216/216 MP:201/210
-C-Mithras HP:293/293 MP:58/58
-D-Anzu HP:596/596 MP:118/118
-Equipo de Nahobino (J2)
-A-Nahobino HP:453/453 MP:389/389
-B-Sedna HP:350/350 MP:68/68
-C-Kama HP:574/574 MP:257/257
-D-Tam Lin HP:218/218 MP:43/43
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Kyouji
-2-Mithras
-3-Anzu
-4-Kikuri-Hime
-----------------------------------------
-Seleccione una acción para Kyouji
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Kyouji use
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Kyouji
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Kyouji
-1-Nahobino HP:453/453 MP:389/389
-2-Sedna HP:350/350 MP:68/68
-3-Kama HP:574/574 MP:257/257
-4-Tam Lin HP:218/218 MP:43/43
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Kyouji
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Kyouji use
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Kyouji
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Kyouji
-1-Nahobino HP:453/453 MP:389/389
-2-Sedna HP:350/350 MP:68/68
-3-Kama HP:574/574 MP:257/257
-4-Tam Lin HP:218/218 MP:43/43
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Kyouji dispara a Nahobino
-Nahobino recibe 911 de daño
-Nahobino termina con HP:0/453
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Kikuri-Hime HP:216/216 MP:201/210
-C-Mithras HP:293/293 MP:58/58
-D-Anzu HP:596/596 MP:118/118
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:389/389
-B-Sedna HP:350/350 MP:68/68
-C-Kama HP:574/574 MP:257/257
-D-Tam Lin HP:218/218 MP:43/43
+Equipo de Tadano (J1)
+A-Tadano HP:368/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Kingu HP:448/464 MP:91/91
+C-Lailah HP:212/212 MP:205/205
+D-Anubis HP:497/497 MP:223/223
 ----------------------------------------
 Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Mithras
-2-Anzu
-3-Kikuri-Hime
-4-Kyouji
+1-Kei
+2-Anubis
+3-Kingu
+4-Lailah
 ----------------------------------------
-Seleccione una acción para Mithras
+Seleccione una acción para Kei
 1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Mithras
-1-Sedna HP:350/350 MP:68/68
-2-Kama HP:574/574 MP:257/257
-3-Tam Lin HP:218/218 MP:43/43
-4-Cancelar
-INPUT: 2
+Seleccione un objetivo para Kei
+1-Tadano HP:368/388 MP:193/193
+2-Cancelar
+INPUT: 1
 ----------------------------------------
-Mithras ataca a Kama
-Kama es resistente el ataque de Mithras
-Kama recibe 10 de daño
-Kama termina con HP:564/574
+Kei ataca a Tadano
+Tadano es resistente el ataque de Kei
+Tadano recibe 9 de daño
+Tadano termina con HP:359/388
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Kikuri-Hime HP:216/216 MP:201/210
-C-Mithras HP:293/293 MP:58/58
-D-Anzu HP:596/596 MP:118/118
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:389/389
-B-Sedna HP:350/350 MP:68/68
-C-Kama HP:564/574 MP:257/257
-D-Tam Lin HP:218/218 MP:43/43
+Equipo de Tadano (J1)
+A-Tadano HP:359/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Kingu HP:448/464 MP:91/91
+C-Lailah HP:212/212 MP:205/205
+D-Anubis HP:497/497 MP:223/223
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Anzu
-2-Kikuri-Hime
-3-Kyouji
-4-Mithras
+1-Anubis
+2-Kingu
+3-Lailah
+4-Kei
 ----------------------------------------
-Seleccione una acción para Anzu
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Anubis use
+1-Judgement Light MP:45
+2-Mamudoon MP:30
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Anubis
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -456,27 +495,38 @@ INPUT: 4
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Kikuri-Hime HP:216/216 MP:201/210
-C-Mithras HP:293/293 MP:58/58
-D-Anzu HP:596/596 MP:118/118
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:389/389
-B-Sedna HP:350/350 MP:68/68
-C-Kama HP:564/574 MP:257/257
-D-Tam Lin HP:218/218 MP:43/43
+Equipo de Tadano (J1)
+A-Tadano HP:359/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Kingu HP:448/464 MP:91/91
+C-Lailah HP:212/212 MP:205/205
+D-Anubis HP:497/497 MP:223/223
 ----------------------------------------
 Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Kikuri-Hime
-2-Kyouji
-3-Mithras
-4-Anzu
+1-Kingu
+2-Lailah
+3-Kei
+4-Anubis
 ----------------------------------------
-Seleccione una acción para Kikuri-Hime
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kingu
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -486,84 +536,86 @@ INPUT: 4
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Nahobino (J2)
+Ronda de Tadano (J1)
 ----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Kikuri-Hime HP:216/216 MP:201/210
-C-Mithras HP:293/293 MP:58/58
-D-Anzu HP:596/596 MP:118/118
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:389/389
-B-Sedna HP:350/350 MP:68/68
-C-Kama HP:564/574 MP:257/257
-D-Tam Lin HP:218/218 MP:43/43
+Equipo de Tadano (J1)
+A-Tadano HP:359/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Kingu HP:448/464 MP:91/91
+C-Lailah HP:212/212 MP:205/205
+D-Anubis HP:497/497 MP:223/223
 ----------------------------------------
-Full Turns: 3
+Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Kama
-2-Sedna
-3-Tam Lin
+1-Tadano
 ----------------------------------------
-Seleccione una acción para Kama
+Seleccione una acción para Tadano
 1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Kama
-1-Kyouji HP:999/999 MP:0/0
-2-Kikuri-Hime HP:216/216 MP:201/210
-3-Mithras HP:293/293 MP:58/58
-4-Anzu HP:596/596 MP:118/118
+Seleccione un objetivo para Tadano
+1-Kei HP:760/760 MP:398/398
+2-Kingu HP:448/464 MP:91/91
+3-Lailah HP:212/212 MP:205/205
+4-Anubis HP:497/497 MP:223/223
 5-Cancelar
 INPUT: 4
 ----------------------------------------
-Kama ataca a Anzu
-Anzu recibe 48 de daño
-Anzu termina con HP:548/596
+Tadano ataca a Anubis
+Anubis recibe 16 de daño
+Anubis termina con HP:481/497
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Kikuri-Hime HP:216/216 MP:201/210
-C-Mithras HP:293/293 MP:58/58
-D-Anzu HP:548/596 MP:118/118
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:389/389
-B-Sedna HP:350/350 MP:68/68
-C-Kama HP:564/574 MP:257/257
-D-Tam Lin HP:218/218 MP:43/43
+Ronda de Kei (J2)
 ----------------------------------------
-Full Turns: 2
+Equipo de Tadano (J1)
+A-Tadano HP:359/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Kingu HP:448/464 MP:91/91
+C-Lailah HP:212/212 MP:205/205
+D-Anubis HP:481/497 MP:223/223
+----------------------------------------
+Full Turns: 4
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Sedna
-2-Tam Lin
-3-Kama
+1-Anubis
+2-Kingu
+3-Lailah
+4-Kei
 ----------------------------------------
-Seleccione una acción para Sedna
+Seleccione una acción para Anubis
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 2
 ----------------------------------------
-Seleccione una habilidad para que Sedna use
-1-Mabufula MP:20
-2-Mamudo MP:18
-3-Posumudi MP:5
-4-Diarama MP:9
-5-Cancelar
-INPUT: 5
+Seleccione una habilidad para que Anubis use
+1-Judgement Light MP:45
+2-Mamudoon MP:30
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
 ----------------------------------------
-Seleccione una acción para Sedna
+Seleccione una acción para Anubis
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -573,26 +625,275 @@ INPUT: 4
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Kikuri-Hime HP:216/216 MP:201/210
-C-Mithras HP:293/293 MP:58/58
-D-Anzu HP:548/596 MP:118/118
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:389/389
-B-Sedna HP:350/350 MP:68/68
-C-Kama HP:564/574 MP:257/257
-D-Tam Lin HP:218/218 MP:43/43
+Equipo de Tadano (J1)
+A-Tadano HP:359/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Kingu HP:448/464 MP:91/91
+C-Lailah HP:212/212 MP:205/205
+D-Anubis HP:481/497 MP:223/223
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kingu
+2-Lailah
+3-Kei
+4-Anubis
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kingu use
+1-Zanma MP:8
+2-Recarmdra MP:2
+3-Shock MP:21
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Tadano HP:359/388 MP:193/193
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Tadano HP:359/388 MP:193/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kingu ataca a Tadano
+Tadano es resistente el ataque de Kingu
+Tadano recibe 17 de daño
+Tadano termina con HP:342/388
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:342/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Kingu HP:448/464 MP:91/91
+C-Lailah HP:212/212 MP:205/205
+D-Anubis HP:481/497 MP:223/223
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lailah
+2-Kei
+3-Anubis
+4-Kingu
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lailah
+1-Tadano HP:342/388 MP:193/193
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lailah use
+1-Recarm MP:20
+2-Mahama MP:18
+3-Hamaon MP:10
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lailah
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:342/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Kingu HP:448/464 MP:91/91
+C-Lailah HP:212/212 MP:205/205
+D-Anubis HP:481/497 MP:223/223
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Anubis
+3-Kingu
+4-Lailah
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:342/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Kingu HP:448/464 MP:91/91
+C-Lailah HP:212/212 MP:205/205
+D-Anubis HP:481/497 MP:223/223
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anubis
+2-Kingu
+3-Lailah
+4-Kei
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Tadano HP:342/388 MP:193/193
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:342/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Kingu HP:448/464 MP:91/91
+C-Lailah HP:212/212 MP:205/205
+D-Anubis HP:481/497 MP:223/223
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Tam Lin
-2-Kama
-3-Sedna
+1-Kingu
+2-Lailah
+3-Kei
+4-Anubis
 ----------------------------------------
-Seleccione una acción para Tam Lin
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kingu
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -602,328 +903,407 @@ INPUT: 4
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Kikuri-Hime HP:216/216 MP:201/210
-C-Mithras HP:293/293 MP:58/58
-D-Anzu HP:548/596 MP:118/118
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:389/389
-B-Sedna HP:350/350 MP:68/68
-C-Kama HP:564/574 MP:257/257
-D-Tam Lin HP:218/218 MP:43/43
+Equipo de Tadano (J1)
+A-Tadano HP:342/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Kingu HP:448/464 MP:91/91
+C-Lailah HP:212/212 MP:205/205
+D-Anubis HP:481/497 MP:223/223
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Kama
-2-Sedna
-3-Tam Lin
+1-Lailah
+2-Kei
+3-Anubis
+4-Kingu
 ----------------------------------------
-Seleccione una acción para Kama
+Seleccione una acción para Lailah
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 2
 ----------------------------------------
-Seleccione una habilidad para que Kama use
-1-Tetraja MP:15
-2-Madness Needle MP:11
-3-Diarahan MP:16
-4-Heaven's Bow MP:26
+Seleccione una habilidad para que Lailah use
+1-Recarm MP:20
+2-Mahama MP:18
+3-Hamaon MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:342/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Kingu HP:448/464 MP:91/91
+C-Lailah HP:212/212 MP:205/205
+D-Anubis HP:481/497 MP:223/223
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Anubis
+3-Kingu
+4-Lailah
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:342/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Kingu HP:448/464 MP:91/91
+C-Lailah HP:212/212 MP:205/205
+D-Anubis HP:481/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:342/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Kingu HP:448/464 MP:91/91
+C-Lailah HP:212/212 MP:205/205
+D-Anubis HP:481/497 MP:223/223
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Kei HP:760/760 MP:398/398
+2-Kingu HP:448/464 MP:91/91
+3-Lailah HP:212/212 MP:205/205
+4-Anubis HP:481/497 MP:223/223
 5-Cancelar
+INPUT: 2
+----------------------------------------
+Tadano dispara a Kingu
+Kingu recibe 20 de daño
+Kingu termina con HP:428/464
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:342/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Kingu HP:428/464 MP:91/91
+C-Lailah HP:212/212 MP:205/205
+D-Anubis HP:481/497 MP:223/223
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anubis
+2-Kingu
+3-Lailah
+4-Kei
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
 INPUT: 3
 ----------------------------------------
-Seleccione un objetivo para Kama
-1-Nahobino HP:0/453 MP:389/389
-2-Sedna HP:350/350 MP:68/68
-3-Kama HP:564/574 MP:257/257
-4-Tam Lin HP:218/218 MP:43/43
-5-Koppa Tengu HP:196/196 MP:88/88
-6-Chagrin HP:67/67 MP:72/72
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Tadano HP:342/388 MP:193/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Anubis ataca a Tadano
+Tadano es resistente el ataque de Anubis
+Tadano recibe 20 de daño
+Tadano termina con HP:322/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:322/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Kingu HP:428/464 MP:91/91
+C-Lailah HP:212/212 MP:205/205
+D-Anubis HP:481/497 MP:223/223
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Lailah
+3-Kei
+4-Anubis
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kingu use
+1-Zanma MP:8
+2-Recarmdra MP:2
+3-Shock MP:21
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Tadano HP:322/388 MP:193/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kingu lanza viento a Tadano
+Tadano recibe 73 de daño
+Tadano termina con HP:249/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:249/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Kingu HP:428/464 MP:83/91
+C-Lailah HP:212/212 MP:205/205
+D-Anubis HP:481/497 MP:223/223
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lailah
+2-Kei
+3-Anubis
+4-Kingu
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:249/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Kingu HP:428/464 MP:83/91
+C-Lailah HP:212/212 MP:205/205
+D-Anubis HP:481/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Anubis
+3-Kingu
+4-Lailah
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Trisagion MP:22
+2-Iron Judgement MP:8
+3-Bufula MP:8
+4-Diarahan MP:16
+5-Needle Shot MP:4
+6-Sabbatma MP:20
 7-Cancelar
 INPUT: 5
 ----------------------------------------
-Kama cura a Koppa Tengu
-Koppa Tengu recibe 196 de HP
-Koppa Tengu termina con HP:196/196
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Kyouji (J1)
-----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Kikuri-Hime HP:216/216 MP:201/210
-C-Mithras HP:293/293 MP:58/58
-D-Anzu HP:548/596 MP:118/118
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:389/389
-B-Sedna HP:350/350 MP:68/68
-C-Kama HP:564/574 MP:241/257
-D-Tam Lin HP:218/218 MP:43/43
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Anzu
-2-Kikuri-Hime
-3-Kyouji
-4-Mithras
-----------------------------------------
-Seleccione una acción para Anzu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Demonee-Ho HP:804/804 MP:160/160
-2-Hachiman HP:851/851 MP:170/170
-3-Virtue HP:240/240 MP:232/232
-4-Alilat HP:441/441 MP:428/428
-5-Cancelar
+Seleccione un objetivo para Kei
+1-Tadano HP:249/388 MP:193/193
+2-Cancelar
 INPUT: 2
 ----------------------------------------
-Hachiman ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Kikuri-Hime HP:216/216 MP:201/210
-C-Mithras HP:293/293 MP:58/58
-D-Hachiman HP:851/851 MP:170/170
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:389/389
-B-Sedna HP:350/350 MP:68/68
-C-Kama HP:564/574 MP:241/257
-D-Tam Lin HP:218/218 MP:43/43
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Kikuri-Hime
-2-Kyouji
-3-Mithras
-4-Hachiman
-----------------------------------------
-Seleccione una acción para Kikuri-Hime
+Seleccione una acción para Kei
 1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
 ----------------------------------------
-Seleccione una habilidad para que Kikuri-Hime use
-1-Tetraja MP:15
-2-Me Patra MP:15
-3-Diarama MP:9
-4-Recarm MP:20
-5-Cancelar
-INPUT: 5
+Seleccione un objetivo para Kei
+1-Tadano HP:249/388 MP:193/193
+2-Cancelar
+INPUT: 1
 ----------------------------------------
-Seleccione una acción para Kikuri-Hime
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Demonee-Ho HP:804/804 MP:160/160
-2-Virtue HP:240/240 MP:232/232
-3-Alilat HP:441/441 MP:428/428
-4-Anzu HP:548/596 MP:118/118
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Virtue ha sido invocado
+Kei ataca a Tadano
+Tadano es resistente el ataque de Kei
+Tadano recibe 9 de daño
+Tadano termina con HP:240/388
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Virtue HP:240/240 MP:232/232
-C-Mithras HP:293/293 MP:58/58
-D-Hachiman HP:851/851 MP:170/170
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:389/389
-B-Sedna HP:350/350 MP:68/68
-C-Kama HP:564/574 MP:241/257
-D-Tam Lin HP:218/218 MP:43/43
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Kyouji
-2-Mithras
-3-Hachiman
-4-Virtue
-----------------------------------------
-Seleccione una acción para Kyouji
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Kyouji use
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Kyouji
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Kikuri-Hime HP:216/216 MP:201/210
-2-Demonee-Ho HP:804/804 MP:160/160
-3-Alilat HP:441/441 MP:428/428
-4-Anzu HP:548/596 MP:118/118
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una posición para invocar
-1-Virtue HP:240/240 MP:232/232 (Puesto 2)
-2-Mithras HP:293/293 MP:58/58 (Puesto 3)
-3-Hachiman HP:851/851 MP:170/170 (Puesto 4)
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Kyouji
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Kyouji use
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Kyouji
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Kyouji
-1-Sedna HP:350/350 MP:68/68
-2-Kama HP:564/574 MP:241/257
-3-Tam Lin HP:218/218 MP:43/43
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Kyouji ataca a Sedna
-Sedna recibe 614 de daño
-Sedna termina con HP:0/350
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Virtue HP:240/240 MP:232/232
-C-Mithras HP:293/293 MP:58/58
-D-Hachiman HP:851/851 MP:170/170
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:389/389
+Equipo de Tadano (J1)
+A-Tadano HP:240/388 MP:193/193
 B-
-C-Kama HP:564/574 MP:241/257
-D-Tam Lin HP:218/218 MP:43/43
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Mithras
-2-Hachiman
-3-Virtue
-4-Kyouji
-----------------------------------------
-Seleccione una acción para Mithras
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Virtue HP:240/240 MP:232/232
-C-Mithras HP:293/293 MP:58/58
-D-Hachiman HP:851/851 MP:170/170
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:389/389
-B-
-C-Kama HP:564/574 MP:241/257
-D-Tam Lin HP:218/218 MP:43/43
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Hachiman
-2-Virtue
-3-Kyouji
-4-Mithras
-----------------------------------------
-Seleccione una acción para Hachiman
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Virtue HP:240/240 MP:232/232
-C-Mithras HP:293/293 MP:58/58
-D-Hachiman HP:851/851 MP:170/170
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:389/389
-B-
-C-Kama HP:564/574 MP:241/257
-D-Tam Lin HP:218/218 MP:43/43
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Kingu HP:428/464 MP:83/91
+C-Lailah HP:212/212 MP:205/205
+D-Anubis HP:481/497 MP:223/223
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Virtue
-2-Kyouji
-3-Mithras
-4-Hachiman
+1-Anubis
+2-Kingu
+3-Lailah
+4-Kei
 ----------------------------------------
-Seleccione una acción para Virtue
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Anubis
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -933,475 +1313,122 @@ INPUT: 4
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Virtue HP:240/240 MP:232/232
-C-Mithras HP:293/293 MP:58/58
-D-Hachiman HP:851/851 MP:170/170
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:389/389
+Equipo de Tadano (J1)
+A-Tadano HP:240/388 MP:193/193
 B-
-C-Kama HP:564/574 MP:241/257
-D-Tam Lin HP:218/218 MP:43/43
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Kingu HP:428/464 MP:83/91
+C-Lailah HP:212/212 MP:205/205
+D-Anubis HP:481/497 MP:223/223
 ----------------------------------------
 Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Kyouji
-2-Mithras
-3-Hachiman
-4-Virtue
+1-Kingu
+2-Lailah
+3-Kei
+4-Anubis
 ----------------------------------------
-Seleccione una acción para Kyouji
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Kyouji
-1-Kama HP:564/574 MP:241/257
-2-Tam Lin HP:218/218 MP:43/43
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Kyouji dispara a Kama
-Kama bloquea el ataque de Kyouji
-Kama termina con HP:564/574
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Nahobino (J2)
-----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Virtue HP:240/240 MP:232/232
-C-Mithras HP:293/293 MP:58/58
-D-Hachiman HP:851/851 MP:170/170
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:389/389
-B-
-C-Kama HP:564/574 MP:241/257
-D-Tam Lin HP:218/218 MP:43/43
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Kama
-2-Tam Lin
-----------------------------------------
-Seleccione una acción para Kama
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Virtue HP:240/240 MP:232/232
-C-Mithras HP:293/293 MP:58/58
-D-Hachiman HP:851/851 MP:170/170
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:389/389
-B-
-C-Kama HP:564/574 MP:241/257
-D-Tam Lin HP:218/218 MP:43/43
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Tam Lin
-2-Kama
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Tam Lin use
-1-Hama MP:6
-2-Gram Slice MP:5
-3-Maragi MP:11
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Tam Lin
+Seleccione una acción para Kingu
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Tam Lin
-1-Kyouji HP:999/999 MP:0/0
-2-Virtue HP:240/240 MP:232/232
-3-Mithras HP:293/293 MP:58/58
-4-Hachiman HP:851/851 MP:170/170
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Tam Lin ataca a Virtue
-Virtue recibe 14 de daño
-Virtue termina con HP:226/240
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Virtue HP:226/240 MP:232/232
-C-Mithras HP:293/293 MP:58/58
-D-Hachiman HP:851/851 MP:170/170
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:389/389
-B-
-C-Kama HP:564/574 MP:241/257
-D-Tam Lin HP:218/218 MP:43/43
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Kama
-2-Tam Lin
-----------------------------------------
-Seleccione una acción para Kama
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Kama
-1-Kyouji HP:999/999 MP:0/0
-2-Virtue HP:226/240 MP:232/232
-3-Mithras HP:293/293 MP:58/58
-4-Hachiman HP:851/851 MP:170/170
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Kama ataca a Virtue
-Virtue recibe 48 de daño
-Virtue termina con HP:178/240
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Kyouji (J1)
-----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Virtue HP:178/240 MP:232/232
-C-Mithras HP:293/293 MP:58/58
-D-Hachiman HP:851/851 MP:170/170
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:389/389
-B-
-C-Kama HP:564/574 MP:241/257
-D-Tam Lin HP:218/218 MP:43/43
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Hachiman
-2-Virtue
-3-Kyouji
-4-Mithras
-----------------------------------------
-Seleccione una acción para Hachiman
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Kikuri-Hime HP:216/216 MP:201/210
-2-Demonee-Ho HP:804/804 MP:160/160
-3-Alilat HP:441/441 MP:428/428
-4-Anzu HP:548/596 MP:118/118
-5-Cancelar
-INPUT: 4
-----------------------------------------
-Anzu ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Virtue HP:178/240 MP:232/232
-C-Mithras HP:293/293 MP:58/58
-D-Anzu HP:548/596 MP:118/118
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:389/389
-B-
-C-Kama HP:564/574 MP:241/257
-D-Tam Lin HP:218/218 MP:43/43
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Virtue
-2-Kyouji
-3-Mithras
-4-Anzu
-----------------------------------------
-Seleccione una acción para Virtue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Virtue HP:178/240 MP:232/232
-C-Mithras HP:293/293 MP:58/58
-D-Anzu HP:548/596 MP:118/118
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:389/389
-B-
-C-Kama HP:564/574 MP:241/257
-D-Tam Lin HP:218/218 MP:43/43
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Kyouji
-2-Mithras
-3-Anzu
-4-Virtue
-----------------------------------------
-Seleccione una acción para Kyouji
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Kyouji
-1-Kama HP:564/574 MP:241/257
-2-Tam Lin HP:218/218 MP:43/43
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Kyouji
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Kyouji
-1-Kama HP:564/574 MP:241/257
-2-Tam Lin HP:218/218 MP:43/43
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Kyouji ataca a Tam Lin
-Tam Lin recibe 614 de daño
-Tam Lin termina con HP:0/218
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Virtue HP:178/240 MP:232/232
-C-Mithras HP:293/293 MP:58/58
-D-Anzu HP:548/596 MP:118/118
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:389/389
-B-
-C-Kama HP:564/574 MP:241/257
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Mithras
-2-Anzu
-3-Virtue
-4-Kyouji
-----------------------------------------
-Seleccione una acción para Mithras
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Virtue HP:178/240 MP:232/232
-C-Mithras HP:293/293 MP:58/58
-D-Anzu HP:548/596 MP:118/118
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:389/389
-B-
-C-Kama HP:564/574 MP:241/257
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Anzu
-2-Virtue
-3-Kyouji
-4-Mithras
-----------------------------------------
-Seleccione una acción para Anzu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Kikuri-Hime HP:216/216 MP:201/210
-2-Demonee-Ho HP:804/804 MP:160/160
-3-Hachiman HP:851/851 MP:170/170
-4-Alilat HP:441/441 MP:428/428
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Anzu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Anzu use
-1-Zionga MP:8
-2-Nihil Claw MP:11
-3-Me Patra MP:15
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Anzu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Anzu use
-1-Zionga MP:8
-2-Nihil Claw MP:11
-3-Me Patra MP:15
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Anzu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Anzu
-1-Kama HP:564/574 MP:241/257
+Seleccione un objetivo para Kingu
+1-Tadano HP:240/388 MP:193/193
 2-Cancelar
 INPUT: 1
 ----------------------------------------
-Anzu ataca a Kama
-Kama es resistente el ataque de Anzu
-Kama recibe 22 de daño
-Kama termina con HP:542/574
+Kingu ataca a Tadano
+Tadano es resistente el ataque de Kingu
+Tadano recibe 17 de daño
+Tadano termina con HP:223/388
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Virtue HP:178/240 MP:232/232
-C-Mithras HP:293/293 MP:58/58
-D-Anzu HP:548/596 MP:118/118
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:389/389
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:223/388 MP:193/193
 B-
-C-Kama HP:542/574 MP:241/257
+C-
 D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Kingu HP:428/464 MP:83/91
+C-Lailah HP:212/212 MP:205/205
+D-Anubis HP:481/497 MP:223/223
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Virtue
-2-Kyouji
-3-Mithras
-4-Anzu
+1-Tadano
 ----------------------------------------
-Seleccione una acción para Virtue
+Seleccione una acción para Tadano
 1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
 ----------------------------------------
 Seleccione un monstruo para invocar
-1-Kikuri-Hime HP:216/216 MP:201/210
-2-Demonee-Ho HP:804/804 MP:160/160
-3-Hachiman HP:851/851 MP:170/170
-4-Alilat HP:441/441 MP:428/428
-5-Cancelar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tadano use
+1-Zio MP:5
+2-Cancelar
 INPUT: 2
 ----------------------------------------
-Demonee-Ho ha sido invocado
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Demonee-Ho HP:804/804 MP:160/160
-C-Mithras HP:293/293 MP:58/58
-D-Anzu HP:548/596 MP:118/118
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:389/389
+Equipo de Tadano (J1)
+A-Tadano HP:223/388 MP:193/193
 B-
-C-Kama HP:542/574 MP:241/257
+C-
 D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Kingu HP:428/464 MP:83/91
+C-Lailah HP:212/212 MP:205/205
+D-Anubis HP:481/497 MP:223/223
 ----------------------------------------
 Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Kyouji
-2-Mithras
-3-Anzu
-4-Demonee-Ho
+1-Tadano
 ----------------------------------------
-Seleccione una acción para Kyouji
+Seleccione una acción para Tadano
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -1413,204 +1440,87 @@ INPUT: 5
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Nahobino (J2)
+Ronda de Kei (J2)
 ----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Demonee-Ho HP:804/804 MP:160/160
-C-Mithras HP:293/293 MP:58/58
-D-Anzu HP:548/596 MP:118/118
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:389/389
+Equipo de Tadano (J1)
+A-Tadano HP:223/388 MP:193/193
 B-
-C-Kama HP:542/574 MP:241/257
+C-
 D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Kama
-----------------------------------------
-Seleccione una acción para Kama
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Kama
-1-Kyouji HP:999/999 MP:0/0
-2-Demonee-Ho HP:804/804 MP:160/160
-3-Mithras HP:293/293 MP:58/58
-4-Anzu HP:548/596 MP:118/118
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Kama ataca a Demonee-Ho
-Demonee-Ho es resistente el ataque de Kama
-Demonee-Ho recibe 24 de daño
-Demonee-Ho termina con HP:780/804
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Kyouji (J1)
-----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Demonee-Ho HP:780/804 MP:160/160
-C-Mithras HP:293/293 MP:58/58
-D-Anzu HP:548/596 MP:118/118
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:389/389
-B-
-C-Kama HP:542/574 MP:241/257
-D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Kingu HP:428/464 MP:83/91
+C-Lailah HP:212/212 MP:205/205
+D-Anubis HP:481/497 MP:223/223
 ----------------------------------------
 Full Turns: 4
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Demonee-Ho
-2-Anzu
-3-Kyouji
-4-Mithras
+1-Anubis
+2-Kingu
+3-Lailah
+4-Kei
 ----------------------------------------
-Seleccione una acción para Demonee-Ho
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Demonee-Ho HP:780/804 MP:160/160
-C-Mithras HP:293/293 MP:58/58
-D-Anzu HP:548/596 MP:118/118
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:389/389
-B-
-C-Kama HP:542/574 MP:241/257
-D-
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Anzu
-2-Kyouji
-3-Mithras
-4-Demonee-Ho
-----------------------------------------
-Seleccione una acción para Anzu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Anzu
-1-Kama HP:542/574 MP:241/257
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Anzu
+Seleccione una acción para Anubis
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 2
 ----------------------------------------
-Seleccione una habilidad para que Anzu use
-1-Zionga MP:8
-2-Nihil Claw MP:11
-3-Me Patra MP:15
+Seleccione una habilidad para que Anubis use
+1-Judgement Light MP:45
+2-Mamudoon MP:30
+3-Samarecarm MP:40
 4-Cancelar
-INPUT: 4
+INPUT: 3
 ----------------------------------------
-Seleccione una acción para Anzu
+Seleccione un objetivo para Anubis
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Anubis
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 4
+INPUT: 1
 ----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Seleccione un objetivo para Anubis
+1-Tadano HP:223/388 MP:193/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Anubis ataca a Tadano
+Tadano es resistente el ataque de Anubis
+Tadano recibe 20 de daño
+Tadano termina con HP:203/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Demonee-Ho HP:780/804 MP:160/160
-C-Mithras HP:293/293 MP:58/58
-D-Anzu HP:548/596 MP:118/118
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:389/389
+Equipo de Tadano (J1)
+A-Tadano HP:203/388 MP:193/193
 B-
-C-Kama HP:542/574 MP:241/257
+C-
 D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Kingu HP:428/464 MP:83/91
+C-Lailah HP:212/212 MP:205/205
+D-Anubis HP:481/497 MP:223/223
 ----------------------------------------
 Full Turns: 3
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Kyouji
-2-Mithras
-3-Demonee-Ho
-4-Anzu
+1-Kingu
+2-Lailah
+3-Kei
+4-Anubis
 ----------------------------------------
-Seleccione una acción para Kyouji
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Demonee-Ho HP:780/804 MP:160/160
-C-Mithras HP:293/293 MP:58/58
-D-Anzu HP:548/596 MP:118/118
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:389/389
-B-
-C-Kama HP:542/574 MP:241/257
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Mithras
-2-Demonee-Ho
-3-Anzu
-4-Kyouji
-----------------------------------------
-Seleccione una acción para Mithras
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Mithras use
-1-Mahama MP:18
-2-Heat Wave MP:11
-3-Rakunda MP:15
-4-Fatal Sword MP:8
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Mithras
+Seleccione una acción para Kingu
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -1618,325 +1528,311 @@ Seleccione una acción para Mithras
 INPUT: 3
 ----------------------------------------
 Seleccione un monstruo para invocar
-1-Kikuri-Hime HP:216/216 MP:201/210
-2-Hachiman HP:851/851 MP:170/170
-3-Virtue HP:178/240 MP:232/232
-4-Alilat HP:441/441 MP:428/428
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Hachiman ha sido invocado
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Demonee-Ho HP:780/804 MP:160/160
-C-Hachiman HP:851/851 MP:170/170
-D-Anzu HP:548/596 MP:118/118
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:389/389
-B-
-C-Kama HP:542/574 MP:241/257
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demonee-Ho
-2-Anzu
-3-Kyouji
-4-Hachiman
-----------------------------------------
-Seleccione una acción para Demonee-Ho
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Kikuri-Hime HP:216/216 MP:201/210
-2-Mithras HP:293/293 MP:58/58
-3-Virtue HP:178/240 MP:232/232
-4-Alilat HP:441/441 MP:428/428
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Kikuri-Hime ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Kikuri-Hime HP:216/216 MP:201/210
-C-Hachiman HP:851/851 MP:170/170
-D-Anzu HP:548/596 MP:118/118
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:389/389
-B-
-C-Kama HP:542/574 MP:241/257
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Anzu
-2-Kyouji
-3-Hachiman
-4-Kikuri-Hime
-----------------------------------------
-Seleccione una acción para Anzu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Mithras HP:293/293 MP:58/58
-2-Demonee-Ho HP:780/804 MP:160/160
-3-Virtue HP:178/240 MP:232/232
-4-Alilat HP:441/441 MP:428/428
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Anzu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Mithras HP:293/293 MP:58/58
-2-Demonee-Ho HP:780/804 MP:160/160
-3-Virtue HP:178/240 MP:232/232
-4-Alilat HP:441/441 MP:428/428
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Mithras ha sido invocado
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Kikuri-Hime HP:216/216 MP:201/210
-C-Hachiman HP:851/851 MP:170/170
-D-Mithras HP:293/293 MP:58/58
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:389/389
-B-
-C-Kama HP:542/574 MP:241/257
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Kyouji
-2-Hachiman
-3-Kikuri-Hime
-4-Mithras
-----------------------------------------
-Seleccione una acción para Kyouji
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Kyouji use
 1-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione una acción para Kyouji
+Seleccione una acción para Kingu
 1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Kyouji use
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Kyouji
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Kyouji use
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Kyouji
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Kyouji
-1-Kama HP:542/574 MP:241/257
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Kyouji
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
 INPUT: 4
 ----------------------------------------
-Seleccione un monstruo para invocar
-1-Demonee-Ho HP:780/804 MP:160/160
-2-Virtue HP:178/240 MP:232/232
-3-Alilat HP:441/441 MP:428/428
-4-Anzu HP:548/596 MP:118/118
-5-Cancelar
-INPUT: 5
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Seleccione una acción para Kyouji
+Equipo de Tadano (J1)
+A-Tadano HP:203/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Kingu HP:428/464 MP:83/91
+C-Lailah HP:212/212 MP:205/205
+D-Anubis HP:481/497 MP:223/223
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lailah
+2-Kei
+3-Anubis
+4-Kingu
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:203/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Kingu HP:428/464 MP:83/91
+C-Lailah HP:212/212 MP:205/205
+D-Anubis HP:481/497 MP:223/223
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Anubis
+3-Kingu
+4-Lailah
+----------------------------------------
+Seleccione una acción para Kei
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 2
+INPUT: 3
 ----------------------------------------
-Seleccione un objetivo para Kyouji
-1-Kama HP:542/574 MP:241/257
-2-Cancelar
-INPUT: 1
+Seleccione una habilidad para que Kei use
+1-Trisagion MP:22
+2-Iron Judgement MP:8
+3-Bufula MP:8
+4-Diarahan MP:16
+5-Needle Shot MP:4
+6-Sabbatma MP:20
+7-Cancelar
+INPUT: 4
 ----------------------------------------
-Kyouji dispara a Kama
-Kama bloquea el ataque de Kyouji
-Kama termina con HP:542/574
+Seleccione un objetivo para Kei
+1-Kei HP:760/760 MP:398/398
+2-Kingu HP:428/464 MP:83/91
+3-Lailah HP:212/212 MP:205/205
+4-Anubis HP:481/497 MP:223/223
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Kei cura a Anubis
+Anubis recibe 497 de HP
+Anubis termina con HP:497/497
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Nahobino (J2)
-----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Kikuri-Hime HP:216/216 MP:201/210
-C-Hachiman HP:851/851 MP:170/170
-D-Mithras HP:293/293 MP:58/58
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:389/389
+Equipo de Tadano (J1)
+A-Tadano HP:203/388 MP:193/193
 B-
-C-Kama HP:542/574 MP:241/257
+C-
 D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:382/398
+B-Kingu HP:428/464 MP:83/91
+C-Lailah HP:212/212 MP:205/205
+D-Anubis HP:497/497 MP:223/223
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Kama
+1-Anubis
+2-Kingu
+3-Lailah
+4-Kei
 ----------------------------------------
-Seleccione una acción para Kama
+Seleccione una acción para Anubis
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 3
+INPUT: 1
 ----------------------------------------
-Seleccione un monstruo para invocar
-1-Koppa Tengu HP:196/196 MP:88/88
-2-Chagrin HP:67/67 MP:72/72
-3-Cancelar
-INPUT: 2
+Seleccione un objetivo para Anubis
+1-Tadano HP:203/388 MP:193/193
+2-Cancelar
+INPUT: 1
 ----------------------------------------
-Chagrin ha sido invocado
+Anubis ataca a Tadano
+Tadano es resistente el ataque de Anubis
+Tadano recibe 20 de daño
+Tadano termina con HP:183/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:183/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:382/398
+B-Kingu HP:428/464 MP:83/91
+C-Lailah HP:212/212 MP:205/205
+D-Anubis HP:497/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Kikuri-Hime HP:216/216 MP:201/210
-C-Hachiman HP:851/851 MP:170/170
-D-Mithras HP:293/293 MP:58/58
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:389/389
+Equipo de Tadano (J1)
+A-Tadano HP:183/388 MP:193/193
 B-
-C-Chagrin HP:67/67 MP:72/72
+C-
 D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:382/398
+B-Kingu HP:428/464 MP:83/91
+C-Lailah HP:212/212 MP:205/205
+D-Anubis HP:497/497 MP:223/223
 ----------------------------------------
 Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Chagrin
+1-Tadano
 ----------------------------------------
-Seleccione una acción para Chagrin
+Seleccione una acción para Tadano
 1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
 INPUT: 2
 ----------------------------------------
-Seleccione una habilidad para que Chagrin use
-1-Needle Shot MP:4
-2-Zio MP:5
-3-Rakunda MP:15
-4-Cancelar
-INPUT: 4
+Seleccione un objetivo para Tadano
+1-Kei HP:760/760 MP:382/398
+2-Kingu HP:428/464 MP:83/91
+3-Lailah HP:212/212 MP:205/205
+4-Anubis HP:497/497 MP:223/223
+5-Cancelar
+INPUT: 3
 ----------------------------------------
-Seleccione una acción para Chagrin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
+Tadano dispara a Lailah
+Lailah recibe 20 de daño
+Lailah termina con HP:192/212
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Kyouji (J1)
+Ronda de Kei (J2)
 ----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Kikuri-Hime HP:216/216 MP:201/210
-C-Hachiman HP:851/851 MP:170/170
-D-Mithras HP:293/293 MP:58/58
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:389/389
+Equipo de Tadano (J1)
+A-Tadano HP:183/388 MP:193/193
 B-
-C-Chagrin HP:67/67 MP:72/72
+C-
 D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:382/398
+B-Kingu HP:428/464 MP:83/91
+C-Lailah HP:192/212 MP:205/205
+D-Anubis HP:497/497 MP:223/223
 ----------------------------------------
 Full Turns: 4
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Hachiman
-2-Kikuri-Hime
-3-Kyouji
-4-Mithras
+1-Anubis
+2-Kingu
+3-Lailah
+4-Kei
 ----------------------------------------
-Seleccione una acción para Hachiman
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Tadano HP:183/388 MP:193/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Anubis ataca a Tadano
+Tadano es resistente el ataque de Anubis
+Tadano recibe 20 de daño
+Tadano termina con HP:163/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:163/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:382/398
+B-Kingu HP:428/464 MP:83/91
+C-Lailah HP:192/212 MP:205/205
+D-Anubis HP:497/497 MP:223/223
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Lailah
+3-Kei
+4-Anubis
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kingu
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -1946,27 +1842,27 @@ INPUT: 4
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Kikuri-Hime HP:216/216 MP:201/210
-C-Hachiman HP:851/851 MP:170/170
-D-Mithras HP:293/293 MP:58/58
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:389/389
+Equipo de Tadano (J1)
+A-Tadano HP:163/388 MP:193/193
 B-
-C-Chagrin HP:67/67 MP:72/72
+C-
 D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:382/398
+B-Kingu HP:428/464 MP:83/91
+C-Lailah HP:192/212 MP:205/205
+D-Anubis HP:497/497 MP:223/223
 ----------------------------------------
-Full Turns: 3
+Full Turns: 2
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Kikuri-Hime
-2-Kyouji
-3-Mithras
-4-Hachiman
+1-Lailah
+2-Kei
+3-Anubis
+4-Kingu
 ----------------------------------------
-Seleccione una acción para Kikuri-Hime
+Seleccione una acción para Lailah
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -1974,39 +1870,40 @@ Seleccione una acción para Kikuri-Hime
 INPUT: 3
 ----------------------------------------
 Seleccione un monstruo para invocar
-1-Demonee-Ho HP:780/804 MP:160/160
-2-Virtue HP:178/240 MP:232/232
-3-Alilat HP:441/441 MP:428/428
-4-Anzu HP:548/596 MP:118/118
-5-Cancelar
-INPUT: 3
+1-Cancelar
+INPUT: 1
 ----------------------------------------
-Alilat ha sido invocado
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Kyouji (J1)
-A-Kyouji HP:999/999 MP:0/0
-B-Alilat HP:441/441 MP:428/428
-C-Hachiman HP:851/851 MP:170/170
-D-Mithras HP:293/293 MP:58/58
-Equipo de Nahobino (J2)
-A-Nahobino HP:0/453 MP:389/389
+Equipo de Tadano (J1)
+A-Tadano HP:163/388 MP:193/193
 B-
-C-Chagrin HP:67/67 MP:72/72
+C-
 D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:382/398
+B-Kingu HP:428/464 MP:83/91
+C-Lailah HP:192/212 MP:205/205
+D-Anubis HP:497/497 MP:223/223
 ----------------------------------------
-Full Turns: 3
+Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Kyouji
-2-Mithras
-3-Hachiman
-4-Alilat
+1-Kei
+2-Anubis
+3-Kingu
+4-Lailah
 ----------------------------------------
-Seleccione una acción para Kyouji
+Seleccione una acción para Kei
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -2015,16 +1912,975 @@ Seleccione una acción para Kyouji
 6: Rendirse
 INPUT: 2
 ----------------------------------------
-Seleccione un objetivo para Kyouji
-1-Chagrin HP:67/67 MP:72/72
+Seleccione un objetivo para Kei
+1-Tadano HP:163/388 MP:193/193
 2-Cancelar
 INPUT: 1
 ----------------------------------------
-Kyouji dispara a Chagrin
-Chagrin recibe 911 de daño
-Chagrin termina con HP:0/67
+Kei dispara a Tadano
+Tadano recibe 15 de daño
+Tadano termina con HP:148/388
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ganador: Kyouji (J1)
+Equipo de Tadano (J1)
+A-Tadano HP:148/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:382/398
+B-Kingu HP:428/464 MP:83/91
+C-Lailah HP:192/212 MP:205/205
+D-Anubis HP:497/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anubis
+2-Kingu
+3-Lailah
+4-Kei
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:148/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:382/398
+B-Kingu HP:428/464 MP:83/91
+C-Lailah HP:192/212 MP:205/205
+D-Anubis HP:497/497 MP:223/223
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kingu
+2-Lailah
+3-Kei
+4-Anubis
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:148/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:382/398
+B-Kingu HP:428/464 MP:83/91
+C-Lailah HP:192/212 MP:205/205
+D-Anubis HP:497/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Kei HP:760/760 MP:382/398
+2-Kingu HP:428/464 MP:83/91
+3-Lailah HP:192/212 MP:205/205
+4-Anubis HP:497/497 MP:223/223
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano dispara a Kei
+Kei es resistente el ataque de Tadano
+Kei recibe 10 de daño
+Kei termina con HP:750/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:148/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:750/760 MP:382/398
+B-Kingu HP:428/464 MP:83/91
+C-Lailah HP:192/212 MP:205/205
+D-Anubis HP:497/497 MP:223/223
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anubis
+2-Kingu
+3-Lailah
+4-Kei
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Tadano HP:148/388 MP:193/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Anubis ataca a Tadano
+Tadano es resistente el ataque de Anubis
+Tadano recibe 20 de daño
+Tadano termina con HP:128/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:128/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:750/760 MP:382/398
+B-Kingu HP:428/464 MP:83/91
+C-Lailah HP:192/212 MP:205/205
+D-Anubis HP:497/497 MP:223/223
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Lailah
+3-Kei
+4-Anubis
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Tadano HP:128/388 MP:193/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kingu ataca a Tadano
+Tadano es resistente el ataque de Kingu
+Tadano recibe 17 de daño
+Tadano termina con HP:111/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:111/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:750/760 MP:382/398
+B-Kingu HP:428/464 MP:83/91
+C-Lailah HP:192/212 MP:205/205
+D-Anubis HP:497/497 MP:223/223
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lailah
+2-Kei
+3-Anubis
+4-Kingu
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lailah
+1-Tadano HP:111/388 MP:193/193
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:111/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:750/760 MP:382/398
+B-Kingu HP:428/464 MP:83/91
+C-Lailah HP:192/212 MP:205/205
+D-Anubis HP:497/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Anubis
+3-Kingu
+4-Lailah
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Tadano HP:111/388 MP:193/193
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Tadano HP:111/388 MP:193/193
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:111/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:750/760 MP:382/398
+B-Kingu HP:428/464 MP:83/91
+C-Lailah HP:192/212 MP:205/205
+D-Anubis HP:497/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anubis
+2-Kingu
+3-Lailah
+4-Kei
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Anubis use
+1-Judgement Light MP:45
+2-Mamudoon MP:30
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Tadano HP:111/388 MP:193/193
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:111/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:750/760 MP:382/398
+B-Kingu HP:428/464 MP:83/91
+C-Lailah HP:192/212 MP:205/205
+D-Anubis HP:497/497 MP:223/223
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kingu
+2-Lailah
+3-Kei
+4-Anubis
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Tadano HP:111/388 MP:193/193
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kingu use
+1-Zanma MP:8
+2-Recarmdra MP:2
+3-Shock MP:21
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Tadano HP:111/388 MP:193/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kingu ataca a Tadano
+Tadano es resistente el ataque de Kingu
+Tadano recibe 17 de daño
+Tadano termina con HP:94/388
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:94/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:750/760 MP:382/398
+B-Kingu HP:428/464 MP:83/91
+C-Lailah HP:192/212 MP:205/205
+D-Anubis HP:497/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Kei HP:750/760 MP:382/398
+2-Kingu HP:428/464 MP:83/91
+3-Lailah HP:192/212 MP:205/205
+4-Anubis HP:497/497 MP:223/223
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Tadano dispara a Anubis
+Anubis recibe 20 de daño
+Anubis termina con HP:477/497
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:94/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:750/760 MP:382/398
+B-Kingu HP:428/464 MP:83/91
+C-Lailah HP:192/212 MP:205/205
+D-Anubis HP:477/497 MP:223/223
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anubis
+2-Kingu
+3-Lailah
+4-Kei
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Tadano HP:94/388 MP:193/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Anubis ataca a Tadano
+Tadano es resistente el ataque de Anubis
+Tadano recibe 20 de daño
+Tadano termina con HP:74/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:74/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:750/760 MP:382/398
+B-Kingu HP:428/464 MP:83/91
+C-Lailah HP:192/212 MP:205/205
+D-Anubis HP:477/497 MP:223/223
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Lailah
+3-Kei
+4-Anubis
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kingu use
+1-Zanma MP:8
+2-Recarmdra MP:2
+3-Shock MP:21
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Tadano HP:74/388 MP:193/193
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Tadano HP:74/388 MP:193/193
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:74/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:750/760 MP:382/398
+B-Kingu HP:428/464 MP:83/91
+C-Lailah HP:192/212 MP:205/205
+D-Anubis HP:477/497 MP:223/223
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lailah
+2-Kei
+3-Anubis
+4-Kingu
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lailah use
+1-Recarm MP:20
+2-Mahama MP:18
+3-Hamaon MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lailah use
+1-Recarm MP:20
+2-Mahama MP:18
+3-Hamaon MP:10
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lailah
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lailah
+1-Tadano HP:74/388 MP:193/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lailah ataca a Tadano
+Tadano es resistente el ataque de Lailah
+Tadano recibe 11 de daño
+Tadano termina con HP:63/388
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:63/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:750/760 MP:382/398
+B-Kingu HP:428/464 MP:83/91
+C-Lailah HP:192/212 MP:205/205
+D-Anubis HP:477/497 MP:223/223
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Anubis
+3-Kingu
+4-Lailah
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Tadano HP:63/388 MP:193/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kei dispara a Tadano
+Tadano recibe 15 de daño
+Tadano termina con HP:48/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:48/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:750/760 MP:382/398
+B-Kingu HP:428/464 MP:83/91
+C-Lailah HP:192/212 MP:205/205
+D-Anubis HP:477/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anubis
+2-Kingu
+3-Lailah
+4-Kei
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:48/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:750/760 MP:382/398
+B-Kingu HP:428/464 MP:83/91
+C-Lailah HP:192/212 MP:205/205
+D-Anubis HP:477/497 MP:223/223
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kingu
+2-Lailah
+3-Kei
+4-Anubis
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:48/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:750/760 MP:382/398
+B-Kingu HP:428/464 MP:83/91
+C-Lailah HP:192/212 MP:205/205
+D-Anubis HP:477/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Kei HP:750/760 MP:382/398
+2-Kingu HP:428/464 MP:83/91
+3-Lailah HP:192/212 MP:205/205
+4-Anubis HP:477/497 MP:223/223
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Tadano dispara a Lailah
+Lailah recibe 20 de daño
+Lailah termina con HP:172/212
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:48/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:750/760 MP:382/398
+B-Kingu HP:428/464 MP:83/91
+C-Lailah HP:172/212 MP:205/205
+D-Anubis HP:477/497 MP:223/223
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anubis
+2-Kingu
+3-Lailah
+4-Kei
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Anubis use
+1-Judgement Light MP:45
+2-Mamudoon MP:30
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Anubis use
+1-Judgement Light MP:45
+2-Mamudoon MP:30
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Tadano HP:48/388 MP:193/193
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Tadano HP:48/388 MP:193/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Anubis ataca a Tadano
+Tadano es resistente el ataque de Anubis
+Tadano recibe 20 de daño
+Tadano termina con HP:28/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:28/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:750/760 MP:382/398
+B-Kingu HP:428/464 MP:83/91
+C-Lailah HP:172/212 MP:205/205
+D-Anubis HP:477/497 MP:223/223
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kingu
+2-Lailah
+3-Kei
+4-Anubis
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kingu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kingu use
+1-Zanma MP:8
+2-Recarmdra MP:2
+3-Shock MP:21
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kingu
+1-Tadano HP:28/388 MP:193/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kingu lanza viento a Tadano
+Tadano recibe 73 de daño
+Tadano termina con HP:0/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Kei (J2)

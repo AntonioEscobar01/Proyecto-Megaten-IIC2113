@@ -201,182 +201,63 @@ Elige un archivo para cargar los equipos
 199: 200.txt
 INPUT: 18
 ----------------------------------------
-Ronda de Flynn (J1)
+Ronda de Kyouji (J1)
 ----------------------------------------
-Equipo de Flynn (J1)
-A-Flynn HP:971/971 MP:527/527
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-Gryphon HP:123/123 MP:23/23
+D-Goblin HP:322/322 MP:63/63
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
 B-
 C-
 D-
-Equipo de Demi-Fiend (J2)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Susano-o HP:927/927 MP:184/184
-C-Ammut HP:709/709 MP:140/140
-D-Fuxi HP:52/52 MP:49/49
 ----------------------------------------
-Full Turns: 1
+Full Turns: 4
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Flynn
+1-Quetzalcoatl
+2-Kyouji
+3-Goblin
+4-Gryphon
 ----------------------------------------
-Seleccione una acción para Flynn
+Seleccione una acción para Quetzalcoatl
 1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
 INPUT: 3
 ----------------------------------------
-Seleccione una habilidad para que Flynn use
-1-Agidyne MP:14
-2-Trisagion MP:22
-3-Riot Gun MP:30
-4-Berserker God MP:12
-5-Dia MP:5
-6-Iron Judgement MP:8
-7-Bufudyne MP:14
-8-Invitation MP:45
-9-Cancelar
-INPUT: 4
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Flynn
-1-Demi-Fiend HP:1227/1227 MP:834/834
-2-Susano-o HP:927/927 MP:184/184
-3-Ammut HP:709/709 MP:140/140
-4-Fuxi HP:52/52 MP:49/49
-5-Cancelar
-INPUT: 4
-----------------------------------------
-Flynn ataca a Fuxi
-Fuxi recibe 189 de daño
-Fuxi termina con HP:0/52
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Demi-Fiend (J2)
-----------------------------------------
-Equipo de Flynn (J1)
-A-Flynn HP:971/971 MP:515/527
-B-
-C-
-D-
-Equipo de Demi-Fiend (J2)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Susano-o HP:927/927 MP:184/184
-C-Ammut HP:709/709 MP:140/140
-D-
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-2-Susano-o
-3-Ammut
-----------------------------------------
-Seleccione una acción para Demi-Fiend
+Seleccione una acción para Quetzalcoatl
 1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
 ----------------------------------------
 Seleccione un monstruo para invocar
-1-Black Maria HP:348/348 MP:337/337
-2-Cancelar
+1-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione una posición para invocar
-1-Susano-o HP:927/927 MP:184/184 (Puesto 2)
-2-Ammut HP:709/709 MP:140/140 (Puesto 3)
-3-Vacío (Puesto 4)
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Flynn HP:971/971 MP:515/527
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Demi-Fiend dispara a Flynn
-Flynn recibe 114 de daño
-Flynn termina con HP:857/971
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Flynn (J1)
-A-Flynn HP:857/971 MP:515/527
-B-
-C-
-D-
-Equipo de Demi-Fiend (J2)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Susano-o HP:927/927 MP:184/184
-C-Ammut HP:709/709 MP:140/140
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Susano-o
-2-Ammut
-3-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Susano-o
+Seleccione una acción para Quetzalcoatl
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Susano-o
-1-Flynn HP:857/971 MP:515/527
+Seleccione un objetivo para Quetzalcoatl
+1-Joker HP:597/597 MP:347/347
 2-Cancelar
-INPUT: 1
+INPUT: 2
 ----------------------------------------
-Susano-o ataca a Flynn
-Flynn recibe 72 de daño
-Flynn termina con HP:785/971
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Flynn (J1)
-A-Flynn HP:785/971 MP:515/527
-B-
-C-
-D-
-Equipo de Demi-Fiend (J2)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Susano-o HP:927/927 MP:184/184
-C-Ammut HP:709/709 MP:140/140
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Ammut
-2-Demi-Fiend
-3-Susano-o
-----------------------------------------
-Seleccione una acción para Ammut
+Seleccione una acción para Quetzalcoatl
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -386,71 +267,27 @@ INPUT: 4
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Flynn (J1)
-A-Flynn HP:785/971 MP:515/527
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-Gryphon HP:123/123 MP:23/23
+D-Goblin HP:322/322 MP:63/63
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
 B-
 C-
 D-
-Equipo de Demi-Fiend (J2)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Susano-o HP:927/927 MP:184/184
-C-Ammut HP:709/709 MP:140/140
-D-
 ----------------------------------------
-Full Turns: 0
+Full Turns: 3
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Demi-Fiend
-2-Susano-o
-3-Ammut
+1-Kyouji
+2-Goblin
+3-Gryphon
+4-Quetzalcoatl
 ----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Black Maria HP:348/348 MP:337/337
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una posición para invocar
-1-Susano-o HP:927/927 MP:184/184 (Puesto 2)
-2-Ammut HP:709/709 MP:140/140 (Puesto 3)
-3-Vacío (Puesto 4)
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Black Maria ha sido invocado
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Flynn (J1)
-----------------------------------------
-Equipo de Flynn (J1)
-A-Flynn HP:785/971 MP:515/527
-B-
-C-
-D-
-Equipo de Demi-Fiend (J2)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Susano-o HP:927/927 MP:184/184
-C-Black Maria HP:348/348 MP:337/337
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Flynn
-----------------------------------------
-Seleccione una acción para Flynn
+Seleccione una acción para Kyouji
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -459,123 +296,50 @@ Seleccione una acción para Flynn
 6: Rendirse
 INPUT: 5
 ----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Flynn (J1)
-A-Flynn HP:785/971 MP:515/527
-B-
-C-
-D-
-Equipo de Demi-Fiend (J2)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Susano-o HP:927/927 MP:184/184
-C-Black Maria HP:348/348 MP:337/337
-D-
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Flynn
-----------------------------------------
-Seleccione una acción para Flynn
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Flynn
-1-Demi-Fiend HP:1227/1227 MP:834/834
-2-Susano-o HP:927/927 MP:184/184
-3-Black Maria HP:348/348 MP:337/337
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Flynn dispara a Susano-o
-Susano-o recibe 110 de daño
-Susano-o termina con HP:817/927
-----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Demi-Fiend (J2)
-----------------------------------------
-Equipo de Flynn (J1)
-A-Flynn HP:785/971 MP:515/527
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-Gryphon HP:123/123 MP:23/23
+D-Goblin HP:322/322 MP:63/63
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
 B-
 C-
-D-
-Equipo de Demi-Fiend (J2)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Susano-o HP:817/927 MP:184/184
-C-Black Maria HP:348/348 MP:337/337
 D-
 ----------------------------------------
 Full Turns: 3
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Demi-Fiend
-2-Susano-o
-3-Black Maria
+1-Goblin
+2-Gryphon
+3-Quetzalcoatl
+4-Kyouji
 ----------------------------------------
-Seleccione una acción para Demi-Fiend
+Seleccione una acción para Goblin
 1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
 ----------------------------------------
-Seleccione una habilidad para que Demi-Fiend use
-1-Diarahan MP:16
-2-Grand Tack MP:11
-3-Diarama MP:9
-4-Bouncing Claw MP:4
-5-Deadly Wind MP:22
-6-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Demi-Fiend HP:1227/1227 MP:834/834
-2-Susano-o HP:817/927 MP:184/184
-3-Black Maria HP:348/348 MP:337/337
-4-Ammut HP:709/709 MP:140/140
+Seleccione una habilidad para que Goblin use
+1-Oni-Kagura MP:9
+2-Tarukaja MP:15
+3-Bad Company MP:15
+4-Charge MP:9
 5-Cancelar
 INPUT: 1
 ----------------------------------------
-Demi-Fiend cura a Demi-Fiend
-Demi-Fiend recibe 613 de HP
-Demi-Fiend termina con HP:1227/1227
+Seleccione un objetivo para Goblin
+1-Joker HP:597/597 MP:347/347
+2-Cancelar
+INPUT: 2
 ----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Flynn (J1)
-A-Flynn HP:785/971 MP:515/527
-B-
-C-
-D-
-Equipo de Demi-Fiend (J2)
-A-Demi-Fiend HP:1227/1227 MP:825/834
-B-Susano-o HP:817/927 MP:184/184
-C-Black Maria HP:348/348 MP:337/337
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Susano-o
-2-Black Maria
-3-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Susano-o
+Seleccione una acción para Goblin
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -585,26 +349,57 @@ INPUT: 4
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Flynn (J1)
-A-Flynn HP:785/971 MP:515/527
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-Gryphon HP:123/123 MP:23/23
+D-Goblin HP:322/322 MP:63/63
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
 B-
 C-
 D-
-Equipo de Demi-Fiend (J2)
-A-Demi-Fiend HP:1227/1227 MP:825/834
-B-Susano-o HP:817/927 MP:184/184
-C-Black Maria HP:348/348 MP:337/337
-D-
 ----------------------------------------
-Full Turns: 1
+Full Turns: 2
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Black Maria
-2-Demi-Fiend
-3-Susano-o
+1-Gryphon
+2-Quetzalcoatl
+3-Kyouji
+4-Goblin
 ----------------------------------------
-Seleccione una acción para Black Maria
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-Gryphon HP:123/123 MP:23/23
+D-Goblin HP:322/322 MP:63/63
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Quetzalcoatl
+2-Kyouji
+3-Goblin
+4-Gryphon
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -612,303 +407,116 @@ Seleccione una acción para Black Maria
 INPUT: 3
 ----------------------------------------
 Seleccione un monstruo para invocar
-1-Ammut HP:709/709 MP:140/140
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Quetzalcoatl
+1-Joker HP:597/597 MP:347/347
 2-Cancelar
 INPUT: 1
 ----------------------------------------
-Ammut ha sido invocado
+Quetzalcoatl ataca a Joker
+Joker recibe 46 de daño
+Joker termina con HP:551/597
 ----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Flynn (J1)
-A-Flynn HP:785/971 MP:515/527
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Quetzalcoatl HP:553/553 MP:247/247
+C-Gryphon HP:123/123 MP:23/23
+D-Goblin HP:322/322 MP:63/63
+Equipo de Joker (J2)
+A-Joker HP:551/597 MP:347/347
 B-
 C-
-D-
-Equipo de Demi-Fiend (J2)
-A-Demi-Fiend HP:1227/1227 MP:825/834
-B-Susano-o HP:817/927 MP:184/184
-C-Ammut HP:709/709 MP:140/140
 D-
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Demi-Fiend
-2-Susano-o
-3-Ammut
+1-Kyouji
+2-Goblin
+3-Gryphon
+4-Quetzalcoatl
 ----------------------------------------
-Seleccione una acción para Demi-Fiend
+Seleccione una acción para Kyouji
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Flynn (J1)
-A-Flynn HP:785/971 MP:515/527
-B-
-C-
-D-
-Equipo de Demi-Fiend (J2)
-A-Demi-Fiend HP:1227/1227 MP:825/834
-B-Susano-o HP:817/927 MP:184/184
-C-Ammut HP:709/709 MP:140/140
-D-
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Susano-o
-2-Ammut
-3-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Susano-o
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Susano-o use
-1-Hades Blast MP:32
-2-Deadly Wind MP:22
-3-Sea of Chaos MP:45
-4-Cancelar
 INPUT: 4
 ----------------------------------------
-Seleccione una acción para Susano-o
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
 1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
 INPUT: 3
 ----------------------------------------
-Seleccione un monstruo para invocar
-1-Black Maria HP:348/348 MP:337/337
-2-Cancelar
+Seleccione una habilidad para que Kyouji use
+1-Cancelar
 INPUT: 1
 ----------------------------------------
-Black Maria ha sido invocado
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Flynn (J1)
-----------------------------------------
-Equipo de Flynn (J1)
-A-Flynn HP:785/971 MP:515/527
-B-
-C-
-D-
-Equipo de Demi-Fiend (J2)
-A-Demi-Fiend HP:1227/1227 MP:825/834
-B-Black Maria HP:348/348 MP:337/337
-C-Ammut HP:709/709 MP:140/140
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Flynn
-----------------------------------------
-Seleccione una acción para Flynn
+Seleccione una acción para Kyouji
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Flynn
-1-Demi-Fiend HP:1227/1227 MP:825/834
-2-Black Maria HP:348/348 MP:337/337
-3-Ammut HP:709/709 MP:140/140
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Flynn dispara a Black Maria
-Black Maria recibe 110 de daño
-Black Maria termina con HP:238/348
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Demi-Fiend (J2)
-----------------------------------------
-Equipo de Flynn (J1)
-A-Flynn HP:785/971 MP:515/527
-B-
-C-
-D-
-Equipo de Demi-Fiend (J2)
-A-Demi-Fiend HP:1227/1227 MP:825/834
-B-Black Maria HP:238/348 MP:337/337
-C-Ammut HP:709/709 MP:140/140
-D-
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-2-Ammut
-3-Black Maria
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Susano-o HP:817/927 MP:184/184
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Flynn HP:785/971 MP:515/527
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Demi-Fiend dispara a Flynn
-Flynn recibe 114 de daño
-Flynn termina con HP:671/971
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Flynn (J1)
-A-Flynn HP:671/971 MP:515/527
-B-
-C-
-D-
-Equipo de Demi-Fiend (J2)
-A-Demi-Fiend HP:1227/1227 MP:825/834
-B-Black Maria HP:238/348 MP:337/337
-C-Ammut HP:709/709 MP:140/140
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Ammut
-2-Black Maria
-3-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Ammut
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Ammut use
-1-Megaton Press MP:17
-2-War Cry MP:45
-3-Nihil Claw MP:11
-4-Energy Drain MP:10
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Ammut
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
 INPUT: 3
 ----------------------------------------
-Seleccione un monstruo para invocar
-1-Susano-o HP:817/927 MP:184/184
-2-Cancelar
+Seleccione una habilidad para que Kyouji use
+1-Cancelar
 INPUT: 1
 ----------------------------------------
-Susano-o ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Flynn (J1)
-A-Flynn HP:671/971 MP:515/527
-B-
-C-
-D-
-Equipo de Demi-Fiend (J2)
-A-Demi-Fiend HP:1227/1227 MP:825/834
-B-Black Maria HP:238/348 MP:337/337
-C-Susano-o HP:817/927 MP:184/184
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Black Maria
-2-Demi-Fiend
-3-Susano-o
-----------------------------------------
-Seleccione una acción para Black Maria
+Seleccione una acción para Kyouji
 1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Black Maria
-1-Flynn HP:671/971 MP:515/527
+Seleccione un objetivo para Kyouji
+1-Joker HP:551/597 MP:347/347
 2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
 INPUT: 1
 ----------------------------------------
-Black Maria ataca a Flynn
-Flynn recibe 36 de daño
-Flynn termina con HP:635/971
+Seleccione un objetivo para Kyouji
+1-Joker HP:551/597 MP:347/347
+2-Cancelar
+INPUT: 2
 ----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Flynn (J1)
-A-Flynn HP:635/971 MP:515/527
-B-
-C-
-D-
-Equipo de Demi-Fiend (J2)
-A-Demi-Fiend HP:1227/1227 MP:825/834
-B-Black Maria HP:238/348 MP:337/337
-C-Susano-o HP:817/927 MP:184/184
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-2-Susano-o
-3-Black Maria
-----------------------------------------
-Seleccione una acción para Demi-Fiend
+Seleccione una acción para Kyouji
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -918,111 +526,10 @@ Seleccione una acción para Demi-Fiend
 INPUT: 4
 ----------------------------------------
 Seleccione un monstruo para invocar
-1-Ammut HP:709/709 MP:140/140
-2-Cancelar
+1-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione una posición para invocar
-1-Black Maria HP:238/348 MP:337/337 (Puesto 2)
-2-Susano-o HP:817/927 MP:184/184 (Puesto 3)
-3-Vacío (Puesto 4)
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Ammut ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Flynn (J1)
-A-Flynn HP:635/971 MP:515/527
-B-
-C-
-D-
-Equipo de Demi-Fiend (J2)
-A-Demi-Fiend HP:1227/1227 MP:825/834
-B-Ammut HP:709/709 MP:140/140
-C-Susano-o HP:817/927 MP:184/184
-D-
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Susano-o
-2-Ammut
-3-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Susano-o
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Susano-o use
-1-Hades Blast MP:32
-2-Deadly Wind MP:22
-3-Sea of Chaos MP:45
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Susano-o
-1-Flynn HP:635/971 MP:515/527
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Susano-o
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Black Maria HP:238/348 MP:337/337
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Susano-o
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Susano-o
-1-Flynn HP:635/971 MP:515/527
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Susano-o ataca a Flynn
-Flynn recibe 72 de daño
-Flynn termina con HP:563/971
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Flynn (J1)
-----------------------------------------
-Equipo de Flynn (J1)
-A-Flynn HP:563/971 MP:515/527
-B-
-C-
-D-
-Equipo de Demi-Fiend (J2)
-A-Demi-Fiend HP:1227/1227 MP:825/834
-B-Ammut HP:709/709 MP:140/140
-C-Susano-o HP:817/927 MP:184/184
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Flynn
-----------------------------------------
-Seleccione una acción para Flynn
+Seleccione una acción para Kyouji
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -1031,811 +538,16 @@ Seleccione una acción para Flynn
 6: Rendirse
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Flynn
-1-Demi-Fiend HP:1227/1227 MP:825/834
-2-Ammut HP:709/709 MP:140/140
-3-Susano-o HP:817/927 MP:184/184
-4-Cancelar
-INPUT: 4
+Seleccione un objetivo para Kyouji
+1-Joker HP:551/597 MP:347/347
+2-Cancelar
+INPUT: 1
 ----------------------------------------
-Seleccione una acción para Flynn
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Flynn
-1-Demi-Fiend HP:1227/1227 MP:825/834
-2-Ammut HP:709/709 MP:140/140
-3-Susano-o HP:817/927 MP:184/184
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Flynn dispara a Ammut
-Ammut recibe 110 de daño
-Ammut termina con HP:599/709
+Kyouji ataca a Joker
+Joker recibe 614 de daño
+Joker termina con HP:0/597
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Demi-Fiend (J2)
-----------------------------------------
-Equipo de Flynn (J1)
-A-Flynn HP:563/971 MP:515/527
-B-
-C-
-D-
-Equipo de Demi-Fiend (J2)
-A-Demi-Fiend HP:1227/1227 MP:825/834
-B-Ammut HP:599/709 MP:140/140
-C-Susano-o HP:817/927 MP:184/184
-D-
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-2-Susano-o
-3-Ammut
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Black Maria HP:238/348 MP:337/337
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Flynn HP:563/971 MP:515/527
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Flynn (J1)
-A-Flynn HP:563/971 MP:515/527
-B-
-C-
-D-
-Equipo de Demi-Fiend (J2)
-A-Demi-Fiend HP:1227/1227 MP:825/834
-B-Ammut HP:599/709 MP:140/140
-C-Susano-o HP:817/927 MP:184/184
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Susano-o
-2-Ammut
-3-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Susano-o
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Flynn (J1)
-A-Flynn HP:563/971 MP:515/527
-B-
-C-
-D-
-Equipo de Demi-Fiend (J2)
-A-Demi-Fiend HP:1227/1227 MP:825/834
-B-Ammut HP:599/709 MP:140/140
-C-Susano-o HP:817/927 MP:184/184
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Ammut
-2-Demi-Fiend
-3-Susano-o
-----------------------------------------
-Seleccione una acción para Ammut
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Flynn (J1)
-A-Flynn HP:563/971 MP:515/527
-B-
-C-
-D-
-Equipo de Demi-Fiend (J2)
-A-Demi-Fiend HP:1227/1227 MP:825/834
-B-Ammut HP:599/709 MP:140/140
-C-Susano-o HP:817/927 MP:184/184
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Demi-Fiend
-2-Susano-o
-3-Ammut
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Flynn (J1)
-A-Flynn HP:563/971 MP:515/527
-B-
-C-
-D-
-Equipo de Demi-Fiend (J2)
-A-Demi-Fiend HP:1227/1227 MP:825/834
-B-Ammut HP:599/709 MP:140/140
-C-Susano-o HP:817/927 MP:184/184
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Susano-o
-2-Ammut
-3-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Susano-o
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Flynn (J1)
-A-Flynn HP:563/971 MP:515/527
-B-
-C-
-D-
-Equipo de Demi-Fiend (J2)
-A-Demi-Fiend HP:1227/1227 MP:825/834
-B-Ammut HP:599/709 MP:140/140
-C-Susano-o HP:817/927 MP:184/184
-D-
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Ammut
-2-Demi-Fiend
-3-Susano-o
-----------------------------------------
-Seleccione una acción para Ammut
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Ammut
-1-Flynn HP:563/971 MP:515/527
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Ammut ataca a Flynn
-Flynn recibe 54 de daño
-Flynn termina con HP:509/971
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Flynn (J1)
-----------------------------------------
-Equipo de Flynn (J1)
-A-Flynn HP:509/971 MP:515/527
-B-
-C-
-D-
-Equipo de Demi-Fiend (J2)
-A-Demi-Fiend HP:1227/1227 MP:825/834
-B-Ammut HP:599/709 MP:140/140
-C-Susano-o HP:817/927 MP:184/184
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Flynn
-----------------------------------------
-Seleccione una acción para Flynn
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Flynn (J1)
-A-Flynn HP:509/971 MP:515/527
-B-
-C-
-D-
-Equipo de Demi-Fiend (J2)
-A-Demi-Fiend HP:1227/1227 MP:825/834
-B-Ammut HP:599/709 MP:140/140
-C-Susano-o HP:817/927 MP:184/184
-D-
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Flynn
-----------------------------------------
-Seleccione una acción para Flynn
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Flynn
-1-Demi-Fiend HP:1227/1227 MP:825/834
-2-Ammut HP:599/709 MP:140/140
-3-Susano-o HP:817/927 MP:184/184
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Flynn dispara a Susano-o
-Susano-o recibe 110 de daño
-Susano-o termina con HP:707/927
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Demi-Fiend (J2)
-----------------------------------------
-Equipo de Flynn (J1)
-A-Flynn HP:509/971 MP:515/527
-B-
-C-
-D-
-Equipo de Demi-Fiend (J2)
-A-Demi-Fiend HP:1227/1227 MP:825/834
-B-Ammut HP:599/709 MP:140/140
-C-Susano-o HP:707/927 MP:184/184
-D-
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-2-Susano-o
-3-Ammut
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Flynn HP:509/971 MP:515/527
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Demi-Fiend dispara a Flynn
-Flynn recibe 114 de daño
-Flynn termina con HP:395/971
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Flynn (J1)
-A-Flynn HP:395/971 MP:515/527
-B-
-C-
-D-
-Equipo de Demi-Fiend (J2)
-A-Demi-Fiend HP:1227/1227 MP:825/834
-B-Ammut HP:599/709 MP:140/140
-C-Susano-o HP:707/927 MP:184/184
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Susano-o
-2-Ammut
-3-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Susano-o
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Susano-o
-1-Flynn HP:395/971 MP:515/527
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Susano-o
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Susano-o use
-1-Hades Blast MP:32
-2-Deadly Wind MP:22
-3-Sea of Chaos MP:45
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Susano-o
-1-Flynn HP:395/971 MP:515/527
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Susano-o lanza viento a Flynn
-Flynn recibe 155 de daño
-Flynn termina con HP:240/971
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Flynn (J1)
-A-Flynn HP:240/971 MP:515/527
-B-
-C-
-D-
-Equipo de Demi-Fiend (J2)
-A-Demi-Fiend HP:1227/1227 MP:825/834
-B-Ammut HP:599/709 MP:140/140
-C-Susano-o HP:707/927 MP:162/184
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Ammut
-2-Demi-Fiend
-3-Susano-o
-----------------------------------------
-Seleccione una acción para Ammut
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Ammut
-1-Flynn HP:240/971 MP:515/527
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Ammut ataca a Flynn
-Flynn recibe 54 de daño
-Flynn termina con HP:186/971
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Flynn (J1)
-----------------------------------------
-Equipo de Flynn (J1)
-A-Flynn HP:186/971 MP:515/527
-B-
-C-
-D-
-Equipo de Demi-Fiend (J2)
-A-Demi-Fiend HP:1227/1227 MP:825/834
-B-Ammut HP:599/709 MP:140/140
-C-Susano-o HP:707/927 MP:162/184
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Flynn
-----------------------------------------
-Seleccione una acción para Flynn
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Flynn (J1)
-A-Flynn HP:186/971 MP:515/527
-B-
-C-
-D-
-Equipo de Demi-Fiend (J2)
-A-Demi-Fiend HP:1227/1227 MP:825/834
-B-Ammut HP:599/709 MP:140/140
-C-Susano-o HP:707/927 MP:162/184
-D-
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Flynn
-----------------------------------------
-Seleccione una acción para Flynn
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Flynn
-1-Demi-Fiend HP:1227/1227 MP:825/834
-2-Ammut HP:599/709 MP:140/140
-3-Susano-o HP:707/927 MP:162/184
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Flynn dispara a Demi-Fiend
-Demi-Fiend recibe 110 de daño
-Demi-Fiend termina con HP:1117/1227
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Demi-Fiend (J2)
-----------------------------------------
-Equipo de Flynn (J1)
-A-Flynn HP:186/971 MP:515/527
-B-
-C-
-D-
-Equipo de Demi-Fiend (J2)
-A-Demi-Fiend HP:1117/1227 MP:825/834
-B-Ammut HP:599/709 MP:140/140
-C-Susano-o HP:707/927 MP:162/184
-D-
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-2-Susano-o
-3-Ammut
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Flynn (J1)
-A-Flynn HP:186/971 MP:515/527
-B-
-C-
-D-
-Equipo de Demi-Fiend (J2)
-A-Demi-Fiend HP:1117/1227 MP:825/834
-B-Ammut HP:599/709 MP:140/140
-C-Susano-o HP:707/927 MP:162/184
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Susano-o
-2-Ammut
-3-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Susano-o
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Susano-o use
-1-Hades Blast MP:32
-2-Deadly Wind MP:22
-3-Sea of Chaos MP:45
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Susano-o
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Flynn (J1)
-A-Flynn HP:186/971 MP:515/527
-B-
-C-
-D-
-Equipo de Demi-Fiend (J2)
-A-Demi-Fiend HP:1117/1227 MP:825/834
-B-Ammut HP:599/709 MP:140/140
-C-Susano-o HP:707/927 MP:162/184
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Ammut
-2-Demi-Fiend
-3-Susano-o
-----------------------------------------
-Seleccione una acción para Ammut
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Ammut
-1-Flynn HP:186/971 MP:515/527
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Ammut ataca a Flynn
-Flynn recibe 54 de daño
-Flynn termina con HP:132/971
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Flynn (J1)
-A-Flynn HP:132/971 MP:515/527
-B-
-C-
-D-
-Equipo de Demi-Fiend (J2)
-A-Demi-Fiend HP:1117/1227 MP:825/834
-B-Ammut HP:599/709 MP:140/140
-C-Susano-o HP:707/927 MP:162/184
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-2-Susano-o
-3-Ammut
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Flynn (J1)
-A-Flynn HP:132/971 MP:515/527
-B-
-C-
-D-
-Equipo de Demi-Fiend (J2)
-A-Demi-Fiend HP:1117/1227 MP:825/834
-B-Ammut HP:599/709 MP:140/140
-C-Susano-o HP:707/927 MP:162/184
-D-
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Susano-o
-2-Ammut
-3-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Susano-o
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Susano-o
-1-Flynn HP:132/971 MP:515/527
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Susano-o ataca a Flynn
-Flynn recibe 72 de daño
-Flynn termina con HP:60/971
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Flynn (J1)
-----------------------------------------
-Equipo de Flynn (J1)
-A-Flynn HP:60/971 MP:515/527
-B-
-C-
-D-
-Equipo de Demi-Fiend (J2)
-A-Demi-Fiend HP:1117/1227 MP:825/834
-B-Ammut HP:599/709 MP:140/140
-C-Susano-o HP:707/927 MP:162/184
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Flynn
-----------------------------------------
-Seleccione una acción para Flynn
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Flynn
-1-Demi-Fiend HP:1117/1227 MP:825/834
-2-Ammut HP:599/709 MP:140/140
-3-Susano-o HP:707/927 MP:162/184
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Flynn ataca a Demi-Fiend
-Demi-Fiend bloquea el ataque de Flynn
-Demi-Fiend termina con HP:1117/1227
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Demi-Fiend (J2)
-----------------------------------------
-Equipo de Flynn (J1)
-A-Flynn HP:60/971 MP:515/527
-B-
-C-
-D-
-Equipo de Demi-Fiend (J2)
-A-Demi-Fiend HP:1117/1227 MP:825/834
-B-Ammut HP:599/709 MP:140/140
-C-Susano-o HP:707/927 MP:162/184
-D-
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-2-Susano-o
-3-Ammut
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Flynn HP:60/971 MP:515/527
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Flynn HP:60/971 MP:515/527
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Demi-Fiend ataca a Flynn
-Flynn recibe 168 de daño
-Flynn termina con HP:0/971
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ganador: Demi-Fiend (J2)
+Ganador: Kyouji (J1)

@@ -201,29 +201,55 @@ Elige un archivo para cargar los equipos
 199: 200.txt
 INPUT: 57
 ----------------------------------------
-Ronda de Demi-Fiend (J1)
+Ronda de Kyouji (J1)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Lord Nan Dou HP:549/549 MP:108/108
-C-Mushussu HP:399/399 MP:179/179
-D-Karasu Tengu HP:238/238 MP:107/107
-Equipo de Kyouji (J2)
+Equipo de Kyouji (J1)
 A-Kyouji HP:999/999 MP:0/0
-B-Lord Nan Dou HP:549/549 MP:108/108
-C-Lilith HP:380/380 MP:369/369
-D-Black Maria HP:348/348 MP:337/337
+B-Nidhoggr HP:681/681 MP:135/135
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Fuxi HP:52/52 MP:49/49
+C-Fortuna HP:147/147 MP:66/66
+D-Nebiros HP:249/249 MP:242/242
 ----------------------------------------
-Full Turns: 4
+Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Demi-Fiend
-2-Mushussu
-3-Lord Nan Dou
-4-Karasu Tengu
+1-Nidhoggr
+2-Kyouji
 ----------------------------------------
-Seleccione una acción para Demi-Fiend
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Nidhoggr HP:681/681 MP:135/135
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Fuxi HP:52/52 MP:49/49
+C-Fortuna HP:147/147 MP:66/66
+D-Nebiros HP:249/249 MP:242/242
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kyouji
+2-Nidhoggr
+----------------------------------------
+Seleccione una acción para Kyouji
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -233,21 +259,10 @@ Seleccione una acción para Demi-Fiend
 INPUT: 4
 ----------------------------------------
 Seleccione un monstruo para invocar
-1-Anzu HP:596/596 MP:118/118
-2-Master Therion HP:497/497 MP:223/223
-3-Nue HP:341/341 MP:67/67
-4-Magatsuhi HP:851/851 MP:170/170
-5-Cancelar
-INPUT: 2
+1-Cancelar
+INPUT: 1
 ----------------------------------------
-Seleccione una posición para invocar
-1-Lord Nan Dou HP:549/549 MP:108/108 (Puesto 2)
-2-Mushussu HP:399/399 MP:179/179 (Puesto 3)
-3-Karasu Tengu HP:238/238 MP:107/107 (Puesto 4)
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Demi-Fiend
+Seleccione una acción para Kyouji
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -256,828 +271,179 @@ Seleccione una acción para Demi-Fiend
 6: Rendirse
 INPUT: 5
 ----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Lord Nan Dou HP:549/549 MP:108/108
-C-Mushussu HP:399/399 MP:179/179
-D-Karasu Tengu HP:238/238 MP:107/107
-Equipo de Kyouji (J2)
-A-Kyouji HP:999/999 MP:0/0
-B-Lord Nan Dou HP:549/549 MP:108/108
-C-Lilith HP:380/380 MP:369/369
-D-Black Maria HP:348/348 MP:337/337
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Mushussu
-2-Lord Nan Dou
-3-Karasu Tengu
-4-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Mushussu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Lord Nan Dou HP:549/549 MP:108/108
-C-Mushussu HP:399/399 MP:179/179
-D-Karasu Tengu HP:238/238 MP:107/107
-Equipo de Kyouji (J2)
+Equipo de Kyouji (J1)
 A-Kyouji HP:999/999 MP:0/0
-B-Lord Nan Dou HP:549/549 MP:108/108
-C-Lilith HP:380/380 MP:369/369
-D-Black Maria HP:348/348 MP:337/337
+B-Nidhoggr HP:681/681 MP:135/135
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Fuxi HP:52/52 MP:49/49
+C-Fortuna HP:147/147 MP:66/66
+D-Nebiros HP:249/249 MP:242/242
 ----------------------------------------
-Full Turns: 3
+Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Lord Nan Dou
-2-Karasu Tengu
-3-Demi-Fiend
-4-Mushussu
+1-Nidhoggr
+2-Kyouji
 ----------------------------------------
-Seleccione una acción para Lord Nan Dou
+Seleccione una acción para Nidhoggr
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Lord Nan Dou use
-1-Maragidyne MP:32
-2-Berserker God MP:12
-3-Samarecarm MP:40
-4-Cancelar
 INPUT: 4
-----------------------------------------
-Seleccione una acción para Lord Nan Dou
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Lord Nan Dou
-1-Kyouji HP:999/999 MP:0/0
-2-Lord Nan Dou HP:549/549 MP:108/108
-3-Lilith HP:380/380 MP:369/369
-4-Black Maria HP:348/348 MP:337/337
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Lord Nan Dou ataca a Lilith
-Lilith recibe 41 de daño
-Lilith termina con HP:339/380
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Lord Nan Dou HP:549/549 MP:108/108
-C-Mushussu HP:399/399 MP:179/179
-D-Karasu Tengu HP:238/238 MP:107/107
-Equipo de Kyouji (J2)
-A-Kyouji HP:999/999 MP:0/0
-B-Lord Nan Dou HP:549/549 MP:108/108
-C-Lilith HP:339/380 MP:369/369
-D-Black Maria HP:348/348 MP:337/337
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Karasu Tengu
-2-Demi-Fiend
-3-Mushussu
-4-Lord Nan Dou
-----------------------------------------
-Seleccione una acción para Karasu Tengu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Anzu HP:596/596 MP:118/118
-2-Master Therion HP:497/497 MP:223/223
-3-Nue HP:341/341 MP:67/67
-4-Magatsuhi HP:851/851 MP:170/170
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Master Therion ha sido invocado
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:834/834
-B-Lord Nan Dou HP:549/549 MP:108/108
-C-Mushussu HP:399/399 MP:179/179
-D-Master Therion HP:497/497 MP:223/223
-Equipo de Kyouji (J2)
+Equipo de Kyouji (J1)
 A-Kyouji HP:999/999 MP:0/0
-B-Lord Nan Dou HP:549/549 MP:108/108
-C-Lilith HP:339/380 MP:369/369
-D-Black Maria HP:348/348 MP:337/337
+B-Nidhoggr HP:681/681 MP:135/135
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Fuxi HP:52/52 MP:49/49
+C-Fortuna HP:147/147 MP:66/66
+D-Nebiros HP:249/249 MP:242/242
 ----------------------------------------
-Full Turns: 1
+Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Demi-Fiend
-2-Mushussu
-3-Lord Nan Dou
-4-Master Therion
+1-Kyouji
+2-Nidhoggr
 ----------------------------------------
-Seleccione una acción para Demi-Fiend
+Seleccione una acción para Kyouji
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Demi-Fiend use
-1-Stigma Attack MP:20
-2-Bufudyne MP:14
-3-Damascus Claw MP:7
-4-Deadly Wind MP:22
-5-Iron Judgement MP:8
-6-Agilao MP:8
-7-Lunge MP:6
-8-Grand Tack MP:11
-9-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Kyouji HP:999/999 MP:0/0
-2-Lord Nan Dou HP:549/549 MP:108/108
-3-Lilith HP:339/380 MP:369/369
-4-Black Maria HP:348/348 MP:337/337
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Demi-Fiend ataca a Lord Nan Dou
-Lord Nan Dou recibe 195 de daño
-Lord Nan Dou termina con HP:354/549
+INPUT: 5
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-Lord Nan Dou HP:549/549 MP:108/108
-C-Mushussu HP:399/399 MP:179/179
-D-Master Therion HP:497/497 MP:223/223
-Equipo de Kyouji (J2)
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Kyouji (J1)
 A-Kyouji HP:999/999 MP:0/0
-B-Lord Nan Dou HP:354/549 MP:108/108
-C-Lilith HP:339/380 MP:369/369
-D-Black Maria HP:348/348 MP:337/337
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Mushussu
-2-Lord Nan Dou
-3-Master Therion
-4-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Mushussu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Karasu Tengu HP:238/238 MP:107/107
-2-Anzu HP:596/596 MP:118/118
-3-Nue HP:341/341 MP:67/67
-4-Magatsuhi HP:851/851 MP:170/170
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Karasu Tengu ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-Lord Nan Dou HP:549/549 MP:108/108
-C-Karasu Tengu HP:238/238 MP:107/107
-D-Master Therion HP:497/497 MP:223/223
-Equipo de Kyouji (J2)
-A-Kyouji HP:999/999 MP:0/0
-B-Lord Nan Dou HP:354/549 MP:108/108
-C-Lilith HP:339/380 MP:369/369
-D-Black Maria HP:348/348 MP:337/337
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Lord Nan Dou
-2-Master Therion
-3-Demi-Fiend
-4-Karasu Tengu
-----------------------------------------
-Seleccione una acción para Lord Nan Dou
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Lord Nan Dou
-1-Kyouji HP:999/999 MP:0/0
-2-Lord Nan Dou HP:354/549 MP:108/108
-3-Lilith HP:339/380 MP:369/369
-4-Black Maria HP:348/348 MP:337/337
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Lord Nan Dou ataca a Kyouji
-Kyouji recibe 41 de daño
-Kyouji termina con HP:958/999
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Kyouji (J2)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-Lord Nan Dou HP:549/549 MP:108/108
-C-Karasu Tengu HP:238/238 MP:107/107
-D-Master Therion HP:497/497 MP:223/223
-Equipo de Kyouji (J2)
-A-Kyouji HP:958/999 MP:0/0
-B-Lord Nan Dou HP:354/549 MP:108/108
-C-Lilith HP:339/380 MP:369/369
-D-Black Maria HP:348/348 MP:337/337
+B-Nidhoggr HP:681/681 MP:135/135
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Fuxi HP:52/52 MP:49/49
+C-Fortuna HP:147/147 MP:66/66
+D-Nebiros HP:249/249 MP:242/242
 ----------------------------------------
 Full Turns: 4
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Lilith
-2-Black Maria
-3-Lord Nan Dou
-4-Kyouji
+1-Shujinko
+2-Nebiros
+3-Fortuna
+4-Fuxi
 ----------------------------------------
-Seleccione una acción para Lilith
+Seleccione una acción para Shujinko
 1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Kyouji HP:999/999 MP:0/0
+2-Nidhoggr HP:681/681 MP:135/135
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Shujinko dispara a Nidhoggr
+Nidhoggr es resistente el ataque de Shujinko
+Nidhoggr recibe 114 de daño
+Nidhoggr termina con HP:567/681
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-Lord Nan Dou HP:549/549 MP:108/108
-C-Karasu Tengu HP:238/238 MP:107/107
-D-Master Therion HP:497/497 MP:223/223
-Equipo de Kyouji (J2)
-A-Kyouji HP:958/999 MP:0/0
-B-Lord Nan Dou HP:354/549 MP:108/108
-C-Lilith HP:339/380 MP:369/369
-D-Black Maria HP:348/348 MP:337/337
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Black Maria
-2-Lord Nan Dou
-3-Kyouji
-4-Lilith
-----------------------------------------
-Seleccione una acción para Black Maria
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Black Maria use
-1-Mediarahan MP:40
-2-Lullaby MP:11
-3-Ziodyne MP:14
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Black Maria
-1-Demi-Fiend HP:1227/1227 MP:827/834
-2-Lord Nan Dou HP:549/549 MP:108/108
-3-Karasu Tengu HP:238/238 MP:107/107
-4-Master Therion HP:497/497 MP:223/223
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Black Maria lanza electricidad a Lord Nan Dou
-Lord Nan Dou recibe 135 de daño
-Lord Nan Dou termina con HP:414/549
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-Lord Nan Dou HP:414/549 MP:108/108
-C-Karasu Tengu HP:238/238 MP:107/107
-D-Master Therion HP:497/497 MP:223/223
-Equipo de Kyouji (J2)
-A-Kyouji HP:958/999 MP:0/0
-B-Lord Nan Dou HP:354/549 MP:108/108
-C-Lilith HP:339/380 MP:369/369
-D-Black Maria HP:348/348 MP:323/337
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Nidhoggr HP:567/681 MP:135/135
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Fuxi HP:52/52 MP:49/49
+C-Fortuna HP:147/147 MP:66/66
+D-Nebiros HP:249/249 MP:242/242
 ----------------------------------------
 Full Turns: 3
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Lord Nan Dou
-2-Kyouji
-3-Lilith
-4-Black Maria
+1-Nebiros
+2-Fortuna
+3-Fuxi
+4-Shujinko
 ----------------------------------------
-Seleccione una acción para Lord Nan Dou
+Seleccione una acción para Nebiros
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 4
+INPUT: 2
 ----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-Lord Nan Dou HP:414/549 MP:108/108
-C-Karasu Tengu HP:238/238 MP:107/107
-D-Master Therion HP:497/497 MP:223/223
-Equipo de Kyouji (J2)
-A-Kyouji HP:958/999 MP:0/0
-B-Lord Nan Dou HP:354/549 MP:108/108
-C-Lilith HP:339/380 MP:369/369
-D-Black Maria HP:348/348 MP:323/337
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Kyouji
-2-Lilith
-3-Black Maria
-4-Lord Nan Dou
-----------------------------------------
-Seleccione una acción para Kyouji
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Kyouji
-1-Demi-Fiend HP:1227/1227 MP:827/834
-2-Lord Nan Dou HP:414/549 MP:108/108
-3-Karasu Tengu HP:238/238 MP:107/107
-4-Master Therion HP:497/497 MP:223/223
+Seleccione una habilidad para que Nebiros use
+1-Mudoon MP:10
+2-Sabbatma MP:20
+3-Pulinpa MP:5
+4-Megidola MP:40
 5-Cancelar
-INPUT: 4
-----------------------------------------
-Kyouji ataca a Master Therion
-Master Therion recibe 614 de daño
-Master Therion termina con HP:0/497
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-Lord Nan Dou HP:414/549 MP:108/108
-C-Karasu Tengu HP:238/238 MP:107/107
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:958/999 MP:0/0
-B-Lord Nan Dou HP:354/549 MP:108/108
-C-Lilith HP:339/380 MP:369/369
-D-Black Maria HP:348/348 MP:323/337
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Lilith
-2-Black Maria
-3-Lord Nan Dou
-4-Kyouji
-----------------------------------------
-Seleccione una acción para Lilith
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Lilith
-1-Demi-Fiend HP:1227/1227 MP:827/834
-2-Lord Nan Dou HP:414/549 MP:108/108
-3-Karasu Tengu HP:238/238 MP:107/107
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Lilith
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
+INPUT: 2
 ----------------------------------------
 Seleccione un monstruo para invocar
-1-Chagrin HP:67/67 MP:72/72
-2-Power HP:407/407 MP:81/81
-3-Asherah HP:433/433 MP:195/195
-4-Python HP:637/637 MP:286/286
-5-Cancelar
-INPUT: 4
+1-Black Maria HP:348/348 MP:337/337
+2-Nue HP:341/341 MP:67/67
+3-Cancelar
+INPUT: 3
 ----------------------------------------
-Python ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-Lord Nan Dou HP:414/549 MP:108/108
-C-Karasu Tengu HP:238/238 MP:107/107
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:958/999 MP:0/0
-B-Lord Nan Dou HP:354/549 MP:108/108
-C-Python HP:637/637 MP:286/286
-D-Black Maria HP:348/348 MP:323/337
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Black Maria
-2-Lord Nan Dou
-3-Kyouji
-4-Python
-----------------------------------------
-Seleccione una acción para Black Maria
+Seleccione una acción para Nebiros
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 2
 ----------------------------------------
-Seleccione una habilidad para que Black Maria use
-1-Mediarahan MP:40
-2-Lullaby MP:11
-3-Ziodyne MP:14
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Black Maria
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Black Maria use
-1-Mediarahan MP:40
-2-Lullaby MP:11
-3-Ziodyne MP:14
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Black Maria
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Black Maria
-1-Demi-Fiend HP:1227/1227 MP:827/834
-2-Lord Nan Dou HP:414/549 MP:108/108
-3-Karasu Tengu HP:238/238 MP:107/107
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Black Maria
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Black Maria
-1-Demi-Fiend HP:1227/1227 MP:827/834
-2-Lord Nan Dou HP:414/549 MP:108/108
-3-Karasu Tengu HP:238/238 MP:107/107
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Black Maria ataca a Karasu Tengu
-Karasu Tengu recibe 36 de daño
-Karasu Tengu termina con HP:202/238
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-Lord Nan Dou HP:414/549 MP:108/108
-C-Karasu Tengu HP:202/238 MP:107/107
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:958/999 MP:0/0
-B-Lord Nan Dou HP:354/549 MP:108/108
-C-Python HP:637/637 MP:286/286
-D-Black Maria HP:348/348 MP:323/337
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Lord Nan Dou
-2-Kyouji
-3-Python
-4-Black Maria
-----------------------------------------
-Seleccione una acción para Lord Nan Dou
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Lord Nan Dou use
-1-Maragidyne MP:32
-2-Berserker God MP:12
-3-Samarecarm MP:40
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Lord Nan Dou
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Lilith HP:339/380 MP:369/369
-2-Chagrin HP:67/67 MP:72/72
-3-Power HP:407/407 MP:81/81
-4-Asherah HP:433/433 MP:195/195
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Lilith ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-Lord Nan Dou HP:414/549 MP:108/108
-C-Karasu Tengu HP:202/238 MP:107/107
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:958/999 MP:0/0
-B-Lilith HP:339/380 MP:369/369
-C-Python HP:637/637 MP:286/286
-D-Black Maria HP:348/348 MP:323/337
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Kyouji
-2-Python
-3-Black Maria
-4-Lilith
-----------------------------------------
-Seleccione una acción para Kyouji
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Lord Nan Dou HP:354/549 MP:108/108
-2-Chagrin HP:67/67 MP:72/72
-3-Power HP:407/407 MP:81/81
-4-Asherah HP:433/433 MP:195/195
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una posición para invocar
-1-Lilith HP:339/380 MP:369/369 (Puesto 2)
-2-Python HP:637/637 MP:286/286 (Puesto 3)
-3-Black Maria HP:348/348 MP:323/337 (Puesto 4)
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Kyouji
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Lord Nan Dou HP:354/549 MP:108/108
-2-Chagrin HP:67/67 MP:72/72
-3-Power HP:407/407 MP:81/81
-4-Asherah HP:433/433 MP:195/195
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una posición para invocar
-1-Lilith HP:339/380 MP:369/369 (Puesto 2)
-2-Python HP:637/637 MP:286/286 (Puesto 3)
-3-Black Maria HP:348/348 MP:323/337 (Puesto 4)
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Kyouji
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Kyouji use
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Kyouji
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Kyouji use
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Kyouji
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Kyouji use
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Kyouji
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Kyouji use
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Kyouji
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Lord Nan Dou HP:354/549 MP:108/108
-2-Chagrin HP:67/67 MP:72/72
-3-Power HP:407/407 MP:81/81
-4-Asherah HP:433/433 MP:195/195
-5-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una posición para invocar
-1-Lilith HP:339/380 MP:369/369 (Puesto 2)
-2-Python HP:637/637 MP:286/286 (Puesto 3)
-3-Black Maria HP:348/348 MP:323/337 (Puesto 4)
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Asherah ha sido invocado
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Demi-Fiend (J1)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-Lord Nan Dou HP:414/549 MP:108/108
-C-Karasu Tengu HP:202/238 MP:107/107
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:958/999 MP:0/0
-B-Asherah HP:433/433 MP:195/195
-C-Python HP:637/637 MP:286/286
-D-Black Maria HP:348/348 MP:323/337
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-2-Lord Nan Dou
-3-Karasu Tengu
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Kyouji HP:958/999 MP:0/0
-2-Asherah HP:433/433 MP:195/195
-3-Python HP:637/637 MP:286/286
-4-Black Maria HP:348/348 MP:323/337
+Seleccione una habilidad para que Nebiros use
+1-Mudoon MP:10
+2-Sabbatma MP:20
+3-Pulinpa MP:5
+4-Megidola MP:40
 5-Cancelar
 INPUT: 5
 ----------------------------------------
-Seleccione una acción para Demi-Fiend
+Seleccione una acción para Nebiros
 1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Mushussu HP:399/399 MP:179/179
-2-Anzu HP:596/596 MP:118/118
-3-Nue HP:341/341 MP:67/67
-4-Magatsuhi HP:851/851 MP:170/170
-5-Cancelar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
 INPUT: 3
 ----------------------------------------
-Seleccione una posición para invocar
-1-Lord Nan Dou HP:414/549 MP:108/108 (Puesto 2)
-2-Karasu Tengu HP:202/238 MP:107/107 (Puesto 3)
-3-Vacío (Puesto 4)
-4-Cancelar
+Seleccione un monstruo para invocar
+1-Black Maria HP:348/348 MP:337/337
+2-Nue HP:341/341 MP:67/67
+3-Cancelar
 INPUT: 2
 ----------------------------------------
 Nue ha sido invocado
@@ -1085,316 +451,493 @@ Nue ha sido invocado
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-Lord Nan Dou HP:414/549 MP:108/108
-C-Nue HP:341/341 MP:67/67
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Nidhoggr HP:567/681 MP:135/135
+C-
 D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:958/999 MP:0/0
-B-Asherah HP:433/433 MP:195/195
-C-Python HP:637/637 MP:286/286
-D-Black Maria HP:348/348 MP:323/337
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Fuxi HP:52/52 MP:49/49
+C-Fortuna HP:147/147 MP:66/66
+D-Nue HP:341/341 MP:67/67
 ----------------------------------------
 Full Turns: 2
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Lord Nan Dou
-2-Nue
-3-Demi-Fiend
+1-Fortuna
+2-Fuxi
+3-Shujinko
+4-Nue
 ----------------------------------------
-Seleccione una acción para Lord Nan Dou
+Seleccione una acción para Fortuna
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Lord Nan Dou
-1-Kyouji HP:958/999 MP:0/0
-2-Asherah HP:433/433 MP:195/195
-3-Python HP:637/637 MP:286/286
-4-Black Maria HP:348/348 MP:323/337
-5-Cancelar
+Seleccione un objetivo para Fortuna
+1-Kyouji HP:999/999 MP:0/0
+2-Nidhoggr HP:567/681 MP:135/135
+3-Cancelar
 INPUT: 3
 ----------------------------------------
-Lord Nan Dou ataca a Python
-Python recibe 41 de daño
-Python termina con HP:596/637
+Seleccione una acción para Fortuna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Fortuna
+1-Kyouji HP:999/999 MP:0/0
+2-Nidhoggr HP:567/681 MP:135/135
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Fortuna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Fortuna use
+1-Zan MP:5
+2-Media MP:12
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Fortuna
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nebiros HP:249/249 MP:242/242
+2-Black Maria HP:348/348 MP:337/337
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nebiros ha sido invocado
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-Lord Nan Dou HP:414/549 MP:108/108
-C-Nue HP:341/341 MP:67/67
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Nidhoggr HP:567/681 MP:135/135
+C-
 D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:958/999 MP:0/0
-B-Asherah HP:433/433 MP:195/195
-C-Python HP:596/637 MP:286/286
-D-Black Maria HP:348/348 MP:323/337
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Fuxi HP:52/52 MP:49/49
+C-Nebiros HP:249/249 MP:242/242
+D-Nue HP:341/341 MP:67/67
 ----------------------------------------
 Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
+1-Fuxi
+2-Shujinko
+3-Nue
+4-Nebiros
+----------------------------------------
+Seleccione una acción para Fuxi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Fuxi use
+1-Zan MP:5
+2-Patra MP:5
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Fuxi
+1-Kyouji HP:999/999 MP:0/0
+2-Nidhoggr HP:567/681 MP:135/135
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Fuxi lanza viento a Nidhoggr
+Nidhoggr recibe 25 de daño
+Nidhoggr termina con HP:542/681
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Nidhoggr HP:542/681 MP:135/135
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Fuxi HP:52/52 MP:44/49
+C-Nebiros HP:249/249 MP:242/242
+D-Nue HP:341/341 MP:67/67
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Nue
+3-Nebiros
+4-Fuxi
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Zan MP:5
+2-Agilao MP:8
+3-Tathlum Shot MP:7
+4-Stigma Attack MP:20
+5-Bufu MP:5
+6-Fatal Sword MP:8
+7-Bouncing Claw MP:4
+8-Deadly Wind MP:22
+9-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Kyouji HP:999/999 MP:0/0
+2-Nidhoggr HP:542/681 MP:135/135
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Shujinko lanza hielo a Nidhoggr
+Nidhoggr devuelve 80 daño a Shujinko
+Shujinko termina con HP:1237/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J1)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Nidhoggr HP:542/681 MP:135/135
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1237/1317 MP:620/625
+B-Fuxi HP:52/52 MP:44/49
+C-Nebiros HP:249/249 MP:242/242
+D-Nue HP:341/341 MP:67/67
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Kyouji
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Shujinko HP:1237/1317 MP:620/625
+2-Fuxi HP:52/52 MP:44/49
+3-Nebiros HP:249/249 MP:242/242
+4-Nue HP:341/341 MP:67/67
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Nidhoggr ataca a Nebiros
+Nebiros bloquea el ataque de Nidhoggr
+Nebiros termina con HP:249/249
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Nidhoggr HP:542/681 MP:135/135
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1237/1317 MP:620/625
+B-Fuxi HP:52/52 MP:44/49
+C-Nebiros HP:249/249 MP:242/242
+D-Nue HP:341/341 MP:67/67
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Nebiros
+3-Nue
+4-Fuxi
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Kyouji HP:999/999 MP:0/0
+2-Nidhoggr HP:542/681 MP:135/135
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Shujinko dispara a Nidhoggr
+Nidhoggr es resistente el ataque de Shujinko
+Nidhoggr recibe 114 de daño
+Nidhoggr termina con HP:428/681
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Nidhoggr HP:428/681 MP:135/135
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1237/1317 MP:620/625
+B-Fuxi HP:52/52 MP:44/49
+C-Nebiros HP:249/249 MP:242/242
+D-Nue HP:341/341 MP:67/67
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nebiros
+2-Nue
+3-Fuxi
+4-Shujinko
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Nidhoggr HP:428/681 MP:135/135
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1237/1317 MP:620/625
+B-Fuxi HP:52/52 MP:44/49
+C-Nebiros HP:249/249 MP:242/242
+D-Nue HP:341/341 MP:67/67
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
 1-Nue
-2-Demi-Fiend
-3-Lord Nan Dou
+2-Fuxi
+3-Shujinko
+4-Nebiros
 ----------------------------------------
 Seleccione una acción para Nue
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 3
+INPUT: 4
 ----------------------------------------
-Seleccione un monstruo para invocar
-1-Mushussu HP:399/399 MP:179/179
-2-Karasu Tengu HP:202/238 MP:107/107
-3-Anzu HP:596/596 MP:118/118
-4-Magatsuhi HP:851/851 MP:170/170
-5-Cancelar
-INPUT: 3
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Anzu ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-Lord Nan Dou HP:414/549 MP:108/108
-C-Anzu HP:596/596 MP:118/118
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Nidhoggr HP:428/681 MP:135/135
+C-
 D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:958/999 MP:0/0
-B-Asherah HP:433/433 MP:195/195
-C-Python HP:596/637 MP:286/286
-D-Black Maria HP:348/348 MP:323/337
+Equipo de Shujinko (J2)
+A-Shujinko HP:1237/1317 MP:620/625
+B-Fuxi HP:52/52 MP:44/49
+C-Nebiros HP:249/249 MP:242/242
+D-Nue HP:341/341 MP:67/67
 ----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
+Full Turns: 2
+Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Demi-Fiend
-2-Lord Nan Dou
-3-Anzu
+1-Fuxi
+2-Shujinko
+3-Nebiros
+4-Nue
 ----------------------------------------
-Seleccione una acción para Demi-Fiend
+Seleccione una acción para Fuxi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Fuxi
+1-Kyouji HP:999/999 MP:0/0
+2-Nidhoggr HP:428/681 MP:135/135
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Fuxi ataca a Nidhoggr
+Nidhoggr es resistente el ataque de Fuxi
+Nidhoggr recibe 2 de daño
+Nidhoggr termina con HP:426/681
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:999/999 MP:0/0
+B-Nidhoggr HP:426/681 MP:135/135
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1237/1317 MP:620/625
+B-Fuxi HP:52/52 MP:44/49
+C-Nebiros HP:249/249 MP:242/242
+D-Nue HP:341/341 MP:67/67
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Nebiros
+3-Nue
+4-Fuxi
+----------------------------------------
+Seleccione una acción para Shujinko
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Kyouji HP:958/999 MP:0/0
-2-Asherah HP:433/433 MP:195/195
-3-Python HP:596/637 MP:286/286
-4-Black Maria HP:348/348 MP:323/337
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Demi-Fiend ataca a Kyouji
-Kyouji recibe 168 de daño
-Kyouji termina con HP:790/999
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-Lord Nan Dou HP:414/549 MP:108/108
-C-Anzu HP:596/596 MP:118/118
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:790/999 MP:0/0
-B-Asherah HP:433/433 MP:195/195
-C-Python HP:596/637 MP:286/286
-D-Black Maria HP:348/348 MP:323/337
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Lord Nan Dou
-2-Anzu
-3-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Lord Nan Dou
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Lord Nan Dou use
-1-Maragidyne MP:32
-2-Berserker God MP:12
-3-Samarecarm MP:40
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Lord Nan Dou
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Lord Nan Dou
-1-Kyouji HP:790/999 MP:0/0
-2-Asherah HP:433/433 MP:195/195
-3-Python HP:596/637 MP:286/286
-4-Black Maria HP:348/348 MP:323/337
-5-Cancelar
-INPUT: 4
-----------------------------------------
-Lord Nan Dou ataca a Black Maria
-Black Maria recibe 41 de daño
-Black Maria termina con HP:307/348
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Kyouji (J2)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-Lord Nan Dou HP:414/549 MP:108/108
-C-Anzu HP:596/596 MP:118/118
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:790/999 MP:0/0
-B-Asherah HP:433/433 MP:195/195
-C-Python HP:596/637 MP:286/286
-D-Black Maria HP:307/348 MP:323/337
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Python
-2-Black Maria
-3-Asherah
-4-Kyouji
-----------------------------------------
-Seleccione una acción para Python
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
 INPUT: 3
 ----------------------------------------
-Seleccione un monstruo para invocar
-1-Lord Nan Dou HP:354/549 MP:108/108
-2-Lilith HP:339/380 MP:369/369
-3-Chagrin HP:67/67 MP:72/72
-4-Power HP:407/407 MP:81/81
-5-Cancelar
-INPUT: 4
-----------------------------------------
-Power ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-Lord Nan Dou HP:414/549 MP:108/108
-C-Anzu HP:596/596 MP:118/118
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:790/999 MP:0/0
-B-Asherah HP:433/433 MP:195/195
-C-Power HP:407/407 MP:81/81
-D-Black Maria HP:307/348 MP:323/337
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Black Maria
-2-Asherah
-3-Kyouji
-4-Power
-----------------------------------------
-Seleccione una acción para Black Maria
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
+Seleccione una habilidad para que Shujinko use
+1-Zan MP:5
+2-Agilao MP:8
+3-Tathlum Shot MP:7
+4-Stigma Attack MP:20
+5-Bufu MP:5
+6-Fatal Sword MP:8
+7-Bouncing Claw MP:4
+8-Deadly Wind MP:22
+9-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Black Maria
-1-Demi-Fiend HP:1227/1227 MP:827/834
-2-Lord Nan Dou HP:414/549 MP:108/108
-3-Anzu HP:596/596 MP:118/118
-4-Cancelar
-INPUT: 2
+Seleccione un objetivo para Shujinko
+1-Kyouji HP:999/999 MP:0/0
+2-Nidhoggr HP:426/681 MP:135/135
+3-Cancelar
+INPUT: 1
 ----------------------------------------
-Black Maria ataca a Lord Nan Dou
-Lord Nan Dou recibe 36 de daño
-Lord Nan Dou termina con HP:378/549
+Shujinko lanza viento a Kyouji
+Kyouji es resistente el ataque de Shujinko
+Kyouji recibe 40 de daño
+Kyouji termina con HP:959/999
 ----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-Lord Nan Dou HP:378/549 MP:108/108
-C-Anzu HP:596/596 MP:118/118
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:790/999 MP:0/0
-B-Asherah HP:433/433 MP:195/195
-C-Power HP:407/407 MP:81/81
-D-Black Maria HP:307/348 MP:323/337
+Ronda de Kyouji (J1)
 ----------------------------------------
-Full Turns: 3
+Equipo de Kyouji (J1)
+A-Kyouji HP:959/999 MP:0/0
+B-Nidhoggr HP:426/681 MP:135/135
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1237/1317 MP:615/625
+B-Fuxi HP:52/52 MP:44/49
+C-Nebiros HP:249/249 MP:242/242
+D-Nue HP:341/341 MP:67/67
+----------------------------------------
+Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Asherah
+1-Nidhoggr
 2-Kyouji
-3-Power
-4-Black Maria
 ----------------------------------------
-Seleccione una acción para Asherah
+Seleccione una acción para Nidhoggr
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 4
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nidhoggr use
+1-Grand Tack MP:11
+2-Life Drain MP:5
+3-Madness Nails MP:26
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Shujinko HP:1237/1317 MP:615/625
+2-Fuxi HP:52/52 MP:44/49
+3-Nebiros HP:249/249 MP:242/242
+4-Nue HP:341/341 MP:67/67
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nidhoggr dispara a Fuxi
+Fuxi es débil contra el ataque de Nidhoggr
+Fuxi recibe 194 de daño
+Fuxi termina con HP:0/52
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-Lord Nan Dou HP:378/549 MP:108/108
-C-Anzu HP:596/596 MP:118/118
+Equipo de Kyouji (J1)
+A-Kyouji HP:959/999 MP:0/0
+B-Nidhoggr HP:426/681 MP:124/135
+C-
 D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:790/999 MP:0/0
-B-Asherah HP:433/433 MP:195/195
-C-Power HP:407/407 MP:81/81
-D-Black Maria HP:307/348 MP:323/337
+Equipo de Shujinko (J2)
+A-Shujinko HP:1237/1317 MP:615/625
+B-
+C-Nebiros HP:249/249 MP:242/242
+D-Nue HP:341/341 MP:67/67
 ----------------------------------------
-Full Turns: 2
+Full Turns: 1
 Blinking Turns: 1
 ----------------------------------------
 Orden:
 1-Kyouji
-2-Power
-3-Black Maria
-4-Asherah
+2-Nidhoggr
 ----------------------------------------
 Seleccione una acción para Kyouji
 1: Atacar
@@ -1408,41 +951,136 @@ INPUT: 5
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-Lord Nan Dou HP:378/549 MP:108/108
-C-Anzu HP:596/596 MP:118/118
+Equipo de Kyouji (J1)
+A-Kyouji HP:959/999 MP:0/0
+B-Nidhoggr HP:426/681 MP:124/135
+C-
 D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:790/999 MP:0/0
-B-Asherah HP:433/433 MP:195/195
-C-Power HP:407/407 MP:81/81
-D-Black Maria HP:307/348 MP:323/337
+Equipo de Shujinko (J2)
+A-Shujinko HP:1237/1317 MP:615/625
+B-
+C-Nebiros HP:249/249 MP:242/242
+D-Nue HP:341/341 MP:67/67
 ----------------------------------------
-Full Turns: 2
+Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Power
-2-Black Maria
-3-Asherah
-4-Kyouji
+1-Nidhoggr
+2-Kyouji
 ----------------------------------------
-Seleccione una acción para Power
+Seleccione una acción para Nidhoggr
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Power
-1-Demi-Fiend HP:1227/1227 MP:827/834
-2-Lord Nan Dou HP:378/549 MP:108/108
-3-Anzu HP:596/596 MP:118/118
+Seleccione un objetivo para Nidhoggr
+1-Shujinko HP:1237/1317 MP:615/625
+2-Nebiros HP:249/249 MP:242/242
+3-Nue HP:341/341 MP:67/67
 4-Cancelar
 INPUT: 4
 ----------------------------------------
-Seleccione una acción para Power
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Shujinko HP:1237/1317 MP:615/625
+2-Nebiros HP:249/249 MP:242/242
+3-Nue HP:341/341 MP:67/67
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Shujinko HP:1237/1317 MP:615/625
+2-Nebiros HP:249/249 MP:242/242
+3-Nue HP:341/341 MP:67/67
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nidhoggr ataca a Nebiros
+Nebiros bloquea el ataque de Nidhoggr
+Nebiros termina con HP:249/249
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:959/999 MP:0/0
+B-Nidhoggr HP:426/681 MP:124/135
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1237/1317 MP:615/625
+B-
+C-Nebiros HP:249/249 MP:242/242
+D-Nue HP:341/341 MP:67/67
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Nebiros
+3-Nue
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Kyouji HP:959/999 MP:0/0
+2-Nidhoggr HP:426/681 MP:124/135
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko ataca a Kyouji
+Kyouji recibe 187 de daño
+Kyouji termina con HP:772/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:772/999 MP:0/0
+B-Nidhoggr HP:426/681 MP:124/135
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1237/1317 MP:615/625
+B-
+C-Nebiros HP:249/249 MP:242/242
+D-Nue HP:341/341 MP:67/67
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nebiros
+2-Nue
+3-Shujinko
+----------------------------------------
+Seleccione una acción para Nebiros
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -1452,42 +1090,39 @@ INPUT: 4
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-Lord Nan Dou HP:378/549 MP:108/108
-C-Anzu HP:596/596 MP:118/118
+Equipo de Kyouji (J1)
+A-Kyouji HP:772/999 MP:0/0
+B-Nidhoggr HP:426/681 MP:124/135
+C-
 D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:790/999 MP:0/0
-B-Asherah HP:433/433 MP:195/195
-C-Power HP:407/407 MP:81/81
-D-Black Maria HP:307/348 MP:323/337
+Equipo de Shujinko (J2)
+A-Shujinko HP:1237/1317 MP:615/625
+B-
+C-Nebiros HP:249/249 MP:242/242
+D-Nue HP:341/341 MP:67/67
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Black Maria
-2-Asherah
-3-Kyouji
-4-Power
+1-Nue
+2-Shujinko
+3-Nebiros
 ----------------------------------------
-Seleccione una acción para Black Maria
+Seleccione una acción para Nue
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nue
+1-Kyouji HP:772/999 MP:0/0
+2-Nidhoggr HP:426/681 MP:124/135
+3-Cancelar
 INPUT: 3
 ----------------------------------------
-Seleccione un monstruo para invocar
-1-Lord Nan Dou HP:354/549 MP:108/108
-2-Lilith HP:339/380 MP:369/369
-3-Chagrin HP:67/67 MP:72/72
-4-Python HP:596/637 MP:286/286
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Black Maria
+Seleccione una acción para Nue
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -1497,27 +1132,114 @@ INPUT: 4
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-Lord Nan Dou HP:378/549 MP:108/108
-C-Anzu HP:596/596 MP:118/118
+Equipo de Kyouji (J1)
+A-Kyouji HP:772/999 MP:0/0
+B-Nidhoggr HP:426/681 MP:124/135
+C-
 D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:790/999 MP:0/0
-B-Asherah HP:433/433 MP:195/195
-C-Power HP:407/407 MP:81/81
-D-Black Maria HP:307/348 MP:323/337
+Equipo de Shujinko (J2)
+A-Shujinko HP:1237/1317 MP:615/625
+B-
+C-Nebiros HP:249/249 MP:242/242
+D-Nue HP:341/341 MP:67/67
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Asherah
-2-Kyouji
-3-Power
-4-Black Maria
+1-Shujinko
+2-Nebiros
+3-Nue
 ----------------------------------------
-Seleccione una acción para Asherah
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Kyouji HP:772/999 MP:0/0
+2-Nidhoggr HP:426/681 MP:124/135
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Kyouji HP:772/999 MP:0/0
+2-Nidhoggr HP:426/681 MP:124/135
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Fortuna HP:147/147 MP:66/66
+2-Black Maria HP:348/348 MP:337/337
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Kyouji HP:772/999 MP:0/0
+2-Nidhoggr HP:426/681 MP:124/135
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Shujinko dispara a Nidhoggr
+Nidhoggr es resistente el ataque de Shujinko
+Nidhoggr recibe 114 de daño
+Nidhoggr termina con HP:312/681
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J1)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:772/999 MP:0/0
+B-Nidhoggr HP:312/681 MP:124/135
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1237/1317 MP:615/625
+B-
+C-Nebiros HP:249/249 MP:242/242
+D-Nue HP:341/341 MP:67/67
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Kyouji
+----------------------------------------
+Seleccione una acción para Nidhoggr
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -1525,37 +1247,357 @@ Seleccione una acción para Asherah
 INPUT: 3
 ----------------------------------------
 Seleccione un monstruo para invocar
-1-Lord Nan Dou HP:354/549 MP:108/108
-2-Lilith HP:339/380 MP:369/369
-3-Chagrin HP:67/67 MP:72/72
-4-Python HP:596/637 MP:286/286
-5-Cancelar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
 INPUT: 3
 ----------------------------------------
-Chagrin ha sido invocado
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-Lord Nan Dou HP:378/549 MP:108/108
-C-Anzu HP:596/596 MP:118/118
+Equipo de Kyouji (J1)
+A-Kyouji HP:772/999 MP:0/0
+B-Nidhoggr HP:312/681 MP:124/135
+C-
 D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:790/999 MP:0/0
-B-Chagrin HP:67/67 MP:72/72
-C-Power HP:407/407 MP:81/81
-D-Black Maria HP:307/348 MP:323/337
+Equipo de Shujinko (J2)
+A-Shujinko HP:1237/1317 MP:615/625
+B-
+C-Nebiros HP:249/249 MP:242/242
+D-Nue HP:341/341 MP:67/67
 ----------------------------------------
-Full Turns: 0
+Full Turns: 1
 Blinking Turns: 1
 ----------------------------------------
 Orden:
 1-Kyouji
-2-Power
-3-Black Maria
-4-Chagrin
+2-Nidhoggr
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:772/999 MP:0/0
+B-Nidhoggr HP:312/681 MP:124/135
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1237/1317 MP:615/625
+B-
+C-Nebiros HP:249/249 MP:242/242
+D-Nue HP:341/341 MP:67/67
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Kyouji
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nidhoggr use
+1-Grand Tack MP:11
+2-Life Drain MP:5
+3-Madness Nails MP:26
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Shujinko HP:1237/1317 MP:615/625
+2-Nebiros HP:249/249 MP:242/242
+3-Nue HP:341/341 MP:67/67
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nidhoggr dispara a Nebiros
+Nebiros recibe 129 de daño
+Nebiros termina con HP:120/249
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:772/999 MP:0/0
+B-Nidhoggr HP:312/681 MP:113/135
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1237/1317 MP:615/625
+B-
+C-Nebiros HP:120/249 MP:242/242
+D-Nue HP:341/341 MP:67/67
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Nebiros
+3-Nue
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:772/999 MP:0/0
+B-Nidhoggr HP:312/681 MP:113/135
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1237/1317 MP:615/625
+B-
+C-Nebiros HP:120/249 MP:242/242
+D-Nue HP:341/341 MP:67/67
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nebiros
+2-Nue
+3-Shujinko
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:772/999 MP:0/0
+B-Nidhoggr HP:312/681 MP:113/135
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1237/1317 MP:615/625
+B-
+C-Nebiros HP:120/249 MP:242/242
+D-Nue HP:341/341 MP:67/67
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nue
+2-Shujinko
+3-Nebiros
+----------------------------------------
+Seleccione una acción para Nue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nue use
+1-Scratch Dance MP:9
+2-Zionga MP:8
+3-Shock MP:21
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nue
+1-Kyouji HP:772/999 MP:0/0
+2-Nidhoggr HP:312/681 MP:113/135
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nue lanza electricidad a Kyouji
+Kyouji es resistente el ataque de Nue
+Kyouji recibe 31 de daño
+Kyouji termina con HP:741/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:741/999 MP:0/0
+B-Nidhoggr HP:312/681 MP:113/135
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1237/1317 MP:615/625
+B-
+C-Nebiros HP:120/249 MP:242/242
+D-Nue HP:341/341 MP:59/67
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Nebiros
+3-Nue
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Zan MP:5
+2-Agilao MP:8
+3-Tathlum Shot MP:7
+4-Stigma Attack MP:20
+5-Bufu MP:5
+6-Fatal Sword MP:8
+7-Bouncing Claw MP:4
+8-Deadly Wind MP:22
+9-Cancelar
+INPUT: 7
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Kyouji HP:741/999 MP:0/0
+2-Nidhoggr HP:312/681 MP:113/135
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Shujinko ataca a Nidhoggr
+Nidhoggr es resistente el ataque de Shujinko
+Nidhoggr recibe 77 de daño
+Shujinko ataca a Nidhoggr
+Nidhoggr es resistente el ataque de Shujinko
+Nidhoggr recibe 77 de daño
+Nidhoggr termina con HP:158/681
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J1)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:741/999 MP:0/0
+B-Nidhoggr HP:158/681 MP:113/135
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1237/1317 MP:611/625
+B-
+C-Nebiros HP:120/249 MP:242/242
+D-Nue HP:341/341 MP:59/67
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Kyouji
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Shujinko HP:1237/1317 MP:611/625
+2-Nebiros HP:120/249 MP:242/242
+3-Nue HP:341/341 MP:59/67
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Nidhoggr ataca a Shujinko
+Shujinko es resistente el ataque de Nidhoggr
+Shujinko recibe 26 de daño
+Shujinko termina con HP:1211/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:741/999 MP:0/0
+B-Nidhoggr HP:158/681 MP:113/135
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1211/1317 MP:611/625
+B-
+C-Nebiros HP:120/249 MP:242/242
+D-Nue HP:341/341 MP:59/67
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+2-Nidhoggr
 ----------------------------------------
 Seleccione una acción para Kyouji
 1: Atacar
@@ -1567,41 +1609,259 @@ Seleccione una acción para Kyouji
 INPUT: 1
 ----------------------------------------
 Seleccione un objetivo para Kyouji
-1-Demi-Fiend HP:1227/1227 MP:827/834
-2-Lord Nan Dou HP:378/549 MP:108/108
-3-Anzu HP:596/596 MP:118/118
+1-Shujinko HP:1211/1317 MP:611/625
+2-Nebiros HP:120/249 MP:242/242
+3-Nue HP:341/341 MP:59/67
 4-Cancelar
+INPUT: 3
+----------------------------------------
+Kyouji ataca a Nue
+Nue recibe 614 de daño
+Nue termina con HP:0/341
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:741/999 MP:0/0
+B-Nidhoggr HP:158/681 MP:113/135
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1211/1317 MP:611/625
+B-
+C-Nebiros HP:120/249 MP:242/242
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Nebiros
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
 INPUT: 1
 ----------------------------------------
-Kyouji ataca a Demi-Fiend
-Demi-Fiend bloquea el ataque de Kyouji
-Demi-Fiend termina con HP:1227/1227
+Seleccione un objetivo para Shujinko
+1-Kyouji HP:741/999 MP:0/0
+2-Nidhoggr HP:158/681 MP:113/135
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Shujinko ataca a Nidhoggr
+Nidhoggr es resistente el ataque de Shujinko
+Nidhoggr recibe 93 de daño
+Nidhoggr termina con HP:65/681
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:741/999 MP:0/0
+B-Nidhoggr HP:65/681 MP:113/135
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1211/1317 MP:611/625
+B-
+C-Nebiros HP:120/249 MP:242/242
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nebiros
+2-Shujinko
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Kyouji HP:741/999 MP:0/0
+2-Nidhoggr HP:65/681 MP:113/135
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Nebiros ataca a Nidhoggr
+Nidhoggr es resistente el ataque de Nebiros
+Nidhoggr recibe 13 de daño
+Nidhoggr termina con HP:52/681
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J1)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:741/999 MP:0/0
+B-Nidhoggr HP:52/681 MP:113/135
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1211/1317 MP:611/625
+B-
+C-Nebiros HP:120/249 MP:242/242
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Kyouji
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:741/999 MP:0/0
+B-Nidhoggr HP:52/681 MP:113/135
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1211/1317 MP:611/625
+B-
+C-Nebiros HP:120/249 MP:242/242
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kyouji
+2-Nidhoggr
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kyouji use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kyouji use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Demi-Fiend (J1)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-Lord Nan Dou HP:378/549 MP:108/108
-C-Anzu HP:596/596 MP:118/118
+Equipo de Kyouji (J1)
+A-Kyouji HP:741/999 MP:0/0
+B-Nidhoggr HP:52/681 MP:113/135
+C-
 D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:790/999 MP:0/0
-B-Chagrin HP:67/67 MP:72/72
-C-Power HP:407/407 MP:81/81
-D-Black Maria HP:307/348 MP:323/337
+Equipo de Shujinko (J2)
+A-Shujinko HP:1211/1317 MP:611/625
+B-
+C-Nebiros HP:120/249 MP:242/242
+D-
 ----------------------------------------
-Full Turns: 3
+Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Demi-Fiend
-2-Anzu
-3-Lord Nan Dou
+1-Nidhoggr
+2-Kyouji
 ----------------------------------------
-Seleccione una acción para Demi-Fiend
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Shujinko HP:1211/1317 MP:611/625
+2-Nebiros HP:120/249 MP:242/242
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Nidhoggr ataca a Nebiros
+Nebiros bloquea el ataque de Nidhoggr
+Nebiros termina con HP:120/249
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:741/999 MP:0/0
+B-Nidhoggr HP:52/681 MP:113/135
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:1211/1317 MP:611/625
+B-
+C-Nebiros HP:120/249 MP:242/242
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Nebiros
+----------------------------------------
+Seleccione una acción para Shujinko
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -1613,96 +1873,120 @@ INPUT: 5
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-Lord Nan Dou HP:378/549 MP:108/108
-C-Anzu HP:596/596 MP:118/118
+Equipo de Kyouji (J1)
+A-Kyouji HP:741/999 MP:0/0
+B-Nidhoggr HP:52/681 MP:113/135
+C-
 D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:790/999 MP:0/0
-B-Chagrin HP:67/67 MP:72/72
-C-Power HP:407/407 MP:81/81
-D-Black Maria HP:307/348 MP:323/337
+Equipo de Shujinko (J2)
+A-Shujinko HP:1211/1317 MP:611/625
+B-
+C-Nebiros HP:120/249 MP:242/242
+D-
 ----------------------------------------
-Full Turns: 2
+Full Turns: 1
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Anzu
-2-Lord Nan Dou
-3-Demi-Fiend
+1-Nebiros
+2-Shujinko
 ----------------------------------------
-Seleccione una acción para Anzu
+Seleccione una acción para Nebiros
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 4
+INPUT: 2
 ----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
+Seleccione una habilidad para que Nebiros use
+1-Mudoon MP:10
+2-Sabbatma MP:20
+3-Pulinpa MP:5
+4-Megidola MP:40
+5-Cancelar
+INPUT: 5
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-Lord Nan Dou HP:378/549 MP:108/108
-C-Anzu HP:596/596 MP:118/118
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:790/999 MP:0/0
-B-Chagrin HP:67/67 MP:72/72
-C-Power HP:407/407 MP:81/81
-D-Black Maria HP:307/348 MP:323/337
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Lord Nan Dou
-2-Demi-Fiend
-3-Anzu
-----------------------------------------
-Seleccione una acción para Lord Nan Dou
+Seleccione una acción para Nebiros
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Lord Nan Dou
-1-Kyouji HP:790/999 MP:0/0
-2-Chagrin HP:67/67 MP:72/72
-3-Power HP:407/407 MP:81/81
-4-Black Maria HP:307/348 MP:323/337
+Seleccione un objetivo para Nebiros
+1-Kyouji HP:741/999 MP:0/0
+2-Nidhoggr HP:52/681 MP:113/135
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nebiros use
+1-Mudoon MP:10
+2-Sabbatma MP:20
+3-Pulinpa MP:5
+4-Megidola MP:40
 5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Fortuna HP:147/147 MP:66/66
+2-Black Maria HP:348/348 MP:337/337
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Nebiros HP:120/249 MP:242/242 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
 INPUT: 4
 ----------------------------------------
-Lord Nan Dou ataca a Black Maria
-Black Maria recibe 41 de daño
-Black Maria termina con HP:266/348
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
 ----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Seleccione un objetivo para Nebiros
+1-Kyouji HP:741/999 MP:0/0
+2-Nidhoggr HP:52/681 MP:113/135
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Nebiros ataca a Nidhoggr
+Nidhoggr es resistente el ataque de Nebiros
+Nidhoggr recibe 13 de daño
+Nidhoggr termina con HP:39/681
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-Lord Nan Dou HP:378/549 MP:108/108
-C-Anzu HP:596/596 MP:118/118
+Equipo de Kyouji (J1)
+A-Kyouji HP:741/999 MP:0/0
+B-Nidhoggr HP:39/681 MP:113/135
+C-
 D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:790/999 MP:0/0
-B-Chagrin HP:67/67 MP:72/72
-C-Power HP:407/407 MP:81/81
-D-Black Maria HP:266/348 MP:323/337
+Equipo de Shujinko (J2)
+A-Shujinko HP:1211/1317 MP:611/625
+B-
+C-Nebiros HP:120/249 MP:242/242
+D-
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Demi-Fiend
-2-Anzu
-3-Lord Nan Dou
+1-Shujinko
+2-Nebiros
 ----------------------------------------
-Seleccione una acción para Demi-Fiend
+Seleccione una acción para Shujinko
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -1711,99 +1995,386 @@ Seleccione una acción para Demi-Fiend
 6: Rendirse
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Kyouji HP:790/999 MP:0/0
-2-Chagrin HP:67/67 MP:72/72
-3-Power HP:407/407 MP:81/81
-4-Black Maria HP:266/348 MP:323/337
-5-Cancelar
-INPUT: 4
+Seleccione un objetivo para Shujinko
+1-Kyouji HP:741/999 MP:0/0
+2-Nidhoggr HP:39/681 MP:113/135
+3-Cancelar
+INPUT: 2
 ----------------------------------------
-Demi-Fiend ataca a Black Maria
-Black Maria recibe 168 de daño
-Black Maria termina con HP:98/348
+Shujinko ataca a Nidhoggr
+Nidhoggr es resistente el ataque de Shujinko
+Nidhoggr recibe 93 de daño
+Nidhoggr termina con HP:0/681
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Kyouji (J2)
+Ronda de Kyouji (J1)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-Lord Nan Dou HP:378/549 MP:108/108
-C-Anzu HP:596/596 MP:118/118
+Equipo de Kyouji (J1)
+A-Kyouji HP:741/999 MP:0/0
+B-
+C-
 D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:790/999 MP:0/0
-B-Chagrin HP:67/67 MP:72/72
-C-Power HP:407/407 MP:81/81
-D-Black Maria HP:98/348 MP:323/337
+Equipo de Shujinko (J2)
+A-Shujinko HP:1211/1317 MP:611/625
+B-
+C-Nebiros HP:120/249 MP:242/242
+D-
 ----------------------------------------
-Full Turns: 4
+Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Black Maria
-2-Power
-3-Kyouji
-4-Chagrin
+1-Kyouji
 ----------------------------------------
-Seleccione una acción para Black Maria
+Seleccione una acción para Kyouji
 1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Black Maria
-1-Demi-Fiend HP:1227/1227 MP:827/834
-2-Lord Nan Dou HP:378/549 MP:108/108
-3-Anzu HP:596/596 MP:118/118
-4-Cancelar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
 INPUT: 4
 ----------------------------------------
-Seleccione una acción para Black Maria
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
 1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Black Maria
-1-Demi-Fiend HP:1227/1227 MP:827/834
-2-Lord Nan Dou HP:378/549 MP:108/108
-3-Anzu HP:596/596 MP:118/118
-4-Cancelar
+Seleccione un objetivo para Kyouji
+1-Shujinko HP:1211/1317 MP:611/625
+2-Nebiros HP:120/249 MP:242/242
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kyouji use
+1-Cancelar
 INPUT: 1
 ----------------------------------------
-Black Maria ataca a Demi-Fiend
-Demi-Fiend bloquea el ataque de Black Maria
-Demi-Fiend termina con HP:1227/1227
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Shujinko HP:1211/1317 MP:611/625
+2-Nebiros HP:120/249 MP:242/242
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kyouji ataca a Shujinko
+Shujinko es resistente el ataque de Kyouji
+Shujinko recibe 307 de daño
+Shujinko termina con HP:904/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:741/999 MP:0/0
+B-
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:904/1317 MP:611/625
+B-
+C-Nebiros HP:120/249 MP:242/242
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Nebiros
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Kyouji HP:741/999 MP:0/0
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko dispara a Kyouji
+Kyouji bloquea el ataque de Shujinko
+Kyouji termina con HP:741/999
 ----------------------------------------
 Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-Lord Nan Dou HP:378/549 MP:108/108
-C-Anzu HP:596/596 MP:118/118
+Ronda de Kyouji (J1)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:741/999 MP:0/0
+B-
+C-
 D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:790/999 MP:0/0
-B-Chagrin HP:67/67 MP:72/72
-C-Power HP:407/407 MP:81/81
-D-Black Maria HP:98/348 MP:323/337
+Equipo de Shujinko (J2)
+A-Shujinko HP:904/1317 MP:611/625
+B-
+C-Nebiros HP:120/249 MP:242/242
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Shujinko HP:904/1317 MP:611/625
+2-Nebiros HP:120/249 MP:242/242
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:741/999 MP:0/0
+B-
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:904/1317 MP:611/625
+B-
+C-Nebiros HP:120/249 MP:242/242
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kyouji
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Shujinko HP:904/1317 MP:611/625
+2-Nebiros HP:120/249 MP:242/242
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kyouji ataca a Shujinko
+Shujinko es resistente el ataque de Kyouji
+Shujinko recibe 307 de daño
+Shujinko termina con HP:597/1317
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:741/999 MP:0/0
+B-
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:597/1317 MP:611/625
+B-
+C-Nebiros HP:120/249 MP:242/242
+D-
 ----------------------------------------
 Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Power
-2-Kyouji
-3-Chagrin
-4-Black Maria
+1-Shujinko
+2-Nebiros
 ----------------------------------------
-Seleccione una acción para Power
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Fortuna HP:147/147 MP:66/66
+2-Black Maria HP:348/348 MP:337/337
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Kyouji HP:741/999 MP:0/0
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Kyouji HP:741/999 MP:0/0
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko ataca a Kyouji
+Kyouji recibe 187 de daño
+Kyouji termina con HP:554/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:554/999 MP:0/0
+B-
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:597/1317 MP:611/625
+B-
+C-Nebiros HP:120/249 MP:242/242
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nebiros
+2-Shujinko
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Fortuna HP:147/147 MP:66/66
+2-Black Maria HP:348/348 MP:337/337
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nebiros use
+1-Mudoon MP:10
+2-Sabbatma MP:20
+3-Pulinpa MP:5
+4-Megidola MP:40
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nebiros
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -1813,25 +2384,358 @@ INPUT: 4
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-Lord Nan Dou HP:378/549 MP:108/108
-C-Anzu HP:596/596 MP:118/118
+Equipo de Kyouji (J1)
+A-Kyouji HP:554/999 MP:0/0
+B-
+C-
 D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:790/999 MP:0/0
-B-Chagrin HP:67/67 MP:72/72
-C-Power HP:407/407 MP:81/81
-D-Black Maria HP:98/348 MP:323/337
+Equipo de Shujinko (J2)
+A-Shujinko HP:597/1317 MP:611/625
+B-
+C-Nebiros HP:120/249 MP:242/242
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Shujinko
+2-Nebiros
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Fortuna HP:147/147 MP:66/66
+2-Black Maria HP:348/348 MP:337/337
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Kyouji HP:554/999 MP:0/0
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Kyouji HP:554/999 MP:0/0
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko ataca a Kyouji
+Kyouji recibe 187 de daño
+Kyouji termina con HP:367/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J1)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:367/999 MP:0/0
+B-
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:597/1317 MP:611/625
+B-
+C-Nebiros HP:120/249 MP:242/242
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:367/999 MP:0/0
+B-
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:597/1317 MP:611/625
+B-
+C-Nebiros HP:120/249 MP:242/242
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kyouji
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:367/999 MP:0/0
+B-
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:597/1317 MP:611/625
+B-
+C-Nebiros HP:120/249 MP:242/242
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Nebiros
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Zan MP:5
+2-Agilao MP:8
+3-Tathlum Shot MP:7
+4-Stigma Attack MP:20
+5-Bufu MP:5
+6-Fatal Sword MP:8
+7-Bouncing Claw MP:4
+8-Deadly Wind MP:22
+9-Cancelar
+INPUT: 9
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:367/999 MP:0/0
+B-
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:597/1317 MP:611/625
+B-
+C-Nebiros HP:120/249 MP:242/242
+D-
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 1
 ----------------------------------------
 Orden:
+1-Nebiros
+2-Shujinko
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Fortuna HP:147/147 MP:66/66
+2-Black Maria HP:348/348 MP:337/337
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nebiros use
+1-Mudoon MP:10
+2-Sabbatma MP:20
+3-Pulinpa MP:5
+4-Megidola MP:40
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Kyouji HP:367/999 MP:0/0
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Kyouji HP:367/999 MP:0/0
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Kyouji HP:367/999 MP:0/0
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Kyouji HP:367/999 MP:0/0
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nebiros ataca a Kyouji
+Kyouji recibe 26 de daño
+Kyouji termina con HP:341/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:341/999 MP:0/0
+B-
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:597/1317 MP:611/625
+B-
+C-Nebiros HP:120/249 MP:242/242
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+2-Nebiros
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shujinko
+1-Kyouji HP:341/999 MP:0/0
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko ataca a Kyouji
+Kyouji recibe 187 de daño
+Kyouji termina con HP:154/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J1)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:154/999 MP:0/0
+B-
+C-
+D-
+Equipo de Shujinko (J2)
+A-Shujinko HP:597/1317 MP:611/625
+B-
+C-Nebiros HP:120/249 MP:242/242
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
 1-Kyouji
-2-Chagrin
-3-Black Maria
-4-Power
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kyouji use
+1-Cancelar
+INPUT: 1
 ----------------------------------------
 Seleccione una acción para Kyouji
 1: Atacar
@@ -1856,11 +2760,10 @@ Seleccione una acción para Kyouji
 INPUT: 2
 ----------------------------------------
 Seleccione un objetivo para Kyouji
-1-Demi-Fiend HP:1227/1227 MP:827/834
-2-Lord Nan Dou HP:378/549 MP:108/108
-3-Anzu HP:596/596 MP:118/118
-4-Cancelar
-INPUT: 4
+1-Shujinko HP:597/1317 MP:611/625
+2-Nebiros HP:120/249 MP:242/242
+3-Cancelar
+INPUT: 3
 ----------------------------------------
 Seleccione una acción para Kyouji
 1: Atacar
@@ -1869,44 +2772,29 @@ Seleccione una acción para Kyouji
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 1
+INPUT: 5
 ----------------------------------------
-Seleccione un objetivo para Kyouji
-1-Demi-Fiend HP:1227/1227 MP:827/834
-2-Lord Nan Dou HP:378/549 MP:108/108
-3-Anzu HP:596/596 MP:118/118
-4-Cancelar
-INPUT: 1
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Kyouji ataca a Demi-Fiend
-Demi-Fiend bloquea el ataque de Kyouji
-Demi-Fiend termina con HP:1227/1227
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Demi-Fiend (J1)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-Lord Nan Dou HP:378/549 MP:108/108
-C-Anzu HP:596/596 MP:118/118
+Equipo de Kyouji (J1)
+A-Kyouji HP:154/999 MP:0/0
+B-
+C-
 D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:790/999 MP:0/0
-B-Chagrin HP:67/67 MP:72/72
-C-Power HP:407/407 MP:81/81
-D-Black Maria HP:98/348 MP:323/337
+Equipo de Shujinko (J2)
+A-Shujinko HP:597/1317 MP:611/625
+B-
+C-Nebiros HP:120/249 MP:242/242
+D-
 ----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
+Full Turns: 0
+Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Demi-Fiend
-2-Anzu
-3-Lord Nan Dou
+1-Kyouji
 ----------------------------------------
-Seleccione una acción para Demi-Fiend
+Seleccione una acción para Kyouji
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -1915,264 +2803,11 @@ Seleccione una acción para Demi-Fiend
 6: Rendirse
 INPUT: 2
 ----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Kyouji HP:790/999 MP:0/0
-2-Chagrin HP:67/67 MP:72/72
-3-Power HP:407/407 MP:81/81
-4-Black Maria HP:98/348 MP:323/337
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Demi-Fiend dispara a Chagrin
-Chagrin recibe 114 de daño
-Chagrin termina con HP:0/67
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-Lord Nan Dou HP:378/549 MP:108/108
-C-Anzu HP:596/596 MP:118/118
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:790/999 MP:0/0
-B-
-C-Power HP:407/407 MP:81/81
-D-Black Maria HP:98/348 MP:323/337
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Anzu
-2-Lord Nan Dou
-3-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Anzu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Anzu use
-1-Zionga MP:8
-2-Nihil Claw MP:11
-3-Me Patra MP:15
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Anzu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Anzu use
-1-Zionga MP:8
-2-Nihil Claw MP:11
-3-Me Patra MP:15
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Anzu
-1-Kyouji HP:790/999 MP:0/0
-2-Power HP:407/407 MP:81/81
-3-Black Maria HP:98/348 MP:323/337
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Anzu lanza electricidad a Power
-Power recibe 84 de daño
-Power termina con HP:323/407
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-Lord Nan Dou HP:378/549 MP:108/108
-C-Anzu HP:596/596 MP:110/118
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:790/999 MP:0/0
-B-
-C-Power HP:323/407 MP:81/81
-D-Black Maria HP:98/348 MP:323/337
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Lord Nan Dou
-2-Demi-Fiend
-3-Anzu
-----------------------------------------
-Seleccione una acción para Lord Nan Dou
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
+Seleccione un objetivo para Kyouji
+1-Shujinko HP:597/1317 MP:611/625
+2-Nebiros HP:120/249 MP:242/242
+3-Cancelar
 INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Mushussu HP:399/399 MP:179/179
-2-Karasu Tengu HP:202/238 MP:107/107
-3-Nue HP:341/341 MP:67/67
-4-Magatsuhi HP:851/851 MP:170/170
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Lord Nan Dou
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Lord Nan Dou use
-1-Maragidyne MP:32
-2-Berserker God MP:12
-3-Samarecarm MP:40
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Lord Nan Dou
-1-Kyouji HP:790/999 MP:0/0
-2-Power HP:323/407 MP:81/81
-3-Black Maria HP:98/348 MP:323/337
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Lord Nan Dou
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Lord Nan Dou
-1-Kyouji HP:790/999 MP:0/0
-2-Power HP:323/407 MP:81/81
-3-Black Maria HP:98/348 MP:323/337
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Lord Nan Dou ataca a Power
-Power recibe 41 de daño
-Power termina con HP:282/407
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Kyouji (J2)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-Lord Nan Dou HP:378/549 MP:108/108
-C-Anzu HP:596/596 MP:110/118
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:790/999 MP:0/0
-B-
-C-Power HP:282/407 MP:81/81
-D-Black Maria HP:98/348 MP:323/337
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Black Maria
-2-Power
-3-Kyouji
-----------------------------------------
-Seleccione una acción para Black Maria
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Black Maria use
-1-Mediarahan MP:40
-2-Lullaby MP:11
-3-Ziodyne MP:14
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Black Maria
-1-Demi-Fiend HP:1227/1227 MP:827/834
-2-Lord Nan Dou HP:378/549 MP:108/108
-3-Anzu HP:596/596 MP:110/118
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Black Maria lanza electricidad a Lord Nan Dou
-Lord Nan Dou recibe 135 de daño
-Lord Nan Dou termina con HP:243/549
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-Lord Nan Dou HP:243/549 MP:108/108
-C-Anzu HP:596/596 MP:110/118
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:790/999 MP:0/0
-B-
-C-Power HP:282/407 MP:81/81
-D-Black Maria HP:98/348 MP:309/337
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Power
-2-Kyouji
-3-Black Maria
-----------------------------------------
-Seleccione una acción para Power
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Lord Nan Dou HP:354/549 MP:108/108
-2-Lilith HP:339/380 MP:369/369
-3-Asherah HP:433/433 MP:195/195
-4-Python HP:596/637 MP:286/286
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Asherah ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-Lord Nan Dou HP:243/549 MP:108/108
-C-Anzu HP:596/596 MP:110/118
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:790/999 MP:0/0
-B-
-C-Asherah HP:433/433 MP:195/195
-D-Black Maria HP:98/348 MP:309/337
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Kyouji
-2-Black Maria
-3-Asherah
 ----------------------------------------
 Seleccione una acción para Kyouji
 1: Atacar
@@ -2197,1112 +2832,38 @@ Seleccione una acción para Kyouji
 INPUT: 2
 ----------------------------------------
 Seleccione un objetivo para Kyouji
-1-Demi-Fiend HP:1227/1227 MP:827/834
-2-Lord Nan Dou HP:243/549 MP:108/108
-3-Anzu HP:596/596 MP:110/118
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Kyouji dispara a Lord Nan Dou
-Lord Nan Dou recibe 911 de daño
-Lord Nan Dou termina con HP:0/549
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-
-C-Anzu HP:596/596 MP:110/118
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:790/999 MP:0/0
-B-
-C-Asherah HP:433/433 MP:195/195
-D-Black Maria HP:98/348 MP:309/337
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Black Maria
-2-Asherah
-3-Kyouji
-----------------------------------------
-Seleccione una acción para Black Maria
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Lord Nan Dou HP:354/549 MP:108/108
-2-Lilith HP:339/380 MP:369/369
-3-Power HP:282/407 MP:81/81
-4-Python HP:596/637 MP:286/286
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Power ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-
-C-Anzu HP:596/596 MP:110/118
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:790/999 MP:0/0
-B-
-C-Asherah HP:433/433 MP:195/195
-D-Power HP:282/407 MP:81/81
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Asherah
-2-Kyouji
-3-Power
-----------------------------------------
-Seleccione una acción para Asherah
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Asherah
-1-Demi-Fiend HP:1227/1227 MP:827/834
-2-Anzu HP:596/596 MP:110/118
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Asherah
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Demi-Fiend (J1)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-
-C-Anzu HP:596/596 MP:110/118
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:790/999 MP:0/0
-B-
-C-Asherah HP:433/433 MP:195/195
-D-Power HP:282/407 MP:81/81
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-2-Anzu
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Mushussu HP:399/399 MP:179/179
-2-Karasu Tengu HP:202/238 MP:107/107
-3-Nue HP:341/341 MP:67/67
-4-Magatsuhi HP:851/851 MP:170/170
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una posición para invocar
-1-Vacío (Puesto 2)
-2-Anzu HP:596/596 MP:110/118 (Puesto 3)
-3-Vacío (Puesto 4)
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Mushussu ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-
-C-Anzu HP:596/596 MP:110/118
-D-Mushussu HP:399/399 MP:179/179
-Equipo de Kyouji (J2)
-A-Kyouji HP:790/999 MP:0/0
-B-
-C-Asherah HP:433/433 MP:195/195
-D-Power HP:282/407 MP:81/81
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Anzu
-2-Mushussu
-3-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Anzu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Anzu use
-1-Zionga MP:8
-2-Nihil Claw MP:11
-3-Me Patra MP:15
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Anzu
-1-Kyouji HP:790/999 MP:0/0
-2-Asherah HP:433/433 MP:195/195
-3-Power HP:282/407 MP:81/81
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Anzu lanza electricidad a Power
-Power recibe 84 de daño
-Power termina con HP:198/407
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-
-C-Anzu HP:596/596 MP:102/118
-D-Mushussu HP:399/399 MP:179/179
-Equipo de Kyouji (J2)
-A-Kyouji HP:790/999 MP:0/0
-B-
-C-Asherah HP:433/433 MP:195/195
-D-Power HP:198/407 MP:81/81
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Mushussu
-2-Demi-Fiend
-3-Anzu
-----------------------------------------
-Seleccione una acción para Mushussu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Mushussu
-1-Kyouji HP:790/999 MP:0/0
-2-Asherah HP:433/433 MP:195/195
-3-Power HP:198/407 MP:81/81
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Mushussu ataca a Asherah
-Asherah recibe 32 de daño
-Asherah termina con HP:401/433
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Kyouji (J2)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-
-C-Anzu HP:596/596 MP:102/118
-D-Mushussu HP:399/399 MP:179/179
-Equipo de Kyouji (J2)
-A-Kyouji HP:790/999 MP:0/0
-B-
-C-Asherah HP:401/433 MP:195/195
-D-Power HP:198/407 MP:81/81
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Asherah
-2-Power
-3-Kyouji
-----------------------------------------
-Seleccione una acción para Asherah
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Asherah use
-1-Diarama MP:9
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Asherah
-1-Kyouji HP:790/999 MP:0/0
-2-Asherah HP:401/433 MP:195/195
-3-Power HP:198/407 MP:81/81
-4-Lord Nan Dou HP:354/549 MP:108/108
-5-Lilith HP:339/380 MP:369/369
-6-Black Maria HP:98/348 MP:309/337
-7-Python HP:596/637 MP:286/286
-8-Cancelar
-INPUT: 2
-----------------------------------------
-Asherah cura a Asherah
-Asherah recibe 216 de HP
-Asherah termina con HP:433/433
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-
-C-Anzu HP:596/596 MP:102/118
-D-Mushussu HP:399/399 MP:179/179
-Equipo de Kyouji (J2)
-A-Kyouji HP:790/999 MP:0/0
-B-
-C-Asherah HP:433/433 MP:186/195
-D-Power HP:198/407 MP:81/81
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Power
-2-Kyouji
-3-Asherah
-----------------------------------------
-Seleccione una acción para Power
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Lord Nan Dou HP:354/549 MP:108/108
-2-Lilith HP:339/380 MP:369/369
-3-Black Maria HP:98/348 MP:309/337
-4-Python HP:596/637 MP:286/286
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Black Maria ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:1227/1227 MP:827/834
-B-
-C-Anzu HP:596/596 MP:102/118
-D-Mushussu HP:399/399 MP:179/179
-Equipo de Kyouji (J2)
-A-Kyouji HP:790/999 MP:0/0
-B-
-C-Asherah HP:433/433 MP:186/195
-D-Black Maria HP:98/348 MP:309/337
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Kyouji
-2-Asherah
-3-Black Maria
-----------------------------------------
-Seleccione una acción para Kyouji
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Kyouji
-1-Demi-Fiend HP:1227/1227 MP:827/834
-2-Anzu HP:596/596 MP:102/118
-3-Mushussu HP:399/399 MP:179/179
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Kyouji dispara a Demi-Fiend
-Demi-Fiend recibe 911 de daño
-Demi-Fiend termina con HP:316/1227
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:316/1227 MP:827/834
-B-
-C-Anzu HP:596/596 MP:102/118
-D-Mushussu HP:399/399 MP:179/179
-Equipo de Kyouji (J2)
-A-Kyouji HP:790/999 MP:0/0
-B-
-C-Asherah HP:433/433 MP:186/195
-D-Black Maria HP:98/348 MP:309/337
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Asherah
-2-Black Maria
-3-Kyouji
-----------------------------------------
-Seleccione una acción para Asherah
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:316/1227 MP:827/834
-B-
-C-Anzu HP:596/596 MP:102/118
-D-Mushussu HP:399/399 MP:179/179
-Equipo de Kyouji (J2)
-A-Kyouji HP:790/999 MP:0/0
-B-
-C-Asherah HP:433/433 MP:186/195
-D-Black Maria HP:98/348 MP:309/337
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Black Maria
-2-Kyouji
-3-Asherah
-----------------------------------------
-Seleccione una acción para Black Maria
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Black Maria
-1-Demi-Fiend HP:316/1227 MP:827/834
-2-Anzu HP:596/596 MP:102/118
-3-Mushussu HP:399/399 MP:179/179
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Black Maria ataca a Anzu
-Anzu recibe 36 de daño
-Anzu termina con HP:560/596
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Demi-Fiend (J1)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:316/1227 MP:827/834
-B-
-C-Anzu HP:560/596 MP:102/118
-D-Mushussu HP:399/399 MP:179/179
-Equipo de Kyouji (J2)
-A-Kyouji HP:790/999 MP:0/0
-B-
-C-Asherah HP:433/433 MP:186/195
-D-Black Maria HP:98/348 MP:309/337
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-2-Mushussu
-3-Anzu
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:316/1227 MP:827/834
-B-
-C-Anzu HP:560/596 MP:102/118
-D-Mushussu HP:399/399 MP:179/179
-Equipo de Kyouji (J2)
-A-Kyouji HP:790/999 MP:0/0
-B-
-C-Asherah HP:433/433 MP:186/195
-D-Black Maria HP:98/348 MP:309/337
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Mushussu
-2-Anzu
-3-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Mushussu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Karasu Tengu HP:202/238 MP:107/107
-2-Nue HP:341/341 MP:67/67
-3-Magatsuhi HP:851/851 MP:170/170
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Karasu Tengu ha sido invocado
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:316/1227 MP:827/834
-B-
-C-Anzu HP:560/596 MP:102/118
-D-Karasu Tengu HP:202/238 MP:107/107
-Equipo de Kyouji (J2)
-A-Kyouji HP:790/999 MP:0/0
-B-
-C-Asherah HP:433/433 MP:186/195
-D-Black Maria HP:98/348 MP:309/337
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Anzu
-2-Demi-Fiend
-3-Karasu Tengu
-----------------------------------------
-Seleccione una acción para Anzu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Mushussu HP:399/399 MP:179/179
-2-Nue HP:341/341 MP:67/67
-3-Magatsuhi HP:851/851 MP:170/170
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Mushussu ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:316/1227 MP:827/834
-B-
-C-Mushussu HP:399/399 MP:179/179
-D-Karasu Tengu HP:202/238 MP:107/107
-Equipo de Kyouji (J2)
-A-Kyouji HP:790/999 MP:0/0
-B-
-C-Asherah HP:433/433 MP:186/195
-D-Black Maria HP:98/348 MP:309/337
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Demi-Fiend
-2-Karasu Tengu
-3-Mushussu
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:316/1227 MP:827/834
-B-
-C-Mushussu HP:399/399 MP:179/179
-D-Karasu Tengu HP:202/238 MP:107/107
-Equipo de Kyouji (J2)
-A-Kyouji HP:790/999 MP:0/0
-B-
-C-Asherah HP:433/433 MP:186/195
-D-Black Maria HP:98/348 MP:309/337
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Karasu Tengu
-2-Mushussu
-3-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Karasu Tengu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:316/1227 MP:827/834
-B-
-C-Mushussu HP:399/399 MP:179/179
-D-Karasu Tengu HP:202/238 MP:107/107
-Equipo de Kyouji (J2)
-A-Kyouji HP:790/999 MP:0/0
-B-
-C-Asherah HP:433/433 MP:186/195
-D-Black Maria HP:98/348 MP:309/337
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Mushussu
-2-Demi-Fiend
-3-Karasu Tengu
-----------------------------------------
-Seleccione una acción para Mushussu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Mushussu
-1-Kyouji HP:790/999 MP:0/0
-2-Asherah HP:433/433 MP:186/195
-3-Black Maria HP:98/348 MP:309/337
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Mushussu ataca a Kyouji
-Kyouji recibe 32 de daño
-Kyouji termina con HP:758/999
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Kyouji (J2)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:316/1227 MP:827/834
-B-
-C-Mushussu HP:399/399 MP:179/179
-D-Karasu Tengu HP:202/238 MP:107/107
-Equipo de Kyouji (J2)
-A-Kyouji HP:758/999 MP:0/0
-B-
-C-Asherah HP:433/433 MP:186/195
-D-Black Maria HP:98/348 MP:309/337
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Asherah
-2-Black Maria
-3-Kyouji
-----------------------------------------
-Seleccione una acción para Asherah
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Asherah
-1-Demi-Fiend HP:316/1227 MP:827/834
-2-Mushussu HP:399/399 MP:179/179
-3-Karasu Tengu HP:202/238 MP:107/107
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Asherah ataca a Mushussu
-Mushussu recibe 35 de daño
-Mushussu termina con HP:364/399
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:316/1227 MP:827/834
-B-
-C-Mushussu HP:364/399 MP:179/179
-D-Karasu Tengu HP:202/238 MP:107/107
-Equipo de Kyouji (J2)
-A-Kyouji HP:758/999 MP:0/0
-B-
-C-Asherah HP:433/433 MP:186/195
-D-Black Maria HP:98/348 MP:309/337
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Black Maria
-2-Kyouji
-3-Asherah
-----------------------------------------
-Seleccione una acción para Black Maria
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Black Maria
-1-Demi-Fiend HP:316/1227 MP:827/834
-2-Mushussu HP:364/399 MP:179/179
-3-Karasu Tengu HP:202/238 MP:107/107
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Black Maria
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Lord Nan Dou HP:354/549 MP:108/108
-2-Lilith HP:339/380 MP:369/369
-3-Power HP:198/407 MP:81/81
-4-Python HP:596/637 MP:286/286
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Lord Nan Dou ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:316/1227 MP:827/834
-B-
-C-Mushussu HP:364/399 MP:179/179
-D-Karasu Tengu HP:202/238 MP:107/107
-Equipo de Kyouji (J2)
-A-Kyouji HP:758/999 MP:0/0
-B-
-C-Asherah HP:433/433 MP:186/195
-D-Lord Nan Dou HP:354/549 MP:108/108
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Kyouji
-2-Asherah
-3-Lord Nan Dou
-----------------------------------------
-Seleccione una acción para Kyouji
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Kyouji
-1-Demi-Fiend HP:316/1227 MP:827/834
-2-Mushussu HP:364/399 MP:179/179
-3-Karasu Tengu HP:202/238 MP:107/107
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Kyouji ataca a Karasu Tengu
-Karasu Tengu recibe 614 de daño
-Karasu Tengu termina con HP:0/238
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:316/1227 MP:827/834
-B-
-C-Mushussu HP:364/399 MP:179/179
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:758/999 MP:0/0
-B-
-C-Asherah HP:433/433 MP:186/195
-D-Lord Nan Dou HP:354/549 MP:108/108
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Asherah
-2-Lord Nan Dou
-3-Kyouji
-----------------------------------------
-Seleccione una acción para Asherah
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Lilith HP:339/380 MP:369/369
-2-Black Maria HP:98/348 MP:309/337
-3-Power HP:198/407 MP:81/81
-4-Python HP:596/637 MP:286/286
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Asherah
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:316/1227 MP:827/834
-B-
-C-Mushussu HP:364/399 MP:179/179
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:758/999 MP:0/0
-B-
-C-Asherah HP:433/433 MP:186/195
-D-Lord Nan Dou HP:354/549 MP:108/108
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Lord Nan Dou
-2-Kyouji
-3-Asherah
-----------------------------------------
-Seleccione una acción para Lord Nan Dou
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Demi-Fiend (J1)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:316/1227 MP:827/834
-B-
-C-Mushussu HP:364/399 MP:179/179
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:758/999 MP:0/0
-B-
-C-Asherah HP:433/433 MP:186/195
-D-Lord Nan Dou HP:354/549 MP:108/108
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Demi-Fiend
-2-Mushussu
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Anzu HP:560/596 MP:102/118
-2-Nue HP:341/341 MP:67/67
-3-Magatsuhi HP:851/851 MP:170/170
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Demi-Fiend
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Kyouji HP:758/999 MP:0/0
-2-Asherah HP:433/433 MP:186/195
-3-Lord Nan Dou HP:354/549 MP:108/108
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Demi-Fiend ataca a Asherah
-Asherah recibe 168 de daño
-Asherah termina con HP:265/433
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:316/1227 MP:827/834
-B-
-C-Mushussu HP:364/399 MP:179/179
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:758/999 MP:0/0
-B-
-C-Asherah HP:265/433 MP:186/195
-D-Lord Nan Dou HP:354/549 MP:108/108
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Mushussu
-2-Demi-Fiend
-----------------------------------------
-Seleccione una acción para Mushussu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Mushussu
-1-Kyouji HP:758/999 MP:0/0
-2-Asherah HP:265/433 MP:186/195
-3-Lord Nan Dou HP:354/549 MP:108/108
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Mushussu ataca a Asherah
-Asherah recibe 32 de daño
-Asherah termina con HP:233/433
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Kyouji (J2)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:316/1227 MP:827/834
-B-
-C-Mushussu HP:364/399 MP:179/179
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:758/999 MP:0/0
-B-
-C-Asherah HP:233/433 MP:186/195
-D-Lord Nan Dou HP:354/549 MP:108/108
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Asherah
-2-Lord Nan Dou
-3-Kyouji
-----------------------------------------
-Seleccione una acción para Asherah
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Asherah use
-1-Diarama MP:9
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Asherah
-1-Kyouji HP:758/999 MP:0/0
-2-Asherah HP:233/433 MP:186/195
-3-Lord Nan Dou HP:354/549 MP:108/108
-4-Lilith HP:339/380 MP:369/369
-5-Black Maria HP:98/348 MP:309/337
-6-Power HP:198/407 MP:81/81
-7-Python HP:596/637 MP:286/286
-8-Cancelar
-INPUT: 6
-----------------------------------------
-Asherah cura a Power
-Power recibe 203 de HP
-Power termina con HP:401/407
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:316/1227 MP:827/834
-B-
-C-Mushussu HP:364/399 MP:179/179
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:758/999 MP:0/0
-B-
-C-Asherah HP:233/433 MP:177/195
-D-Lord Nan Dou HP:354/549 MP:108/108
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Lord Nan Dou
-2-Kyouji
-3-Asherah
-----------------------------------------
-Seleccione una acción para Lord Nan Dou
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Lord Nan Dou use
-1-Maragidyne MP:32
-2-Berserker God MP:12
-3-Samarecarm MP:40
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Lord Nan Dou
-1-Demi-Fiend HP:316/1227 MP:827/834
-2-Mushussu HP:364/399 MP:179/179
+1-Shujinko HP:597/1317 MP:611/625
+2-Nebiros HP:120/249 MP:242/242
 3-Cancelar
 INPUT: 2
 ----------------------------------------
-Lord Nan Dou ataca a Mushussu
-Mushussu recibe 129 de daño
-Mushussu termina con HP:235/399
+Kyouji dispara a Nebiros
+Nebiros recibe 911 de daño
+Nebiros termina con HP:0/249
 ----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:316/1227 MP:827/834
-B-
-C-Mushussu HP:235/399 MP:179/179
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:758/999 MP:0/0
-B-
-C-Asherah HP:233/433 MP:177/195
-D-Lord Nan Dou HP:354/549 MP:96/108
+Ronda de Shujinko (J2)
 ----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Kyouji
-2-Asherah
-3-Lord Nan Dou
-----------------------------------------
-Seleccione una acción para Kyouji
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Kyouji
-1-Demi-Fiend HP:316/1227 MP:827/834
-2-Mushussu HP:235/399 MP:179/179
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Kyouji ataca a Mushussu
-Mushussu recibe 614 de daño
-Mushussu termina con HP:0/399
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Demi-Fiend (J1)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:316/1227 MP:827/834
+Equipo de Kyouji (J1)
+A-Kyouji HP:154/999 MP:0/0
 B-
 C-
 D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:758/999 MP:0/0
+Equipo de Shujinko (J2)
+A-Shujinko HP:597/1317 MP:611/625
 B-
-C-Asherah HP:233/433 MP:177/195
-D-Lord Nan Dou HP:354/549 MP:96/108
+C-
+D-
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Demi-Fiend
+1-Shujinko
 ----------------------------------------
-Seleccione una acción para Demi-Fiend
+Seleccione una acción para Shujinko
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -3311,136 +2872,49 @@ Seleccione una acción para Demi-Fiend
 6: Rendirse
 INPUT: 3
 ----------------------------------------
-Seleccione una habilidad para que Demi-Fiend use
-1-Stigma Attack MP:20
-2-Bufudyne MP:14
-3-Damascus Claw MP:7
-4-Deadly Wind MP:22
-5-Iron Judgement MP:8
-6-Agilao MP:8
-7-Lunge MP:6
-8-Grand Tack MP:11
+Seleccione una habilidad para que Shujinko use
+1-Zan MP:5
+2-Agilao MP:8
+3-Tathlum Shot MP:7
+4-Stigma Attack MP:20
+5-Bufu MP:5
+6-Fatal Sword MP:8
+7-Bouncing Claw MP:4
+8-Deadly Wind MP:22
 9-Cancelar
-INPUT: 7
+INPUT: 8
 ----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Kyouji HP:758/999 MP:0/0
-2-Asherah HP:233/433 MP:177/195
-3-Lord Nan Dou HP:354/549 MP:96/108
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Demi-Fiend ataca a Lord Nan Dou
-Lord Nan Dou recibe 156 de daño
-Lord Nan Dou termina con HP:198/549
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Kyouji (J2)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:316/1227 MP:821/834
-B-
-C-
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:758/999 MP:0/0
-B-
-C-Asherah HP:233/433 MP:177/195
-D-Lord Nan Dou HP:198/549 MP:96/108
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Asherah
-2-Lord Nan Dou
-3-Kyouji
-----------------------------------------
-Seleccione una acción para Asherah
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Lilith HP:339/380 MP:369/369
-2-Black Maria HP:98/348 MP:309/337
-3-Power HP:401/407 MP:81/81
-4-Python HP:596/637 MP:286/286
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Power ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:316/1227 MP:821/834
-B-
-C-
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:758/999 MP:0/0
-B-
-C-Power HP:401/407 MP:81/81
-D-Lord Nan Dou HP:198/549 MP:96/108
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Lord Nan Dou
-2-Kyouji
-3-Power
-----------------------------------------
-Seleccione una acción para Lord Nan Dou
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Lord Nan Dou use
-1-Maragidyne MP:32
-2-Berserker God MP:12
-3-Samarecarm MP:40
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Lord Nan Dou
-1-Demi-Fiend HP:316/1227 MP:821/834
+Seleccione un objetivo para Shujinko
+1-Kyouji HP:154/999 MP:0/0
 2-Cancelar
 INPUT: 1
 ----------------------------------------
-Lord Nan Dou ataca a Demi-Fiend
-Demi-Fiend bloquea el ataque de Lord Nan Dou
-Demi-Fiend termina con HP:316/1227
+Shujinko lanza viento a Kyouji
+Kyouji es resistente el ataque de Shujinko
+Kyouji recibe 77 de daño
+Kyouji termina con HP:77/999
 ----------------------------------------
-Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:316/1227 MP:821/834
+Ronda de Kyouji (J1)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:77/999 MP:0/0
 B-
 C-
 D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:758/999 MP:0/0
+Equipo de Shujinko (J2)
+A-Shujinko HP:597/1317 MP:589/625
 B-
-C-Power HP:401/407 MP:81/81
-D-Lord Nan Dou HP:198/549 MP:84/108
+C-
+D-
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
 1-Kyouji
-2-Power
-3-Lord Nan Dou
 ----------------------------------------
 Seleccione una acción para Kyouji
 1: Atacar
@@ -3454,98 +2928,106 @@ INPUT: 5
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:316/1227 MP:821/834
+Equipo de Kyouji (J1)
+A-Kyouji HP:77/999 MP:0/0
 B-
 C-
 D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:758/999 MP:0/0
+Equipo de Shujinko (J2)
+A-Shujinko HP:597/1317 MP:589/625
 B-
-C-Power HP:401/407 MP:81/81
-D-Lord Nan Dou HP:198/549 MP:84/108
+C-
+D-
 ----------------------------------------
 Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Power
-2-Lord Nan Dou
-3-Kyouji
+1-Kyouji
 ----------------------------------------
-Seleccione una acción para Power
+Seleccione una acción para Kyouji
 1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
 INPUT: 3
 ----------------------------------------
-Seleccione un monstruo para invocar
-1-Lilith HP:339/380 MP:369/369
-2-Black Maria HP:98/348 MP:309/337
-3-Asherah HP:233/433 MP:177/195
-4-Python HP:596/637 MP:286/286
-5-Cancelar
-INPUT: 5
+Seleccione una habilidad para que Kyouji use
+1-Cancelar
+INPUT: 1
 ----------------------------------------
-Seleccione una acción para Power
+Seleccione una acción para Kyouji
 1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Shujinko HP:597/1317 MP:589/625
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kyouji ataca a Shujinko
+Shujinko es resistente el ataque de Kyouji
+Shujinko recibe 307 de daño
+Shujinko termina con HP:290/1317
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Demi-Fiend (J1)
+Ronda de Shujinko (J2)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:316/1227 MP:821/834
+Equipo de Kyouji (J1)
+A-Kyouji HP:77/999 MP:0/0
 B-
 C-
 D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:758/999 MP:0/0
+Equipo de Shujinko (J2)
+A-Shujinko HP:290/1317 MP:589/625
 B-
-C-Power HP:401/407 MP:81/81
-D-Lord Nan Dou HP:198/549 MP:84/108
+C-
+D-
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Demi-Fiend
+1-Shujinko
 ----------------------------------------
-Seleccione una acción para Demi-Fiend
+Seleccione una acción para Shujinko
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 3
+INPUT: 1
 ----------------------------------------
-Seleccione una habilidad para que Demi-Fiend use
-1-Stigma Attack MP:20
-2-Bufudyne MP:14
-3-Damascus Claw MP:7
-4-Deadly Wind MP:22
-5-Iron Judgement MP:8
-6-Agilao MP:8
-7-Lunge MP:6
-8-Grand Tack MP:11
-9-Cancelar
-INPUT: 7
+Seleccione un objetivo para Shujinko
+1-Kyouji HP:77/999 MP:0/0
+2-Cancelar
+INPUT: 2
 ----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Kyouji HP:758/999 MP:0/0
-2-Power HP:401/407 MP:81/81
-3-Lord Nan Dou HP:198/549 MP:84/108
-4-Cancelar
-INPUT: 4
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
 ----------------------------------------
-Seleccione una acción para Demi-Fiend
+Seleccione un objetivo para Shujinko
+1-Kyouji HP:77/999 MP:0/0
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Shujinko
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -3557,152 +3039,53 @@ INPUT: 5
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:316/1227 MP:821/834
+Equipo de Kyouji (J1)
+A-Kyouji HP:77/999 MP:0/0
 B-
 C-
 D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:758/999 MP:0/0
+Equipo de Shujinko (J2)
+A-Shujinko HP:290/1317 MP:589/625
 B-
-C-Power HP:401/407 MP:81/81
-D-Lord Nan Dou HP:198/549 MP:84/108
+C-
+D-
 ----------------------------------------
 Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Demi-Fiend
+1-Shujinko
 ----------------------------------------
-Seleccione una acción para Demi-Fiend
+Seleccione una acción para Shujinko
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Demi-Fiend use
-1-Stigma Attack MP:20
-2-Bufudyne MP:14
-3-Damascus Claw MP:7
-4-Deadly Wind MP:22
-5-Iron Judgement MP:8
-6-Agilao MP:8
-7-Lunge MP:6
-8-Grand Tack MP:11
-9-Cancelar
-INPUT: 6
-----------------------------------------
-Seleccione un objetivo para Demi-Fiend
-1-Kyouji HP:758/999 MP:0/0
-2-Power HP:401/407 MP:81/81
-3-Lord Nan Dou HP:198/549 MP:84/108
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Demi-Fiend lanza fuego a Kyouji
-Kyouji es resistente el ataque de Demi-Fiend
-Kyouji recibe 102 de daño
-Kyouji termina con HP:656/999
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Kyouji (J2)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:316/1227 MP:813/834
-B-
-C-
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:656/999 MP:0/0
-B-
-C-Power HP:401/407 MP:81/81
-D-Lord Nan Dou HP:198/549 MP:84/108
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Lord Nan Dou
-2-Power
-3-Kyouji
-----------------------------------------
-Seleccione una acción para Lord Nan Dou
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:316/1227 MP:813/834
-B-
-C-
-D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:656/999 MP:0/0
-B-
-C-Power HP:401/407 MP:81/81
-D-Lord Nan Dou HP:198/549 MP:84/108
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Power
-2-Kyouji
-3-Lord Nan Dou
-----------------------------------------
-Seleccione una acción para Power
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Lilith HP:339/380 MP:369/369
-2-Black Maria HP:98/348 MP:309/337
-3-Asherah HP:233/433 MP:177/195
-4-Python HP:596/637 MP:286/286
-5-Cancelar
 INPUT: 5
 ----------------------------------------
-Seleccione una acción para Power
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Demi-Fiend (J1)
-A-Demi-Fiend HP:316/1227 MP:813/834
+Ronda de Kyouji (J1)
+----------------------------------------
+Equipo de Kyouji (J1)
+A-Kyouji HP:77/999 MP:0/0
 B-
 C-
 D-
-Equipo de Kyouji (J2)
-A-Kyouji HP:656/999 MP:0/0
+Equipo de Shujinko (J2)
+A-Shujinko HP:290/1317 MP:589/625
 B-
-C-Power HP:401/407 MP:81/81
-D-Lord Nan Dou HP:198/549 MP:84/108
+C-
+D-
 ----------------------------------------
-Full Turns: 2
+Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
 1-Kyouji
-2-Lord Nan Dou
-3-Power
 ----------------------------------------
 Seleccione una acción para Kyouji
 1: Atacar
@@ -3714,29 +3097,16 @@ Seleccione una acción para Kyouji
 INPUT: 2
 ----------------------------------------
 Seleccione un objetivo para Kyouji
-1-Demi-Fiend HP:316/1227 MP:813/834
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Kyouji
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Kyouji
-1-Demi-Fiend HP:316/1227 MP:813/834
+1-Shujinko HP:290/1317 MP:589/625
 2-Cancelar
 INPUT: 1
 ----------------------------------------
-Kyouji dispara a Demi-Fiend
-Demi-Fiend recibe 911 de daño
-Demi-Fiend termina con HP:0/1227
+Kyouji dispara a Shujinko
+Shujinko es resistente el ataque de Kyouji
+Shujinko recibe 455 de daño
+Shujinko termina con HP:0/1317
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ganador: Kyouji (J2)
+Ganador: Kyouji (J1)

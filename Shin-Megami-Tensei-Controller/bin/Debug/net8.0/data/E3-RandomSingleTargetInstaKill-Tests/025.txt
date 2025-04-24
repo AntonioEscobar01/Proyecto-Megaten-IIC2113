@@ -51,1379 +51,145 @@ Elige un archivo para cargar los equipos
 49: 050.txt
 INPUT: 24
 ----------------------------------------
-Ronda de Makoto (J1)
+Ronda de Tadano (J1)
 ----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:597/597 MP:347/347
-B-Melchom HP:71/71 MP:67/67
-C-Bilwis HP:161/161 MP:31/31
-D-Black Maria HP:348/348 MP:337/337
-Equipo de Shujinko (J2)
-A-Shujinko HP:1317/1317 MP:625/625
-B-Kingu HP:464/464 MP:91/91
-C-Gu Huo Niao HP:122/122 MP:117/117
-D-Ghoul HP:558/558 MP:111/111
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Makoto
-2-Black Maria
-3-Bilwis
-4-Melchom
-----------------------------------------
-Seleccione una acción para Makoto
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Makoto
-1-Shujinko HP:1317/1317 MP:625/625
-2-Kingu HP:464/464 MP:91/91
-3-Gu Huo Niao HP:122/122 MP:117/117
-4-Ghoul HP:558/558 MP:111/111
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Makoto dispara a Kingu
-Kingu recibe 57 de daño
-Kingu termina con HP:407/464
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:597/597 MP:347/347
-B-Melchom HP:71/71 MP:67/67
-C-Bilwis HP:161/161 MP:31/31
-D-Black Maria HP:348/348 MP:337/337
-Equipo de Shujinko (J2)
-A-Shujinko HP:1317/1317 MP:625/625
-B-Kingu HP:407/464 MP:91/91
-C-Gu Huo Niao HP:122/122 MP:117/117
-D-Ghoul HP:558/558 MP:111/111
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Enku HP:235/235 MP:228/228
+C-Naga HP:199/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:418/418 MP:405/405
+C-
+D-
 ----------------------------------------
 Full Turns: 3
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Black Maria
-2-Bilwis
-3-Melchom
-4-Makoto
+1-Enku
+2-Tadano
+3-Naga
 ----------------------------------------
-Seleccione una acción para Black Maria
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:597/597 MP:347/347
-B-Melchom HP:71/71 MP:67/67
-C-Bilwis HP:161/161 MP:31/31
-D-Black Maria HP:348/348 MP:337/337
-Equipo de Shujinko (J2)
-A-Shujinko HP:1317/1317 MP:625/625
-B-Kingu HP:407/464 MP:91/91
-C-Gu Huo Niao HP:122/122 MP:117/117
-D-Ghoul HP:558/558 MP:111/111
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Bilwis
-2-Melchom
-3-Makoto
-4-Black Maria
-----------------------------------------
-Seleccione una acción para Bilwis
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Virtue HP:240/240 MP:232/232
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Bilwis
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Bilwis
-1-Shujinko HP:1317/1317 MP:625/625
-2-Kingu HP:407/464 MP:91/91
-3-Gu Huo Niao HP:122/122 MP:117/117
-4-Ghoul HP:558/558 MP:111/111
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Bilwis ataca a Kingu
-Kingu recibe 8 de daño
-Kingu termina con HP:399/464
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:597/597 MP:347/347
-B-Melchom HP:71/71 MP:67/67
-C-Bilwis HP:161/161 MP:31/31
-D-Black Maria HP:348/348 MP:337/337
-Equipo de Shujinko (J2)
-A-Shujinko HP:1317/1317 MP:625/625
-B-Kingu HP:399/464 MP:91/91
-C-Gu Huo Niao HP:122/122 MP:117/117
-D-Ghoul HP:558/558 MP:111/111
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Melchom
-2-Makoto
-3-Black Maria
-4-Bilwis
-----------------------------------------
-Seleccione una acción para Melchom
+Seleccione una acción para Enku
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 2
 ----------------------------------------
-Seleccione una habilidad para que Melchom use
-1-Agi MP:5
-2-Dia MP:5
+Seleccione una habilidad para que Enku use
+1-Fire Breath MP:21
+2-Damascus Claw MP:7
+3-Energy Drain MP:10
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Xi Wangmu HP:418/418 MP:405/405
 3-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Melchom
-1-Makoto HP:597/597 MP:347/347
-2-Melchom HP:71/71 MP:67/67
-3-Bilwis HP:161/161 MP:31/31
-4-Black Maria HP:348/348 MP:337/337
-5-Virtue HP:240/240 MP:232/232
-6-Cancelar
-INPUT: 3
-----------------------------------------
-Melchom cura a Bilwis
-Bilwis recibe 40 de HP
-Bilwis termina con HP:161/161
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:597/597 MP:347/347
-B-Melchom HP:71/71 MP:62/67
-C-Bilwis HP:161/161 MP:31/31
-D-Black Maria HP:348/348 MP:337/337
-Equipo de Shujinko (J2)
-A-Shujinko HP:1317/1317 MP:625/625
-B-Kingu HP:399/464 MP:91/91
-C-Gu Huo Niao HP:122/122 MP:117/117
-D-Ghoul HP:558/558 MP:111/111
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Makoto
-2-Black Maria
-3-Bilwis
-4-Melchom
-----------------------------------------
-Seleccione una acción para Makoto
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Virtue HP:240/240 MP:232/232
-2-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione una posición para invocar
-1-Melchom HP:71/71 MP:62/67 (Puesto 2)
-2-Bilwis HP:161/161 MP:31/31 (Puesto 3)
-3-Black Maria HP:348/348 MP:337/337 (Puesto 4)
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Makoto
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Makoto
-1-Shujinko HP:1317/1317 MP:625/625
-2-Kingu HP:399/464 MP:91/91
-3-Gu Huo Niao HP:122/122 MP:117/117
-4-Ghoul HP:558/558 MP:111/111
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Makoto
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:597/597 MP:347/347
-B-Melchom HP:71/71 MP:62/67
-C-Bilwis HP:161/161 MP:31/31
-D-Black Maria HP:348/348 MP:337/337
-Equipo de Shujinko (J2)
-A-Shujinko HP:1317/1317 MP:625/625
-B-Kingu HP:399/464 MP:91/91
-C-Gu Huo Niao HP:122/122 MP:117/117
-D-Ghoul HP:558/558 MP:111/111
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Black Maria
-2-Bilwis
-3-Melchom
-4-Makoto
-----------------------------------------
-Seleccione una acción para Black Maria
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Black Maria use
-1-Mediarahan MP:40
-2-Lullaby MP:11
-3-Ziodyne MP:14
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Black Maria
-1-Shujinko HP:1317/1317 MP:625/625
-2-Kingu HP:399/464 MP:91/91
-3-Gu Huo Niao HP:122/122 MP:117/117
-4-Ghoul HP:558/558 MP:111/111
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Black Maria
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Black Maria use
-1-Mediarahan MP:40
-2-Lullaby MP:11
-3-Ziodyne MP:14
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Black Maria
-1-Shujinko HP:1317/1317 MP:625/625
-2-Kingu HP:399/464 MP:91/91
-3-Gu Huo Niao HP:122/122 MP:117/117
-4-Ghoul HP:558/558 MP:111/111
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Black Maria lanza electricidad a Shujinko
-Shujinko recibe 135 de daño
-Shujinko termina con HP:1182/1317
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Shujinko (J2)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:597/597 MP:347/347
-B-Melchom HP:71/71 MP:62/67
-C-Bilwis HP:161/161 MP:31/31
-D-Black Maria HP:348/348 MP:323/337
-Equipo de Shujinko (J2)
-A-Shujinko HP:1182/1317 MP:625/625
-B-Kingu HP:399/464 MP:91/91
-C-Gu Huo Niao HP:122/122 MP:117/117
-D-Ghoul HP:558/558 MP:111/111
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shujinko
-2-Ghoul
-3-Kingu
-4-Gu Huo Niao
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:597/597 MP:347/347
-B-Melchom HP:71/71 MP:62/67
-C-Bilwis HP:161/161 MP:31/31
-D-Black Maria HP:348/348 MP:323/337
-Equipo de Shujinko (J2)
-A-Shujinko HP:1182/1317 MP:625/625
-B-Kingu HP:399/464 MP:91/91
-C-Gu Huo Niao HP:122/122 MP:117/117
-D-Ghoul HP:558/558 MP:111/111
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Ghoul
-2-Kingu
-3-Gu Huo Niao
-4-Shujinko
-----------------------------------------
-Seleccione una acción para Ghoul
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Spriggan HP:147/147 MP:66/66
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Spriggan ha sido invocado
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:597/597 MP:347/347
-B-Melchom HP:71/71 MP:62/67
-C-Bilwis HP:161/161 MP:31/31
-D-Black Maria HP:348/348 MP:323/337
-Equipo de Shujinko (J2)
-A-Shujinko HP:1182/1317 MP:625/625
-B-Kingu HP:399/464 MP:91/91
-C-Gu Huo Niao HP:122/122 MP:117/117
-D-Spriggan HP:147/147 MP:66/66
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Kingu
-2-Gu Huo Niao
-3-Shujinko
-4-Spriggan
-----------------------------------------
-Seleccione una acción para Kingu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Kingu
-1-Makoto HP:597/597 MP:347/347
-2-Melchom HP:71/71 MP:62/67
-3-Bilwis HP:161/161 MP:31/31
-4-Black Maria HP:348/348 MP:323/337
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Kingu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Kingu
-1-Makoto HP:597/597 MP:347/347
-2-Melchom HP:71/71 MP:62/67
-3-Bilwis HP:161/161 MP:31/31
-4-Black Maria HP:348/348 MP:323/337
-5-Cancelar
-INPUT: 4
-----------------------------------------
-Kingu ataca a Black Maria
-Black Maria recibe 34 de daño
-Black Maria termina con HP:314/348
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:597/597 MP:347/347
-B-Melchom HP:71/71 MP:62/67
-C-Bilwis HP:161/161 MP:31/31
-D-Black Maria HP:314/348 MP:323/337
-Equipo de Shujinko (J2)
-A-Shujinko HP:1182/1317 MP:625/625
-B-Kingu HP:399/464 MP:91/91
-C-Gu Huo Niao HP:122/122 MP:117/117
-D-Spriggan HP:147/147 MP:66/66
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Gu Huo Niao
-2-Shujinko
-3-Spriggan
-4-Kingu
-----------------------------------------
-Seleccione una acción para Gu Huo Niao
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Gu Huo Niao use
-1-Agilao MP:8
-2-Patra MP:5
-3-Lullaby MP:11
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Gu Huo Niao
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Gu Huo Niao use
-1-Agilao MP:8
-2-Patra MP:5
-3-Lullaby MP:11
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Gu Huo Niao
-1-Makoto HP:597/597 MP:347/347
-2-Melchom HP:71/71 MP:62/67
-3-Bilwis HP:161/161 MP:31/31
-4-Black Maria HP:314/348 MP:323/337
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Gu Huo Niao lanza fuego a Makoto
-Makoto es resistente el ataque de Gu Huo Niao
-Makoto recibe 30 de daño
-Makoto termina con HP:567/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:567/597 MP:347/347
-B-Melchom HP:71/71 MP:62/67
-C-Bilwis HP:161/161 MP:31/31
-D-Black Maria HP:314/348 MP:323/337
-Equipo de Shujinko (J2)
-A-Shujinko HP:1182/1317 MP:625/625
-B-Kingu HP:399/464 MP:91/91
-C-Gu Huo Niao HP:122/122 MP:109/117
-D-Spriggan HP:147/147 MP:66/66
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shujinko
-2-Spriggan
-3-Kingu
-4-Gu Huo Niao
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Makoto HP:567/597 MP:347/347
-2-Melchom HP:71/71 MP:62/67
-3-Bilwis HP:161/161 MP:31/31
-4-Black Maria HP:314/348 MP:323/337
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Shujinko use
-1-Hamaon MP:10
-2-Zionga MP:8
-3-Iron Judgement MP:8
-4-Diarama MP:9
-5-Zan MP:5
-6-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Makoto HP:567/597 MP:347/347
-2-Melchom HP:71/71 MP:62/67
-3-Bilwis HP:161/161 MP:31/31
-4-Black Maria HP:314/348 MP:323/337
-5-Cancelar
-INPUT: 4
-----------------------------------------
-Shujinko lanza viento a Black Maria
-Black Maria es débil contra el ataque de Shujinko
-Black Maria recibe 120 de daño
-Black Maria termina con HP:194/348
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:567/597 MP:347/347
-B-Melchom HP:71/71 MP:62/67
-C-Bilwis HP:161/161 MP:31/31
-D-Black Maria HP:194/348 MP:323/337
-Equipo de Shujinko (J2)
-A-Shujinko HP:1182/1317 MP:620/625
-B-Kingu HP:399/464 MP:91/91
-C-Gu Huo Niao HP:122/122 MP:109/117
-D-Spriggan HP:147/147 MP:66/66
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Spriggan
-2-Kingu
-3-Gu Huo Niao
-4-Shujinko
-----------------------------------------
-Seleccione una acción para Spriggan
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Spriggan
-1-Makoto HP:567/597 MP:347/347
-2-Melchom HP:71/71 MP:62/67
-3-Bilwis HP:161/161 MP:31/31
-4-Black Maria HP:194/348 MP:323/337
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Spriggan ataca a Melchom
-Melchom recibe 10 de daño
-Melchom termina con HP:61/71
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Makoto (J1)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:567/597 MP:347/347
-B-Melchom HP:61/71 MP:62/67
-C-Bilwis HP:161/161 MP:31/31
-D-Black Maria HP:194/348 MP:323/337
-Equipo de Shujinko (J2)
-A-Shujinko HP:1182/1317 MP:620/625
-B-Kingu HP:399/464 MP:91/91
-C-Gu Huo Niao HP:122/122 MP:109/117
-D-Spriggan HP:147/147 MP:66/66
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Makoto
-2-Black Maria
-3-Bilwis
-4-Melchom
-----------------------------------------
-Seleccione una acción para Makoto
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Makoto
-1-Shujinko HP:1182/1317 MP:620/625
-2-Kingu HP:399/464 MP:91/91
-3-Gu Huo Niao HP:122/122 MP:109/117
-4-Spriggan HP:147/147 MP:66/66
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Makoto dispara a Shujinko
-Shujinko es resistente el ataque de Makoto
-Shujinko recibe 28 de daño
-Shujinko termina con HP:1154/1317
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:567/597 MP:347/347
-B-Melchom HP:61/71 MP:62/67
-C-Bilwis HP:161/161 MP:31/31
-D-Black Maria HP:194/348 MP:323/337
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:620/625
-B-Kingu HP:399/464 MP:91/91
-C-Gu Huo Niao HP:122/122 MP:109/117
-D-Spriggan HP:147/147 MP:66/66
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Black Maria
-2-Bilwis
-3-Melchom
-4-Makoto
-----------------------------------------
-Seleccione una acción para Black Maria
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Black Maria
-1-Shujinko HP:1154/1317 MP:620/625
-2-Kingu HP:399/464 MP:91/91
-3-Gu Huo Niao HP:122/122 MP:109/117
-4-Spriggan HP:147/147 MP:66/66
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Black Maria
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Black Maria
-1-Shujinko HP:1154/1317 MP:620/625
-2-Kingu HP:399/464 MP:91/91
-3-Gu Huo Niao HP:122/122 MP:109/117
-4-Spriggan HP:147/147 MP:66/66
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Black Maria ataca a Kingu
-Kingu recibe 36 de daño
-Kingu termina con HP:363/464
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:567/597 MP:347/347
-B-Melchom HP:61/71 MP:62/67
-C-Bilwis HP:161/161 MP:31/31
-D-Black Maria HP:194/348 MP:323/337
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:620/625
-B-Kingu HP:363/464 MP:91/91
-C-Gu Huo Niao HP:122/122 MP:109/117
-D-Spriggan HP:147/147 MP:66/66
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Bilwis
-2-Melchom
-3-Makoto
-4-Black Maria
-----------------------------------------
-Seleccione una acción para Bilwis
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:567/597 MP:347/347
-B-Melchom HP:61/71 MP:62/67
-C-Bilwis HP:161/161 MP:31/31
-D-Black Maria HP:194/348 MP:323/337
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:620/625
-B-Kingu HP:363/464 MP:91/91
-C-Gu Huo Niao HP:122/122 MP:109/117
-D-Spriggan HP:147/147 MP:66/66
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Melchom
-2-Makoto
-3-Black Maria
-4-Bilwis
-----------------------------------------
-Seleccione una acción para Melchom
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Virtue HP:240/240 MP:232/232
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Virtue ha sido invocado
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:567/597 MP:347/347
-B-Virtue HP:240/240 MP:232/232
-C-Bilwis HP:161/161 MP:31/31
-D-Black Maria HP:194/348 MP:323/337
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:620/625
-B-Kingu HP:363/464 MP:91/91
-C-Gu Huo Niao HP:122/122 MP:109/117
-D-Spriggan HP:147/147 MP:66/66
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Makoto
-2-Black Maria
-3-Bilwis
-4-Virtue
-----------------------------------------
-Seleccione una acción para Makoto
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Makoto use
-1-Zanma MP:8
-2-Mudoon MP:10
-3-Gram Slice MP:5
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Makoto
-1-Shujinko HP:1154/1317 MP:620/625
-2-Kingu HP:363/464 MP:91/91
-3-Gu Huo Niao HP:122/122 MP:109/117
-4-Spriggan HP:147/147 MP:66/66
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Makoto lanza viento a Gu Huo Niao
-Gu Huo Niao es resistente el ataque de Makoto
-Gu Huo Niao recibe 46 de daño
-Gu Huo Niao termina con HP:76/122
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Shujinko (J2)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:567/597 MP:339/347
-B-Virtue HP:240/240 MP:232/232
-C-Bilwis HP:161/161 MP:31/31
-D-Black Maria HP:194/348 MP:323/337
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:620/625
-B-Kingu HP:363/464 MP:91/91
-C-Gu Huo Niao HP:76/122 MP:109/117
-D-Spriggan HP:147/147 MP:66/66
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shujinko
-2-Kingu
-3-Gu Huo Niao
-4-Spriggan
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Shujinko use
-1-Hamaon MP:10
-2-Zionga MP:8
-3-Iron Judgement MP:8
-4-Diarama MP:9
-5-Zan MP:5
-6-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Makoto HP:567/597 MP:339/347
-2-Virtue HP:240/240 MP:232/232
-3-Bilwis HP:161/161 MP:31/31
-4-Black Maria HP:194/348 MP:323/337
-5-Cancelar
-INPUT: 4
-----------------------------------------
-Shujinko ataca a Black Maria
-Black Maria recibe 190 de daño
-Black Maria termina con HP:4/348
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:567/597 MP:339/347
-B-Virtue HP:240/240 MP:232/232
-C-Bilwis HP:161/161 MP:31/31
-D-Black Maria HP:4/348 MP:323/337
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:612/625
-B-Kingu HP:363/464 MP:91/91
-C-Gu Huo Niao HP:76/122 MP:109/117
-D-Spriggan HP:147/147 MP:66/66
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Kingu
-2-Gu Huo Niao
-3-Spriggan
-4-Shujinko
-----------------------------------------
-Seleccione una acción para Kingu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Ghoul HP:558/558 MP:111/111
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Ghoul ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:567/597 MP:339/347
-B-Virtue HP:240/240 MP:232/232
-C-Bilwis HP:161/161 MP:31/31
-D-Black Maria HP:4/348 MP:323/337
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:612/625
-B-Ghoul HP:558/558 MP:111/111
-C-Gu Huo Niao HP:76/122 MP:109/117
-D-Spriggan HP:147/147 MP:66/66
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Gu Huo Niao
-2-Spriggan
-3-Shujinko
-4-Ghoul
-----------------------------------------
-Seleccione una acción para Gu Huo Niao
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Gu Huo Niao
-1-Makoto HP:567/597 MP:339/347
-2-Virtue HP:240/240 MP:232/232
-3-Bilwis HP:161/161 MP:31/31
-4-Black Maria HP:4/348 MP:323/337
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Gu Huo Niao ataca a Virtue
-Virtue recibe 12 de daño
-Virtue termina con HP:228/240
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:567/597 MP:339/347
-B-Virtue HP:228/240 MP:232/232
-C-Bilwis HP:161/161 MP:31/31
-D-Black Maria HP:4/348 MP:323/337
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:612/625
-B-Ghoul HP:558/558 MP:111/111
-C-Gu Huo Niao HP:76/122 MP:109/117
-D-Spriggan HP:147/147 MP:66/66
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Spriggan
-2-Shujinko
-3-Ghoul
-4-Gu Huo Niao
-----------------------------------------
-Seleccione una acción para Spriggan
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Spriggan use
-1-Agi MP:5
-2-Dormina MP:4
-3-Maragi MP:11
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Spriggan
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:567/597 MP:339/347
-B-Virtue HP:228/240 MP:232/232
-C-Bilwis HP:161/161 MP:31/31
-D-Black Maria HP:4/348 MP:323/337
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:612/625
-B-Ghoul HP:558/558 MP:111/111
-C-Gu Huo Niao HP:76/122 MP:109/117
-D-Spriggan HP:147/147 MP:66/66
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Shujinko
-2-Ghoul
-3-Gu Huo Niao
-4-Spriggan
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Makoto HP:567/597 MP:339/347
-2-Virtue HP:228/240 MP:232/232
-3-Bilwis HP:161/161 MP:31/31
-4-Black Maria HP:4/348 MP:323/337
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:567/597 MP:339/347
-B-Virtue HP:228/240 MP:232/232
-C-Bilwis HP:161/161 MP:31/31
-D-Black Maria HP:4/348 MP:323/337
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:612/625
-B-Ghoul HP:558/558 MP:111/111
-C-Gu Huo Niao HP:76/122 MP:109/117
-D-Spriggan HP:147/147 MP:66/66
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Ghoul
-2-Gu Huo Niao
-3-Spriggan
-4-Shujinko
-----------------------------------------
-Seleccione una acción para Ghoul
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:567/597 MP:339/347
-B-Virtue HP:228/240 MP:232/232
-C-Bilwis HP:161/161 MP:31/31
-D-Black Maria HP:4/348 MP:323/337
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:612/625
-B-Ghoul HP:558/558 MP:111/111
-C-Gu Huo Niao HP:76/122 MP:109/117
-D-Spriggan HP:147/147 MP:66/66
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Gu Huo Niao
-2-Spriggan
-3-Shujinko
-4-Ghoul
-----------------------------------------
-Seleccione una acción para Gu Huo Niao
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Gu Huo Niao use
-1-Agilao MP:8
-2-Patra MP:5
-3-Lullaby MP:11
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Gu Huo Niao
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Kingu HP:363/464 MP:91/91
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Kingu ha sido invocado
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Makoto (J1)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:567/597 MP:339/347
-B-Virtue HP:228/240 MP:232/232
-C-Bilwis HP:161/161 MP:31/31
-D-Black Maria HP:4/348 MP:323/337
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:612/625
-B-Ghoul HP:558/558 MP:111/111
-C-Kingu HP:363/464 MP:91/91
-D-Spriggan HP:147/147 MP:66/66
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Makoto
-2-Black Maria
-3-Virtue
-4-Bilwis
-----------------------------------------
-Seleccione una acción para Makoto
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Makoto
-1-Shujinko HP:1154/1317 MP:612/625
-2-Ghoul HP:558/558 MP:111/111
-3-Kingu HP:363/464 MP:91/91
-4-Spriggan HP:147/147 MP:66/66
-5-Cancelar
-INPUT: 4
-----------------------------------------
-Makoto ataca a Spriggan
-Spriggan es resistente el ataque de Makoto
-Spriggan recibe 19 de daño
-Spriggan termina con HP:128/147
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:567/597 MP:339/347
-B-Virtue HP:228/240 MP:232/232
-C-Bilwis HP:161/161 MP:31/31
-D-Black Maria HP:4/348 MP:323/337
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:612/625
-B-Ghoul HP:558/558 MP:111/111
-C-Kingu HP:363/464 MP:91/91
-D-Spriggan HP:128/147 MP:66/66
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Black Maria
-2-Virtue
-3-Bilwis
-4-Makoto
-----------------------------------------
-Seleccione una acción para Black Maria
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Melchom HP:61/71 MP:62/67
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Black Maria
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Black Maria use
-1-Mediarahan MP:40
-2-Lullaby MP:11
-3-Ziodyne MP:14
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Black Maria
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Black Maria use
-1-Mediarahan MP:40
-2-Lullaby MP:11
-3-Ziodyne MP:14
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Black Maria
-1-Shujinko HP:1154/1317 MP:612/625
-2-Ghoul HP:558/558 MP:111/111
-3-Kingu HP:363/464 MP:91/91
-4-Spriggan HP:128/147 MP:66/66
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Black Maria lanza electricidad a Kingu
-Kingu bloquea el ataque de Black Maria
-Kingu termina con HP:363/464
+Enku ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Enku
+Demi-Fiend termina con HP:1227/1227
 ----------------------------------------
 Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:567/597 MP:339/347
-B-Virtue HP:228/240 MP:232/232
-C-Bilwis HP:161/161 MP:31/31
-D-Black Maria HP:4/348 MP:309/337
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:612/625
-B-Ghoul HP:558/558 MP:111/111
-C-Kingu HP:363/464 MP:91/91
-D-Spriggan HP:128/147 MP:66/66
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Enku HP:235/235 MP:221/228
+C-Naga HP:199/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:418/418 MP:405/405
+C-
+D-
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Virtue
-2-Bilwis
-3-Makoto
-4-Black Maria
+1-Tadano
+2-Naga
+3-Enku
 ----------------------------------------
-Seleccione una acción para Virtue
+Seleccione una acción para Tadano
 1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Melchom HP:61/71 MP:62/67
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Virtue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:567/597 MP:339/347
-B-Virtue HP:228/240 MP:232/232
-C-Bilwis HP:161/161 MP:31/31
-D-Black Maria HP:4/348 MP:309/337
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:612/625
-B-Ghoul HP:558/558 MP:111/111
-C-Kingu HP:363/464 MP:91/91
-D-Spriggan HP:128/147 MP:66/66
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Enku HP:235/235 MP:221/228
+C-Naga HP:199/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:418/418 MP:405/405
+C-
+D-
 ----------------------------------------
 Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Bilwis
-2-Makoto
-3-Black Maria
-4-Virtue
+1-Naga
+2-Enku
+3-Tadano
 ----------------------------------------
-Seleccione una acción para Bilwis
+Seleccione una acción para Naga
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 4
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Xi Wangmu HP:418/418 MP:405/405
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Naga ataca a Xi Wangmu
+Xi Wangmu recibe 12 de daño
+Xi Wangmu termina con HP:406/418
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Shujinko (J2)
+Ronda de Demi-Fiend (J2)
 ----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:567/597 MP:339/347
-B-Virtue HP:228/240 MP:232/232
-C-Bilwis HP:161/161 MP:31/31
-D-Black Maria HP:4/348 MP:309/337
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:612/625
-B-Ghoul HP:558/558 MP:111/111
-C-Kingu HP:363/464 MP:91/91
-D-Spriggan HP:128/147 MP:66/66
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Enku HP:235/235 MP:221/228
+C-Naga HP:199/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:406/418 MP:405/405
+C-
+D-
 ----------------------------------------
-Full Turns: 4
+Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Shujinko
-2-Ghoul
-3-Kingu
-4-Spriggan
+1-Demi-Fiend
+2-Xi Wangmu
 ----------------------------------------
-Seleccione una acción para Shujinko
+Seleccione una acción para Demi-Fiend
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -1432,422 +198,417 @@ Seleccione una acción para Shujinko
 6: Rendirse
 INPUT: 2
 ----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Makoto HP:567/597 MP:339/347
-2-Virtue HP:228/240 MP:232/232
-3-Bilwis HP:161/161 MP:31/31
-4-Black Maria HP:4/348 MP:309/337
-5-Cancelar
-INPUT: 3
+Seleccione un objetivo para Demi-Fiend
+1-Tadano HP:388/388 MP:193/193
+2-Enku HP:235/235 MP:221/228
+3-Naga HP:199/199 MP:39/39
+4-Cancelar
+INPUT: 1
 ----------------------------------------
-Shujinko dispara a Bilwis
-Bilwis recibe 228 de daño
-Bilwis termina con HP:0/161
+Demi-Fiend dispara a Tadano
+Tadano recibe 114 de daño
+Tadano termina con HP:274/388
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:567/597 MP:339/347
-B-Virtue HP:228/240 MP:232/232
+Equipo de Tadano (J1)
+A-Tadano HP:274/388 MP:193/193
+B-Enku HP:235/235 MP:221/228
+C-Naga HP:199/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:406/418 MP:405/405
 C-
-D-Black Maria HP:4/348 MP:309/337
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:612/625
-B-Ghoul HP:558/558 MP:111/111
-C-Kingu HP:363/464 MP:91/91
-D-Spriggan HP:128/147 MP:66/66
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:274/388 MP:193/193
+B-Enku HP:235/235 MP:221/228
+C-Naga HP:199/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:406/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Agi MP:5
+2-Bouncing Claw MP:4
+3-Bufula MP:8
+4-Trisagion MP:22
+5-Axel Claw MP:15
+6-Mudoon MP:10
+7-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Tadano HP:274/388 MP:193/193
+2-Enku HP:235/235 MP:221/228
+3-Naga HP:199/199 MP:39/39
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Tadano HP:274/388 MP:193/193
+2-Enku HP:235/235 MP:221/228
+3-Naga HP:199/199 MP:39/39
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Tadano HP:274/388 MP:193/193
+2-Enku HP:235/235 MP:221/228
+3-Naga HP:199/199 MP:39/39
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Demi-Fiend dispara a Enku
+Enku recibe 114 de daño
+Enku termina con HP:121/235
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:274/388 MP:193/193
+B-Enku HP:121/235 MP:221/228
+C-Naga HP:199/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:406/418 MP:405/405
+C-
+D-
 ----------------------------------------
 Full Turns: 3
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Ghoul
-2-Kingu
-3-Spriggan
-4-Shujinko
+1-Enku
+2-Tadano
+3-Naga
 ----------------------------------------
-Seleccione una acción para Ghoul
+Seleccione una acción para Enku
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Ghoul use
-1-Energy Drain MP:10
-2-Tetanus Cut MP:11
-3-Damascus Claw MP:7
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Ghoul
-1-Makoto HP:567/597 MP:339/347
-2-Virtue HP:228/240 MP:232/232
-3-Black Maria HP:4/348 MP:309/337
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Ghoul ataca a Black Maria
-Black Maria recibe 97 de daño
-Black Maria termina con HP:0/348
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:567/597 MP:339/347
-B-Virtue HP:228/240 MP:232/232
-C-
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:612/625
-B-Ghoul HP:558/558 MP:104/111
-C-Kingu HP:363/464 MP:91/91
-D-Spriggan HP:128/147 MP:66/66
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Kingu
-2-Spriggan
-3-Shujinko
-4-Ghoul
-----------------------------------------
-Seleccione una acción para Kingu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Gu Huo Niao HP:76/122 MP:109/117
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Gu Huo Niao ha sido invocado
+INPUT: 4
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:567/597 MP:339/347
-B-Virtue HP:228/240 MP:232/232
+Equipo de Tadano (J1)
+A-Tadano HP:274/388 MP:193/193
+B-Enku HP:121/235 MP:221/228
+C-Naga HP:199/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:406/418 MP:405/405
 C-
 D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:612/625
-B-Ghoul HP:558/558 MP:104/111
-C-Gu Huo Niao HP:76/122 MP:109/117
-D-Spriggan HP:128/147 MP:66/66
 ----------------------------------------
-Full Turns: 1
+Full Turns: 2
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Spriggan
-2-Shujinko
-3-Ghoul
-4-Gu Huo Niao
+1-Tadano
+2-Naga
+3-Enku
 ----------------------------------------
-Seleccione una acción para Spriggan
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Kingu HP:363/464 MP:91/91
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Kingu ha sido invocado
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:567/597 MP:339/347
-B-Virtue HP:228/240 MP:232/232
-C-
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:612/625
-B-Ghoul HP:558/558 MP:104/111
-C-Gu Huo Niao HP:76/122 MP:109/117
-D-Kingu HP:363/464 MP:91/91
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shujinko
-2-Ghoul
-3-Gu Huo Niao
-4-Kingu
-----------------------------------------
-Seleccione una acción para Shujinko
+Seleccione una acción para Tadano
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 1
+INPUT: 2
 ----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Makoto HP:567/597 MP:339/347
-2-Virtue HP:228/240 MP:232/232
+Seleccione un objetivo para Tadano
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Xi Wangmu HP:406/418 MP:405/405
 3-Cancelar
-INPUT: 2
+INPUT: 3
 ----------------------------------------
-Shujinko ataca a Virtue
-Virtue recibe 187 de daño
-Virtue termina con HP:41/240
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Makoto (J1)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:567/597 MP:339/347
-B-Virtue HP:41/240 MP:232/232
-C-
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:612/625
-B-Ghoul HP:558/558 MP:104/111
-C-Gu Huo Niao HP:76/122 MP:109/117
-D-Kingu HP:363/464 MP:91/91
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Makoto
-2-Virtue
-----------------------------------------
-Seleccione una acción para Makoto
+Seleccione una acción para Tadano
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Melchom HP:61/71 MP:62/67
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una posición para invocar
-1-Virtue HP:41/240 MP:232/232 (Puesto 2)
-2-Vacío (Puesto 3)
-3-Vacío (Puesto 4)
-4-Cancelar
 INPUT: 2
 ----------------------------------------
-Melchom ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:567/597 MP:339/347
-B-Virtue HP:41/240 MP:232/232
-C-Melchom HP:61/71 MP:62/67
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:612/625
-B-Ghoul HP:558/558 MP:104/111
-C-Gu Huo Niao HP:76/122 MP:109/117
-D-Kingu HP:363/464 MP:91/91
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Virtue
-2-Melchom
-3-Makoto
-----------------------------------------
-Seleccione una acción para Virtue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Virtue use
-1-Sabbatma MP:20
-2-Tetraja MP:15
-3-Hamaon MP:10
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Virtue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
+Seleccione un objetivo para Tadano
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Xi Wangmu HP:406/418 MP:405/405
+3-Cancelar
 INPUT: 3
 ----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
 INPUT: 1
 ----------------------------------------
-Seleccione una acción para Virtue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
+Seleccione un objetivo para Tadano
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Xi Wangmu HP:406/418 MP:405/405
+3-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione una acción para Virtue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Virtue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Virtue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Virtue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Virtue use
-1-Sabbatma MP:20
-2-Tetraja MP:15
-3-Hamaon MP:10
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Virtue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Virtue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Virtue
-1-Shujinko HP:1154/1317 MP:612/625
-2-Ghoul HP:558/558 MP:104/111
-3-Gu Huo Niao HP:76/122 MP:109/117
-4-Kingu HP:363/464 MP:91/91
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Virtue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Virtue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Virtue use
-1-Sabbatma MP:20
-2-Tetraja MP:15
-3-Hamaon MP:10
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Virtue
-1-Shujinko HP:1154/1317 MP:612/625
-2-Ghoul HP:558/558 MP:104/111
-3-Gu Huo Niao HP:76/122 MP:109/117
-4-Kingu HP:363/464 MP:91/91
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Virtue ataca con luz a Shujinko
-Shujinko bloquea el ataque de Virtue
-Shujinko termina con HP:1154/1317
+Tadano ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Tadano
+Demi-Fiend termina con HP:1227/1227
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Shujinko (J2)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:567/597 MP:339/347
-B-Virtue HP:41/240 MP:222/232
-C-Melchom HP:61/71 MP:62/67
+Equipo de Tadano (J1)
+A-Tadano HP:274/388 MP:193/193
+B-Enku HP:121/235 MP:221/228
+C-Naga HP:199/199 MP:39/39
 D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:612/625
-B-Ghoul HP:558/558 MP:104/111
-C-Gu Huo Niao HP:76/122 MP:109/117
-D-Kingu HP:363/464 MP:91/91
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:406/418 MP:405/405
+C-
+D-
 ----------------------------------------
-Full Turns: 4
+Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Shujinko
-2-Ghoul
-3-Kingu
-4-Gu Huo Niao
+1-Naga
+2-Enku
+3-Tadano
 ----------------------------------------
-Seleccione una acción para Shujinko
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Naga use
+1-Lunge MP:6
+2-Bufu MP:5
+3-Tarukaja MP:15
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Xi Wangmu HP:406/418 MP:405/405
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:274/388 MP:193/193
+B-Enku HP:121/235 MP:221/228
+C-Naga HP:199/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:406/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Enku
+2-Tadano
+3-Naga
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Enku use
+1-Fire Breath MP:21
+2-Damascus Claw MP:7
+3-Energy Drain MP:10
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Xi Wangmu HP:406/418 MP:405/405
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Enku use
+1-Fire Breath MP:21
+2-Damascus Claw MP:7
+3-Energy Drain MP:10
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Xi Wangmu HP:406/418 MP:405/405
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Enku ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Enku
+Enku ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Enku
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:274/388 MP:193/193
+B-Enku HP:121/235 MP:214/228
+C-Naga HP:199/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:406/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Demi-Fiend
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -1856,426 +617,408 @@ Seleccione una acción para Shujinko
 6: Rendirse
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Makoto HP:567/597 MP:339/347
-2-Virtue HP:41/240 MP:222/232
-3-Melchom HP:61/71 MP:62/67
+Seleccione un objetivo para Demi-Fiend
+1-Tadano HP:274/388 MP:193/193
+2-Enku HP:121/235 MP:214/228
+3-Naga HP:199/199 MP:39/39
 4-Cancelar
-INPUT: 3
+INPUT: 1
 ----------------------------------------
-Shujinko ataca a Melchom
-Melchom recibe 187 de daño
-Melchom termina con HP:0/71
+Demi-Fiend ataca a Tadano
+Tadano es resistente el ataque de Demi-Fiend
+Tadano recibe 84 de daño
+Tadano termina con HP:190/388
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:567/597 MP:339/347
-B-Virtue HP:41/240 MP:222/232
+Equipo de Tadano (J1)
+A-Tadano HP:190/388 MP:193/193
+B-Enku HP:121/235 MP:214/228
+C-Naga HP:199/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:406/418 MP:405/405
 C-
 D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:612/625
-B-Ghoul HP:558/558 MP:104/111
-C-Gu Huo Niao HP:76/122 MP:109/117
-D-Kingu HP:363/464 MP:91/91
 ----------------------------------------
-Full Turns: 3
+Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Ghoul
-2-Kingu
-3-Gu Huo Niao
-4-Shujinko
+1-Xi Wangmu
+2-Demi-Fiend
 ----------------------------------------
-Seleccione una acción para Ghoul
+Seleccione una acción para Xi Wangmu
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 2
 ----------------------------------------
-Seleccione una habilidad para que Ghoul use
-1-Energy Drain MP:10
-2-Tetanus Cut MP:11
-3-Damascus Claw MP:7
-4-Cancelar
+Seleccione una habilidad para que Xi Wangmu use
+1-Makarakarn MP:50
+2-Myriad Arrows MP:30
+3-Invitation MP:45
+4-Megaton Press MP:17
+5-Doping MP:45
+6-Cancelar
 INPUT: 3
 ----------------------------------------
-Seleccione un objetivo para Ghoul
-1-Makoto HP:567/597 MP:339/347
-2-Virtue HP:41/240 MP:222/232
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Xi Wangmu use
+1-Makarakarn MP:50
+2-Myriad Arrows MP:30
+3-Invitation MP:45
+4-Megaton Press MP:17
+5-Doping MP:45
+6-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Tadano HP:190/388 MP:193/193
+2-Enku HP:121/235 MP:214/228
+3-Naga HP:199/199 MP:39/39
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Xi Wangmu use
+1-Makarakarn MP:50
+2-Myriad Arrows MP:30
+3-Invitation MP:45
+4-Megaton Press MP:17
+5-Doping MP:45
+6-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:190/388 MP:193/193
+B-Enku HP:121/235 MP:214/228
+C-Naga HP:199/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:406/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Tadano HP:190/388 MP:193/193
+2-Enku HP:121/235 MP:214/228
+3-Naga HP:199/199 MP:39/39
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Tadano
+Tadano es resistente el ataque de Demi-Fiend
+Tadano recibe 84 de daño
+Tadano termina con HP:106/388
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:106/388 MP:193/193
+B-Enku HP:121/235 MP:214/228
+C-Naga HP:199/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:406/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Tadano
+3-Naga
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Enku use
+1-Fire Breath MP:21
+2-Damascus Claw MP:7
+3-Energy Drain MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Xi Wangmu HP:406/418 MP:405/405
 3-Cancelar
 INPUT: 2
 ----------------------------------------
-Ghoul ataca a Virtue
-Virtue recibe 97 de daño
-Ghoul ataca a Virtue
-Virtue recibe 97 de daño
-Virtue termina con HP:0/240
+Enku ataca a Xi Wangmu
+Xi Wangmu recibe 24 de daño
+Xi Wangmu termina con HP:382/418
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:567/597 MP:339/347
-B-
+Equipo de Tadano (J1)
+A-Tadano HP:106/388 MP:193/193
+B-Enku HP:121/235 MP:214/228
+C-Naga HP:199/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:382/418 MP:405/405
 C-
 D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:612/625
-B-Ghoul HP:558/558 MP:97/111
-C-Gu Huo Niao HP:76/122 MP:109/117
-D-Kingu HP:363/464 MP:91/91
 ----------------------------------------
 Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Kingu
-2-Gu Huo Niao
-3-Shujinko
-4-Ghoul
+1-Tadano
+2-Naga
+3-Enku
 ----------------------------------------
-Seleccione una acción para Kingu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Kingu
-1-Makoto HP:567/597 MP:339/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Kingu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:567/597 MP:339/347
-B-
-C-
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:612/625
-B-Ghoul HP:558/558 MP:97/111
-C-Gu Huo Niao HP:76/122 MP:109/117
-D-Kingu HP:363/464 MP:91/91
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Gu Huo Niao
-2-Shujinko
-3-Ghoul
-4-Kingu
-----------------------------------------
-Seleccione una acción para Gu Huo Niao
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Spriggan HP:128/147 MP:66/66
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Gu Huo Niao
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:567/597 MP:339/347
-B-
-C-
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:612/625
-B-Ghoul HP:558/558 MP:97/111
-C-Gu Huo Niao HP:76/122 MP:109/117
-D-Kingu HP:363/464 MP:91/91
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shujinko
-2-Ghoul
-3-Kingu
-4-Gu Huo Niao
-----------------------------------------
-Seleccione una acción para Shujinko
+Seleccione una acción para Tadano
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Makoto HP:567/597 MP:339/347
-2-Cancelar
 INPUT: 1
 ----------------------------------------
-Shujinko dispara a Makoto
-Makoto es resistente el ataque de Shujinko
-Makoto recibe 114 de daño
-Makoto termina con HP:453/597
+Seleccione un objetivo para Tadano
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Xi Wangmu HP:382/418 MP:405/405
+3-Cancelar
+INPUT: 1
 ----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Tadano ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Tadano
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Makoto (J1)
+Ronda de Demi-Fiend (J2)
 ----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:453/597 MP:339/347
-B-
+Equipo de Tadano (J1)
+A-Tadano HP:106/388 MP:193/193
+B-Enku HP:121/235 MP:214/228
+C-Naga HP:199/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:382/418 MP:405/405
 C-
 D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:612/625
-B-Ghoul HP:558/558 MP:97/111
-C-Gu Huo Niao HP:76/122 MP:109/117
-D-Kingu HP:363/464 MP:91/91
 ----------------------------------------
-Full Turns: 1
+Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Makoto
+1-Demi-Fiend
+2-Xi Wangmu
 ----------------------------------------
-Seleccione una acción para Makoto
+Seleccione una acción para Demi-Fiend
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Tadano HP:106/388 MP:193/193
+2-Enku HP:121/235 MP:214/228
+3-Naga HP:199/199 MP:39/39
+4-Cancelar
 INPUT: 3
 ----------------------------------------
-Seleccione una habilidad para que Makoto use
-1-Zanma MP:8
-2-Mudoon MP:10
-3-Gram Slice MP:5
+Demi-Fiend ataca a Naga
+Naga recibe 168 de daño
+Naga termina con HP:31/199
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:106/388 MP:193/193
+B-Enku HP:121/235 MP:214/228
+C-Naga HP:31/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:382/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Tadano HP:106/388 MP:193/193
+2-Enku HP:121/235 MP:214/228
+3-Naga HP:31/199 MP:39/39
 4-Cancelar
 INPUT: 4
 ----------------------------------------
-Seleccione una acción para Makoto
+Seleccione una acción para Xi Wangmu
 1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Tadano HP:106/388 MP:193/193
+2-Enku HP:121/235 MP:214/228
+3-Naga HP:31/199 MP:39/39
+4-Cancelar
 INPUT: 2
 ----------------------------------------
-Seleccione un objetivo para Makoto
-1-Shujinko HP:1154/1317 MP:612/625
-2-Ghoul HP:558/558 MP:97/111
-3-Gu Huo Niao HP:76/122 MP:109/117
-4-Kingu HP:363/464 MP:91/91
-5-Cancelar
+Xi Wangmu ataca a Enku
+Enku recibe 44 de daño
+Enku termina con HP:77/235
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:106/388 MP:193/193
+B-Enku HP:77/235 MP:214/228
+C-Naga HP:31/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:382/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Tadano
+3-Naga
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
 INPUT: 4
 ----------------------------------------
-Makoto dispara a Kingu
-Kingu recibe 57 de daño
-Kingu termina con HP:306/464
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Shujinko (J2)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:453/597 MP:339/347
-B-
-C-
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:612/625
-B-Ghoul HP:558/558 MP:97/111
-C-Gu Huo Niao HP:76/122 MP:109/117
-D-Kingu HP:306/464 MP:91/91
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shujinko
-2-Ghoul
-3-Kingu
-4-Gu Huo Niao
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:453/597 MP:339/347
-B-
+Equipo de Tadano (J1)
+A-Tadano HP:106/388 MP:193/193
+B-Enku HP:77/235 MP:214/228
+C-Naga HP:31/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:382/418 MP:405/405
 C-
 D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:612/625
-B-Ghoul HP:558/558 MP:97/111
-C-Gu Huo Niao HP:76/122 MP:109/117
-D-Kingu HP:306/464 MP:91/91
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Ghoul
-2-Kingu
-3-Gu Huo Niao
-4-Shujinko
-----------------------------------------
-Seleccione una acción para Ghoul
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Ghoul
-1-Makoto HP:453/597 MP:339/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Ghoul ataca a Makoto
-Makoto es resistente el ataque de Ghoul
-Makoto recibe 20 de daño
-Makoto termina con HP:433/597
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:433/597 MP:339/347
-B-
-C-
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:612/625
-B-Ghoul HP:558/558 MP:97/111
-C-Gu Huo Niao HP:76/122 MP:109/117
-D-Kingu HP:306/464 MP:91/91
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Kingu
-2-Gu Huo Niao
-3-Shujinko
-4-Ghoul
-----------------------------------------
-Seleccione una acción para Kingu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Kingu
-1-Makoto HP:433/597 MP:339/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Kingu ataca a Makoto
-Makoto es resistente el ataque de Kingu
-Makoto recibe 17 de daño
-Makoto termina con HP:416/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:416/597 MP:339/347
-B-
-C-
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:612/625
-B-Ghoul HP:558/558 MP:97/111
-C-Gu Huo Niao HP:76/122 MP:109/117
-D-Kingu HP:306/464 MP:91/91
 ----------------------------------------
 Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Gu Huo Niao
-2-Shujinko
-3-Ghoul
-4-Kingu
-----------------------------------------
-Seleccione una acción para Gu Huo Niao
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Spriggan HP:128/147 MP:66/66
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Spriggan ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:416/597 MP:339/347
-B-
-C-
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:612/625
-B-Ghoul HP:558/558 MP:97/111
-C-Spriggan HP:128/147 MP:66/66
-D-Kingu HP:306/464 MP:91/91
-----------------------------------------
-Full Turns: 1
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Shujinko
-2-Ghoul
-3-Kingu
-4-Spriggan
+1-Tadano
+2-Naga
+3-Enku
 ----------------------------------------
-Seleccione una acción para Shujinko
+Seleccione una acción para Tadano
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -2287,215 +1030,40 @@ INPUT: 5
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:416/597 MP:339/347
-B-
+Equipo de Tadano (J1)
+A-Tadano HP:106/388 MP:193/193
+B-Enku HP:77/235 MP:214/228
+C-Naga HP:31/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:382/418 MP:405/405
 C-
 D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:612/625
-B-Ghoul HP:558/558 MP:97/111
-C-Spriggan HP:128/147 MP:66/66
-D-Kingu HP:306/464 MP:91/91
 ----------------------------------------
-Full Turns: 1
+Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Ghoul
-2-Kingu
-3-Spriggan
-4-Shujinko
+1-Naga
+2-Enku
+3-Tadano
 ----------------------------------------
-Seleccione una acción para Ghoul
+Seleccione una acción para Naga
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:416/597 MP:339/347
-B-
-C-
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:612/625
-B-Ghoul HP:558/558 MP:97/111
-C-Spriggan HP:128/147 MP:66/66
-D-Kingu HP:306/464 MP:91/91
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Kingu
-2-Spriggan
-3-Shujinko
-4-Ghoul
-----------------------------------------
-Seleccione una acción para Kingu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Makoto (J1)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:416/597 MP:339/347
-B-
-C-
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:612/625
-B-Ghoul HP:558/558 MP:97/111
-C-Spriggan HP:128/147 MP:66/66
-D-Kingu HP:306/464 MP:91/91
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Makoto
-----------------------------------------
-Seleccione una acción para Makoto
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Makoto use
-1-Zanma MP:8
-2-Mudoon MP:10
-3-Gram Slice MP:5
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Makoto
-1-Shujinko HP:1154/1317 MP:612/625
-2-Ghoul HP:558/558 MP:97/111
-3-Spriggan HP:128/147 MP:66/66
-4-Kingu HP:306/464 MP:91/91
-5-Cancelar
 INPUT: 2
 ----------------------------------------
-Makoto lanza viento a Ghoul
-Ghoul recibe 93 de daño
-Ghoul termina con HP:465/558
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Shujinko (J2)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:416/597 MP:331/347
-B-
-C-
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:612/625
-B-Ghoul HP:465/558 MP:97/111
-C-Spriggan HP:128/147 MP:66/66
-D-Kingu HP:306/464 MP:91/91
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shujinko
-2-Ghoul
-3-Kingu
-4-Spriggan
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Gu Huo Niao HP:76/122 MP:109/117
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una posición para invocar
-1-Ghoul HP:465/558 MP:97/111 (Puesto 2)
-2-Spriggan HP:128/147 MP:66/66 (Puesto 3)
-3-Kingu HP:306/464 MP:91/91 (Puesto 4)
+Seleccione una habilidad para que Naga use
+1-Lunge MP:6
+2-Bufu MP:5
+3-Tarukaja MP:15
 4-Cancelar
-INPUT: 2
-----------------------------------------
-Gu Huo Niao ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:416/597 MP:331/347
-B-
-C-
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:612/625
-B-Ghoul HP:465/558 MP:97/111
-C-Gu Huo Niao HP:76/122 MP:109/117
-D-Kingu HP:306/464 MP:91/91
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Ghoul
-2-Kingu
-3-Gu Huo Niao
-4-Shujinko
-----------------------------------------
-Seleccione una acción para Ghoul
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
 INPUT: 4
 ----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:416/597 MP:331/347
-B-
-C-
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:612/625
-B-Ghoul HP:465/558 MP:97/111
-C-Gu Huo Niao HP:76/122 MP:109/117
-D-Kingu HP:306/464 MP:91/91
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Kingu
-2-Gu Huo Niao
-3-Shujinko
-4-Ghoul
-----------------------------------------
-Seleccione una acción para Kingu
+Seleccione una acción para Naga
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -2503,90 +1071,254 @@ Seleccione una acción para Kingu
 INPUT: 3
 ----------------------------------------
 Seleccione un monstruo para invocar
-1-Spriggan HP:128/147 MP:66/66
-2-Cancelar
+1-Cancelar
 INPUT: 1
 ----------------------------------------
-Spriggan ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:416/597 MP:331/347
-B-
-C-
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:612/625
-B-Ghoul HP:465/558 MP:97/111
-C-Gu Huo Niao HP:76/122 MP:109/117
-D-Spriggan HP:128/147 MP:66/66
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Gu Huo Niao
-2-Shujinko
-3-Ghoul
-4-Spriggan
-----------------------------------------
-Seleccione una acción para Gu Huo Niao
+Seleccione una acción para Naga
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 2
 ----------------------------------------
-Seleccione una habilidad para que Gu Huo Niao use
-1-Agilao MP:8
-2-Patra MP:5
-3-Lullaby MP:11
+Seleccione una habilidad para que Naga use
+1-Lunge MP:6
+2-Bufu MP:5
+3-Tarukaja MP:15
 4-Cancelar
-INPUT: 4
+INPUT: 2
 ----------------------------------------
-Seleccione una acción para Gu Huo Niao
+Seleccione un objetivo para Naga
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Xi Wangmu HP:382/418 MP:405/405
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Naga
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Gu Huo Niao
-1-Makoto HP:416/597 MP:331/347
-2-Cancelar
+Seleccione un objetivo para Naga
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Xi Wangmu HP:382/418 MP:405/405
+3-Cancelar
 INPUT: 1
 ----------------------------------------
-Gu Huo Niao ataca a Makoto
-Makoto es resistente el ataque de Gu Huo Niao
-Makoto recibe 6 de daño
-Makoto termina con HP:410/597
+Naga ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Naga
+Demi-Fiend termina con HP:1227/1227
 ----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:410/597 MP:331/347
-B-
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:106/388 MP:193/193
+B-Enku HP:77/235 MP:214/228
+C-Naga HP:31/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:382/418 MP:405/405
 C-
 D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:612/625
-B-Ghoul HP:465/558 MP:97/111
-C-Gu Huo Niao HP:76/122 MP:109/117
-D-Spriggan HP:128/147 MP:66/66
 ----------------------------------------
 Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Shujinko
-2-Ghoul
-3-Spriggan
-4-Gu Huo Niao
+1-Demi-Fiend
+2-Xi Wangmu
 ----------------------------------------
-Seleccione una acción para Shujinko
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Tadano HP:106/388 MP:193/193
+2-Enku HP:77/235 MP:214/228
+3-Naga HP:31/199 MP:39/39
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend dispara a Tadano
+Tadano recibe 114 de daño
+Tadano termina con HP:0/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Enku HP:77/235 MP:214/228
+C-Naga HP:31/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:382/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Xi Wangmu
+1-Enku HP:77/235 MP:214/228
+2-Naga HP:31/199 MP:39/39
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Xi Wangmu ataca a Enku
+Enku recibe 44 de daño
+Enku termina con HP:33/235
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Enku HP:33/235 MP:214/228
+C-Naga HP:31/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:382/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Naga
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Enku use
+1-Fire Breath MP:21
+2-Damascus Claw MP:7
+3-Energy Drain MP:10
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Xi Wangmu HP:382/418 MP:405/405
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Enku ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Enku
+Enku ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Enku
+Enku ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Enku
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-Enku HP:33/235 MP:207/228
+C-Naga HP:31/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:382/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Enku HP:33/235 MP:207/228
+2-Naga HP:31/199 MP:39/39
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Enku HP:33/235 MP:207/228
+2-Naga HP:31/199 MP:39/39
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Demi-Fiend
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -2595,196 +1327,190 @@ Seleccione una acción para Shujinko
 6: Rendirse
 INPUT: 3
 ----------------------------------------
-Seleccione una habilidad para que Shujinko use
-1-Hamaon MP:10
-2-Zionga MP:8
-3-Iron Judgement MP:8
-4-Diarama MP:9
-5-Zan MP:5
-6-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Makoto HP:410/597 MP:331/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Shujinko lanza viento a Makoto
-Makoto es resistente el ataque de Shujinko
-Makoto recibe 40 de daño
-Makoto termina con HP:370/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:370/597 MP:331/347
-B-
-C-
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:607/625
-B-Ghoul HP:465/558 MP:97/111
-C-Gu Huo Niao HP:76/122 MP:109/117
-D-Spriggan HP:128/147 MP:66/66
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Ghoul
-2-Spriggan
-3-Gu Huo Niao
-4-Shujinko
-----------------------------------------
-Seleccione una acción para Ghoul
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:370/597 MP:331/347
-B-
-C-
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:607/625
-B-Ghoul HP:465/558 MP:97/111
-C-Gu Huo Niao HP:76/122 MP:109/117
-D-Spriggan HP:128/147 MP:66/66
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Spriggan
-2-Gu Huo Niao
-3-Shujinko
-4-Ghoul
-----------------------------------------
-Seleccione una acción para Spriggan
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Spriggan use
+Seleccione una habilidad para que Demi-Fiend use
 1-Agi MP:5
-2-Dormina MP:4
-3-Maragi MP:11
-4-Cancelar
+2-Bouncing Claw MP:4
+3-Bufula MP:8
+4-Trisagion MP:22
+5-Axel Claw MP:15
+6-Mudoon MP:10
+7-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Enku HP:33/235 MP:207/228
+2-Naga HP:31/199 MP:39/39
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Agi MP:5
+2-Bouncing Claw MP:4
+3-Bufula MP:8
+4-Trisagion MP:22
+5-Axel Claw MP:15
+6-Mudoon MP:10
+7-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Spriggan
-1-Makoto HP:370/597 MP:331/347
-2-Cancelar
+Seleccione un objetivo para Demi-Fiend
+1-Enku HP:33/235 MP:207/228
+2-Naga HP:31/199 MP:39/39
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
 INPUT: 1
 ----------------------------------------
-Spriggan lanza fuego a Makoto
-Makoto es resistente el ataque de Spriggan
-Makoto recibe 18 de daño
-Makoto termina con HP:352/597
+Seleccione un objetivo para Demi-Fiend
+1-Enku HP:33/235 MP:207/228
+2-Naga HP:31/199 MP:39/39
+3-Cancelar
+INPUT: 1
 ----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Demi-Fiend ataca a Enku
+Enku recibe 168 de daño
+Enku termina con HP:0/235
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Makoto (J1)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:352/597 MP:331/347
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
 B-
+C-Naga HP:31/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:382/418 MP:405/405
 C-
 D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:607/625
-B-Ghoul HP:465/558 MP:97/111
-C-Gu Huo Niao HP:76/122 MP:109/117
-D-Spriggan HP:128/147 MP:61/66
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Makoto
+1-Xi Wangmu
+2-Demi-Fiend
 ----------------------------------------
-Seleccione una acción para Makoto
+Seleccione una acción para Xi Wangmu
 1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Makoto use
-1-Zanma MP:8
-2-Mudoon MP:10
-3-Gram Slice MP:5
-4-Cancelar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
 INPUT: 2
 ----------------------------------------
-Seleccione un objetivo para Makoto
-1-Shujinko HP:1154/1317 MP:607/625
-2-Ghoul HP:465/558 MP:97/111
-3-Gu Huo Niao HP:76/122 MP:109/117
-4-Spriggan HP:128/147 MP:61/66
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Makoto ataca con oscuridad a Shujinko
-Shujinko bloquea el ataque de Makoto
-Shujinko termina con HP:1154/1317
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Shujinko (J2)
-----------------------------------------
-Equipo de Makoto (J1)
-A-Makoto HP:352/597 MP:321/347
-B-
-C-
-D-
-Equipo de Shujinko (J2)
-A-Shujinko HP:1154/1317 MP:607/625
-B-Ghoul HP:465/558 MP:97/111
-C-Gu Huo Niao HP:76/122 MP:109/117
-D-Spriggan HP:128/147 MP:61/66
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Shujinko
-2-Ghoul
-3-Gu Huo Niao
-4-Spriggan
-----------------------------------------
-Seleccione una acción para Shujinko
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
+Seleccione una habilidad para que Xi Wangmu use
+1-Makarakarn MP:50
+2-Myriad Arrows MP:30
+3-Invitation MP:45
+4-Megaton Press MP:17
+5-Doping MP:45
+6-Cancelar
 INPUT: 3
 ----------------------------------------
-Seleccione una habilidad para que Shujinko use
-1-Hamaon MP:10
-2-Zionga MP:8
-3-Iron Judgement MP:8
-4-Diarama MP:9
-5-Zan MP:5
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Xi Wangmu use
+1-Makarakarn MP:50
+2-Myriad Arrows MP:30
+3-Invitation MP:45
+4-Megaton Press MP:17
+5-Doping MP:45
 6-Cancelar
 INPUT: 6
 ----------------------------------------
-Seleccione una acción para Shujinko
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Xi Wangmu use
+1-Makarakarn MP:50
+2-Myriad Arrows MP:30
+3-Invitation MP:45
+4-Megaton Press MP:17
+5-Doping MP:45
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-
+C-Naga HP:31/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:382/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Demi-Fiend
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -2794,25 +1520,119 @@ Seleccione una acción para Shujinko
 INPUT: 4
 ----------------------------------------
 Seleccione un monstruo para invocar
-1-Kingu HP:306/464 MP:91/91
-2-Cancelar
-INPUT: 2
+1-Cancelar
+INPUT: 1
 ----------------------------------------
-Seleccione una acción para Shujinko
+Seleccione una acción para Demi-Fiend
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 2
+INPUT: 5
 ----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Makoto HP:352/597 MP:321/347
-2-Cancelar
-INPUT: 2
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Seleccione una acción para Shujinko
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-
+C-Naga HP:31/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:382/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Naga
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-
+C-Naga HP:31/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:382/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Naga
+----------------------------------------
+Seleccione una acción para Naga
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Naga
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Xi Wangmu HP:382/418 MP:405/405
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Naga ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Naga
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:193/193
+B-
+C-Naga HP:31/199 MP:39/39
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Xi Wangmu HP:382/418 MP:405/405
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Demi-Fiend
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -2821,26 +1641,40 @@ Seleccione una acción para Shujinko
 6: Rendirse
 INPUT: 3
 ----------------------------------------
-Seleccione una habilidad para que Shujinko use
-1-Hamaon MP:10
-2-Zionga MP:8
-3-Iron Judgement MP:8
-4-Diarama MP:9
-5-Zan MP:5
-6-Cancelar
+Seleccione una habilidad para que Demi-Fiend use
+1-Agi MP:5
+2-Bouncing Claw MP:4
+3-Bufula MP:8
+4-Trisagion MP:22
+5-Axel Claw MP:15
+6-Mudoon MP:10
+7-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Naga HP:31/199 MP:39/39
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Shujinko
-1-Makoto HP:352/597 MP:321/347
+Seleccione un objetivo para Demi-Fiend
+1-Naga HP:31/199 MP:39/39
 2-Cancelar
 INPUT: 1
 ----------------------------------------
-Shujinko ataca con luz a Makoto
-Makoto es resistente el ataque de Shujinko
-Makoto ha sido eliminado
-Makoto termina con HP:0/597
+Demi-Fiend ataca a Naga
+Naga recibe 168 de daño
+Naga termina con HP:0/199
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ganador: Shujinko (J2)
+Ganador: Demi-Fiend (J2)

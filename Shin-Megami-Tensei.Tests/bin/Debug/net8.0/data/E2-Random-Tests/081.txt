@@ -201,2088 +201,55 @@ Elige un archivo para cargar los equipos
 199: 200.txt
 INPUT: 80
 ----------------------------------------
-Ronda de Aleph (J1)
+Ronda de Kei (J1)
 ----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:613/613
-B-Pale Rider HP:693/693 MP:310/310
-C-Arachne HP:350/350 MP:157/157
-D-Black Maria HP:348/348 MP:337/337
-Equipo de Yu (J2)
-A-Yu HP:597/597 MP:347/347
-B-Azrael HP:338/338 MP:328/328
-C-Tsuchigumo HP:280/280 MP:126/126
-D-Kingu HP:464/464 MP:91/91
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Pale Rider
-3-Black Maria
-4-Arachne
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Samael HP:945/945 MP:189/189
-2-Centaur HP:104/104 MP:19/19
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una posición para invocar
-1-Pale Rider HP:693/693 MP:310/310 (Puesto 2)
-2-Arachne HP:350/350 MP:157/157 (Puesto 3)
-3-Black Maria HP:348/348 MP:337/337 (Puesto 4)
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Samael ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:613/613
-B-Pale Rider HP:693/693 MP:310/310
-C-Samael HP:945/945 MP:189/189
-D-Black Maria HP:348/348 MP:337/337
-Equipo de Yu (J2)
-A-Yu HP:597/597 MP:347/347
-B-Azrael HP:338/338 MP:328/328
-C-Tsuchigumo HP:280/280 MP:126/126
-D-Kingu HP:464/464 MP:91/91
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Pale Rider
-2-Black Maria
-3-Samael
-4-Aleph
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:613/613
-B-Pale Rider HP:693/693 MP:310/310
-C-Samael HP:945/945 MP:189/189
-D-Black Maria HP:348/348 MP:337/337
-Equipo de Yu (J2)
-A-Yu HP:597/597 MP:347/347
-B-Azrael HP:338/338 MP:328/328
-C-Tsuchigumo HP:280/280 MP:126/126
-D-Kingu HP:464/464 MP:91/91
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Black Maria
-2-Samael
-3-Aleph
-4-Pale Rider
-----------------------------------------
-Seleccione una acción para Black Maria
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Arachne HP:350/350 MP:157/157
-2-Centaur HP:104/104 MP:19/19
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Arachne ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:613/613
-B-Pale Rider HP:693/693 MP:310/310
-C-Samael HP:945/945 MP:189/189
-D-Arachne HP:350/350 MP:157/157
-Equipo de Yu (J2)
-A-Yu HP:597/597 MP:347/347
-B-Azrael HP:338/338 MP:328/328
-C-Tsuchigumo HP:280/280 MP:126/126
-D-Kingu HP:464/464 MP:91/91
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Samael
-2-Aleph
-3-Pale Rider
-4-Arachne
-----------------------------------------
-Seleccione una acción para Samael
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Samael
-1-Yu HP:597/597 MP:347/347
-2-Azrael HP:338/338 MP:328/328
-3-Tsuchigumo HP:280/280 MP:126/126
-4-Kingu HP:464/464 MP:91/91
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Samael ataca a Tsuchigumo
-Tsuchigumo recibe 73 de daño
-Tsuchigumo termina con HP:207/280
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:613/613
-B-Pale Rider HP:693/693 MP:310/310
-C-Samael HP:945/945 MP:189/189
-D-Arachne HP:350/350 MP:157/157
-Equipo de Yu (J2)
-A-Yu HP:597/597 MP:347/347
-B-Azrael HP:338/338 MP:328/328
-C-Tsuchigumo HP:207/280 MP:126/126
-D-Kingu HP:464/464 MP:91/91
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Pale Rider
-3-Arachne
-4-Samael
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Aleph use
-1-Berserker God MP:12
-2-Zio MP:5
-3-Diarahan MP:16
-4-Diarama MP:9
-5-Lunge MP:6
-6-Grand Tack MP:11
-7-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Aleph HP:1309/1309 MP:613/613
-2-Pale Rider HP:693/693 MP:310/310
-3-Samael HP:945/945 MP:189/189
-4-Arachne HP:350/350 MP:157/157
-5-Black Maria HP:348/348 MP:337/337
-6-Centaur HP:104/104 MP:19/19
-7-Cancelar
-INPUT: 1
-----------------------------------------
-Aleph cura a Aleph
-Aleph recibe 654 de HP
-Aleph termina con HP:1309/1309
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:604/613
-B-Pale Rider HP:693/693 MP:310/310
-C-Samael HP:945/945 MP:189/189
-D-Arachne HP:350/350 MP:157/157
-Equipo de Yu (J2)
-A-Yu HP:597/597 MP:347/347
-B-Azrael HP:338/338 MP:328/328
-C-Tsuchigumo HP:207/280 MP:126/126
-D-Kingu HP:464/464 MP:91/91
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Pale Rider
-2-Arachne
-3-Samael
-4-Aleph
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Black Maria HP:348/348 MP:337/337
-2-Centaur HP:104/104 MP:19/19
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:604/613
-B-Pale Rider HP:693/693 MP:310/310
-C-Samael HP:945/945 MP:189/189
-D-Arachne HP:350/350 MP:157/157
-Equipo de Yu (J2)
-A-Yu HP:597/597 MP:347/347
-B-Azrael HP:338/338 MP:328/328
-C-Tsuchigumo HP:207/280 MP:126/126
-D-Kingu HP:464/464 MP:91/91
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Arachne
-2-Samael
-3-Aleph
-4-Pale Rider
-----------------------------------------
-Seleccione una acción para Arachne
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Black Maria HP:348/348 MP:337/337
-2-Centaur HP:104/104 MP:19/19
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Arachne
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Yu (J2)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:604/613
-B-Pale Rider HP:693/693 MP:310/310
-C-Samael HP:945/945 MP:189/189
-D-Arachne HP:350/350 MP:157/157
-Equipo de Yu (J2)
-A-Yu HP:597/597 MP:347/347
-B-Azrael HP:338/338 MP:328/328
-C-Tsuchigumo HP:207/280 MP:126/126
-D-Kingu HP:464/464 MP:91/91
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Yu
-2-Azrael
-3-Kingu
-4-Tsuchigumo
-----------------------------------------
-Seleccione una acción para Yu
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Yu
-1-Aleph HP:1309/1309 MP:604/613
-2-Pale Rider HP:693/693 MP:310/310
-3-Samael HP:945/945 MP:189/189
-4-Arachne HP:350/350 MP:157/157
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Yu ataca a Samael
-Samael recibe 49 de daño
-Samael termina con HP:896/945
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:604/613
-B-Pale Rider HP:693/693 MP:310/310
-C-Samael HP:896/945 MP:189/189
-D-Arachne HP:350/350 MP:157/157
-Equipo de Yu (J2)
-A-Yu HP:597/597 MP:347/347
-B-Azrael HP:338/338 MP:328/328
-C-Tsuchigumo HP:207/280 MP:126/126
-D-Kingu HP:464/464 MP:91/91
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Azrael
-2-Kingu
-3-Tsuchigumo
-4-Yu
-----------------------------------------
-Seleccione una acción para Azrael
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:604/613
-B-Pale Rider HP:693/693 MP:310/310
-C-Samael HP:896/945 MP:189/189
-D-Arachne HP:350/350 MP:157/157
-Equipo de Yu (J2)
-A-Yu HP:597/597 MP:347/347
-B-Azrael HP:338/338 MP:328/328
-C-Tsuchigumo HP:207/280 MP:126/126
-D-Kingu HP:464/464 MP:91/91
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Kingu
-2-Tsuchigumo
-3-Yu
-4-Azrael
-----------------------------------------
-Seleccione una acción para Kingu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Kingu use
-1-Zanma MP:8
-2-Recarmdra MP:2
-3-Shock MP:21
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Kingu cura a Yu
-Yu recibe 298 de HP
-Yu termina con HP:597/597
-Kingu cura a Azrael
-Azrael recibe 169 de HP
-Azrael termina con HP:338/338
-Kingu cura a Tsuchigumo
-Tsuchigumo recibe 140 de HP
-Tsuchigumo termina con HP:280/280
-Kingu cura a Goblin
-Goblin recibe 161 de HP
-Goblin termina con HP:322/322
-Kingu cura a Taown
-Taown recibe 354 de HP
-Taown termina con HP:709/709
-Kingu cura a Ometeotl
-Ometeotl recibe 162 de HP
-Ometeotl termina con HP:324/324
-Kingu cura a Xi Wangmu
-Xi Wangmu recibe 209 de HP
-Xi Wangmu termina con HP:418/418
-Kingu termina con HP:0/464
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:604/613
-B-Pale Rider HP:693/693 MP:310/310
-C-Samael HP:896/945 MP:189/189
-D-Arachne HP:350/350 MP:157/157
-Equipo de Yu (J2)
-A-Yu HP:597/597 MP:347/347
-B-Azrael HP:338/338 MP:328/328
-C-Tsuchigumo HP:280/280 MP:126/126
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Yu
-2-Azrael
-3-Tsuchigumo
-----------------------------------------
-Seleccione una acción para Yu
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1309/1309 MP:604/613
-B-Pale Rider HP:693/693 MP:310/310
-C-Samael HP:896/945 MP:189/189
-D-Arachne HP:350/350 MP:157/157
-Equipo de Yu (J2)
-A-Yu HP:597/597 MP:347/347
-B-Azrael HP:338/338 MP:328/328
-C-Tsuchigumo HP:280/280 MP:126/126
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Azrael
-2-Tsuchigumo
-3-Yu
-----------------------------------------
-Seleccione una acción para Azrael
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Azrael
-1-Aleph HP:1309/1309 MP:604/613
-2-Pale Rider HP:693/693 MP:310/310
-3-Samael HP:896/945 MP:189/189
-4-Arachne HP:350/350 MP:157/157
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Azrael ataca a Aleph
-Aleph es resistente el ataque de Azrael
-Aleph recibe 18 de daño
-Aleph termina con HP:1291/1309
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1291/1309 MP:604/613
-B-Pale Rider HP:693/693 MP:310/310
-C-Samael HP:896/945 MP:189/189
-D-Arachne HP:350/350 MP:157/157
-Equipo de Yu (J2)
-A-Yu HP:597/597 MP:347/347
-B-Azrael HP:338/338 MP:328/328
-C-Tsuchigumo HP:280/280 MP:126/126
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Tsuchigumo
-2-Yu
-3-Azrael
-----------------------------------------
-Seleccione una acción para Tsuchigumo
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Tsuchigumo use
-1-Poison Claw MP:9
-2-Zionga MP:8
-3-Me Patra MP:15
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Tsuchigumo
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1291/1309 MP:604/613
-B-Pale Rider HP:693/693 MP:310/310
-C-Samael HP:896/945 MP:189/189
-D-Arachne HP:350/350 MP:157/157
-Equipo de Yu (J2)
-A-Yu HP:597/597 MP:347/347
-B-Azrael HP:338/338 MP:328/328
-C-Tsuchigumo HP:280/280 MP:126/126
-D-
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Yu
-2-Azrael
-3-Tsuchigumo
-----------------------------------------
-Seleccione una acción para Yu
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Aleph (J1)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1291/1309 MP:604/613
-B-Pale Rider HP:693/693 MP:310/310
-C-Samael HP:896/945 MP:189/189
-D-Arachne HP:350/350 MP:157/157
-Equipo de Yu (J2)
-A-Yu HP:597/597 MP:347/347
-B-Azrael HP:338/338 MP:328/328
-C-Tsuchigumo HP:280/280 MP:126/126
-D-
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Samael
-3-Pale Rider
-4-Arachne
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Aleph use
-1-Berserker God MP:12
-2-Zio MP:5
-3-Diarahan MP:16
-4-Diarama MP:9
-5-Lunge MP:6
-6-Grand Tack MP:11
-7-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Yu HP:597/597 MP:347/347
-2-Azrael HP:338/338 MP:328/328
-3-Tsuchigumo HP:280/280 MP:126/126
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Aleph ataca a Azrael
-Azrael es resistente el ataque de Aleph
-Azrael recibe 75 de daño
-Azrael termina con HP:263/338
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1291/1309 MP:598/613
-B-Pale Rider HP:693/693 MP:310/310
-C-Samael HP:896/945 MP:189/189
-D-Arachne HP:350/350 MP:157/157
-Equipo de Yu (J2)
-A-Yu HP:597/597 MP:347/347
-B-Azrael HP:263/338 MP:328/328
-C-Tsuchigumo HP:280/280 MP:126/126
-D-
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Samael
-2-Pale Rider
-3-Arachne
-4-Aleph
-----------------------------------------
-Seleccione una acción para Samael
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Samael use
-1-Diarahan MP:16
-2-Sea of Chaos MP:45
-3-Pandemic Bomb MP:11
-4-Poison Breath MP:11
-5-Doping MP:45
-6-Cancelar
-INPUT: 6
-----------------------------------------
-Seleccione una acción para Samael
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1291/1309 MP:598/613
-B-Pale Rider HP:693/693 MP:310/310
-C-Samael HP:896/945 MP:189/189
-D-Arachne HP:350/350 MP:157/157
-Equipo de Yu (J2)
-A-Yu HP:597/597 MP:347/347
-B-Azrael HP:263/338 MP:328/328
-C-Tsuchigumo HP:280/280 MP:126/126
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Pale Rider
-2-Arachne
-3-Aleph
-4-Samael
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Pale Rider use
-1-Pandemic Bomb MP:11
-2-Death's Door MP:10
-3-Deadly Wind MP:22
-4-Debilitate MP:50
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Pale Rider
-1-Yu HP:597/597 MP:347/347
-2-Azrael HP:263/338 MP:328/328
-3-Tsuchigumo HP:280/280 MP:126/126
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Pale Rider lanza viento a Azrael
-Azrael recibe 168 de daño
-Azrael termina con HP:95/338
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1291/1309 MP:598/613
-B-Pale Rider HP:693/693 MP:288/310
-C-Samael HP:896/945 MP:189/189
-D-Arachne HP:350/350 MP:157/157
-Equipo de Yu (J2)
-A-Yu HP:597/597 MP:347/347
-B-Azrael HP:95/338 MP:328/328
-C-Tsuchigumo HP:280/280 MP:126/126
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Arachne
-2-Aleph
-3-Samael
-4-Pale Rider
-----------------------------------------
-Seleccione una acción para Arachne
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1291/1309 MP:598/613
-B-Pale Rider HP:693/693 MP:288/310
-C-Samael HP:896/945 MP:189/189
-D-Arachne HP:350/350 MP:157/157
-Equipo de Yu (J2)
-A-Yu HP:597/597 MP:347/347
-B-Azrael HP:95/338 MP:328/328
-C-Tsuchigumo HP:280/280 MP:126/126
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Aleph
-2-Samael
-3-Pale Rider
-4-Arachne
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Yu HP:597/597 MP:347/347
-2-Azrael HP:95/338 MP:328/328
-3-Tsuchigumo HP:280/280 MP:126/126
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Aleph dispara a Azrael
-Azrael recibe 276 de daño
-Azrael termina con HP:0/338
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1291/1309 MP:598/613
-B-Pale Rider HP:693/693 MP:288/310
-C-Samael HP:896/945 MP:189/189
-D-Arachne HP:350/350 MP:157/157
-Equipo de Yu (J2)
-A-Yu HP:597/597 MP:347/347
-B-
-C-Tsuchigumo HP:280/280 MP:126/126
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Samael
-2-Pale Rider
-3-Arachne
-4-Aleph
-----------------------------------------
-Seleccione una acción para Samael
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Samael
-1-Yu HP:597/597 MP:347/347
-2-Tsuchigumo HP:280/280 MP:126/126
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Samael ataca a Yu
-Yu es resistente el ataque de Samael
-Yu recibe 36 de daño
-Yu termina con HP:561/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Yu (J2)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1291/1309 MP:598/613
-B-Pale Rider HP:693/693 MP:288/310
-C-Samael HP:896/945 MP:189/189
-D-Arachne HP:350/350 MP:157/157
-Equipo de Yu (J2)
-A-Yu HP:561/597 MP:347/347
-B-
-C-Tsuchigumo HP:280/280 MP:126/126
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Yu
-2-Tsuchigumo
-----------------------------------------
-Seleccione una acción para Yu
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Goblin HP:322/322 MP:63/63
-2-Taown HP:709/709 MP:140/140
-3-Ometeotl HP:324/324 MP:315/315
-4-Xi Wangmu HP:418/418 MP:405/405
-5-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una posición para invocar
-1-Vacío (Puesto 2)
-2-Tsuchigumo HP:280/280 MP:126/126 (Puesto 3)
-3-Vacío (Puesto 4)
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Yu
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Yu
-1-Aleph HP:1291/1309 MP:598/613
-2-Pale Rider HP:693/693 MP:288/310
-3-Samael HP:896/945 MP:189/189
-4-Arachne HP:350/350 MP:157/157
-5-Cancelar
-INPUT: 4
-----------------------------------------
-Yu ataca a Arachne
-Arachne recibe 49 de daño
-Arachne termina con HP:301/350
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1291/1309 MP:598/613
-B-Pale Rider HP:693/693 MP:288/310
-C-Samael HP:896/945 MP:189/189
-D-Arachne HP:301/350 MP:157/157
-Equipo de Yu (J2)
-A-Yu HP:561/597 MP:347/347
-B-
-C-Tsuchigumo HP:280/280 MP:126/126
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Tsuchigumo
-2-Yu
-----------------------------------------
-Seleccione una acción para Tsuchigumo
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Tsuchigumo
-1-Aleph HP:1291/1309 MP:598/613
-2-Pale Rider HP:693/693 MP:288/310
-3-Samael HP:896/945 MP:189/189
-4-Arachne HP:301/350 MP:157/157
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Tsuchigumo
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Goblin HP:322/322 MP:63/63
-2-Taown HP:709/709 MP:140/140
-3-Ometeotl HP:324/324 MP:315/315
-4-Xi Wangmu HP:418/418 MP:405/405
-5-Cancelar
-INPUT: 4
-----------------------------------------
-Xi Wangmu ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1291/1309 MP:598/613
-B-Pale Rider HP:693/693 MP:288/310
-C-Samael HP:896/945 MP:189/189
-D-Arachne HP:301/350 MP:157/157
-Equipo de Yu (J2)
-A-Yu HP:561/597 MP:347/347
-B-
-C-Xi Wangmu HP:418/418 MP:405/405
-D-
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Yu
-2-Xi Wangmu
-----------------------------------------
-Seleccione una acción para Yu
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Yu use
-1-Agidyne MP:14
-2-Bufula MP:8
-3-Zan MP:5
-4-Axel Claw MP:15
-5-Samarecarm MP:40
-6-Tathlum Shot MP:7
-7-Cancelar
-INPUT: 7
-----------------------------------------
-Seleccione una acción para Yu
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Yu
-1-Aleph HP:1291/1309 MP:598/613
-2-Pale Rider HP:693/693 MP:288/310
-3-Samael HP:896/945 MP:189/189
-4-Arachne HP:301/350 MP:157/157
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Yu dispara a Samael
-Samael recibe 72 de daño
-Samael termina con HP:824/945
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Aleph (J1)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1291/1309 MP:598/613
-B-Pale Rider HP:693/693 MP:288/310
-C-Samael HP:824/945 MP:189/189
-D-Arachne HP:301/350 MP:157/157
-Equipo de Yu (J2)
-A-Yu HP:561/597 MP:347/347
-B-
-C-Xi Wangmu HP:418/418 MP:405/405
-D-
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Samael
-3-Pale Rider
-4-Arachne
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1291/1309 MP:598/613
-B-Pale Rider HP:693/693 MP:288/310
-C-Samael HP:824/945 MP:189/189
-D-Arachne HP:301/350 MP:157/157
-Equipo de Yu (J2)
-A-Yu HP:561/597 MP:347/347
-B-
-C-Xi Wangmu HP:418/418 MP:405/405
-D-
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Samael
-2-Pale Rider
-3-Arachne
-4-Aleph
-----------------------------------------
-Seleccione una acción para Samael
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Samael
-1-Yu HP:561/597 MP:347/347
-2-Xi Wangmu HP:418/418 MP:405/405
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Samael ataca a Yu
-Yu es resistente el ataque de Samael
-Yu recibe 36 de daño
-Yu termina con HP:525/597
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1291/1309 MP:598/613
-B-Pale Rider HP:693/693 MP:288/310
-C-Samael HP:824/945 MP:189/189
-D-Arachne HP:301/350 MP:157/157
-Equipo de Yu (J2)
-A-Yu HP:525/597 MP:347/347
-B-
-C-Xi Wangmu HP:418/418 MP:405/405
-D-
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Pale Rider
-2-Arachne
-3-Aleph
-4-Samael
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Pale Rider
-1-Yu HP:525/597 MP:347/347
-2-Xi Wangmu HP:418/418 MP:405/405
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Pale Rider use
-1-Pandemic Bomb MP:11
-2-Death's Door MP:10
-3-Deadly Wind MP:22
-4-Debilitate MP:50
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Pale Rider
-1-Yu HP:525/597 MP:347/347
-2-Xi Wangmu HP:418/418 MP:405/405
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Pale Rider lanza viento a Xi Wangmu
-Xi Wangmu recibe 168 de daño
-Xi Wangmu termina con HP:250/418
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1291/1309 MP:598/613
-B-Pale Rider HP:693/693 MP:266/310
-C-Samael HP:824/945 MP:189/189
-D-Arachne HP:301/350 MP:157/157
-Equipo de Yu (J2)
-A-Yu HP:525/597 MP:347/347
-B-
-C-Xi Wangmu HP:250/418 MP:405/405
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Arachne
-2-Aleph
-3-Samael
-4-Pale Rider
-----------------------------------------
-Seleccione una acción para Arachne
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Arachne use
-1-Stun Needles MP:14
-2-Damascus Claw MP:7
-3-Blast Arrow MP:16
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Arachne
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Arachne use
-1-Stun Needles MP:14
-2-Damascus Claw MP:7
-3-Blast Arrow MP:16
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Arachne
-1-Yu HP:525/597 MP:347/347
-2-Xi Wangmu HP:250/418 MP:405/405
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Arachne ataca a Yu
-Yu es resistente el ataque de Arachne
-Yu recibe 40 de daño
-Arachne ataca a Yu
-Yu es resistente el ataque de Arachne
-Yu recibe 40 de daño
-Yu termina con HP:445/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1291/1309 MP:598/613
-B-Pale Rider HP:693/693 MP:266/310
-C-Samael HP:824/945 MP:189/189
-D-Arachne HP:301/350 MP:150/157
-Equipo de Yu (J2)
-A-Yu HP:445/597 MP:347/347
-B-
-C-Xi Wangmu HP:250/418 MP:405/405
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Samael
-3-Pale Rider
-4-Arachne
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1291/1309 MP:598/613
-B-Pale Rider HP:693/693 MP:266/310
-C-Samael HP:824/945 MP:189/189
-D-Arachne HP:301/350 MP:150/157
-Equipo de Yu (J2)
-A-Yu HP:445/597 MP:347/347
-B-
-C-Xi Wangmu HP:250/418 MP:405/405
-D-
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Samael
-2-Pale Rider
-3-Arachne
-4-Aleph
-----------------------------------------
-Seleccione una acción para Samael
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Samael
-1-Yu HP:445/597 MP:347/347
-2-Xi Wangmu HP:250/418 MP:405/405
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Samael ataca a Yu
-Yu es resistente el ataque de Samael
-Yu recibe 36 de daño
-Yu termina con HP:409/597
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Yu (J2)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1291/1309 MP:598/613
-B-Pale Rider HP:693/693 MP:266/310
-C-Samael HP:824/945 MP:189/189
-D-Arachne HP:301/350 MP:150/157
-Equipo de Yu (J2)
-A-Yu HP:409/597 MP:347/347
-B-
-C-Xi Wangmu HP:250/418 MP:405/405
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Yu
-2-Xi Wangmu
-----------------------------------------
-Seleccione una acción para Yu
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Yu use
-1-Agidyne MP:14
-2-Bufula MP:8
-3-Zan MP:5
-4-Axel Claw MP:15
-5-Samarecarm MP:40
-6-Tathlum Shot MP:7
-7-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione un objetivo para Yu
-1-Aleph HP:1291/1309 MP:598/613
-2-Pale Rider HP:693/693 MP:266/310
-3-Samael HP:824/945 MP:189/189
-4-Arachne HP:301/350 MP:150/157
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Yu ataca a Pale Rider
-Pale Rider recibe 132 de daño
-Yu ataca a Pale Rider
-Pale Rider recibe 132 de daño
-Pale Rider termina con HP:429/693
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1291/1309 MP:598/613
-B-Pale Rider HP:429/693 MP:266/310
-C-Samael HP:824/945 MP:189/189
-D-Arachne HP:301/350 MP:150/157
-Equipo de Yu (J2)
-A-Yu HP:409/597 MP:332/347
-B-
-C-Xi Wangmu HP:250/418 MP:405/405
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Xi Wangmu
-2-Yu
-----------------------------------------
-Seleccione una acción para Xi Wangmu
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1291/1309 MP:598/613
-B-Pale Rider HP:429/693 MP:266/310
-C-Samael HP:824/945 MP:189/189
-D-Arachne HP:301/350 MP:150/157
-Equipo de Yu (J2)
-A-Yu HP:409/597 MP:332/347
-B-
-C-Xi Wangmu HP:250/418 MP:405/405
-D-
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Yu
-2-Xi Wangmu
-----------------------------------------
-Seleccione una acción para Yu
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Yu
-1-Aleph HP:1291/1309 MP:598/613
-2-Pale Rider HP:429/693 MP:266/310
-3-Samael HP:824/945 MP:189/189
-4-Arachne HP:301/350 MP:150/157
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Yu ataca a Aleph
-Aleph es resistente el ataque de Yu
-Aleph recibe 24 de daño
-Aleph termina con HP:1267/1309
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Aleph (J1)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1267/1309 MP:598/613
-B-Pale Rider HP:429/693 MP:266/310
-C-Samael HP:824/945 MP:189/189
-D-Arachne HP:301/350 MP:150/157
-Equipo de Yu (J2)
-A-Yu HP:409/597 MP:332/347
-B-
-C-Xi Wangmu HP:250/418 MP:405/405
-D-
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Samael
-3-Pale Rider
-4-Arachne
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Aleph use
-1-Berserker God MP:12
-2-Zio MP:5
-3-Diarahan MP:16
-4-Diarama MP:9
-5-Lunge MP:6
-6-Grand Tack MP:11
-7-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Aleph HP:1267/1309 MP:598/613
-2-Pale Rider HP:429/693 MP:266/310
-3-Samael HP:824/945 MP:189/189
-4-Arachne HP:301/350 MP:150/157
-5-Black Maria HP:348/348 MP:337/337
-6-Centaur HP:104/104 MP:19/19
-7-Cancelar
-INPUT: 6
-----------------------------------------
-Aleph cura a Centaur
-Centaur recibe 104 de HP
-Centaur termina con HP:104/104
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1267/1309 MP:582/613
-B-Pale Rider HP:429/693 MP:266/310
-C-Samael HP:824/945 MP:189/189
-D-Arachne HP:301/350 MP:150/157
-Equipo de Yu (J2)
-A-Yu HP:409/597 MP:332/347
-B-
-C-Xi Wangmu HP:250/418 MP:405/405
-D-
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Samael
-2-Pale Rider
-3-Arachne
-4-Aleph
-----------------------------------------
-Seleccione una acción para Samael
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Samael
-1-Yu HP:409/597 MP:332/347
-2-Xi Wangmu HP:250/418 MP:405/405
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Samael
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Black Maria HP:348/348 MP:337/337
-2-Centaur HP:104/104 MP:19/19
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Black Maria ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1267/1309 MP:582/613
-B-Pale Rider HP:429/693 MP:266/310
-C-Black Maria HP:348/348 MP:337/337
-D-Arachne HP:301/350 MP:150/157
-Equipo de Yu (J2)
-A-Yu HP:409/597 MP:332/347
-B-
-C-Xi Wangmu HP:250/418 MP:405/405
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Pale Rider
-2-Arachne
-3-Aleph
-4-Black Maria
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Pale Rider
-1-Yu HP:409/597 MP:332/347
-2-Xi Wangmu HP:250/418 MP:405/405
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Pale Rider ataca a Xi Wangmu
-Xi Wangmu recibe 58 de daño
-Xi Wangmu termina con HP:192/418
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1267/1309 MP:582/613
-B-Pale Rider HP:429/693 MP:266/310
-C-Black Maria HP:348/348 MP:337/337
-D-Arachne HP:301/350 MP:150/157
-Equipo de Yu (J2)
-A-Yu HP:409/597 MP:332/347
-B-
-C-Xi Wangmu HP:192/418 MP:405/405
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Arachne
-2-Aleph
-3-Black Maria
-4-Pale Rider
-----------------------------------------
-Seleccione una acción para Arachne
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Arachne
-1-Yu HP:409/597 MP:332/347
-2-Xi Wangmu HP:192/418 MP:405/405
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Arachne ataca a Yu
-Yu es resistente el ataque de Arachne
-Yu recibe 14 de daño
-Yu termina con HP:395/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1267/1309 MP:582/613
-B-Pale Rider HP:429/693 MP:266/310
-C-Black Maria HP:348/348 MP:337/337
-D-Arachne HP:301/350 MP:150/157
-Equipo de Yu (J2)
-A-Yu HP:395/597 MP:332/347
-B-
-C-Xi Wangmu HP:192/418 MP:405/405
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Black Maria
-3-Pale Rider
-4-Arachne
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Samael HP:824/945 MP:189/189
-2-Centaur HP:104/104 MP:19/19
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una posición para invocar
-1-Pale Rider HP:429/693 MP:266/310 (Puesto 2)
-2-Black Maria HP:348/348 MP:337/337 (Puesto 3)
-3-Arachne HP:301/350 MP:150/157 (Puesto 4)
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Yu HP:395/597 MP:332/347
-2-Xi Wangmu HP:192/418 MP:405/405
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Aleph dispara a Xi Wangmu
-Xi Wangmu recibe 276 de daño
-Xi Wangmu termina con HP:0/418
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Yu (J2)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1267/1309 MP:582/613
-B-Pale Rider HP:429/693 MP:266/310
-C-Black Maria HP:348/348 MP:337/337
-D-Arachne HP:301/350 MP:150/157
-Equipo de Yu (J2)
-A-Yu HP:395/597 MP:332/347
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Yu
-----------------------------------------
-Seleccione una acción para Yu
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1267/1309 MP:582/613
-B-Pale Rider HP:429/693 MP:266/310
-C-Black Maria HP:348/348 MP:337/337
-D-Arachne HP:301/350 MP:150/157
-Equipo de Yu (J2)
-A-Yu HP:395/597 MP:332/347
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Yu
-----------------------------------------
-Seleccione una acción para Yu
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Yu
-1-Aleph HP:1267/1309 MP:582/613
-2-Pale Rider HP:429/693 MP:266/310
-3-Black Maria HP:348/348 MP:337/337
-4-Arachne HP:301/350 MP:150/157
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Yu ataca a Black Maria
-Black Maria recibe 49 de daño
-Black Maria termina con HP:299/348
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Aleph (J1)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1267/1309 MP:582/613
-B-Pale Rider HP:429/693 MP:266/310
-C-Black Maria HP:299/348 MP:337/337
-D-Arachne HP:301/350 MP:150/157
-Equipo de Yu (J2)
-A-Yu HP:395/597 MP:332/347
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Pale Rider
-3-Black Maria
-4-Arachne
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Samael HP:824/945 MP:189/189
-2-Centaur HP:104/104 MP:19/19
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Samael HP:824/945 MP:189/189
-2-Centaur HP:104/104 MP:19/19
-3-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una posición para invocar
-1-Pale Rider HP:429/693 MP:266/310 (Puesto 2)
-2-Black Maria HP:299/348 MP:337/337 (Puesto 3)
-3-Arachne HP:301/350 MP:150/157 (Puesto 4)
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Samael ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1267/1309 MP:582/613
-B-Samael HP:824/945 MP:189/189
-C-Black Maria HP:299/348 MP:337/337
-D-Arachne HP:301/350 MP:150/157
-Equipo de Yu (J2)
-A-Yu HP:395/597 MP:332/347
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Samael
-2-Black Maria
-3-Arachne
-4-Aleph
-----------------------------------------
-Seleccione una acción para Samael
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Samael use
-1-Diarahan MP:16
-2-Sea of Chaos MP:45
-3-Pandemic Bomb MP:11
-4-Poison Breath MP:11
-5-Doping MP:45
-6-Cancelar
-INPUT: 6
-----------------------------------------
-Seleccione una acción para Samael
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Pale Rider HP:429/693 MP:266/310
-2-Centaur HP:104/104 MP:19/19
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Centaur ha sido invocado
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1267/1309 MP:582/613
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
 B-Centaur HP:104/104 MP:19/19
-C-Black Maria HP:299/348 MP:337/337
-D-Arachne HP:301/350 MP:150/157
-Equipo de Yu (J2)
-A-Yu HP:395/597 MP:332/347
-B-
 C-
 D-
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Black Maria
-2-Arachne
-3-Aleph
-4-Centaur
-----------------------------------------
-Seleccione una acción para Black Maria
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Pale Rider HP:429/693 MP:266/310
-2-Samael HP:824/945 MP:189/189
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Samael ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1267/1309 MP:582/613
-B-Centaur HP:104/104 MP:19/19
-C-Samael HP:824/945 MP:189/189
-D-Arachne HP:301/350 MP:150/157
-Equipo de Yu (J2)
-A-Yu HP:395/597 MP:332/347
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Arachne
-2-Aleph
-3-Centaur
-4-Samael
-----------------------------------------
-Seleccione una acción para Arachne
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Arachne use
-1-Stun Needles MP:14
-2-Damascus Claw MP:7
-3-Blast Arrow MP:16
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Arachne
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Pale Rider HP:429/693 MP:266/310
-2-Black Maria HP:299/348 MP:337/337
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Black Maria ha sido invocado
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1267/1309 MP:582/613
-B-Centaur HP:104/104 MP:19/19
-C-Samael HP:824/945 MP:189/189
-D-Black Maria HP:299/348 MP:337/337
-Equipo de Yu (J2)
-A-Yu HP:395/597 MP:332/347
-B-
-C-
-D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Da Peng HP:634/634 MP:126/126
+C-Lord Nan Dou HP:549/549 MP:108/108
+D-Ishtar HP:258/258 MP:251/251
 ----------------------------------------
 Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Aleph
+1-Kei
 2-Centaur
-3-Samael
-4-Black Maria
 ----------------------------------------
-Seleccione una acción para Aleph
+Seleccione una acción para Kei
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Yu HP:395/597 MP:332/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Yu HP:395/597 MP:332/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Pale Rider HP:429/693 MP:266/310
-2-Arachne HP:301/350 MP:150/157
-3-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Yu HP:395/597 MP:332/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Aleph dispara a Yu
-Yu recibe 276 de daño
-Yu termina con HP:119/597
+INPUT: 5
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1267/1309 MP:582/613
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
 B-Centaur HP:104/104 MP:19/19
-C-Samael HP:824/945 MP:189/189
-D-Black Maria HP:299/348 MP:337/337
-Equipo de Yu (J2)
-A-Yu HP:119/597 MP:332/347
-B-
 C-
 D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Da Peng HP:634/634 MP:126/126
+C-Lord Nan Dou HP:549/549 MP:108/108
+D-Ishtar HP:258/258 MP:251/251
 ----------------------------------------
 Full Turns: 1
-Blinking Turns: 0
+Blinking Turns: 1
 ----------------------------------------
 Orden:
 1-Centaur
-2-Samael
-3-Black Maria
-4-Aleph
-----------------------------------------
-Seleccione una acción para Centaur
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Pale Rider HP:429/693 MP:266/310
-2-Arachne HP:301/350 MP:150/157
-3-Cancelar
-INPUT: 3
+2-Kei
 ----------------------------------------
 Seleccione una acción para Centaur
 1: Atacar
@@ -2298,278 +265,81 @@ Seleccione una habilidad para que Centaur use
 INPUT: 1
 ----------------------------------------
 Seleccione un objetivo para Centaur
-1-Yu HP:119/597 MP:332/347
-2-Cancelar
-INPUT: 2
+1-Flynn HP:971/971 MP:527/527
+2-Da Peng HP:634/634 MP:126/126
+3-Lord Nan Dou HP:549/549 MP:108/108
+4-Ishtar HP:258/258 MP:251/251
+5-Cancelar
+INPUT: 3
 ----------------------------------------
-Seleccione una acción para Centaur
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Centaur use
-1-Bufu MP:5
-2-Needle Shot MP:4
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Centaur
-1-Yu HP:119/597 MP:332/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Centaur dispara a Yu
-Yu recibe 24 de daño
-Yu termina con HP:95/597
+Centaur lanza hielo a Lord Nan Dou
+Lord Nan Dou es débil contra el ataque de Centaur
+Lord Nan Dou recibe 35 de daño
+Lord Nan Dou termina con HP:514/549
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Ronda de Yu (J2)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1267/1309 MP:582/613
-B-Centaur HP:104/104 MP:15/19
-C-Samael HP:824/945 MP:189/189
-D-Black Maria HP:299/348 MP:337/337
-Equipo de Yu (J2)
-A-Yu HP:95/597 MP:332/347
-B-
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Centaur HP:104/104 MP:14/19
 C-
 D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Da Peng HP:634/634 MP:126/126
+C-Lord Nan Dou HP:514/549 MP:108/108
+D-Ishtar HP:258/258 MP:251/251
 ----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
+Full Turns: 0
+Blinking Turns: 2
 ----------------------------------------
 Orden:
-1-Yu
+1-Kei
+2-Centaur
 ----------------------------------------
-Seleccione una acción para Yu
+Seleccione una acción para Kei
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 5
+INPUT: 2
 ----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
+Seleccione un objetivo para Kei
+1-Flynn HP:971/971 MP:527/527
+2-Da Peng HP:634/634 MP:126/126
+3-Lord Nan Dou HP:514/549 MP:108/108
+4-Ishtar HP:258/258 MP:251/251
+5-Cancelar
+INPUT: 2
 ----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1267/1309 MP:582/613
-B-Centaur HP:104/104 MP:15/19
-C-Samael HP:824/945 MP:189/189
-D-Black Maria HP:299/348 MP:337/337
-Equipo de Yu (J2)
-A-Yu HP:95/597 MP:332/347
-B-
+Kei dispara a Da Peng
+Da Peng es débil contra el ataque de Kei
+Da Peng recibe 23 de daño
+Da Peng termina con HP:611/634
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Centaur HP:104/104 MP:14/19
 C-
 D-
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Da Peng HP:611/634 MP:126/126
+C-Lord Nan Dou HP:514/549 MP:108/108
+D-Ishtar HP:258/258 MP:251/251
 ----------------------------------------
 Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Yu
-----------------------------------------
-Seleccione una acción para Yu
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Aleph (J1)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1267/1309 MP:582/613
-B-Centaur HP:104/104 MP:15/19
-C-Samael HP:824/945 MP:189/189
-D-Black Maria HP:299/348 MP:337/337
-Equipo de Yu (J2)
-A-Yu HP:95/597 MP:332/347
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Samael
-3-Black Maria
-4-Centaur
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Yu HP:95/597 MP:332/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Aleph use
-1-Berserker God MP:12
-2-Zio MP:5
-3-Diarahan MP:16
-4-Diarama MP:9
-5-Lunge MP:6
-6-Grand Tack MP:11
-7-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Yu HP:95/597 MP:332/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Aleph use
-1-Berserker God MP:12
-2-Zio MP:5
-3-Diarahan MP:16
-4-Diarama MP:9
-5-Lunge MP:6
-6-Grand Tack MP:11
-7-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Yu HP:95/597 MP:332/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1267/1309 MP:582/613
-B-Centaur HP:104/104 MP:15/19
-C-Samael HP:824/945 MP:189/189
-D-Black Maria HP:299/348 MP:337/337
-Equipo de Yu (J2)
-A-Yu HP:95/597 MP:332/347
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Samael
-2-Black Maria
-3-Centaur
-4-Aleph
-----------------------------------------
-Seleccione una acción para Samael
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1267/1309 MP:582/613
-B-Centaur HP:104/104 MP:15/19
-C-Samael HP:824/945 MP:189/189
-D-Black Maria HP:299/348 MP:337/337
-Equipo de Yu (J2)
-A-Yu HP:95/597 MP:332/347
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Black Maria
-2-Centaur
-3-Aleph
-4-Samael
-----------------------------------------
-Seleccione una acción para Black Maria
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Pale Rider HP:429/693 MP:266/310
-2-Arachne HP:301/350 MP:150/157
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Arachne ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1267/1309 MP:582/613
-B-Centaur HP:104/104 MP:15/19
-C-Samael HP:824/945 MP:189/189
-D-Arachne HP:301/350 MP:150/157
-Equipo de Yu (J2)
-A-Yu HP:95/597 MP:332/347
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
 1-Centaur
-2-Aleph
-3-Samael
-4-Arachne
+2-Kei
 ----------------------------------------
 Seleccione una acción para Centaur
 1: Atacar
@@ -2579,112 +349,8 @@ Seleccione una acción para Centaur
 INPUT: 3
 ----------------------------------------
 Seleccione un monstruo para invocar
-1-Pale Rider HP:429/693 MP:266/310
-2-Black Maria HP:299/348 MP:337/337
-3-Cancelar
+1-Cancelar
 INPUT: 1
-----------------------------------------
-Pale Rider ha sido invocado
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1267/1309 MP:582/613
-B-Pale Rider HP:429/693 MP:266/310
-C-Samael HP:824/945 MP:189/189
-D-Arachne HP:301/350 MP:150/157
-Equipo de Yu (J2)
-A-Yu HP:95/597 MP:332/347
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Samael
-3-Arachne
-4-Pale Rider
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Black Maria HP:299/348 MP:337/337
-2-Centaur HP:104/104 MP:15/19
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una posición para invocar
-1-Pale Rider HP:429/693 MP:266/310 (Puesto 2)
-2-Samael HP:824/945 MP:189/189 (Puesto 3)
-3-Arachne HP:301/350 MP:150/157 (Puesto 4)
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Centaur ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1267/1309 MP:582/613
-B-Pale Rider HP:429/693 MP:266/310
-C-Samael HP:824/945 MP:189/189
-D-Centaur HP:104/104 MP:15/19
-Equipo de Yu (J2)
-A-Yu HP:95/597 MP:332/347
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Samael
-2-Centaur
-3-Pale Rider
-4-Aleph
-----------------------------------------
-Seleccione una acción para Samael
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1267/1309 MP:582/613
-B-Pale Rider HP:429/693 MP:266/310
-C-Samael HP:824/945 MP:189/189
-D-Centaur HP:104/104 MP:15/19
-Equipo de Yu (J2)
-A-Yu HP:95/597 MP:332/347
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Centaur
-2-Pale Rider
-3-Aleph
-4-Samael
 ----------------------------------------
 Seleccione una acción para Centaur
 1: Atacar
@@ -2694,86 +360,43 @@ Seleccione una acción para Centaur
 INPUT: 1
 ----------------------------------------
 Seleccione un objetivo para Centaur
-1-Yu HP:95/597 MP:332/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Centaur
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Arachne HP:301/350 MP:150/157
-2-Black Maria HP:299/348 MP:337/337
-3-Cancelar
+1-Flynn HP:971/971 MP:527/527
+2-Da Peng HP:611/634 MP:126/126
+3-Lord Nan Dou HP:514/549 MP:108/108
+4-Ishtar HP:258/258 MP:251/251
+5-Cancelar
 INPUT: 1
 ----------------------------------------
-Arachne ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1267/1309 MP:582/613
-B-Pale Rider HP:429/693 MP:266/310
-C-Samael HP:824/945 MP:189/189
-D-Arachne HP:301/350 MP:150/157
-Equipo de Yu (J2)
-A-Yu HP:95/597 MP:332/347
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Pale Rider
-2-Aleph
-3-Samael
-4-Arachne
-----------------------------------------
-Seleccione una acción para Pale Rider
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Black Maria HP:299/348 MP:337/337
-2-Centaur HP:104/104 MP:15/19
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Centaur ha sido invocado
+Centaur ataca a Flynn
+Flynn recibe 4 de daño
+Flynn termina con HP:967/971
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Yu (J2)
+Ronda de Flynn (J2)
 ----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1267/1309 MP:582/613
-B-Centaur HP:104/104 MP:15/19
-C-Samael HP:824/945 MP:189/189
-D-Arachne HP:301/350 MP:150/157
-Equipo de Yu (J2)
-A-Yu HP:95/597 MP:332/347
-B-
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Centaur HP:104/104 MP:14/19
 C-
 D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:527/527
+B-Da Peng HP:611/634 MP:126/126
+C-Lord Nan Dou HP:514/549 MP:108/108
+D-Ishtar HP:258/258 MP:251/251
 ----------------------------------------
-Full Turns: 1
+Full Turns: 4
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Yu
+1-Flynn
+2-Da Peng
+3-Lord Nan Dou
+4-Ishtar
 ----------------------------------------
-Seleccione una acción para Yu
+Seleccione una acción para Flynn
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -2785,282 +408,338 @@ INPUT: 5
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1267/1309 MP:582/613
-B-Centaur HP:104/104 MP:15/19
-C-Samael HP:824/945 MP:189/189
-D-Arachne HP:301/350 MP:150/157
-Equipo de Yu (J2)
-A-Yu HP:95/597 MP:332/347
-B-
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Centaur HP:104/104 MP:14/19
 C-
 D-
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Yu
-----------------------------------------
-Seleccione una acción para Yu
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Tsuchigumo HP:280/280 MP:126/126
-2-Goblin HP:322/322 MP:63/63
-3-Taown HP:709/709 MP:140/140
-4-Ometeotl HP:324/324 MP:315/315
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una posición para invocar
-1-Vacío (Puesto 2)
-2-Vacío (Puesto 3)
-3-Vacío (Puesto 4)
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Yu
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Yu use
-1-Agidyne MP:14
-2-Bufula MP:8
-3-Zan MP:5
-4-Axel Claw MP:15
-5-Samarecarm MP:40
-6-Tathlum Shot MP:7
-7-Cancelar
-INPUT: 7
-----------------------------------------
-Seleccione una acción para Yu
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Yu
-1-Aleph HP:1267/1309 MP:582/613
-2-Centaur HP:104/104 MP:15/19
-3-Samael HP:824/945 MP:189/189
-4-Arachne HP:301/350 MP:150/157
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Yu dispara a Aleph
-Aleph bloquea el ataque de Yu
-Aleph termina con HP:1267/1309
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Aleph (J1)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1267/1309 MP:582/613
-B-Centaur HP:104/104 MP:15/19
-C-Samael HP:824/945 MP:189/189
-D-Arachne HP:301/350 MP:150/157
-Equipo de Yu (J2)
-A-Yu HP:95/597 MP:332/347
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Samael
-3-Arachne
-4-Centaur
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Aleph use
-1-Berserker God MP:12
-2-Zio MP:5
-3-Diarahan MP:16
-4-Diarama MP:9
-5-Lunge MP:6
-6-Grand Tack MP:11
-7-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Aleph
-1-Yu HP:95/597 MP:332/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Aleph use
-1-Berserker God MP:12
-2-Zio MP:5
-3-Diarahan MP:16
-4-Diarama MP:9
-5-Lunge MP:6
-6-Grand Tack MP:11
-7-Cancelar
-INPUT: 7
-----------------------------------------
-Seleccione una acción para Aleph
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Pale Rider HP:429/693 MP:266/310
-2-Black Maria HP:299/348 MP:337/337
-3-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una posición para invocar
-1-Centaur HP:104/104 MP:15/19 (Puesto 2)
-2-Samael HP:824/945 MP:189/189 (Puesto 3)
-3-Arachne HP:301/350 MP:150/157 (Puesto 4)
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Black Maria ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1267/1309 MP:582/613
-B-Centaur HP:104/104 MP:15/19
-C-Samael HP:824/945 MP:189/189
-D-Black Maria HP:299/348 MP:337/337
-Equipo de Yu (J2)
-A-Yu HP:95/597 MP:332/347
-B-
-C-
-D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:527/527
+B-Da Peng HP:611/634 MP:126/126
+C-Lord Nan Dou HP:514/549 MP:108/108
+D-Ishtar HP:258/258 MP:251/251
 ----------------------------------------
 Full Turns: 3
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Samael
-2-Black Maria
-3-Centaur
-4-Aleph
+1-Da Peng
+2-Lord Nan Dou
+3-Ishtar
+4-Flynn
 ----------------------------------------
-Seleccione una acción para Samael
+Seleccione una acción para Da Peng
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Guedhe HP:511/511 MP:229/229
+2-Cancelar
 INPUT: 2
 ----------------------------------------
-Seleccione una habilidad para que Samael use
-1-Diarahan MP:16
-2-Sea of Chaos MP:45
-3-Pandemic Bomb MP:11
-4-Poison Breath MP:11
-5-Doping MP:45
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Da Peng
+1-Kei HP:760/760 MP:398/398
+2-Centaur HP:104/104 MP:14/19
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Da Peng ataca a Kei
+Kei es resistente el ataque de Da Peng
+Kei recibe 24 de daño
+Kei termina con HP:736/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:736/760 MP:398/398
+B-Centaur HP:104/104 MP:14/19
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:527/527
+B-Da Peng HP:611/634 MP:126/126
+C-Lord Nan Dou HP:514/549 MP:108/108
+D-Ishtar HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Ishtar
+3-Flynn
+4-Da Peng
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:736/760 MP:398/398
+B-Centaur HP:104/104 MP:14/19
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:527/527
+B-Da Peng HP:611/634 MP:126/126
+C-Lord Nan Dou HP:514/549 MP:108/108
+D-Ishtar HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ishtar
+2-Flynn
+3-Da Peng
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Guedhe HP:511/511 MP:229/229
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Guedhe ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:736/760 MP:398/398
+B-Centaur HP:104/104 MP:14/19
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:527/527
+B-Da Peng HP:611/634 MP:126/126
+C-Lord Nan Dou HP:514/549 MP:108/108
+D-Guedhe HP:511/511 MP:229/229
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Da Peng
+3-Lord Nan Dou
+4-Guedhe
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ishtar HP:258/258 MP:251/251
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Da Peng HP:611/634 MP:126/126 (Puesto 2)
+2-Lord Nan Dou HP:514/549 MP:108/108 (Puesto 3)
+3-Guedhe HP:511/511 MP:229/229 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Ishtar ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:736/760 MP:398/398
+B-Centaur HP:104/104 MP:14/19
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:527/527
+B-Da Peng HP:611/634 MP:126/126
+C-Lord Nan Dou HP:514/549 MP:108/108
+D-Ishtar HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Da Peng
+2-Lord Nan Dou
+3-Ishtar
+4-Flynn
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Guedhe HP:511/511 MP:229/229
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Guedhe ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:736/760 MP:398/398
+B-Centaur HP:104/104 MP:14/19
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:527/527
+B-Guedhe HP:511/511 MP:229/229
+C-Lord Nan Dou HP:514/549 MP:108/108
+D-Ishtar HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Ishtar
+3-Flynn
+4-Guedhe
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Kei HP:736/760 MP:398/398
+2-Centaur HP:104/104 MP:14/19
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Lord Nan Dou ataca a Centaur
+Centaur recibe 41 de daño
+Centaur termina con HP:63/104
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:736/760 MP:398/398
+B-Centaur HP:63/104 MP:14/19
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:527/527
+B-Guedhe HP:511/511 MP:229/229
+C-Lord Nan Dou HP:514/549 MP:108/108
+D-Ishtar HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Centaur
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Flynn HP:967/971 MP:527/527
+2-Guedhe HP:511/511 MP:229/229
+3-Lord Nan Dou HP:514/549 MP:108/108
+4-Ishtar HP:258/258 MP:251/251
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Zio MP:5
+2-Tathlum Shot MP:7
+3-Zandyne MP:14
+4-Diarama MP:9
+5-Sabbatma MP:20
 6-Cancelar
-INPUT: 6
+INPUT: 2
 ----------------------------------------
-Seleccione una acción para Samael
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
+Seleccione un objetivo para Kei
+1-Flynn HP:967/971 MP:527/527
+2-Guedhe HP:511/511 MP:229/229
+3-Lord Nan Dou HP:514/549 MP:108/108
+4-Ishtar HP:258/258 MP:251/251
+5-Cancelar
+INPUT: 2
 ----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Kei dispara a Guedhe
+Guedhe recibe 47 de daño
+Guedhe termina con HP:464/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1267/1309 MP:582/613
-B-Centaur HP:104/104 MP:15/19
-C-Samael HP:824/945 MP:189/189
-D-Black Maria HP:299/348 MP:337/337
-Equipo de Yu (J2)
-A-Yu HP:95/597 MP:332/347
-B-
+Equipo de Kei (J1)
+A-Kei HP:736/760 MP:391/398
+B-Centaur HP:63/104 MP:14/19
 C-
 D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:527/527
+B-Guedhe HP:464/511 MP:229/229
+C-Lord Nan Dou HP:514/549 MP:108/108
+D-Ishtar HP:258/258 MP:251/251
 ----------------------------------------
-Full Turns: 3
+Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Black Maria
-2-Centaur
-3-Aleph
-4-Samael
+1-Centaur
+2-Kei
 ----------------------------------------
-Seleccione una acción para Black Maria
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Black Maria use
-1-Mediarahan MP:40
-2-Lullaby MP:11
-3-Ziodyne MP:14
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Black Maria
-1-Yu HP:95/597 MP:332/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Black Maria
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Black Maria use
-1-Mediarahan MP:40
-2-Lullaby MP:11
-3-Ziodyne MP:14
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Black Maria
+Seleccione una acción para Centaur
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -3070,69 +749,25 @@ INPUT: 4
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1267/1309 MP:582/613
-B-Centaur HP:104/104 MP:15/19
-C-Samael HP:824/945 MP:189/189
-D-Black Maria HP:299/348 MP:337/337
-Equipo de Yu (J2)
-A-Yu HP:95/597 MP:332/347
-B-
+Equipo de Kei (J1)
+A-Kei HP:736/760 MP:391/398
+B-Centaur HP:63/104 MP:14/19
 C-
 D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:527/527
+B-Guedhe HP:464/511 MP:229/229
+C-Lord Nan Dou HP:514/549 MP:108/108
+D-Ishtar HP:258/258 MP:251/251
 ----------------------------------------
-Full Turns: 2
+Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Centaur
-2-Aleph
-3-Samael
-4-Black Maria
+1-Kei
+2-Centaur
 ----------------------------------------
-Seleccione una acción para Centaur
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Centaur
-1-Yu HP:95/597 MP:332/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Centaur
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1267/1309 MP:582/613
-B-Centaur HP:104/104 MP:15/19
-C-Samael HP:824/945 MP:189/189
-D-Black Maria HP:299/348 MP:337/337
-Equipo de Yu (J2)
-A-Yu HP:95/597 MP:332/347
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Aleph
-2-Samael
-3-Black Maria
-4-Centaur
-----------------------------------------
-Seleccione una acción para Aleph
+Seleccione una acción para Kei
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -3141,214 +776,129 @@ Seleccione una acción para Aleph
 6: Rendirse
 INPUT: 5
 ----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1267/1309 MP:582/613
-B-Centaur HP:104/104 MP:15/19
-C-Samael HP:824/945 MP:189/189
-D-Black Maria HP:299/348 MP:337/337
-Equipo de Yu (J2)
-A-Yu HP:95/597 MP:332/347
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Samael
-2-Black Maria
-3-Centaur
-4-Aleph
-----------------------------------------
-Seleccione una acción para Samael
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Samael use
-1-Diarahan MP:16
-2-Sea of Chaos MP:45
-3-Pandemic Bomb MP:11
-4-Poison Breath MP:11
-5-Doping MP:45
-6-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Samael
-1-Aleph HP:1267/1309 MP:582/613
-2-Centaur HP:104/104 MP:15/19
-3-Samael HP:824/945 MP:189/189
-4-Black Maria HP:299/348 MP:337/337
-5-Pale Rider HP:429/693 MP:266/310
-6-Arachne HP:301/350 MP:150/157
-7-Cancelar
-INPUT: 6
-----------------------------------------
-Samael cura a Arachne
-Arachne recibe 350 de HP
-Arachne termina con HP:350/350
-----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1267/1309 MP:582/613
-B-Centaur HP:104/104 MP:15/19
-C-Samael HP:824/945 MP:173/189
-D-Black Maria HP:299/348 MP:337/337
-Equipo de Yu (J2)
-A-Yu HP:95/597 MP:332/347
-B-
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:736/760 MP:391/398
+B-Centaur HP:63/104 MP:14/19
 C-
 D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Black Maria
-2-Centaur
-3-Aleph
-4-Samael
-----------------------------------------
-Seleccione una acción para Black Maria
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Black Maria use
-1-Mediarahan MP:40
-2-Lullaby MP:11
-3-Ziodyne MP:14
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Black Maria
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Black Maria
-1-Yu HP:95/597 MP:332/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Black Maria ataca a Yu
-Yu es resistente el ataque de Black Maria
-Yu recibe 18 de daño
-Yu termina con HP:77/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Yu (J2)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1267/1309 MP:582/613
-B-Centaur HP:104/104 MP:15/19
-C-Samael HP:824/945 MP:173/189
-D-Black Maria HP:299/348 MP:337/337
-Equipo de Yu (J2)
-A-Yu HP:77/597 MP:332/347
-B-
-C-
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Yu
-----------------------------------------
-Seleccione una acción para Yu
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Yu
-1-Aleph HP:1267/1309 MP:582/613
-2-Centaur HP:104/104 MP:15/19
-3-Samael HP:824/945 MP:173/189
-4-Black Maria HP:299/348 MP:337/337
-5-Cancelar
-INPUT: 4
-----------------------------------------
-Yu ataca a Black Maria
-Black Maria recibe 49 de daño
-Black Maria termina con HP:250/348
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Aleph (J1)
-----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1267/1309 MP:582/613
-B-Centaur HP:104/104 MP:15/19
-C-Samael HP:824/945 MP:173/189
-D-Black Maria HP:250/348 MP:337/337
-Equipo de Yu (J2)
-A-Yu HP:77/597 MP:332/347
-B-
-C-
-D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:527/527
+B-Guedhe HP:464/511 MP:229/229
+C-Lord Nan Dou HP:514/549 MP:108/108
+D-Ishtar HP:258/258 MP:251/251
 ----------------------------------------
 Full Turns: 4
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Aleph
-2-Samael
-3-Black Maria
-4-Centaur
+1-Flynn
+2-Guedhe
+3-Lord Nan Dou
+4-Ishtar
 ----------------------------------------
-Seleccione una acción para Aleph
+Seleccione una acción para Flynn
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 5
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Da Peng HP:611/634 MP:126/126
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Guedhe HP:464/511 MP:229/229 (Puesto 2)
+2-Lord Nan Dou HP:514/549 MP:108/108 (Puesto 3)
+3-Ishtar HP:258/258 MP:251/251 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Da Peng HP:611/634 MP:126/126
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Guedhe HP:464/511 MP:229/229 (Puesto 2)
+2-Lord Nan Dou HP:514/549 MP:108/108 (Puesto 3)
+3-Ishtar HP:258/258 MP:251/251 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Da Peng ha sido invocado
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1267/1309 MP:582/613
-B-Centaur HP:104/104 MP:15/19
-C-Samael HP:824/945 MP:173/189
-D-Black Maria HP:250/348 MP:337/337
-Equipo de Yu (J2)
-A-Yu HP:77/597 MP:332/347
-B-
+Equipo de Kei (J1)
+A-Kei HP:736/760 MP:391/398
+B-Centaur HP:63/104 MP:14/19
 C-
 D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:527/527
+B-Guedhe HP:464/511 MP:229/229
+C-Da Peng HP:611/634 MP:126/126
+D-Ishtar HP:258/258 MP:251/251
 ----------------------------------------
 Full Turns: 3
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Samael
-2-Black Maria
-3-Centaur
-4-Aleph
+1-Guedhe
+2-Da Peng
+3-Ishtar
+4-Flynn
 ----------------------------------------
-Seleccione una acción para Samael
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:736/760 MP:391/398
+B-Centaur HP:63/104 MP:14/19
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:527/527
+B-Guedhe HP:464/511 MP:229/229
+C-Da Peng HP:611/634 MP:126/126
+D-Ishtar HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Ishtar
+3-Flynn
+4-Guedhe
+----------------------------------------
+Seleccione una acción para Da Peng
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -3356,42 +906,51 @@ Seleccione una acción para Samael
 INPUT: 3
 ----------------------------------------
 Seleccione un monstruo para invocar
-1-Pale Rider HP:429/693 MP:266/310
-2-Arachne HP:350/350 MP:150/157
-3-Cancelar
-INPUT: 3
+1-Lord Nan Dou HP:514/549 MP:108/108
+2-Cancelar
+INPUT: 2
 ----------------------------------------
-Seleccione una acción para Samael
+Seleccione una acción para Da Peng
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 4
+INPUT: 1
 ----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Seleccione un objetivo para Da Peng
+1-Kei HP:736/760 MP:391/398
+2-Centaur HP:63/104 MP:14/19
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Da Peng ataca a Centaur
+Centaur recibe 48 de daño
+Centaur termina con HP:15/104
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1267/1309 MP:582/613
-B-Centaur HP:104/104 MP:15/19
-C-Samael HP:824/945 MP:173/189
-D-Black Maria HP:250/348 MP:337/337
-Equipo de Yu (J2)
-A-Yu HP:77/597 MP:332/347
-B-
+Equipo de Kei (J1)
+A-Kei HP:736/760 MP:391/398
+B-Centaur HP:15/104 MP:14/19
 C-
 D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:527/527
+B-Guedhe HP:464/511 MP:229/229
+C-Da Peng HP:611/634 MP:126/126
+D-Ishtar HP:258/258 MP:251/251
 ----------------------------------------
-Full Turns: 3
+Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Black Maria
-2-Centaur
-3-Aleph
-4-Samael
+1-Ishtar
+2-Flynn
+3-Guedhe
+4-Da Peng
 ----------------------------------------
-Seleccione una acción para Black Maria
+Seleccione una acción para Ishtar
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -3401,27 +960,132 @@ INPUT: 4
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1267/1309 MP:582/613
-B-Centaur HP:104/104 MP:15/19
-C-Samael HP:824/945 MP:173/189
-D-Black Maria HP:250/348 MP:337/337
-Equipo de Yu (J2)
-A-Yu HP:77/597 MP:332/347
-B-
+Equipo de Kei (J1)
+A-Kei HP:736/760 MP:391/398
+B-Centaur HP:15/104 MP:14/19
 C-
 D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:527/527
+B-Guedhe HP:464/511 MP:229/229
+C-Da Peng HP:611/634 MP:126/126
+D-Ishtar HP:258/258 MP:251/251
 ----------------------------------------
-Full Turns: 2
+Full Turns: 1
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Centaur
-2-Aleph
-3-Samael
-4-Black Maria
+1-Flynn
+2-Guedhe
+3-Da Peng
+4-Ishtar
 ----------------------------------------
-Seleccione una acción para Centaur
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Axel Claw MP:15
+2-Berserker God MP:12
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:736/760 MP:391/398
+2-Centaur HP:15/104 MP:14/19
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn ataca a Centaur
+Centaur recibe 88 de daño
+Centaur termina con HP:0/104
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:736/760 MP:391/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:527/527
+B-Guedhe HP:464/511 MP:229/229
+C-Da Peng HP:611/634 MP:126/126
+D-Ishtar HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Guedhe
+2-Da Peng
+3-Ishtar
+4-Flynn
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Guedhe use
+1-Mudoon MP:10
+2-Recarm MP:20
+3-Megidola MP:40
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Guedhe
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:736/760 MP:391/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:527/527
+B-Guedhe HP:464/511 MP:229/229
+C-Da Peng HP:611/634 MP:126/126
+D-Ishtar HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Da Peng
+2-Ishtar
+3-Flynn
+4-Guedhe
+----------------------------------------
+Seleccione una acción para Da Peng
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -3431,27 +1095,26 @@ INPUT: 4
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Aleph (J1)
-A-Aleph HP:1267/1309 MP:582/613
-B-Centaur HP:104/104 MP:15/19
-C-Samael HP:824/945 MP:173/189
-D-Black Maria HP:250/348 MP:337/337
-Equipo de Yu (J2)
-A-Yu HP:77/597 MP:332/347
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:736/760 MP:391/398
 B-
 C-
 D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:527/527
+B-Guedhe HP:464/511 MP:229/229
+C-Da Peng HP:611/634 MP:126/126
+D-Ishtar HP:258/258 MP:251/251
 ----------------------------------------
-Full Turns: 2
+Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Aleph
-2-Samael
-3-Black Maria
-4-Centaur
+1-Kei
 ----------------------------------------
-Seleccione una acción para Aleph
+Seleccione una acción para Kei
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -3460,16 +1123,2656 @@ Seleccione una acción para Aleph
 6: Rendirse
 INPUT: 2
 ----------------------------------------
-Seleccione un objetivo para Aleph
-1-Yu HP:77/597 MP:332/347
-2-Cancelar
-INPUT: 1
+Seleccione un objetivo para Kei
+1-Flynn HP:967/971 MP:527/527
+2-Guedhe HP:464/511 MP:229/229
+3-Da Peng HP:611/634 MP:126/126
+4-Ishtar HP:258/258 MP:251/251
+5-Cancelar
+INPUT: 2
 ----------------------------------------
-Aleph dispara a Yu
-Yu recibe 276 de daño
-Yu termina con HP:0/597
+Kei dispara a Guedhe
+Guedhe recibe 15 de daño
+Guedhe termina con HP:449/511
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ganador: Aleph (J1)
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:736/760 MP:391/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:527/527
+B-Guedhe HP:449/511 MP:229/229
+C-Da Peng HP:611/634 MP:126/126
+D-Ishtar HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Guedhe
+3-Da Peng
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Axel Claw MP:15
+2-Berserker God MP:12
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lord Nan Dou HP:514/549 MP:108/108
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Guedhe HP:449/511 MP:229/229 (Puesto 2)
+2-Da Peng HP:611/634 MP:126/126 (Puesto 3)
+3-Ishtar HP:258/258 MP:251/251 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Lord Nan Dou ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:736/760 MP:391/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:527/527
+B-Guedhe HP:449/511 MP:229/229
+C-Da Peng HP:611/634 MP:126/126
+D-Lord Nan Dou HP:514/549 MP:108/108
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Guedhe
+2-Da Peng
+3-Lord Nan Dou
+4-Flynn
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ishtar HP:258/258 MP:251/251
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Guedhe use
+1-Mudoon MP:10
+2-Recarm MP:20
+3-Megidola MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Guedhe
+1-Kei HP:736/760 MP:391/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Guedhe ataca a Kei
+Kei es resistente el ataque de Guedhe
+Kei recibe 21 de daño
+Kei termina con HP:715/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:715/760 MP:391/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:527/527
+B-Guedhe HP:449/511 MP:229/229
+C-Da Peng HP:611/634 MP:126/126
+D-Lord Nan Dou HP:514/549 MP:108/108
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Lord Nan Dou
+3-Flynn
+4-Guedhe
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Da Peng
+1-Kei HP:715/760 MP:391/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:715/760 MP:391/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:527/527
+B-Guedhe HP:449/511 MP:229/229
+C-Da Peng HP:611/634 MP:126/126
+D-Lord Nan Dou HP:514/549 MP:108/108
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Flynn
+3-Guedhe
+4-Da Peng
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lord Nan Dou use
+1-Maragidyne MP:32
+2-Berserker God MP:12
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Kei HP:715/760 MP:391/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lord Nan Dou ataca a Kei
+Kei es resistente el ataque de Lord Nan Dou
+Kei recibe 64 de daño
+Kei termina con HP:651/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:651/760 MP:391/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:527/527
+B-Guedhe HP:449/511 MP:229/229
+C-Da Peng HP:611/634 MP:126/126
+D-Lord Nan Dou HP:514/549 MP:96/108
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Guedhe
+3-Da Peng
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ishtar HP:258/258 MP:251/251
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Axel Claw MP:15
+2-Berserker God MP:12
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:651/760 MP:391/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:527/527
+B-Guedhe HP:449/511 MP:229/229
+C-Da Peng HP:611/634 MP:126/126
+D-Lord Nan Dou HP:514/549 MP:96/108
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Guedhe
+2-Da Peng
+3-Lord Nan Dou
+4-Flynn
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ishtar HP:258/258 MP:251/251
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ishtar ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:651/760 MP:391/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:527/527
+B-Ishtar HP:258/258 MP:251/251
+C-Da Peng HP:611/634 MP:126/126
+D-Lord Nan Dou HP:514/549 MP:96/108
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Lord Nan Dou
+3-Flynn
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Da Peng
+1-Kei HP:651/760 MP:391/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Guedhe HP:449/511 MP:229/229
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Guedhe HP:449/511 MP:229/229
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Guedhe ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:651/760 MP:391/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:527/527
+B-Ishtar HP:258/258 MP:251/251
+C-Guedhe HP:449/511 MP:229/229
+D-Lord Nan Dou HP:514/549 MP:96/108
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Flynn
+3-Ishtar
+4-Guedhe
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lord Nan Dou use
+1-Maragidyne MP:32
+2-Berserker God MP:12
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Kei HP:651/760 MP:391/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Kei HP:651/760 MP:391/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:651/760 MP:391/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:527/527
+B-Ishtar HP:258/258 MP:251/251
+C-Guedhe HP:449/511 MP:229/229
+D-Lord Nan Dou HP:514/549 MP:96/108
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Flynn HP:967/971 MP:527/527
+2-Ishtar HP:258/258 MP:251/251
+3-Guedhe HP:449/511 MP:229/229
+4-Lord Nan Dou HP:514/549 MP:96/108
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kei ataca a Guedhe
+Guedhe recibe 19 de daño
+Guedhe termina con HP:430/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:651/760 MP:391/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:527/527
+B-Ishtar HP:258/258 MP:251/251
+C-Guedhe HP:430/511 MP:229/229
+D-Lord Nan Dou HP:514/549 MP:96/108
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Guedhe
+3-Lord Nan Dou
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Axel Claw MP:15
+2-Berserker God MP:12
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:651/760 MP:391/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Axel Claw MP:15
+2-Berserker God MP:12
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:651/760 MP:391/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:527/527
+B-Ishtar HP:258/258 MP:251/251
+C-Guedhe HP:430/511 MP:229/229
+D-Lord Nan Dou HP:514/549 MP:96/108
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Guedhe
+2-Lord Nan Dou
+3-Ishtar
+4-Flynn
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Guedhe use
+1-Mudoon MP:10
+2-Recarm MP:20
+3-Megidola MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:651/760 MP:391/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:527/527
+B-Ishtar HP:258/258 MP:251/251
+C-Guedhe HP:430/511 MP:229/229
+D-Lord Nan Dou HP:514/549 MP:96/108
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Ishtar
+3-Flynn
+4-Guedhe
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Da Peng HP:611/634 MP:126/126
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:651/760 MP:391/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:527/527
+B-Ishtar HP:258/258 MP:251/251
+C-Guedhe HP:430/511 MP:229/229
+D-Lord Nan Dou HP:514/549 MP:96/108
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ishtar
+2-Flynn
+3-Guedhe
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ishtar use
+1-Megidola MP:40
+2-Doping MP:45
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Da Peng HP:611/634 MP:126/126
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Da Peng ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:651/760 MP:391/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:527/527
+B-Da Peng HP:611/634 MP:126/126
+C-Guedhe HP:430/511 MP:229/229
+D-Lord Nan Dou HP:514/549 MP:96/108
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Guedhe
+3-Lord Nan Dou
+4-Da Peng
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ishtar HP:258/258 MP:251/251
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:651/760 MP:391/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:651/760 MP:391/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:651/760 MP:391/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Kei
+Kei es resistente el ataque de Flynn
+Kei recibe 44 de daño
+Kei termina con HP:607/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:607/760 MP:391/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:527/527
+B-Da Peng HP:611/634 MP:126/126
+C-Guedhe HP:430/511 MP:229/229
+D-Lord Nan Dou HP:514/549 MP:96/108
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Guedhe
+2-Lord Nan Dou
+3-Da Peng
+4-Flynn
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Guedhe use
+1-Mudoon MP:10
+2-Recarm MP:20
+3-Megidola MP:40
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Guedhe
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:607/760 MP:391/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:527/527
+B-Da Peng HP:611/634 MP:126/126
+C-Guedhe HP:430/511 MP:229/229
+D-Lord Nan Dou HP:514/549 MP:96/108
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Da Peng
+3-Flynn
+4-Guedhe
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Kei HP:607/760 MP:391/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lord Nan Dou ataca a Kei
+Kei es resistente el ataque de Lord Nan Dou
+Kei recibe 20 de daño
+Kei termina con HP:587/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:587/760 MP:391/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:527/527
+B-Da Peng HP:611/634 MP:126/126
+C-Guedhe HP:430/511 MP:229/229
+D-Lord Nan Dou HP:514/549 MP:96/108
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Flynn HP:967/971 MP:527/527
+2-Da Peng HP:611/634 MP:126/126
+3-Guedhe HP:430/511 MP:229/229
+4-Lord Nan Dou HP:514/549 MP:96/108
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kei ataca a Da Peng
+Da Peng recibe 19 de daño
+Da Peng termina con HP:592/634
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:587/760 MP:391/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:527/527
+B-Da Peng HP:592/634 MP:126/126
+C-Guedhe HP:430/511 MP:229/229
+D-Lord Nan Dou HP:514/549 MP:96/108
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Guedhe
+3-Da Peng
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Axel Claw MP:15
+2-Berserker God MP:12
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:587/760 MP:391/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Kei
+Kei es resistente el ataque de Flynn
+Kei recibe 94 de daño
+Kei termina con HP:493/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:493/760 MP:391/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:515/527
+B-Da Peng HP:592/634 MP:126/126
+C-Guedhe HP:430/511 MP:229/229
+D-Lord Nan Dou HP:514/549 MP:96/108
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Guedhe
+2-Da Peng
+3-Lord Nan Dou
+4-Flynn
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Guedhe
+1-Kei HP:493/760 MP:391/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:493/760 MP:391/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:515/527
+B-Da Peng HP:592/634 MP:126/126
+C-Guedhe HP:430/511 MP:229/229
+D-Lord Nan Dou HP:514/549 MP:96/108
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Da Peng
+2-Lord Nan Dou
+3-Flynn
+4-Guedhe
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:493/760 MP:391/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:515/527
+B-Da Peng HP:592/634 MP:126/126
+C-Guedhe HP:430/511 MP:229/229
+D-Lord Nan Dou HP:514/549 MP:96/108
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Flynn
+3-Guedhe
+4-Da Peng
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ishtar HP:258/258 MP:251/251
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ishtar ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:493/760 MP:391/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:515/527
+B-Da Peng HP:592/634 MP:126/126
+C-Guedhe HP:430/511 MP:229/229
+D-Ishtar HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Flynn
+2-Guedhe
+3-Da Peng
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:493/760 MP:391/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:493/760 MP:391/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Kei
+Kei es resistente el ataque de Flynn
+Kei recibe 44 de daño
+Kei termina con HP:449/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:449/760 MP:391/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:515/527
+B-Da Peng HP:592/634 MP:126/126
+C-Guedhe HP:430/511 MP:229/229
+D-Ishtar HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Guedhe
+2-Da Peng
+3-Ishtar
+4-Flynn
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lord Nan Dou HP:514/549 MP:96/108
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lord Nan Dou ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:449/760 MP:391/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:515/527
+B-Da Peng HP:592/634 MP:126/126
+C-Lord Nan Dou HP:514/549 MP:96/108
+D-Ishtar HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Da Peng
+2-Ishtar
+3-Flynn
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:449/760 MP:391/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:515/527
+B-Da Peng HP:592/634 MP:126/126
+C-Lord Nan Dou HP:514/549 MP:96/108
+D-Ishtar HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Flynn HP:967/971 MP:515/527
+2-Da Peng HP:592/634 MP:126/126
+3-Lord Nan Dou HP:514/549 MP:96/108
+4-Ishtar HP:258/258 MP:251/251
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kei ataca a Lord Nan Dou
+Lord Nan Dou recibe 19 de daño
+Lord Nan Dou termina con HP:495/549
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:449/760 MP:391/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:515/527
+B-Da Peng HP:592/634 MP:126/126
+C-Lord Nan Dou HP:495/549 MP:96/108
+D-Ishtar HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Da Peng
+3-Lord Nan Dou
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:449/760 MP:391/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:515/527
+B-Da Peng HP:592/634 MP:126/126
+C-Lord Nan Dou HP:495/549 MP:96/108
+D-Ishtar HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Da Peng
+2-Lord Nan Dou
+3-Ishtar
+4-Flynn
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Da Peng use
+1-Zandyne MP:14
+2-Panic Voice MP:15
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Da Peng
+1-Kei HP:449/760 MP:391/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:449/760 MP:391/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:515/527
+B-Da Peng HP:592/634 MP:126/126
+C-Lord Nan Dou HP:495/549 MP:96/108
+D-Ishtar HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Ishtar
+3-Flynn
+4-Da Peng
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lord Nan Dou use
+1-Maragidyne MP:32
+2-Berserker God MP:12
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:449/760 MP:391/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:515/527
+B-Da Peng HP:592/634 MP:126/126
+C-Lord Nan Dou HP:495/549 MP:96/108
+D-Ishtar HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ishtar
+2-Flynn
+3-Da Peng
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Kei HP:449/760 MP:391/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:449/760 MP:391/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:515/527
+B-Da Peng HP:592/634 MP:126/126
+C-Lord Nan Dou HP:495/549 MP:96/108
+D-Ishtar HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Da Peng
+3-Lord Nan Dou
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Axel Claw MP:15
+2-Berserker God MP:12
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:449/760 MP:391/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:449/760 MP:391/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:449/760 MP:391/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Kei
+Kei es resistente el ataque de Flynn
+Kei recibe 55 de daño
+Kei termina con HP:394/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:394/760 MP:391/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:515/527
+B-Da Peng HP:592/634 MP:126/126
+C-Lord Nan Dou HP:495/549 MP:96/108
+D-Ishtar HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Lord Nan Dou
+3-Ishtar
+4-Flynn
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Da Peng
+1-Kei HP:394/760 MP:391/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Da Peng ataca a Kei
+Kei es resistente el ataque de Da Peng
+Kei recibe 24 de daño
+Kei termina con HP:370/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:370/760 MP:391/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:967/971 MP:515/527
+B-Da Peng HP:592/634 MP:126/126
+C-Lord Nan Dou HP:495/549 MP:96/108
+D-Ishtar HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Zio MP:5
+2-Tathlum Shot MP:7
+3-Zandyne MP:14
+4-Diarama MP:9
+5-Sabbatma MP:20
+6-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Flynn HP:967/971 MP:515/527
+2-Da Peng HP:592/634 MP:126/126
+3-Lord Nan Dou HP:495/549 MP:96/108
+4-Ishtar HP:258/258 MP:251/251
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kei dispara a Flynn
+Flynn recibe 47 de daño
+Flynn termina con HP:920/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:370/760 MP:384/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:920/971 MP:515/527
+B-Da Peng HP:592/634 MP:126/126
+C-Lord Nan Dou HP:495/549 MP:96/108
+D-Ishtar HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Da Peng
+3-Lord Nan Dou
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:370/760 MP:384/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:920/971 MP:515/527
+B-Da Peng HP:592/634 MP:126/126
+C-Lord Nan Dou HP:495/549 MP:96/108
+D-Ishtar HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Da Peng
+2-Lord Nan Dou
+3-Ishtar
+4-Flynn
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Da Peng use
+1-Zandyne MP:14
+2-Panic Voice MP:15
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Da Peng
+1-Kei HP:370/760 MP:384/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Da Peng lanza viento a Kei
+Kei es resistente el ataque de Da Peng
+Kei recibe 53 de daño
+Kei termina con HP:317/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:317/760 MP:384/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:920/971 MP:515/527
+B-Da Peng HP:592/634 MP:112/126
+C-Lord Nan Dou HP:495/549 MP:96/108
+D-Ishtar HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Ishtar
+3-Flynn
+4-Da Peng
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:317/760 MP:384/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:920/971 MP:515/527
+B-Da Peng HP:592/634 MP:112/126
+C-Lord Nan Dou HP:495/549 MP:96/108
+D-Ishtar HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ishtar
+2-Flynn
+3-Da Peng
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:317/760 MP:384/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:920/971 MP:515/527
+B-Da Peng HP:592/634 MP:112/126
+C-Lord Nan Dou HP:495/549 MP:96/108
+D-Ishtar HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Da Peng
+3-Lord Nan Dou
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Axel Claw MP:15
+2-Berserker God MP:12
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:317/760 MP:384/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Kei
+Kei es resistente el ataque de Flynn
+Kei recibe 88 de daño
+Kei termina con HP:229/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:229/760 MP:384/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:920/971 MP:500/527
+B-Da Peng HP:592/634 MP:112/126
+C-Lord Nan Dou HP:495/549 MP:96/108
+D-Ishtar HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Lord Nan Dou
+3-Ishtar
+4-Flynn
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Guedhe HP:430/511 MP:229/229
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:229/760 MP:384/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:920/971 MP:500/527
+B-Da Peng HP:592/634 MP:112/126
+C-Lord Nan Dou HP:495/549 MP:96/108
+D-Ishtar HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Ishtar
+3-Flynn
+4-Da Peng
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Guedhe HP:430/511 MP:229/229
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Guedhe ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:229/760 MP:384/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:920/971 MP:500/527
+B-Da Peng HP:592/634 MP:112/126
+C-Guedhe HP:430/511 MP:229/229
+D-Ishtar HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Flynn HP:920/971 MP:500/527
+2-Da Peng HP:592/634 MP:112/126
+3-Guedhe HP:430/511 MP:229/229
+4-Ishtar HP:258/258 MP:251/251
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kei ataca a Guedhe
+Guedhe recibe 19 de daño
+Guedhe termina con HP:411/511
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:229/760 MP:384/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:920/971 MP:500/527
+B-Da Peng HP:592/634 MP:112/126
+C-Guedhe HP:411/511 MP:229/229
+D-Ishtar HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Guedhe
+3-Da Peng
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lord Nan Dou HP:495/549 MP:96/108
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Da Peng HP:592/634 MP:112/126 (Puesto 2)
+2-Guedhe HP:411/511 MP:229/229 (Puesto 3)
+3-Ishtar HP:258/258 MP:251/251 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Lord Nan Dou ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:229/760 MP:384/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:920/971 MP:500/527
+B-Da Peng HP:592/634 MP:112/126
+C-Lord Nan Dou HP:495/549 MP:96/108
+D-Ishtar HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Da Peng
+3-Ishtar
+4-Flynn
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:229/760 MP:384/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:920/971 MP:500/527
+B-Da Peng HP:592/634 MP:112/126
+C-Lord Nan Dou HP:495/549 MP:96/108
+D-Ishtar HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Ishtar
+3-Flynn
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Da Peng use
+1-Zandyne MP:14
+2-Panic Voice MP:15
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Da Peng
+1-Kei HP:229/760 MP:384/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Da Peng lanza viento a Kei
+Kei es resistente el ataque de Da Peng
+Kei recibe 53 de daño
+Kei termina con HP:176/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:176/760 MP:384/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:920/971 MP:500/527
+B-Da Peng HP:592/634 MP:98/126
+C-Lord Nan Dou HP:495/549 MP:96/108
+D-Ishtar HP:258/258 MP:251/251
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ishtar
+2-Flynn
+3-Lord Nan Dou
+4-Da Peng
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Kei HP:176/760 MP:384/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ishtar use
+1-Megidola MP:40
+2-Doping MP:45
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Guedhe HP:411/511 MP:229/229
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Guedhe ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:176/760 MP:384/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:920/971 MP:500/527
+B-Da Peng HP:592/634 MP:98/126
+C-Lord Nan Dou HP:495/549 MP:96/108
+D-Guedhe HP:411/511 MP:229/229
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Flynn
+2-Lord Nan Dou
+3-Da Peng
+4-Guedhe
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ishtar HP:258/258 MP:251/251
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ishtar HP:258/258 MP:251/251
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:176/760 MP:384/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn ataca a Kei
+Kei es resistente el ataque de Flynn
+Kei recibe 44 de daño
+Kei termina con HP:132/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:132/760 MP:384/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:920/971 MP:500/527
+B-Da Peng HP:592/634 MP:98/126
+C-Lord Nan Dou HP:495/549 MP:96/108
+D-Guedhe HP:411/511 MP:229/229
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Da Peng
+3-Guedhe
+4-Flynn
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ishtar HP:258/258 MP:251/251
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lord Nan Dou use
+1-Maragidyne MP:32
+2-Berserker God MP:12
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ishtar HP:258/258 MP:251/251
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ishtar ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:132/760 MP:384/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:920/971 MP:500/527
+B-Da Peng HP:592/634 MP:98/126
+C-Ishtar HP:258/258 MP:251/251
+D-Guedhe HP:411/511 MP:229/229
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Da Peng
+2-Guedhe
+3-Flynn
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Da Peng use
+1-Zandyne MP:14
+2-Panic Voice MP:15
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Da Peng
+1-Kei HP:132/760 MP:384/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Da Peng ataca a Kei
+Kei es resistente el ataque de Da Peng
+Kei recibe 24 de daño
+Kei termina con HP:108/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:108/760 MP:384/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:920/971 MP:500/527
+B-Da Peng HP:592/634 MP:98/126
+C-Ishtar HP:258/258 MP:251/251
+D-Guedhe HP:411/511 MP:229/229
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:108/760 MP:384/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:920/971 MP:500/527
+B-Da Peng HP:592/634 MP:98/126
+C-Ishtar HP:258/258 MP:251/251
+D-Guedhe HP:411/511 MP:229/229
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Flynn HP:920/971 MP:500/527
+2-Da Peng HP:592/634 MP:98/126
+3-Ishtar HP:258/258 MP:251/251
+4-Guedhe HP:411/511 MP:229/229
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:108/760 MP:384/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:920/971 MP:500/527
+B-Da Peng HP:592/634 MP:98/126
+C-Ishtar HP:258/258 MP:251/251
+D-Guedhe HP:411/511 MP:229/229
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Guedhe
+3-Da Peng
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Flynn use
+1-Axel Claw MP:15
+2-Berserker God MP:12
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:108/760 MP:384/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Kei
+Kei es resistente el ataque de Flynn
+Kei recibe 55 de daño
+Kei termina con HP:53/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:53/760 MP:384/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:920/971 MP:500/527
+B-Da Peng HP:592/634 MP:98/126
+C-Ishtar HP:258/258 MP:251/251
+D-Guedhe HP:411/511 MP:229/229
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Guedhe
+2-Da Peng
+3-Ishtar
+4-Flynn
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lord Nan Dou HP:495/549 MP:96/108
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Guedhe
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Guedhe
+1-Kei HP:53/760 MP:384/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Guedhe ataca a Kei
+Kei es resistente el ataque de Guedhe
+Kei recibe 21 de daño
+Kei termina con HP:32/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:32/760 MP:384/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:920/971 MP:500/527
+B-Da Peng HP:592/634 MP:98/126
+C-Ishtar HP:258/258 MP:251/251
+D-Guedhe HP:411/511 MP:229/229
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Ishtar
+3-Flynn
+4-Guedhe
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lord Nan Dou HP:495/549 MP:96/108
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lord Nan Dou ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:32/760 MP:384/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:920/971 MP:500/527
+B-Lord Nan Dou HP:495/549 MP:96/108
+C-Ishtar HP:258/258 MP:251/251
+D-Guedhe HP:411/511 MP:229/229
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ishtar
+2-Flynn
+3-Guedhe
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ishtar use
+1-Megidola MP:40
+2-Doping MP:45
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Da Peng HP:592/634 MP:98/126
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Da Peng HP:592/634 MP:98/126
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ishtar
+1-Kei HP:32/760 MP:384/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ishtar use
+1-Megidola MP:40
+2-Doping MP:45
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:32/760 MP:384/398
+B-
+C-
+D-
+Equipo de Flynn (J2)
+A-Flynn HP:920/971 MP:500/527
+B-Lord Nan Dou HP:495/549 MP:96/108
+C-Ishtar HP:258/258 MP:251/251
+D-Guedhe HP:411/511 MP:229/229
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Guedhe
+3-Lord Nan Dou
+4-Ishtar
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:32/760 MP:384/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Kei
+Kei es resistente el ataque de Flynn
+Kei recibe 55 de daño
+Kei termina con HP:0/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Flynn (J2)

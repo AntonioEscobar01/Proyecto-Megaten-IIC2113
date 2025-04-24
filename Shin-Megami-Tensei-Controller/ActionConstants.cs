@@ -17,6 +17,7 @@ public class ActionConstants
     public const int PassTurnActionMonster = 14;
 
     public const int CancelTargetSelection = 5;
+    public const int CancelInvokeSelection = 4;
     
     // Propiedades para acceso desde instancias
     public int MonsterOffset => MonsterActionOffset;

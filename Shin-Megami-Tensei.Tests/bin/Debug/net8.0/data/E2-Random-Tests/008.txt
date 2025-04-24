@@ -201,2324 +201,1051 @@ Elige un archivo para cargar los equipos
 199: 200.txt
 INPUT: 7
 ----------------------------------------
-Ronda de Yu (J1)
+Ronda de Kotone (J1)
 ----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:597/597 MP:347/347
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
 B-
 C-
 D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Peri HP:483/483 MP:216/216
-C-Virtue HP:240/240 MP:232/232
-D-Atropos HP:277/277 MP:269/269
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Pale Rider HP:693/693 MP:310/310
+C-Anubis HP:497/497 MP:223/223
+D-Fuxi HP:52/52 MP:49/49
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Yu
+1-Kotone
 ----------------------------------------
-Seleccione una acción para Yu
+Seleccione una acción para Kotone
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Yu use
-1-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione una acción para Yu
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Yu use
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Yu
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:597/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Peri HP:483/483 MP:216/216
-C-Virtue HP:240/240 MP:232/232
-D-Atropos HP:277/277 MP:269/269
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Yu
-----------------------------------------
-Seleccione una acción para Yu
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Tadano (J2)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:597/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Peri HP:483/483 MP:216/216
-C-Virtue HP:240/240 MP:232/232
-D-Atropos HP:277/277 MP:269/269
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Peri
-2-Atropos
-3-Virtue
-4-Tadano
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Peri use
-1-Diarahan MP:16
-2-Me Patra MP:15
-3-Panic Voice MP:15
-4-Maragidyne MP:32
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Tam Lin HP:218/218 MP:43/43
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Tam Lin ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:597/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Tam Lin HP:218/218 MP:43/43
-C-Virtue HP:240/240 MP:232/232
-D-Atropos HP:277/277 MP:269/269
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Atropos
-2-Virtue
-3-Tadano
-4-Tam Lin
-----------------------------------------
-Seleccione una acción para Atropos
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Atropos
+Seleccione un objetivo para Kotone
 1-Yu HP:597/597 MP:347/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Atropos
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Atropos use
-1-Hamaon MP:10
-2-Tathlum Shot MP:7
-3-Ziodyne MP:14
-4-Zandyne MP:14
+2-Pale Rider HP:693/693 MP:310/310
+3-Anubis HP:497/497 MP:223/223
+4-Fuxi HP:52/52 MP:49/49
 5-Cancelar
-INPUT: 2
+INPUT: 3
 ----------------------------------------
-Seleccione un objetivo para Atropos
-1-Yu HP:597/597 MP:347/347
-2-Cancelar
-INPUT: 2
+Kotone ataca a Anubis
+Anubis recibe 38 de daño
+Anubis termina con HP:459/497
 ----------------------------------------
-Seleccione una acción para Atropos
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Yu (J1)
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-
+C-
+D-
+Equipo de Yu (J2)
 A-Yu HP:597/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Tam Lin HP:218/218 MP:43/43
-C-Virtue HP:240/240 MP:232/232
-D-Atropos HP:277/277 MP:269/269
+B-Pale Rider HP:693/693 MP:310/310
+C-Anubis HP:459/497 MP:223/223
+D-Fuxi HP:52/52 MP:49/49
 ----------------------------------------
-Full Turns: 3
+Full Turns: 4
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Virtue
-2-Tadano
-3-Tam Lin
-4-Atropos
+1-Pale Rider
+2-Yu
+3-Anubis
+4-Fuxi
 ----------------------------------------
-Seleccione una acción para Virtue
+Seleccione una acción para Pale Rider
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Peri HP:483/483 MP:216/216
-2-Cancelar
 INPUT: 1
 ----------------------------------------
-Peri ha sido invocado
+Seleccione un objetivo para Pale Rider
+1-Kotone HP:597/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Yu (J1)
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-
+C-
+D-
+Equipo de Yu (J2)
 A-Yu HP:597/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Tam Lin HP:218/218 MP:43/43
-C-Peri HP:483/483 MP:216/216
-D-Atropos HP:277/277 MP:269/269
+B-Pale Rider HP:693/693 MP:310/310
+C-Anubis HP:459/497 MP:223/223
+D-Fuxi HP:52/52 MP:49/49
 ----------------------------------------
-Full Turns: 2
+Full Turns: 3
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Tadano
-2-Tam Lin
-3-Atropos
-4-Peri
+1-Yu
+2-Anubis
+3-Fuxi
+4-Pale Rider
 ----------------------------------------
-Seleccione una acción para Tadano
+Seleccione una acción para Yu
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Kotone HP:597/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Kotone
+Kotone es resistente el ataque de Yu
+Kotone recibe 24 de daño
+Kotone termina con HP:573/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:573/597 MP:347/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Pale Rider HP:693/693 MP:310/310
+C-Anubis HP:459/497 MP:223/223
+D-Fuxi HP:52/52 MP:49/49
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anubis
+2-Fuxi
+3-Pale Rider
+4-Yu
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
 INPUT: 2
 ----------------------------------------
-Seleccione un objetivo para Tadano
+Seleccione una habilidad para que Anubis use
+1-Judgement Light MP:45
+2-Mamudoon MP:30
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Kotone HP:573/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Anubis ataca a Kotone
+Kotone es resistente el ataque de Anubis
+Kotone recibe 20 de daño
+Kotone termina con HP:553/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:553/597 MP:347/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Pale Rider HP:693/693 MP:310/310
+C-Anubis HP:459/497 MP:223/223
+D-Fuxi HP:52/52 MP:49/49
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Fuxi
+2-Pale Rider
+3-Yu
+4-Anubis
+----------------------------------------
+Seleccione una acción para Fuxi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Persephone HP:315/315 MP:306/306
+2-Hel HP:254/254 MP:246/246
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Persephone ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:553/597 MP:347/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Pale Rider HP:693/693 MP:310/310
+C-Anubis HP:459/497 MP:223/223
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Yu
+3-Anubis
+4-Persephone
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Kotone HP:553/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Pale Rider ataca a Kotone
+Kotone es resistente el ataque de Pale Rider
+Kotone recibe 29 de daño
+Kotone termina con HP:524/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:524/597 MP:347/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Pale Rider HP:693/693 MP:310/310
+C-Anubis HP:459/497 MP:223/223
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Anubis
+3-Persephone
+4-Pale Rider
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Kotone HP:524/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Kotone
+Kotone es resistente el ataque de Yu
+Kotone recibe 24 de daño
+Kotone termina con HP:500/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:500/597 MP:347/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Pale Rider HP:693/693 MP:310/310
+C-Anubis HP:459/497 MP:223/223
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Bufudyne MP:14
+2-Riot Gun MP:30
+3-Trisagion MP:22
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
 1-Yu HP:597/597 MP:347/347
-2-Cancelar
+2-Pale Rider HP:693/693 MP:310/310
+3-Anubis HP:459/497 MP:223/223
+4-Persephone HP:315/315 MP:306/306
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:500/597 MP:347/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Pale Rider HP:693/693 MP:310/310
+C-Anubis HP:459/497 MP:223/223
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
 INPUT: 1
 ----------------------------------------
-Tadano dispara a Yu
-Yu recibe 20 de daño
-Yu termina con HP:577/597
+Seleccione un objetivo para Kotone
+1-Yu HP:597/597 MP:347/347
+2-Pale Rider HP:693/693 MP:310/310
+3-Anubis HP:459/497 MP:223/223
+4-Persephone HP:315/315 MP:306/306
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kotone ataca a Anubis
+Anubis recibe 38 de daño
+Anubis termina con HP:421/497
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:577/597 MP:347/347
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:500/597 MP:347/347
 B-
 C-
 D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Tam Lin HP:218/218 MP:43/43
-C-Peri HP:483/483 MP:216/216
-D-Atropos HP:277/277 MP:269/269
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Pale Rider HP:693/693 MP:310/310
+C-Anubis HP:421/497 MP:223/223
+D-Persephone HP:315/315 MP:306/306
 ----------------------------------------
-Full Turns: 2
+Full Turns: 4
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Tam Lin
-2-Atropos
-3-Peri
-4-Tadano
+1-Pale Rider
+2-Yu
+3-Anubis
+4-Persephone
 ----------------------------------------
-Seleccione una acción para Tam Lin
+Seleccione una acción para Pale Rider
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 2
 ----------------------------------------
-Seleccione una habilidad para que Tam Lin use
-1-Hama MP:6
-2-Gram Slice MP:5
-3-Maragi MP:11
+Seleccione una habilidad para que Pale Rider use
+1-Pandemic Bomb MP:11
+2-Death's Door MP:10
+3-Deadly Wind MP:22
+4-Debilitate MP:50
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:500/597 MP:347/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Pale Rider HP:693/693 MP:310/310
+C-Anubis HP:421/497 MP:223/223
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Anubis
+3-Persephone
+4-Pale Rider
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Kotone HP:500/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Kotone
+Kotone es resistente el ataque de Yu
+Kotone recibe 24 de daño
+Kotone termina con HP:476/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:476/597 MP:347/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Pale Rider HP:693/693 MP:310/310
+C-Anubis HP:421/497 MP:223/223
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anubis
+2-Persephone
+3-Pale Rider
+4-Yu
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Kotone HP:476/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:476/597 MP:347/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Pale Rider HP:693/693 MP:310/310
+C-Anubis HP:421/497 MP:223/223
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Persephone
+2-Pale Rider
+3-Yu
+4-Anubis
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Persephone use
+1-Bufudyne MP:14
+2-Death's Door MP:10
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Kotone HP:476/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:476/597 MP:347/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Pale Rider HP:693/693 MP:310/310
+C-Anubis HP:421/497 MP:223/223
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Yu
+3-Anubis
+4-Persephone
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Kotone HP:476/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Fuxi HP:52/52 MP:49/49
+2-Hel HP:254/254 MP:246/246
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Hel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:476/597 MP:347/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Hel HP:254/254 MP:246/246
+C-Anubis HP:421/497 MP:223/223
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Anubis
+3-Persephone
+4-Hel
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Kotone HP:476/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Kotone HP:476/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu dispara a Kotone
+Kotone es resistente el ataque de Yu
+Kotone recibe 36 de daño
+Kotone termina con HP:440/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:440/597 MP:347/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Hel HP:254/254 MP:246/246
+C-Anubis HP:421/497 MP:223/223
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anubis
+2-Persephone
+3-Hel
+4-Yu
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:440/597 MP:347/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Hel HP:254/254 MP:246/246
+C-Anubis HP:421/497 MP:223/223
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Persephone
+2-Hel
+3-Yu
+4-Anubis
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:440/597 MP:347/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Hel HP:254/254 MP:246/246
+C-Anubis HP:421/497 MP:223/223
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Bufudyne MP:14
+2-Riot Gun MP:30
+3-Trisagion MP:22
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Yu HP:597/597 MP:347/347
+2-Hel HP:254/254 MP:246/246
+3-Anubis HP:421/497 MP:223/223
+4-Persephone HP:315/315 MP:306/306
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kotone lanza fuego a Anubis
+Anubis recibe 137 de daño
+Anubis termina con HP:284/497
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:440/597 MP:325/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Hel HP:254/254 MP:246/246
+C-Anubis HP:284/497 MP:223/223
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Anubis
+3-Persephone
+4-Hel
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:440/597 MP:325/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Hel HP:254/254 MP:246/246
+C-Anubis HP:284/497 MP:223/223
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Anubis
+2-Persephone
+3-Hel
+4-Yu
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Kotone HP:440/597 MP:325/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Anubis ataca a Kotone
+Kotone es resistente el ataque de Anubis
+Kotone recibe 20 de daño
+Kotone termina con HP:420/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:420/597 MP:325/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Hel HP:254/254 MP:246/246
+C-Anubis HP:284/497 MP:223/223
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Hel
+3-Yu
+4-Anubis
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Pale Rider HP:693/693 MP:310/310
+2-Fuxi HP:52/52 MP:49/49
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Persephone use
+1-Bufudyne MP:14
+2-Death's Door MP:10
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Kotone HP:420/597 MP:325/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Pale Rider HP:693/693 MP:310/310
+2-Fuxi HP:52/52 MP:49/49
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Kotone HP:420/597 MP:325/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Pale Rider HP:693/693 MP:310/310
+2-Fuxi HP:52/52 MP:49/49
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:420/597 MP:325/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Hel HP:254/254 MP:246/246
+C-Anubis HP:284/497 MP:223/223
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hel
+2-Yu
+3-Anubis
+4-Persephone
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hel use
+1-Mamudo MP:18
+2-Sabbatma MP:20
+3-Mabufula MP:20
 4-Cancelar
 INPUT: 2
 ----------------------------------------
-Seleccione un objetivo para Tam Lin
-1-Yu HP:577/597 MP:347/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Tam Lin ataca a Yu
-Yu es resistente el ataque de Tam Lin
-Yu recibe 23 de daño
-Yu termina con HP:554/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:554/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Tam Lin HP:218/218 MP:38/43
-C-Peri HP:483/483 MP:216/216
-D-Atropos HP:277/277 MP:269/269
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Atropos
-2-Peri
-3-Tadano
-4-Tam Lin
-----------------------------------------
-Seleccione una acción para Atropos
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Atropos use
-1-Hamaon MP:10
-2-Tathlum Shot MP:7
-3-Ziodyne MP:14
-4-Zandyne MP:14
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Atropos
-1-Yu HP:554/597 MP:347/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Atropos dispara a Yu
-Yu recibe 84 de daño
-Yu termina con HP:470/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Yu (J1)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:470/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Tam Lin HP:218/218 MP:38/43
-C-Peri HP:483/483 MP:216/216
-D-Atropos HP:277/277 MP:262/269
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Yu
-----------------------------------------
-Seleccione una acción para Yu
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Yu
-1-Tadano HP:388/388 MP:193/193
-2-Tam Lin HP:218/218 MP:38/43
-3-Peri HP:483/483 MP:216/216
-4-Atropos HP:277/277 MP:262/269
-5-Cancelar
-INPUT: 4
-----------------------------------------
-Yu ataca a Atropos
-Atropos recibe 49 de daño
-Atropos termina con HP:228/277
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Tadano (J2)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:470/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Tam Lin HP:218/218 MP:38/43
-C-Peri HP:483/483 MP:216/216
-D-Atropos HP:228/277 MP:262/269
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Peri
-2-Atropos
-3-Tadano
-4-Tam Lin
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Peri
-1-Yu HP:470/597 MP:347/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Peri ataca a Yu
-Yu es resistente el ataque de Peri
-Yu recibe 20 de daño
-Yu termina con HP:450/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:450/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Tam Lin HP:218/218 MP:38/43
-C-Peri HP:483/483 MP:216/216
-D-Atropos HP:228/277 MP:262/269
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Atropos
-2-Tadano
-3-Tam Lin
-4-Peri
-----------------------------------------
-Seleccione una acción para Atropos
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:450/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Tam Lin HP:218/218 MP:38/43
-C-Peri HP:483/483 MP:216/216
-D-Atropos HP:228/277 MP:262/269
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Tadano
-2-Tam Lin
-3-Peri
-4-Atropos
-----------------------------------------
-Seleccione una acción para Tadano
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Tadano use
-1-Zan MP:5
-2-Nihil Claw MP:11
-3-Agidyne MP:14
-4-Tathlum Shot MP:7
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Tadano
-1-Yu HP:450/597 MP:347/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Tadano
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:450/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Tam Lin HP:218/218 MP:38/43
-C-Peri HP:483/483 MP:216/216
-D-Atropos HP:228/277 MP:262/269
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Tam Lin
-2-Peri
-3-Atropos
-4-Tadano
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
 Seleccione un monstruo para invocar
-1-Virtue HP:240/240 MP:232/232
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:450/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Tam Lin HP:218/218 MP:38/43
-C-Peri HP:483/483 MP:216/216
-D-Atropos HP:228/277 MP:262/269
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Peri
-2-Atropos
-3-Tadano
-4-Tam Lin
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Peri use
-1-Diarahan MP:16
-2-Me Patra MP:15
-3-Panic Voice MP:15
-4-Maragidyne MP:32
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Peri use
-1-Diarahan MP:16
-2-Me Patra MP:15
-3-Panic Voice MP:15
-4-Maragidyne MP:32
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Peri
-1-Yu HP:450/597 MP:347/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Peri use
-1-Diarahan MP:16
-2-Me Patra MP:15
-3-Panic Voice MP:15
-4-Maragidyne MP:32
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Peri
-1-Tadano HP:388/388 MP:193/193
-2-Tam Lin HP:218/218 MP:38/43
-3-Peri HP:483/483 MP:216/216
-4-Atropos HP:228/277 MP:262/269
-5-Virtue HP:240/240 MP:232/232
-6-Cancelar
-INPUT: 4
-----------------------------------------
-Peri cura a Atropos
-Atropos recibe 277 de HP
-Atropos termina con HP:277/277
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:450/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Tam Lin HP:218/218 MP:38/43
-C-Peri HP:483/483 MP:200/216
-D-Atropos HP:277/277 MP:262/269
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Atropos
-2-Tadano
-3-Tam Lin
-4-Peri
-----------------------------------------
-Seleccione una acción para Atropos
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Atropos use
-1-Hamaon MP:10
-2-Tathlum Shot MP:7
-3-Ziodyne MP:14
-4-Zandyne MP:14
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Atropos
-1-Yu HP:450/597 MP:347/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Atropos
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Atropos
-1-Yu HP:450/597 MP:347/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Atropos
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Atropos
-1-Yu HP:450/597 MP:347/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Atropos
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:450/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Tam Lin HP:218/218 MP:38/43
-C-Peri HP:483/483 MP:200/216
-D-Atropos HP:277/277 MP:262/269
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Tadano
-2-Tam Lin
-3-Peri
-4-Atropos
-----------------------------------------
-Seleccione una acción para Tadano
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Tadano
-1-Yu HP:450/597 MP:347/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Tadano
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Tadano
-1-Yu HP:450/597 MP:347/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Tadano
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Yu (J1)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:450/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Tam Lin HP:218/218 MP:38/43
-C-Peri HP:483/483 MP:200/216
-D-Atropos HP:277/277 MP:262/269
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Yu
-----------------------------------------
-Seleccione una acción para Yu
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Yu
-1-Tadano HP:388/388 MP:193/193
-2-Tam Lin HP:218/218 MP:38/43
-3-Peri HP:483/483 MP:200/216
-4-Atropos HP:277/277 MP:262/269
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Yu dispara a Tam Lin
-Tam Lin recibe 72 de daño
-Tam Lin termina con HP:146/218
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Tadano (J2)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:450/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Tam Lin HP:146/218 MP:38/43
-C-Peri HP:483/483 MP:200/216
-D-Atropos HP:277/277 MP:262/269
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Peri
-2-Atropos
-3-Tadano
-4-Tam Lin
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Peri
-1-Yu HP:450/597 MP:347/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Peri ataca a Yu
-Yu es resistente el ataque de Peri
-Yu recibe 20 de daño
-Yu termina con HP:430/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:430/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Tam Lin HP:146/218 MP:38/43
-C-Peri HP:483/483 MP:200/216
-D-Atropos HP:277/277 MP:262/269
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Atropos
-2-Tadano
-3-Tam Lin
-4-Peri
-----------------------------------------
-Seleccione una acción para Atropos
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Atropos
-1-Yu HP:430/597 MP:347/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Atropos
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:430/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Tam Lin HP:146/218 MP:38/43
-C-Peri HP:483/483 MP:200/216
-D-Atropos HP:277/277 MP:262/269
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Tadano
-2-Tam Lin
-3-Peri
-4-Atropos
-----------------------------------------
-Seleccione una acción para Tadano
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:430/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Tam Lin HP:146/218 MP:38/43
-C-Peri HP:483/483 MP:200/216
-D-Atropos HP:277/277 MP:262/269
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Tam Lin
-2-Peri
-3-Atropos
-4-Tadano
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Virtue HP:240/240 MP:232/232
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Virtue HP:240/240 MP:232/232
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Virtue ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:430/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:240/240 MP:232/232
-C-Peri HP:483/483 MP:200/216
-D-Atropos HP:277/277 MP:262/269
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Peri
-2-Atropos
-3-Tadano
-4-Virtue
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Peri
-1-Yu HP:430/597 MP:347/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:430/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:240/240 MP:232/232
-C-Peri HP:483/483 MP:200/216
-D-Atropos HP:277/277 MP:262/269
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Atropos
-2-Tadano
-3-Virtue
-4-Peri
-----------------------------------------
-Seleccione una acción para Atropos
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Atropos use
-1-Hamaon MP:10
-2-Tathlum Shot MP:7
-3-Ziodyne MP:14
-4-Zandyne MP:14
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Atropos
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:430/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:240/240 MP:232/232
-C-Peri HP:483/483 MP:200/216
-D-Atropos HP:277/277 MP:262/269
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Tadano
-2-Virtue
-3-Peri
-4-Atropos
-----------------------------------------
-Seleccione una acción para Tadano
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Tadano
-1-Yu HP:430/597 MP:347/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Tadano
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Tadano
-1-Yu HP:430/597 MP:347/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Tadano
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Tadano
-1-Yu HP:430/597 MP:347/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Tadano ataca a Yu
-Yu es resistente el ataque de Tadano
-Yu recibe 8 de daño
-Yu termina con HP:422/597
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Yu (J1)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:422/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:240/240 MP:232/232
-C-Peri HP:483/483 MP:200/216
-D-Atropos HP:277/277 MP:262/269
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Yu
-----------------------------------------
-Seleccione una acción para Yu
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Yu
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:422/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:240/240 MP:232/232
-C-Peri HP:483/483 MP:200/216
-D-Atropos HP:277/277 MP:262/269
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Yu
-----------------------------------------
-Seleccione una acción para Yu
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Yu
-1-Tadano HP:388/388 MP:193/193
-2-Virtue HP:240/240 MP:232/232
-3-Peri HP:483/483 MP:200/216
-4-Atropos HP:277/277 MP:262/269
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Yu
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Tadano (J2)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:422/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:240/240 MP:232/232
-C-Peri HP:483/483 MP:200/216
-D-Atropos HP:277/277 MP:262/269
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Peri
-2-Atropos
-3-Virtue
-4-Tadano
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Peri
-1-Yu HP:422/597 MP:347/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Peri ataca a Yu
-Yu es resistente el ataque de Peri
-Yu recibe 20 de daño
-Yu termina con HP:402/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:402/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:240/240 MP:232/232
-C-Peri HP:483/483 MP:200/216
-D-Atropos HP:277/277 MP:262/269
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Atropos
-2-Virtue
-3-Tadano
-4-Peri
-----------------------------------------
-Seleccione una acción para Atropos
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Tam Lin HP:146/218 MP:38/43
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Tam Lin ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:402/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:240/240 MP:232/232
-C-Peri HP:483/483 MP:200/216
-D-Tam Lin HP:146/218 MP:38/43
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Virtue
-2-Tadano
-3-Peri
-4-Tam Lin
-----------------------------------------
-Seleccione una acción para Virtue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Virtue use
-1-Sabbatma MP:20
-2-Tetraja MP:15
-3-Hamaon MP:10
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Virtue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:402/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:240/240 MP:232/232
-C-Peri HP:483/483 MP:200/216
-D-Tam Lin HP:146/218 MP:38/43
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Tadano
-2-Peri
-3-Tam Lin
-4-Virtue
-----------------------------------------
-Seleccione una acción para Tadano
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Atropos HP:277/277 MP:262/269
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Tadano
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:402/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:240/240 MP:232/232
-C-Peri HP:483/483 MP:200/216
-D-Tam Lin HP:146/218 MP:38/43
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Peri
-2-Tam Lin
-3-Virtue
-4-Tadano
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Peri
-1-Yu HP:402/597 MP:347/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Peri ataca a Yu
-Yu es resistente el ataque de Peri
-Yu recibe 20 de daño
-Yu termina con HP:382/597
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:382/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:240/240 MP:232/232
-C-Peri HP:483/483 MP:200/216
-D-Tam Lin HP:146/218 MP:38/43
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Tam Lin
-2-Virtue
-3-Tadano
-4-Peri
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Atropos HP:277/277 MP:262/269
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:382/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:240/240 MP:232/232
-C-Peri HP:483/483 MP:200/216
-D-Tam Lin HP:146/218 MP:38/43
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Virtue
-2-Tadano
-3-Peri
-4-Tam Lin
-----------------------------------------
-Seleccione una acción para Virtue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Atropos HP:277/277 MP:262/269
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Atropos ha sido invocado
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Yu (J1)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:382/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Atropos HP:277/277 MP:262/269
-C-Peri HP:483/483 MP:200/216
-D-Tam Lin HP:146/218 MP:38/43
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Yu
-----------------------------------------
-Seleccione una acción para Yu
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Yu
-1-Tadano HP:388/388 MP:193/193
-2-Atropos HP:277/277 MP:262/269
-3-Peri HP:483/483 MP:200/216
-4-Tam Lin HP:146/218 MP:38/43
-5-Cancelar
-INPUT: 4
-----------------------------------------
-Yu dispara a Tam Lin
-Tam Lin recibe 72 de daño
-Tam Lin termina con HP:74/218
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Tadano (J2)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:382/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Atropos HP:277/277 MP:262/269
-C-Peri HP:483/483 MP:200/216
-D-Tam Lin HP:74/218 MP:38/43
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Peri
-2-Atropos
-3-Tadano
-4-Tam Lin
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Virtue HP:240/240 MP:232/232
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Peri
-1-Yu HP:382/597 MP:347/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Peri
-1-Yu HP:382/597 MP:347/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Peri use
-1-Diarahan MP:16
-2-Me Patra MP:15
-3-Panic Voice MP:15
-4-Maragidyne MP:32
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Peri
-1-Yu HP:382/597 MP:347/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:382/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Atropos HP:277/277 MP:262/269
-C-Peri HP:483/483 MP:200/216
-D-Tam Lin HP:74/218 MP:38/43
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Atropos
-2-Tadano
-3-Tam Lin
-4-Peri
-----------------------------------------
-Seleccione una acción para Atropos
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Atropos use
-1-Hamaon MP:10
-2-Tathlum Shot MP:7
-3-Ziodyne MP:14
-4-Zandyne MP:14
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Atropos
-1-Yu HP:382/597 MP:347/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Atropos
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Atropos use
-1-Hamaon MP:10
-2-Tathlum Shot MP:7
-3-Ziodyne MP:14
-4-Zandyne MP:14
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Atropos
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Atropos
-1-Yu HP:382/597 MP:347/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Atropos
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Virtue HP:240/240 MP:232/232
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Atropos
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Atropos use
-1-Hamaon MP:10
-2-Tathlum Shot MP:7
-3-Ziodyne MP:14
-4-Zandyne MP:14
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Atropos
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Virtue HP:240/240 MP:232/232
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Virtue ha sido invocado
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:382/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:240/240 MP:232/232
-C-Peri HP:483/483 MP:200/216
-D-Tam Lin HP:74/218 MP:38/43
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Tadano
-2-Tam Lin
-3-Peri
-4-Virtue
-----------------------------------------
-Seleccione una acción para Tadano
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Atropos HP:277/277 MP:262/269
-2-Cancelar
+1-Pale Rider HP:693/693 MP:310/310
+2-Fuxi HP:52/52 MP:49/49
+3-Cancelar
 INPUT: 1
 ----------------------------------------
 Seleccione una posición para invocar
-1-Virtue HP:240/240 MP:232/232 (Puesto 2)
-2-Peri HP:483/483 MP:200/216 (Puesto 3)
-3-Tam Lin HP:74/218 MP:38/43 (Puesto 4)
+1-Hel HP:254/254 MP:246/246 (Puesto 2)
+2-Anubis HP:284/497 MP:223/223 (Puesto 3)
+3-Persephone HP:315/315 MP:306/306 (Puesto 4)
 4-Cancelar
-INPUT: 3
+INPUT: 4
 ----------------------------------------
-Atropos ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:382/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:240/240 MP:232/232
-C-Peri HP:483/483 MP:200/216
-D-Atropos HP:277/277 MP:262/269
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Atropos
-2-Peri
-3-Virtue
-4-Tadano
-----------------------------------------
-Seleccione una acción para Atropos
+Seleccione una acción para Hel
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Tam Lin HP:74/218 MP:38/43
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Tam Lin ha sido invocado
+INPUT: 4
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:382/597 MP:347/347
+Equipo de Kotone (J1)
+A-Kotone HP:420/597 MP:325/347
 B-
 C-
 D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:240/240 MP:232/232
-C-Peri HP:483/483 MP:200/216
-D-Tam Lin HP:74/218 MP:38/43
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Hel HP:254/254 MP:246/246
+C-Anubis HP:284/497 MP:223/223
+D-Persephone HP:315/315 MP:306/306
 ----------------------------------------
 Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Peri
-2-Virtue
-3-Tadano
-4-Tam Lin
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Peri
-1-Yu HP:382/597 MP:347/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Peri ataca a Yu
-Yu es resistente el ataque de Peri
-Yu recibe 20 de daño
-Yu termina con HP:362/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:362/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:240/240 MP:232/232
-C-Peri HP:483/483 MP:200/216
-D-Tam Lin HP:74/218 MP:38/43
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Virtue
-2-Tadano
-3-Tam Lin
-4-Peri
-----------------------------------------
-Seleccione una acción para Virtue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Virtue
-1-Yu HP:362/597 MP:347/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Virtue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Virtue
-1-Yu HP:362/597 MP:347/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Virtue ataca a Yu
-Yu es resistente el ataque de Virtue
-Yu recibe 12 de daño
-Yu termina con HP:350/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Yu (J1)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:350/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:240/240 MP:232/232
-C-Peri HP:483/483 MP:200/216
-D-Tam Lin HP:74/218 MP:38/43
-----------------------------------------
-Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
 1-Yu
-----------------------------------------
-Seleccione una acción para Yu
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Yu
-1-Tadano HP:388/388 MP:193/193
-2-Virtue HP:240/240 MP:232/232
-3-Peri HP:483/483 MP:200/216
-4-Tam Lin HP:74/218 MP:38/43
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Yu ataca a Virtue
-Virtue recibe 49 de daño
-Virtue termina con HP:191/240
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Tadano (J2)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:350/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:191/240 MP:232/232
-C-Peri HP:483/483 MP:200/216
-D-Tam Lin HP:74/218 MP:38/43
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Peri
-2-Virtue
-3-Tadano
-4-Tam Lin
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Peri use
-1-Diarahan MP:16
-2-Me Patra MP:15
-3-Panic Voice MP:15
-4-Maragidyne MP:32
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Peri
-1-Tadano HP:388/388 MP:193/193
-2-Virtue HP:191/240 MP:232/232
-3-Peri HP:483/483 MP:200/216
-4-Tam Lin HP:74/218 MP:38/43
-5-Atropos HP:277/277 MP:262/269
-6-Cancelar
-INPUT: 3
-----------------------------------------
-Peri cura a Peri
-Peri recibe 483 de HP
-Peri termina con HP:483/483
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:350/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:191/240 MP:232/232
-C-Peri HP:483/483 MP:184/216
-D-Tam Lin HP:74/218 MP:38/43
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Virtue
-2-Tadano
-3-Tam Lin
-4-Peri
-----------------------------------------
-Seleccione una acción para Virtue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:350/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:191/240 MP:232/232
-C-Peri HP:483/483 MP:184/216
-D-Tam Lin HP:74/218 MP:38/43
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Tadano
-2-Tam Lin
-3-Peri
-4-Virtue
-----------------------------------------
-Seleccione una acción para Tadano
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Tadano
-1-Yu HP:350/597 MP:347/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Tadano dispara a Yu
-Yu recibe 20 de daño
-Yu termina con HP:330/597
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:330/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:191/240 MP:232/232
-C-Peri HP:483/483 MP:184/216
-D-Tam Lin HP:74/218 MP:38/43
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Tam Lin
-2-Peri
-3-Virtue
-4-Tadano
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:330/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:191/240 MP:232/232
-C-Peri HP:483/483 MP:184/216
-D-Tam Lin HP:74/218 MP:38/43
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Peri
-2-Virtue
-3-Tadano
-4-Tam Lin
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Peri
-1-Yu HP:330/597 MP:347/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Peri ataca a Yu
-Yu es resistente el ataque de Peri
-Yu recibe 20 de daño
-Yu termina con HP:310/597
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:310/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:191/240 MP:232/232
-C-Peri HP:483/483 MP:184/216
-D-Tam Lin HP:74/218 MP:38/43
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Virtue
-2-Tadano
-3-Tam Lin
-4-Peri
-----------------------------------------
-Seleccione una acción para Virtue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Atropos HP:277/277 MP:262/269
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Virtue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:310/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:191/240 MP:232/232
-C-Peri HP:483/483 MP:184/216
-D-Tam Lin HP:74/218 MP:38/43
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Tadano
-2-Tam Lin
-3-Peri
-4-Virtue
-----------------------------------------
-Seleccione una acción para Tadano
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Tadano
-1-Yu HP:310/597 MP:347/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Tadano ataca a Yu
-Yu es resistente el ataque de Tadano
-Yu recibe 8 de daño
-Yu termina con HP:302/597
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Yu (J1)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:302/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:191/240 MP:232/232
-C-Peri HP:483/483 MP:184/216
-D-Tam Lin HP:74/218 MP:38/43
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Yu
+2-Anubis
+3-Persephone
+4-Hel
 ----------------------------------------
 Seleccione una acción para Yu
 1: Atacar
@@ -2530,56 +1257,44 @@ Seleccione una acción para Yu
 INPUT: 3
 ----------------------------------------
 Seleccione una habilidad para que Yu use
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Yu
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
+1-Agi MP:5
+2-Cancelar
 INPUT: 1
 ----------------------------------------
 Seleccione un objetivo para Yu
-1-Tadano HP:388/388 MP:193/193
-2-Virtue HP:191/240 MP:232/232
-3-Peri HP:483/483 MP:184/216
-4-Tam Lin HP:74/218 MP:38/43
-5-Cancelar
-INPUT: 2
+1-Kotone HP:420/597 MP:325/347
+2-Cancelar
+INPUT: 1
 ----------------------------------------
-Yu ataca a Virtue
-Virtue recibe 49 de daño
-Virtue termina con HP:142/240
+Yu lanza fuego a Kotone
+Kotone es resistente el ataque de Yu
+Kotone recibe 40 de daño
+Kotone termina con HP:380/597
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Tadano (J2)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:302/597 MP:347/347
+Equipo de Kotone (J1)
+A-Kotone HP:380/597 MP:325/347
 B-
 C-
 D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:142/240 MP:232/232
-C-Peri HP:483/483 MP:184/216
-D-Tam Lin HP:74/218 MP:38/43
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:342/347
+B-Hel HP:254/254 MP:246/246
+C-Anubis HP:284/497 MP:223/223
+D-Persephone HP:315/315 MP:306/306
 ----------------------------------------
-Full Turns: 4
+Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Peri
-2-Virtue
-3-Tadano
-4-Tam Lin
+1-Anubis
+2-Persephone
+3-Hel
+4-Yu
 ----------------------------------------
-Seleccione una acción para Peri
+Seleccione una acción para Anubis
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -2589,41 +1304,27 @@ INPUT: 4
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:302/597 MP:347/347
+Equipo de Kotone (J1)
+A-Kotone HP:380/597 MP:325/347
 B-
 C-
 D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:142/240 MP:232/232
-C-Peri HP:483/483 MP:184/216
-D-Tam Lin HP:74/218 MP:38/43
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:342/347
+B-Hel HP:254/254 MP:246/246
+C-Anubis HP:284/497 MP:223/223
+D-Persephone HP:315/315 MP:306/306
 ----------------------------------------
-Full Turns: 3
+Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Virtue
-2-Tadano
-3-Tam Lin
-4-Peri
+1-Persephone
+2-Hel
+3-Yu
+4-Anubis
 ----------------------------------------
-Seleccione una acción para Virtue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Virtue use
-1-Sabbatma MP:20
-2-Tetraja MP:15
-3-Hamaon MP:10
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Virtue
+Seleccione una acción para Persephone
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -2631,55 +1332,65 @@ Seleccione una acción para Virtue
 INPUT: 3
 ----------------------------------------
 Seleccione un monstruo para invocar
-1-Atropos HP:277/277 MP:262/269
-2-Cancelar
-INPUT: 2
+1-Pale Rider HP:693/693 MP:310/310
+2-Fuxi HP:52/52 MP:49/49
+3-Cancelar
+INPUT: 1
 ----------------------------------------
-Seleccione una acción para Virtue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Virtue use
-1-Sabbatma MP:20
-2-Tetraja MP:15
-3-Hamaon MP:10
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Virtue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
+Pale Rider ha sido invocado
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:302/597 MP:347/347
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:380/597 MP:325/347
 B-
 C-
 D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:142/240 MP:232/232
-C-Peri HP:483/483 MP:184/216
-D-Tam Lin HP:74/218 MP:38/43
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:342/347
+B-Hel HP:254/254 MP:246/246
+C-Anubis HP:284/497 MP:223/223
+D-Pale Rider HP:693/693 MP:310/310
 ----------------------------------------
-Full Turns: 3
+Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Tadano
-2-Tam Lin
-3-Peri
-4-Virtue
+1-Kotone
 ----------------------------------------
-Seleccione una acción para Tadano
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Bufudyne MP:14
+2-Riot Gun MP:30
+3-Trisagion MP:22
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kotone
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -2691,27 +1402,181 @@ INPUT: 5
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:302/597 MP:347/347
+Equipo de Kotone (J1)
+A-Kotone HP:380/597 MP:325/347
 B-
 C-
 D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:142/240 MP:232/232
-C-Peri HP:483/483 MP:184/216
-D-Tam Lin HP:74/218 MP:38/43
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:342/347
+B-Hel HP:254/254 MP:246/246
+C-Anubis HP:284/497 MP:223/223
+D-Pale Rider HP:693/693 MP:310/310
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Yu HP:597/597 MP:342/347
+2-Hel HP:254/254 MP:246/246
+3-Anubis HP:284/497 MP:223/223
+4-Pale Rider HP:693/693 MP:310/310
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kotone dispara a Yu
+Yu recibe 57 de daño
+Yu termina con HP:540/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:380/597 MP:325/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:540/597 MP:342/347
+B-Hel HP:254/254 MP:246/246
+C-Anubis HP:284/497 MP:223/223
+D-Pale Rider HP:693/693 MP:310/310
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Yu
+3-Anubis
+4-Hel
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Kotone HP:380/597 MP:325/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Kotone HP:380/597 MP:325/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Pale Rider ataca a Kotone
+Kotone es resistente el ataque de Pale Rider
+Kotone recibe 29 de daño
+Kotone termina con HP:351/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:351/597 MP:325/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:540/597 MP:342/347
+B-Hel HP:254/254 MP:246/246
+C-Anubis HP:284/497 MP:223/223
+D-Pale Rider HP:693/693 MP:310/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Anubis
+3-Hel
+4-Pale Rider
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Kotone HP:351/597 MP:325/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:351/597 MP:325/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:540/597 MP:342/347
+B-Hel HP:254/254 MP:246/246
+C-Anubis HP:284/497 MP:223/223
+D-Pale Rider HP:693/693 MP:310/310
 ----------------------------------------
 Full Turns: 2
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Tam Lin
-2-Peri
-3-Virtue
-4-Tadano
+1-Anubis
+2-Hel
+3-Pale Rider
+4-Yu
 ----------------------------------------
-Seleccione una acción para Tam Lin
+Seleccione una acción para Anubis
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -2721,275 +1586,327 @@ INPUT: 4
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:302/597 MP:347/347
+Equipo de Kotone (J1)
+A-Kotone HP:351/597 MP:325/347
 B-
 C-
 D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:142/240 MP:232/232
-C-Peri HP:483/483 MP:184/216
-D-Tam Lin HP:74/218 MP:38/43
+Equipo de Yu (J2)
+A-Yu HP:540/597 MP:342/347
+B-Hel HP:254/254 MP:246/246
+C-Anubis HP:284/497 MP:223/223
+D-Pale Rider HP:693/693 MP:310/310
 ----------------------------------------
 Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Peri
-2-Virtue
-3-Tadano
-4-Tam Lin
+1-Hel
+2-Pale Rider
+3-Yu
+4-Anubis
 ----------------------------------------
-Seleccione una acción para Peri
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Fuxi HP:52/52 MP:49/49
+2-Persephone HP:315/315 MP:306/306
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Fuxi ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:351/597 MP:325/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:540/597 MP:342/347
+B-Fuxi HP:52/52 MP:49/49
+C-Anubis HP:284/497 MP:223/223
+D-Pale Rider HP:693/693 MP:310/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Yu
+3-Anubis
+4-Fuxi
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Persephone HP:315/315 MP:306/306
+2-Hel HP:254/254 MP:246/246
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Hel ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:351/597 MP:325/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:540/597 MP:342/347
+B-Fuxi HP:52/52 MP:49/49
+C-Anubis HP:284/497 MP:223/223
+D-Hel HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Anubis
+3-Fuxi
+4-Hel
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:351/597 MP:325/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:540/597 MP:342/347
+B-Fuxi HP:52/52 MP:49/49
+C-Anubis HP:284/497 MP:223/223
+D-Hel HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Anubis
+2-Fuxi
+3-Hel
+4-Yu
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Kotone HP:351/597 MP:325/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Anubis
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 4
 ----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:302/597 MP:347/347
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:351/597 MP:325/347
 B-
 C-
 D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:142/240 MP:232/232
-C-Peri HP:483/483 MP:184/216
-D-Tam Lin HP:74/218 MP:38/43
+Equipo de Yu (J2)
+A-Yu HP:540/597 MP:342/347
+B-Fuxi HP:52/52 MP:49/49
+C-Anubis HP:284/497 MP:223/223
+D-Hel HP:254/254 MP:246/246
 ----------------------------------------
 Full Turns: 1
-Blinking Turns: 1
+Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Virtue
-2-Tadano
-3-Tam Lin
-4-Peri
+1-Kotone
 ----------------------------------------
-Seleccione una acción para Virtue
+Seleccione una acción para Kotone
 1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Virtue use
-1-Sabbatma MP:20
-2-Tetraja MP:15
-3-Hamaon MP:10
-4-Cancelar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
 INPUT: 1
 ----------------------------------------
+Seleccione un objetivo para Kotone
+1-Yu HP:540/597 MP:342/347
+2-Fuxi HP:52/52 MP:49/49
+3-Anubis HP:284/497 MP:223/223
+4-Hel HP:254/254 MP:246/246
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kotone ataca a Fuxi
+Fuxi recibe 38 de daño
+Fuxi termina con HP:14/52
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:351/597 MP:325/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:540/597 MP:342/347
+B-Fuxi HP:14/52 MP:49/49
+C-Anubis HP:284/497 MP:223/223
+D-Hel HP:254/254 MP:246/246
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Anubis
+3-Hel
+4-Fuxi
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
 Seleccione un monstruo para invocar
-1-Atropos HP:277/277 MP:262/269
-2-Cancelar
+1-Pale Rider HP:693/693 MP:310/310
+2-Persephone HP:315/315 MP:306/306
+3-Cancelar
 INPUT: 1
 ----------------------------------------
 Seleccione una posición para invocar
-1-Virtue HP:142/240 MP:232/232 (Puesto 2)
-2-Peri HP:483/483 MP:184/216 (Puesto 3)
-3-Tam Lin HP:74/218 MP:38/43 (Puesto 4)
+1-Fuxi HP:14/52 MP:49/49 (Puesto 2)
+2-Anubis HP:284/497 MP:223/223 (Puesto 3)
+3-Hel HP:254/254 MP:246/246 (Puesto 4)
 4-Cancelar
 INPUT: 3
 ----------------------------------------
-Atropos ha sido invocado
+Pale Rider ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:351/597 MP:325/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:540/597 MP:342/347
+B-Fuxi HP:14/52 MP:49/49
+C-Anubis HP:284/497 MP:223/223
+D-Pale Rider HP:693/693 MP:310/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Anubis
+2-Pale Rider
+3-Fuxi
+4-Yu
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Persephone HP:315/315 MP:306/306
+2-Hel HP:254/254 MP:246/246
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Hel ha sido invocado
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:302/597 MP:347/347
+Equipo de Kotone (J1)
+A-Kotone HP:351/597 MP:325/347
 B-
 C-
 D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:142/240 MP:212/232
-C-Peri HP:483/483 MP:184/216
-D-Atropos HP:277/277 MP:262/269
+Equipo de Yu (J2)
+A-Yu HP:540/597 MP:342/347
+B-Fuxi HP:14/52 MP:49/49
+C-Hel HP:254/254 MP:246/246
+D-Pale Rider HP:693/693 MP:310/310
 ----------------------------------------
-Full Turns: 1
+Full Turns: 3
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Tadano
-2-Atropos
-3-Peri
-4-Virtue
+1-Pale Rider
+2-Fuxi
+3-Yu
+4-Hel
 ----------------------------------------
-Seleccione una acción para Tadano
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Tadano
-1-Yu HP:302/597 MP:347/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Tadano dispara a Yu
-Yu recibe 20 de daño
-Yu termina con HP:282/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Yu (J1)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:282/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:142/240 MP:212/232
-C-Peri HP:483/483 MP:184/216
-D-Atropos HP:277/277 MP:262/269
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Yu
-----------------------------------------
-Seleccione una acción para Yu
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Yu
-1-Tadano HP:388/388 MP:193/193
-2-Virtue HP:142/240 MP:212/232
-3-Peri HP:483/483 MP:184/216
-4-Atropos HP:277/277 MP:262/269
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Yu
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Yu use
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Yu
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Yu
-1-Tadano HP:388/388 MP:193/193
-2-Virtue HP:142/240 MP:212/232
-3-Peri HP:483/483 MP:184/216
-4-Atropos HP:277/277 MP:262/269
-5-Cancelar
-INPUT: 2
-----------------------------------------
-Yu ataca a Virtue
-Virtue recibe 49 de daño
-Virtue termina con HP:93/240
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Tadano (J2)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:282/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:93/240 MP:212/232
-C-Peri HP:483/483 MP:184/216
-D-Atropos HP:277/277 MP:262/269
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Peri
-2-Atropos
-3-Virtue
-4-Tadano
-----------------------------------------
-Seleccione una acción para Peri
+Seleccione una acción para Pale Rider
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 2
 ----------------------------------------
-Seleccione una habilidad para que Peri use
-1-Diarahan MP:16
-2-Me Patra MP:15
-3-Panic Voice MP:15
-4-Maragidyne MP:32
+Seleccione una habilidad para que Pale Rider use
+1-Pandemic Bomb MP:11
+2-Death's Door MP:10
+3-Deadly Wind MP:22
+4-Debilitate MP:50
 5-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Peri
-1-Tadano HP:388/388 MP:193/193
-2-Virtue HP:93/240 MP:212/232
-3-Peri HP:483/483 MP:184/216
-4-Atropos HP:277/277 MP:262/269
-5-Tam Lin HP:74/218 MP:38/43
-6-Cancelar
 INPUT: 3
 ----------------------------------------
-Peri cura a Peri
-Peri recibe 483 de HP
-Peri termina con HP:483/483
+Seleccione un objetivo para Pale Rider
+1-Kotone HP:351/597 MP:325/347
+2-Cancelar
+INPUT: 2
 ----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:282/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:93/240 MP:212/232
-C-Peri HP:483/483 MP:168/216
-D-Atropos HP:277/277 MP:262/269
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Atropos
-2-Virtue
-3-Tadano
-4-Peri
-----------------------------------------
-Seleccione una acción para Atropos
+Seleccione una acción para Pale Rider
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -2999,39 +1916,27 @@ INPUT: 4
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:282/597 MP:347/347
+Equipo de Kotone (J1)
+A-Kotone HP:351/597 MP:325/347
 B-
 C-
 D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:93/240 MP:212/232
-C-Peri HP:483/483 MP:168/216
-D-Atropos HP:277/277 MP:262/269
+Equipo de Yu (J2)
+A-Yu HP:540/597 MP:342/347
+B-Fuxi HP:14/52 MP:49/49
+C-Hel HP:254/254 MP:246/246
+D-Pale Rider HP:693/693 MP:310/310
 ----------------------------------------
 Full Turns: 2
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Virtue
-2-Tadano
-3-Peri
-4-Atropos
+1-Fuxi
+2-Yu
+3-Hel
+4-Pale Rider
 ----------------------------------------
-Seleccione una acción para Virtue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Tam Lin HP:74/218 MP:38/43
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Virtue
+Seleccione una acción para Fuxi
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -3041,27 +1946,27 @@ INPUT: 4
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:282/597 MP:347/347
+Equipo de Kotone (J1)
+A-Kotone HP:351/597 MP:325/347
 B-
 C-
 D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:93/240 MP:212/232
-C-Peri HP:483/483 MP:168/216
-D-Atropos HP:277/277 MP:262/269
+Equipo de Yu (J2)
+A-Yu HP:540/597 MP:342/347
+B-Fuxi HP:14/52 MP:49/49
+C-Hel HP:254/254 MP:246/246
+D-Pale Rider HP:693/693 MP:310/310
 ----------------------------------------
 Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Tadano
-2-Peri
-3-Atropos
-4-Virtue
+1-Yu
+2-Hel
+3-Pale Rider
+4-Fuxi
 ----------------------------------------
-Seleccione una acción para Tadano
+Seleccione una acción para Yu
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -3073,616 +1978,155 @@ INPUT: 5
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:282/597 MP:347/347
+Equipo de Kotone (J1)
+A-Kotone HP:351/597 MP:325/347
 B-
 C-
 D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:93/240 MP:212/232
-C-Peri HP:483/483 MP:168/216
-D-Atropos HP:277/277 MP:262/269
+Equipo de Yu (J2)
+A-Yu HP:540/597 MP:342/347
+B-Fuxi HP:14/52 MP:49/49
+C-Hel HP:254/254 MP:246/246
+D-Pale Rider HP:693/693 MP:310/310
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Peri
-2-Atropos
-3-Virtue
-4-Tadano
+1-Hel
+2-Pale Rider
+3-Fuxi
+4-Yu
 ----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Peri
-1-Yu HP:282/597 MP:347/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Peri ataca a Yu
-Yu es resistente el ataque de Peri
-Yu recibe 20 de daño
-Yu termina con HP:262/597
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:262/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:93/240 MP:212/232
-C-Peri HP:483/483 MP:168/216
-D-Atropos HP:277/277 MP:262/269
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Atropos
-2-Virtue
-3-Tadano
-4-Peri
-----------------------------------------
-Seleccione una acción para Atropos
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Tam Lin HP:74/218 MP:38/43
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Atropos
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Atropos
-1-Yu HP:262/597 MP:347/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Atropos ataca a Yu
-Yu es resistente el ataque de Atropos
-Yu recibe 14 de daño
-Yu termina con HP:248/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Yu (J1)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:248/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:193/193
-B-Virtue HP:93/240 MP:212/232
-C-Peri HP:483/483 MP:168/216
-D-Atropos HP:277/277 MP:262/269
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Yu
-----------------------------------------
-Seleccione una acción para Yu
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Yu
-1-Tadano HP:388/388 MP:193/193
-2-Virtue HP:93/240 MP:212/232
-3-Peri HP:483/483 MP:168/216
-4-Atropos HP:277/277 MP:262/269
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Yu dispara a Tadano
-Tadano recibe 72 de daño
-Tadano termina con HP:316/388
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Tadano (J2)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:248/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:316/388 MP:193/193
-B-Virtue HP:93/240 MP:212/232
-C-Peri HP:483/483 MP:168/216
-D-Atropos HP:277/277 MP:262/269
-----------------------------------------
-Full Turns: 4
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Peri
-2-Atropos
-3-Virtue
-4-Tadano
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Peri
-1-Yu HP:248/597 MP:347/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Peri ataca a Yu
-Yu es resistente el ataque de Peri
-Yu recibe 20 de daño
-Yu termina con HP:228/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:228/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:316/388 MP:193/193
-B-Virtue HP:93/240 MP:212/232
-C-Peri HP:483/483 MP:168/216
-D-Atropos HP:277/277 MP:262/269
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Atropos
-2-Virtue
-3-Tadano
-4-Peri
-----------------------------------------
-Seleccione una acción para Atropos
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:228/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:316/388 MP:193/193
-B-Virtue HP:93/240 MP:212/232
-C-Peri HP:483/483 MP:168/216
-D-Atropos HP:277/277 MP:262/269
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Virtue
-2-Tadano
-3-Peri
-4-Atropos
-----------------------------------------
-Seleccione una acción para Virtue
+Seleccione una acción para Hel
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 2
 ----------------------------------------
-Seleccione una habilidad para que Virtue use
-1-Sabbatma MP:20
-2-Tetraja MP:15
-3-Hamaon MP:10
+Seleccione una habilidad para que Hel use
+1-Mamudo MP:18
+2-Sabbatma MP:20
+3-Mabufula MP:20
 4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Virtue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
 INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Virtue use
-1-Sabbatma MP:20
-2-Tetraja MP:15
-3-Hamaon MP:10
-4-Cancelar
-INPUT: 1
 ----------------------------------------
 Seleccione un monstruo para invocar
-1-Tam Lin HP:74/218 MP:38/43
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Virtue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Virtue use
-1-Sabbatma MP:20
-2-Tetraja MP:15
-3-Hamaon MP:10
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Tam Lin HP:74/218 MP:38/43
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Virtue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Tam Lin HP:74/218 MP:38/43
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Virtue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Virtue use
-1-Sabbatma MP:20
-2-Tetraja MP:15
-3-Hamaon MP:10
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Tam Lin HP:74/218 MP:38/43
-2-Cancelar
+1-Anubis HP:284/497 MP:223/223
+2-Persephone HP:315/315 MP:306/306
+3-Cancelar
 INPUT: 1
 ----------------------------------------
 Seleccione una posición para invocar
-1-Virtue HP:93/240 MP:212/232 (Puesto 2)
-2-Peri HP:483/483 MP:168/216 (Puesto 3)
-3-Atropos HP:277/277 MP:262/269 (Puesto 4)
+1-Fuxi HP:14/52 MP:49/49 (Puesto 2)
+2-Hel HP:254/254 MP:246/246 (Puesto 3)
+3-Pale Rider HP:693/693 MP:310/310 (Puesto 4)
 4-Cancelar
 INPUT: 2
 ----------------------------------------
-Tam Lin ha sido invocado
+Anubis ha sido invocado
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:228/597 MP:347/347
+Equipo de Kotone (J1)
+A-Kotone HP:351/597 MP:325/347
 B-
 C-
 D-
-Equipo de Tadano (J2)
-A-Tadano HP:316/388 MP:193/193
-B-Virtue HP:93/240 MP:192/232
-C-Tam Lin HP:74/218 MP:38/43
-D-Atropos HP:277/277 MP:262/269
+Equipo de Yu (J2)
+A-Yu HP:540/597 MP:342/347
+B-Fuxi HP:14/52 MP:49/49
+C-Anubis HP:284/497 MP:223/223
+D-Pale Rider HP:693/693 MP:310/310
 ----------------------------------------
-Full Turns: 2
+Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Tadano
-2-Tam Lin
-3-Atropos
-4-Virtue
+1-Pale Rider
+2-Fuxi
+3-Yu
+4-Anubis
 ----------------------------------------
-Seleccione una acción para Tadano
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pale Rider use
+1-Pandemic Bomb MP:11
+2-Death's Door MP:10
+3-Deadly Wind MP:22
+4-Debilitate MP:50
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Kotone HP:351/597 MP:325/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Pale Rider lanza viento a Kotone
+Kotone es resistente el ataque de Pale Rider
+Kotone recibe 84 de daño
+Kotone termina con HP:267/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:267/597 MP:325/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:540/597 MP:342/347
+B-Fuxi HP:14/52 MP:49/49
+C-Anubis HP:284/497 MP:223/223
+D-Pale Rider HP:693/693 MP:288/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+----------------------------------------
+Seleccione una acción para Kotone
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Peri HP:483/483 MP:168/216
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una posición para invocar
-1-Virtue HP:93/240 MP:192/232 (Puesto 2)
-2-Tam Lin HP:74/218 MP:38/43 (Puesto 3)
-3-Atropos HP:277/277 MP:262/269 (Puesto 4)
-4-Cancelar
-INPUT: 2
-----------------------------------------
-Peri ha sido invocado
+INPUT: 5
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:228/597 MP:347/347
+Equipo de Kotone (J1)
+A-Kotone HP:267/597 MP:325/347
 B-
 C-
 D-
-Equipo de Tadano (J2)
-A-Tadano HP:316/388 MP:193/193
-B-Virtue HP:93/240 MP:192/232
-C-Peri HP:483/483 MP:168/216
-D-Atropos HP:277/277 MP:262/269
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Peri
-2-Atropos
-3-Virtue
-4-Tadano
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Peri use
-1-Diarahan MP:16
-2-Me Patra MP:15
-3-Panic Voice MP:15
-4-Maragidyne MP:32
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Peri use
-1-Diarahan MP:16
-2-Me Patra MP:15
-3-Panic Voice MP:15
-4-Maragidyne MP:32
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Peri use
-1-Diarahan MP:16
-2-Me Patra MP:15
-3-Panic Voice MP:15
-4-Maragidyne MP:32
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:228/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:316/388 MP:193/193
-B-Virtue HP:93/240 MP:192/232
-C-Peri HP:483/483 MP:168/216
-D-Atropos HP:277/277 MP:262/269
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Atropos
-2-Virtue
-3-Tadano
-4-Peri
-----------------------------------------
-Seleccione una acción para Atropos
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Atropos
-1-Yu HP:228/597 MP:347/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Atropos
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Tam Lin HP:74/218 MP:38/43
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Atropos
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Tam Lin HP:74/218 MP:38/43
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Tam Lin ha sido invocado
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:228/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:316/388 MP:193/193
-B-Virtue HP:93/240 MP:192/232
-C-Peri HP:483/483 MP:168/216
-D-Tam Lin HP:74/218 MP:38/43
+Equipo de Yu (J2)
+A-Yu HP:540/597 MP:342/347
+B-Fuxi HP:14/52 MP:49/49
+C-Anubis HP:284/497 MP:223/223
+D-Pale Rider HP:693/693 MP:288/310
 ----------------------------------------
 Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Virtue
-2-Tadano
-3-Peri
-4-Tam Lin
+1-Kotone
 ----------------------------------------
-Seleccione una acción para Virtue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Virtue use
-1-Sabbatma MP:20
-2-Tetraja MP:15
-3-Hamaon MP:10
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Virtue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Yu (J1)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:228/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:316/388 MP:193/193
-B-Virtue HP:93/240 MP:192/232
-C-Peri HP:483/483 MP:168/216
-D-Tam Lin HP:74/218 MP:38/43
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Yu
-----------------------------------------
-Seleccione una acción para Yu
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Yu
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:228/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:316/388 MP:193/193
-B-Virtue HP:93/240 MP:192/232
-C-Peri HP:483/483 MP:168/216
-D-Tam Lin HP:74/218 MP:38/43
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Yu
-----------------------------------------
-Seleccione una acción para Yu
+Seleccione una acción para Kotone
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -3691,44 +2135,44 @@ Seleccione una acción para Yu
 6: Rendirse
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Yu
-1-Tadano HP:316/388 MP:193/193
-2-Virtue HP:93/240 MP:192/232
-3-Peri HP:483/483 MP:168/216
-4-Tam Lin HP:74/218 MP:38/43
+Seleccione un objetivo para Kotone
+1-Yu HP:540/597 MP:342/347
+2-Fuxi HP:14/52 MP:49/49
+3-Anubis HP:284/497 MP:223/223
+4-Pale Rider HP:693/693 MP:288/310
 5-Cancelar
 INPUT: 4
 ----------------------------------------
-Yu ataca a Tam Lin
-Tam Lin recibe 49 de daño
-Tam Lin termina con HP:25/218
+Kotone ataca a Pale Rider
+Pale Rider recibe 38 de daño
+Pale Rider termina con HP:655/693
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Tadano (J2)
+Ronda de Yu (J2)
 ----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:228/597 MP:347/347
+Equipo de Kotone (J1)
+A-Kotone HP:267/597 MP:325/347
 B-
 C-
 D-
-Equipo de Tadano (J2)
-A-Tadano HP:316/388 MP:193/193
-B-Virtue HP:93/240 MP:192/232
-C-Peri HP:483/483 MP:168/216
-D-Tam Lin HP:25/218 MP:38/43
+Equipo de Yu (J2)
+A-Yu HP:540/597 MP:342/347
+B-Fuxi HP:14/52 MP:49/49
+C-Anubis HP:284/497 MP:223/223
+D-Pale Rider HP:655/693 MP:288/310
 ----------------------------------------
 Full Turns: 4
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Peri
-2-Virtue
-3-Tadano
-4-Tam Lin
+1-Pale Rider
+2-Yu
+3-Anubis
+4-Fuxi
 ----------------------------------------
-Seleccione una acción para Peri
+Seleccione una acción para Pale Rider
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -3738,139 +2182,99 @@ INPUT: 4
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:228/597 MP:347/347
+Equipo de Kotone (J1)
+A-Kotone HP:267/597 MP:325/347
 B-
 C-
 D-
-Equipo de Tadano (J2)
-A-Tadano HP:316/388 MP:193/193
-B-Virtue HP:93/240 MP:192/232
-C-Peri HP:483/483 MP:168/216
-D-Tam Lin HP:25/218 MP:38/43
+Equipo de Yu (J2)
+A-Yu HP:540/597 MP:342/347
+B-Fuxi HP:14/52 MP:49/49
+C-Anubis HP:284/497 MP:223/223
+D-Pale Rider HP:655/693 MP:288/310
 ----------------------------------------
 Full Turns: 3
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Virtue
-2-Tadano
-3-Tam Lin
-4-Peri
+1-Yu
+2-Anubis
+3-Fuxi
+4-Pale Rider
 ----------------------------------------
-Seleccione una acción para Virtue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Virtue use
-1-Sabbatma MP:20
-2-Tetraja MP:15
-3-Hamaon MP:10
-4-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione una acción para Virtue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Atropos HP:277/277 MP:262/269
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Atropos ha sido invocado
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:228/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:316/388 MP:193/193
-B-Atropos HP:277/277 MP:262/269
-C-Peri HP:483/483 MP:168/216
-D-Tam Lin HP:25/218 MP:38/43
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Tadano
-2-Tam Lin
-3-Peri
-4-Atropos
-----------------------------------------
-Seleccione una acción para Tadano
+Seleccione una acción para Yu
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 3
+INPUT: 5
 ----------------------------------------
-Seleccione una habilidad para que Tadano use
-1-Zan MP:5
-2-Nihil Claw MP:11
-3-Agidyne MP:14
-4-Tathlum Shot MP:7
-5-Cancelar
-INPUT: 4
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Seleccione un objetivo para Tadano
-1-Yu HP:228/597 MP:347/347
+Equipo de Kotone (J1)
+A-Kotone HP:267/597 MP:325/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:540/597 MP:342/347
+B-Fuxi HP:14/52 MP:49/49
+C-Anubis HP:284/497 MP:223/223
+D-Pale Rider HP:655/693 MP:288/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anubis
+2-Fuxi
+3-Pale Rider
+4-Yu
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anubis
+1-Kotone HP:267/597 MP:325/347
 2-Cancelar
 INPUT: 1
 ----------------------------------------
-Tadano dispara a Yu
-Yu recibe 55 de daño
-Yu termina con HP:173/597
+Anubis ataca a Kotone
+Kotone es resistente el ataque de Anubis
+Kotone recibe 20 de daño
+Kotone termina con HP:247/597
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:173/597 MP:347/347
+Equipo de Kotone (J1)
+A-Kotone HP:247/597 MP:325/347
 B-
 C-
 D-
-Equipo de Tadano (J2)
-A-Tadano HP:316/388 MP:186/193
-B-Atropos HP:277/277 MP:262/269
-C-Peri HP:483/483 MP:168/216
-D-Tam Lin HP:25/218 MP:38/43
+Equipo de Yu (J2)
+A-Yu HP:540/597 MP:342/347
+B-Fuxi HP:14/52 MP:49/49
+C-Anubis HP:284/497 MP:223/223
+D-Pale Rider HP:655/693 MP:288/310
 ----------------------------------------
 Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Tam Lin
-2-Peri
-3-Atropos
-4-Tadano
+1-Fuxi
+2-Pale Rider
+3-Yu
+4-Anubis
 ----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Virtue HP:93/240 MP:192/232
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Tam Lin
+Seleccione una acción para Fuxi
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -3880,226 +2284,55 @@ INPUT: 4
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:173/597 MP:347/347
+Equipo de Kotone (J1)
+A-Kotone HP:247/597 MP:325/347
 B-
 C-
 D-
-Equipo de Tadano (J2)
-A-Tadano HP:316/388 MP:186/193
-B-Atropos HP:277/277 MP:262/269
-C-Peri HP:483/483 MP:168/216
-D-Tam Lin HP:25/218 MP:38/43
+Equipo de Yu (J2)
+A-Yu HP:540/597 MP:342/347
+B-Fuxi HP:14/52 MP:49/49
+C-Anubis HP:284/497 MP:223/223
+D-Pale Rider HP:655/693 MP:288/310
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Peri
-2-Atropos
-3-Tadano
-4-Tam Lin
+1-Pale Rider
+2-Yu
+3-Anubis
+4-Fuxi
 ----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Peri
-1-Yu HP:173/597 MP:347/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Peri ataca a Yu
-Yu es resistente el ataque de Peri
-Yu recibe 20 de daño
-Yu termina con HP:153/597
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:153/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:316/388 MP:186/193
-B-Atropos HP:277/277 MP:262/269
-C-Peri HP:483/483 MP:168/216
-D-Tam Lin HP:25/218 MP:38/43
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Atropos
-2-Tadano
-3-Tam Lin
-4-Peri
-----------------------------------------
-Seleccione una acción para Atropos
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Virtue HP:93/240 MP:192/232
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Atropos
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Virtue HP:93/240 MP:192/232
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Atropos
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Virtue HP:93/240 MP:192/232
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Atropos
+Seleccione una acción para Pale Rider
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 4
 ----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:153/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:316/388 MP:186/193
-B-Atropos HP:277/277 MP:262/269
-C-Peri HP:483/483 MP:168/216
-D-Tam Lin HP:25/218 MP:38/43
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Tadano
-2-Tam Lin
-3-Peri
-4-Atropos
-----------------------------------------
-Seleccione una acción para Tadano
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Tadano
-1-Yu HP:153/597 MP:347/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Tadano
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Tadano
-1-Yu HP:153/597 MP:347/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Tadano
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Tadano
-1-Yu HP:153/597 MP:347/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Tadano ataca a Yu
-Yu es resistente el ataque de Tadano
-Yu recibe 8 de daño
-Yu termina con HP:145/597
-----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Yu (J1)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:145/597 MP:347/347
+Equipo de Kotone (J1)
+A-Kotone HP:247/597 MP:325/347
 B-
 C-
 D-
-Equipo de Tadano (J2)
-A-Tadano HP:316/388 MP:186/193
-B-Atropos HP:277/277 MP:262/269
-C-Peri HP:483/483 MP:168/216
-D-Tam Lin HP:25/218 MP:38/43
+Equipo de Yu (J2)
+A-Yu HP:540/597 MP:342/347
+B-Fuxi HP:14/52 MP:49/49
+C-Anubis HP:284/497 MP:223/223
+D-Pale Rider HP:655/693 MP:288/310
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
 1-Yu
-----------------------------------------
-Seleccione una acción para Yu
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 4
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione una acción para Yu
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Yu use
-1-Cancelar
-INPUT: 1
+2-Anubis
+3-Fuxi
+4-Pale Rider
 ----------------------------------------
 Seleccione una acción para Yu
 1: Atacar
@@ -4113,24 +2346,64 @@ INPUT: 5
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:145/597 MP:347/347
+Equipo de Kotone (J1)
+A-Kotone HP:247/597 MP:325/347
 B-
 C-
 D-
-Equipo de Tadano (J2)
-A-Tadano HP:316/388 MP:186/193
-B-Atropos HP:277/277 MP:262/269
-C-Peri HP:483/483 MP:168/216
-D-Tam Lin HP:25/218 MP:38/43
+Equipo de Yu (J2)
+A-Yu HP:540/597 MP:342/347
+B-Fuxi HP:14/52 MP:49/49
+C-Anubis HP:284/497 MP:223/223
+D-Pale Rider HP:655/693 MP:288/310
 ----------------------------------------
 Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Yu
+1-Anubis
+2-Fuxi
+3-Pale Rider
+4-Yu
 ----------------------------------------
-Seleccione una acción para Yu
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Persephone HP:315/315 MP:306/306
+2-Hel HP:254/254 MP:226/246
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Hel ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:247/597 MP:325/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:540/597 MP:342/347
+B-Fuxi HP:14/52 MP:49/49
+C-Hel HP:254/254 MP:226/246
+D-Pale Rider HP:655/693 MP:288/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+----------------------------------------
+Seleccione una acción para Kotone
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -4139,694 +2412,129 @@ Seleccione una acción para Yu
 6: Rendirse
 INPUT: 5
 ----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Ronda de Tadano (J2)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:145/597 MP:347/347
+Equipo de Kotone (J1)
+A-Kotone HP:247/597 MP:325/347
 B-
 C-
 D-
-Equipo de Tadano (J2)
-A-Tadano HP:316/388 MP:186/193
-B-Atropos HP:277/277 MP:262/269
-C-Peri HP:483/483 MP:168/216
-D-Tam Lin HP:25/218 MP:38/43
+Equipo de Yu (J2)
+A-Yu HP:540/597 MP:342/347
+B-Fuxi HP:14/52 MP:49/49
+C-Hel HP:254/254 MP:226/246
+D-Pale Rider HP:655/693 MP:288/310
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Yu HP:540/597 MP:342/347
+2-Fuxi HP:14/52 MP:49/49
+3-Hel HP:254/254 MP:226/246
+4-Pale Rider HP:655/693 MP:288/310
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kotone ataca a Hel
+Hel recibe 38 de daño
+Hel termina con HP:216/254
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:247/597 MP:325/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:540/597 MP:342/347
+B-Fuxi HP:14/52 MP:49/49
+C-Hel HP:216/254 MP:226/246
+D-Pale Rider HP:655/693 MP:288/310
 ----------------------------------------
 Full Turns: 4
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Peri
-2-Atropos
-3-Tadano
-4-Tam Lin
+1-Pale Rider
+2-Yu
+3-Hel
+4-Fuxi
 ----------------------------------------
-Seleccione una acción para Peri
+Seleccione una acción para Pale Rider
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
 INPUT: 2
 ----------------------------------------
-Seleccione una habilidad para que Peri use
-1-Diarahan MP:16
-2-Me Patra MP:15
-3-Panic Voice MP:15
-4-Maragidyne MP:32
+Seleccione una habilidad para que Pale Rider use
+1-Pandemic Bomb MP:11
+2-Death's Door MP:10
+3-Deadly Wind MP:22
+4-Debilitate MP:50
 5-Cancelar
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Peri
-1-Tadano HP:316/388 MP:186/193
-2-Atropos HP:277/277 MP:262/269
-3-Peri HP:483/483 MP:168/216
-4-Tam Lin HP:25/218 MP:38/43
-5-Virtue HP:93/240 MP:192/232
-6-Cancelar
 INPUT: 5
 ----------------------------------------
-Peri cura a Virtue
-Virtue recibe 240 de HP
-Virtue termina con HP:240/240
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:145/597 MP:347/347
+Equipo de Kotone (J1)
+A-Kotone HP:247/597 MP:325/347
 B-
 C-
 D-
-Equipo de Tadano (J2)
-A-Tadano HP:316/388 MP:186/193
-B-Atropos HP:277/277 MP:262/269
-C-Peri HP:483/483 MP:152/216
-D-Tam Lin HP:25/218 MP:38/43
+Equipo de Yu (J2)
+A-Yu HP:540/597 MP:342/347
+B-Fuxi HP:14/52 MP:49/49
+C-Hel HP:216/254 MP:226/246
+D-Pale Rider HP:655/693 MP:288/310
 ----------------------------------------
 Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Atropos
-2-Tadano
-3-Tam Lin
-4-Peri
-----------------------------------------
-Seleccione una acción para Atropos
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Atropos use
-1-Hamaon MP:10
-2-Tathlum Shot MP:7
-3-Ziodyne MP:14
-4-Zandyne MP:14
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Atropos
-1-Yu HP:145/597 MP:347/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Atropos
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:145/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:316/388 MP:186/193
-B-Atropos HP:277/277 MP:262/269
-C-Peri HP:483/483 MP:152/216
-D-Tam Lin HP:25/218 MP:38/43
-----------------------------------------
-Full Turns: 2
 Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Tadano
-2-Tam Lin
-3-Peri
-4-Atropos
-----------------------------------------
-Seleccione una acción para Tadano
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Tadano use
-1-Zan MP:5
-2-Nihil Claw MP:11
-3-Agidyne MP:14
-4-Tathlum Shot MP:7
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Tadano
-1-Yu HP:145/597 MP:347/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Tadano
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Tadano
-1-Yu HP:145/597 MP:347/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Tadano
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Tadano
-1-Yu HP:145/597 MP:347/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Tadano
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 5
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:145/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:316/388 MP:186/193
-B-Atropos HP:277/277 MP:262/269
-C-Peri HP:483/483 MP:152/216
-D-Tam Lin HP:25/218 MP:38/43
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Tam Lin
-2-Peri
-3-Atropos
-4-Tadano
-----------------------------------------
-Seleccione una acción para Tam Lin
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:145/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:316/388 MP:186/193
-B-Atropos HP:277/277 MP:262/269
-C-Peri HP:483/483 MP:152/216
-D-Tam Lin HP:25/218 MP:38/43
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Peri
-2-Atropos
-3-Tadano
-4-Tam Lin
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Peri
-1-Yu HP:145/597 MP:347/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Peri ataca a Yu
-Yu es resistente el ataque de Peri
-Yu recibe 20 de daño
-Yu termina con HP:125/597
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:125/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:316/388 MP:186/193
-B-Atropos HP:277/277 MP:262/269
-C-Peri HP:483/483 MP:152/216
-D-Tam Lin HP:25/218 MP:38/43
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Atropos
-2-Tadano
-3-Tam Lin
-4-Peri
-----------------------------------------
-Seleccione una acción para Atropos
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:125/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:316/388 MP:186/193
-B-Atropos HP:277/277 MP:262/269
-C-Peri HP:483/483 MP:152/216
-D-Tam Lin HP:25/218 MP:38/43
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Tadano
-2-Tam Lin
-3-Peri
-4-Atropos
-----------------------------------------
-Seleccione una acción para Tadano
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Tadano
-1-Yu HP:125/597 MP:347/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Tadano
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Tadano
-1-Yu HP:125/597 MP:347/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Tadano
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Tadano
-1-Yu HP:125/597 MP:347/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Tadano ataca a Yu
-Yu es resistente el ataque de Tadano
-Yu recibe 8 de daño
-Yu termina con HP:117/597
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Yu (J1)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:117/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:316/388 MP:186/193
-B-Atropos HP:277/277 MP:262/269
-C-Peri HP:483/483 MP:152/216
-D-Tam Lin HP:25/218 MP:38/43
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
 ----------------------------------------
 Orden:
 1-Yu
-----------------------------------------
-Seleccione una acción para Yu
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Yu
-1-Tadano HP:316/388 MP:186/193
-2-Atropos HP:277/277 MP:262/269
-3-Peri HP:483/483 MP:152/216
-4-Tam Lin HP:25/218 MP:38/43
-5-Cancelar
-INPUT: 4
-----------------------------------------
-Yu dispara a Tam Lin
-Tam Lin recibe 72 de daño
-Tam Lin termina con HP:0/218
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Tadano (J2)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:117/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:316/388 MP:186/193
-B-Atropos HP:277/277 MP:262/269
-C-Peri HP:483/483 MP:152/216
-D-
-----------------------------------------
-Full Turns: 3
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Peri
-2-Atropos
-3-Tadano
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Peri
-1-Yu HP:117/597 MP:347/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Peri
-1-Yu HP:117/597 MP:347/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Peri ataca a Yu
-Yu es resistente el ataque de Peri
-Yu recibe 20 de daño
-Yu termina con HP:97/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:97/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:316/388 MP:186/193
-B-Atropos HP:277/277 MP:262/269
-C-Peri HP:483/483 MP:152/216
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Atropos
-2-Tadano
-3-Peri
-----------------------------------------
-Seleccione una acción para Atropos
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:97/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:316/388 MP:186/193
-B-Atropos HP:277/277 MP:262/269
-C-Peri HP:483/483 MP:152/216
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Tadano
-2-Peri
-3-Atropos
-----------------------------------------
-Seleccione una acción para Tadano
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Tadano use
-1-Zan MP:5
-2-Nihil Claw MP:11
-3-Agidyne MP:14
-4-Tathlum Shot MP:7
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Tadano
-1-Yu HP:97/597 MP:347/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Tadano
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Tadano
-1-Yu HP:97/597 MP:347/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Tadano
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Tadano use
-1-Zan MP:5
-2-Nihil Claw MP:11
-3-Agidyne MP:14
-4-Tathlum Shot MP:7
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Tadano
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 3
-----------------------------------------
-Seleccione una habilidad para que Tadano use
-1-Zan MP:5
-2-Nihil Claw MP:11
-3-Agidyne MP:14
-4-Tathlum Shot MP:7
-5-Cancelar
-INPUT: 3
-----------------------------------------
-Seleccione un objetivo para Tadano
-1-Yu HP:97/597 MP:347/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Tadano lanza fuego a Yu
-Yu es resistente el ataque de Tadano
-Yu recibe 38 de daño
-Yu termina con HP:59/597
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:59/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:316/388 MP:172/193
-B-Atropos HP:277/277 MP:262/269
-C-Peri HP:483/483 MP:152/216
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Peri
-2-Atropos
-3-Tadano
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 1 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:59/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:316/388 MP:172/193
-B-Atropos HP:277/277 MP:262/269
-C-Peri HP:483/483 MP:152/216
-D-
-----------------------------------------
-Full Turns: 0
-Blinking Turns: 1
-----------------------------------------
-Orden:
-1-Atropos
-2-Tadano
-3-Peri
-----------------------------------------
-Seleccione una acción para Atropos
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Atropos use
-1-Hamaon MP:10
-2-Tathlum Shot MP:7
-3-Ziodyne MP:14
-4-Zandyne MP:14
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Atropos
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Atropos
-1-Yu HP:59/597 MP:347/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Atropos
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Yu (J1)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:59/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:316/388 MP:172/193
-B-Atropos HP:277/277 MP:262/269
-C-Peri HP:483/483 MP:152/216
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Yu
+2-Hel
+3-Fuxi
+4-Pale Rider
 ----------------------------------------
 Seleccione una acción para Yu
 1: Atacar
@@ -4838,8 +2546,9 @@ Seleccione una acción para Yu
 INPUT: 3
 ----------------------------------------
 Seleccione una habilidad para que Yu use
-1-Cancelar
-INPUT: 1
+1-Agi MP:5
+2-Cancelar
+INPUT: 2
 ----------------------------------------
 Seleccione una acción para Yu
 1: Atacar
@@ -4851,8 +2560,9 @@ Seleccione una acción para Yu
 INPUT: 3
 ----------------------------------------
 Seleccione una habilidad para que Yu use
-1-Cancelar
-INPUT: 1
+1-Agi MP:5
+2-Cancelar
+INPUT: 2
 ----------------------------------------
 Seleccione una acción para Yu
 1: Atacar
@@ -4861,45 +2571,84 @@ Seleccione una acción para Yu
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 1
+INPUT: 5
 ----------------------------------------
-Seleccione un objetivo para Yu
-1-Tadano HP:316/388 MP:172/193
-2-Atropos HP:277/277 MP:262/269
-3-Peri HP:483/483 MP:152/216
-4-Cancelar
-INPUT: 1
-----------------------------------------
-Yu ataca a Tadano
-Tadano es resistente el ataque de Yu
-Tadano recibe 24 de daño
-Tadano termina con HP:292/388
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Tadano (J2)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:59/597 MP:347/347
+Equipo de Kotone (J1)
+A-Kotone HP:247/597 MP:325/347
 B-
 C-
 D-
-Equipo de Tadano (J2)
-A-Tadano HP:292/388 MP:172/193
-B-Atropos HP:277/277 MP:262/269
-C-Peri HP:483/483 MP:152/216
-D-
+Equipo de Yu (J2)
+A-Yu HP:540/597 MP:342/347
+B-Fuxi HP:14/52 MP:49/49
+C-Hel HP:216/254 MP:226/246
+D-Pale Rider HP:655/693 MP:288/310
 ----------------------------------------
 Full Turns: 3
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Peri
-2-Atropos
-3-Tadano
+1-Hel
+2-Fuxi
+3-Pale Rider
+4-Yu
 ----------------------------------------
-Seleccione una acción para Peri
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Kotone HP:247/597 MP:325/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Kotone HP:247/597 MP:325/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Hel ataca a Kotone
+Kotone es resistente el ataque de Hel
+Kotone recibe 13 de daño
+Kotone termina con HP:234/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:234/597 MP:325/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:540/597 MP:342/347
+B-Fuxi HP:14/52 MP:49/49
+C-Hel HP:216/254 MP:226/246
+D-Pale Rider HP:655/693 MP:288/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Fuxi
+2-Pale Rider
+3-Yu
+4-Hel
+----------------------------------------
+Seleccione una acción para Fuxi
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -4909,186 +2658,67 @@ INPUT: 4
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:59/597 MP:347/347
+Equipo de Kotone (J1)
+A-Kotone HP:234/597 MP:325/347
 B-
 C-
 D-
-Equipo de Tadano (J2)
-A-Tadano HP:292/388 MP:172/193
-B-Atropos HP:277/277 MP:262/269
-C-Peri HP:483/483 MP:152/216
-D-
+Equipo de Yu (J2)
+A-Yu HP:540/597 MP:342/347
+B-Fuxi HP:14/52 MP:49/49
+C-Hel HP:216/254 MP:226/246
+D-Pale Rider HP:655/693 MP:288/310
 ----------------------------------------
-Full Turns: 2
+Full Turns: 1
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Atropos
-2-Tadano
-3-Peri
+1-Pale Rider
+2-Yu
+3-Hel
+4-Fuxi
 ----------------------------------------
-Seleccione una acción para Atropos
+Seleccione una acción para Pale Rider
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Atropos use
-1-Hamaon MP:10
-2-Tathlum Shot MP:7
-3-Ziodyne MP:14
-4-Zandyne MP:14
-5-Cancelar
-INPUT: 4
-----------------------------------------
-Seleccione un objetivo para Atropos
-1-Yu HP:59/597 MP:347/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Atropos
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Virtue HP:240/240 MP:192/232
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Atropos
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Atropos use
-1-Hamaon MP:10
-2-Tathlum Shot MP:7
-3-Ziodyne MP:14
-4-Zandyne MP:14
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Atropos
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Virtue HP:240/240 MP:192/232
-2-Cancelar
 INPUT: 1
 ----------------------------------------
-Virtue ha sido invocado
+Seleccione un objetivo para Pale Rider
+1-Kotone HP:234/597 MP:325/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:59/597 MP:347/347
+Equipo de Kotone (J1)
+A-Kotone HP:234/597 MP:325/347
 B-
 C-
 D-
-Equipo de Tadano (J2)
-A-Tadano HP:292/388 MP:172/193
-B-Virtue HP:240/240 MP:192/232
-C-Peri HP:483/483 MP:152/216
-D-
-----------------------------------------
-Full Turns: 2
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Tadano
-2-Peri
-3-Virtue
-----------------------------------------
-Seleccione una acción para Tadano
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 2
-----------------------------------------
-Seleccione un objetivo para Tadano
-1-Yu HP:59/597 MP:347/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Tadano dispara a Yu
-Yu recibe 20 de daño
-Yu termina con HP:39/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:39/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:292/388 MP:172/193
-B-Virtue HP:240/240 MP:192/232
-C-Peri HP:483/483 MP:152/216
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Peri
-2-Virtue
-3-Tadano
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Peri
-1-Yu HP:39/597 MP:347/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Peri ataca a Yu
-Yu es resistente el ataque de Peri
-Yu recibe 20 de daño
-Yu termina con HP:19/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Yu (J1)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:19/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:292/388 MP:172/193
-B-Virtue HP:240/240 MP:192/232
-C-Peri HP:483/483 MP:152/216
-D-
+Equipo de Yu (J2)
+A-Yu HP:540/597 MP:342/347
+B-Fuxi HP:14/52 MP:49/49
+C-Hel HP:216/254 MP:226/246
+D-Pale Rider HP:655/693 MP:288/310
 ----------------------------------------
 Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
 1-Yu
+2-Hel
+3-Fuxi
+4-Pale Rider
 ----------------------------------------
 Seleccione una acción para Yu
 1: Atacar
@@ -5100,114 +2730,112 @@ Seleccione una acción para Yu
 INPUT: 1
 ----------------------------------------
 Seleccione un objetivo para Yu
-1-Tadano HP:292/388 MP:172/193
-2-Virtue HP:240/240 MP:192/232
-3-Peri HP:483/483 MP:152/216
-4-Cancelar
-INPUT: 3
+1-Kotone HP:234/597 MP:325/347
+2-Cancelar
+INPUT: 1
 ----------------------------------------
-Yu ataca a Peri
-Peri recibe 49 de daño
-Peri termina con HP:434/483
+Yu ataca a Kotone
+Kotone es resistente el ataque de Yu
+Kotone recibe 24 de daño
+Kotone termina con HP:210/597
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Tadano (J2)
+Ronda de Kotone (J1)
 ----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:19/597 MP:347/347
+Equipo de Kotone (J1)
+A-Kotone HP:210/597 MP:325/347
 B-
 C-
 D-
-Equipo de Tadano (J2)
-A-Tadano HP:292/388 MP:172/193
-B-Virtue HP:240/240 MP:192/232
-C-Peri HP:434/483 MP:152/216
-D-
+Equipo de Yu (J2)
+A-Yu HP:540/597 MP:342/347
+B-Fuxi HP:14/52 MP:49/49
+C-Hel HP:216/254 MP:226/246
+D-Pale Rider HP:655/693 MP:288/310
 ----------------------------------------
-Full Turns: 3
+Full Turns: 1
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Peri
-2-Virtue
-3-Tadano
+1-Kotone
 ----------------------------------------
-Seleccione una acción para Peri
+Seleccione una acción para Kotone
 1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 3
-----------------------------------------
-Seleccione un monstruo para invocar
-1-Atropos HP:277/277 MP:262/269
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Peri
-1-Yu HP:19/597 MP:347/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Peri use
-1-Diarahan MP:16
-2-Me Patra MP:15
-3-Panic Voice MP:15
-4-Maragidyne MP:32
+Seleccione un objetivo para Kotone
+1-Yu HP:540/597 MP:342/347
+2-Fuxi HP:14/52 MP:49/49
+3-Hel HP:216/254 MP:226/246
+4-Pale Rider HP:655/693 MP:288/310
 5-Cancelar
 INPUT: 1
 ----------------------------------------
-Seleccione un objetivo para Peri
-1-Tadano HP:292/388 MP:172/193
-2-Virtue HP:240/240 MP:192/232
-3-Peri HP:434/483 MP:152/216
-4-Atropos HP:277/277 MP:262/269
-5-Cancelar
-INPUT: 1
-----------------------------------------
-Peri cura a Tadano
-Tadano recibe 388 de HP
-Tadano termina con HP:388/388
+Kotone ataca a Yu
+Yu es resistente el ataque de Kotone
+Yu recibe 19 de daño
+Yu termina con HP:521/597
 ----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:19/597 MP:347/347
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:210/597 MP:325/347
 B-
 C-
 D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:172/193
-B-Virtue HP:240/240 MP:192/232
-C-Peri HP:434/483 MP:136/216
-D-
+Equipo de Yu (J2)
+A-Yu HP:521/597 MP:342/347
+B-Fuxi HP:14/52 MP:49/49
+C-Hel HP:216/254 MP:226/246
+D-Pale Rider HP:655/693 MP:288/310
 ----------------------------------------
-Full Turns: 2
+Full Turns: 4
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Virtue
-2-Tadano
-3-Peri
+1-Pale Rider
+2-Yu
+3-Hel
+4-Fuxi
 ----------------------------------------
-Seleccione una acción para Virtue
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Kotone HP:210/597 MP:325/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pale Rider use
+1-Pandemic Bomb MP:11
+2-Death's Door MP:10
+3-Deadly Wind MP:22
+4-Debilitate MP:50
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Pale Rider
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -5217,26 +2845,260 @@ INPUT: 4
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:19/597 MP:347/347
+Equipo de Kotone (J1)
+A-Kotone HP:210/597 MP:325/347
 B-
 C-
 D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:172/193
-B-Virtue HP:240/240 MP:192/232
-C-Peri HP:434/483 MP:136/216
-D-
+Equipo de Yu (J2)
+A-Yu HP:521/597 MP:342/347
+B-Fuxi HP:14/52 MP:49/49
+C-Hel HP:216/254 MP:226/246
+D-Pale Rider HP:655/693 MP:288/310
 ----------------------------------------
-Full Turns: 1
+Full Turns: 3
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Tadano
-2-Peri
-3-Virtue
+1-Yu
+2-Hel
+3-Fuxi
+4-Pale Rider
 ----------------------------------------
-Seleccione una acción para Tadano
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Kotone HP:210/597 MP:325/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Agi MP:5
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Kotone HP:210/597 MP:325/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu lanza fuego a Kotone
+Kotone es resistente el ataque de Yu
+Kotone recibe 40 de daño
+Kotone termina con HP:170/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:170/597 MP:325/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:521/597 MP:337/347
+B-Fuxi HP:14/52 MP:49/49
+C-Hel HP:216/254 MP:226/246
+D-Pale Rider HP:655/693 MP:288/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Fuxi
+3-Pale Rider
+4-Yu
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Kotone HP:170/597 MP:325/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Kotone HP:170/597 MP:325/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Hel ataca a Kotone
+Kotone es resistente el ataque de Hel
+Kotone recibe 13 de daño
+Kotone termina con HP:157/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:157/597 MP:325/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:521/597 MP:337/347
+B-Fuxi HP:14/52 MP:49/49
+C-Hel HP:216/254 MP:226/246
+D-Pale Rider HP:655/693 MP:288/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Fuxi
+2-Pale Rider
+3-Yu
+4-Hel
+----------------------------------------
+Seleccione una acción para Fuxi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Fuxi
+1-Kotone HP:157/597 MP:325/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Fuxi ataca a Kotone
+Kotone es resistente el ataque de Fuxi
+Kotone recibe 2 de daño
+Kotone termina con HP:155/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:155/597 MP:325/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:521/597 MP:337/347
+B-Fuxi HP:14/52 MP:49/49
+C-Hel HP:216/254 MP:226/246
+D-Pale Rider HP:655/693 MP:288/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Yu
+3-Hel
+4-Fuxi
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pale Rider use
+1-Pandemic Bomb MP:11
+2-Death's Door MP:10
+3-Deadly Wind MP:22
+4-Debilitate MP:50
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Anubis HP:284/497 MP:223/223
+2-Persephone HP:315/315 MP:306/306
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pale Rider
+1-Kotone HP:155/597 MP:325/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Pale Rider ataca a Kotone
+Kotone es resistente el ataque de Pale Rider
+Kotone recibe 29 de daño
+Kotone termina con HP:126/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:126/597 MP:325/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:521/597 MP:337/347
+B-Fuxi HP:14/52 MP:49/49
+C-Hel HP:216/254 MP:226/246
+D-Pale Rider HP:655/693 MP:288/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kotone
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -5245,146 +3107,61 @@ Seleccione una acción para Tadano
 6: Rendirse
 INPUT: 5
 ----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:19/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:172/193
-B-Virtue HP:240/240 MP:192/232
-C-Peri HP:434/483 MP:136/216
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Peri
-2-Virtue
-3-Tadano
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 2
-----------------------------------------
-Seleccione una habilidad para que Peri use
-1-Diarahan MP:16
-2-Me Patra MP:15
-3-Panic Voice MP:15
-4-Maragidyne MP:32
-5-Cancelar
-INPUT: 5
-----------------------------------------
-Seleccione una acción para Peri
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:19/597 MP:347/347
+Equipo de Kotone (J1)
+A-Kotone HP:126/597 MP:325/347
 B-
 C-
 D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:172/193
-B-Virtue HP:240/240 MP:192/232
-C-Peri HP:434/483 MP:136/216
-D-
+Equipo de Yu (J2)
+A-Yu HP:521/597 MP:337/347
+B-Fuxi HP:14/52 MP:49/49
+C-Hel HP:216/254 MP:226/246
+D-Pale Rider HP:655/693 MP:288/310
 ----------------------------------------
 Full Turns: 0
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Virtue
-2-Tadano
-3-Peri
+1-Kotone
 ----------------------------------------
-Seleccione una acción para Virtue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 4
-----------------------------------------
-Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
-Se han obtenido 0 Blinking Turn(s)
-----------------------------------------
-Ronda de Yu (J1)
-----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:19/597 MP:347/347
-B-
-C-
-D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:172/193
-B-Virtue HP:240/240 MP:192/232
-C-Peri HP:434/483 MP:136/216
-D-
-----------------------------------------
-Full Turns: 1
-Blinking Turns: 0
-----------------------------------------
-Orden:
-1-Yu
-----------------------------------------
-Seleccione una acción para Yu
+Seleccione una acción para Kotone
 1: Atacar
 2: Disparar
 3: Usar Habilidad
 4: Invocar
 5: Pasar Turno
 6: Rendirse
-INPUT: 2
+INPUT: 5
 ----------------------------------------
-Seleccione un objetivo para Yu
-1-Tadano HP:388/388 MP:172/193
-2-Virtue HP:240/240 MP:192/232
-3-Peri HP:434/483 MP:136/216
-4-Cancelar
-INPUT: 3
-----------------------------------------
-Yu dispara a Peri
-Peri recibe 72 de daño
-Peri termina con HP:362/483
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ronda de Tadano (J2)
+Ronda de Yu (J2)
 ----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:19/597 MP:347/347
+Equipo de Kotone (J1)
+A-Kotone HP:126/597 MP:325/347
 B-
 C-
 D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:172/193
-B-Virtue HP:240/240 MP:192/232
-C-Peri HP:362/483 MP:136/216
-D-
+Equipo de Yu (J2)
+A-Yu HP:521/597 MP:337/347
+B-Fuxi HP:14/52 MP:49/49
+C-Hel HP:216/254 MP:226/246
+D-Pale Rider HP:655/693 MP:288/310
 ----------------------------------------
-Full Turns: 3
+Full Turns: 4
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Peri
-2-Virtue
-3-Tadano
+1-Pale Rider
+2-Yu
+3-Hel
+4-Fuxi
 ----------------------------------------
-Seleccione una acción para Peri
+Seleccione una acción para Pale Rider
 1: Atacar
 2: Usar Habilidad
 3: Invocar
@@ -5394,77 +3171,648 @@ INPUT: 4
 Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
 Se han obtenido 1 Blinking Turn(s)
 ----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:19/597 MP:347/347
+Equipo de Kotone (J1)
+A-Kotone HP:126/597 MP:325/347
 B-
 C-
 D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:172/193
-B-Virtue HP:240/240 MP:192/232
-C-Peri HP:362/483 MP:136/216
+Equipo de Yu (J2)
+A-Yu HP:521/597 MP:337/347
+B-Fuxi HP:14/52 MP:49/49
+C-Hel HP:216/254 MP:226/246
+D-Pale Rider HP:655/693 MP:288/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Hel
+3-Fuxi
+4-Pale Rider
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Anubis HP:284/497 MP:223/223
+2-Persephone HP:315/315 MP:306/306
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:126/597 MP:325/347
+B-
+C-
 D-
+Equipo de Yu (J2)
+A-Yu HP:521/597 MP:337/347
+B-Fuxi HP:14/52 MP:49/49
+C-Hel HP:216/254 MP:226/246
+D-Pale Rider HP:655/693 MP:288/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Fuxi
+3-Pale Rider
+4-Yu
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:126/597 MP:325/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:521/597 MP:337/347
+B-Fuxi HP:14/52 MP:49/49
+C-Hel HP:216/254 MP:226/246
+D-Pale Rider HP:655/693 MP:288/310
 ----------------------------------------
 Full Turns: 2
 Blinking Turns: 1
 ----------------------------------------
 Orden:
-1-Virtue
-2-Tadano
-3-Peri
+1-Fuxi
+2-Pale Rider
+3-Yu
+4-Hel
 ----------------------------------------
-Seleccione una acción para Virtue
+Seleccione una acción para Fuxi
 1: Atacar
 2: Usar Habilidad
 3: Invocar
 4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Virtue
-1-Yu HP:19/597 MP:347/347
-2-Cancelar
-INPUT: 2
-----------------------------------------
-Seleccione una acción para Virtue
-1: Atacar
-2: Usar Habilidad
-3: Invocar
-4: Pasar Turno
-INPUT: 1
-----------------------------------------
-Seleccione un objetivo para Virtue
-1-Yu HP:19/597 MP:347/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Virtue ataca a Yu
-Yu es resistente el ataque de Virtue
-Yu recibe 12 de daño
-Yu termina con HP:7/597
+INPUT: 4
 ----------------------------------------
 Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Equipo de Yu (J1)
-A-Yu HP:7/597 MP:347/347
+Equipo de Kotone (J1)
+A-Kotone HP:126/597 MP:325/347
 B-
 C-
 D-
-Equipo de Tadano (J2)
-A-Tadano HP:388/388 MP:172/193
-B-Virtue HP:240/240 MP:192/232
-C-Peri HP:362/483 MP:136/216
-D-
+Equipo de Yu (J2)
+A-Yu HP:521/597 MP:337/347
+B-Fuxi HP:14/52 MP:49/49
+C-Hel HP:216/254 MP:226/246
+D-Pale Rider HP:655/693 MP:288/310
 ----------------------------------------
 Full Turns: 2
 Blinking Turns: 0
 ----------------------------------------
 Orden:
-1-Tadano
-2-Peri
-3-Virtue
+1-Pale Rider
+2-Yu
+3-Hel
+4-Fuxi
 ----------------------------------------
-Seleccione una acción para Tadano
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pale Rider use
+1-Pandemic Bomb MP:11
+2-Death's Door MP:10
+3-Deadly Wind MP:22
+4-Debilitate MP:50
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Anubis HP:284/497 MP:223/223
+2-Persephone HP:315/315 MP:306/306
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Persephone ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:126/597 MP:325/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:521/597 MP:337/347
+B-Fuxi HP:14/52 MP:49/49
+C-Hel HP:216/254 MP:226/246
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Hel
+3-Fuxi
+4-Persephone
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:126/597 MP:325/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:521/597 MP:337/347
+B-Fuxi HP:14/52 MP:49/49
+C-Hel HP:216/254 MP:226/246
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Fuxi
+3-Persephone
+4-Yu
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hel use
+1-Mamudo MP:18
+2-Sabbatma MP:20
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Pale Rider HP:655/693 MP:288/310
+2-Anubis HP:284/497 MP:223/223
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:126/597 MP:325/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:521/597 MP:337/347
+B-Fuxi HP:14/52 MP:49/49
+C-Hel HP:216/254 MP:226/246
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Fuxi
+2-Persephone
+3-Yu
+4-Hel
+----------------------------------------
+Seleccione una acción para Fuxi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Fuxi
+1-Kotone HP:126/597 MP:325/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Fuxi ataca a Kotone
+Kotone es resistente el ataque de Fuxi
+Kotone recibe 2 de daño
+Kotone termina con HP:124/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:124/597 MP:325/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:521/597 MP:337/347
+B-Fuxi HP:14/52 MP:49/49
+C-Hel HP:216/254 MP:226/246
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Yu HP:521/597 MP:337/347
+2-Fuxi HP:14/52 MP:49/49
+3-Hel HP:216/254 MP:226/246
+4-Persephone HP:315/315 MP:306/306
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kotone dispara a Yu
+Yu recibe 57 de daño
+Yu termina con HP:464/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:124/597 MP:325/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:337/347
+B-Fuxi HP:14/52 MP:49/49
+C-Hel HP:216/254 MP:226/246
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Persephone
+3-Hel
+4-Fuxi
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:124/597 MP:325/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:337/347
+B-Fuxi HP:14/52 MP:49/49
+C-Hel HP:216/254 MP:226/246
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Persephone
+2-Hel
+3-Fuxi
+4-Yu
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Persephone use
+1-Bufudyne MP:14
+2-Death's Door MP:10
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Kotone HP:124/597 MP:325/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:124/597 MP:325/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:337/347
+B-Fuxi HP:14/52 MP:49/49
+C-Hel HP:216/254 MP:226/246
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Fuxi
+3-Yu
+4-Persephone
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Pale Rider HP:655/693 MP:288/310
+2-Anubis HP:284/497 MP:223/223
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Anubis ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:124/597 MP:325/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:337/347
+B-Fuxi HP:14/52 MP:49/49
+C-Anubis HP:284/497 MP:223/223
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Fuxi
+2-Yu
+3-Persephone
+4-Anubis
+----------------------------------------
+Seleccione una acción para Fuxi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Pale Rider HP:655/693 MP:288/310
+2-Hel HP:216/254 MP:226/246
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Hel ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:124/597 MP:325/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:337/347
+B-Hel HP:216/254 MP:226/246
+C-Anubis HP:284/497 MP:223/223
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Persephone
+3-Anubis
+4-Hel
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Kotone HP:124/597 MP:325/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Kotone
+Kotone es resistente el ataque de Yu
+Kotone recibe 24 de daño
+Kotone termina con HP:100/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:100/597 MP:325/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:337/347
+B-Hel HP:216/254 MP:226/246
+C-Anubis HP:284/497 MP:223/223
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Anubis
+3-Hel
+4-Yu
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:100/597 MP:325/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:337/347
+B-Hel HP:216/254 MP:226/246
+C-Anubis HP:284/497 MP:223/223
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Anubis
+2-Hel
+3-Yu
+4-Persephone
+----------------------------------------
+Seleccione una acción para Anubis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:100/597 MP:325/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:337/347
+B-Hel HP:216/254 MP:226/246
+C-Anubis HP:284/497 MP:223/223
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:100/597 MP:325/347
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:464/597 MP:337/347
+B-Hel HP:216/254 MP:226/246
+C-Anubis HP:284/497 MP:223/223
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+----------------------------------------
+Seleccione una acción para Kotone
 1: Atacar
 2: Disparar
 3: Usar Habilidad
@@ -5473,34 +3821,26 @@ Seleccione una acción para Tadano
 6: Rendirse
 INPUT: 3
 ----------------------------------------
-Seleccione una habilidad para que Tadano use
-1-Zan MP:5
-2-Nihil Claw MP:11
-3-Agidyne MP:14
-4-Tathlum Shot MP:7
+Seleccione una habilidad para que Kotone use
+1-Bufudyne MP:14
+2-Riot Gun MP:30
+3-Trisagion MP:22
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Yu HP:464/597 MP:337/347
+2-Hel HP:216/254 MP:226/246
+3-Anubis HP:284/497 MP:223/223
+4-Persephone HP:315/315 MP:306/306
 5-Cancelar
-INPUT: 5
+INPUT: 2
 ----------------------------------------
-Seleccione una acción para Tadano
-1: Atacar
-2: Disparar
-3: Usar Habilidad
-4: Invocar
-5: Pasar Turno
-6: Rendirse
-INPUT: 1
+Kotone lanza hielo a Hel
+Hel devuelve 115 daño a Kotone
+Kotone termina con HP:0/597
 ----------------------------------------
-Seleccione un objetivo para Tadano
-1-Yu HP:7/597 MP:347/347
-2-Cancelar
-INPUT: 1
-----------------------------------------
-Tadano ataca a Yu
-Yu es resistente el ataque de Tadano
-Yu recibe 8 de daño
-Yu termina con HP:0/597
-----------------------------------------
-Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
 Se han obtenido 0 Blinking Turn(s)
 ----------------------------------------
-Ganador: Tadano (J2)
+Ganador: Yu (J2)
