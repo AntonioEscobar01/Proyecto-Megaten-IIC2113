@@ -9,11 +9,12 @@ public class UnitAction
     private readonly BattleSystem _battleSystem;
     private readonly TargetSelector _targetSelector;
     private readonly ActionConstants _actionConstants;
+    private readonly AllySelector _allySelector;
     
     public bool ShouldEndGame { get; private set; }
 
     public UnitAction(Team currentTeam, Team enemyTeam, GameUi gameUi, 
-                      SkillsManager skillsManager, BattleSystem battleSystem)
+        SkillsManager skillsManager, BattleSystem battleSystem)
     {
         _currentTeam = currentTeam;
         _enemyTeam = enemyTeam;
@@ -21,6 +22,7 @@ public class UnitAction
         _skillsManager = skillsManager;
         _battleSystem = battleSystem;
         _targetSelector = new TargetSelector(gameUi, enemyTeam);
+        _allySelector = new AllySelector(gameUi, currentTeam);
         _actionConstants = new ActionConstants();
         ShouldEndGame = false;
     }
@@ -144,45 +146,41 @@ public class UnitAction
         if (skillInfo.SelectedIndex > skillInfo.Abilities.Count)
         {
             ExecuteUnitTurn();
-            return true; // Acción cancelada
+            return true;
         }
 
         string selectedSkillName = skillInfo.Abilities[skillInfo.SelectedIndex - 1];
         var skillData = _skillsManager.GetSkillByName(selectedSkillName);
 
-        bool isOffensiveSkill = IsOffensiveSkill(skillData.type);
-
-        if (isOffensiveSkill)
+        if (IsOffensiveSkill(skillData.type))
         {
             int targetIndex = _targetSelector.ChooseUnitToAttack(currentUnit);
             _gameUi.PrintLine();
             if (targetIndex == ActionConstants.CancelTargetSelection)
             {
                 ExecuteUnitTurn();
-                return true; // Acción cancelada
+                return true;
             }
 
             object targetUnit = _targetSelector.GetTarget(targetIndex);
             ConsumeMP(currentUnit, skillData.cost);
-
-            // Aplica la habilidad ofensiva pasando el contador de habilidades del equipo actual
             string affinity = _battleSystem.ApplyOffensiveSkill(currentUnit, targetUnit, skillData, _currentTeam.UsedSkillsCount);
-
-            // Incrementar el contador de habilidades usadas después de usar la habilidad
             _currentTeam.IncrementUsedSkillsCount();
-
-            // Consume turnos según la afinidad
             ConsumeSkillTurns(affinity);
+        }
+        else if (skillData.type == "Heal")
+        {
+            return ProcessHealingSkill(currentUnit, skillData);
         }
         else
         {
             _gameUi.WriteLine("Las habilidades de apoyo no están implementadas aún.");
             ExecuteUnitTurn();
-            return true; // Acción cancelada
+            return true;
         }
 
         _currentTeam.RotateOrderList();
-        return false; // Acción completada
+        return false;
     }
 
     private bool IsOffensiveSkill(string skillType)
@@ -208,11 +206,7 @@ public class UnitAction
     {
         bool isSamurai = currentUnit is Samurai;
         List<Monster> availableMonsters = _currentTeam.GetAvailableMonstersForSummon();
-    
-        // Siempre mostramos el selector, aunque esté vacío
         int selectedMonsterIndex = _gameUi.DisplaySummonMenu(availableMonsters);
-    
-        // Si se selecciona cancelar (única opción cuando no hay monstruos)
         if (selectedMonsterIndex == availableMonsters.Count + 1)
         {
             _gameUi.PrintLine();
@@ -221,7 +215,6 @@ public class UnitAction
         }
 
         Monster selectedMonster = availableMonsters[selectedMonsterIndex - 1];
-    
 
         if (isSamurai)
         {
@@ -262,6 +255,116 @@ public class UnitAction
     {
         _gameUi.WriteLine($"{_currentTeam.Samurai.Name} ({_currentTeam.Player}) se rinde");
         ShouldEndGame = true;
+    }
+    
+    private bool ProcessHealingSkill(object currentUnit, SkillData skillData)
+    {
+        string[] percentageHealSkills = { "Dia", "Diarama", "Diarahan" };
+        string[] reviveHealSkills = { "Recarm", "Samarecarm" };
+        bool isHealSkill = percentageHealSkills.Contains(skillData.name);
+        bool isReviveSkill = reviveHealSkills.Contains(skillData.name);
+        bool isInvitationSkill = skillData.name == "Invitation";
+        if (!isInvitationSkill)
+        {
+            int targetIndex = _allySelector.ChooseAllyToHeal(currentUnit, !isHealSkill);
+            if (targetIndex == ActionConstants.CancelTargetSelection)
+            {
+                _gameUi.PrintLine();
+                ExecuteUnitTurn();
+                return true;
+            }
+
+            _gameUi.PrintLine();
+            object targetUnit = _allySelector.GetAlly(targetIndex);
+
+            ConsumeMP(currentUnit, skillData.cost);
+
+            string healerName = _gameUi.GetUnitName(currentUnit);
+            string targetName = _gameUi.GetUnitName(targetUnit);
+
+            if (isReviveSkill)
+            {
+                ReviveTarget(targetUnit, skillData);
+            }
+            else if (isHealSkill)
+            {
+
+                _gameUi.WriteLine($"{healerName} cura a {targetName}");
+                HealTarget(targetUnit, skillData);
+            }
+
+            
+
+            if (_currentTeam.BlinkingTurns > 0)
+                _currentTeam.ConsumeBlinkingTurn();
+            else
+                _currentTeam.ConsumeFullTurn();
+
+            _currentTeam.RotateOrderList();
+            return false;
+        }
+        else
+        {
+            ConsumeMP(currentUnit, skillData.cost);
+            ProcessInvitationSkill(currentUnit);
+        }
+
+        return false;
+    }
+    
+    private bool ProcessInvitationSkill(object currentUnit)
+    {
+        // Obtener todos los monstruos de la reserva (incluyendo los muertos)
+        List<Monster> availableMonsters = GetAllReserveMonsters();
+        
+        if (availableMonsters.Count == 0)
+        {
+            _gameUi.WriteLine("No hay monstruos disponibles para invocar");
+            return false;
+        }
+        int monsterSelection = _gameUi.DisplaySummonMenu(availableMonsters);
+        if (monsterSelection == availableMonsters.Count + 1) // Opción cancelar
+            return false;
+        Monster selectedMonster = availableMonsters[monsterSelection - 1];
+        _gameUi.PrintLine();
+        int positionSelection = _gameUi.DisplayPositionMenu(_currentTeam);
+        if (positionSelection == 4) // Cancelar
+            return false;
+
+        _gameUi.PrintLine();
+        _gameUi.DisplaySummonSuccess(selectedMonster.Name);
+        if (selectedMonster.IsDead())
+        {
+            string healerName = _gameUi.GetUnitName(currentUnit);
+            _gameUi.WriteLine($"{healerName} revive a {selectedMonster.Name}");
+            int healAmount = selectedMonster.OriginalHp;
+            selectedMonster.Hp = healAmount;
+            _gameUi.WriteLine($"{selectedMonster.Name} recibe {healAmount} de HP");
+            _gameUi.WriteLine($"{selectedMonster.Name} termina con HP:{selectedMonster.Hp}/{selectedMonster.OriginalHp}");
+        }
+        
+        // Colocar en la posición seleccionada
+        _currentTeam.PlaceMonsterInPosition(selectedMonster, positionSelection - 1);
+        ConsumeSkillTurns("normal");
+        
+        return true;
+    }
+
+    private List<Monster> GetAllReserveMonsters()
+    {
+        List<Monster> reserveMonsters = new List<Monster>();
+        int frontLineCount = Math.Min(_currentTeam.Units.Count, 3);
+        for (int i = 0; i < frontLineCount; i++)
+        {
+            if (_currentTeam.Units[i].IsDead())
+                reserveMonsters.Add(_currentTeam.Units[i]);
+        }
+        for (int i = frontLineCount; i < _currentTeam.Units.Count; i++)
+        {
+            reserveMonsters.Add(_currentTeam.Units[i]);
+        }
+    
+        return reserveMonsters;
     }
     
     private SkillSelectionResult GetSkillSelection(object attacker)
@@ -399,5 +502,76 @@ public class UnitAction
         {
             _currentTeam.ConsumeFullTurn();
         }
+    }
+    
+    private void HealTarget(object target, SkillData skillData)
+    {
+        int maxHp = 0;
+        if (target is Samurai samuraiTarget)
+            maxHp = samuraiTarget.OriginalHp;
+        else if (target is Monster monsterTarget)
+            maxHp = monsterTarget.OriginalHp;
+
+        int healAmount = (int)(maxHp * skillData.power / 100.0);
+
+        string targetName = _gameUi.GetUnitName(target);
+        _gameUi.WriteLine($"{targetName} recibe {healAmount} de HP");
+
+        int originalHp = 0, currentHp = 0;
+
+        if (target is Samurai samuraiTarget2)
+        {
+            originalHp = samuraiTarget2.OriginalHp;
+            samuraiTarget2.Hp += healAmount;
+            if (samuraiTarget2.Hp > originalHp) 
+                samuraiTarget2.Hp = originalHp;
+            currentHp = samuraiTarget2.Hp;
+        }
+        else if (target is Monster monsterTarget2)
+        {
+            originalHp = monsterTarget2.OriginalHp;
+            monsterTarget2.Hp += healAmount;
+            if (monsterTarget2.Hp > originalHp) 
+                monsterTarget2.Hp = originalHp;
+            currentHp = monsterTarget2.Hp;
+        }
+
+        _gameUi.ShowDamageResult(targetName, currentHp, originalHp);
+    }
+
+    private void ReviveTarget(object target, SkillData skill)
+    {
+        string targetName = _gameUi.GetUnitName(target);
+        string reviverName = _gameUi.GetUnitName(_currentTeam.OrderList[0]);
+        int maxHp = 0;
+        int healAmount = 0;
+        float revivePercentage = skill.power / 100.0f;
+
+        if (target is Samurai samuraiTarget)
+        {
+            maxHp = samuraiTarget.OriginalHp;
+            healAmount = (int)(maxHp * revivePercentage);
+            samuraiTarget.Hp = healAmount;
+            if (!_currentTeam.OrderList.Contains(samuraiTarget))
+                _currentTeam.OrderList.Add(samuraiTarget);
+        }
+        else if (target is Monster monsterTarget)
+        {
+            maxHp = monsterTarget.OriginalHp;
+            healAmount = (int)(maxHp * revivePercentage);
+            monsterTarget.Hp = healAmount;
+            int monsterIndex = _currentTeam.Units.IndexOf(monsterTarget);
+            if (monsterIndex >= 0 && monsterIndex < 3)
+            {
+                Monster placeholderMonster = new Monster(monsterTarget.Name);
+                placeholderMonster.Hp = 0;
+                _currentTeam.Units[monsterIndex] = placeholderMonster;
+                _currentTeam.Units.Add(monsterTarget);
+            }
+        }
+
+        _gameUi.WriteLine($"{reviverName} revive a {targetName}");
+        _gameUi.WriteLine($"{targetName} recibe {healAmount} de HP");
+        _gameUi.ShowDamageResult(targetName, healAmount, maxHp);
     }
 }
