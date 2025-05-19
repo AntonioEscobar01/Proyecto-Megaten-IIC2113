@@ -181,7 +181,9 @@ public class Team
     public List<Monster> GetAvailableMonstersForSummon()
     {
         List<Monster> availableMonsters = new List<Monster>();
-        int frontLineCount = Math.Min(Units.Count, 3);
+        int frontLineCount = Math.Min(Units.Count, MAX_VISIBLE_MONSTERS);
+        if (Units.Count <= frontLineCount)
+            return availableMonsters;
         for (int i = frontLineCount; i < Units.Count; i++)
         {
             if (!Units[i].IsDead())
@@ -191,8 +193,25 @@ public class Team
     }
     public void PlaceMonsterInPosition(Monster summonedMonster, int position)
     {
+        // Verificar si la posición ya está ocupada por el mismo monstruo (pero muerto)
+        bool isSameMosterAtPosition = position < Units.Count && Units[position] == summonedMonster;
+        
+        // Si el monstruo ya está en la posición deseada (incluso si está muerto), simplemente lo "revivimos"
+        if (isSameMosterAtPosition)
+        {
+            // Si está en OrderList, lo removemos para luego añadirlo al final
+            if (OrderList.Contains(summonedMonster))
+                OrderList.Remove(summonedMonster);
+            
+            OrderList.Add(summonedMonster);
+            return;
+        }
+        
         int originalSummonedIndex = Units.IndexOf(summonedMonster);
         Units.Remove(summonedMonster);
+        
+        // Modificar el criterio de posición vacía para considerar que si un monstruo está muerto,
+        // se considera como una posición vacía
         bool isEmptyPosition = position >= Units.Count ||
                               (position < Units.Count && Units[position].IsDead());
 
@@ -258,6 +277,9 @@ public class Team
     }
     private void SortReserveMonsters()
     {
+        if (Units.Count <= MAX_VISIBLE_MONSTERS)
+            return;
+            
         var reserveMonsters = Units.Skip(MAX_VISIBLE_MONSTERS).ToList();
         reserveMonsters = reserveMonsters.OrderBy(monster => 
             _originalMonstersOrder.IndexOf(monster.Name)).ToList();

@@ -163,7 +163,7 @@ public class UnitActionController
             }
 
             object targetUnit = _targetSelectorController.GetTarget(targetIndex);
-            ConsumeMP(currentUnit, skillData.cost);
+            ConsumeMp(currentUnit, skillData.cost);
             string affinity = _battleSystem.ApplyOffensiveSkill(currentUnit, targetUnit, skillData, _currentTeam.UsedSkillsCount);
             _currentTeam.IncrementUsedSkillsCount();
             ConsumeSkillTurns(affinity);
@@ -190,7 +190,7 @@ public class UnitActionController
                skillType == "Elec" || skillType == "Force";
     }
 
-    private void ConsumeMP(object unit, int mpCost)
+    private void ConsumeMp(object unit, int mpCost)
     {
         if (unit is Samurai samurai)
         {
@@ -264,6 +264,7 @@ public class UnitActionController
         bool isHealSkill = percentageHealSkills.Contains(skillData.name);
         bool isReviveSkill = reviveHealSkills.Contains(skillData.name);
         bool isInvitationSkill = skillData.name == "Invitation";
+        
         if (!isInvitationSkill)
         {
             int targetIndex = _allySelectorController.ChooseAllyToHeal(currentUnit, !isHealSkill);
@@ -273,64 +274,60 @@ public class UnitActionController
                 ExecuteUnitTurn();
                 return true;
             }
-
+    
             _gameUi.PrintLine();
             object targetUnit = _allySelectorController.GetAlly(targetIndex);
-
-            ConsumeMP(currentUnit, skillData.cost);
-
+    
+            ConsumeMp(currentUnit, skillData.cost);
+    
             string healerName = _gameUi.GetUnitName(currentUnit);
             string targetName = _gameUi.GetUnitName(targetUnit);
-
+    
             if (isReviveSkill)
             {
                 ReviveTarget(targetUnit, skillData);
             }
             else if (isHealSkill)
             {
-
                 _gameUi.WriteLine($"{healerName} cura a {targetName}");
                 HealTarget(targetUnit, skillData);
             }
-
-            
-
+    
             if (_currentTeam.BlinkingTurns > 0)
                 _currentTeam.ConsumeBlinkingTurn();
             else
                 _currentTeam.ConsumeFullTurn();
-
-            _currentTeam.RotateOrderList();
-            return false;
         }
         else
         {
-            ConsumeMP(currentUnit, skillData.cost);
-            ProcessInvitationSkill(currentUnit);
+            
+            bool canceled = ProcessInvitationSkill(currentUnit);
+            if (canceled)
+            {
+                _gameUi.PrintLine();
+                ExecuteUnitTurn();
+                return true;
+            }
+            ConsumeMp(currentUnit, skillData.cost);
         }
-
+        _currentTeam.RotateOrderList();
         return false;
     }
     
     private bool ProcessInvitationSkill(object currentUnit)
     {
-        // Obtener todos los monstruos de la reserva (incluyendo los muertos)
         List<Monster> availableMonsters = GetAllReserveMonsters();
-        
-        if (availableMonsters.Count == 0)
-        {
-            _gameUi.WriteLine("No hay monstruos disponibles para invocar");
-            return false;
-        }
         int monsterSelection = _gameUi.DisplaySummonMenu(availableMonsters);
-        if (monsterSelection == availableMonsters.Count + 1) // Opción cancelar
-            return false;
+        if (monsterSelection == availableMonsters.Count + 1)
+        {
+            return true; // Indicar que se canceló la acción
+        }
         Monster selectedMonster = availableMonsters[monsterSelection - 1];
         _gameUi.PrintLine();
         int positionSelection = _gameUi.DisplayPositionMenu(_currentTeam);
         if (positionSelection == 4) // Cancelar
-            return false;
-
+            return true; // Indicar que se canceló la acción
+    
         _gameUi.PrintLine();
         _gameUi.DisplaySummonSuccess(selectedMonster.Name);
         if (selectedMonster.IsDead())
@@ -347,7 +344,7 @@ public class UnitActionController
         _currentTeam.PlaceMonsterInPosition(selectedMonster, positionSelection - 1);
         ConsumeSkillTurns("normal");
         
-        return true;
+        return false; // Indicar que la acción se completó con éxito
     }
 
     private List<Monster> GetAllReserveMonsters()
