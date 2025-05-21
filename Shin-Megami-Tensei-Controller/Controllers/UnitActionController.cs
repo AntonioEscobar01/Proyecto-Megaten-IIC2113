@@ -46,7 +46,7 @@ public class UnitActionController
         }
     }
     
-    private void ProcessAction(object currentUnit, int action)
+    private void ProcessAction(IUnit currentUnit, int action)
     {
         int actionCode = currentUnit is Monster ? action + _actionConstantsData.MonsterOffset : action;
         bool actionCancelled = false;
@@ -139,7 +139,7 @@ public class UnitActionController
         return "-"; // Afinidad neutral por defecto
     }
 
-    private bool ProcessSkillAction(object currentUnit)
+    private bool ProcessSkillAction(IUnit currentUnit)
     {
         var skillInfo = GetSkillSelection(currentUnit);
         _gameUi.PrintLine();
@@ -172,11 +172,9 @@ public class UnitActionController
         {
             return ProcessHealingSkill(currentUnit, skillData);
         }
-        else
+        else if(skillData.type == "Special")
         {
-            _gameUi.WriteLine("Las habilidades de apoyo no están implementadas aún.");
-            ExecuteUnitTurn();
-            return true;
+            return ProcessSpecialSkill(currentUnit, skillData);
         }
 
         _currentTeam.RotateOrderList();
@@ -202,7 +200,7 @@ public class UnitActionController
         }
     }
     
-    private bool ProcessInvokeAction(object currentUnit)
+    private bool ProcessInvokeAction(IUnit currentUnit)
     {
         bool isSamurai = currentUnit is Samurai;
         List<Monster> availableMonsters = _currentTeam.GetAvailableMonstersForSummon();
@@ -222,6 +220,7 @@ public class UnitActionController
             int selectedPosition = _gameUi.DisplayPositionMenu(_currentTeam);
             if (selectedPosition == ActionConstantsData.CancelInvokeSelection)
             {
+                _gameUi.PrintLine();
                 ExecuteUnitTurn();
                 return true;
             }
@@ -311,6 +310,7 @@ public class UnitActionController
             ConsumeMp(currentUnit, skillData.cost);
         }
         _currentTeam.RotateOrderList();
+        _currentTeam.IncrementUsedSkillsCount();
         return false;
     }
     
@@ -345,6 +345,40 @@ public class UnitActionController
         ConsumeSkillTurns("normal");
         
         return false; // Indicar que la acción se completó con éxito
+    }
+
+    private bool ProcessSpecialSkill(IUnit currentUnit, SkillData skillData)
+    {
+        if (skillData.name == "Sabbatma")
+        {
+            List<Monster> availableMonsters = _currentTeam.GetAvailableMonstersForSummon();
+            int selectedMonsterIndex = _gameUi.DisplaySummonMenu(availableMonsters);
+            if (selectedMonsterIndex == availableMonsters.Count + 1)
+            {
+                _gameUi.PrintLine();
+                ExecuteUnitTurn();
+                return true;
+            }
+
+            Monster selectedMonster = availableMonsters[selectedMonsterIndex - 1];
+            _gameUi.PrintLine();
+            int selectedPosition = _gameUi.DisplayPositionMenu(_currentTeam);
+            if (selectedPosition == ActionConstantsData.CancelInvokeSelection)
+            {
+                _gameUi.PrintLine();
+                ExecuteUnitTurn();
+                return true;
+            }
+            _currentTeam.PlaceMonsterInPosition(selectedMonster, selectedPosition - 1);
+            _gameUi.PrintLine();
+            _gameUi.DisplaySummonSuccess(selectedMonster.Name);
+            _currentTeam.ConsumeNonOffensiveSkillsTurns();
+            ConsumeMp(currentUnit, skillData.cost);
+            _currentTeam.IncrementUsedSkillsCount();
+            return false;
+        }
+
+        return false;
     }
 
     private List<Monster> GetAllReserveMonsters()

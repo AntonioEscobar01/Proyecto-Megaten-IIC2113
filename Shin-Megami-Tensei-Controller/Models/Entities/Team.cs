@@ -207,7 +207,10 @@ public class Team
             return;
         }
         
+        // Save the original index of the summoned monster (to handle reserve monsters)
         int originalSummonedIndex = Units.IndexOf(summonedMonster);
+        
+        // Remove the summoned monster from its current position
         Units.Remove(summonedMonster);
         
         // Modificar el criterio de posición vacía para considerar que si un monstruo está muerto,
@@ -217,10 +220,23 @@ public class Team
 
         if (isEmptyPosition)
         {
+            // Handle empty position - either add to end or replace a dead monster
             if (position >= Units.Count)
+            {
+                // Ensure we don't have gaps in the lineup
+                while (Units.Count < position)
+                {
+                    Monster placeholder = new Monster("Placeholder");
+                    placeholder.Hp = 0; // Mark as dead
+                    Units.Add(placeholder);
+                }
                 Units.Add(summonedMonster);
+            }
             else
+            {
                 Units[position] = summonedMonster;
+            }
+            
             if (OrderList.Contains(summonedMonster))
                 OrderList.Remove(summonedMonster);
             OrderList.Add(summonedMonster);
@@ -228,8 +244,13 @@ public class Team
         }
         else
         {
+            // Position is occupied by another monster
             Monster replacedMonster = Units[position];
+            
+            // Place the summoned monster in the target position
             Units[position] = summonedMonster;
+            
+            // Update OrderList
             if (OrderList.Contains(replacedMonster))
             {
                 int index = OrderList.IndexOf(replacedMonster);
@@ -239,14 +260,24 @@ public class Team
             {
                 OrderList.Add(summonedMonster);
             }
-            if (originalSummonedIndex >= 0 && originalSummonedIndex < Units.Count)
+            
+            // Always move the replaced monster to the reserve
+            // First, ensure we have all frontline positions filled
+            for (int i = 0; i < MAX_VISIBLE_MONSTERS; i++)
             {
-                Units.Insert(originalSummonedIndex, replacedMonster);
+                if (Units.Count <= i)
+                {
+                    // Add placeholders for any missing positions
+                    Monster placeholder = new Monster("Placeholder");
+                    placeholder.Hp = 0; // Mark as dead
+                    Units.Add(placeholder);
+                }
             }
-            else
-            {
-                Units.Add(replacedMonster);
-            }
+            
+            // Add the replaced monster to the reserve
+            Units.Add(replacedMonster);
+            
+            // Sort the reserve monsters based on the original order
             SortReserveMonsters();
         }
     }
@@ -272,6 +303,17 @@ public class Team
         {
             ConsumeFullTurn();
             AddBlinkingTurn();
+        }
+        RotateOrderList();
+    }
+    
+    public void ConsumeNonOffensiveSkillsTurns()
+    {
+        if (BlinkingTurns > 0)
+            ConsumeBlinkingTurn();
+        else
+        {
+            ConsumeFullTurn();
         }
         RotateOrderList();
     }

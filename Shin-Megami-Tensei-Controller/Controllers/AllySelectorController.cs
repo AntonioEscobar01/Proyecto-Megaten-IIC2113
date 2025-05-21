@@ -27,15 +27,20 @@ public class AllySelectorController
     private List<object> GetAvailableAllies(bool reviveMode)
     {
         List<object> allies = new List<object>();
-        
-        if (_allyTeam.Samurai != null && (reviveMode ? _allyTeam.Samurai.IsDead() : !_allyTeam.Samurai.IsDead()))
+        if (_allyTeam.Samurai != null)
         {
-            allies.Add(_allyTeam.Samurai);
+            bool shouldInclude = reviveMode ? _allyTeam.Samurai.IsDead() : !_allyTeam.Samurai.IsDead();
+            if (shouldInclude)
+            {
+                allies.Add(_allyTeam.Samurai);
+            }
         }
-
-        foreach (var monster in _allyTeam.Units)
+        int maxVisibleMonsters = Math.Min(_allyTeam.Units.Count, 3);
+        for (int i = 0; i < maxVisibleMonsters; i++)
         {
-            if (reviveMode ? monster.IsDead() : !monster.IsDead())
+            var monster = _allyTeam.Units[i];
+            bool shouldInclude = reviveMode ? monster.IsDead() : !monster.IsDead();
+            if (shouldInclude)
             {
                 allies.Add(monster);
             }
