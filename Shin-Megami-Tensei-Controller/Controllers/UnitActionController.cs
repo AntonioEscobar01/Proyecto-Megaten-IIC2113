@@ -385,16 +385,30 @@ public class UnitActionController
     {
         List<Monster> reserveMonsters = new List<Monster>();
         int frontLineCount = Math.Min(_currentTeam.Units.Count, 3);
+    
+        // Añadir monstruos muertos del frente (posiciones 0-2)
         for (int i = 0; i < frontLineCount; i++)
         {
-            if (_currentTeam.Units[i].IsDead())
-                reserveMonsters.Add(_currentTeam.Units[i]);
-        }
-        for (int i = frontLineCount; i < _currentTeam.Units.Count; i++)
-        {
-            reserveMonsters.Add(_currentTeam.Units[i]);
+            var monster = _currentTeam.Units[i];
+            if (monster.IsDead() && monster.Name != "Placeholder")
+                reserveMonsters.Add(monster);
         }
     
+        // Añadir todos los monstruos de la reserva (posiciones 3+)
+        for (int i = frontLineCount; i < _currentTeam.Units.Count; i++)
+        {
+            var monster = _currentTeam.Units[i];
+            if (monster.Name != "Placeholder")
+                reserveMonsters.Add(monster);
+        }
+
+        // ✅ CORRECCIÓN: Ordenar por el orden original del archivo
+        reserveMonsters = reserveMonsters.OrderBy(monster => 
+        {
+            int originalIndex = _currentTeam._originalMonstersOrder.IndexOf(monster.Name);
+            return originalIndex == -1 ? _currentTeam._originalMonstersOrder.Count : originalIndex;
+        }).ToList();
+
         return reserveMonsters;
     }
     

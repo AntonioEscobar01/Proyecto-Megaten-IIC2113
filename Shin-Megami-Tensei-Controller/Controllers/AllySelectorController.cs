@@ -35,10 +35,16 @@ public class AllySelectorController
                 allies.Add(_allyTeam.Samurai);
             }
         }
-        int maxVisibleMonsters = Math.Min(_allyTeam.Units.Count, 3);
-        for (int i = 0; i < maxVisibleMonsters; i++)
+        
+        int maxMonsters = reviveMode ? _allyTeam.Units.Count : Math.Min(_allyTeam.Units.Count, 3);
+    
+        for (int i = 0; i < maxMonsters; i++)
         {
             var monster = _allyTeam.Units[i];
+            
+            if (monster.Name == "Placeholder")
+                continue;
+            
             bool shouldInclude = reviveMode ? monster.IsDead() : !monster.IsDead();
             if (shouldInclude)
             {

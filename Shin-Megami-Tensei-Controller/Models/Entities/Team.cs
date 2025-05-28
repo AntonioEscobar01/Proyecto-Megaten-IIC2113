@@ -9,7 +9,7 @@ public class Team
     public string Player { get; private set; }
     public List<Monster> Units { get; private set; }
     public Samurai? Samurai { get; private set; }
-    private List<string> _originalMonstersOrder;
+    public List<string> _originalMonstersOrder;
     public List<IUnit> OrderList { get; private set; }
     public int FullTurns { get; private set; }
     public int BlinkingTurns { get; private set; }
@@ -182,13 +182,26 @@ public class Team
     {
         List<Monster> availableMonsters = new List<Monster>();
         int frontLineCount = Math.Min(Units.Count, MAX_VISIBLE_MONSTERS);
+    
         if (Units.Count <= frontLineCount)
             return availableMonsters;
+    
+        // ✅ Obtener todos los monstruos de la reserva vivos
         for (int i = frontLineCount; i < Units.Count; i++)
         {
-            if (!Units[i].IsDead())
-                availableMonsters.Add(Units[i]);
+            var monster = Units[i];
+            // ✅ Excluir placeholders y solo incluir monstruos vivos
+            if (!monster.IsDead() && monster.Name != "Placeholder")
+                availableMonsters.Add(monster);
         }
+    
+        // ✅ CORRECCIÓN: Ordenar por el orden original del archivo
+        availableMonsters = availableMonsters.OrderBy(monster => 
+        {
+            int originalIndex = _originalMonstersOrder.IndexOf(monster.Name);
+            return originalIndex == -1 ? _originalMonstersOrder.Count : originalIndex;
+        }).ToList();
+    
         return availableMonsters;
     }
     public void PlaceMonsterInPosition(Monster summonedMonster, int position)
@@ -234,6 +247,13 @@ public class Team
             }
             else
             {
+                // ✅ CORRECCIÓN: Conservar el monstruo muerto antes de reemplazarlo
+                Monster deadMonster = Units[position];
+                if (deadMonster.IsDead() && deadMonster.Name != "Placeholder")
+                {
+                    // Mover el monstruo muerto a la reserva para que pueda ser revivido
+                    Units.Add(deadMonster);
+                }
                 Units[position] = summonedMonster;
             }
             
@@ -278,8 +298,8 @@ public class Team
             Units.Add(replacedMonster);
             
             // Sort the reserve monsters based on the original order
-            SortReserveMonsters();
-        }
+        } 
+        SortReserveMonsters();
     }
     public void SwapMonsters(Monster currentMonster, Monster summonedMonster)
     {
@@ -321,10 +341,28 @@ public class Team
     {
         if (Units.Count <= MAX_VISIBLE_MONSTERS)
             return;
-            
+        
         var reserveMonsters = Units.Skip(MAX_VISIBLE_MONSTERS).ToList();
+        
         reserveMonsters = reserveMonsters.OrderBy(monster => 
-            _originalMonstersOrder.IndexOf(monster.Name)).ToList();
+        {
+            // Primero, buscar en el orden original
+            int originalIndex = _originalMonstersOrder.IndexOf(monster.Name);
+        
+            // Si no está en el orden original, asignar un índice alto para que vaya al final
+            if (originalIndex == -1)
+            {
+                // Para placeholders, asignar el índice más alto para que vayan al final
+                if (monster.Name == "Placeholder")
+                    return int.MaxValue;
+            
+                // Para otros monstruos no encontrados, usar el nombre para mantener consistencia
+                return _originalMonstersOrder.Count + monster.Name.GetHashCode() % 1000;
+            }
+        
+            return originalIndex;
+        }).ToList();
+    
         Units.RemoveRange(MAX_VISIBLE_MONSTERS, Units.Count - MAX_VISIBLE_MONSTERS);
         Units.AddRange(reserveMonsters);
     }
