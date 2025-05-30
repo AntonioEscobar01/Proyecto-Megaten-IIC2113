@@ -42,8 +42,8 @@ public class Team
     {
         if (OrderList.Count > 1)
             OrderList = OrderList
-                .OrderByDescending(unit => unit is Monster m ? m.Spd : 
-                    unit is Samurai s ? s.Spd : 0)
+                .OrderByDescending(unit => unit is Monster monster ? monster.Spd : 
+                    unit is Samurai samurai ? samurai.Spd : 0)
                 .ToList();
     }
     public void RotateOrderList()

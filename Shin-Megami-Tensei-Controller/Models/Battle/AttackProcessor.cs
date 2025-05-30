@@ -1,6 +1,6 @@
 ﻿namespace Shin_Megami_Tensei;
 
-public class BattleSystem
+public class AttackProcessor
 {
     private const int ATTACK_DAMAGE_MODIFIER = 54;
     private const int SHOOT_DAMAGE_MODIFIER = 80;
@@ -21,7 +21,7 @@ public class BattleSystem
     private const double RESIST_DAMAGE_FACTOR = 0.5;
     private const double WEAK_DAMAGE_FACTOR = 1.5;
 
-    public BattleSystem(GameUi gameUi)
+    public AttackProcessor(GameUi gameUi)
     {
         _gameUi = gameUi;
     }

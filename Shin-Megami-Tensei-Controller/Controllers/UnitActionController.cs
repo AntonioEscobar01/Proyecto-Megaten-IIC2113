@@ -6,7 +6,7 @@ public class UnitActionController
     private readonly Team _enemyTeam;
     private readonly GameUi _gameUi;
     private readonly SkillsManager _skillsManager;
-    private readonly BattleSystem _battleSystem;
+    private readonly AttackProcessor _attackProcessor;
     private readonly TargetSelectorController _targetSelectorController;
     private readonly ActionConstantsData _actionConstantsData;
     private readonly AllySelectorController _allySelectorController;
@@ -14,13 +14,13 @@ public class UnitActionController
     public bool ShouldEndGame { get; private set; }
 
     public UnitActionController(Team currentTeam, Team enemyTeam, GameUi gameUi, 
-        SkillsManager skillsManager, BattleSystem battleSystem)
+        SkillsManager skillsManager, AttackProcessor attackProcessor)
     {
         _currentTeam = currentTeam;
         _enemyTeam = enemyTeam;
         _gameUi = gameUi;
         _skillsManager = skillsManager;
-        _battleSystem = battleSystem;
+        _attackProcessor = attackProcessor;
         _targetSelectorController = new TargetSelectorController(gameUi, enemyTeam);
         _allySelectorController = new AllySelectorController(gameUi, currentTeam);
         _actionConstantsData = new ActionConstantsData();
@@ -65,12 +65,12 @@ public class UnitActionController
 
             case ActionConstantsData.SkillAction:
             case ActionConstantsData.SkillActionMonster:
-                actionCancelled = ProcessSkillAction(currentUnit);
+                actionCancelled = WasSkillActionCancelled(currentUnit);
                 break;
 
             case ActionConstantsData.InvokeAction:
             case ActionConstantsData.InvokeActionMonster:
-                actionCancelled = ProcessInvokeAction(currentUnit);
+                actionCancelled = WasInvokeActionCancelled(currentUnit);
                 break;
 
             case ActionConstantsData.PassTurnAction:
@@ -118,9 +118,9 @@ public class UnitActionController
         string affinity = GetTargetAffinity(targetUnit, attackType);
 
         if (action == ActionConstantsData.AttackAction)
-            _battleSystem.Attack(currentUnit, targetUnit);
+            _attackProcessor.Attack(currentUnit, targetUnit);
         else
-            _battleSystem.Shoot(currentUnit, targetUnit);
+            _attackProcessor.Shoot(currentUnit, targetUnit);
 
         // Consume turnos según la afinidad
         ConsumeSkillTurns(affinity);
@@ -139,7 +139,7 @@ public class UnitActionController
         return "-"; // Afinidad neutral por defecto
     }
 
-    private bool ProcessSkillAction(IUnit currentUnit)
+    private bool WasSkillActionCancelled(IUnit currentUnit)
     {
         var skillInfo = GetSkillSelection(currentUnit);
         _gameUi.PrintLine();
@@ -154,27 +154,15 @@ public class UnitActionController
 
         if (IsOffensiveSkill(skillData.type))
         {
-            int targetIndex = _targetSelectorController.ChooseUnitToAttack(currentUnit);
-            _gameUi.PrintLine();
-            if (targetIndex == ActionConstantsData.CancelTargetSelection)
-            {
-                ExecuteUnitTurn();
-                return true;
-            }
-
-            object targetUnit = _targetSelectorController.GetTarget(targetIndex);
-            ConsumeMp(currentUnit, skillData.cost);
-            string affinity = _battleSystem.ApplyOffensiveSkill(currentUnit, targetUnit, skillData, _currentTeam.UsedSkillsCount);
-            _currentTeam.IncrementUsedSkillsCount();
-            ConsumeSkillTurns(affinity);
+            return HandleOffensiveSkillExecution(currentUnit, skillData);
         }
         else if (skillData.type == "Heal")
         {
-            return ProcessHealingSkill(currentUnit, skillData);
+            return WasHealingSkillCancelled(currentUnit, skillData);
         }
         else if(skillData.type == "Special")
         {
-            return ProcessSpecialSkill(currentUnit, skillData);
+            return WasSpecialSkillCancelled(currentUnit, skillData);
         }
 
         _currentTeam.RotateOrderList();
@@ -200,11 +188,12 @@ public class UnitActionController
         }
     }
     
-    private bool ProcessInvokeAction(IUnit currentUnit)
+    private bool WasInvokeActionCancelled(IUnit currentUnit)
     {
         bool isSamurai = currentUnit is Samurai;
         List<Monster> availableMonsters = _currentTeam.GetAvailableMonstersForSummon();
         int selectedMonsterIndex = _gameUi.DisplaySummonMenu(availableMonsters);
+    
         if (selectedMonsterIndex == availableMonsters.Count + 1)
         {
             _gameUi.PrintLine();
@@ -216,25 +205,13 @@ public class UnitActionController
 
         if (isSamurai)
         {
-            _gameUi.PrintLine();
-            int selectedPosition = _gameUi.DisplayPositionMenu(_currentTeam);
-            if (selectedPosition == ActionConstantsData.CancelInvokeSelection)
-            {
-                _gameUi.PrintLine();
-                ExecuteUnitTurn();
-                return true;
-            }
-            _currentTeam.PlaceMonsterInPosition(selectedMonster, selectedPosition - 1);
+            return HandleSamuraiInvocation(selectedMonster);
         }
         else
         {
-            _currentTeam.SwapMonsters((Monster)currentUnit, selectedMonster);
+            HandleMonsterInvocation((Monster)currentUnit, selectedMonster);
+            return false;
         }
-
-        _gameUi.PrintLine();
-        _gameUi.DisplaySummonSuccess(selectedMonster.Name);
-        _currentTeam.ConsumeSummonTurns();
-        return false;
     }
 
     private void ProcessPassTurnAction()
@@ -256,131 +233,235 @@ public class UnitActionController
         ShouldEndGame = true;
     }
     
-    private bool ProcessHealingSkill(object currentUnit, SkillData skillData)
+    private bool WasHealingSkillCancelled(object currentUnit, SkillData skillData)
     {
         string[] percentageHealSkills = { "Dia", "Diarama", "Diarahan" };
         string[] reviveHealSkills = { "Recarm", "Samarecarm" };
         bool isHealSkill = percentageHealSkills.Contains(skillData.name);
         bool isReviveSkill = reviveHealSkills.Contains(skillData.name);
         bool isInvitationSkill = skillData.name == "Invitation";
-        
+    
         if (!isInvitationSkill)
         {
-            int targetIndex = _allySelectorController.ChooseAllyToHeal(currentUnit, !isHealSkill);
-            if (targetIndex == ActionConstantsData.CancelTargetSelection)
-            {
-                _gameUi.PrintLine();
-                ExecuteUnitTurn();
-                return true;
-            }
-    
-            _gameUi.PrintLine();
-            object targetUnit = _allySelectorController.GetAlly(targetIndex);
-    
-            ConsumeMp(currentUnit, skillData.cost);
-    
-            string healerName = _gameUi.GetUnitName(currentUnit);
-            string targetName = _gameUi.GetUnitName(targetUnit);
-    
-            if (isReviveSkill)
-            {
-                ReviveTarget(targetUnit, skillData);
-            }
-            else if (isHealSkill)
-            {
-                _gameUi.WriteLine($"{healerName} cura a {targetName}");
-                HealTarget(targetUnit, skillData);
-            }
-    
-            if (_currentTeam.BlinkingTurns > 0)
-                _currentTeam.ConsumeBlinkingTurn();
-            else
-                _currentTeam.ConsumeFullTurn();
+            return HandleRegularHealingSkill(currentUnit, skillData, isHealSkill, isReviveSkill);
         }
         else
         {
-            
-            bool canceled = ProcessInvitationSkill(currentUnit);
-            if (canceled)
-            {
-                _gameUi.PrintLine();
-                ExecuteUnitTurn();
-                return true;
-            }
-            ConsumeMp(currentUnit, skillData.cost);
+            return HandleInvitationSkillExecution(currentUnit, skillData);
         }
+    }
+    
+    private bool WasInvitationSkillCancelled(object currentUnit)
+    {
+        List<Monster> availableMonsters = GetAllReserveMonsters();
+        int monsterSelection = _gameUi.DisplaySummonMenu(availableMonsters);
+    
+        if (monsterSelection == availableMonsters.Count + 1)
+        {
+            return true;
+        }
+    
+        Monster selectedMonster = availableMonsters[monsterSelection - 1];
+        _gameUi.PrintLine();
+    
+        int positionSelection = _gameUi.DisplayPositionMenu(_currentTeam);
+        if (positionSelection == 4) // Cancelar
+            return true;
+
+        ExecuteInvitationSkill(currentUnit, selectedMonster, positionSelection);
+        return false;
+    }
+
+    private bool WasSpecialSkillCancelled(IUnit currentUnit, SkillData skillData)
+    {
+        if (skillData.name == "Sabbatma")
+        {
+            return HandleSabbatmaSkillExecution(currentUnit, skillData);
+        }
+
+        return false;
+    }
+
+    private bool HandleOffensiveSkillExecution(IUnit currentUnit, SkillData skillData)
+    {
+        int targetIndex = _targetSelectorController.ChooseUnitToAttack(currentUnit);
+        _gameUi.PrintLine();
+        
+        if (targetIndex == ActionConstantsData.CancelTargetSelection)
+        {
+            ExecuteUnitTurn();
+            return true;
+        }
+
+        object targetUnit = _targetSelectorController.GetTarget(targetIndex);
+        ExecuteOffensiveSkill(currentUnit, targetUnit, skillData);
+        _currentTeam.RotateOrderList();
+        return false;
+    }
+
+    private void ExecuteOffensiveSkill(IUnit currentUnit, object targetUnit, SkillData skillData)
+    {
+        ConsumeMp(currentUnit, skillData.cost);
+        string affinity = _attackProcessor.ApplyOffensiveSkill(currentUnit, targetUnit, skillData, _currentTeam.UsedSkillsCount);
+        _currentTeam.IncrementUsedSkillsCount();
+        ConsumeSkillTurns(affinity);
+    }
+
+    private bool HandleRegularHealingSkill(object currentUnit, SkillData skillData, bool isHealSkill, bool isReviveSkill)
+    {
+        int targetIndex = _allySelectorController.ChooseAllyToHeal(currentUnit, !isHealSkill);
+        if (targetIndex == ActionConstantsData.CancelTargetSelection)
+        {
+            _gameUi.PrintLine();
+            ExecuteUnitTurn();
+            return true;
+        }
+
+        _gameUi.PrintLine();
+        object targetUnit = _allySelectorController.GetAlly(targetIndex);
+
+        ExecuteHealingSkill(currentUnit, targetUnit, skillData, isHealSkill, isReviveSkill);
         _currentTeam.RotateOrderList();
         _currentTeam.IncrementUsedSkillsCount();
         return false;
     }
-    
-    private bool ProcessInvitationSkill(object currentUnit)
+
+    private void ExecuteHealingSkill(object currentUnit, object targetUnit, SkillData skillData, bool isHealSkill, bool isReviveSkill)
     {
-        List<Monster> availableMonsters = GetAllReserveMonsters();
-        int monsterSelection = _gameUi.DisplaySummonMenu(availableMonsters);
-        if (monsterSelection == availableMonsters.Count + 1)
+        ConsumeMp(currentUnit, skillData.cost);
+
+        string healerName = _gameUi.GetUnitName(currentUnit);
+        string targetName = _gameUi.GetUnitName(targetUnit);
+
+        if (isReviveSkill)
         {
-            return true; // Indicar que se canceló la acción
+            ReviveTarget(targetUnit, skillData);
         }
-        Monster selectedMonster = availableMonsters[monsterSelection - 1];
-        _gameUi.PrintLine();
-        int positionSelection = _gameUi.DisplayPositionMenu(_currentTeam);
-        if (positionSelection == 4) // Cancelar
-            return true; // Indicar que se canceló la acción
-    
-        _gameUi.PrintLine();
-        _gameUi.DisplaySummonSuccess(selectedMonster.Name);
-        if (selectedMonster.IsDead())
+        else if (isHealSkill)
         {
-            string healerName = _gameUi.GetUnitName(currentUnit);
-            _gameUi.WriteLine($"{healerName} revive a {selectedMonster.Name}");
-            int healAmount = selectedMonster.OriginalHp;
-            selectedMonster.Hp = healAmount;
-            _gameUi.WriteLine($"{selectedMonster.Name} recibe {healAmount} de HP");
-            _gameUi.WriteLine($"{selectedMonster.Name} termina con HP:{selectedMonster.Hp}/{selectedMonster.OriginalHp}");
+            _gameUi.WriteLine($"{healerName} cura a {targetName}");
+            HealTarget(targetUnit, skillData);
         }
-        
-        // Colocar en la posición seleccionada
-        _currentTeam.PlaceMonsterInPosition(selectedMonster, positionSelection - 1);
-        ConsumeSkillTurns("normal");
-        
-        return false; // Indicar que la acción se completó con éxito
+
+        ConsumeHealingSkillTurns();
     }
 
-    private bool ProcessSpecialSkill(IUnit currentUnit, SkillData skillData)
+    private void ConsumeHealingSkillTurns()
     {
-        if (skillData.name == "Sabbatma")
+        if (_currentTeam.BlinkingTurns > 0)
+            _currentTeam.ConsumeBlinkingTurn();
+        else
+            _currentTeam.ConsumeFullTurn();
+    }
+
+    private bool HandleInvitationSkillExecution(object currentUnit, SkillData skillData)
+    {
+        bool wasCancelled = WasInvitationSkillCancelled(currentUnit);
+        if (wasCancelled)
         {
-            List<Monster> availableMonsters = _currentTeam.GetAvailableMonstersForSummon();
-            int selectedMonsterIndex = _gameUi.DisplaySummonMenu(availableMonsters);
-            if (selectedMonsterIndex == availableMonsters.Count + 1)
-            {
-                _gameUi.PrintLine();
-                ExecuteUnitTurn();
-                return true;
-            }
-
-            Monster selectedMonster = availableMonsters[selectedMonsterIndex - 1];
             _gameUi.PrintLine();
-            int selectedPosition = _gameUi.DisplayPositionMenu(_currentTeam);
-            if (selectedPosition == ActionConstantsData.CancelInvokeSelection)
-            {
-                _gameUi.PrintLine();
-                ExecuteUnitTurn();
-                return true;
-            }
-            _currentTeam.PlaceMonsterInPosition(selectedMonster, selectedPosition - 1);
-            _gameUi.PrintLine();
-            _gameUi.DisplaySummonSuccess(selectedMonster.Name);
-            _currentTeam.ConsumeNonOffensiveSkillsTurns();
-            ConsumeMp(currentUnit, skillData.cost);
-            _currentTeam.IncrementUsedSkillsCount();
-            return false;
+            ExecuteUnitTurn();
+            return true;
         }
-
+        
+        ConsumeMp(currentUnit, skillData.cost);
+        _currentTeam.RotateOrderList();
+        _currentTeam.IncrementUsedSkillsCount();
         return false;
     }
 
+    private void ExecuteInvitationSkill(object currentUnit, Monster selectedMonster, int positionSelection)
+    {
+        _gameUi.PrintLine();
+        _gameUi.DisplaySummonSuccess(selectedMonster.Name);
+        
+        if (selectedMonster.IsDead())
+        {
+            ReviveMonsterWithInvitation(currentUnit, selectedMonster);
+        }
+        
+        _currentTeam.PlaceMonsterInPosition(selectedMonster, positionSelection - 1);
+        ConsumeSkillTurns("normal");
+    }
+
+    private void ReviveMonsterWithInvitation(object currentUnit, Monster selectedMonster)
+    {
+        string healerName = _gameUi.GetUnitName(currentUnit);
+        _gameUi.WriteLine($"{healerName} revive a {selectedMonster.Name}");
+        int healAmount = selectedMonster.OriginalHp;
+        selectedMonster.Hp = healAmount;
+        _gameUi.WriteLine($"{selectedMonster.Name} recibe {healAmount} de HP");
+        _gameUi.WriteLine($"{selectedMonster.Name} termina con HP:{selectedMonster.Hp}/{selectedMonster.OriginalHp}");
+    }
+
+    private bool HandleSamuraiInvocation(Monster selectedMonster)
+    {
+        _gameUi.PrintLine();
+        int selectedPosition = _gameUi.DisplayPositionMenu(_currentTeam);
+        
+        if (selectedPosition == ActionConstantsData.CancelInvokeSelection)
+        {
+            _gameUi.PrintLine();
+            ExecuteUnitTurn();
+            return true;
+        }
+        
+        ExecuteSamuraiInvocation(selectedMonster, selectedPosition);
+        return false;
+    }
+
+    private void ExecuteSamuraiInvocation(Monster selectedMonster, int selectedPosition)
+    {
+        _currentTeam.PlaceMonsterInPosition(selectedMonster, selectedPosition - 1);
+        _gameUi.PrintLine();
+        _gameUi.DisplaySummonSuccess(selectedMonster.Name);
+        _currentTeam.ConsumeSummonTurns();
+    }
+
+    private void HandleMonsterInvocation(Monster currentMonster, Monster selectedMonster)
+    {
+        _currentTeam.SwapMonsters(currentMonster, selectedMonster);
+        _gameUi.PrintLine();
+        _gameUi.DisplaySummonSuccess(selectedMonster.Name);
+        _currentTeam.ConsumeSummonTurns();
+    }
+
+    private bool HandleSabbatmaSkillExecution(IUnit currentUnit, SkillData skillData)
+    {
+        List<Monster> availableMonsters = _currentTeam.GetAvailableMonstersForSummon();
+        int selectedMonsterIndex = _gameUi.DisplaySummonMenu(availableMonsters);
+        
+        if (selectedMonsterIndex == availableMonsters.Count + 1)
+        {
+            _gameUi.PrintLine();
+            ExecuteUnitTurn();
+            return true;
+        }
+
+        Monster selectedMonster = availableMonsters[selectedMonsterIndex - 1];
+        _gameUi.PrintLine();
+        
+        int selectedPosition = _gameUi.DisplayPositionMenu(_currentTeam);
+        if (selectedPosition == ActionConstantsData.CancelInvokeSelection)
+        {
+            _gameUi.PrintLine();
+            ExecuteUnitTurn();
+            return true;
+        }
+        
+        ExecuteSabbatmaSkill(currentUnit, selectedMonster, selectedPosition, skillData);
+        return false;
+    }
+
+    private void ExecuteSabbatmaSkill(IUnit currentUnit, Monster selectedMonster, int selectedPosition, SkillData skillData)
+    {
+        _currentTeam.PlaceMonsterInPosition(selectedMonster, selectedPosition - 1);
+        _gameUi.PrintLine();
+        _gameUi.DisplaySummonSuccess(selectedMonster.Name);
+        _currentTeam.ConsumeNonOffensiveSkillsTurns();
+        ConsumeMp(currentUnit, skillData.cost);
+        _currentTeam.IncrementUsedSkillsCount();
+    }
     private List<Monster> GetAllReserveMonsters()
     {
         List<Monster> reserveMonsters = new List<Monster>();

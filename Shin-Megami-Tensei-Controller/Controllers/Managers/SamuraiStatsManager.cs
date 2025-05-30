@@ -44,9 +44,9 @@ public class SamuraiStatsManager
 
             if (samuraiDataList == null)
                 return new List<Stats>();
-            return samuraiDataList.Select(sd => new Stats(
-                sd.name, sd.stats.HP, sd.stats.MP, sd.stats.Str,
-                sd.stats.Skl, sd.stats.Mag, sd.stats.Spd, sd.stats.Lck
+            return samuraiDataList.Select(samuraiData => new Stats(
+                samuraiData.name, samuraiData.stats.HP, samuraiData.stats.MP, samuraiData.stats.Str,
+                samuraiData.stats.Skl, samuraiData.stats.Mag, samuraiData.stats.Spd, samuraiData.stats.Lck
             )).ToList();
         }
         catch (Exception ex)
