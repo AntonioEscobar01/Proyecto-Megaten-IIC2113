@@ -46,54 +46,69 @@ public class AttackProcessor
         
         _gameUi.ShowAttack(attackerName, actionType, targetName);
         
-        switch (affinity)
+        var damageResult = CalculateDamageByAffinity(baseDamage, affinity);
+        ApplyDamageBasedOnAffinity(attacker, target, damageResult, affinity);
+        ShowDamageResultForAttack(attacker, target, attackerName, targetName, affinity);
+    }
+
+    private DamageResultData CalculateDamageByAffinity(double baseDamage, string affinity)
+    {
+        return affinity switch
         {
-            case RESIST_AFFINITY:
-                int resistDamage = Convert.ToInt32(Math.Floor(baseDamage * RESIST_DAMAGE_FACTOR));
-                UpdateTargetHealth(target, resistDamage);
-                _gameUi.ShowAffinityResponse(attackerName, affinity, targetName, resistDamage);
+            RESIST_AFFINITY => new DamageResultData(Convert.ToInt32(Math.Floor(baseDamage * RESIST_DAMAGE_FACTOR)), DamageType.Resist),
+            WEAK_AFFINITY => new DamageResultData(Convert.ToInt32(Math.Floor(baseDamage * WEAK_DAMAGE_FACTOR)), DamageType.Weak),
+            NULL_AFFINITY => new DamageResultData(0, DamageType.Null),
+            REPEL_AFFINITY => new DamageResultData(Convert.ToInt32(Math.Floor(baseDamage)), DamageType.Repel),
+            DRAIN_AFFINITY => new DamageResultData(Convert.ToInt32(Math.Floor(baseDamage)), DamageType.Drain),
+            _ => new DamageResultData(Convert.ToInt32(Math.Floor(baseDamage)), DamageType.Normal)
+        };
+    }
+
+    private void ApplyDamageBasedOnAffinity(object attacker, object target, DamageResultData damageResult, string affinity)
+    {
+        string attackerName = _gameUi.GetUnitName(attacker);
+        string targetName = _gameUi.GetUnitName(target);
+
+        switch (damageResult.Type)
+        {
+            case DamageType.Resist:
+            case DamageType.Weak:
+            case DamageType.Normal:
+                UpdateTargetHealth(target, damageResult.Amount);
                 break;
-                
-            case WEAK_AFFINITY:
-                int weakDamage = Convert.ToInt32(Math.Floor(baseDamage * WEAK_DAMAGE_FACTOR));
-                UpdateTargetHealth(target, weakDamage);
-                _gameUi.ShowAffinityResponse(attackerName, affinity, targetName, weakDamage);
+            case DamageType.Null:
+                // No damage applied
                 break;
-                
-            case NULL_AFFINITY:
-                _gameUi.ShowAffinityResponse(attackerName, affinity, targetName, 0);
+            case DamageType.Repel:
+                UpdateTargetHealth(attacker, damageResult.Amount);
                 break;
-                
-            case REPEL_AFFINITY:
-                UpdateTargetHealth(attacker, Convert.ToInt32(Math.Floor(baseDamage)));
-                _gameUi.ShowAffinityResponse(attackerName, affinity, targetName, Convert.ToInt32(Math.Floor(baseDamage)));
-                break;
-                
-            case DRAIN_AFFINITY:
-                HealTarget(target,Convert.ToInt32(Math.Floor(baseDamage)));
-                _gameUi.ShowAffinityResponse(attackerName, affinity, targetName, Convert.ToInt32(Math.Floor(baseDamage)));
-                break;
-                
-            default:
-                UpdateTargetHealth(target, Convert.ToInt32(Math.Floor(baseDamage)));
-                _gameUi.ShowAffinityResponse(attackerName, affinity, targetName, Convert.ToInt32(Math.Floor(baseDamage)));
+            case DamageType.Drain:
+                HealTarget(target, damageResult.Amount);
                 break;
         }
-        
+
+        _gameUi.ShowAffinityResponse(attackerName, affinity, targetName, damageResult.Amount);
+    }
+    
+
+    private void ShowDamageResultForAttack(object attacker, object target, string attackerName, string targetName, string affinity)
+    {
         if (affinity == REPEL_AFFINITY)
         {
-            int attackerRemainingHp = GetUnitHp(attacker);
-            int attackerOriginalHp = GetUnitOriginalHp(attacker);
-            _gameUi.ShowDamageResult(attackerName, attackerRemainingHp, attackerOriginalHp);
+            ShowUnitHealthStatus(attacker, attackerName);
         }
         else
         {
-            int remainingHp = GetUnitHp(target);
-            int originalHp = GetUnitOriginalHp(target);
-            _gameUi.ShowDamageResult(targetName, remainingHp, originalHp);
+            ShowUnitHealthStatus(target, targetName);
         }
     }
-    
+
+    private void ShowUnitHealthStatus(object unit, string unitName)
+    {
+        int remainingHp = GetUnitHp(unit);
+        int originalHp = GetUnitOriginalHp(unit);
+        _gameUi.ShowDamageResult(unitName, remainingHp, originalHp);
+    }
 
     private string GetTargetAffinity(object target, string attackType)
     {
@@ -170,105 +185,94 @@ public class AttackProcessor
     
     public string ApplyOffensiveSkill(object attacker, object target, SkillData skill, int usedSkillsCount)
     {
-        string attackerName = _gameUi.GetUnitName(attacker);
-        string targetName = _gameUi.GetUnitName(target);
-        string skillType = skill.type;
-        string affinity = GetTargetAffinity(target, skillType);
-
-        // Determinar el número de hits según el contador de habilidades
+        string affinity = GetTargetAffinity(target, skill.type);
         int numberOfHits = skill.GetHitsCount(usedSkillsCount);
-
-        // Calcular daño base (sin dividir por número de hits)
         double baseDamage = CalculateSkillDamage(attacker, skill);
 
-        // Aplicar cada hit individualmente
-        for (int i = 0; i < numberOfHits; i++)
-        {
-            
-            string actionVerb = skill.GetSkillActionVerb(skillType);
-            _gameUi.WriteLine($"{attackerName} {actionVerb} {targetName}");
-
-            // Aplicar daño según la afinidad
-            switch (affinity)
-            {
-                case RESIST_AFFINITY:
-                    int resistDamage = Convert.ToInt32(Math.Floor(baseDamage * RESIST_DAMAGE_FACTOR));
-                    UpdateTargetHealth(target, resistDamage);
-                    _gameUi.ShowAffinityResponse(attackerName, affinity, targetName, resistDamage);
-                    break;
-
-                case WEAK_AFFINITY:
-                    int weakDamage = Convert.ToInt32(Math.Floor(baseDamage * WEAK_DAMAGE_FACTOR));
-                    UpdateTargetHealth(target, weakDamage);
-                    _gameUi.ShowAffinityResponse(attackerName, affinity, targetName, weakDamage);
-                    break;
-
-                case NULL_AFFINITY:
-                    _gameUi.ShowAffinityResponse(attackerName, affinity, targetName, 0);
-                    break;
-
-                case REPEL_AFFINITY:
-                    int repelDamage = Convert.ToInt32(Math.Floor(baseDamage));
-                    UpdateTargetHealth(attacker, repelDamage);
-                    _gameUi.ShowAffinityResponse(attackerName, affinity, targetName, repelDamage);
-                    break;
-
-                case DRAIN_AFFINITY:
-                    int drainAmount = Convert.ToInt32(Math.Floor(baseDamage));
-                    HealTarget(target, drainAmount);
-                    _gameUi.ShowAffinityResponse(attackerName, affinity, targetName, drainAmount);
-                    break;
-
-                default:
-                    int normalDamage = Convert.ToInt32(Math.Floor(baseDamage));
-                    UpdateTargetHealth(target, normalDamage);
-                    _gameUi.ShowAffinityResponse(attackerName, affinity, targetName, normalDamage);
-                    break;
-            }
-        }
-
-        // Mostrar resultado final después de todos los hits
-        if (affinity == REPEL_AFFINITY)
-        {
-            int attackerRemainingHp = GetUnitHp(attacker);
-            int attackerOriginalHp = GetUnitOriginalHp(attacker);
-            _gameUi.ShowDamageResult(attackerName, attackerRemainingHp, attackerOriginalHp);
-        }
-        else
-        {
-            int remainingHp = GetUnitHp(target);
-            int originalHp = GetUnitOriginalHp(target);
-            _gameUi.ShowDamageResult(targetName, remainingHp, originalHp);
-        }
+        ExecuteSkillHits(attacker, target, skill, affinity, baseDamage, numberOfHits);
+        ShowFinalSkillResult(attacker, target, affinity);
 
         return affinity;
     }
 
+    private void ExecuteSkillHits(object attacker, object target, SkillData skill, string affinity, double baseDamage, int numberOfHits)
+    {
+        for (int i = 0; i < numberOfHits; i++)
+        {
+            ExecuteSingleSkillHit(attacker, target, skill, affinity, baseDamage);
+        }
+    }
+
+    private void ExecuteSingleSkillHit(object attacker, object target, SkillData skill, string affinity, double baseDamage)
+    {
+        ShowSkillAttackMessage(attacker, target, skill);
+        var damageResult = CalculateDamageByAffinity(baseDamage, affinity);
+        ApplyDamageBasedOnAffinity(attacker, target, damageResult, affinity);
+    }
+
+    private void ShowSkillAttackMessage(object attacker, object target, SkillData skill)
+    {
+        string attackerName = _gameUi.GetUnitName(attacker);
+        string targetName = _gameUi.GetUnitName(target);
+        string actionVerb = skill.GetSkillActionVerb(skill.type);
+        _gameUi.WriteLine($"{attackerName} {actionVerb} {targetName}");
+    }
+
+    private void ShowFinalSkillResult(object attacker, object target, string affinity)
+    {
+        string attackerName = _gameUi.GetUnitName(attacker);
+        string targetName = _gameUi.GetUnitName(target);
+
+        if (affinity == REPEL_AFFINITY)
+        {
+            ShowUnitHealthStatus(attacker, attackerName);
+        }
+        else
+        {
+            ShowUnitHealthStatus(target, targetName);
+        }
+    }
+
     private double CalculateSkillDamage(object attacker, SkillData skill)
     {
-        int baseStat;
-
-        // Determinar qué stat usar basado en el tipo de habilidad
-        if (skill.type == "Phys" || skill.type == "Gun")
-        {
-            baseStat = attacker switch
-            {
-                Samurai samurai => skill.type == "Phys" ? samurai.Str : samurai.Skl,
-                Monster monster => skill.type == "Phys" ? monster.Str : monster.Skl,
-                _ => 0
-            };
-        }
-        else // Habilidades mágicas (Fire, Ice, Elec, Force, Almighty)
-        {
-            baseStat = attacker switch
-            {
-                Samurai samurai => samurai.Mag,
-                Monster monster => monster.Mag,
-                _ => 0
-            };
-        }
-
-        // Aplicar la fórmula correcta: Daño = sqrt(Stat * SkillPower)
+        int baseStat = GetBaseStat(attacker, skill);
         return Math.Sqrt(baseStat * skill.power);
+    }
+
+    private int GetBaseStat(object attacker, SkillData skill)
+    {
+        if (IsPhysicalOrGunSkill(skill.type))
+        {
+            return GetPhysicalBaseStat(attacker, skill.type);
+        }
+        else
+        {
+            return GetMagicalBaseStat(attacker);
+        }
+    }
+
+    private bool IsPhysicalOrGunSkill(string skillType)
+    {
+        return skillType == "Phys" || skillType == "Gun";
+    }
+
+    private int GetPhysicalBaseStat(object attacker, string skillType)
+    {
+        return attacker switch
+        {
+            Samurai samurai => skillType == "Phys" ? samurai.Str : samurai.Skl,
+            Monster monster => skillType == "Phys" ? monster.Str : monster.Skl,
+            _ => 0
+        };
+    }
+
+    private int GetMagicalBaseStat(object attacker)
+    {
+        return attacker switch
+        {
+            Samurai samurai => samurai.Mag,
+            Monster monster => monster.Mag,
+            _ => 0
+        };
     }
 }
