@@ -29,26 +29,31 @@ public class AttackProcessor
     public void Attack(object attacker, object target)
     {
         double baseDamage = CalculateDamage(attacker, ATTACK_DAMAGE_MODIFIER);
-        ProcessAttackWithAffinity(attacker, target, baseDamage, PHYS_TYPE, "ataca");
+        var attackContext = new AttackContext(attacker, target, baseDamage, PHYS_TYPE, "ataca");
+        ProcessAttackWithAffinity(attackContext);
     }
 
     public void Shoot(object attacker, object target)
     {
         double baseDamage = CalculateDamage(attacker, SHOOT_DAMAGE_MODIFIER);
-        ProcessAttackWithAffinity(attacker, target, baseDamage, GUN_TYPE, "dispara");
+        var attackContext = new AttackContext(attacker, target, baseDamage, GUN_TYPE, "dispara");
+        ProcessAttackWithAffinity(attackContext);
     }
 
-    private void ProcessAttackWithAffinity(object attacker, object target, double baseDamage, string attackType, string actionType)
+    private void ProcessAttackWithAffinity(AttackContext context)
     {
-        string attackerName = _gameUi.GetUnitName(attacker);
-        string targetName = _gameUi.GetUnitName(target);
-        string affinity = GetTargetAffinity(target, attackType);
-        
-        _gameUi.ShowAttack(attackerName, actionType, targetName);
-        
-        var damageResult = CalculateDamageByAffinity(baseDamage, affinity);
-        ApplyDamageBasedOnAffinity(attacker, target, damageResult, affinity);
-        ShowDamageResultForAttack(attacker, target, attackerName, targetName, affinity);
+        string attackerName = _gameUi.GetUnitName(context.Attacker);
+        string targetName = _gameUi.GetUnitName(context.Target);
+        string affinity = GetTargetAffinity(context.Target, context.AttackType);
+    
+        _gameUi.ShowAttack(attackerName, context.ActionType, targetName);
+    
+        var damageResult = CalculateDamageByAffinity(context.BaseDamage, affinity);
+        var damageContext = new DamageApplicationContext(context.Attacker, context.Target, damageResult, affinity);
+        ApplyDamageBasedOnAffinity(damageContext);
+    
+        var resultContext = new AttackResultContext(context.Attacker, context.Target, attackerName, targetName, affinity);
+        ShowDamageResultForAttack(resultContext);
     }
 
     private DamageResultData CalculateDamageByAffinity(double baseDamage, string affinity)
@@ -64,42 +69,41 @@ public class AttackProcessor
         };
     }
 
-    private void ApplyDamageBasedOnAffinity(object attacker, object target, DamageResultData damageResult, string affinity)
+    private void ApplyDamageBasedOnAffinity(DamageApplicationContext context)
     {
-        string attackerName = _gameUi.GetUnitName(attacker);
-        string targetName = _gameUi.GetUnitName(target);
-
-        switch (damageResult.Type)
+        string attackerName = _gameUi.GetUnitName(context.Attacker);
+        string targetName = _gameUi.GetUnitName(context.Target);
+        switch (context.DamageResult.Type)
         {
             case DamageType.Resist:
             case DamageType.Weak:
             case DamageType.Normal:
-                UpdateTargetHealth(target, damageResult.Amount);
+                UpdateTargetHealth(context.Target, context.DamageResult.Amount);
                 break;
             case DamageType.Null:
                 // No damage applied
                 break;
             case DamageType.Repel:
-                UpdateTargetHealth(attacker, damageResult.Amount);
+                UpdateTargetHealth(context.Attacker, context.DamageResult.Amount);
                 break;
             case DamageType.Drain:
-                HealTarget(target, damageResult.Amount);
+                HealTarget(context.Target, context.DamageResult.Amount);
                 break;
         }
-
-        _gameUi.ShowAffinityResponse(attackerName, affinity, targetName, damageResult.Amount);
+        var affinityInfo = new AffinityResponseInfo(attackerName, context.Affinity, targetName, context.DamageResult.Amount);
+        _gameUi.ShowAffinityResponse(affinityInfo);
     }
     
 
-    private void ShowDamageResultForAttack(object attacker, object target, string attackerName, string targetName, string affinity)
+    private void ShowDamageResultForAttack(AttackResultContext context)
     {
-        if (affinity == REPEL_AFFINITY)
+        if (context.Affinity == REPEL_AFFINITY)
         {
-            ShowUnitHealthStatus(attacker, attackerName);
+            ShowUnitHealthStatus(context.Attacker, context.AttackerName);
         }
         else
         {
-            ShowUnitHealthStatus(target, targetName);
+            ShowUnitHealthStatus(context.Target, context.TargetName);
         }
     }
 
@@ -189,17 +193,18 @@ public class AttackProcessor
         int numberOfHits = skill.GetHitsCount(usedSkillsCount);
         double baseDamage = CalculateSkillDamage(attacker, skill);
 
-        ExecuteSkillHits(attacker, target, skill, affinity, baseDamage, numberOfHits);
+        var skillContext = new SkillExecutionContext(attacker, target, skill, affinity, baseDamage, numberOfHits);
+        ExecuteSkillHits(skillContext);
         ShowFinalSkillResult(attacker, target, affinity);
 
         return affinity;
     }
 
-    private void ExecuteSkillHits(object attacker, object target, SkillData skill, string affinity, double baseDamage, int numberOfHits)
+    private void ExecuteSkillHits(SkillExecutionContext context)
     {
-        for (int i = 0; i < numberOfHits; i++)
+        for (int i = 0; i < context.NumberOfHits; i++)
         {
-            ExecuteSingleSkillHit(attacker, target, skill, affinity, baseDamage);
+            ExecuteSingleSkillHit(context.Attacker, context.Target, context.Skill, context.Affinity, context.BaseDamage);
         }
     }
 
@@ -207,7 +212,8 @@ public class AttackProcessor
     {
         ShowSkillAttackMessage(attacker, target, skill);
         var damageResult = CalculateDamageByAffinity(baseDamage, affinity);
-        ApplyDamageBasedOnAffinity(attacker, target, damageResult, affinity);
+        var damageContext = new DamageApplicationContext(attacker, target, damageResult, affinity);
+        ApplyDamageBasedOnAffinity(damageContext);
     }
 
     private void ShowSkillAttackMessage(object attacker, object target, SkillData skill)

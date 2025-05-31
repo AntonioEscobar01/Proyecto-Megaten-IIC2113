@@ -33,13 +33,13 @@ public class GameUi
         _view.WriteLine(playerInfo);
     }
 
-    public void DisplayGameState(Team currentTeam, Team team1, Team team2, int currentTurn)
+    public void DisplayGameState(GameStateDisplayInfo gameStateInfo)
     {
-        PrintTeamsState(team1, team2);
+        PrintTeamsState(gameStateInfo.Team1, gameStateInfo.Team2);
         PrintLine();
-        PrintTurnInfo(currentTeam);
+        PrintTurnInfo(gameStateInfo.CurrentTeam);
         PrintLine();
-        ShowTeamOrder(currentTeam);
+        ShowTeamOrder(gameStateInfo.CurrentTeam);
         PrintLine();
     }
 
@@ -118,11 +118,11 @@ public class GameUi
         }
     }
 
-    public void PrintTurnsUsed(Team currentTeam, int fullTurnsUsed, int blinkingTurnsUsed, int blinkingTurnsGained)
+    public void PrintTurnsUsed(TurnUsageInfo turnUsage)
     {
         PrintLine();
-        _view.WriteLine($"Se han consumido {fullTurnsUsed} Full Turn(s) y {blinkingTurnsUsed} Blinking Turn(s)");
-        _view.WriteLine($"Se han obtenido {blinkingTurnsGained} Blinking Turn(s)");
+        _view.WriteLine($"Se han consumido {turnUsage.FullTurnsUsed} Full Turn(s) y {turnUsage.BlinkingTurnsUsed} Blinking Turn(s)");
+        _view.WriteLine($"Se han obtenido {turnUsage.BlinkingTurnsGained} Blinking Turn(s)");
     }
 
     public void DisplayWinner(Team team1, Team team2, int winnerTeam)
@@ -148,27 +148,27 @@ public class GameUi
         _view.WriteLine($"{attackerName} {actionType} a {targetName}");
     }
     
-    public void ShowAffinityResponse(string attackerName, string affinity, string targetName, int damage)
+    public void ShowAffinityResponse(AffinityResponseInfo affinityInfo)
     {
-        switch (affinity)
+        switch (affinityInfo.Affinity)
         {
             case "Rs":
-                ShowResistResponse(attackerName, targetName, damage);
+                ShowResistResponse(affinityInfo.AttackerName, affinityInfo.TargetName, affinityInfo.Damage);
                 break;
             case "Wk":
-                ShowWeakResponse(attackerName, targetName, damage);
+                ShowWeakResponse(affinityInfo.AttackerName, affinityInfo.TargetName, affinityInfo.Damage);
                 break;
             case "Nu":
-                ShowNullResponse(attackerName, targetName);
+                ShowNullResponse(affinityInfo.AttackerName, affinityInfo.TargetName);
                 break;
             case "Dr":
-                ShowDrainResponse(targetName, damage);
+                ShowDrainResponse(affinityInfo.TargetName, affinityInfo.Damage);
                 break;
             case "Rp":
-                ShowRepelResponse(attackerName, targetName, damage);
+                ShowRepelResponse(affinityInfo.AttackerName, affinityInfo.TargetName, affinityInfo.Damage);
                 break;
             default:
-                ShowNormalDamageResponse(targetName, damage);
+                ShowNormalDamageResponse(affinityInfo.TargetName, affinityInfo.Damage);
                 break;
         }
     }
@@ -311,15 +311,5 @@ public class GameUi
     public void ShowSkillCancelOption(int optionNumber)
     {
         _view.WriteLine($"{optionNumber}-Cancelar");
-    }
-
-    public void ShowInvitationReviveMessage(string healerName, string monsterName)
-    {
-        _view.WriteLine($"{healerName} revive a {monsterName}");
-    }
-
-    public void ShowInvitationHealMessage(string monsterName, int healAmount)
-    {
-        _view.WriteLine($"{monsterName} recibe {healAmount} de HP");
     }
 }

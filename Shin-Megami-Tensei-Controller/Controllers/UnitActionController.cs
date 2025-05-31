@@ -130,10 +130,10 @@ public class UnitActionController
     private void ShowTurnConsumptionSummary(TurnState initialState)
     {
         var turnConsumption = CalculateTurnConsumption(initialState);
-        _gameUi.PrintTurnsUsed(_currentTeam, 
-                              turnConsumption.FullTurnsUsed, 
-                              turnConsumption.BlinkingTurnsUsed, 
-                              turnConsumption.BlinkingTurnsGained);
+        var turnUsageInfo = new TurnUsageInfo(turnConsumption.FullTurnsUsed, 
+            turnConsumption.BlinkingTurnsUsed, 
+            turnConsumption.BlinkingTurnsGained);
+        _gameUi.PrintTurnsUsed(turnUsageInfo);
     }
 
     private TurnConsumption CalculateTurnConsumption(TurnState initialState)
@@ -439,7 +439,8 @@ public class UnitActionController
             return true;
         }
 
-        ExecuteHealingSkillOnTarget(currentUnit, targetIndex, skillData, classification);
+        var healingInfo = new HealingSkillInfo(skillData, classification);
+        ExecuteHealingSkillOnTarget(currentUnit, targetIndex, healingInfo);
         CompleteHealingSkillExecution();
         return false;
     }
@@ -449,27 +450,27 @@ public class UnitActionController
         return _allySelectorController.ChooseAllyToHeal(currentUnit, !isHealSkill);
     }
 
-    private void ExecuteHealingSkillOnTarget(object currentUnit, int targetIndex, SkillData skillData, HealingSkillClassification classification)
+    private void ExecuteHealingSkillOnTarget(object currentUnit, int targetIndex, HealingSkillInfo healingInfo)
     {
         _gameUi.PrintLine();
         object targetUnit = _allySelectorController.GetAlly(targetIndex);
-        ExecuteHealingSkill(currentUnit, targetUnit, skillData, classification);
+        ExecuteHealingSkill(currentUnit, targetUnit, healingInfo);
     }
 
-    private void ExecuteHealingSkill(object currentUnit, object targetUnit, SkillData skillData, HealingSkillClassification classification)
+    private void ExecuteHealingSkill(object currentUnit, object targetUnit, HealingSkillInfo healingInfo)
     {
-        ConsumeMp(currentUnit, skillData.cost);
+        ConsumeMp(currentUnit, healingInfo.SkillData.cost);
         string healerName = _gameUi.GetUnitName(currentUnit);
         string targetName = _gameUi.GetUnitName(targetUnit);
 
-        if (classification.IsReviveSkill)
+        if (healingInfo.Classification.IsReviveSkill)
         {
-            ReviveTarget(targetUnit, skillData);
+            ReviveTarget(targetUnit, healingInfo.SkillData);
         }
-        else if (classification.IsHealSkill)
+        else if (healingInfo.Classification.IsHealSkill)
         {
             _gameUi.ShowHealingAction(healerName, targetName);
-            HealTarget(targetUnit, skillData);
+            HealTarget(targetUnit, healingInfo.SkillData);
         }
 
         ConsumeHealingSkillTurns();
@@ -578,24 +579,9 @@ public class UnitActionController
         return _gameUi.DisplaySummonMenu(availableMonsters);
     }
 
-    private bool ProcessSabbatmaPositionSelection(IUnit currentUnit, Monster selectedMonster, SkillData skillData)
+    private void ExecuteSabbatmaSkill(IUnit currentUnit, MonsterPlacement placement, SkillData skillData)
     {
-        _gameUi.PrintLine();
-        int selectedPosition = SelectInvocationPosition();
-        
-        if (IsPositionSelectionCancelled(selectedPosition))
-        {
-            CancelAndReturnToMenu();
-            return true;
-        }
-        
-        ExecuteSabbatmaSkill(currentUnit, selectedMonster, selectedPosition, skillData);
-        return false;
-    }
-
-    private void ExecuteSabbatmaSkill(IUnit currentUnit, Monster selectedMonster, int selectedPosition, SkillData skillData)
-    {
-        PlaceMonsterAndShowSuccess(selectedMonster, selectedPosition);
+        PlaceMonsterAndShowSuccess(placement.SelectedMonster, placement.SelectedPosition);
         ConsumeSabbatmaResources(currentUnit, skillData);
     }
 
@@ -603,6 +589,22 @@ public class UnitActionController
     {
         _currentTeam.PlaceMonsterInPosition(selectedMonster, selectedPosition - 1);
         ShowInvocationSuccess(selectedMonster);
+    }
+
+    private bool ProcessSabbatmaPositionSelection(IUnit currentUnit, Monster selectedMonster, SkillData skillData)
+    {
+        _gameUi.PrintLine();
+        int selectedPosition = SelectInvocationPosition();
+    
+        if (IsPositionSelectionCancelled(selectedPosition))
+        {
+            CancelAndReturnToMenu();
+            return true;
+        }
+    
+        var placement = new MonsterPlacement(selectedMonster, selectedPosition);
+        ExecuteSabbatmaSkill(currentUnit, placement, skillData);
+        return false;
     }
 
     private void ConsumeSabbatmaResources(IUnit currentUnit, SkillData skillData)
