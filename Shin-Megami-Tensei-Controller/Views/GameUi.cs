@@ -150,32 +150,64 @@ public class GameUi
     
     public void ShowAffinityResponse(string attackerName, string affinity, string targetName, int damage)
     {
-        if (affinity == "Rs")
+        switch (affinity)
         {
-            _view.WriteLine($"{targetName} es resistente el ataque de {attackerName}");
-            _view.WriteLine($"{targetName} recibe {damage} de daño");
+            case "Rs":
+                ShowResistResponse(attackerName, targetName, damage);
+                break;
+            case "Wk":
+                ShowWeakResponse(attackerName, targetName, damage);
+                break;
+            case "Nu":
+                ShowNullResponse(attackerName, targetName);
+                break;
+            case "Dr":
+                ShowDrainResponse(targetName, damage);
+                break;
+            case "Rp":
+                ShowRepelResponse(attackerName, targetName, damage);
+                break;
+            default:
+                ShowNormalDamageResponse(targetName, damage);
+                break;
         }
-        else if (affinity == "Wk")
-        {
-            _view.WriteLine($"{targetName} es débil contra el ataque de {attackerName}");
-            _view.WriteLine($"{targetName} recibe {damage} de daño");
-        }
-        else if (affinity == "Nu")
-        {
-            _view.WriteLine($"{targetName} bloquea el ataque de {attackerName}");
-        }
-        else if (affinity == "Dr")
-        {
-            _view.WriteLine($"{targetName} absorbe {damage} daño");
-        }
-        else if (affinity == "Rp")
-        {
-            _view.WriteLine($"{targetName} devuelve {damage} daño a {attackerName}");
-        }
-        else
-        {
-            _view.WriteLine($"{targetName} recibe {damage} de daño");
-        }
+    }
+
+    private void ShowResistResponse(string attackerName, string targetName, int damage)
+    {
+        _view.WriteLine($"{targetName} es resistente el ataque de {attackerName}");
+        ShowDamageReceived(targetName, damage);
+    }
+
+    private void ShowWeakResponse(string attackerName, string targetName, int damage)
+    {
+        _view.WriteLine($"{targetName} es débil contra el ataque de {attackerName}");
+        ShowDamageReceived(targetName, damage);
+    }
+
+    private void ShowNullResponse(string attackerName, string targetName)
+    {
+        _view.WriteLine($"{targetName} bloquea el ataque de {attackerName}");
+    }
+
+    private void ShowDrainResponse(string targetName, int damage)
+    {
+        _view.WriteLine($"{targetName} absorbe {damage} daño");
+    }
+
+    private void ShowRepelResponse(string attackerName, string targetName, int damage)
+    {
+        _view.WriteLine($"{targetName} devuelve {damage} daño a {attackerName}");
+    }
+
+    private void ShowNormalDamageResponse(string targetName, int damage)
+    {
+        ShowDamageReceived(targetName, damage);
+    }
+
+    private void ShowDamageReceived(string targetName, int damage)
+    {
+        _view.WriteLine($"{targetName} recibe {damage} de daño");
     }
     
     public int GetSamuraiActionOptions(Samurai samurai)
