@@ -48,56 +48,113 @@ public class UnitActionController
     
     private void ProcessAction(IUnit currentUnit, int action)
     {
-        int actionCode = currentUnit is Monster ? action + _actionConstantsData.MonsterOffset : action;
-        bool actionCancelled = false;
-        if (actionCode != ActionConstantsData.PassTurnAction && actionCode != ActionConstantsData.PassTurnActionMonster)
+        int actionCode = CalculateActionCode(currentUnit, action);
+        PrintActionSeparatorIfNeeded(actionCode);
+        var initialTurnState = CaptureInitialTurnState();
+
+        bool actionCancelled = ExecuteActionByCode(currentUnit, action, actionCode);
+
+        if (ShouldShowTurnSummary(actionCancelled))
+        {
+            ShowTurnConsumptionSummary(initialTurnState);
+        }
+    }
+
+    private int CalculateActionCode(IUnit currentUnit, int action)
+    {
+        return currentUnit is Monster ? action + _actionConstantsData.MonsterOffset : action;
+    }
+
+    private void PrintActionSeparatorIfNeeded(int actionCode)
+    {
+        if (ShouldPrintSeparatorForAction(actionCode))
             _gameUi.PrintLine();
-        int initialFullTurns = _currentTeam.FullTurns;
-        int initialBlinkingTurns = _currentTeam.BlinkingTurns;
+    }
 
-        switch (actionCode)
+    private bool ShouldPrintSeparatorForAction(int actionCode)
+    {
+        return actionCode != ActionConstantsData.PassTurnAction && 
+               actionCode != ActionConstantsData.PassTurnActionMonster;
+    }
+
+    private TurnState CaptureInitialTurnState()
+    {
+        return new TurnState(_currentTeam.FullTurns, _currentTeam.BlinkingTurns);
+    }
+
+    private bool ExecuteActionByCode(IUnit currentUnit, int action, int actionCode)
+    {
+        return actionCode switch
         {
-            case ActionConstantsData.AttackAction:
-            case ActionConstantsData.ShootAction:
-            case ActionConstantsData.AttackActionMonster:
-                actionCancelled = ProcessAttackAction(currentUnit, action);
-                break;
+            ActionConstantsData.AttackAction or 
+            ActionConstantsData.ShootAction or 
+            ActionConstantsData.AttackActionMonster 
+                => ProcessAttackAction(currentUnit, action),
+                
+            ActionConstantsData.SkillAction or 
+            ActionConstantsData.SkillActionMonster 
+                => WasSkillActionCancelled(currentUnit),
+                
+            ActionConstantsData.InvokeAction or 
+            ActionConstantsData.InvokeActionMonster 
+                => WasInvokeActionCancelled(currentUnit),
+                
+            ActionConstantsData.PassTurnAction or 
+            ActionConstantsData.PassTurnActionMonster 
+                => ExecutePassTurnAction(),
+                
+            ActionConstantsData.SurrenderAction 
+                => ExecuteSurrenderAction(),
+                
+            _ => false
+        };
+    }
 
-            case ActionConstantsData.SkillAction:
-            case ActionConstantsData.SkillActionMonster:
-                actionCancelled = WasSkillActionCancelled(currentUnit);
-                break;
+    private bool ExecutePassTurnAction()
+    {
+        ProcessPassTurnAction();
+        return false;
+    }
 
-            case ActionConstantsData.InvokeAction:
-            case ActionConstantsData.InvokeActionMonster:
-                actionCancelled = WasInvokeActionCancelled(currentUnit);
-                break;
+    private bool ExecuteSurrenderAction()
+    {
+        ProcessSurrenderAction();
+        return false;
+    }
 
-            case ActionConstantsData.PassTurnAction:
-            case ActionConstantsData.PassTurnActionMonster:
-                ProcessPassTurnAction();
-                break;
+    private bool ShouldShowTurnSummary(bool actionCancelled)
+    {
+        return !actionCancelled && !ShouldEndGame;
+    }
 
-            case ActionConstantsData.SurrenderAction:
-                ProcessSurrenderAction();
-                break;
-        }
+    private void ShowTurnConsumptionSummary(TurnState initialState)
+    {
+        var turnConsumption = CalculateTurnConsumption(initialState);
+        _gameUi.PrintTurnsUsed(_currentTeam, 
+                              turnConsumption.FullTurnsUsed, 
+                              turnConsumption.BlinkingTurnsUsed, 
+                              turnConsumption.BlinkingTurnsGained);
+    }
 
+    private TurnConsumption CalculateTurnConsumption(TurnState initialState)
+    {
+        int fullTurnsUsed = _currentTeam.FullTurns - initialState.FullTurns;
+        int blinkingTurnsUsed = CalculateBlinkingTurnsUsed(initialState.BlinkingTurns);
+        int blinkingTurnsGained = CalculateBlinkingTurnsGained(initialState, blinkingTurnsUsed);
         
-        if (!actionCancelled && !ShouldEndGame)
-        {
-            
-            int fullTurnsUsed = _currentTeam.FullTurns - initialFullTurns;
-            int blinkingTurnsUsed = initialBlinkingTurns - _currentTeam.BlinkingTurns;
-            if (blinkingTurnsUsed < 0) blinkingTurnsUsed = 0;
-            
-            int blinkingTurnsGained = (_currentTeam.BlinkingTurns - initialBlinkingTurns) + blinkingTurnsUsed;
-            
-            // Si blinkingTurnsGained es negativo, lo ajustamos a 0 (no se ganaron turnos)
-            if (blinkingTurnsGained < 0) blinkingTurnsGained = 0;
-            _gameUi.PrintTurnsUsed(_currentTeam, fullTurnsUsed, blinkingTurnsUsed, blinkingTurnsGained);
-            
-        }
+        return new TurnConsumption(fullTurnsUsed, blinkingTurnsUsed, blinkingTurnsGained);
+    }
+
+    private int CalculateBlinkingTurnsUsed(int initialBlinkingTurns)
+    {
+        int blinkingTurnsUsed = initialBlinkingTurns - _currentTeam.BlinkingTurns;
+        return Math.Max(0, blinkingTurnsUsed);
+    }
+
+    private int CalculateBlinkingTurnsGained(TurnState initialState, int blinkingTurnsUsed)
+    {
+        int blinkingTurnsGained = (_currentTeam.BlinkingTurns - initialState.BlinkingTurns) + blinkingTurnsUsed;
+        return Math.Max(0, blinkingTurnsGained);
     }
 
     private bool ProcessAttackAction(object currentUnit, int action)
@@ -107,8 +164,8 @@ public class UnitActionController
         if (targetIndex == ActionConstantsData.CancelTargetSelection)
         {
             _gameUi.PrintLine();
-            ExecuteUnitTurn(); // Vuelve al menú de selección de acciones
-            return true; // Indica que la acción fue cancelada
+            ExecuteUnitTurn();
+            return true;
         }
 
         _gameUi.PrintLine();
@@ -122,11 +179,9 @@ public class UnitActionController
         else
             _attackProcessor.Shoot(currentUnit, targetUnit);
 
-        // Consume turnos según la afinidad
         ConsumeSkillTurns(affinity);
-    
         _currentTeam.RotateOrderList();
-        return false; // Indica que la acción fue completada
+        return false;
     }
     
     private string GetTargetAffinity(object target, string attackType)
@@ -136,14 +191,15 @@ public class UnitActionController
         else if (target is Monster monster)
             return monster.Affinities.GetAffinity(attackType);
     
-        return "-"; // Afinidad neutral por defecto
+        return "-";
     }
 
     private bool WasSkillActionCancelled(IUnit currentUnit)
     {
         var skillInfo = GetSkillSelection(currentUnit);
         _gameUi.PrintLine();
-        if (skillInfo.SelectedIndex > skillInfo.Abilities.Count)
+        
+        if (IsSkillSelectionCancelled(skillInfo))
         {
             ExecuteUnitTurn();
             return true;
@@ -152,6 +208,16 @@ public class UnitActionController
         string selectedSkillName = skillInfo.Abilities[skillInfo.SelectedIndex - 1];
         var skillData = _skillsManager.GetSkillByName(selectedSkillName);
 
+        return ExecuteSelectedSkill(currentUnit, skillData);
+    }
+
+    private bool IsSkillSelectionCancelled(SkillSelectionResult skillInfo)
+    {
+        return skillInfo.SelectedIndex > skillInfo.Abilities.Count;
+    }
+
+    private bool ExecuteSelectedSkill(IUnit currentUnit, SkillData skillData)
+    {
         if (IsOffensiveSkill(skillData.type))
         {
             return HandleOffensiveSkillExecution(currentUnit, skillData);
@@ -160,13 +226,53 @@ public class UnitActionController
         {
             return WasHealingSkillCancelled(currentUnit, skillData);
         }
-        else if(skillData.type == "Special")
+        else if (skillData.type == "Special")
         {
             return WasSpecialSkillCancelled(currentUnit, skillData);
         }
 
         _currentTeam.RotateOrderList();
         return false;
+    }
+
+    private bool HandleOffensiveSkillExecution(IUnit currentUnit, SkillData skillData)
+    {
+        int targetIndex = SelectOffensiveSkillTarget(currentUnit);
+        if (IsTargetSelectionCancelled(targetIndex))
+        {
+            ExecuteUnitTurn();
+            return true;
+        }
+
+        ExecuteOffensiveSkillOnTarget(currentUnit, targetIndex, skillData);
+        _currentTeam.RotateOrderList();
+        return false;
+    }
+
+    private int SelectOffensiveSkillTarget(IUnit currentUnit)
+    {
+        int targetIndex = _targetSelectorController.ChooseUnitToAttack(currentUnit);
+        _gameUi.PrintLine();
+        return targetIndex;
+    }
+
+    private bool IsTargetSelectionCancelled(int targetIndex)
+    {
+        return targetIndex == ActionConstantsData.CancelTargetSelection;
+    }
+
+    private void ExecuteOffensiveSkillOnTarget(IUnit currentUnit, int targetIndex, SkillData skillData)
+    {
+        object targetUnit = _targetSelectorController.GetTarget(targetIndex);
+        ExecuteOffensiveSkill(currentUnit, targetUnit, skillData);
+    }
+
+    private void ExecuteOffensiveSkill(IUnit currentUnit, object targetUnit, SkillData skillData)
+    {
+        ConsumeMp(currentUnit, skillData.cost);
+        string affinity = _attackProcessor.ApplyOffensiveSkill(currentUnit, targetUnit, skillData, _currentTeam.UsedSkillsCount);
+        _currentTeam.IncrementUsedSkillsCount();
+        ConsumeSkillTurns(affinity);
     }
 
     private bool IsOffensiveSkill(string skillType)
@@ -192,17 +298,36 @@ public class UnitActionController
     {
         bool isSamurai = currentUnit is Samurai;
         List<Monster> availableMonsters = _currentTeam.GetAvailableMonstersForSummon();
-        int selectedMonsterIndex = _gameUi.DisplaySummonMenu(availableMonsters);
-    
-        if (selectedMonsterIndex == availableMonsters.Count + 1)
+        int selectedMonsterIndex = SelectMonsterForInvocation(availableMonsters);
+        
+        if (IsMonsterSelectionCancelled(selectedMonsterIndex, availableMonsters.Count))
         {
-            _gameUi.PrintLine();
-            ExecuteUnitTurn();
+            CancelAndReturnToMenu();
             return true;
         }
 
         Monster selectedMonster = availableMonsters[selectedMonsterIndex - 1];
+        return ProcessInvocationByUnitType(currentUnit, selectedMonster, isSamurai);
+    }
 
+    private int SelectMonsterForInvocation(List<Monster> availableMonsters)
+    {
+        return _gameUi.DisplaySummonMenu(availableMonsters);
+    }
+
+    private bool IsMonsterSelectionCancelled(int selectedIndex, int availableCount)
+    {
+        return selectedIndex == availableCount + 1;
+    }
+
+    private void CancelAndReturnToMenu()
+    {
+        _gameUi.PrintLine();
+        ExecuteUnitTurn();
+    }
+
+    private bool ProcessInvocationByUnitType(IUnit currentUnit, Monster selectedMonster, bool isSamurai)
+    {
         if (isSamurai)
         {
             return HandleSamuraiInvocation(selectedMonster);
@@ -212,6 +337,51 @@ public class UnitActionController
             HandleMonsterInvocation((Monster)currentUnit, selectedMonster);
             return false;
         }
+    }
+
+    private bool HandleSamuraiInvocation(Monster selectedMonster)
+    {
+        _gameUi.PrintLine();
+        int selectedPosition = SelectInvocationPosition();
+        
+        if (IsPositionSelectionCancelled(selectedPosition))
+        {
+            CancelAndReturnToMenu();
+            return true;
+        }
+        
+        ExecuteSamuraiInvocation(selectedMonster, selectedPosition);
+        return false;
+    }
+
+    private int SelectInvocationPosition()
+    {
+        return _gameUi.DisplayPositionMenu(_currentTeam);
+    }
+
+    private bool IsPositionSelectionCancelled(int selectedPosition)
+    {
+        return selectedPosition == ActionConstantsData.CancelInvokeSelection;
+    }
+
+    private void ExecuteSamuraiInvocation(Monster selectedMonster, int selectedPosition)
+    {
+        _currentTeam.PlaceMonsterInPosition(selectedMonster, selectedPosition - 1);
+        ShowInvocationSuccess(selectedMonster);
+        _currentTeam.ConsumeSummonTurns();
+    }
+
+    private void ShowInvocationSuccess(Monster selectedMonster)
+    {
+        _gameUi.PrintLine();
+        _gameUi.DisplaySummonSuccess(selectedMonster.Name);
+    }
+
+    private void HandleMonsterInvocation(Monster currentMonster, Monster selectedMonster)
+    {
+        _currentTeam.SwapMonsters(currentMonster, selectedMonster);
+        ShowInvocationSuccess(selectedMonster);
+        _currentTeam.ConsumeSummonTurns();
     }
 
     private void ProcessPassTurnAction()
@@ -229,121 +399,86 @@ public class UnitActionController
 
     private void ProcessSurrenderAction()
     {
-        _gameUi.WriteLine($"{_currentTeam.Samurai.Name} ({_currentTeam.Player}) se rinde");
+        _gameUi.ShowSurrenderMessage(_currentTeam.Samurai.Name, _currentTeam.Player);
         ShouldEndGame = true;
     }
     
     private bool WasHealingSkillCancelled(object currentUnit, SkillData skillData)
     {
-        string[] percentageHealSkills = { "Dia", "Diarama", "Diarahan" };
-        string[] reviveHealSkills = { "Recarm", "Samarecarm" };
-        bool isHealSkill = percentageHealSkills.Contains(skillData.name);
-        bool isReviveSkill = reviveHealSkills.Contains(skillData.name);
-        bool isInvitationSkill = skillData.name == "Invitation";
-    
-        if (!isInvitationSkill)
-        {
-            return HandleRegularHealingSkill(currentUnit, skillData, isHealSkill, isReviveSkill);
-        }
-        else
+        var skillClassification = ClassifyHealingSkill(skillData.name);
+        
+        if (skillClassification.IsInvitationSkill)
         {
             return HandleInvitationSkillExecution(currentUnit, skillData);
         }
-    }
-    
-    private bool WasInvitationSkillCancelled(object currentUnit)
-    {
-        List<Monster> availableMonsters = GetAllReserveMonsters();
-        int monsterSelection = _gameUi.DisplaySummonMenu(availableMonsters);
-    
-        if (monsterSelection == availableMonsters.Count + 1)
+        else
         {
-            return true;
+            return HandleRegularHealingSkill(currentUnit, skillData, skillClassification);
         }
-    
-        Monster selectedMonster = availableMonsters[monsterSelection - 1];
-        _gameUi.PrintLine();
-    
-        int positionSelection = _gameUi.DisplayPositionMenu(_currentTeam);
-        if (positionSelection == 4) // Cancelar
-            return true;
-
-        ExecuteInvitationSkill(currentUnit, selectedMonster, positionSelection);
-        return false;
     }
 
-    private bool WasSpecialSkillCancelled(IUnit currentUnit, SkillData skillData)
+    private HealingSkillClassification ClassifyHealingSkill(string skillName)
     {
-        if (skillData.name == "Sabbatma")
-        {
-            return HandleSabbatmaSkillExecution(currentUnit, skillData);
-        }
-
-        return false;
-    }
-
-    private bool HandleOffensiveSkillExecution(IUnit currentUnit, SkillData skillData)
-    {
-        int targetIndex = _targetSelectorController.ChooseUnitToAttack(currentUnit);
-        _gameUi.PrintLine();
+        string[] percentageHealSkills = { "Dia", "Diarama", "Diarahan" };
+        string[] reviveHealSkills = { "Recarm", "Samarecarm" };
         
-        if (targetIndex == ActionConstantsData.CancelTargetSelection)
+        return new HealingSkillClassification
         {
-            ExecuteUnitTurn();
+            IsHealSkill = percentageHealSkills.Contains(skillName),
+            IsReviveSkill = reviveHealSkills.Contains(skillName),
+            IsInvitationSkill = skillName == "Invitation"
+        };
+    }
+
+    private bool HandleRegularHealingSkill(object currentUnit, SkillData skillData, HealingSkillClassification classification)
+    {
+        int targetIndex = SelectHealingTarget(currentUnit, classification.IsHealSkill);
+        if (IsTargetSelectionCancelled(targetIndex))
+        {
+            CancelAndReturnToMenu();
             return true;
         }
 
-        object targetUnit = _targetSelectorController.GetTarget(targetIndex);
-        ExecuteOffensiveSkill(currentUnit, targetUnit, skillData);
-        _currentTeam.RotateOrderList();
+        ExecuteHealingSkillOnTarget(currentUnit, targetIndex, skillData, classification);
+        CompleteHealingSkillExecution();
         return false;
     }
 
-    private void ExecuteOffensiveSkill(IUnit currentUnit, object targetUnit, SkillData skillData)
+    private int SelectHealingTarget(object currentUnit, bool isHealSkill)
     {
-        ConsumeMp(currentUnit, skillData.cost);
-        string affinity = _attackProcessor.ApplyOffensiveSkill(currentUnit, targetUnit, skillData, _currentTeam.UsedSkillsCount);
-        _currentTeam.IncrementUsedSkillsCount();
-        ConsumeSkillTurns(affinity);
+        return _allySelectorController.ChooseAllyToHeal(currentUnit, !isHealSkill);
     }
 
-    private bool HandleRegularHealingSkill(object currentUnit, SkillData skillData, bool isHealSkill, bool isReviveSkill)
+    private void ExecuteHealingSkillOnTarget(object currentUnit, int targetIndex, SkillData skillData, HealingSkillClassification classification)
     {
-        int targetIndex = _allySelectorController.ChooseAllyToHeal(currentUnit, !isHealSkill);
-        if (targetIndex == ActionConstantsData.CancelTargetSelection)
-        {
-            _gameUi.PrintLine();
-            ExecuteUnitTurn();
-            return true;
-        }
-
         _gameUi.PrintLine();
         object targetUnit = _allySelectorController.GetAlly(targetIndex);
-
-        ExecuteHealingSkill(currentUnit, targetUnit, skillData, isHealSkill, isReviveSkill);
-        _currentTeam.RotateOrderList();
-        _currentTeam.IncrementUsedSkillsCount();
-        return false;
+        ExecuteHealingSkill(currentUnit, targetUnit, skillData, classification);
     }
 
-    private void ExecuteHealingSkill(object currentUnit, object targetUnit, SkillData skillData, bool isHealSkill, bool isReviveSkill)
+    private void ExecuteHealingSkill(object currentUnit, object targetUnit, SkillData skillData, HealingSkillClassification classification)
     {
         ConsumeMp(currentUnit, skillData.cost);
-
         string healerName = _gameUi.GetUnitName(currentUnit);
         string targetName = _gameUi.GetUnitName(targetUnit);
 
-        if (isReviveSkill)
+        if (classification.IsReviveSkill)
         {
             ReviveTarget(targetUnit, skillData);
         }
-        else if (isHealSkill)
+        else if (classification.IsHealSkill)
         {
-            _gameUi.WriteLine($"{healerName} cura a {targetName}");
+            _gameUi.ShowHealingAction(healerName, targetName);
             HealTarget(targetUnit, skillData);
         }
 
         ConsumeHealingSkillTurns();
+    }
+
+    private void CompleteHealingSkillExecution()
+    {
+        _currentTeam.RotateOrderList();
+        _currentTeam.IncrementUsedSkillsCount();
     }
 
     private void ConsumeHealingSkillTurns()
@@ -359,14 +494,33 @@ public class UnitActionController
         bool wasCancelled = WasInvitationSkillCancelled(currentUnit);
         if (wasCancelled)
         {
-            _gameUi.PrintLine();
-            ExecuteUnitTurn();
+            CancelAndReturnToMenu();
             return true;
         }
         
         ConsumeMp(currentUnit, skillData.cost);
-        _currentTeam.RotateOrderList();
-        _currentTeam.IncrementUsedSkillsCount();
+        CompleteHealingSkillExecution();
+        return false;
+    }
+
+    private bool WasInvitationSkillCancelled(object currentUnit)
+    {
+        List<Monster> availableMonsters = GetAllReserveMonsters();
+        int monsterSelection = _gameUi.DisplaySummonMenu(availableMonsters);
+        
+        if (monsterSelection == availableMonsters.Count + 1)
+        {
+            return true;
+        }
+        
+        Monster selectedMonster = availableMonsters[monsterSelection - 1];
+        _gameUi.PrintLine();
+        
+        int positionSelection = _gameUi.DisplayPositionMenu(_currentTeam);
+        if (positionSelection == 4)
+            return true;
+
+        ExecuteInvitationSkill(currentUnit, selectedMonster, positionSelection);
         return false;
     }
 
@@ -387,65 +541,51 @@ public class UnitActionController
     private void ReviveMonsterWithInvitation(object currentUnit, Monster selectedMonster)
     {
         string healerName = _gameUi.GetUnitName(currentUnit);
-        _gameUi.WriteLine($"{healerName} revive a {selectedMonster.Name}");
+        _gameUi.ShowReviveAction(healerName, selectedMonster.Name);
         int healAmount = selectedMonster.OriginalHp;
         selectedMonster.Hp = healAmount;
-        _gameUi.WriteLine($"{selectedMonster.Name} recibe {healAmount} de HP");
-        _gameUi.WriteLine($"{selectedMonster.Name} termina con HP:{selectedMonster.Hp}/{selectedMonster.OriginalHp}");
+        _gameUi.ShowHealAmountReceived(selectedMonster.Name, healAmount);
+        _gameUi.ShowHpResult(selectedMonster.Name, selectedMonster.Hp, selectedMonster.OriginalHp);
     }
 
-    private bool HandleSamuraiInvocation(Monster selectedMonster)
+    private bool WasSpecialSkillCancelled(IUnit currentUnit, SkillData skillData)
     {
-        _gameUi.PrintLine();
-        int selectedPosition = _gameUi.DisplayPositionMenu(_currentTeam);
-        
-        if (selectedPosition == ActionConstantsData.CancelInvokeSelection)
+        if (skillData.name == "Sabbatma")
         {
-            _gameUi.PrintLine();
-            ExecuteUnitTurn();
-            return true;
+            return HandleSabbatmaSkillExecution(currentUnit, skillData);
         }
-        
-        ExecuteSamuraiInvocation(selectedMonster, selectedPosition);
+
         return false;
-    }
-
-    private void ExecuteSamuraiInvocation(Monster selectedMonster, int selectedPosition)
-    {
-        _currentTeam.PlaceMonsterInPosition(selectedMonster, selectedPosition - 1);
-        _gameUi.PrintLine();
-        _gameUi.DisplaySummonSuccess(selectedMonster.Name);
-        _currentTeam.ConsumeSummonTurns();
-    }
-
-    private void HandleMonsterInvocation(Monster currentMonster, Monster selectedMonster)
-    {
-        _currentTeam.SwapMonsters(currentMonster, selectedMonster);
-        _gameUi.PrintLine();
-        _gameUi.DisplaySummonSuccess(selectedMonster.Name);
-        _currentTeam.ConsumeSummonTurns();
     }
 
     private bool HandleSabbatmaSkillExecution(IUnit currentUnit, SkillData skillData)
     {
         List<Monster> availableMonsters = _currentTeam.GetAvailableMonstersForSummon();
-        int selectedMonsterIndex = _gameUi.DisplaySummonMenu(availableMonsters);
+        int selectedMonsterIndex = SelectMonsterForSabbatma(availableMonsters);
         
-        if (selectedMonsterIndex == availableMonsters.Count + 1)
+        if (IsMonsterSelectionCancelled(selectedMonsterIndex, availableMonsters.Count))
         {
-            _gameUi.PrintLine();
-            ExecuteUnitTurn();
+            CancelAndReturnToMenu();
             return true;
         }
 
         Monster selectedMonster = availableMonsters[selectedMonsterIndex - 1];
+        return ProcessSabbatmaPositionSelection(currentUnit, selectedMonster, skillData);
+    }
+
+    private int SelectMonsterForSabbatma(List<Monster> availableMonsters)
+    {
+        return _gameUi.DisplaySummonMenu(availableMonsters);
+    }
+
+    private bool ProcessSabbatmaPositionSelection(IUnit currentUnit, Monster selectedMonster, SkillData skillData)
+    {
         _gameUi.PrintLine();
+        int selectedPosition = SelectInvocationPosition();
         
-        int selectedPosition = _gameUi.DisplayPositionMenu(_currentTeam);
-        if (selectedPosition == ActionConstantsData.CancelInvokeSelection)
+        if (IsPositionSelectionCancelled(selectedPosition))
         {
-            _gameUi.PrintLine();
-            ExecuteUnitTurn();
+            CancelAndReturnToMenu();
             return true;
         }
         
@@ -455,19 +595,28 @@ public class UnitActionController
 
     private void ExecuteSabbatmaSkill(IUnit currentUnit, Monster selectedMonster, int selectedPosition, SkillData skillData)
     {
+        PlaceMonsterAndShowSuccess(selectedMonster, selectedPosition);
+        ConsumeSabbatmaResources(currentUnit, skillData);
+    }
+
+    private void PlaceMonsterAndShowSuccess(Monster selectedMonster, int selectedPosition)
+    {
         _currentTeam.PlaceMonsterInPosition(selectedMonster, selectedPosition - 1);
-        _gameUi.PrintLine();
-        _gameUi.DisplaySummonSuccess(selectedMonster.Name);
+        ShowInvocationSuccess(selectedMonster);
+    }
+
+    private void ConsumeSabbatmaResources(IUnit currentUnit, SkillData skillData)
+    {
         _currentTeam.ConsumeNonOffensiveSkillsTurns();
         ConsumeMp(currentUnit, skillData.cost);
         _currentTeam.IncrementUsedSkillsCount();
     }
+
     private List<Monster> GetAllReserveMonsters()
     {
         List<Monster> reserveMonsters = new List<Monster>();
         int frontLineCount = Math.Min(_currentTeam.Units.Count, 3);
     
-        // Añadir monstruos muertos del frente (posiciones 0-2)
         for (int i = 0; i < frontLineCount; i++)
         {
             var monster = _currentTeam.Units[i];
@@ -475,7 +624,6 @@ public class UnitActionController
                 reserveMonsters.Add(monster);
         }
     
-        // Añadir todos los monstruos de la reserva (posiciones 3+)
         for (int i = frontLineCount; i < _currentTeam.Units.Count; i++)
         {
             var monster = _currentTeam.Units[i];
@@ -483,7 +631,6 @@ public class UnitActionController
                 reserveMonsters.Add(monster);
         }
 
-        // ✅ CORRECCIÓN: Ordenar por el orden original del archivo
         reserveMonsters = reserveMonsters.OrderBy(monster => 
         {
             int originalIndex = _currentTeam._originalMonstersOrder.IndexOf(monster.Name);
@@ -496,22 +643,14 @@ public class UnitActionController
     private SkillSelectionResult GetSkillSelection(object attacker)
     {
         var unitSkillInfo = CreateUnitSkillInfo(attacker);
-        _gameUi.WriteLine($"Seleccione una habilidad para que {unitSkillInfo.Name} use");
-        
-        List<string> affordableAbilities = GetAffordableAbilities(unitSkillInfo);
-        _gameUi.WriteLine($"{affordableAbilities.Count + 1}-Cancelar");
+        _gameUi.ShowSkillSelectionPrompt(unitSkillInfo.Name);
+    
+        List<string> affordableAbilities = FilterAffordableAbilities(unitSkillInfo);
+        DisplayAffordableSkills(affordableAbilities);
+        _gameUi.ShowSkillCancelOption(affordableAbilities.Count + 1);
 
-        int selectedOption = int.Parse(_gameUi.ReadLine());
-        if (selectedOption > affordableAbilities.Count)
-            return new SkillSelectionResult(unitSkillInfo.Abilities.Count + 1, unitSkillInfo.Abilities);
-
-        if (selectedOption > 0 && selectedOption <= affordableAbilities.Count)
-        {
-            string selectedAbility = affordableAbilities[selectedOption - 1];
-            int originalIndex = unitSkillInfo.Abilities.IndexOf(selectedAbility);
-            return new SkillSelectionResult(originalIndex + 1, unitSkillInfo.Abilities);
-        }
-        return new SkillSelectionResult(unitSkillInfo.Abilities.Count + 1, unitSkillInfo.Abilities);
+        int selectedOption = ReadSkillSelectionInput();
+        return ProcessSkillSelectionInput(selectedOption, affordableAbilities, unitSkillInfo.Abilities);
     }
 
     private UnitSkillInfo CreateUnitSkillInfo(object attacker)
@@ -526,8 +665,311 @@ public class UnitActionController
         }
         return new UnitSkillInfo(string.Empty, new List<string>(), 0);
     }
+    
+    
+    private void ConsumeSkillTurns(string affinity)
+    {
+        switch (affinity)
+        {
+            case "Rp":
+            case "Dr":
+                HandleRepelOrDrainAffinity();
+                break;
 
-    private List<string> GetAffordableAbilities(UnitSkillInfo skillInfo)
+            case "Nu":
+                HandleNullAffinity();
+                break;
+
+            case "Miss":
+                HandleMissAffinity();
+                break;
+
+            case "Wk":
+                HandleWeakAffinity();
+                break;
+
+            default:
+                HandleNeutralOrResistAffinity();
+                break;
+        }
+    }
+
+    private void HandleRepelOrDrainAffinity()
+    {
+        ConsumeAllTurns();
+    }
+
+    private void HandleNullAffinity()
+    {
+        ConsumeMultipleBlinkingTurns(2);
+    }
+
+    private void HandleMissAffinity()
+    {
+        ConsumeSingleTurnWithBlinkingPreference();
+    }
+
+    private void HandleWeakAffinity()
+    {
+        if (CanConsumeFullTurn())
+        {
+            ConsumeFullTurnAndGrantBlinkingTurn();
+        }
+        else if (HasBlinkingTurns())
+        {
+            _currentTeam.ConsumeBlinkingTurn();
+        }
+        else
+        {
+            _currentTeam.ConsumeFullTurn();
+        }
+    }
+
+    private void HandleNeutralOrResistAffinity()
+    {
+        ConsumeSingleTurnWithBlinkingPreference();
+    }
+
+    private bool CanConsumeFullTurn()
+    {
+        return _currentTeam.FullTurns < _currentTeam.MaxFullTurns;
+    }
+
+    private bool HasBlinkingTurns()
+    {
+        return _currentTeam.BlinkingTurns > 0;
+    }
+
+    private void ConsumeFullTurnAndGrantBlinkingTurn()
+    {
+        _currentTeam.ConsumeFullTurn();
+        _currentTeam.AddBlinkingTurn();
+    }
+
+    private void ConsumeSingleTurnWithBlinkingPreference()
+    {
+        if (HasBlinkingTurns())
+            _currentTeam.ConsumeBlinkingTurn();
+        else
+            _currentTeam.ConsumeFullTurn();
+    }
+
+    private void ConsumeAllTurns()
+    {
+        ConsumeAllBlinkingTurns();
+        ConsumeAllRemainingFullTurns();
+    }
+
+    private void ConsumeAllBlinkingTurns()
+    {
+        int blinkingTurnsToConsume = _currentTeam.BlinkingTurns;
+        for (int i = 0; i < blinkingTurnsToConsume; i++)
+        {
+            _currentTeam.ConsumeBlinkingTurn();
+        }
+    }
+
+    private void ConsumeAllRemainingFullTurns()
+    {
+        while (_currentTeam.FullTurns < _currentTeam.MaxFullTurns)
+        {
+            _currentTeam.ConsumeFullTurn();
+        }
+    }
+
+    private void ConsumeMultipleBlinkingTurns(int count)
+    {
+        int blinkingTurnsToConsume = CalculateBlinkingTurnsToConsume(count);
+        ConsumeBlinkingTurns(blinkingTurnsToConsume);
+        
+        int remainingTurnsNeeded = count - blinkingTurnsToConsume;
+        if (remainingTurnsNeeded > 0)
+        {
+            ConsumeRemainingTurnsAsFullTurns(remainingTurnsNeeded);
+        }
+    }
+
+    private int CalculateBlinkingTurnsToConsume(int requestedCount)
+    {
+        return Math.Min(requestedCount, _currentTeam.BlinkingTurns);
+    }
+
+    private void ConsumeBlinkingTurns(int count)
+    {
+        for (int i = 0; i < count; i++)
+        {
+            _currentTeam.ConsumeBlinkingTurn();
+        }
+    }
+
+    private void ConsumeRemainingTurnsAsFullTurns(int remainingTurnsNeeded)
+    {
+        int fullTurnsAvailable = _currentTeam.MaxFullTurns - _currentTeam.FullTurns;
+        int fullTurnsToConsume = Math.Min(remainingTurnsNeeded, fullTurnsAvailable);
+        
+        for (int i = 0; i < fullTurnsToConsume; i++)
+        {
+            _currentTeam.ConsumeFullTurn();
+        }
+    }
+    
+    private void HealTarget(object target, SkillData skillData)
+    {
+        int healAmount = CalculateHealAmount(target, skillData);
+        _gameUi.ShowHealMessage(target, healAmount);
+        ApplyHealingToTarget(target, healAmount);
+        ShowHealingResult(target);
+    }
+
+    private int CalculateHealAmount(object target, SkillData skillData)
+    {
+        int maxHp = GetUnitMaxHp(target);
+        return (int)(maxHp * skillData.power / 100.0);
+    }
+
+    private int GetUnitMaxHp(object unit)
+    {
+        return unit switch
+        {
+            Samurai samurai => samurai.OriginalHp,
+            Monster monster => monster.OriginalHp,
+            _ => 0
+        };
+    }
+
+    
+
+    private void ApplyHealingToTarget(object target, int healAmount)
+    {
+        switch (target)
+        {
+            case Samurai samurai:
+                ApplyHealingToSamurai(samurai, healAmount);
+                break;
+            case Monster monster:
+                ApplyHealingToMonster(monster, healAmount);
+                break;
+        }
+    }
+
+    private void ApplyHealingToSamurai(Samurai samurai, int healAmount)
+    {
+        samurai.Hp += healAmount;
+        if (samurai.Hp > samurai.OriginalHp)
+            samurai.Hp = samurai.OriginalHp;
+    }
+
+    private void ApplyHealingToMonster(Monster monster, int healAmount)
+    {
+        monster.Hp += healAmount;
+        if (monster.Hp > monster.OriginalHp)
+            monster.Hp = monster.OriginalHp;
+    }
+
+    private void ShowHealingResult(object target)
+    {
+        string targetName = _gameUi.GetUnitName(target);
+        int currentHp = GetUnitCurrentHp(target);
+        int originalHp = GetUnitMaxHp(target);
+        _gameUi.ShowHpResult(targetName, currentHp, originalHp);
+    }
+
+    private int GetUnitCurrentHp(object unit)
+    {
+        return unit switch
+        {
+            Samurai samurai => samurai.Hp,
+            Monster monster => monster.Hp,
+            _ => 0
+        };
+    }
+
+    private void ReviveTarget(object target, SkillData skill)
+    {
+        var reviveData = PrepareReviveData(target, skill);
+        
+        if (target is Samurai samurai)
+        {
+            ReviveSamurai(samurai, reviveData);
+        }
+        else if (target is Monster monster)
+        {
+            ReviveMonster(monster, reviveData);
+        }
+        
+        ShowReviveMessages(reviveData);
+    }
+
+    private ReviveData PrepareReviveData(object target, SkillData skill)
+    {
+        string targetName = _gameUi.GetUnitName(target);
+        string reviverName = _gameUi.GetUnitName(_currentTeam.OrderList[0]);
+        int maxHp = GetUnitMaxHp(target);
+        float revivePercentage = skill.power / 100.0f;
+        int healAmount = (int)(maxHp * revivePercentage);
+        
+        return new ReviveData(targetName, reviverName, maxHp, healAmount);
+    }
+
+    private void ReviveSamurai(Samurai samurai, ReviveData reviveData)
+    {
+        samurai.Hp = reviveData.HealAmount;
+        AddSamuraiToOrderListIfNeeded(samurai);
+    }
+
+    private void AddSamuraiToOrderListIfNeeded(Samurai samurai)
+    {
+        if (!_currentTeam.OrderList.Contains(samurai))
+            _currentTeam.OrderList.Add(samurai);
+    }
+
+    private void ReviveMonster(Monster monster, ReviveData reviveData)
+    {
+        monster.Hp = reviveData.HealAmount;
+        HandleMonsterRevivalPositioning(monster);
+    }
+
+    private void HandleMonsterRevivalPositioning(Monster monster)
+    {
+        int monsterIndex = _currentTeam.Units.IndexOf(monster);
+        if (IsMonsterInFrontline(monsterIndex))
+        {
+            ReplaceMonsterWithPlaceholder(monster, monsterIndex);
+            MoveMonsterToReserve(monster);
+        }
+    }
+
+    private bool IsMonsterInFrontline(int monsterIndex)
+    {
+        return monsterIndex >= 0 && monsterIndex < 3;
+    }
+
+    private void ReplaceMonsterWithPlaceholder(Monster monster, int monsterIndex)
+    {
+        Monster placeholderMonster = CreateDeadPlaceholder(monster.Name);
+        _currentTeam.Units[monsterIndex] = placeholderMonster;
+    }
+
+    private Monster CreateDeadPlaceholder(string monsterName)
+    {
+        Monster placeholder = new Monster(monsterName);
+        placeholder.Hp = 0;
+        return placeholder;
+    }
+
+    private void MoveMonsterToReserve(Monster monster)
+    {
+        _currentTeam.Units.Add(monster);
+    }
+
+    private void ShowReviveMessages(ReviveData reviveData)
+    {
+        _gameUi.ShowReviveAction(reviveData.ReviverName, reviveData.TargetName);
+        _gameUi.ShowHealAmountReceived(reviveData.TargetName, reviveData.HealAmount);
+        _gameUi.ShowHpResult(reviveData.TargetName, reviveData.HealAmount, reviveData.MaxHp);
+    }
+
+    private List<string> FilterAffordableAbilities(UnitSkillInfo skillInfo)
     {
         List<string> affordableAbilities = new List<string>();
         
@@ -539,165 +981,59 @@ public class UnitActionController
             if (abilityCost <= skillInfo.CurrentMp)
             {
                 affordableAbilities.Add(ability);
-                _gameUi.WriteLine($"{affordableAbilities.Count}-{ability} MP:{abilityCost}");
             }
         }
         
         return affordableAbilities;
     }
-    
-    private void ConsumeSkillTurns(string affinity)
+
+    private void DisplayAffordableSkills(List<string> affordableAbilities)
     {
-        switch (affinity)
+        for (int i = 0; i < affordableAbilities.Count; i++)
         {
-            case "Rp": // Repel
-            case "Dr": // Drain
-                ConsumeAllTurns();
-                break;
-
-            case "Nu": // Null
-                // Consume 2 Blinking Turns, o los que haya y el resto como Full Turns
-                ConsumeMultipleBlinkingTurns(2);
-                break;
-
-            case "Miss": // Miss
-                // Consume 1 Blinking Turn, si no hay, paga 1 Full Turn
-                if (_currentTeam.BlinkingTurns > 0)
-                    _currentTeam.ConsumeBlinkingTurn();
-                else
-                    _currentTeam.ConsumeFullTurn();
-                break;
-
-            case "Wk": // Weak
-                // Consume 1 Full Turn y otorga 1 Blinking Turn extra si hay Full Turns disponibles
-                // Si no hay Full Turns, consume un Blinking Turn
-                if (_currentTeam.FullTurns < _currentTeam.MaxFullTurns)
-                {
-                    _currentTeam.ConsumeFullTurn();
-                    _currentTeam.AddBlinkingTurn();
-                }
-                else if (_currentTeam.BlinkingTurns > 0)
-                    _currentTeam.ConsumeBlinkingTurn();
-                else
-                    _currentTeam.ConsumeFullTurn(); // No debería ocurrir normalmente, pero como fallback
-                break;
-
-            default: // Neutral o Resist (Rs)
-                // Consume 1 Blinking Turn, si no hay, paga 1 Full Turn
-                if (_currentTeam.BlinkingTurns > 0)
-                    _currentTeam.ConsumeBlinkingTurn();
-                else
-                    _currentTeam.ConsumeFullTurn();
-                break;
+            string ability = affordableAbilities[i];
+            int abilityCost = _skillsManager.GetSkillCost(ability);
+            _gameUi.ShowAffordableSkill(i + 1, ability, abilityCost);
         }
     }
 
-    private void ConsumeAllTurns()
+    private int ReadSkillSelectionInput()
     {
-        int blinkingTurnsToConsume = _currentTeam.BlinkingTurns;
-        for (int i = 0; i < blinkingTurnsToConsume; i++)
-        {
-            _currentTeam.ConsumeBlinkingTurn();
-        }
-
-        while (_currentTeam.FullTurns < _currentTeam.MaxFullTurns)
-        {
-            _currentTeam.ConsumeFullTurn();
-        }
+        return int.Parse(_gameUi.ReadLine());
     }
 
-    private void ConsumeMultipleBlinkingTurns(int count)
+    private SkillSelectionResult ProcessSkillSelectionInput(int selectedOption, List<string> affordableAbilities, List<string> allAbilities)
     {
-        // Consume hasta 'count' Blinking Turns
-        int blinkingTurnsAvailable = _currentTeam.BlinkingTurns;
-    
-        // Consume primero los Blinking Turns disponibles
-        for (int i = 0; i < Math.Min(count, blinkingTurnsAvailable); i++)
+        if (IsSelectionCancelled(selectedOption, affordableAbilities.Count))
+            return CreateCancelledSelection(allAbilities);
+
+        if (IsValidSelection(selectedOption, affordableAbilities.Count))
         {
-            _currentTeam.ConsumeBlinkingTurn();
+            return CreateValidSelection(selectedOption, affordableAbilities, allAbilities);
         }
-    
-        // Si necesitas más turnos, usa Full Turns para los restantes
-        int fullTurnsNeeded = count - blinkingTurnsAvailable;
-        int fullTurnsAvailable = _currentTeam.MaxFullTurns - _currentTeam.FullTurns;
-    
-        // Consume el mínimo entre los turnos necesarios y los disponibles
-        int fullTurnsToConsume = Math.Min(fullTurnsNeeded, fullTurnsAvailable);
-    
-        for (int i = 0; i < fullTurnsToConsume; i++)
-        {
-            _currentTeam.ConsumeFullTurn();
-        }
-    }
-    
-    private void HealTarget(object target, SkillData skillData)
-    {
-        int maxHp = 0;
-        if (target is Samurai samuraiTarget)
-            maxHp = samuraiTarget.OriginalHp;
-        else if (target is Monster monsterTarget)
-            maxHp = monsterTarget.OriginalHp;
-
-        int healAmount = (int)(maxHp * skillData.power / 100.0);
-
-        string targetName = _gameUi.GetUnitName(target);
-        _gameUi.WriteLine($"{targetName} recibe {healAmount} de HP");
-
-        int originalHp = 0, currentHp = 0;
-
-        if (target is Samurai samuraiTarget2)
-        {
-            originalHp = samuraiTarget2.OriginalHp;
-            samuraiTarget2.Hp += healAmount;
-            if (samuraiTarget2.Hp > originalHp) 
-                samuraiTarget2.Hp = originalHp;
-            currentHp = samuraiTarget2.Hp;
-        }
-        else if (target is Monster monsterTarget2)
-        {
-            originalHp = monsterTarget2.OriginalHp;
-            monsterTarget2.Hp += healAmount;
-            if (monsterTarget2.Hp > originalHp) 
-                monsterTarget2.Hp = originalHp;
-            currentHp = monsterTarget2.Hp;
-        }
-
-        _gameUi.ShowDamageResult(targetName, currentHp, originalHp);
+        
+        return CreateCancelledSelection(allAbilities);
     }
 
-    private void ReviveTarget(object target, SkillData skill)
+    private bool IsSelectionCancelled(int selectedOption, int affordableAbilitiesCount)
     {
-        string targetName = _gameUi.GetUnitName(target);
-        string reviverName = _gameUi.GetUnitName(_currentTeam.OrderList[0]);
-        int maxHp = 0;
-        int healAmount = 0;
-        float revivePercentage = skill.power / 100.0f;
+        return selectedOption > affordableAbilitiesCount;
+    }
 
-        if (target is Samurai samuraiTarget)
-        {
-            maxHp = samuraiTarget.OriginalHp;
-            healAmount = (int)(maxHp * revivePercentage);
-            samuraiTarget.Hp = healAmount;
-            if (!_currentTeam.OrderList.Contains(samuraiTarget))
-                _currentTeam.OrderList.Add(samuraiTarget);
-        }
-        else if (target is Monster monsterTarget)
-        {
-            maxHp = monsterTarget.OriginalHp;
-            healAmount = (int)(maxHp * revivePercentage);
-            monsterTarget.Hp = healAmount;
-            int monsterIndex = _currentTeam.Units.IndexOf(monsterTarget);
-            if (monsterIndex >= 0 && monsterIndex < 3)
-            {
-                Monster placeholderMonster = new Monster(monsterTarget.Name);
-                placeholderMonster.Hp = 0;
-                _currentTeam.Units[monsterIndex] = placeholderMonster;
-                _currentTeam.Units.Add(monsterTarget);
-            }
-        }
+    private bool IsValidSelection(int selectedOption, int affordableAbilitiesCount)
+    {
+        return selectedOption > 0 && selectedOption <= affordableAbilitiesCount;
+    }
 
-        _gameUi.WriteLine($"{reviverName} revive a {targetName}");
-        _gameUi.WriteLine($"{targetName} recibe {healAmount} de HP");
-        _gameUi.ShowDamageResult(targetName, healAmount, maxHp);
+    private SkillSelectionResult CreateCancelledSelection(List<string> allAbilities)
+    {
+        return new SkillSelectionResult(allAbilities.Count + 1, allAbilities);
+    }
+
+    private SkillSelectionResult CreateValidSelection(int selectedOption, List<string> affordableAbilities, List<string> allAbilities)
+    {
+        string selectedAbility = affordableAbilities[selectedOption - 1];
+        int originalIndex = allAbilities.IndexOf(selectedAbility);
+        return new SkillSelectionResult(originalIndex + 1, allAbilities);
     }
 }

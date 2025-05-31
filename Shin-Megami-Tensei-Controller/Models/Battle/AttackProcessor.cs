@@ -107,7 +107,7 @@ public class AttackProcessor
     {
         int remainingHp = GetUnitHp(unit);
         int originalHp = GetUnitOriginalHp(unit);
-        _gameUi.ShowDamageResult(unitName, remainingHp, originalHp);
+        _gameUi.ShowHpResult(unitName, remainingHp, originalHp);
     }
 
     private string GetTargetAffinity(object target, string attackType)

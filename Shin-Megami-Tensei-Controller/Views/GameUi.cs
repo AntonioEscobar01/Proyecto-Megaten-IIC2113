@@ -138,7 +138,7 @@ public class GameUi
         return unit is Samurai samurai ? samurai.Name : ((Monster)unit).Name;
     }
 
-    public void ShowDamageResult(string targetName, int remainingHp, int originalHp)
+    public void ShowHpResult(string targetName, int remainingHp, int originalHp)
     {
         _view.WriteLine($"{targetName} termina con HP:{remainingHp}/{originalHp}");
     }
@@ -236,5 +236,58 @@ public class GameUi
     public void DisplaySummonSuccess(string monsterName)
     {
         WriteLine($"{monsterName} ha sido invocado");
+    }
+    
+    public void ShowHealMessage(object target, int healAmount)
+    {
+        string targetName = GetUnitName(target);
+        WriteLine($"{targetName} recibe {healAmount} de HP");
+    }
+    
+    // Métodos para UnitActionController - Seguir patrón MVC
+
+    public void ShowHealingAction(string healerName, string targetName)
+    {
+        _view.WriteLine($"{healerName} cura a {targetName}");
+    }
+
+    public void ShowHealAmountReceived(string targetName, int healAmount)
+    {
+        _view.WriteLine($"{targetName} recibe {healAmount} de HP");
+    }
+
+    public void ShowReviveAction(string reviverName, string targetName)
+    {
+        _view.WriteLine($"{reviverName} revive a {targetName}");
+    }
+
+    public void ShowSurrenderMessage(string samuraiName, string playerName)
+    {
+        _view.WriteLine($"{samuraiName} ({playerName}) se rinde");
+    }
+
+    public void ShowSkillSelectionPrompt(string unitName)
+    {
+        _view.WriteLine($"Seleccione una habilidad para que {unitName} use");
+    }
+
+    public void ShowAffordableSkill(int optionNumber, string skillName, int skillCost)
+    {
+        _view.WriteLine($"{optionNumber}-{skillName} MP:{skillCost}");
+    }
+
+    public void ShowSkillCancelOption(int optionNumber)
+    {
+        _view.WriteLine($"{optionNumber}-Cancelar");
+    }
+
+    public void ShowInvitationReviveMessage(string healerName, string monsterName)
+    {
+        _view.WriteLine($"{healerName} revive a {monsterName}");
+    }
+
+    public void ShowInvitationHealMessage(string monsterName, int healAmount)
+    {
+        _view.WriteLine($"{monsterName} recibe {healAmount} de HP");
     }
 }
