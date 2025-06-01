@@ -4,10 +4,10 @@ namespace Shin_Megami_Tensei;
 
 public class TeamLoadManager
 {
-    private readonly GameUi _gameUi;
+    private readonly GameUiFacade _gameUi;
     private readonly string _teamsFolder;
 
-    public TeamLoadManager(GameUi gameUi, string teamsFolder)
+    public TeamLoadManager(GameUiFacade gameUi, string teamsFolder)
     {
         _gameUi = gameUi;
         _teamsFolder = teamsFolder;

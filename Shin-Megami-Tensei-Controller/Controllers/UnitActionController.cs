@@ -4,7 +4,7 @@ public class UnitActionController
 {
     private readonly Team _currentTeam;
     private readonly Team _enemyTeam;
-    private readonly GameUi _gameUi;
+    private readonly GameUiFacade _gameUi;
     private readonly SkillsManager _skillsManager;
     private readonly AttackProcessController _attackProcessController;
     private readonly TargetSelectorController _targetSelectorController;
@@ -13,7 +13,7 @@ public class UnitActionController
     
     public bool ShouldEndGame { get; private set; }
 
-    public UnitActionController(Team currentTeam, Team enemyTeam, GameUi gameUi, 
+    public UnitActionController(Team currentTeam, Team enemyTeam, GameUiFacade gameUi, 
         SkillsManager skillsManager, AttackProcessController attackProcessController)
     {
         _currentTeam = currentTeam;

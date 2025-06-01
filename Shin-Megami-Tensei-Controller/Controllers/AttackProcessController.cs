@@ -4,7 +4,7 @@ public class AttackProcessController
 {
     private const int ATTACK_DAMAGE_MODIFIER = 54;
     private const int SHOOT_DAMAGE_MODIFIER = 80;
-    private readonly GameUi _gameUi;
+    private readonly GameUiFacade _gameUi;
     private const string PHYS_TYPE = "Phys";
     private const string GUN_TYPE = "Gun";
     private const string RESIST_AFFINITY = "Rs";
@@ -16,7 +16,7 @@ public class AttackProcessController
     private const double RESIST_DAMAGE_FACTOR = 0.5;
     private const double WEAK_DAMAGE_FACTOR = 1.5;
 
-    public AttackProcessController(GameUi gameUi)
+    public AttackProcessController(GameUiFacade gameUi)
     {
         _gameUi = gameUi;
     }

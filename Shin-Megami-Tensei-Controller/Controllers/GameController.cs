@@ -3,7 +3,7 @@ namespace Shin_Megami_Tensei;
 
 public class GameController
 {
-    private readonly GameUi _gameUi;
+    private readonly GameUiFacade _gameUi;
     private readonly TurnManager _turnManager;
     private readonly AttackProcessController _attackProcessController;
     private readonly TeamLoadManager _teamLoadManager;
@@ -15,7 +15,7 @@ public class GameController
 
     public GameController(View view, string teamsFolderPath)
     {
-        _gameUi = new GameUi(view);
+        _gameUi = new GameUiFacade(view);
         _turnManager = new TurnManager();
         _attackProcessController = new AttackProcessController(_gameUi);
         _teamLoadManager = new TeamLoadManager(_gameUi, teamsFolderPath);

@@ -2,11 +2,11 @@
 
 public class AllySelectorController
 {
-    private readonly GameUi _gameUi;
+    private readonly GameUiFacade _gameUi;
     private readonly Team _allyTeam;
     private List<IUnit> _availableAllies;
 
-    public AllySelectorController(GameUi gameUi, Team allyTeam)
+    public AllySelectorController(GameUiFacade gameUi, Team allyTeam)
     {
         _gameUi = gameUi;
         _allyTeam = allyTeam;

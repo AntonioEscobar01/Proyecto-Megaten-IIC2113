@@ -2,11 +2,11 @@
 
 public class TargetSelectorController
 {
-    private readonly GameUi _gameUi;
+    private readonly GameUiFacade _gameUi;
     private readonly Team _enemyTeam;
     private List<IUnit> _availableTargets;
 
-    public TargetSelectorController(GameUi gameUi, Team enemyTeam)
+    public TargetSelectorController(GameUiFacade gameUi, Team enemyTeam)
     {
         _gameUi = gameUi;
         _enemyTeam = enemyTeam;
