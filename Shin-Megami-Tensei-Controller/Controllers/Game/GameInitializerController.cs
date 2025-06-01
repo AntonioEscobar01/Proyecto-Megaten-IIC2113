@@ -1,25 +1,25 @@
 ﻿namespace Shin_Megami_Tensei;
 
-public class GameInitializer
+public class GameInitializerController
 {
     private readonly TeamLoadManager _teamLoadManager;
 
-    public GameInitializer(TeamLoadManager teamLoadManager)
+    public GameInitializerController(TeamLoadManager teamLoadManager)
     {
         _teamLoadManager = teamLoadManager;
     }
 
-    public GameInitializationResult InitializeTeams()
+    public GameInitializationResultData InitializeTeams()
     {
         var loadedTeams = _teamLoadManager.LoadTeamsFromFile();
         if (!loadedTeams.AreTeamsValid)
-            return new GameInitializationResult(null, null, false);
+            return new GameInitializationResultData(null, null, false);
 
         var teamPlayer1 = loadedTeams.TeamPlayer1;
         var teamPlayer2 = loadedTeams.TeamPlayer2;
         
         ConfigureTeamOrders(teamPlayer1, teamPlayer2);
-        return new GameInitializationResult(teamPlayer1, teamPlayer2, true);
+        return new GameInitializationResultData(teamPlayer1, teamPlayer2, true);
     }
 
     private void ConfigureTeamOrders(Team teamPlayer1, Team teamPlayer2)

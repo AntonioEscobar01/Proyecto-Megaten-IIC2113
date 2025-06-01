@@ -4,7 +4,7 @@ namespace Shin_Megami_Tensei;
 public class GameController
 {
     private readonly GameUiFacade _gameUi;
-    private readonly GameInitializer _gameInitializer;
+    private readonly GameInitializerController _gameInitializerController;
     private GameFlowController _gameFlowController;
     private GameStateManager _gameStateManager;
     private TeamSwitchManager _teamSwitchManager;
@@ -15,7 +15,7 @@ public class GameController
     {
         _gameUi = new GameUiFacade(view);
         var teamLoadManager = new TeamLoadManager(_gameUi, teamsFolderPath);
-        _gameInitializer = new GameInitializer(teamLoadManager);
+        _gameInitializerController = new GameInitializerController(teamLoadManager);
     }
 
     public void Play()
@@ -33,7 +33,7 @@ public class GameController
 
     private bool InitializeGame()
     {
-        var initializationResult = _gameInitializer.InitializeTeams();
+        var initializationResult = _gameInitializerController.InitializeTeams();
         if (!initializationResult.IsSuccessful)
             return false;
 
