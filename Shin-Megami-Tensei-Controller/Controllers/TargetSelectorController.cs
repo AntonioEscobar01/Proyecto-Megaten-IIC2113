@@ -4,18 +4,18 @@ public class TargetSelectorController
 {
     private readonly GameUi _gameUi;
     private readonly Team _enemyTeam;
-    private List<object> _availableTargets;
+    private List<IUnit> _availableTargets;
 
     public TargetSelectorController(GameUi gameUi, Team enemyTeam)
     {
         _gameUi = gameUi;
         _enemyTeam = enemyTeam;
-        _availableTargets = new List<object>();
+        _availableTargets = new List<IUnit>();
     }
 
-    public int ChooseUnitToAttack(object attacker)
+    public int ChooseUnitToAttack(IUnit attacker)
     {
-        string attackerName = _gameUi.GetUnitName(attacker);
+        string attackerName = attacker.Name;
         _gameUi.WriteLine($"Seleccione un objetivo para {attackerName}");
 
         _availableTargets = GetAvailableTargets();
@@ -24,9 +24,9 @@ public class TargetSelectorController
         return GetTargetSelectionResult();
     }
 
-    private List<object> GetAvailableTargets()
+    private List<IUnit> GetAvailableTargets()
     {
-        List<object> targets = new List<object>();
+        List<IUnit> targets = new List<IUnit>();
         
         if (_enemyTeam.Samurai != null && !_enemyTeam.Samurai.IsDead())
         {
@@ -37,7 +37,7 @@ public class TargetSelectorController
         return targets;
     }
 
-    private void AddAvailableMonsters(List<object> targets)
+    private void AddAvailableMonsters(List<IUnit> targets)
     {
         int maxVisibleMonsters = Math.Min(_enemyTeam.Units.Count, 3);
     
@@ -58,7 +58,7 @@ public class TargetSelectorController
         _gameUi.WriteLine($"{_availableTargets.Count + 1}-Cancelar");
     }
 
-    private void DisplayTarget(object target, int targetIndex)
+    private void DisplayTarget(IUnit target, int targetIndex)
     {
         if (target is Samurai samurai)
         {
@@ -97,7 +97,7 @@ public class TargetSelectorController
             return _enemyTeam.Units.IndexOf((Monster)selectedTarget) + 2;
     }
 
-    public object GetTarget(int targetIndex)
+    public IUnit GetTarget(int targetIndex)
     {
         return targetIndex switch
         {

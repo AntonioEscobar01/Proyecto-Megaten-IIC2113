@@ -34,7 +34,7 @@ public class UnitActionController
         ProcessAction(currentUnit, selectedAction);
     }
     
-    private int GetUnitAction(object currentUnit)
+    private int GetUnitAction(IUnit currentUnit)
     {
         if (currentUnit is Samurai samurai)
         {
@@ -162,7 +162,7 @@ public class UnitActionController
         return Math.Max(0, blinkingTurnsGained);
     }
 
-    private bool ProcessAttackAction(object currentUnit, int action)
+    private bool ProcessAttackAction(IUnit currentUnit, int action)
     {
         int targetIndex = _targetSelectorController.ChooseUnitToAttack(currentUnit);
 
@@ -174,10 +174,10 @@ public class UnitActionController
         }
 
         _gameUi.PrintLine();
-        object targetUnit = _targetSelectorController.GetTarget(targetIndex);
+        IUnit targetUnit = _targetSelectorController.GetTarget(targetIndex);
 
         string attackType = GetAttackType(action);
-        string affinity = GetTargetAffinity(targetUnit, attackType);
+        string affinity = targetUnit.GetAffinity(attackType);
 
         ExecuteAttackByType(currentUnit, targetUnit, action);
         ConsumeSkillTurns(affinity);
@@ -200,22 +200,12 @@ public class UnitActionController
         return action == ActionConstantsData.AttackAction;
     }
 
-    private void ExecuteAttackByType(object currentUnit, object targetUnit, int action)
+    private void ExecuteAttackByType(IUnit currentUnit, IUnit targetUnit, int action)
     {
         if (IsPhysicalAttack(action))
             _attackProcessor.Attack(currentUnit, targetUnit);
         else
             _attackProcessor.Shoot(currentUnit, targetUnit);
-    }
-    
-    private string GetTargetAffinity(object target, string attackType)
-    {
-        if (target is Samurai samurai)
-            return samurai.Affinities.GetAffinity(attackType);
-        else if (target is Monster monster)
-            return monster.Affinities.GetAffinity(attackType);
-    
-        return "-";
     }
 
     private bool WasSkillActionCancelled(IUnit currentUnit)
@@ -246,11 +236,11 @@ public class UnitActionController
         {
             return HandleOffensiveSkillExecution(currentUnit, skillData);
         }
-        if (IsHealingSkill(skillData.type))
+        else if (IsHealingSkill(skillData.type))
         {
             return WasHealingSkillCancelled(currentUnit, skillData);
         }
-        if (IsSpecialSkill(skillData.type))
+        else if (IsSpecialSkill(skillData.type))
         {
             return WasSpecialSkillCancelled(currentUnit, skillData);
         }
@@ -293,13 +283,13 @@ public class UnitActionController
 
     private void ExecuteOffensiveSkillOnTarget(IUnit currentUnit, int targetIndex, SkillData skillData)
     {
-        object targetUnit = _targetSelectorController.GetTarget(targetIndex);
+        IUnit targetUnit = _targetSelectorController.GetTarget(targetIndex);
         ExecuteOffensiveSkill(currentUnit, targetUnit, skillData);
     }
 
-    private void ExecuteOffensiveSkill(IUnit currentUnit, object targetUnit, SkillData skillData)
+    private void ExecuteOffensiveSkill(IUnit currentUnit, IUnit targetUnit, SkillData skillData)
     {
-        ConsumeMp(currentUnit, skillData.cost);
+        currentUnit.ConsumeMp(skillData.cost);
         var skillInfo = new OffensiveSkillInfo(skillData, _currentTeam.UsedSkillsCount);
         string affinity = _attackProcessor.ApplyOffensiveSkill(currentUnit, targetUnit, skillInfo);
         _currentTeam.IncrementUsedSkillsCount();
@@ -311,18 +301,6 @@ public class UnitActionController
         return skillType == "Phys" || skillType == "Gun" || 
                skillType == "Fire" || skillType == "Ice" || 
                skillType == "Elec" || skillType == "Force";
-    }
-
-    private void ConsumeMp(object unit, int mpCost)
-    {
-        if (unit is Samurai samurai)
-        {
-            samurai.Mp -= mpCost;
-        }
-        else if (unit is Monster monster)
-        {
-            monster.Mp -= mpCost;
-        }
     }
     
     private bool WasInvokeActionCancelled(IUnit currentUnit)
@@ -445,7 +423,7 @@ public class UnitActionController
         ShouldEndGame = true;
     }
     
-    private bool WasHealingSkillCancelled(object currentUnit, SkillData skillData)
+    private bool WasHealingSkillCancelled(IUnit currentUnit, SkillData skillData)
     {
         var skillClassification = ClassifyHealingSkill(skillData.name);
         
@@ -477,7 +455,7 @@ public class UnitActionController
         };
     }
 
-    private bool WasRegularHealingSkillCancelled(object currentUnit, SkillData skillData, HealingSkillClassification classification)
+    private bool WasRegularHealingSkillCancelled(IUnit currentUnit, SkillData skillData, HealingSkillClassification classification)
     {
         int targetIndex = GetHealingTargetIndex(currentUnit, classification);
         
@@ -493,7 +471,7 @@ public class UnitActionController
         return false;
     }
 
-    private int GetHealingTargetIndex(object currentUnit, HealingSkillClassification classification)
+    private int GetHealingTargetIndex(IUnit currentUnit, HealingSkillClassification classification)
     {
         return IsRegularHealSkill(classification)
             ? SelectHealingTargetForHealing(currentUnit)
@@ -505,28 +483,28 @@ public class UnitActionController
         return classification.IsHealSkill;
     }
 
-    private int SelectHealingTargetForHealing(object currentUnit)
+    private int SelectHealingTargetForHealing(IUnit currentUnit)
     {
         return _allySelectorController.ChooseAllyToHeal(currentUnit);
     }
 
-    private int SelectHealingTargetForReviving(object currentUnit)
+    private int SelectHealingTargetForReviving(IUnit currentUnit)
     {
         return _allySelectorController.ChooseAllyToRevive(currentUnit);
     }
 
-    private void ExecuteHealingSkillOnTarget(object currentUnit, int targetIndex, HealingSkillInfo healingInfo)
+    private void ExecuteHealingSkillOnTarget(IUnit currentUnit, int targetIndex, HealingSkillInfo healingInfo)
     {
         _gameUi.PrintLine();
-        object targetUnit = _allySelectorController.GetAlly(targetIndex);
+        IUnit targetUnit = _allySelectorController.GetAlly(targetIndex);
         ExecuteHealingSkill(currentUnit, targetUnit, healingInfo);
     }
 
-    private void ExecuteHealingSkill(object currentUnit, object targetUnit, HealingSkillInfo healingInfo)
+    private void ExecuteHealingSkill(IUnit currentUnit, IUnit targetUnit, HealingSkillInfo healingInfo)
     {
-        ConsumeMp(currentUnit, healingInfo.SkillData.cost);
-        string healerName = _gameUi.GetUnitName(currentUnit);
-        string targetName = _gameUi.GetUnitName(targetUnit);
+        currentUnit.ConsumeMp(healingInfo.SkillData.cost);
+        string healerName = currentUnit.Name;
+        string targetName = targetUnit.Name;
 
         if (IsReviveSkill(healingInfo.Classification))
         {
@@ -560,7 +538,7 @@ public class UnitActionController
             _currentTeam.ConsumeFullTurn();
     }
 
-    private bool WasInvitationSkillExecutionCancelled(object currentUnit, SkillData skillData)
+    private bool WasInvitationSkillExecutionCancelled(IUnit currentUnit, SkillData skillData)
     {
         bool wasCancelled = WasInvitationSkillCancelled(currentUnit);
         if (wasCancelled)
@@ -569,12 +547,12 @@ public class UnitActionController
             return true;
         }
         
-        ConsumeMp(currentUnit, skillData.cost);
+        currentUnit.ConsumeMp(skillData.cost);
         CompleteHealingSkillExecution();
         return false;
     }
 
-    private bool WasInvitationSkillCancelled(object currentUnit)
+    private bool WasInvitationSkillCancelled(IUnit currentUnit)
     {
         List<Monster> availableMonsters = GetAllReserveMonsters();
         int monsterSelection = _gameUi.DisplaySummonMenu(availableMonsters);
@@ -600,7 +578,7 @@ public class UnitActionController
         return positionSelection == 4;
     }
 
-    private void ExecuteInvitationSkill(object currentUnit, Monster selectedMonster, int positionSelection)
+    private void ExecuteInvitationSkill(IUnit currentUnit, Monster selectedMonster, int positionSelection)
     {
         _gameUi.PrintLine();
         _gameUi.DisplaySummonSuccess(selectedMonster.Name);
@@ -614,9 +592,9 @@ public class UnitActionController
         ConsumeSkillTurns("normal");
     }
 
-    private void ReviveMonsterWithInvitation(object currentUnit, Monster selectedMonster)
+    private void ReviveMonsterWithInvitation(IUnit currentUnit, Monster selectedMonster)
     {
-        string healerName = _gameUi.GetUnitName(currentUnit);
+        string healerName = currentUnit.Name;
         _gameUi.ShowReviveAction(healerName, selectedMonster.Name);
         int healAmount = selectedMonster.OriginalHp;
         selectedMonster.Hp = healAmount;
@@ -690,7 +668,7 @@ public class UnitActionController
     private void ConsumeSabbatmaResources(IUnit currentUnit, SkillData skillData)
     {
         _currentTeam.ConsumeNonOffensiveSkillsTurns();
-        ConsumeMp(currentUnit, skillData.cost);
+        currentUnit.ConsumeMp(skillData.cost);
         _currentTeam.IncrementUsedSkillsCount();
     }
 
@@ -744,7 +722,7 @@ public class UnitActionController
         }).ToList();
     }
     
-    private SkillSelectionResult GetSkillSelection(object attacker)
+    private SkillSelectionResult GetSkillSelection(IUnit attacker)
     {
         var unitSkillInfo = CreateUnitSkillInfo(attacker);
         _gameUi.ShowSkillSelectionPrompt(unitSkillInfo.Name);
@@ -757,17 +735,9 @@ public class UnitActionController
         return ProcessSkillSelectionInput(selectedOption, affordableAbilities, unitSkillInfo.Abilities);
     }
 
-    private UnitSkillInfo CreateUnitSkillInfo(object attacker)
+    private UnitSkillInfo CreateUnitSkillInfo(IUnit attacker)
     {
-        if (attacker is Samurai samurai)
-        {
-            return new UnitSkillInfo(samurai.Name, samurai.Abilities, samurai.Mp);
-        }
-        else if (attacker is Monster monster)
-        {
-            return new UnitSkillInfo(monster.Name, monster.Abilities, monster.Mp);
-        }
-        return new UnitSkillInfo(string.Empty, new List<string>(), 0);
+        return new UnitSkillInfo(attacker.Name, attacker.Abilities, attacker.Mp);
     }
     
     private void ConsumeSkillTurns(string affinity)
@@ -911,76 +881,29 @@ public class UnitActionController
         }
     }
     
-    private void HealTarget(object target, SkillData skillData)
+    private void HealTarget(IUnit target, SkillData skillData)
     {
         int healAmount = CalculateHealAmount(target, skillData);
         _gameUi.ShowHealMessage(target, healAmount);
-        ApplyHealingToTarget(target, healAmount);
+        target.Heal(healAmount);
         ShowHealingResult(target);
     }
 
-    private int CalculateHealAmount(object target, SkillData skillData)
+    private int CalculateHealAmount(IUnit target, SkillData skillData)
     {
-        int maxHp = GetUnitMaxHp(target);
+        int maxHp = target.OriginalHp;
         return (int)(maxHp * skillData.power / 100.0);
     }
 
-    private int GetUnitMaxHp(object unit)
+    private void ShowHealingResult(IUnit target)
     {
-        return unit switch
-        {
-            Samurai samurai => samurai.OriginalHp,
-            Monster monster => monster.OriginalHp,
-            _ => 0
-        };
-    }
-
-    private void ApplyHealingToTarget(object target, int healAmount)
-    {
-        switch (target)
-        {
-            case Samurai samurai:
-                ApplyHealingToSamurai(samurai, healAmount);
-                break;
-            case Monster monster:
-                ApplyHealingToMonster(monster, healAmount);
-                break;
-        }
-    }
-
-    private void ApplyHealingToSamurai(Samurai samurai, int healAmount)
-    {
-        samurai.Hp += healAmount;
-        if (samurai.Hp > samurai.OriginalHp)
-            samurai.Hp = samurai.OriginalHp;
-    }
-
-    private void ApplyHealingToMonster(Monster monster, int healAmount)
-    {
-        monster.Hp += healAmount;
-        if (monster.Hp > monster.OriginalHp)
-            monster.Hp = monster.OriginalHp;
-    }
-
-    private void ShowHealingResult(object target)
-    {
-        string targetName = _gameUi.GetUnitName(target);
-        int currentHp = GetUnitCurrentHp(target);
-        int originalHp = GetUnitMaxHp(target);
+        string targetName = target.Name;
+        int currentHp = target.Hp;
+        int originalHp = target.OriginalHp;
         _gameUi.ShowHpResult(targetName, currentHp, originalHp);
     }
 
-    private int GetUnitCurrentHp(object unit)
-    {
-        return unit switch
-        {
-            Samurai samurai => samurai.Hp,
-            Monster monster => monster.Hp,
-            _ => 0
-        };
-    }
-
-    private void ReviveTarget(object target, SkillData skill)
+    private void ReviveTarget(IUnit target, SkillData skill)
     {
         var reviveData = PrepareReviveData(target, skill);
         
@@ -996,11 +919,11 @@ public class UnitActionController
         ShowReviveMessages(reviveData);
     }
 
-    private ReviveData PrepareReviveData(object target, SkillData skill)
+    private ReviveData PrepareReviveData(IUnit target, SkillData skill)
     {
-        string targetName = _gameUi.GetUnitName(target);
-        string reviverName = _gameUi.GetUnitName(_currentTeam.OrderList[0]);
-        int maxHp = GetUnitMaxHp(target);
+        string targetName = target.Name;
+        string reviverName = _currentTeam.OrderList[0].Name;
+        int maxHp = target.OriginalHp;
         float revivePercentage = skill.power / 100.0f;
         int healAmount = (int)(maxHp * revivePercentage);
         

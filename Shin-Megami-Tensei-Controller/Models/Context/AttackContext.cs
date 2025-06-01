@@ -2,13 +2,13 @@
 
 public class AttackContext
 {
-    public object Attacker { get; }
-    public object Target { get; }
+    public IUnit Attacker { get; }
+    public IUnit Target { get; }
     public double BaseDamage { get; }
     public string AttackType { get; }
     public string ActionType { get; }
     
-    public AttackContext(object attacker, object target, double baseDamage, string attackType, string actionType)
+    public AttackContext(IUnit attacker, IUnit target, double baseDamage, string attackType, string actionType)
     {
         Attacker = attacker;
         Target = target;

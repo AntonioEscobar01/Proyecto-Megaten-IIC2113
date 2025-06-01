@@ -49,6 +49,47 @@ public abstract class UnitBase : IUnit
     {
         return Hp <= 0;
     }
+
+    public virtual string GetAffinity(string attackType)
+    {
+        return Affinities.GetAffinity(attackType);
+    }
+
+    public virtual void TakeDamage(int damage)
+    {
+        Hp -= damage;
+        if (Hp < 0) 
+            Hp = 0;
+    }
+
+    public virtual void Heal(int amount)
+    {
+        Hp += amount;
+        if (Hp > OriginalHp) 
+            Hp = OriginalHp;
+    }
+
+    public virtual int GetBaseStat(string statType)
+    {
+        return statType.ToLower() switch
+        {
+            "str" or "strength" => Str,
+            "skl" or "skill" => Skl,
+            "mag" or "magic" => Mag,
+            "spd" or "speed" => Spd,
+            "lck" or "luck" => Lck,
+            "hp" => Hp,
+            "mp" => Mp,
+            _ => 0
+        };
+    }
+
+    public virtual void ConsumeMp(int amount)
+    {
+        Mp -= amount;
+        if (Mp < 0)
+            Mp = 0;
+    }
     
     protected abstract void LoadStats();
     

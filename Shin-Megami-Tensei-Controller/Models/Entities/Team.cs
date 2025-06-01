@@ -45,8 +45,7 @@ public class Team
     {
         if (HasMultipleUnitsInOrder())
             OrderList = OrderList
-                .OrderByDescending(unit => unit is Monster monster ? monster.Spd : 
-                    unit is Samurai samurai ? samurai.Spd : 0)
+                .OrderByDescending(unit => unit.Spd)
                 .ToList();
     }
 
@@ -252,23 +251,12 @@ public class Team
 
     public bool AreAllUnitsDead()
     {
-        return !OrderList.Any(unit => (unit is Monster monster && !monster.IsDead()) || (unit is Samurai samurai && !samurai.IsDead()));
+        return !OrderList.Any(unit => !unit.IsDead());
     }
 
     public void RemoveDeadUnits()
     {
-        OrderList.RemoveAll(unit => 
-        {
-            if (unit is Monster monster)
-            {
-                return monster.IsDead();
-            }
-            else if (unit is Samurai samurai)
-            {
-                return samurai.IsDead();
-            }
-            return false;
-        });
+        OrderList.RemoveAll(unit => unit.IsDead());
     }
 
     public void ConsumeFullTurn()

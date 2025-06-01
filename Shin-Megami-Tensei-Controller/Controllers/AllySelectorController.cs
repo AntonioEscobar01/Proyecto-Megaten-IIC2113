@@ -4,18 +4,18 @@ public class AllySelectorController
 {
     private readonly GameUi _gameUi;
     private readonly Team _allyTeam;
-    private List<object> _availableAllies;
+    private List<IUnit> _availableAllies;
 
     public AllySelectorController(GameUi gameUi, Team allyTeam)
     {
         _gameUi = gameUi;
         _allyTeam = allyTeam;
-        _availableAllies = new List<object>();
+        _availableAllies = new List<IUnit>();
     }
 
-    public int ChooseAllyToHeal(object healer)
+    public int ChooseAllyToHeal(IUnit healer)
     {
-        string healerName = _gameUi.GetUnitName(healer);
+        string healerName = healer.Name;
         _gameUi.WriteLine($"Seleccione un objetivo para {healerName}");
 
         _availableAllies = GetAvailableAlliesForHealing();
@@ -24,9 +24,9 @@ public class AllySelectorController
         return GetAllySelectionResult();
     }
     
-    public int ChooseAllyToRevive(object healer)
+    public int ChooseAllyToRevive(IUnit healer)
     {
-        string healerName = _gameUi.GetUnitName(healer);
+        string healerName = healer.Name;
         _gameUi.WriteLine($"Seleccione un objetivo para {healerName}");
 
         _availableAllies = GetAvailableAlliesForReviving();
@@ -35,9 +35,9 @@ public class AllySelectorController
         return GetAllySelectionResult();
     }
     
-    private List<object> GetAvailableAlliesForHealing()
+    private List<IUnit> GetAvailableAlliesForHealing()
     {
-        List<object> allies = new List<object>();
+        List<IUnit> allies = new List<IUnit>();
     
         AddSamuraiIfAlive(allies);
         AddLivingMonstersToList(allies);
@@ -45,9 +45,9 @@ public class AllySelectorController
         return allies;
     }
     
-    private List<object> GetAvailableAlliesForReviving()
+    private List<IUnit> GetAvailableAlliesForReviving()
     {
-        List<object> allies = new List<object>();
+        List<IUnit> allies = new List<IUnit>();
     
         AddSamuraiIfDead(allies);
         AddDeadMonstersToList(allies);
@@ -55,7 +55,7 @@ public class AllySelectorController
         return allies;
     }
     
-    private void AddDeadMonstersToList(List<object> allies)
+    private void AddDeadMonstersToList(List<IUnit> allies)
     {
         int maxMonsters = _allyTeam.Units.Count;
     
@@ -77,25 +77,22 @@ public class AllySelectorController
         return IsValidMonster(monster) && IsMonsterDead(monster);
     }
 
-    // ✅ CONDICIÓN ENCAPSULADA: Validación de monstruo válido (no placeholder)
     private bool IsValidMonster(Monster monster)
     {
         return monster.Name != "Placeholder";
     }
 
-    // ✅ CONDICIÓN ENCAPSULADA: Validación de monstruo vivo
     private bool IsMonsterAlive(Monster monster)
     {
         return !monster.IsDead();
     }
 
-    // ✅ CONDICIÓN ENCAPSULADA: Validación de monstruo muerto
     private bool IsMonsterDead(Monster monster)
     {
         return monster.IsDead();
     }
     
-    private void AddSamuraiIfAlive(List<object> allies)
+    private void AddSamuraiIfAlive(List<IUnit> allies)
     {
         if (IsSamuraiAliveAndAvailable())
         {
@@ -103,7 +100,7 @@ public class AllySelectorController
         }
     }
 
-    private void AddSamuraiIfDead(List<object> allies)
+    private void AddSamuraiIfDead(List<IUnit> allies)
     {
         if (IsSamuraiDeadAndAvailable())
         {
@@ -111,19 +108,17 @@ public class AllySelectorController
         }
     }
 
-    // ✅ CONDICIÓN ENCAPSULADA: Validación de samurai vivo y disponible
     private bool IsSamuraiAliveAndAvailable()
     {
         return _allyTeam.Samurai != null && !_allyTeam.Samurai.IsDead();
     }
 
-    // ✅ CONDICIÓN ENCAPSULADA: Validación de samurai muerto y disponible
     private bool IsSamuraiDeadAndAvailable()
     {
         return _allyTeam.Samurai != null && _allyTeam.Samurai.IsDead();
     }
 
-    private void AddLivingMonstersToList(List<object> allies)
+    private void AddLivingMonstersToList(List<IUnit> allies)
     {
         int maxMonsters = Math.Min(_allyTeam.Units.Count, 3);
     
@@ -144,7 +139,7 @@ public class AllySelectorController
         _gameUi.WriteLine($"{_availableAllies.Count + 1}-Cancelar");
     }
 
-    private void DisplayAlly(object ally, int allyIndex)
+    private void DisplayAlly(IUnit ally, int allyIndex)
     {
         if (ally is Samurai samurai)
         {
@@ -189,7 +184,7 @@ public class AllySelectorController
         return selection > 0 && selection <= _availableAllies.Count;
     }
 
-    public object GetAlly(int selection)
+    public IUnit GetAlly(int selection)
     {
         if (IsValidAllySelection(selection))
             return _availableAllies[selection - 1];

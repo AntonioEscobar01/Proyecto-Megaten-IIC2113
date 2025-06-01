@@ -2,13 +2,13 @@
 
 public class AttackResultContext
 {
-    public object Attacker { get; }
-    public object Target { get; }
+    public IUnit Attacker { get; }
+    public IUnit Target { get; }
     public string AttackerName { get; }
     public string TargetName { get; }
     public string Affinity { get; }
     
-    public AttackResultContext(object attacker, object target, string attackerName, string targetName, string affinity)
+    public AttackResultContext(IUnit attacker, IUnit target, string attackerName, string targetName, string affinity)
     {
         Attacker = attacker;
         Target = target;

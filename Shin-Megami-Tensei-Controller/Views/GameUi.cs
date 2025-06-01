@@ -173,14 +173,9 @@ public class GameUi
         return winnerTeam == 1 ? team1 : team2;
     }
 
-    public string GetUnitName(object unit)
+    public string GetUnitName(IUnit unit)
     {
-        return unit switch
-        {
-            Samurai samurai => samurai.Name,
-            Monster monster => monster.Name,
-            _ => string.Empty
-        };
+        return unit.Name;
     }
 
     public void ShowHpResult(string targetName, int remainingHp, int originalHp)
@@ -368,7 +363,7 @@ public class GameUi
         WriteLine($"{monsterName} ha sido invocado");
     }
     
-    public void ShowHealMessage(object target, int healAmount)
+    public void ShowHealMessage(IUnit target, int healAmount)
     {
         string targetName = GetUnitName(target);
         WriteLine($"{targetName} recibe {healAmount} de HP");

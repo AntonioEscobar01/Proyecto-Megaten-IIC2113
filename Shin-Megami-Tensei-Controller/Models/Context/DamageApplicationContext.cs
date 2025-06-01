@@ -2,12 +2,12 @@
 
 public class DamageApplicationContext
 {
-    public object Attacker { get; }
-    public object Target { get; }
+    public IUnit Attacker { get; }
+    public IUnit Target { get; }
     public DamageResultData DamageResult { get; }
     public string Affinity { get; }
     
-    public DamageApplicationContext(object attacker, object target, DamageResultData damageResult, string affinity)
+    public DamageApplicationContext(IUnit attacker, IUnit target, DamageResultData damageResult, string affinity)
     {
         Attacker = attacker;
         Target = target;

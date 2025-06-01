@@ -44,5 +44,4 @@ public class Samurai : UnitBase
     {
         return samuraiData != null && samuraiData.affinity != null;
     }
-
 }
