@@ -4,132 +4,56 @@ namespace Shin_Megami_Tensei;
 public class GameController
 {
     private readonly GameUiFacade _gameUi;
-    private readonly TurnManager _turnManager;
-    private readonly AttackProcessController _attackProcessController;
-    private readonly TeamLoadManager _teamLoadManager;
-    private SkillsManager _skillsManager;
-    private Team? _teamPlayer1;
-    private Team? _teamPlayer2;
-    private bool _isGameOver;
-    private int _winnerTeam;
+    private readonly GameInitializer _gameInitializer;
+    private GameFlowController _gameFlowController;
+    private GameStateManager _gameStateManager;
+    private TeamSwitchManager _teamSwitchManager;
+    private Team _teamPlayer1;
+    private Team _teamPlayer2;
 
     public GameController(View view, string teamsFolderPath)
     {
         _gameUi = new GameUiFacade(view);
-        _turnManager = new TurnManager();
-        _attackProcessController = new AttackProcessController(_gameUi);
-        _teamLoadManager = new TeamLoadManager(_gameUi, teamsFolderPath);
-        _skillsManager = new SkillsManager();
-        _isGameOver = false;
-        _winnerTeam = 0;
+        var teamLoadManager = new TeamLoadManager(_gameUi, teamsFolderPath);
+        _gameInitializer = new GameInitializer(teamLoadManager);
     }
 
     public void Play()
     {
-        if (!AreTeamsSuccessfullyInitialized())
+        if (!InitializeGame())
             return;
 
         _gameUi.PrintLine();
-        _gameUi.PrintPlayerRound(GetCurrentTeam());
+        _gameUi.PrintPlayerRound(_teamSwitchManager.GetCurrentTeam());
         _gameUi.PrintLine();
-        RunGameLoop();
-        _gameUi.DisplayWinner(_teamPlayer1, _teamPlayer2, _winnerTeam);
+        
+        _gameFlowController.RunGameLoop();
+        _gameUi.DisplayWinner(_teamPlayer1, _teamPlayer2, _gameStateManager.WinnerTeam);
     }
 
-    private bool AreTeamsSuccessfullyInitialized()
+    private bool InitializeGame()
     {
-        var loadedTeams = _teamLoadManager.LoadTeamsFromFile();
-        if (!loadedTeams.AreTeamsValid)
+        var initializationResult = _gameInitializer.InitializeTeams();
+        if (!initializationResult.IsSuccessful)
             return false;
 
-        _teamPlayer1 = loadedTeams.TeamPlayer1;
-        _teamPlayer2 = loadedTeams.TeamPlayer2;
-    
-        InitializeTeamOrders();
+        _teamPlayer1 = initializationResult.TeamPlayer1;
+        _teamPlayer2 = initializationResult.TeamPlayer2;
+
+        SetupGameComponents();
         return true;
     }
 
-    private void InitializeTeamOrders()
+    private void SetupGameComponents()
     {
-        _teamPlayer1.InitializeOrderList();
-        _teamPlayer2.InitializeOrderList();
-        _teamPlayer1.SetMaxFullTurns();
-        _teamPlayer2.SetMaxFullTurns();
-    }
-
-    private void RunGameLoop()
-    {
-        while (!_isGameOver)
-        {
-            ProcessSingleTurn();
-            UpdateGameState();
-        }
-    }
-
-    private void ProcessSingleTurn()
-    {
-        var currentTeam = GetCurrentTeam();
-        currentTeam.SetMaxFullTurns();
-
-        var teamsInfo = new GameTeamsInfo(_teamPlayer1, _teamPlayer2);
-        var gameStateInfo = new GameStateDisplayInfo(currentTeam, teamsInfo, _turnManager.GetCurrentTurn());
-        _gameUi.DisplayGameState(gameStateInfo);
-    
-        var enemyTeam = GetEnemyTeam();
-        var unitAction = new UnitActionController(currentTeam, enemyTeam, _gameUi, _skillsManager, _attackProcessController);
-        unitAction.ExecuteUnitTurn();
-
-        if (unitAction.ShouldEndGame)
-        {
-            _isGameOver = true;
-            _winnerTeam = (_turnManager.GetCurrentTurn() % 2 != 0) ? 2 : 1;
-        }
-    
-        _gameUi.PrintLine();
-    }
-
-    private void UpdateGameState()
-    {
-        CheckGameOver();
-        HandleTurnTransition(GetCurrentTeam());
-
-        _teamPlayer1.RemoveDeadUnits();
-        _teamPlayer2.RemoveDeadUnits();
-    }
-
-    private void CheckGameOver()
-    {
-        if (_teamPlayer1.AreAllUnitsDead())
-        {
-            _isGameOver = true;
-            _winnerTeam = 2;
-        }
-        if (_teamPlayer2.AreAllUnitsDead())
-        {
-            _isGameOver = true;
-            _winnerTeam = 1;
-        }
-    }
-
-    private void HandleTurnTransition(Team currentTeam)
-    {
-        if (currentTeam.HasCompletedAllTurns() && !_isGameOver)
-        {
-            _turnManager.AdvanceTurn();
-            _gameUi.PrintPlayerRound(GetCurrentTeam());
-            _gameUi.PrintLine();
-            currentTeam.ResetTurns();
-            GetCurrentTeam().InitializeOrderList();
-        }
-    }
-
-    private Team GetCurrentTeam()
-    {
-        return (_turnManager.GetCurrentTurn() % 2 != 0) ? _teamPlayer1 : _teamPlayer2;
-    }
-
-    private Team GetEnemyTeam()
-    {
-        return (_turnManager.GetCurrentTurn() % 2 != 0) ? _teamPlayer2 : _teamPlayer1;
+        var turnManager = new TurnManager();
+        var attackProcessController = new AttackProcessController(_gameUi);
+        var skillsManager = new SkillsManager();
+        
+        _teamSwitchManager = new TeamSwitchManager(_teamPlayer1, _teamPlayer2, turnManager);
+        _gameStateManager = new GameStateManager(_teamPlayer1, _teamPlayer2, turnManager, _gameUi, _teamSwitchManager);
+        
+        _gameFlowController = new GameFlowController(_gameUi, turnManager, attackProcessController, 
+            skillsManager, _gameStateManager, _teamSwitchManager, _teamPlayer1, _teamPlayer2);
     }
 }
