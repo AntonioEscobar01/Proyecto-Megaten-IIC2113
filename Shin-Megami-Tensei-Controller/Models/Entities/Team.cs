@@ -90,19 +90,27 @@ public class Team
         {
             if (IsDuplicateUnit(uniqueUnits, unit)) 
                 return false;
-        
+    
             if (unit.StartsWith("[Samurai]"))
             {
-                if (DoesSamuraiCountExceedLimit(++samuraiCount)) 
-                    return false;
-                if (!IsSamuraiDataValid(unit)) 
+                samuraiCount++;
+                if (!ValidateSamuraiUnit(samuraiCount, unit))
                     return false;
             }
         }
-        
+    
         return HasCorrectSamuraiCount(samuraiCount);
     }
-
+    
+    private bool ValidateSamuraiUnit(int samuraiCount, string unit)
+    {
+        if (DoesSamuraiCountExceedLimit(samuraiCount)) 
+            return false;
+        if (!IsSamuraiDataValid(unit)) 
+            return false;
+        return true;
+    }
+    
     private bool IsSamuraiDataValid(string unit)
     {
         List<string> abilities = ExtractAbilities(unit);
@@ -113,14 +121,19 @@ public class Team
     {
         foreach (var unit in possibleUnits)
         {
-            if (unit.StartsWith("[Samurai]"))
-            {
-                CreateAndAddSamurai(unit);
-            }
-            else 
-            {
-                AddMonsterToTeam(unit);
-            }
+            ProcessUnitCreation(unit);
+        }
+    }
+
+    private void ProcessUnitCreation(string unit)
+    {
+        if (unit.StartsWith("[Samurai]"))
+        {
+            CreateAndAddSamurai(unit);
+        }
+        else 
+        {
+            AddMonsterToTeam(unit);
         }
     }
 

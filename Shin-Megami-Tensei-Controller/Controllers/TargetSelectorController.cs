@@ -40,14 +40,12 @@ public class TargetSelectorController
     private void AddAvailableMonsters(List<object> targets)
     {
         int maxVisibleMonsters = Math.Min(_enemyTeam.Units.Count, 3);
-        
+    
         for (int monsterIndex = 0; monsterIndex < maxVisibleMonsters; monsterIndex++)
         {
             var monster = _enemyTeam.Units[monsterIndex];
             if (!monster.IsDead())
-            {
                 targets.Add(monster);
-            }
         }
     }
 
@@ -78,17 +76,25 @@ public class TargetSelectorController
 
         if (selection == _availableTargets.Count + 1)
             return ActionConstantsData.CancelTargetSelection;
-            
-        if (selection > 0 && selection <= _availableTargets.Count)
-        {
-            var selectedTarget = _availableTargets[selection - 1];
-            if (selectedTarget is Samurai)
-                return 1;
-            else
-                return _enemyTeam.Units.IndexOf((Monster)selectedTarget) + 2;
-        }
         
+        if (IsValidTargetSelection(selection))
+            return CalculateTargetIndex(selection);
+    
         return ActionConstantsData.CancelTargetSelection;
+    }
+    
+    private bool IsValidTargetSelection(int selection)
+    {
+        return selection > 0 && selection <= _availableTargets.Count;
+    }
+
+    private int CalculateTargetIndex(int selection)
+    {
+        var selectedTarget = _availableTargets[selection - 1];
+        if (selectedTarget is Samurai)
+            return 1;
+        else
+            return _enemyTeam.Units.IndexOf((Monster)selectedTarget) + 2;
     }
 
     public object GetTarget(int targetIndex)

@@ -187,13 +187,13 @@ public class AttackProcessor
         };
     }
     
-    public string ApplyOffensiveSkill(object attacker, object target, SkillData skill, int usedSkillsCount)
+    public string ApplyOffensiveSkill(object attacker, object target, OffensiveSkillInfo skillInfo)
     {
-        string affinity = GetTargetAffinity(target, skill.type);
-        int numberOfHits = skill.GetHitsCount(usedSkillsCount);
-        double baseDamage = CalculateSkillDamage(attacker, skill);
+        string affinity = GetTargetAffinity(target, skillInfo.Skill.type);
+        int numberOfHits = skillInfo.Skill.GetHitsCount(skillInfo.UsedSkillsCount);
+        double baseDamage = CalculateSkillDamage(attacker, skillInfo.Skill);
 
-        var skillContext = new SkillExecutionContext(attacker, target, skill, affinity, baseDamage, numberOfHits);
+        var skillContext = new SkillExecutionContext(attacker, target, skillInfo.Skill, affinity, baseDamage, numberOfHits);
         ExecuteSkillHits(skillContext);
         ShowFinalSkillResult(attacker, target, affinity);
 
@@ -204,15 +204,16 @@ public class AttackProcessor
     {
         for (int i = 0; i < context.NumberOfHits; i++)
         {
-            ExecuteSingleSkillHit(context.Attacker, context.Target, context.Skill, context.Affinity, context.BaseDamage);
+            var hitContext = new SingleHitContext(context.Attacker, context.Target, context.Skill, context.Affinity, context.BaseDamage);
+            ExecuteSingleSkillHit(hitContext);
         }
     }
 
-    private void ExecuteSingleSkillHit(object attacker, object target, SkillData skill, string affinity, double baseDamage)
+    private void ExecuteSingleSkillHit(SingleHitContext hitContext)
     {
-        ShowSkillAttackMessage(attacker, target, skill);
-        var damageResult = CalculateDamageByAffinity(baseDamage, affinity);
-        var damageContext = new DamageApplicationContext(attacker, target, damageResult, affinity);
+        ShowSkillAttackMessage(hitContext.Attacker, hitContext.Target, hitContext.Skill);
+        var damageResult = CalculateDamageByAffinity(hitContext.BaseDamage, hitContext.Affinity);
+        var damageContext = new DamageApplicationContext(hitContext.Attacker, hitContext.Target, damageResult, hitContext.Affinity);
         ApplyDamageBasedOnAffinity(damageContext);
     }
 

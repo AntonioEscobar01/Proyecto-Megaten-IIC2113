@@ -270,7 +270,8 @@ public class UnitActionController
     private void ExecuteOffensiveSkill(IUnit currentUnit, object targetUnit, SkillData skillData)
     {
         ConsumeMp(currentUnit, skillData.cost);
-        string affinity = _attackProcessor.ApplyOffensiveSkill(currentUnit, targetUnit, skillData, _currentTeam.UsedSkillsCount);
+        var skillInfo = new OffensiveSkillInfo(skillData, _currentTeam.UsedSkillsCount);
+        string affinity = _attackProcessor.ApplyOffensiveSkill(currentUnit, targetUnit, skillInfo);
         _currentTeam.IncrementUsedSkillsCount();
         ConsumeSkillTurns(affinity);
     }
@@ -299,7 +300,7 @@ public class UnitActionController
         bool isSamurai = currentUnit is Samurai;
         List<Monster> availableMonsters = _currentTeam.GetAvailableMonstersForSummon();
         int selectedMonsterIndex = SelectMonsterForInvocation(availableMonsters);
-        
+    
         if (IsMonsterSelectionCancelled(selectedMonsterIndex, availableMonsters.Count))
         {
             CancelAndReturnToMenu();
@@ -307,7 +308,15 @@ public class UnitActionController
         }
 
         Monster selectedMonster = availableMonsters[selectedMonsterIndex - 1];
-        return ProcessInvocationByUnitType(currentUnit, selectedMonster, isSamurai);
+    
+        if (isSamurai)
+        {
+            return ProcessSamuraiInvocation(currentUnit, selectedMonster);
+        }
+        else
+        {
+            return ProcessMonsterInvocation(currentUnit, selectedMonster);
+        }
     }
 
     private int SelectMonsterForInvocation(List<Monster> availableMonsters)
@@ -326,17 +335,15 @@ public class UnitActionController
         ExecuteUnitTurn();
     }
 
-    private bool ProcessInvocationByUnitType(IUnit currentUnit, Monster selectedMonster, bool isSamurai)
+    private bool ProcessSamuraiInvocation(IUnit currentUnit, Monster selectedMonster)
     {
-        if (isSamurai)
-        {
-            return HandleSamuraiInvocation(selectedMonster);
-        }
-        else
-        {
-            HandleMonsterInvocation((Monster)currentUnit, selectedMonster);
-            return false;
-        }
+        return HandleSamuraiInvocation(selectedMonster);
+    }
+
+    private bool ProcessMonsterInvocation(IUnit currentUnit, Monster selectedMonster)
+    {
+        HandleMonsterInvocation((Monster)currentUnit, selectedMonster);
+        return false;
     }
 
     private bool HandleSamuraiInvocation(Monster selectedMonster)
@@ -409,11 +416,11 @@ public class UnitActionController
         
         if (skillClassification.IsInvitationSkill)
         {
-            return HandleInvitationSkillExecution(currentUnit, skillData);
+            return WasInvitationSkillExecutionCancelled(currentUnit, skillData);
         }
         else
         {
-            return HandleRegularHealingSkill(currentUnit, skillData, skillClassification);
+            return WasRegularHealingSkillCancelled(currentUnit, skillData, skillClassification);
         }
     }
 
@@ -430,9 +437,17 @@ public class UnitActionController
         };
     }
 
-    private bool HandleRegularHealingSkill(object currentUnit, SkillData skillData, HealingSkillClassification classification)
+    private bool WasRegularHealingSkillCancelled(object currentUnit, SkillData skillData, HealingSkillClassification classification)
     {
-        int targetIndex = SelectHealingTarget(currentUnit, classification.IsHealSkill);
+        int targetIndex;
+        if (classification.IsHealSkill)
+        {
+            targetIndex = SelectHealingTargetForHealing(currentUnit);
+        }
+        else
+        {
+            targetIndex = SelectHealingTargetForReviving(currentUnit);
+        }
         if (IsTargetSelectionCancelled(targetIndex))
         {
             CancelAndReturnToMenu();
@@ -445,9 +460,14 @@ public class UnitActionController
         return false;
     }
 
-    private int SelectHealingTarget(object currentUnit, bool isHealSkill)
+    private int SelectHealingTargetForHealing(object currentUnit)
     {
-        return _allySelectorController.ChooseAllyToHeal(currentUnit, !isHealSkill);
+        return _allySelectorController.ChooseAllyToHeal(currentUnit);
+    }
+
+    private int SelectHealingTargetForReviving(object currentUnit)
+    {
+        return _allySelectorController.ChooseAllyToRevive(currentUnit);
     }
 
     private void ExecuteHealingSkillOnTarget(object currentUnit, int targetIndex, HealingSkillInfo healingInfo)
@@ -490,7 +510,7 @@ public class UnitActionController
             _currentTeam.ConsumeFullTurn();
     }
 
-    private bool HandleInvitationSkillExecution(object currentUnit, SkillData skillData)
+    private bool WasInvitationSkillExecutionCancelled(object currentUnit, SkillData skillData)
     {
         bool wasCancelled = WasInvitationSkillCancelled(currentUnit);
         if (wasCancelled)
@@ -618,28 +638,45 @@ public class UnitActionController
     {
         List<Monster> reserveMonsters = new List<Monster>();
         int frontLineCount = Math.Min(_currentTeam.Units.Count, 3);
+
+        AddDeadFrontlineMonsters(reserveMonsters, frontLineCount);
+        AddReserveMonsters(reserveMonsters, frontLineCount);
     
+        return SortReserveMonstersByOriginalOrder(reserveMonsters);
+    }
+
+    private void AddDeadFrontlineMonsters(List<Monster> reserveMonsters, int frontLineCount)
+    {
         for (int i = 0; i < frontLineCount; i++)
         {
             var monster = _currentTeam.Units[i];
-            if (monster.IsDead() && monster.Name != "Placeholder")
+            if (ShouldIncludeDeadFrontlineMonster(monster))
                 reserveMonsters.Add(monster);
         }
-    
+    }
+
+    private void AddReserveMonsters(List<Monster> reserveMonsters, int frontLineCount)
+    {
         for (int i = frontLineCount; i < _currentTeam.Units.Count; i++)
         {
             var monster = _currentTeam.Units[i];
             if (monster.Name != "Placeholder")
                 reserveMonsters.Add(monster);
         }
+    }
 
-        reserveMonsters = reserveMonsters.OrderBy(monster => 
+    private bool ShouldIncludeDeadFrontlineMonster(Monster monster)
+    {
+        return monster.IsDead() && monster.Name != "Placeholder";
+    }
+
+    private List<Monster> SortReserveMonstersByOriginalOrder(List<Monster> reserveMonsters)
+    {
+        return reserveMonsters.OrderBy(monster => 
         {
             int originalIndex = _currentTeam._originalMonstersOrder.IndexOf(monster.Name);
             return originalIndex == -1 ? _currentTeam._originalMonstersOrder.Count : originalIndex;
         }).ToList();
-
-        return reserveMonsters;
     }
     
     private SkillSelectionResult GetSkillSelection(object attacker)
@@ -974,19 +1011,20 @@ public class UnitActionController
     private List<string> FilterAffordableAbilities(UnitSkillInfo skillInfo)
     {
         List<string> affordableAbilities = new List<string>();
-        
+    
         for (int abilityIndex = 0; abilityIndex < skillInfo.Abilities.Count; abilityIndex++)
         {
             string ability = skillInfo.Abilities[abilityIndex];
-            int abilityCost = _skillsManager.GetSkillCost(ability);
-
-            if (abilityCost <= skillInfo.CurrentMp)
-            {
+            if (CanAffordAbility(ability, skillInfo.CurrentMp))
                 affordableAbilities.Add(ability);
-            }
         }
-        
         return affordableAbilities;
+    }
+
+    private bool CanAffordAbility(string ability, int currentMp)
+    {
+        int abilityCost = _skillsManager.GetSkillCost(ability);
+        return abilityCost <= currentMp;
     }
 
     private void DisplayAffordableSkills(List<string> affordableAbilities)

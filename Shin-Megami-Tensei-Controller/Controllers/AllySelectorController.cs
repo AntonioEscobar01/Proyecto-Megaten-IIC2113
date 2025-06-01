@@ -13,45 +13,96 @@ public class AllySelectorController
         _availableAllies = new List<object>();
     }
 
-    public int ChooseAllyToHeal(object healer, bool reviveMode = false)
+    public int ChooseAllyToHeal(object healer)
     {
         string healerName = _gameUi.GetUnitName(healer);
         _gameUi.WriteLine($"Seleccione un objetivo para {healerName}");
 
-        _availableAllies = GetAvailableAllies(reviveMode);
+        _availableAllies = GetAvailableAlliesForHealing();
         DisplayAllies();
 
         return GetAllySelectionResult();
     }
+    
+    public int ChooseAllyToRevive(object healer)
+    {
+        string healerName = _gameUi.GetUnitName(healer);
+        _gameUi.WriteLine($"Seleccione un objetivo para {healerName}");
 
-    private List<object> GetAvailableAllies(bool reviveMode)
+        _availableAllies = GetAvailableAlliesForReviving();
+        DisplayAllies();
+
+        return GetAllySelectionResult();
+    }
+    
+    private List<object> GetAvailableAlliesForHealing()
     {
         List<object> allies = new List<object>();
-        if (_allyTeam.Samurai != null)
-        {
-            bool shouldInclude = reviveMode ? _allyTeam.Samurai.IsDead() : !_allyTeam.Samurai.IsDead();
-            if (shouldInclude)
-            {
-                allies.Add(_allyTeam.Samurai);
-            }
-        }
-        
-        int maxMonsters = reviveMode ? _allyTeam.Units.Count : Math.Min(_allyTeam.Units.Count, 3);
+    
+        AddSamuraiIfAlive(allies);
+        AddLivingMonstersToList(allies);
+    
+        return allies;
+    }
+    
+    private List<object> GetAvailableAlliesForReviving()
+    {
+        List<object> allies = new List<object>();
+    
+        AddSamuraiIfDead(allies);
+        AddDeadMonstersToList(allies);
+    
+        return allies;
+    }
+    
+    private void AddDeadMonstersToList(List<object> allies)
+    {
+        int maxMonsters = _allyTeam.Units.Count;
     
         for (int i = 0; i < maxMonsters; i++)
         {
             var monster = _allyTeam.Units[i];
-            
-            if (monster.Name == "Placeholder")
-                continue;
-            
-            bool shouldInclude = reviveMode ? monster.IsDead() : !monster.IsDead();
-            if (shouldInclude)
-            {
+            if (ShouldIncludeDeadMonster(monster))
                 allies.Add(monster);
-            }
         }
-        return allies;
+    }
+
+    private bool ShouldIncludeLivingMonster(Monster monster)
+    {
+        return monster.Name != "Placeholder" && !monster.IsDead();
+    }
+
+    private bool ShouldIncludeDeadMonster(Monster monster)
+    {
+        return monster.Name != "Placeholder" && monster.IsDead();
+    }
+    
+    private void AddSamuraiIfAlive(List<object> allies)
+    {
+        if (_allyTeam.Samurai != null && !_allyTeam.Samurai.IsDead())
+        {
+            allies.Add(_allyTeam.Samurai);
+        }
+    }
+
+    private void AddSamuraiIfDead(List<object> allies)
+    {
+        if (_allyTeam.Samurai != null && _allyTeam.Samurai.IsDead())
+        {
+            allies.Add(_allyTeam.Samurai);
+        }
+    }
+
+    private void AddLivingMonstersToList(List<object> allies)
+    {
+        int maxMonsters = Math.Min(_allyTeam.Units.Count, 3);
+    
+        for (int i = 0; i < maxMonsters; i++)
+        {
+            var monster = _allyTeam.Units[i];
+            if (ShouldIncludeLivingMonster(monster))
+                allies.Add(monster);
+        }
     }
 
     private void DisplayAllies()
