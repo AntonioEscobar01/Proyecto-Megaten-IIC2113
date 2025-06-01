@@ -95,7 +95,7 @@ public class AllySelectorController
     
     private void AddSamuraiIfAlive(List<IUnit> allies)
     {
-        if (IsSamuraiAliveAndAvailable())
+        if (_allyTeam.IsSamuraiAlive())
         {
             allies.Add(_allyTeam.GetSamurai());
         }
@@ -103,20 +103,10 @@ public class AllySelectorController
 
     private void AddSamuraiIfDead(List<IUnit> allies)
     {
-        if (IsSamuraiDeadAndAvailable())
+        if (_allyTeam.IsSamuraiDead())
         {
             allies.Add(_allyTeam.GetSamurai());
         }
-    }
-
-    private bool IsSamuraiAliveAndAvailable()
-    {
-        return _allyTeam.GetSamurai() != null && !_allyTeam.GetSamurai().IsDead();
-    }
-
-    private bool IsSamuraiDeadAndAvailable()
-    {
-        return _allyTeam.GetSamurai() != null && _allyTeam.GetSamurai().IsDead();
     }
 
     private void AddLivingMonstersToList(List<IUnit> allies)

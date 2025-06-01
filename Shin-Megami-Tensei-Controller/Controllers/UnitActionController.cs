@@ -6,7 +6,7 @@ public class UnitActionController
     private readonly Team _enemyTeam;
     private readonly GameUi _gameUi;
     private readonly SkillsManager _skillsManager;
-    private readonly AttackProcessor _attackProcessor;
+    private readonly AttackProcessController _attackProcessController;
     private readonly TargetSelectorController _targetSelectorController;
     private readonly ActionConstantsData _actionConstantsData;
     private readonly AllySelectorController _allySelectorController;
@@ -14,13 +14,13 @@ public class UnitActionController
     public bool ShouldEndGame { get; private set; }
 
     public UnitActionController(Team currentTeam, Team enemyTeam, GameUi gameUi, 
-        SkillsManager skillsManager, AttackProcessor attackProcessor)
+        SkillsManager skillsManager, AttackProcessController attackProcessController)
     {
         _currentTeam = currentTeam;
         _enemyTeam = enemyTeam;
         _gameUi = gameUi;
         _skillsManager = skillsManager;
-        _attackProcessor = attackProcessor;
+        _attackProcessController = attackProcessController;
         _targetSelectorController = new TargetSelectorController(gameUi, enemyTeam);
         _allySelectorController = new AllySelectorController(gameUi, currentTeam);
         _actionConstantsData = new ActionConstantsData();
@@ -36,8 +36,7 @@ public class UnitActionController
 
     private IUnit GetCurrentUnit()
     {
-        var orderList = _currentTeam.GetOrderList();
-        return orderList[0];
+        return _currentTeam.GetCurrentUnit();
     }
     
     private int GetUnitAction(IUnit currentUnit)
@@ -209,9 +208,9 @@ public class UnitActionController
     private void ExecuteAttackByType(IUnit currentUnit, IUnit targetUnit, int action)
     {
         if (IsPhysicalAttack(action))
-            _attackProcessor.Attack(currentUnit, targetUnit);
+            _attackProcessController.Attack(currentUnit, targetUnit);
         else
-            _attackProcessor.Shoot(currentUnit, targetUnit);
+            _attackProcessController.Shoot(currentUnit, targetUnit);
     }
 
     private bool WasSkillActionCancelled(IUnit currentUnit)
@@ -298,7 +297,7 @@ public class UnitActionController
     {
         currentUnit.ConsumeMp(skillData.cost);
         var skillInfo = new OffensiveSkillInfo(skillData, _currentTeam.GetUsedSkillsCount());
-        string affinity = _attackProcessor.ApplyOffensiveSkill(currentUnit, targetUnit, skillInfo);
+        string affinity = _attackProcessController.ApplyOffensiveSkill(currentUnit, targetUnit, skillInfo);
         _currentTeam.IncrementUsedSkillsCount();
         ConsumeSkillTurns(affinity);
     }
@@ -426,7 +425,7 @@ public class UnitActionController
 
     private void ProcessSurrenderAction()
     {
-        _gameUi.ShowSurrenderMessage(_currentTeam.GetSamurai().GetName(), _currentTeam.GetPlayer());
+        _gameUi.ShowSurrenderMessage(_currentTeam.GetSamuraiName(), _currentTeam.GetPlayer());
         ShouldEndGame = true;
     }
     

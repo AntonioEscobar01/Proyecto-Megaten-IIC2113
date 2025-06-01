@@ -29,7 +29,7 @@ public class GameUi
 
     public void PrintPlayerRound(Team currentTeam)
     {
-        string playerInfo = $"Ronda de {currentTeam.GetSamurai().GetName()} ({currentTeam.GetPlayer()})";
+        string playerInfo = $"Ronda de {currentTeam.GetSamuraiName()} ({currentTeam.GetPlayer()})";
         _view.WriteLine(playerInfo);
     }
 
@@ -58,12 +58,12 @@ public class GameUi
 
     private void PrintTeamHeader(Team team)
     {
-        _view.WriteLine($"Equipo de {team.GetSamurai()?.GetName()} ({team.GetPlayer()})");
+        _view.WriteLine($"Equipo de {team.GetSamuraiName()} ({team.GetPlayer()})");
     }
 
     private void PrintSamuraiState(Team team)
     {
-        if (team.GetSamurai() != null)
+        if (team.HasSamurai())
         {
             var samurai = team.GetSamurai();
             _view.WriteLine($"A-{samurai.GetName()} HP:{samurai.GetCurrentHp()}/{samurai.GetMaxHp()} MP:{samurai.GetCurrentMp()}/{samurai.GetMaxMp()}");
@@ -86,21 +86,15 @@ public class GameUi
 
     private void PrintMonsterState(Team team, int monsterIndex, char monsterLabel)
     {
-        var units = team.GetUnits();
-        if (IsMonsterIndexValid(units, monsterIndex))
+        if (team.IsPositionValid(monsterIndex))
         {
-            var monster = units[monsterIndex];
+            var monster = team.GetMonsterAtPosition(monsterIndex);
             PrintMonsterInfo(monster, monsterLabel);
         }
         else
         {
             PrintEmptyMonsterSlot(monsterLabel);
         }
-    }
-
-    private bool IsMonsterIndexValid(List<Monster> units, int monsterIndex)
-    {
-        return monsterIndex < units.Count;
     }
 
     private void PrintMonsterInfo(Monster monster, char monsterLabel)
@@ -173,7 +167,7 @@ public class GameUi
     public void DisplayWinner(Team team1, Team team2, int winnerTeam)
     {
         var winningTeam = GetWinningTeam(team1, team2, winnerTeam);
-        _view.WriteLine($"Ganador: {winningTeam.GetSamurai().GetName()} ({winningTeam.GetPlayer()})");
+        _view.WriteLine($"Ganador: {winningTeam.GetSamuraiName()} ({winningTeam.GetPlayer()})");
     }
 
     private Team GetWinningTeam(Team team1, Team team2, int winnerTeam)
@@ -340,7 +334,7 @@ public class GameUi
 
     private void DisplayPositionSlot(Team currentTeam, int position)
     {
-        if (IsPositionOccupiedByAliveMonster(currentTeam, position))
+        if (currentTeam.IsMonsterAliveAtPosition(position))
         {
             DisplayOccupiedPosition(currentTeam, position);
         }
@@ -350,16 +344,9 @@ public class GameUi
         }
     }
 
-    private bool IsPositionOccupiedByAliveMonster(Team currentTeam, int position)
-    {
-        var units = currentTeam.GetUnits();
-        return position < units.Count && !units[position].IsDead();
-    }
-
     private void DisplayOccupiedPosition(Team currentTeam, int position)
     {
-        var units = currentTeam.GetUnits();
-        Monster monster = units[position];
+        Monster monster = currentTeam.GetMonsterAtPosition(position);
         WriteLine($"{position+1}-{monster.GetName()} HP:{monster.GetCurrentHp()}/{monster.GetMaxHp()} MP:{monster.GetCurrentMp()}/{monster.GetMaxMp()} (Puesto {position+2})");
     }
 

@@ -5,7 +5,7 @@ public class GameController
 {
     private readonly GameUi _gameUi;
     private readonly TurnManager _turnManager;
-    private readonly AttackProcessor _attackProcessor;
+    private readonly AttackProcessController _attackProcessController;
     private readonly TeamLoadManager _teamLoadManager;
     private SkillsManager _skillsManager;
     private Team _teamPlayer1;
@@ -17,7 +17,7 @@ public class GameController
     {
         _gameUi = new GameUi(view);
         _turnManager = new TurnManager();
-        _attackProcessor = new AttackProcessor(_gameUi);
+        _attackProcessController = new AttackProcessController(_gameUi);
         _teamLoadManager = new TeamLoadManager(_gameUi, teamsFolderPath);
         _skillsManager = new SkillsManager();
         _isGameOver = false;
@@ -75,7 +75,7 @@ public class GameController
         _gameUi.DisplayGameState(gameStateInfo);
     
         var enemyTeam = GetEnemyTeam();
-        var unitAction = new UnitActionController(currentTeam, enemyTeam, _gameUi, _skillsManager, _attackProcessor);
+        var unitAction = new UnitActionController(currentTeam, enemyTeam, _gameUi, _skillsManager, _attackProcessController);
         unitAction.ExecuteUnitTurn();
 
         if (unitAction.ShouldEndGame)

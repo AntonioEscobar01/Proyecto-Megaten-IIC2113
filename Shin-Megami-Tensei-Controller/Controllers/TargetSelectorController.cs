@@ -28,7 +28,7 @@ public class TargetSelectorController
     {
         List<IUnit> targets = new List<IUnit>();
         
-        if (_enemyTeam.GetSamurai() != null && !_enemyTeam.GetSamurai().IsDead())
+        if (_enemyTeam.IsSamuraiAlive())
         {
             targets.Add(_enemyTeam.GetSamurai());
         }

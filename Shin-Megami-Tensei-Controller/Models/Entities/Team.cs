@@ -37,6 +37,46 @@ public class Team
     public int GetUsedSkillsCount() => _usedSkillsCount;
     public List<string> GetOriginalMonstersOrder() => new List<string>(_originalMonstersOrder ?? new List<string>());
 
+    public bool IsSamuraiAlive()
+    {
+        return _samurai != null && !_samurai.IsDead();
+    }
+
+    public bool IsSamuraiDead()
+    {
+        return _samurai != null && _samurai.IsDead();
+    }
+
+    public bool HasSamurai()
+    {
+        return _samurai != null;
+    }
+
+    public IUnit GetCurrentUnit()
+    {
+        return _orderList.Count > 0 ? _orderList[0] : null;
+    }
+
+    public string GetSamuraiName()
+    {
+        return _samurai?.GetName() ?? "";
+    }
+
+    public bool IsMonsterAliveAtPosition(int position)
+    {
+        return position < _units.Count && !_units[position].IsDead();
+    }
+
+    public Monster GetMonsterAtPosition(int position)
+    {
+        return position < _units.Count ? _units[position] : null;
+    }
+
+    public bool IsPositionValid(int position)
+    {
+        return position >= 0 && position < _units.Count;
+    }
+
     public void InitializeOrderList()
     {
         _orderList.Clear();
