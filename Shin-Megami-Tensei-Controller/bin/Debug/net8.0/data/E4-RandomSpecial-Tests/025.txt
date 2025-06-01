@@ -1,0 +1,1741 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 24
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Kazfiel HP:469/469 MP:211/211
+C-Lham Dearg HP:91/91 MP:19/19
+D-Yurlungur HP:202/202 MP:196/196
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Metatron HP:879/879 MP:175/175
+C-Ghoul HP:558/558 MP:111/111
+D-Archangel HP:265/265 MP:52/52
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Yurlungur
+3-Tadano
+4-Lham Dearg
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kazfiel use
+1-Javelin Rain MP:21
+2-Charge MP:9
+3-Zandyne MP:14
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kazfiel ataca a Yu
+Yu es resistente el ataque de Kazfiel
+Yu recibe 46 de daño
+Yu termina con HP:551/597
+Kazfiel ataca a Metatron
+Metatron recibe 93 de daño
+Metatron termina con HP:786/879
+Kazfiel ataca a Ghoul
+Ghoul recibe 93 de daño
+Ghoul termina con HP:465/558
+Kazfiel ataca a Archangel
+Archangel recibe 93 de daño
+Archangel termina con HP:172/265
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Kazfiel HP:469/469 MP:190/211
+C-Lham Dearg HP:91/91 MP:19/19
+D-Yurlungur HP:202/202 MP:196/196
+Equipo de Yu (J2)
+A-Yu HP:551/597 MP:347/347
+B-Metatron HP:786/879 MP:175/175
+C-Ghoul HP:465/558 MP:111/111
+D-Archangel HP:172/265 MP:52/52
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Tadano
+3-Lham Dearg
+4-Kazfiel
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Kazfiel HP:469/469 MP:190/211
+C-Lham Dearg HP:91/91 MP:19/19
+D-Yurlungur HP:202/202 MP:196/196
+Equipo de Yu (J2)
+A-Yu HP:551/597 MP:347/347
+B-Metatron HP:786/879 MP:175/175
+C-Ghoul HP:465/558 MP:111/111
+D-Archangel HP:172/265 MP:52/52
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Lham Dearg
+3-Kazfiel
+4-Yurlungur
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tadano use
+1-Bad Company MP:15
+2-Bufudyne MP:14
+3-Zio MP:5
+4-Bufu MP:5
+5-Scratch Dance MP:9
+6-Heat Wave MP:11
+7-Lunge MP:6
+8-Bouncing Claw MP:4
+9-Cancelar
+INPUT: 7
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:551/597 MP:347/347
+2-Metatron HP:786/879 MP:175/175
+3-Ghoul HP:465/558 MP:111/111
+4-Archangel HP:172/265 MP:52/52
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tadano ataca a Metatron
+Metatron recibe 49 de daño
+Metatron termina con HP:737/879
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:187/193
+B-Kazfiel HP:469/469 MP:190/211
+C-Lham Dearg HP:91/91 MP:19/19
+D-Yurlungur HP:202/202 MP:196/196
+Equipo de Yu (J2)
+A-Yu HP:551/597 MP:347/347
+B-Metatron HP:737/879 MP:175/175
+C-Ghoul HP:465/558 MP:111/111
+D-Archangel HP:172/265 MP:52/52
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lham Dearg
+2-Kazfiel
+3-Yurlungur
+4-Tadano
+----------------------------------------
+Seleccione una acción para Lham Dearg
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lham Dearg
+1-Yu HP:551/597 MP:347/347
+2-Metatron HP:737/879 MP:175/175
+3-Ghoul HP:465/558 MP:111/111
+4-Archangel HP:172/265 MP:52/52
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Lham Dearg
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:187/193
+B-Kazfiel HP:469/469 MP:190/211
+C-Lham Dearg HP:91/91 MP:19/19
+D-Yurlungur HP:202/202 MP:196/196
+Equipo de Yu (J2)
+A-Yu HP:551/597 MP:347/347
+B-Metatron HP:737/879 MP:175/175
+C-Ghoul HP:465/558 MP:111/111
+D-Archangel HP:172/265 MP:52/52
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Yurlungur
+3-Tadano
+4-Lham Dearg
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:187/193
+B-Kazfiel HP:469/469 MP:190/211
+C-Lham Dearg HP:91/91 MP:19/19
+D-Yurlungur HP:202/202 MP:196/196
+Equipo de Yu (J2)
+A-Yu HP:551/597 MP:347/347
+B-Metatron HP:737/879 MP:175/175
+C-Ghoul HP:465/558 MP:111/111
+D-Archangel HP:172/265 MP:52/52
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Tadano
+3-Lham Dearg
+4-Kazfiel
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cabracan HP:483/483 MP:216/216
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Cabracan ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:187/193
+B-Kazfiel HP:469/469 MP:190/211
+C-Lham Dearg HP:91/91 MP:19/19
+D-Cabracan HP:483/483 MP:216/216
+Equipo de Yu (J2)
+A-Yu HP:551/597 MP:347/347
+B-Metatron HP:737/879 MP:175/175
+C-Ghoul HP:465/558 MP:111/111
+D-Archangel HP:172/265 MP:52/52
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Lham Dearg
+3-Kazfiel
+4-Cabracan
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:187/193
+B-Kazfiel HP:469/469 MP:190/211
+C-Lham Dearg HP:91/91 MP:19/19
+D-Cabracan HP:483/483 MP:216/216
+Equipo de Yu (J2)
+A-Yu HP:551/597 MP:347/347
+B-Metatron HP:737/879 MP:175/175
+C-Ghoul HP:465/558 MP:111/111
+D-Archangel HP:172/265 MP:52/52
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Yu
+3-Ghoul
+4-Archangel
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Metatron use
+1-Holy Wrath MP:45
+2-Megidolaon MP:60
+3-Tarukaja MP:15
+4-Judgement Light MP:45
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Metatron lanza un ataque todo poderoso a Tadano
+Tadano recibe 156 de daño
+Tadano termina con HP:232/388
+Metatron lanza un ataque todo poderoso a Kazfiel
+Kazfiel recibe 156 de daño
+Kazfiel termina con HP:313/469
+Metatron lanza un ataque todo poderoso a Lham Dearg
+Lham Dearg recibe 156 de daño
+Lham Dearg termina con HP:0/91
+Metatron lanza un ataque todo poderoso a Cabracan
+Cabracan recibe 156 de daño
+Cabracan termina con HP:327/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:232/388 MP:187/193
+B-Kazfiel HP:313/469 MP:190/211
+C-
+D-Cabracan HP:327/483 MP:216/216
+Equipo de Yu (J2)
+A-Yu HP:551/597 MP:347/347
+B-Metatron HP:737/879 MP:115/175
+C-Ghoul HP:465/558 MP:111/111
+D-Archangel HP:172/265 MP:52/52
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Ghoul
+3-Archangel
+4-Metatron
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Taraka HP:624/624 MP:124/124
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Taraka HP:624/624 MP:124/124
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:232/388 MP:187/193
+B-Kazfiel HP:313/469 MP:190/211
+C-
+D-Cabracan HP:327/483 MP:216/216
+Equipo de Yu (J2)
+A-Yu HP:551/597 MP:347/347
+B-Metatron HP:737/879 MP:115/175
+C-Ghoul HP:465/558 MP:111/111
+D-Archangel HP:172/265 MP:52/52
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ghoul
+2-Archangel
+3-Metatron
+4-Yu
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:232/388 MP:187/193
+B-Kazfiel HP:313/469 MP:190/211
+C-
+D-Cabracan HP:327/483 MP:216/216
+Equipo de Yu (J2)
+A-Yu HP:551/597 MP:347/347
+B-Metatron HP:737/879 MP:115/175
+C-Ghoul HP:465/558 MP:111/111
+D-Archangel HP:172/265 MP:52/52
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Archangel
+2-Metatron
+3-Yu
+4-Ghoul
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Archangel use
+1-Hama MP:6
+2-Heat Wave MP:11
+3-Tarukaja MP:15
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Archangel ataca a Tadano
+Tadano es resistente el ataque de Archangel
+Tadano recibe 24 de daño
+Tadano termina con HP:208/388
+Archangel ataca a Kazfiel
+Kazfiel recibe 48 de daño
+Kazfiel termina con HP:265/469
+Archangel ataca a Cabracan
+Cabracan recibe 48 de daño
+Cabracan termina con HP:279/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:208/388 MP:187/193
+B-Kazfiel HP:265/469 MP:190/211
+C-
+D-Cabracan HP:279/483 MP:216/216
+Equipo de Yu (J2)
+A-Yu HP:551/597 MP:347/347
+B-Metatron HP:737/879 MP:115/175
+C-Ghoul HP:465/558 MP:111/111
+D-Archangel HP:172/265 MP:41/52
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Yu
+3-Ghoul
+4-Archangel
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Metatron use
+1-Holy Wrath MP:45
+2-Megidolaon MP:60
+3-Tarukaja MP:15
+4-Judgement Light MP:45
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Taraka HP:624/624 MP:124/124
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Taraka HP:624/624 MP:124/124
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Taraka ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:208/388 MP:187/193
+B-Kazfiel HP:265/469 MP:190/211
+C-
+D-Cabracan HP:279/483 MP:216/216
+Equipo de Yu (J2)
+A-Yu HP:551/597 MP:347/347
+B-Taraka HP:624/624 MP:124/124
+C-Ghoul HP:465/558 MP:111/111
+D-Archangel HP:172/265 MP:41/52
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Ghoul
+3-Archangel
+4-Taraka
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Defender's Gaze MP:255
+2-Hama MP:6
+3-Stigma Attack MP:20
+4-Bufula MP:8
+5-Mamudo MP:18
+6-Deadly Wind MP:22
+7-Diarahan MP:16
+8-Cancelar
+INPUT: 1
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 3 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:208/388 MP:187/193
+B-Kazfiel HP:265/469 MP:190/211
+C-
+D-Cabracan HP:279/483 MP:216/216
+Equipo de Yu (J2)
+A-Yu HP:551/597 MP:92/347
+B-Taraka HP:624/624 MP:124/124
+C-Ghoul HP:465/558 MP:111/111
+D-Archangel HP:172/265 MP:41/52
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 3
+----------------------------------------
+Orden:
+1-Ghoul
+2-Archangel
+3-Taraka
+4-Yu
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Tadano HP:208/388 MP:187/193
+2-Kazfiel HP:265/469 MP:190/211
+3-Cabracan HP:279/483 MP:216/216
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Ghoul ataca a Kazfiel
+Kazfiel recibe 41 de daño
+Kazfiel termina con HP:224/469
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:208/388 MP:187/193
+B-Kazfiel HP:224/469 MP:190/211
+C-
+D-Cabracan HP:279/483 MP:216/216
+Equipo de Yu (J2)
+A-Yu HP:551/597 MP:92/347
+B-Taraka HP:624/624 MP:124/124
+C-Ghoul HP:465/558 MP:111/111
+D-Archangel HP:172/265 MP:41/52
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Archangel
+2-Taraka
+3-Yu
+4-Ghoul
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Archangel
+1-Tadano HP:208/388 MP:187/193
+2-Kazfiel HP:224/469 MP:190/211
+3-Cabracan HP:279/483 MP:216/216
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Archangel ataca a Kazfiel
+Kazfiel recibe 18 de daño
+Kazfiel termina con HP:206/469
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:208/388 MP:187/193
+B-Kazfiel HP:206/469 MP:190/211
+C-
+D-Cabracan HP:279/483 MP:216/216
+Equipo de Yu (J2)
+A-Yu HP:551/597 MP:92/347
+B-Taraka HP:624/624 MP:124/124
+C-Ghoul HP:465/558 MP:111/111
+D-Archangel HP:172/265 MP:41/52
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Taraka
+2-Yu
+3-Ghoul
+4-Archangel
+----------------------------------------
+Seleccione una acción para Taraka
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Metatron HP:737/879 MP:115/175
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Taraka
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Taraka use
+1-Shibaboo MP:5
+2-Tetrakarn MP:50
+3-Rakukaja MP:15
+4-Hades Blast MP:32
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Taraka
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:208/388 MP:187/193
+B-Kazfiel HP:206/469 MP:190/211
+C-
+D-Cabracan HP:279/483 MP:216/216
+Equipo de Yu (J2)
+A-Yu HP:551/597 MP:92/347
+B-Taraka HP:624/624 MP:124/124
+C-Ghoul HP:465/558 MP:111/111
+D-Archangel HP:172/265 MP:41/52
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Cabracan
+3-Tadano
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kazfiel
+1-Yu HP:551/597 MP:92/347
+2-Taraka HP:624/624 MP:124/124
+3-Ghoul HP:465/558 MP:111/111
+4-Archangel HP:172/265 MP:41/52
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kazfiel ataca a Ghoul
+Ghoul recibe 38 de daño
+Ghoul termina con HP:427/558
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:208/388 MP:187/193
+B-Kazfiel HP:206/469 MP:190/211
+C-
+D-Cabracan HP:279/483 MP:216/216
+Equipo de Yu (J2)
+A-Yu HP:551/597 MP:92/347
+B-Taraka HP:624/624 MP:124/124
+C-Ghoul HP:427/558 MP:111/111
+D-Archangel HP:172/265 MP:41/52
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Cabracan
+2-Tadano
+3-Kazfiel
+----------------------------------------
+Seleccione una acción para Cabracan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Cabracan use
+1-Mediarama MP:22
+2-Fog Breath MP:45
+3-Megaton Press MP:17
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Cabracan ataca a Yu
+Yu es resistente el ataque de Cabracan
+Yu recibe 46 de daño
+Yu termina con HP:505/597
+Cabracan ataca a Taraka
+Taraka recibe 93 de daño
+Taraka termina con HP:531/624
+Cabracan ataca a Ghoul
+Ghoul recibe 93 de daño
+Ghoul termina con HP:334/558
+Cabracan ataca a Archangel
+Archangel recibe 93 de daño
+Archangel termina con HP:79/265
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:208/388 MP:187/193
+B-Kazfiel HP:206/469 MP:190/211
+C-
+D-Cabracan HP:279/483 MP:199/216
+Equipo de Yu (J2)
+A-Yu HP:505/597 MP:92/347
+B-Taraka HP:531/624 MP:124/124
+C-Ghoul HP:334/558 MP:111/111
+D-Archangel HP:79/265 MP:41/52
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Kazfiel
+3-Cabracan
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:208/388 MP:187/193
+B-Kazfiel HP:206/469 MP:190/211
+C-
+D-Cabracan HP:279/483 MP:199/216
+Equipo de Yu (J2)
+A-Yu HP:505/597 MP:92/347
+B-Taraka HP:531/624 MP:124/124
+C-Ghoul HP:334/558 MP:111/111
+D-Archangel HP:79/265 MP:41/52
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kazfiel
+2-Cabracan
+3-Tadano
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kazfiel use
+1-Javelin Rain MP:21
+2-Charge MP:9
+3-Zandyne MP:14
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kazfiel ataca a Yu
+Yu es resistente el ataque de Kazfiel
+Yu recibe 46 de daño
+Yu termina con HP:459/597
+Kazfiel ataca a Taraka
+Taraka recibe 93 de daño
+Taraka termina con HP:438/624
+Kazfiel ataca a Ghoul
+Ghoul recibe 93 de daño
+Ghoul termina con HP:241/558
+Kazfiel ataca a Archangel
+Archangel recibe 93 de daño
+Archangel termina con HP:0/265
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:208/388 MP:187/193
+B-Kazfiel HP:206/469 MP:169/211
+C-
+D-Cabracan HP:279/483 MP:199/216
+Equipo de Yu (J2)
+A-Yu HP:459/597 MP:92/347
+B-Taraka HP:438/624 MP:124/124
+C-Ghoul HP:241/558 MP:111/111
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Taraka
+3-Ghoul
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Hama MP:6
+2-Stigma Attack MP:20
+3-Bufula MP:8
+4-Mamudo MP:18
+5-Deadly Wind MP:22
+6-Diarahan MP:16
+7-Cancelar
+INPUT: 4
+----------------------------------------
+Yu ataca con oscuridad a Tadano
+Tadano ha sido eliminado
+Tadano termina con HP:0/388
+Yu ataca con oscuridad a Kazfiel
+Yu ha fallado el ataque
+Kazfiel termina con HP:206/469
+Yu ataca con oscuridad a Cabracan
+Cabracan ha sido eliminado
+Cabracan termina con HP:0/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Kazfiel HP:206/469 MP:169/211
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:459/597 MP:74/347
+B-Taraka HP:438/624 MP:124/124
+C-Ghoul HP:241/558 MP:111/111
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taraka
+2-Ghoul
+3-Yu
+----------------------------------------
+Seleccione una acción para Taraka
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Taraka use
+1-Shibaboo MP:5
+2-Tetrakarn MP:50
+3-Rakukaja MP:15
+4-Hades Blast MP:32
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Taraka
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Metatron HP:737/879 MP:115/175
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Taraka
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Taraka use
+1-Shibaboo MP:5
+2-Tetrakarn MP:50
+3-Rakukaja MP:15
+4-Hades Blast MP:32
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Taraka
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Metatron HP:737/879 MP:115/175
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Metatron ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Kazfiel HP:206/469 MP:169/211
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:459/597 MP:74/347
+B-Metatron HP:737/879 MP:115/175
+C-Ghoul HP:241/558 MP:111/111
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ghoul
+2-Yu
+3-Metatron
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Kazfiel HP:206/469 MP:169/211
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:459/597 MP:74/347
+B-Metatron HP:737/879 MP:115/175
+C-Ghoul HP:241/558 MP:111/111
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Metatron
+3-Ghoul
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Taraka HP:438/624 MP:124/124
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Hama MP:6
+2-Stigma Attack MP:20
+3-Bufula MP:8
+4-Mamudo MP:18
+5-Deadly Wind MP:22
+6-Diarahan MP:16
+7-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Kazfiel HP:206/469 MP:169/211
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Kazfiel HP:206/469 MP:169/211
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Kazfiel HP:206/469 MP:169/211
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:459/597 MP:74/347
+B-Metatron HP:737/879 MP:115/175
+C-Ghoul HP:241/558 MP:111/111
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Metatron
+2-Ghoul
+3-Yu
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Kazfiel HP:206/469 MP:169/211
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:459/597 MP:74/347
+B-Metatron HP:737/879 MP:115/175
+C-Ghoul HP:241/558 MP:111/111
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Kazfiel HP:206/469 MP:169/211
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:459/597 MP:74/347
+B-Metatron HP:737/879 MP:115/175
+C-Ghoul HP:241/558 MP:111/111
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kazfiel
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kazfiel use
+1-Javelin Rain MP:21
+2-Charge MP:9
+3-Zandyne MP:14
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kazfiel ataca a Yu
+Yu es resistente el ataque de Kazfiel
+Yu recibe 46 de daño
+Yu termina con HP:413/597
+Kazfiel ataca a Metatron
+Metatron recibe 93 de daño
+Metatron termina con HP:644/879
+Kazfiel ataca a Ghoul
+Ghoul recibe 93 de daño
+Ghoul termina con HP:148/558
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Kazfiel HP:206/469 MP:148/211
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:413/597 MP:74/347
+B-Metatron HP:644/879 MP:115/175
+C-Ghoul HP:148/558 MP:111/111
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Yu
+3-Ghoul
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Taraka HP:438/624 MP:124/124
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Taraka ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Kazfiel HP:206/469 MP:148/211
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:413/597 MP:74/347
+B-Taraka HP:438/624 MP:124/124
+C-Ghoul HP:148/558 MP:111/111
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Ghoul
+3-Taraka
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Metatron HP:644/879 MP:115/175
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Kazfiel HP:206/469 MP:148/211
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:413/597 MP:74/347
+B-Taraka HP:438/624 MP:124/124
+C-Ghoul HP:148/558 MP:111/111
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ghoul
+2-Taraka
+3-Yu
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Kazfiel HP:206/469 MP:148/211
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:413/597 MP:74/347
+B-Taraka HP:438/624 MP:124/124
+C-Ghoul HP:148/558 MP:111/111
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Taraka
+2-Yu
+3-Ghoul
+----------------------------------------
+Seleccione una acción para Taraka
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taraka
+1-Kazfiel HP:206/469 MP:148/211
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Taraka ataca a Kazfiel
+Kazfiel recibe 47 de daño
+Kazfiel termina con HP:159/469
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Kazfiel HP:159/469 MP:148/211
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:413/597 MP:74/347
+B-Taraka HP:438/624 MP:124/124
+C-Ghoul HP:148/558 MP:111/111
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Ghoul
+3-Taraka
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Kazfiel HP:159/469 MP:148/211
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu dispara a Kazfiel
+Kazfiel recibe 72 de daño
+Kazfiel termina con HP:87/469
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Kazfiel HP:87/469 MP:148/211
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:413/597 MP:74/347
+B-Taraka HP:438/624 MP:124/124
+C-Ghoul HP:148/558 MP:111/111
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kazfiel
+----------------------------------------
+Seleccione una acción para Kazfiel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Yurlungur HP:202/202 MP:196/196
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yurlungur ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Yurlungur HP:202/202 MP:196/196
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:413/597 MP:74/347
+B-Taraka HP:438/624 MP:124/124
+C-Ghoul HP:148/558 MP:111/111
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yurlungur
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Yurlungur use
+1-Blast Arrow MP:16
+2-Ice Breath MP:21
+3-Dekaja MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yurlungur
+1-Yu HP:413/597 MP:74/347
+2-Taraka HP:438/624 MP:124/124
+3-Ghoul HP:148/558 MP:111/111
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Yurlungur ataca a Ghoul
+Ghoul recibe 20 de daño
+Ghoul termina con HP:128/558
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Yurlungur HP:202/202 MP:196/196
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:413/597 MP:74/347
+B-Taraka HP:438/624 MP:124/124
+C-Ghoul HP:128/558 MP:111/111
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Taraka
+3-Ghoul
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Yurlungur HP:202/202 MP:196/196
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Yurlungur
+Yurlungur recibe 49 de daño
+Yurlungur termina con HP:153/202
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Yurlungur HP:153/202 MP:196/196
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:413/597 MP:74/347
+B-Taraka HP:438/624 MP:124/124
+C-Ghoul HP:128/558 MP:111/111
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taraka
+2-Ghoul
+3-Yu
+----------------------------------------
+Seleccione una acción para Taraka
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Yurlungur HP:153/202 MP:196/196
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:413/597 MP:74/347
+B-Taraka HP:438/624 MP:124/124
+C-Ghoul HP:128/558 MP:111/111
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ghoul
+2-Yu
+3-Taraka
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Yurlungur HP:153/202 MP:196/196
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Metatron HP:644/879 MP:115/175
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Metatron ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:187/193
+B-Yurlungur HP:153/202 MP:196/196
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:413/597 MP:74/347
+B-Taraka HP:438/624 MP:124/124
+C-Metatron HP:644/879 MP:115/175
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Taraka
+3-Metatron
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Hama MP:6
+2-Stigma Attack MP:20
+3-Bufula MP:8
+4-Mamudo MP:18
+5-Deadly Wind MP:22
+6-Diarahan MP:16
+7-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Yurlungur HP:153/202 MP:196/196
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Yurlungur
+Yurlungur recibe 157 de daño
+Yurlungur termina con HP:0/202
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Yu (J2)

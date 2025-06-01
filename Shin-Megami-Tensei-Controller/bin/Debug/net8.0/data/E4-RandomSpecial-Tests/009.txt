@@ -1,0 +1,2297 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 8
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-White Rider HP:672/672 MP:301/301
+C-Nadja HP:399/399 MP:179/179
+D-Nue HP:341/341 MP:67/67
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Arachne HP:350/350 MP:157/157
+C-Tsuchigumo HP:280/280 MP:126/126
+D-Quetzalcoatl HP:553/553 MP:247/247
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-White Rider
+3-Nadja
+4-Nue
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:760/760 MP:398/398
+2-Arachne HP:350/350 MP:157/157
+3-Tsuchigumo HP:280/280 MP:126/126
+4-Quetzalcoatl HP:553/553 MP:247/247
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Flynn ataca a Tsuchigumo
+Tsuchigumo recibe 88 de daño
+Tsuchigumo termina con HP:192/280
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-White Rider HP:672/672 MP:301/301
+C-Nadja HP:399/399 MP:179/179
+D-Nue HP:341/341 MP:67/67
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Arachne HP:350/350 MP:157/157
+C-Tsuchigumo HP:192/280 MP:126/126
+D-Quetzalcoatl HP:553/553 MP:247/247
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-White Rider
+2-Nadja
+3-Nue
+4-Flynn
+----------------------------------------
+Seleccione una acción para White Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-White Rider HP:672/672 MP:301/301
+C-Nadja HP:399/399 MP:179/179
+D-Nue HP:341/341 MP:67/67
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Arachne HP:350/350 MP:157/157
+C-Tsuchigumo HP:192/280 MP:126/126
+D-Quetzalcoatl HP:553/553 MP:247/247
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nadja
+2-Nue
+3-Flynn
+4-White Rider
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nadja use
+1-Pulinpa MP:5
+2-Concentrate MP:11
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-White Rider HP:672/672 MP:301/301
+C-Nadja HP:399/399 MP:179/179
+D-Nue HP:341/341 MP:67/67
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Arachne HP:350/350 MP:157/157
+C-Tsuchigumo HP:192/280 MP:126/126
+D-Quetzalcoatl HP:553/553 MP:247/247
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nue
+2-Flynn
+3-White Rider
+4-Nadja
+----------------------------------------
+Seleccione una acción para Nue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nue use
+1-Scratch Dance MP:9
+2-Zionga MP:8
+3-Shock MP:21
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nue lanza electricidad a Kei
+Kei es resistente el ataque de Nue
+Kei recibe 36 de daño
+Kei termina con HP:724/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-White Rider HP:672/672 MP:301/301
+C-Nadja HP:399/399 MP:179/179
+D-Nue HP:341/341 MP:46/67
+Equipo de Kei (J2)
+A-Kei HP:724/760 MP:398/398
+B-Arachne HP:350/350 MP:157/157
+C-Tsuchigumo HP:192/280 MP:126/126
+D-Quetzalcoatl HP:553/553 MP:247/247
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-White Rider
+3-Nadja
+4-Nue
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-White Rider HP:672/672 MP:301/301
+C-Nadja HP:399/399 MP:179/179
+D-Nue HP:341/341 MP:46/67
+Equipo de Kei (J2)
+A-Kei HP:724/760 MP:398/398
+B-Arachne HP:350/350 MP:157/157
+C-Tsuchigumo HP:192/280 MP:126/126
+D-Quetzalcoatl HP:553/553 MP:247/247
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-White Rider
+2-Nadja
+3-Nue
+4-Flynn
+----------------------------------------
+Seleccione una acción para White Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para White Rider
+1-Kei HP:724/760 MP:398/398
+2-Arachne HP:350/350 MP:157/157
+3-Tsuchigumo HP:192/280 MP:126/126
+4-Quetzalcoatl HP:553/553 MP:247/247
+5-Cancelar
+INPUT: 3
+----------------------------------------
+White Rider ataca a Tsuchigumo
+Tsuchigumo recibe 56 de daño
+Tsuchigumo termina con HP:136/280
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:971/971 MP:527/527
+B-White Rider HP:672/672 MP:301/301
+C-Nadja HP:399/399 MP:179/179
+D-Nue HP:341/341 MP:46/67
+Equipo de Kei (J2)
+A-Kei HP:724/760 MP:398/398
+B-Arachne HP:350/350 MP:157/157
+C-Tsuchigumo HP:136/280 MP:126/126
+D-Quetzalcoatl HP:553/553 MP:247/247
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Quetzalcoatl
+2-Arachne
+3-Tsuchigumo
+4-Kei
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Quetzalcoatl use
+1-Trisagion MP:22
+2-Mazandyne MP:32
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Quetzalcoatl
+1-Flynn HP:971/971 MP:527/527
+2-White Rider HP:672/672 MP:301/301
+3-Nadja HP:399/399 MP:179/179
+4-Nue HP:341/341 MP:46/67
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Quetzalcoatl
+1-Flynn HP:971/971 MP:527/527
+2-White Rider HP:672/672 MP:301/301
+3-Nadja HP:399/399 MP:179/179
+4-Nue HP:341/341 MP:46/67
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Quetzalcoatl ataca a Flynn
+Flynn recibe 46 de daño
+Flynn termina con HP:925/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:925/971 MP:527/527
+B-White Rider HP:672/672 MP:301/301
+C-Nadja HP:399/399 MP:179/179
+D-Nue HP:341/341 MP:46/67
+Equipo de Kei (J2)
+A-Kei HP:724/760 MP:398/398
+B-Arachne HP:350/350 MP:157/157
+C-Tsuchigumo HP:136/280 MP:126/126
+D-Quetzalcoatl HP:553/553 MP:247/247
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Arachne
+2-Tsuchigumo
+3-Kei
+4-Quetzalcoatl
+----------------------------------------
+Seleccione una acción para Arachne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Arachne use
+1-Stun Needles MP:14
+2-Damascus Claw MP:7
+3-Blast Arrow MP:16
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Arachne dispara a Flynn
+Flynn recibe 70 de daño
+Flynn termina con HP:855/971
+Arachne dispara a White Rider
+White Rider recibe 70 de daño
+White Rider termina con HP:602/672
+Arachne dispara a Nadja
+Nadja recibe 70 de daño
+Nadja termina con HP:329/399
+Arachne dispara a Nue
+Nue es débil contra el ataque de Arachne
+Nue recibe 106 de daño
+Nue termina con HP:235/341
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:855/971 MP:527/527
+B-White Rider HP:602/672 MP:301/301
+C-Nadja HP:329/399 MP:179/179
+D-Nue HP:235/341 MP:46/67
+Equipo de Kei (J2)
+A-Kei HP:724/760 MP:398/398
+B-Arachne HP:350/350 MP:141/157
+C-Tsuchigumo HP:136/280 MP:126/126
+D-Quetzalcoatl HP:553/553 MP:247/247
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Kei
+3-Quetzalcoatl
+4-Arachne
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:855/971 MP:527/527
+B-White Rider HP:602/672 MP:301/301
+C-Nadja HP:329/399 MP:179/179
+D-Nue HP:235/341 MP:46/67
+Equipo de Kei (J2)
+A-Kei HP:724/760 MP:398/398
+B-Arachne HP:350/350 MP:141/157
+C-Tsuchigumo HP:136/280 MP:126/126
+D-Quetzalcoatl HP:553/553 MP:247/247
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Quetzalcoatl
+3-Arachne
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:855/971 MP:527/527
+B-White Rider HP:602/672 MP:301/301
+C-Nadja HP:329/399 MP:179/179
+D-Nue HP:235/341 MP:46/67
+Equipo de Kei (J2)
+A-Kei HP:724/760 MP:398/398
+B-Arachne HP:350/350 MP:141/157
+C-Tsuchigumo HP:136/280 MP:126/126
+D-Quetzalcoatl HP:553/553 MP:247/247
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Quetzalcoatl
+2-Arachne
+3-Tsuchigumo
+4-Kei
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Quetzalcoatl
+1-Flynn HP:855/971 MP:527/527
+2-White Rider HP:602/672 MP:301/301
+3-Nadja HP:329/399 MP:179/179
+4-Nue HP:235/341 MP:46/67
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Quetzalcoatl use
+1-Trisagion MP:22
+2-Mazandyne MP:32
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Quetzalcoatl
+1-Flynn HP:855/971 MP:527/527
+2-White Rider HP:602/672 MP:301/301
+3-Nadja HP:329/399 MP:179/179
+4-Nue HP:235/341 MP:46/67
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Quetzalcoatl lanza fuego a White Rider
+White Rider recibe 150 de daño
+White Rider termina con HP:452/672
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:855/971 MP:527/527
+B-White Rider HP:452/672 MP:301/301
+C-Nadja HP:329/399 MP:179/179
+D-Nue HP:235/341 MP:46/67
+Equipo de Kei (J2)
+A-Kei HP:724/760 MP:398/398
+B-Arachne HP:350/350 MP:141/157
+C-Tsuchigumo HP:136/280 MP:126/126
+D-Quetzalcoatl HP:553/553 MP:225/247
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Arachne
+2-Tsuchigumo
+3-Kei
+4-Quetzalcoatl
+----------------------------------------
+Seleccione una acción para Arachne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:855/971 MP:527/527
+B-White Rider HP:452/672 MP:301/301
+C-Nadja HP:329/399 MP:179/179
+D-Nue HP:235/341 MP:46/67
+Equipo de Kei (J2)
+A-Kei HP:724/760 MP:398/398
+B-Arachne HP:350/350 MP:141/157
+C-Tsuchigumo HP:136/280 MP:126/126
+D-Quetzalcoatl HP:553/553 MP:225/247
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Kei
+3-Quetzalcoatl
+4-Arachne
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hel HP:254/254 MP:246/246
+2-Nidhoggr HP:681/681 MP:135/135
+3-Ometeotl HP:324/324 MP:315/315
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tsuchigumo use
+1-Poison Claw MP:9
+2-Zionga MP:8
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Flynn HP:855/971 MP:527/527
+2-White Rider HP:452/672 MP:301/301
+3-Nadja HP:329/399 MP:179/179
+4-Nue HP:235/341 MP:46/67
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Tsuchigumo lanza electricidad a Nadja
+Nadja recibe 70 de daño
+Nadja termina con HP:259/399
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:855/971 MP:527/527
+B-White Rider HP:452/672 MP:301/301
+C-Nadja HP:259/399 MP:179/179
+D-Nue HP:235/341 MP:46/67
+Equipo de Kei (J2)
+A-Kei HP:724/760 MP:398/398
+B-Arachne HP:350/350 MP:141/157
+C-Tsuchigumo HP:136/280 MP:118/126
+D-Quetzalcoatl HP:553/553 MP:225/247
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-White Rider
+3-Nadja
+4-Nue
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:724/760 MP:398/398
+2-Arachne HP:350/350 MP:141/157
+3-Tsuchigumo HP:136/280 MP:118/126
+4-Quetzalcoatl HP:553/553 MP:225/247
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Flynn dispara a Tsuchigumo
+Tsuchigumo recibe 110 de daño
+Tsuchigumo termina con HP:26/280
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:855/971 MP:527/527
+B-White Rider HP:452/672 MP:301/301
+C-Nadja HP:259/399 MP:179/179
+D-Nue HP:235/341 MP:46/67
+Equipo de Kei (J2)
+A-Kei HP:724/760 MP:398/398
+B-Arachne HP:350/350 MP:141/157
+C-Tsuchigumo HP:26/280 MP:118/126
+D-Quetzalcoatl HP:553/553 MP:225/247
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-White Rider
+2-Nadja
+3-Nue
+4-Flynn
+----------------------------------------
+Seleccione una acción para White Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que White Rider use
+1-Thunder Reign MP:22
+2-Dekaja MP:10
+3-Luster Candy MP:50
+4-Cancelar
+INPUT: 1
+----------------------------------------
+White Rider lanza electricidad a Kei
+Kei es resistente el ataque de White Rider
+Kei recibe 74 de daño
+Kei termina con HP:650/760
+White Rider lanza electricidad a Arachne
+Arachne recibe 148 de daño
+Arachne termina con HP:202/350
+White Rider lanza electricidad a Tsuchigumo
+Tsuchigumo devuelve 148 daño a White Rider
+White Rider termina con HP:304/672
+White Rider lanza electricidad a Quetzalcoatl
+Quetzalcoatl recibe 148 de daño
+Quetzalcoatl termina con HP:405/553
+----------------------------------------
+Se han consumido 3 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:855/971 MP:527/527
+B-White Rider HP:304/672 MP:279/301
+C-Nadja HP:259/399 MP:179/179
+D-Nue HP:235/341 MP:46/67
+Equipo de Kei (J2)
+A-Kei HP:650/760 MP:398/398
+B-Arachne HP:202/350 MP:141/157
+C-Tsuchigumo HP:26/280 MP:118/126
+D-Quetzalcoatl HP:405/553 MP:225/247
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Quetzalcoatl
+2-Arachne
+3-Tsuchigumo
+4-Kei
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Quetzalcoatl use
+1-Trisagion MP:22
+2-Mazandyne MP:32
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Quetzalcoatl lanza viento a Flynn
+Flynn recibe 116 de daño
+Flynn termina con HP:739/971
+Quetzalcoatl lanza viento a White Rider
+White Rider es débil contra el ataque de Quetzalcoatl
+White Rider recibe 174 de daño
+White Rider termina con HP:130/672
+Quetzalcoatl lanza viento a Nadja
+Nadja recibe 116 de daño
+Nadja termina con HP:143/399
+Quetzalcoatl lanza viento a Nue
+Nue es débil contra el ataque de Quetzalcoatl
+Nue recibe 174 de daño
+Nue termina con HP:61/341
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:739/971 MP:527/527
+B-White Rider HP:130/672 MP:279/301
+C-Nadja HP:143/399 MP:179/179
+D-Nue HP:61/341 MP:46/67
+Equipo de Kei (J2)
+A-Kei HP:650/760 MP:398/398
+B-Arachne HP:202/350 MP:141/157
+C-Tsuchigumo HP:26/280 MP:118/126
+D-Quetzalcoatl HP:405/553 MP:193/247
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Arachne
+2-Tsuchigumo
+3-Kei
+4-Quetzalcoatl
+----------------------------------------
+Seleccione una acción para Arachne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hel HP:254/254 MP:246/246
+2-Nidhoggr HP:681/681 MP:135/135
+3-Ometeotl HP:324/324 MP:315/315
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Arachne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hel HP:254/254 MP:246/246
+2-Nidhoggr HP:681/681 MP:135/135
+3-Ometeotl HP:324/324 MP:315/315
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Hel ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:739/971 MP:527/527
+B-White Rider HP:130/672 MP:279/301
+C-Nadja HP:143/399 MP:179/179
+D-Nue HP:61/341 MP:46/67
+Equipo de Kei (J2)
+A-Kei HP:650/760 MP:398/398
+B-Hel HP:254/254 MP:246/246
+C-Tsuchigumo HP:26/280 MP:118/126
+D-Quetzalcoatl HP:405/553 MP:193/247
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Kei
+3-Quetzalcoatl
+4-Hel
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:739/971 MP:527/527
+B-White Rider HP:130/672 MP:279/301
+C-Nadja HP:143/399 MP:179/179
+D-Nue HP:61/341 MP:46/67
+Equipo de Kei (J2)
+A-Kei HP:650/760 MP:398/398
+B-Hel HP:254/254 MP:246/246
+C-Tsuchigumo HP:26/280 MP:118/126
+D-Quetzalcoatl HP:405/553 MP:193/247
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Quetzalcoatl
+3-Hel
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:739/971 MP:527/527
+B-White Rider HP:130/672 MP:279/301
+C-Nadja HP:143/399 MP:179/179
+D-Nue HP:61/341 MP:46/67
+Equipo de Kei (J2)
+A-Kei HP:650/760 MP:398/398
+B-Hel HP:254/254 MP:246/246
+C-Tsuchigumo HP:26/280 MP:118/126
+D-Quetzalcoatl HP:405/553 MP:193/247
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Quetzalcoatl
+2-Hel
+3-Tsuchigumo
+4-Kei
+----------------------------------------
+Seleccione una acción para Quetzalcoatl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Arachne HP:202/350 MP:141/157
+2-Nidhoggr HP:681/681 MP:135/135
+3-Ometeotl HP:324/324 MP:315/315
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Ometeotl ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:739/971 MP:527/527
+B-White Rider HP:130/672 MP:279/301
+C-Nadja HP:143/399 MP:179/179
+D-Nue HP:61/341 MP:46/67
+Equipo de Kei (J2)
+A-Kei HP:650/760 MP:398/398
+B-Hel HP:254/254 MP:246/246
+C-Tsuchigumo HP:26/280 MP:118/126
+D-Ometeotl HP:324/324 MP:315/315
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hel
+2-Tsuchigumo
+3-Kei
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:739/971 MP:527/527
+B-White Rider HP:130/672 MP:279/301
+C-Nadja HP:143/399 MP:179/179
+D-Nue HP:61/341 MP:46/67
+Equipo de Kei (J2)
+A-Kei HP:650/760 MP:398/398
+B-Hel HP:254/254 MP:246/246
+C-Tsuchigumo HP:26/280 MP:118/126
+D-Ometeotl HP:324/324 MP:315/315
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Kei
+3-Ometeotl
+4-Hel
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Flynn HP:739/971 MP:527/527
+2-White Rider HP:130/672 MP:279/301
+3-Nadja HP:143/399 MP:179/179
+4-Nue HP:61/341 MP:46/67
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tsuchigumo ataca a Flynn
+Flynn recibe 22 de daño
+Flynn termina con HP:717/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:717/971 MP:527/527
+B-White Rider HP:130/672 MP:279/301
+C-Nadja HP:143/399 MP:179/179
+D-Nue HP:61/341 MP:46/67
+Equipo de Kei (J2)
+A-Kei HP:650/760 MP:398/398
+B-Hel HP:254/254 MP:246/246
+C-Tsuchigumo HP:26/280 MP:118/126
+D-Ometeotl HP:324/324 MP:315/315
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-White Rider
+3-Nadja
+4-Nue
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:717/971 MP:527/527
+B-White Rider HP:130/672 MP:279/301
+C-Nadja HP:143/399 MP:179/179
+D-Nue HP:61/341 MP:46/67
+Equipo de Kei (J2)
+A-Kei HP:650/760 MP:398/398
+B-Hel HP:254/254 MP:246/246
+C-Tsuchigumo HP:26/280 MP:118/126
+D-Ometeotl HP:324/324 MP:315/315
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-White Rider
+2-Nadja
+3-Nue
+4-Flynn
+----------------------------------------
+Seleccione una acción para White Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para White Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:717/971 MP:527/527
+B-White Rider HP:130/672 MP:279/301
+C-Nadja HP:143/399 MP:179/179
+D-Nue HP:61/341 MP:46/67
+Equipo de Kei (J2)
+A-Kei HP:650/760 MP:398/398
+B-Hel HP:254/254 MP:246/246
+C-Tsuchigumo HP:26/280 MP:118/126
+D-Ometeotl HP:324/324 MP:315/315
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Nue
+3-Flynn
+4-White Rider
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nadja use
+1-Pulinpa MP:5
+2-Concentrate MP:11
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:717/971 MP:527/527
+B-White Rider HP:130/672 MP:279/301
+C-Nadja HP:143/399 MP:179/179
+D-Nue HP:61/341 MP:46/67
+Equipo de Kei (J2)
+A-Kei HP:650/760 MP:398/398
+B-Hel HP:254/254 MP:246/246
+C-Tsuchigumo HP:26/280 MP:118/126
+D-Ometeotl HP:324/324 MP:315/315
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nue
+2-Flynn
+3-White Rider
+4-Nadja
+----------------------------------------
+Seleccione una acción para Nue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nue use
+1-Scratch Dance MP:9
+2-Zionga MP:8
+3-Shock MP:21
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nue
+1-Kei HP:650/760 MP:398/398
+2-Hel HP:254/254 MP:246/246
+3-Tsuchigumo HP:26/280 MP:118/126
+4-Ometeotl HP:324/324 MP:315/315
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nue lanza electricidad a Kei
+Kei es resistente el ataque de Nue
+Kei recibe 31 de daño
+Kei termina con HP:619/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:717/971 MP:527/527
+B-White Rider HP:130/672 MP:279/301
+C-Nadja HP:143/399 MP:179/179
+D-Nue HP:61/341 MP:38/67
+Equipo de Kei (J2)
+A-Kei HP:619/760 MP:398/398
+B-Hel HP:254/254 MP:246/246
+C-Tsuchigumo HP:26/280 MP:118/126
+D-Ometeotl HP:324/324 MP:315/315
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-White Rider
+3-Nadja
+4-Nue
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:619/760 MP:398/398
+2-Hel HP:254/254 MP:246/246
+3-Tsuchigumo HP:26/280 MP:118/126
+4-Ometeotl HP:324/324 MP:315/315
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn dispara a Hel
+Hel recibe 110 de daño
+Hel termina con HP:144/254
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:717/971 MP:527/527
+B-White Rider HP:130/672 MP:279/301
+C-Nadja HP:143/399 MP:179/179
+D-Nue HP:61/341 MP:38/67
+Equipo de Kei (J2)
+A-Kei HP:619/760 MP:398/398
+B-Hel HP:144/254 MP:246/246
+C-Tsuchigumo HP:26/280 MP:118/126
+D-Ometeotl HP:324/324 MP:315/315
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-White Rider
+2-Nadja
+3-Nue
+4-Flynn
+----------------------------------------
+Seleccione una acción para White Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para White Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para White Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:717/971 MP:527/527
+B-White Rider HP:130/672 MP:279/301
+C-Nadja HP:143/399 MP:179/179
+D-Nue HP:61/341 MP:38/67
+Equipo de Kei (J2)
+A-Kei HP:619/760 MP:398/398
+B-Hel HP:144/254 MP:246/246
+C-Tsuchigumo HP:26/280 MP:118/126
+D-Ometeotl HP:324/324 MP:315/315
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nadja
+2-Nue
+3-Flynn
+4-White Rider
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nadja use
+1-Pulinpa MP:5
+2-Concentrate MP:11
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nadja ha cargado su siguiente ataque mágico a más del doble
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:717/971 MP:527/527
+B-White Rider HP:130/672 MP:279/301
+C-Nadja HP:143/399 MP:168/179
+D-Nue HP:61/341 MP:38/67
+Equipo de Kei (J2)
+A-Kei HP:619/760 MP:398/398
+B-Hel HP:144/254 MP:246/246
+C-Tsuchigumo HP:26/280 MP:118/126
+D-Ometeotl HP:324/324 MP:315/315
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Hel
+3-Tsuchigumo
+4-Kei
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:717/971 MP:527/527
+B-White Rider HP:130/672 MP:279/301
+C-Nadja HP:143/399 MP:168/179
+D-Nue HP:61/341 MP:38/67
+Equipo de Kei (J2)
+A-Kei HP:619/760 MP:398/398
+B-Hel HP:144/254 MP:246/246
+C-Tsuchigumo HP:26/280 MP:118/126
+D-Ometeotl HP:324/324 MP:315/315
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hel
+2-Tsuchigumo
+3-Kei
+4-Ometeotl
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Arachne HP:202/350 MP:141/157
+2-Quetzalcoatl HP:405/553 MP:193/247
+3-Nidhoggr HP:681/681 MP:135/135
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hel use
+1-Mamudo MP:18
+2-Sabbatma MP:20
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Hel ataca con oscuridad a Flynn
+Flynn bloquea el ataque de Hel
+Flynn termina con HP:717/971
+Hel ataca con oscuridad a White Rider
+Hel ha fallado el ataque
+White Rider termina con HP:130/672
+Hel ataca con oscuridad a Nadja
+Nadja ha sido eliminado
+Nadja termina con HP:0/399
+Hel ataca con oscuridad a Nue
+Nue ha sido eliminado
+Nue termina con HP:0/341
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:717/971 MP:527/527
+B-White Rider HP:130/672 MP:279/301
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:619/760 MP:398/398
+B-Hel HP:144/254 MP:228/246
+C-Tsuchigumo HP:26/280 MP:118/126
+D-Ometeotl HP:324/324 MP:315/315
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Kei
+3-Ometeotl
+4-Hel
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tsuchigumo use
+1-Poison Claw MP:9
+2-Zionga MP:8
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:717/971 MP:527/527
+B-White Rider HP:130/672 MP:279/301
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:619/760 MP:398/398
+B-Hel HP:144/254 MP:228/246
+C-Tsuchigumo HP:26/280 MP:118/126
+D-Ometeotl HP:324/324 MP:315/315
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Ometeotl
+3-Hel
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Arachne HP:202/350 MP:141/157
+2-Quetzalcoatl HP:405/553 MP:193/247
+3-Nidhoggr HP:681/681 MP:135/135
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Hel HP:144/254 MP:228/246 (Puesto 2)
+2-Tsuchigumo HP:26/280 MP:118/126 (Puesto 3)
+3-Ometeotl HP:324/324 MP:315/315 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Arachne ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:717/971 MP:527/527
+B-White Rider HP:130/672 MP:279/301
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:619/760 MP:398/398
+B-Hel HP:144/254 MP:228/246
+C-Arachne HP:202/350 MP:141/157
+D-Ometeotl HP:324/324 MP:315/315
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Hel
+3-Arachne
+4-Kei
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ometeotl use
+1-Agidyne MP:14
+2-Recarmdra MP:2
+3-Bufudyne MP:14
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Flynn HP:717/971 MP:527/527
+2-White Rider HP:130/672 MP:279/301
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Ometeotl lanza hielo a Flynn
+Flynn recibe 130 de daño
+Flynn termina con HP:587/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:587/971 MP:527/527
+B-White Rider HP:130/672 MP:279/301
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:619/760 MP:398/398
+B-Hel HP:144/254 MP:228/246
+C-Arachne HP:202/350 MP:141/157
+D-Ometeotl HP:324/324 MP:301/315
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-White Rider
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:619/760 MP:398/398
+2-Hel HP:144/254 MP:228/246
+3-Arachne HP:202/350 MP:141/157
+4-Ometeotl HP:324/324 MP:301/315
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:587/971 MP:527/527
+B-White Rider HP:130/672 MP:279/301
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:619/760 MP:398/398
+B-Hel HP:144/254 MP:228/246
+C-Arachne HP:202/350 MP:141/157
+D-Ometeotl HP:324/324 MP:301/315
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-White Rider
+2-Flynn
+----------------------------------------
+Seleccione una acción para White Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:587/971 MP:527/527
+B-White Rider HP:130/672 MP:279/301
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:619/760 MP:398/398
+B-Hel HP:144/254 MP:228/246
+C-Arachne HP:202/350 MP:141/157
+D-Ometeotl HP:324/324 MP:301/315
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-White Rider
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:619/760 MP:398/398
+2-Hel HP:144/254 MP:228/246
+3-Arachne HP:202/350 MP:141/157
+4-Ometeotl HP:324/324 MP:301/315
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Flynn ataca a Ometeotl
+Ometeotl recibe 88 de daño
+Ometeotl termina con HP:236/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:587/971 MP:527/527
+B-White Rider HP:130/672 MP:279/301
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:619/760 MP:398/398
+B-Hel HP:144/254 MP:228/246
+C-Arachne HP:202/350 MP:141/157
+D-Ometeotl HP:236/324 MP:301/315
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Arachne
+2-Ometeotl
+3-Hel
+4-Kei
+----------------------------------------
+Seleccione una acción para Arachne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Arachne use
+1-Stun Needles MP:14
+2-Damascus Claw MP:7
+3-Blast Arrow MP:16
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Arachne dispara a Flynn
+Flynn recibe 70 de daño
+Flynn termina con HP:517/971
+Arachne dispara a White Rider
+White Rider recibe 70 de daño
+White Rider termina con HP:60/672
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:517/971 MP:527/527
+B-White Rider HP:60/672 MP:279/301
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:619/760 MP:398/398
+B-Hel HP:144/254 MP:228/246
+C-Arachne HP:202/350 MP:125/157
+D-Ometeotl HP:236/324 MP:301/315
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Hel
+3-Kei
+4-Arachne
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ometeotl use
+1-Agidyne MP:14
+2-Recarmdra MP:2
+3-Bufudyne MP:14
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Ometeotl cura a Kei
+Kei recibe 380 de HP
+Kei termina con HP:760/760
+Ometeotl cura a Hel
+Hel recibe 127 de HP
+Hel termina con HP:254/254
+Ometeotl cura a Arachne
+Arachne recibe 175 de HP
+Arachne termina con HP:350/350
+Ometeotl cura a Tsuchigumo
+Tsuchigumo recibe 140 de HP
+Tsuchigumo termina con HP:166/280
+Ometeotl cura a Quetzalcoatl
+Quetzalcoatl recibe 276 de HP
+Quetzalcoatl termina con HP:553/553
+Ometeotl cura a Nidhoggr
+Nidhoggr recibe 340 de HP
+Nidhoggr termina con HP:681/681
+Ometeotl termina con HP:0/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:517/971 MP:527/527
+B-White Rider HP:60/672 MP:279/301
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Hel HP:254/254 MP:228/246
+C-Arachne HP:350/350 MP:125/157
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Kei
+3-Arachne
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Flynn HP:517/971 MP:527/527
+2-White Rider HP:60/672 MP:279/301
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tsuchigumo HP:166/280 MP:118/126
+2-Quetzalcoatl HP:553/553 MP:193/247
+3-Nidhoggr HP:681/681 MP:135/135
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nidhoggr ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:517/971 MP:527/527
+B-White Rider HP:60/672 MP:279/301
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Nidhoggr HP:681/681 MP:135/135
+C-Arachne HP:350/350 MP:125/157
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Arachne
+3-Nidhoggr
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tsuchigumo HP:166/280 MP:118/126
+2-Quetzalcoatl HP:553/553 MP:193/247
+3-Hel HP:254/254 MP:228/246
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Nidhoggr HP:681/681 MP:135/135 (Puesto 2)
+2-Arachne HP:350/350 MP:125/157 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Hel ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:517/971 MP:527/527
+B-White Rider HP:60/672 MP:279/301
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Nidhoggr HP:681/681 MP:135/135
+C-Arachne HP:350/350 MP:125/157
+D-Hel HP:254/254 MP:228/246
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Arachne
+2-Nidhoggr
+3-Hel
+4-Kei
+----------------------------------------
+Seleccione una acción para Arachne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:517/971 MP:527/527
+B-White Rider HP:60/672 MP:279/301
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Nidhoggr HP:681/681 MP:135/135
+C-Arachne HP:350/350 MP:125/157
+D-Hel HP:254/254 MP:228/246
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Hel
+3-Kei
+4-Arachne
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J1)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:517/971 MP:527/527
+B-White Rider HP:60/672 MP:279/301
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Nidhoggr HP:681/681 MP:135/135
+C-Arachne HP:350/350 MP:125/157
+D-Hel HP:254/254 MP:228/246
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-White Rider
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:517/971 MP:527/527
+B-White Rider HP:60/672 MP:279/301
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Nidhoggr HP:681/681 MP:135/135
+C-Arachne HP:350/350 MP:125/157
+D-Hel HP:254/254 MP:228/246
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-White Rider
+2-Flynn
+----------------------------------------
+Seleccione una acción para White Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que White Rider use
+1-Thunder Reign MP:22
+2-Dekaja MP:10
+3-Luster Candy MP:50
+4-Cancelar
+INPUT: 1
+----------------------------------------
+White Rider lanza electricidad a Kei
+Kei es resistente el ataque de White Rider
+Kei recibe 74 de daño
+Kei termina con HP:686/760
+White Rider lanza electricidad a Nidhoggr
+Nidhoggr es débil contra el ataque de White Rider
+Nidhoggr recibe 222 de daño
+Nidhoggr termina con HP:459/681
+White Rider lanza electricidad a Arachne
+Arachne recibe 148 de daño
+Arachne termina con HP:202/350
+White Rider lanza electricidad a Hel
+Hel recibe 148 de daño
+Hel termina con HP:106/254
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:517/971 MP:527/527
+B-White Rider HP:60/672 MP:257/301
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:686/760 MP:398/398
+B-Nidhoggr HP:459/681 MP:135/135
+C-Arachne HP:202/350 MP:125/157
+D-Hel HP:106/254 MP:228/246
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Flynn
+2-White Rider
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:686/760 MP:398/398
+2-Nidhoggr HP:459/681 MP:135/135
+3-Arachne HP:202/350 MP:125/157
+4-Hel HP:106/254 MP:228/246
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Flynn dispara a Arachne
+Arachne absorbe 110 daño
+Arachne termina con HP:312/350
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 2 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:517/971 MP:527/527
+B-White Rider HP:60/672 MP:257/301
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:686/760 MP:398/398
+B-Nidhoggr HP:459/681 MP:135/135
+C-Arachne HP:312/350 MP:125/157
+D-Hel HP:106/254 MP:228/246
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Arachne
+3-Hel
+4-Kei
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nidhoggr use
+1-Grand Tack MP:11
+2-Life Drain MP:5
+3-Madness Nails MP:26
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tsuchigumo HP:166/280 MP:118/126
+2-Quetzalcoatl HP:553/553 MP:193/247
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Tsuchigumo ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:517/971 MP:527/527
+B-White Rider HP:60/672 MP:257/301
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:686/760 MP:398/398
+B-Tsuchigumo HP:166/280 MP:118/126
+C-Arachne HP:312/350 MP:125/157
+D-Hel HP:106/254 MP:228/246
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Arachne
+2-Hel
+3-Kei
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Arachne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:517/971 MP:527/527
+B-White Rider HP:60/672 MP:257/301
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:686/760 MP:398/398
+B-Tsuchigumo HP:166/280 MP:118/126
+C-Arachne HP:312/350 MP:125/157
+D-Hel HP:106/254 MP:228/246
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Kei
+3-Tsuchigumo
+4-Arachne
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Quetzalcoatl HP:553/553 MP:193/247
+2-Nidhoggr HP:459/681 MP:135/135
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Flynn HP:517/971 MP:527/527
+2-White Rider HP:60/672 MP:257/301
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Flynn (J1)
+A-Flynn HP:517/971 MP:527/527
+B-White Rider HP:60/672 MP:257/301
+C-
+D-
+Equipo de Kei (J2)
+A-Kei HP:686/760 MP:398/398
+B-Tsuchigumo HP:166/280 MP:118/126
+C-Arachne HP:312/350 MP:125/157
+D-Hel HP:106/254 MP:228/246
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Tsuchigumo
+3-Arachne
+4-Hel
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Trafuri MP:5
+2-Agilao MP:8
+3-Mazionga MP:20
+4-Spirit Drain MP:5
+5-Fatal Sword MP:8
+6-Cancelar
+INPUT: 1
+----------------------------------------
+Kei (J2) se rinde
+----------------------------------------
+Ganador: Flynn (J1)

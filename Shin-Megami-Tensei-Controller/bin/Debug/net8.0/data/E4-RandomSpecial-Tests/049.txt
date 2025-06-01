@@ -1,0 +1,1494 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 48
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Pellaidh HP:202/202 MP:196/196
+C-Inugami HP:214/214 MP:109/109
+D-Halphas HP:275/275 MP:54/54
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Kabuso HP:137/137 MP:131/131
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Inugami
+3-Pellaidh
+4-Halphas
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:597/597 MP:347/347
+2-Kabuso HP:137/137 MP:131/131
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Pellaidh HP:202/202 MP:196/196
+C-Inugami HP:214/214 MP:109/109
+D-Halphas HP:275/275 MP:54/54
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Kabuso HP:137/137 MP:131/131
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Inugami
+2-Pellaidh
+3-Halphas
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Inugami use
+1-Fire Breath MP:21
+2-Rakunda MP:15
+3-Panic Voice MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Pellaidh HP:202/202 MP:196/196
+C-Inugami HP:214/214 MP:109/109
+D-Halphas HP:275/275 MP:54/54
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Kabuso HP:137/137 MP:131/131
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pellaidh
+2-Halphas
+3-Itsuki
+4-Inugami
+----------------------------------------
+Seleccione una acción para Pellaidh
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Pellaidh HP:202/202 MP:196/196
+C-Inugami HP:214/214 MP:109/109
+D-Halphas HP:275/275 MP:54/54
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Kabuso HP:137/137 MP:131/131
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Halphas
+2-Itsuki
+3-Inugami
+4-Pellaidh
+----------------------------------------
+Seleccione una acción para Halphas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Halphas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Halphas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Halphas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Pellaidh HP:202/202 MP:196/196
+C-Inugami HP:214/214 MP:109/109
+D-Halphas HP:275/275 MP:54/54
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Kabuso HP:137/137 MP:131/131
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Inugami
+3-Pellaidh
+4-Halphas
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Pellaidh HP:202/202 MP:196/196
+C-Inugami HP:214/214 MP:109/109
+D-Halphas HP:275/275 MP:54/54
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Kabuso HP:137/137 MP:131/131
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Inugami
+2-Pellaidh
+3-Halphas
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Pellaidh HP:202/202 MP:196/196
+C-Inugami HP:214/214 MP:109/109
+D-Halphas HP:275/275 MP:54/54
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Kabuso HP:137/137 MP:131/131
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pellaidh
+2-Halphas
+3-Itsuki
+4-Inugami
+----------------------------------------
+Seleccione una acción para Pellaidh
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Pellaidh HP:202/202 MP:196/196
+C-Inugami HP:214/214 MP:109/109
+D-Halphas HP:275/275 MP:54/54
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Kabuso HP:137/137 MP:131/131
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Halphas
+2-Itsuki
+3-Inugami
+4-Pellaidh
+----------------------------------------
+Seleccione una acción para Halphas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Halphas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Halphas
+1-Joker HP:597/597 MP:347/347
+2-Kabuso HP:137/137 MP:131/131
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Halphas ataca a Joker
+Joker recibe 15 de daño
+Joker termina con HP:582/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Pellaidh HP:202/202 MP:196/196
+C-Inugami HP:214/214 MP:109/109
+D-Halphas HP:275/275 MP:54/54
+Equipo de Joker (J2)
+A-Joker HP:582/597 MP:347/347
+B-Kabuso HP:137/137 MP:131/131
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Kabuso
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Pellaidh HP:202/202 MP:196/196
+C-Inugami HP:214/214 MP:109/109
+D-Halphas HP:275/275 MP:54/54
+Equipo de Joker (J2)
+A-Joker HP:582/597 MP:347/347
+B-Kabuso HP:137/137 MP:131/131
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kabuso
+2-Joker
+----------------------------------------
+Seleccione una acción para Kabuso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Pellaidh HP:202/202 MP:196/196
+C-Inugami HP:214/214 MP:109/109
+D-Halphas HP:275/275 MP:54/54
+Equipo de Joker (J2)
+A-Joker HP:582/597 MP:347/347
+B-Kabuso HP:137/137 MP:131/131
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Kabuso
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:1136/1136 MP:413/413
+2-Pellaidh HP:202/202 MP:196/196
+3-Inugami HP:214/214 MP:109/109
+4-Halphas HP:275/275 MP:54/54
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Joker dispara a Halphas
+Halphas es débil contra el ataque de Joker
+Halphas recibe 58 de daño
+Halphas termina con HP:217/275
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Pellaidh HP:202/202 MP:196/196
+C-Inugami HP:214/214 MP:109/109
+D-Halphas HP:217/275 MP:54/54
+Equipo de Joker (J2)
+A-Joker HP:582/597 MP:347/347
+B-Kabuso HP:137/137 MP:131/131
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kabuso
+2-Joker
+----------------------------------------
+Seleccione una acción para Kabuso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Pellaidh HP:202/202 MP:196/196
+C-Inugami HP:214/214 MP:109/109
+D-Halphas HP:217/275 MP:54/54
+Equipo de Joker (J2)
+A-Joker HP:582/597 MP:347/347
+B-Kabuso HP:137/137 MP:131/131
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Inugami
+3-Pellaidh
+4-Halphas
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:582/597 MP:347/347
+2-Kabuso HP:137/137 MP:131/131
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Joker
+Joker recibe 61 de daño
+Joker termina con HP:521/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Pellaidh HP:202/202 MP:196/196
+C-Inugami HP:214/214 MP:109/109
+D-Halphas HP:217/275 MP:54/54
+Equipo de Joker (J2)
+A-Joker HP:521/597 MP:347/347
+B-Kabuso HP:137/137 MP:131/131
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Pellaidh
+3-Halphas
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Inugami use
+1-Fire Breath MP:21
+2-Rakunda MP:15
+3-Panic Voice MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Inugami lanza fuego a Joker
+Joker recibe 70 de daño
+Joker termina con HP:451/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Pellaidh HP:202/202 MP:196/196
+C-Inugami HP:214/214 MP:88/109
+D-Halphas HP:217/275 MP:54/54
+Equipo de Joker (J2)
+A-Joker HP:451/597 MP:347/347
+B-Kabuso HP:137/137 MP:131/131
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pellaidh
+2-Halphas
+3-Itsuki
+4-Inugami
+----------------------------------------
+Seleccione una acción para Pellaidh
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Pellaidh HP:202/202 MP:196/196
+C-Inugami HP:214/214 MP:88/109
+D-Halphas HP:217/275 MP:54/54
+Equipo de Joker (J2)
+A-Joker HP:451/597 MP:347/347
+B-Kabuso HP:137/137 MP:131/131
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Halphas
+2-Itsuki
+3-Inugami
+4-Pellaidh
+----------------------------------------
+Seleccione una acción para Halphas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Halphas
+1-Joker HP:451/597 MP:347/347
+2-Kabuso HP:137/137 MP:131/131
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Halphas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Halphas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Pellaidh HP:202/202 MP:196/196
+C-Inugami HP:214/214 MP:88/109
+D-Halphas HP:217/275 MP:54/54
+Equipo de Joker (J2)
+A-Joker HP:451/597 MP:347/347
+B-Kabuso HP:137/137 MP:131/131
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Inugami
+3-Pellaidh
+4-Halphas
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:451/597 MP:347/347
+2-Kabuso HP:137/137 MP:131/131
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki ataca a Kabuso
+Kabuso recibe 45 de daño
+Kabuso termina con HP:92/137
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Pellaidh HP:202/202 MP:196/196
+C-Inugami HP:214/214 MP:88/109
+D-Halphas HP:217/275 MP:54/54
+Equipo de Joker (J2)
+A-Joker HP:451/597 MP:347/347
+B-Kabuso HP:92/137 MP:131/131
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Kabuso
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:1136/1136 MP:413/413
+2-Pellaidh HP:202/202 MP:196/196
+3-Inugami HP:214/214 MP:88/109
+4-Halphas HP:217/275 MP:54/54
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Joker dispara a Halphas
+Halphas es débil contra el ataque de Joker
+Halphas recibe 58 de daño
+Halphas termina con HP:159/275
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Pellaidh HP:202/202 MP:196/196
+C-Inugami HP:214/214 MP:88/109
+D-Halphas HP:159/275 MP:54/54
+Equipo de Joker (J2)
+A-Joker HP:451/597 MP:347/347
+B-Kabuso HP:92/137 MP:131/131
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kabuso
+2-Joker
+----------------------------------------
+Seleccione una acción para Kabuso
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Pellaidh HP:202/202 MP:196/196
+C-Inugami HP:214/214 MP:88/109
+D-Halphas HP:159/275 MP:54/54
+Equipo de Joker (J2)
+A-Joker HP:451/597 MP:347/347
+B-Kabuso HP:92/137 MP:131/131
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Kabuso
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:1136/1136 MP:413/413
+2-Pellaidh HP:202/202 MP:196/196
+3-Inugami HP:214/214 MP:88/109
+4-Halphas HP:159/275 MP:54/54
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Joker dispara a Pellaidh
+Pellaidh recibe 39 de daño
+Pellaidh termina con HP:163/202
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Pellaidh HP:163/202 MP:196/196
+C-Inugami HP:214/214 MP:88/109
+D-Halphas HP:159/275 MP:54/54
+Equipo de Joker (J2)
+A-Joker HP:451/597 MP:347/347
+B-Kabuso HP:92/137 MP:131/131
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Inugami
+3-Pellaidh
+4-Halphas
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:451/597 MP:347/347
+2-Kabuso HP:92/137 MP:131/131
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Defender's Gaze MP:255
+2-Titanomachia MP:30
+3-Shock MP:21
+4-Megidolaon MP:60
+5-Life Drain MP:5
+6-Axel Claw MP:15
+7-Hades Blast MP:32
+8-Diarama MP:9
+9-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki ataca a Joker
+Joker recibe 120 de daño
+Joker termina con HP:331/597
+Itsuki ataca a Kabuso
+Kabuso recibe 120 de daño
+Kabuso termina con HP:0/137
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:383/413
+B-Pellaidh HP:163/202 MP:196/196
+C-Inugami HP:214/214 MP:88/109
+D-Halphas HP:159/275 MP:54/54
+Equipo de Joker (J2)
+A-Joker HP:331/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Pellaidh
+3-Halphas
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Joker HP:331/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:383/413
+B-Pellaidh HP:163/202 MP:196/196
+C-Inugami HP:214/214 MP:88/109
+D-Halphas HP:159/275 MP:54/54
+Equipo de Joker (J2)
+A-Joker HP:331/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pellaidh
+2-Halphas
+3-Itsuki
+4-Inugami
+----------------------------------------
+Seleccione una acción para Pellaidh
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pellaidh
+1-Joker HP:331/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Pellaidh ataca a Joker
+Joker recibe 20 de daño
+Joker termina con HP:311/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:383/413
+B-Pellaidh HP:163/202 MP:196/196
+C-Inugami HP:214/214 MP:88/109
+D-Halphas HP:159/275 MP:54/54
+Equipo de Joker (J2)
+A-Joker HP:311/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Halphas
+2-Itsuki
+3-Inugami
+4-Pellaidh
+----------------------------------------
+Seleccione una acción para Halphas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:383/413
+B-Pellaidh HP:163/202 MP:196/196
+C-Inugami HP:214/214 MP:88/109
+D-Halphas HP:159/275 MP:54/54
+Equipo de Joker (J2)
+A-Joker HP:311/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Inugami
+3-Pellaidh
+4-Halphas
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Defender's Gaze MP:255
+2-Titanomachia MP:30
+3-Shock MP:21
+4-Megidolaon MP:60
+5-Life Drain MP:5
+6-Axel Claw MP:15
+7-Hades Blast MP:32
+8-Diarama MP:9
+9-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki ataca a Joker
+Joker recibe 120 de daño
+Joker termina con HP:191/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:353/413
+B-Pellaidh HP:163/202 MP:196/196
+C-Inugami HP:214/214 MP:88/109
+D-Halphas HP:159/275 MP:54/54
+Equipo de Joker (J2)
+A-Joker HP:191/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Pellaidh
+3-Halphas
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Joker HP:191/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Inugami ataca a Joker
+Joker recibe 17 de daño
+Joker termina con HP:174/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:353/413
+B-Pellaidh HP:163/202 MP:196/196
+C-Inugami HP:214/214 MP:88/109
+D-Halphas HP:159/275 MP:54/54
+Equipo de Joker (J2)
+A-Joker HP:174/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:353/413
+B-Pellaidh HP:163/202 MP:196/196
+C-Inugami HP:214/214 MP:88/109
+D-Halphas HP:159/275 MP:54/54
+Equipo de Joker (J2)
+A-Joker HP:174/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:1136/1136 MP:353/413
+2-Pellaidh HP:163/202 MP:196/196
+3-Inugami HP:214/214 MP:88/109
+4-Halphas HP:159/275 MP:54/54
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Joker ataca a Pellaidh
+Pellaidh recibe 28 de daño
+Pellaidh termina con HP:135/202
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:353/413
+B-Pellaidh HP:135/202 MP:196/196
+C-Inugami HP:214/214 MP:88/109
+D-Halphas HP:159/275 MP:54/54
+Equipo de Joker (J2)
+A-Joker HP:174/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Inugami
+3-Pellaidh
+4-Halphas
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Defender's Gaze MP:255
+2-Titanomachia MP:30
+3-Shock MP:21
+4-Megidolaon MP:60
+5-Life Drain MP:5
+6-Axel Claw MP:15
+7-Hades Blast MP:32
+8-Diarama MP:9
+9-Cancelar
+INPUT: 1
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 3 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:98/413
+B-Pellaidh HP:135/202 MP:196/196
+C-Inugami HP:214/214 MP:88/109
+D-Halphas HP:159/275 MP:54/54
+Equipo de Joker (J2)
+A-Joker HP:174/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 3
+----------------------------------------
+Orden:
+1-Inugami
+2-Pellaidh
+3-Halphas
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Inugami use
+1-Fire Breath MP:21
+2-Rakunda MP:15
+3-Panic Voice MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Inugami lanza fuego a Joker
+Joker recibe 70 de daño
+Joker termina con HP:104/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:98/413
+B-Pellaidh HP:135/202 MP:196/196
+C-Inugami HP:214/214 MP:67/109
+D-Halphas HP:159/275 MP:54/54
+Equipo de Joker (J2)
+A-Joker HP:104/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Pellaidh
+2-Halphas
+3-Itsuki
+4-Inugami
+----------------------------------------
+Seleccione una acción para Pellaidh
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pellaidh
+1-Joker HP:104/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Pellaidh ataca a Joker
+Joker recibe 20 de daño
+Joker termina con HP:84/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:98/413
+B-Pellaidh HP:135/202 MP:196/196
+C-Inugami HP:214/214 MP:67/109
+D-Halphas HP:159/275 MP:54/54
+Equipo de Joker (J2)
+A-Joker HP:84/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Halphas
+2-Itsuki
+3-Inugami
+4-Pellaidh
+----------------------------------------
+Seleccione una acción para Halphas
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:98/413
+B-Pellaidh HP:135/202 MP:196/196
+C-Inugami HP:214/214 MP:67/109
+D-Halphas HP:159/275 MP:54/54
+Equipo de Joker (J2)
+A-Joker HP:84/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Inugami
+3-Pellaidh
+4-Halphas
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:98/413
+B-Pellaidh HP:135/202 MP:196/196
+C-Inugami HP:214/214 MP:67/109
+D-Halphas HP:159/275 MP:54/54
+Equipo de Joker (J2)
+A-Joker HP:84/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Inugami
+2-Pellaidh
+3-Halphas
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Inugami use
+1-Fire Breath MP:21
+2-Rakunda MP:15
+3-Panic Voice MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Inugami lanza fuego a Joker
+Joker recibe 70 de daño
+Inugami lanza fuego a Joker
+Joker recibe 70 de daño
+Joker termina con HP:0/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Itsuki (J1)

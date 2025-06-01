@@ -1,0 +1,220 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 12
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Erlkonig HP:671/671 MP:134/134
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Pisaca HP:454/454 MP:90/90
+C-Tenkai HP:409/409 MP:396/396
+D-Sandman HP:113/113 MP:108/108
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Erlkonig
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Trafuri MP:5
+2-Breath MP:24
+3-Megidola MP:40
+4-Titanomachia MP:30
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Itsuki HP:1136/1136 MP:413/413
+2-Pisaca HP:454/454 MP:90/90
+3-Tenkai HP:409/409 MP:396/396
+4-Sandman HP:113/113 MP:108/108
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Itsuki
+Itsuki recibe 49 de daño
+Itsuki termina con HP:1087/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Erlkonig HP:671/671 MP:134/134
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1087/1136 MP:413/413
+B-Pisaca HP:454/454 MP:90/90
+C-Tenkai HP:409/409 MP:396/396
+D-Sandman HP:113/113 MP:108/108
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Erlkonig
+2-Yu
+----------------------------------------
+Seleccione una acción para Erlkonig
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Erlkonig use
+1-Maziodyne MP:32
+2-Stun Needles MP:14
+3-Myriad Arrows MP:30
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Erlkonig
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Erlkonig HP:671/671 MP:134/134
+C-
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1087/1136 MP:413/413
+B-Pisaca HP:454/454 MP:90/90
+C-Tenkai HP:409/409 MP:396/396
+D-Sandman HP:113/113 MP:108/108
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Erlkonig
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Trafuri MP:5
+2-Breath MP:24
+3-Megidola MP:40
+4-Titanomachia MP:30
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Yu (J1) se rinde
+----------------------------------------
+Ganador: Itsuki (J2)

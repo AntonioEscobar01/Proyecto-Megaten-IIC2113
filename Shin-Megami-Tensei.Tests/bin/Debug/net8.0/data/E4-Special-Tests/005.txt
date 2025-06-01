@@ -1,0 +1,472 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+INPUT: 4
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Koppa Tengu HP:196/196 MP:88/88
+C-Bishamonten HP:700/700 MP:139/139
+D-Hel HP:254/254 MP:246/246
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bishamonten
+2-Kotone
+3-Hel
+4-Koppa Tengu
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Koppa Tengu HP:196/196 MP:88/88
+C-Bishamonten HP:700/700 MP:139/139
+D-Hel HP:254/254 MP:246/246
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Hel
+3-Koppa Tengu
+4-Bishamonten
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Koppa Tengu HP:196/196 MP:88/88
+C-Bishamonten HP:700/700 MP:139/139
+D-Hel HP:254/254 MP:246/246
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Koppa Tengu
+3-Bishamonten
+4-Kotone
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Koppa Tengu HP:196/196 MP:88/88
+C-Bishamonten HP:700/700 MP:139/139
+D-Hel HP:254/254 MP:246/246
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Koppa Tengu
+2-Bishamonten
+3-Kotone
+4-Hel
+----------------------------------------
+Seleccione una acción para Koppa Tengu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Koppa Tengu use
+1-Zanma MP:8
+2-Bad Company MP:15
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Koppa Tengu HP:196/196 MP:88/88 (Puesto 2)
+2-Bishamonten HP:700/700 MP:139/139 (Puesto 3)
+3-Hel HP:254/254 MP:246/246 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kanbari ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Kanbari HP:350/350 MP:68/68
+C-Bishamonten HP:700/700 MP:139/139
+D-Hel HP:254/254 MP:246/246
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bishamonten
+2-Kotone
+3-Hel
+4-Kanbari
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Kei HP:760/760 MP:398/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Bishamonten ataca a Kei
+Kei es resistente el ataque de Bishamonten
+Kei recibe 26 de daño
+Kei termina con HP:734/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Kanbari HP:350/350 MP:68/68
+C-Bishamonten HP:700/700 MP:139/139
+D-Hel HP:254/254 MP:246/246
+Equipo de Kei (J2)
+A-Kei HP:734/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Hel
+3-Kanbari
+4-Bishamonten
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Kei HP:734/760 MP:398/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kotone ataca a Kei
+Kei es resistente el ataque de Kotone
+Kei recibe 19 de daño
+Kei termina con HP:715/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Kanbari HP:350/350 MP:68/68
+C-Bishamonten HP:700/700 MP:139/139
+D-Hel HP:254/254 MP:246/246
+Equipo de Kei (J2)
+A-Kei HP:715/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Kotone HP:597/597 MP:347/347
+2-Kanbari HP:350/350 MP:68/68
+3-Bishamonten HP:700/700 MP:139/139
+4-Hel HP:254/254 MP:246/246
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kei ataca a Kotone
+Kotone es resistente el ataque de Kei
+Kotone recibe 9 de daño
+Kotone termina con HP:588/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:588/597 MP:347/347
+B-Kanbari HP:350/350 MP:68/68
+C-Bishamonten HP:700/700 MP:139/139
+D-Hel HP:254/254 MP:246/246
+Equipo de Kei (J2)
+A-Kei HP:715/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Bishamonten
+2-Kotone
+3-Hel
+4-Kanbari
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Kei HP:715/760 MP:398/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Bishamonten ataca a Kei
+Kei es resistente el ataque de Bishamonten
+Kei recibe 26 de daño
+Kei termina con HP:689/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:588/597 MP:347/347
+B-Kanbari HP:350/350 MP:68/68
+C-Bishamonten HP:700/700 MP:139/139
+D-Hel HP:254/254 MP:246/246
+Equipo de Kei (J2)
+A-Kei HP:689/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Hel
+3-Kanbari
+4-Bishamonten
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Kei HP:689/760 MP:398/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kotone ataca a Kei
+Kei es resistente el ataque de Kotone
+Kei recibe 19 de daño
+Kei termina con HP:670/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:588/597 MP:347/347
+B-Kanbari HP:350/350 MP:68/68
+C-Bishamonten HP:700/700 MP:139/139
+D-Hel HP:254/254 MP:246/246
+Equipo de Kei (J2)
+A-Kei HP:670/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Kanbari
+3-Bishamonten
+4-Kotone
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Kei HP:670/760 MP:398/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Hel ataca a Kei
+Kei es resistente el ataque de Hel
+Kei recibe 13 de daño
+Kei termina con HP:657/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:588/597 MP:347/347
+B-Kanbari HP:350/350 MP:68/68
+C-Bishamonten HP:700/700 MP:139/139
+D-Hel HP:254/254 MP:246/246
+Equipo de Kei (J2)
+A-Kei HP:657/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kanbari
+2-Bishamonten
+3-Kotone
+4-Hel
+----------------------------------------
+Seleccione una acción para Kanbari
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kanbari
+1-Kei HP:657/760 MP:398/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kanbari ataca a Kei
+Kei es resistente el ataque de Kanbari
+Kei recibe 12 de daño
+Kei termina con HP:645/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:588/597 MP:347/347
+B-Kanbari HP:350/350 MP:68/68
+C-Bishamonten HP:700/700 MP:139/139
+D-Hel HP:254/254 MP:246/246
+Equipo de Kei (J2)
+A-Kei HP:645/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 6
+----------------------------------------
+Kei (J2) se rinde
+----------------------------------------
+Ganador: Kotone (J1)

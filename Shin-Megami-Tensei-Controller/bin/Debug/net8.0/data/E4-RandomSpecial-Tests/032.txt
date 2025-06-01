@@ -1,0 +1,1426 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 31
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Lorelei HP:291/291 MP:283/283
+C-Dybbuk HP:66/66 MP:63/63
+D-Archangel HP:265/265 MP:52/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:999/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lorelei
+2-Archangel
+3-Tamaki
+4-Dybbuk
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Lorelei HP:291/291 MP:283/283
+C-Dybbuk HP:66/66 MP:63/63
+D-Archangel HP:265/265 MP:52/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:999/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Archangel
+2-Tamaki
+3-Dybbuk
+4-Lorelei
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Archangel
+1-Tamaki HP:999/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Archangel ataca a Tamaki
+Tamaki es resistente el ataque de Archangel
+Tamaki recibe 9 de daño
+Tamaki termina con HP:990/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Lorelei HP:291/291 MP:283/283
+C-Dybbuk HP:66/66 MP:63/63
+D-Archangel HP:265/265 MP:52/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:990/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+2-Dybbuk
+3-Lorelei
+4-Archangel
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lord Nan Dou HP:549/549 MP:108/108
+2-Asherah HP:433/433 MP:195/195
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Lorelei HP:291/291 MP:283/283 (Puesto 2)
+2-Dybbuk HP:66/66 MP:63/63 (Puesto 3)
+3-Archangel HP:265/265 MP:52/52 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Lord Nan Dou ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Lorelei HP:291/291 MP:283/283
+C-Lord Nan Dou HP:549/549 MP:108/108
+D-Archangel HP:265/265 MP:52/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:990/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Lorelei
+3-Archangel
+4-Tamaki
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Lorelei HP:291/291 MP:283/283
+C-Lord Nan Dou HP:549/549 MP:108/108
+D-Archangel HP:265/265 MP:52/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:990/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lorelei
+2-Archangel
+3-Tamaki
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Dybbuk HP:66/66 MP:63/63
+2-Asherah HP:433/433 MP:195/195
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lorelei use
+1-Mediarama MP:22
+2-Mabufula MP:20
+3-Panic Voice MP:15
+4-Makarakarn MP:50
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Lorelei cura a Tamaki
+Tamaki recibe 499 de HP
+Tamaki termina con HP:999/999
+Lorelei cura a Lord Nan Dou
+Lord Nan Dou recibe 274 de HP
+Lord Nan Dou termina con HP:549/549
+Lorelei cura a Archangel
+Archangel recibe 132 de HP
+Archangel termina con HP:265/265
+Lorelei cura a Lorelei
+Lorelei recibe 145 de HP
+Lorelei termina con HP:291/291
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Lorelei HP:291/291 MP:261/283
+C-Lord Nan Dou HP:549/549 MP:108/108
+D-Archangel HP:265/265 MP:52/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:990/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Archangel
+2-Tamaki
+3-Lord Nan Dou
+4-Lorelei
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Dybbuk HP:66/66 MP:63/63
+2-Asherah HP:433/433 MP:195/195
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Dybbuk HP:66/66 MP:63/63
+2-Asherah HP:433/433 MP:195/195
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Asherah ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Lorelei HP:291/291 MP:261/283
+C-Lord Nan Dou HP:549/549 MP:108/108
+D-Asherah HP:433/433 MP:195/195
+Equipo de Tamaki (J2)
+A-Tamaki HP:990/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Lord Nan Dou
+3-Lorelei
+4-Asherah
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Trafuri MP:5
+2-Needle Shot MP:4
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Tamaki HP:990/999 MP:542/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tamaki dispara a Tamaki
+Tamaki es resistente el ataque de Tamaki
+Tamaki recibe 17 de daño
+Tamaki termina con HP:973/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:538/542
+B-Lorelei HP:291/291 MP:261/283
+C-Lord Nan Dou HP:549/549 MP:108/108
+D-Asherah HP:433/433 MP:195/195
+Equipo de Tamaki (J2)
+A-Tamaki HP:973/999 MP:542/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Defender's Gaze MP:255
+2-Megido MP:25
+3-Dark Energy MP:25
+4-Concentrate MP:11
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 3 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:538/542
+B-Lorelei HP:291/291 MP:261/283
+C-Lord Nan Dou HP:549/549 MP:108/108
+D-Asherah HP:433/433 MP:195/195
+Equipo de Tamaki (J2)
+A-Tamaki HP:973/999 MP:287/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 3
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:538/542
+B-Lorelei HP:291/291 MP:261/283
+C-Lord Nan Dou HP:549/549 MP:108/108
+D-Asherah HP:433/433 MP:195/195
+Equipo de Tamaki (J2)
+A-Tamaki HP:973/999 MP:287/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:538/542
+B-Lorelei HP:291/291 MP:261/283
+C-Lord Nan Dou HP:549/549 MP:108/108
+D-Asherah HP:433/433 MP:195/195
+Equipo de Tamaki (J2)
+A-Tamaki HP:973/999 MP:287/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:538/542
+B-Lorelei HP:291/291 MP:261/283
+C-Lord Nan Dou HP:549/549 MP:108/108
+D-Asherah HP:433/433 MP:195/195
+Equipo de Tamaki (J2)
+A-Tamaki HP:973/999 MP:287/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Lord Nan Dou
+3-Lorelei
+4-Tamaki
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Dybbuk HP:66/66 MP:63/63
+2-Archangel HP:265/265 MP:52/52
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Tamaki HP:973/999 MP:287/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Tamaki HP:973/999 MP:287/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asherah
+1-Tamaki HP:973/999 MP:287/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:538/542
+B-Lorelei HP:291/291 MP:261/283
+C-Lord Nan Dou HP:549/549 MP:108/108
+D-Asherah HP:433/433 MP:195/195
+Equipo de Tamaki (J2)
+A-Tamaki HP:973/999 MP:287/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Lorelei
+3-Tamaki
+4-Asherah
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lord Nan Dou use
+1-Maragidyne MP:32
+2-Berserker God MP:12
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Tamaki HP:973/999 MP:287/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Dybbuk HP:66/66 MP:63/63
+2-Archangel HP:265/265 MP:52/52
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:538/542
+B-Lorelei HP:291/291 MP:261/283
+C-Lord Nan Dou HP:549/549 MP:108/108
+D-Asherah HP:433/433 MP:195/195
+Equipo de Tamaki (J2)
+A-Tamaki HP:973/999 MP:287/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lorelei
+2-Tamaki
+3-Asherah
+4-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lorelei
+1-Tamaki HP:973/999 MP:287/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lorelei use
+1-Mediarama MP:22
+2-Mabufula MP:20
+3-Panic Voice MP:15
+4-Makarakarn MP:50
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Lorelei lanza hielo a Tamaki
+Tamaki es resistente el ataque de Lorelei
+Tamaki recibe 46 de daño
+Tamaki termina con HP:927/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:538/542
+B-Lorelei HP:291/291 MP:241/283
+C-Lord Nan Dou HP:549/549 MP:108/108
+D-Asherah HP:433/433 MP:195/195
+Equipo de Tamaki (J2)
+A-Tamaki HP:927/999 MP:287/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+2-Asherah
+3-Lord Nan Dou
+4-Lorelei
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Trafuri MP:5
+2-Needle Shot MP:4
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Tamaki HP:927/999 MP:287/542
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tamaki dispara a Tamaki
+Tamaki es resistente el ataque de Tamaki
+Tamaki recibe 17 de daño
+Tamaki termina con HP:910/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:534/542
+B-Lorelei HP:291/291 MP:241/283
+C-Lord Nan Dou HP:549/549 MP:108/108
+D-Asherah HP:433/433 MP:195/195
+Equipo de Tamaki (J2)
+A-Tamaki HP:910/999 MP:287/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Lord Nan Dou
+3-Lorelei
+4-Tamaki
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Dybbuk HP:66/66 MP:63/63
+2-Archangel HP:265/265 MP:52/52
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Archangel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:534/542
+B-Lorelei HP:291/291 MP:241/283
+C-Lord Nan Dou HP:549/549 MP:108/108
+D-Archangel HP:265/265 MP:52/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:910/999 MP:287/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Lorelei
+3-Tamaki
+4-Archangel
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Tamaki HP:910/999 MP:287/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Dybbuk HP:66/66 MP:63/63
+2-Asherah HP:433/433 MP:195/195
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Asherah ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:534/542
+B-Lorelei HP:291/291 MP:241/283
+C-Asherah HP:433/433 MP:195/195
+D-Archangel HP:265/265 MP:52/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:910/999 MP:287/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Tamaki HP:999/999 MP:534/542
+2-Lorelei HP:291/291 MP:241/283
+3-Asherah HP:433/433 MP:195/195
+4-Archangel HP:265/265 MP:52/52
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Tamaki HP:999/999 MP:534/542
+2-Lorelei HP:291/291 MP:241/283
+3-Asherah HP:433/433 MP:195/195
+4-Archangel HP:265/265 MP:52/52
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tamaki ataca a Tamaki
+Tamaki es resistente el ataque de Tamaki
+Tamaki recibe 9 de daño
+Tamaki termina con HP:990/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:990/999 MP:534/542
+B-Lorelei HP:291/291 MP:241/283
+C-Asherah HP:433/433 MP:195/195
+D-Archangel HP:265/265 MP:52/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:910/999 MP:287/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Asherah
+2-Lorelei
+3-Archangel
+4-Tamaki
+----------------------------------------
+Seleccione una acción para Asherah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Dybbuk HP:66/66 MP:63/63
+2-Lord Nan Dou HP:549/549 MP:108/108
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Dybbuk ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:990/999 MP:534/542
+B-Lorelei HP:291/291 MP:241/283
+C-Dybbuk HP:66/66 MP:63/63
+D-Archangel HP:265/265 MP:52/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:910/999 MP:287/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lorelei
+2-Archangel
+3-Tamaki
+4-Dybbuk
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:990/999 MP:534/542
+B-Lorelei HP:291/291 MP:241/283
+C-Dybbuk HP:66/66 MP:63/63
+D-Archangel HP:265/265 MP:52/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:910/999 MP:287/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Archangel
+2-Tamaki
+3-Dybbuk
+4-Lorelei
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Archangel
+1-Tamaki HP:910/999 MP:287/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:990/999 MP:534/542
+B-Lorelei HP:291/291 MP:241/283
+C-Dybbuk HP:66/66 MP:63/63
+D-Archangel HP:265/265 MP:52/52
+Equipo de Tamaki (J2)
+A-Tamaki HP:910/999 MP:287/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Dybbuk
+3-Lorelei
+4-Archangel
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lord Nan Dou HP:549/549 MP:108/108
+2-Asherah HP:433/433 MP:195/195
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Lorelei HP:291/291 MP:241/283 (Puesto 2)
+2-Dybbuk HP:66/66 MP:63/63 (Puesto 3)
+3-Archangel HP:265/265 MP:52/52 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Lord Nan Dou ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:990/999 MP:534/542
+B-Lorelei HP:291/291 MP:241/283
+C-Dybbuk HP:66/66 MP:63/63
+D-Lord Nan Dou HP:549/549 MP:108/108
+Equipo de Tamaki (J2)
+A-Tamaki HP:910/999 MP:287/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dybbuk
+2-Lorelei
+3-Lord Nan Dou
+4-Tamaki
+----------------------------------------
+Seleccione una acción para Dybbuk
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Archangel HP:265/265 MP:52/52
+2-Asherah HP:433/433 MP:195/195
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Archangel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:990/999 MP:534/542
+B-Lorelei HP:291/291 MP:241/283
+C-Archangel HP:265/265 MP:52/52
+D-Lord Nan Dou HP:549/549 MP:108/108
+Equipo de Tamaki (J2)
+A-Tamaki HP:910/999 MP:287/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lorelei
+2-Lord Nan Dou
+3-Tamaki
+4-Archangel
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Dybbuk HP:66/66 MP:63/63
+2-Asherah HP:433/433 MP:195/195
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Dybbuk HP:66/66 MP:63/63
+2-Asherah HP:433/433 MP:195/195
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:990/999 MP:534/542
+B-Lorelei HP:291/291 MP:241/283
+C-Archangel HP:265/265 MP:52/52
+D-Lord Nan Dou HP:549/549 MP:108/108
+Equipo de Tamaki (J2)
+A-Tamaki HP:910/999 MP:287/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Tamaki
+3-Archangel
+4-Lorelei
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Tamaki HP:910/999 MP:287/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Dybbuk HP:66/66 MP:63/63
+2-Asherah HP:433/433 MP:195/195
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Dybbuk ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:990/999 MP:534/542
+B-Lorelei HP:291/291 MP:241/283
+C-Archangel HP:265/265 MP:52/52
+D-Dybbuk HP:66/66 MP:63/63
+Equipo de Tamaki (J2)
+A-Tamaki HP:910/999 MP:287/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Archangel
+3-Lorelei
+4-Dybbuk
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Tamaki HP:910/999 MP:287/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Trafuri MP:5
+2-Needle Shot MP:4
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:990/999 MP:534/542
+B-Lorelei HP:291/291 MP:241/283
+C-Archangel HP:265/265 MP:52/52
+D-Dybbuk HP:66/66 MP:63/63
+Equipo de Tamaki (J2)
+A-Tamaki HP:910/999 MP:287/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Tamaki HP:990/999 MP:534/542
+2-Lorelei HP:291/291 MP:241/283
+3-Archangel HP:265/265 MP:52/52
+4-Dybbuk HP:66/66 MP:63/63
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tamaki dispara a Lorelei
+Lorelei recibe 15 de daño
+Lorelei termina con HP:276/291
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:990/999 MP:534/542
+B-Lorelei HP:276/291 MP:241/283
+C-Archangel HP:265/265 MP:52/52
+D-Dybbuk HP:66/66 MP:63/63
+Equipo de Tamaki (J2)
+A-Tamaki HP:910/999 MP:287/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lorelei
+2-Archangel
+3-Tamaki
+4-Dybbuk
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lorelei use
+1-Mediarama MP:22
+2-Mabufula MP:20
+3-Panic Voice MP:15
+4-Makarakarn MP:50
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Lorelei cura a Tamaki
+Tamaki recibe 499 de HP
+Tamaki termina con HP:999/999
+Lorelei cura a Archangel
+Archangel recibe 132 de HP
+Archangel termina con HP:265/265
+Lorelei cura a Dybbuk
+Dybbuk recibe 33 de HP
+Dybbuk termina con HP:66/66
+Lorelei cura a Lorelei
+Lorelei recibe 145 de HP
+Lorelei termina con HP:291/291
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:534/542
+B-Lorelei HP:291/291 MP:219/283
+C-Archangel HP:265/265 MP:52/52
+D-Dybbuk HP:66/66 MP:63/63
+Equipo de Tamaki (J2)
+A-Tamaki HP:910/999 MP:287/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Archangel
+2-Tamaki
+3-Dybbuk
+4-Lorelei
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Archangel
+1-Tamaki HP:910/999 MP:287/542
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:534/542
+B-Lorelei HP:291/291 MP:219/283
+C-Archangel HP:265/265 MP:52/52
+D-Dybbuk HP:66/66 MP:63/63
+Equipo de Tamaki (J2)
+A-Tamaki HP:910/999 MP:287/542
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Dybbuk
+3-Lorelei
+4-Archangel
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Trafuri MP:5
+2-Needle Shot MP:4
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Tamaki (J1) se rinde
+----------------------------------------
+Ganador: Tamaki (J2)

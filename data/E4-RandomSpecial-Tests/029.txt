@@ -1,0 +1,975 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 28
+----------------------------------------
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:613/613
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Kwancha HP:160/160 MP:154/154
+C-Dis HP:188/188 MP:181/181
+D-Aniel HP:567/567 MP:255/255
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Bad Company MP:15
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Tadano HP:388/388 MP:193/193
+2-Kwancha HP:160/160 MP:154/154
+3-Dis HP:188/188 MP:181/181
+4-Aniel HP:567/567 MP:255/255
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:613/613
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Kwancha HP:160/160 MP:154/154
+C-Dis HP:188/188 MP:181/181
+D-Aniel HP:567/567 MP:255/255
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aleph
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:613/613
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Kwancha HP:160/160 MP:154/154
+C-Dis HP:188/188 MP:181/181
+D-Aniel HP:567/567 MP:255/255
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Tadano
+3-Dis
+4-Kwancha
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:613/613
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Kwancha HP:160/160 MP:154/154
+C-Dis HP:188/188 MP:181/181
+D-Aniel HP:567/567 MP:255/255
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Dis
+3-Kwancha
+4-Aniel
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Aleph HP:1309/1309 MP:613/613
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Aleph
+Aleph es resistente el ataque de Tadano
+Aleph recibe 8 de daño
+Aleph termina con HP:1301/1309
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1301/1309 MP:613/613
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Kwancha HP:160/160 MP:154/154
+C-Dis HP:188/188 MP:181/181
+D-Aniel HP:567/567 MP:255/255
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dis
+2-Kwancha
+3-Aniel
+4-Tadano
+----------------------------------------
+Seleccione una acción para Dis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Dis use
+1-Lullaby MP:11
+2-Mediarama MP:22
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Dis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Dis use
+1-Lullaby MP:11
+2-Mediarama MP:22
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Dis cura a Tadano
+Tadano recibe 194 de HP
+Tadano termina con HP:388/388
+Dis cura a Kwancha
+Kwancha recibe 80 de HP
+Kwancha termina con HP:160/160
+Dis cura a Aniel
+Aniel recibe 283 de HP
+Aniel termina con HP:567/567
+Dis cura a Dis
+Dis recibe 94 de HP
+Dis termina con HP:188/188
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1301/1309 MP:613/613
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Kwancha HP:160/160 MP:154/154
+C-Dis HP:188/188 MP:159/181
+D-Aniel HP:567/567 MP:255/255
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kwancha
+2-Aniel
+3-Tadano
+4-Dis
+----------------------------------------
+Seleccione una acción para Kwancha
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kwancha
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kwancha
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1301/1309 MP:613/613
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Kwancha HP:160/160 MP:154/154
+C-Dis HP:188/188 MP:159/181
+D-Aniel HP:567/567 MP:255/255
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aniel
+2-Tadano
+3-Dis
+4-Kwancha
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Aniel use
+1-Ziodyne MP:14
+2-Diarama MP:9
+3-Pulinpa MP:5
+4-Hamaon MP:10
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Aleph HP:1301/1309 MP:613/613
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aniel lanza electricidad a Aleph
+Aleph recibe 127 de daño
+Aleph termina con HP:1174/1309
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1174/1309 MP:613/613
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Kwancha HP:160/160 MP:154/154
+C-Dis HP:188/188 MP:159/181
+D-Aniel HP:567/567 MP:241/255
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Dis
+3-Kwancha
+4-Aniel
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Aleph HP:1174/1309 MP:613/613
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1174/1309 MP:613/613
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Kwancha HP:160/160 MP:154/154
+C-Dis HP:188/188 MP:159/181
+D-Aniel HP:567/567 MP:241/255
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Dis
+2-Kwancha
+3-Aniel
+4-Tadano
+----------------------------------------
+Seleccione una acción para Dis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dis
+1-Aleph HP:1174/1309 MP:613/613
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Dis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1174/1309 MP:613/613
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Kwancha HP:160/160 MP:154/154
+C-Dis HP:188/188 MP:159/181
+D-Aniel HP:567/567 MP:241/255
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Bad Company MP:15
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Tadano HP:388/388 MP:193/193
+2-Kwancha HP:160/160 MP:154/154
+3-Dis HP:188/188 MP:159/181
+4-Aniel HP:567/567 MP:241/255
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Aleph dispara a Aniel
+Aniel recibe 276 de daño
+Aniel termina con HP:291/567
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1174/1309 MP:613/613
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Kwancha HP:160/160 MP:154/154
+C-Dis HP:188/188 MP:159/181
+D-Aniel HP:291/567 MP:241/255
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Tadano
+3-Dis
+4-Kwancha
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Aniel use
+1-Ziodyne MP:14
+2-Diarama MP:9
+3-Pulinpa MP:5
+4-Hamaon MP:10
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Aleph HP:1174/1309 MP:613/613
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Aniel use
+1-Ziodyne MP:14
+2-Diarama MP:9
+3-Pulinpa MP:5
+4-Hamaon MP:10
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Aleph HP:1174/1309 MP:613/613
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Aleph HP:1174/1309 MP:613/613
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aniel ataca a Aleph
+Aleph es resistente el ataque de Aniel
+Aleph recibe 23 de daño
+Aleph termina con HP:1151/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1151/1309 MP:613/613
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Kwancha HP:160/160 MP:154/154
+C-Dis HP:188/188 MP:159/181
+D-Aniel HP:291/567 MP:241/255
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Dis
+3-Kwancha
+4-Aniel
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Aleph HP:1151/1309 MP:613/613
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tadano use
+1-Myriad Arrows MP:30
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Aleph HP:1151/1309 MP:613/613
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Aleph
+Aleph es resistente el ataque de Tadano
+Aleph recibe 8 de daño
+Aleph termina con HP:1143/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1143/1309 MP:613/613
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Kwancha HP:160/160 MP:154/154
+C-Dis HP:188/188 MP:159/181
+D-Aniel HP:291/567 MP:241/255
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dis
+2-Kwancha
+3-Aniel
+4-Tadano
+----------------------------------------
+Seleccione una acción para Dis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Dis use
+1-Lullaby MP:11
+2-Mediarama MP:22
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Dis cura a Tadano
+Tadano recibe 194 de HP
+Tadano termina con HP:388/388
+Dis cura a Kwancha
+Kwancha recibe 80 de HP
+Kwancha termina con HP:160/160
+Dis cura a Aniel
+Aniel recibe 283 de HP
+Aniel termina con HP:567/567
+Dis cura a Dis
+Dis recibe 94 de HP
+Dis termina con HP:188/188
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1143/1309 MP:613/613
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Kwancha HP:160/160 MP:154/154
+C-Dis HP:188/188 MP:137/181
+D-Aniel HP:567/567 MP:241/255
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kwancha
+2-Aniel
+3-Tadano
+4-Dis
+----------------------------------------
+Seleccione una acción para Kwancha
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1143/1309 MP:613/613
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Kwancha HP:160/160 MP:154/154
+C-Dis HP:188/188 MP:137/181
+D-Aniel HP:567/567 MP:241/255
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aniel
+2-Tadano
+3-Dis
+4-Kwancha
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Aniel use
+1-Ziodyne MP:14
+2-Diarama MP:9
+3-Pulinpa MP:5
+4-Hamaon MP:10
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Tadano HP:388/388 MP:193/193
+2-Kwancha HP:160/160 MP:154/154
+3-Dis HP:188/188 MP:137/181
+4-Aniel HP:567/567 MP:241/255
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Aniel cura a Kwancha
+Kwancha recibe 80 de HP
+Kwancha termina con HP:160/160
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1143/1309 MP:613/613
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Kwancha HP:160/160 MP:154/154
+C-Dis HP:188/188 MP:137/181
+D-Aniel HP:567/567 MP:232/255
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Tadano HP:388/388 MP:193/193
+2-Kwancha HP:160/160 MP:154/154
+3-Dis HP:188/188 MP:137/181
+4-Aniel HP:567/567 MP:232/255
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Aleph ataca a Dis
+Dis recibe 157 de daño
+Dis termina con HP:31/188
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1143/1309 MP:613/613
+B-
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Kwancha HP:160/160 MP:154/154
+C-Dis HP:31/188 MP:137/181
+D-Aniel HP:567/567 MP:232/255
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Tadano
+3-Dis
+4-Kwancha
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Aniel use
+1-Ziodyne MP:14
+2-Diarama MP:9
+3-Pulinpa MP:5
+4-Hamaon MP:10
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Aleph HP:1143/1309 MP:613/613
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aniel ataca con luz a Aleph
+Aleph ha sido eliminado
+Aleph termina con HP:0/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Tadano (J2)

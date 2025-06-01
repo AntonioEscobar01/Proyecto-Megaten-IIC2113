@@ -1,0 +1,1147 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 35
+----------------------------------------
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:613/613
+B-Jueyuan HP:154/154 MP:68/68
+C-Hokuto Seikun HP:348/348 MP:337/337
+D-Seth HP:898/898 MP:179/179
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Seth
+3-Hokuto Seikun
+4-Jueyuan
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Flynn HP:971/971 MP:527/527
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Flynn HP:971/971 MP:527/527
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Archangel HP:265/265 MP:52/52
+2-Pales HP:390/390 MP:378/378
+3-Ammut HP:709/709 MP:140/140
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Jueyuan HP:154/154 MP:68/68 (Puesto 2)
+2-Hokuto Seikun HP:348/348 MP:337/337 (Puesto 3)
+3-Seth HP:898/898 MP:179/179 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Defender's Gaze MP:255
+2-Recarm MP:20
+3-Ragnarok MP:35
+4-Megidola MP:40
+5-Damascus Claw MP:7
+6-Media MP:12
+7-Judgement MP:45
+8-Recarmdra MP:2
+9-Cancelar
+INPUT: 1
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 3 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:358/613
+B-Jueyuan HP:154/154 MP:68/68
+C-Hokuto Seikun HP:348/348 MP:337/337
+D-Seth HP:898/898 MP:179/179
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 3
+----------------------------------------
+Orden:
+1-Seth
+2-Hokuto Seikun
+3-Jueyuan
+4-Aleph
+----------------------------------------
+Seleccione una acción para Seth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Archangel HP:265/265 MP:52/52
+2-Pales HP:390/390 MP:378/378
+3-Ammut HP:709/709 MP:140/140
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Archangel ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:358/613
+B-Jueyuan HP:154/154 MP:68/68
+C-Hokuto Seikun HP:348/348 MP:337/337
+D-Archangel HP:265/265 MP:52/52
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Hokuto Seikun
+2-Jueyuan
+3-Aleph
+4-Archangel
+----------------------------------------
+Seleccione una acción para Hokuto Seikun
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hokuto Seikun use
+1-Glacial Blast MP:22
+2-Samarecarm MP:40
+3-Bufudyne MP:14
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hokuto Seikun
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hokuto Seikun use
+1-Glacial Blast MP:22
+2-Samarecarm MP:40
+3-Bufudyne MP:14
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hokuto Seikun
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Hokuto Seikun
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hokuto Seikun
+1-Flynn HP:971/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Hokuto Seikun ataca a Flynn
+Flynn recibe 36 de daño
+Flynn termina con HP:935/971
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:358/613
+B-Jueyuan HP:154/154 MP:68/68
+C-Hokuto Seikun HP:348/348 MP:337/337
+D-Archangel HP:265/265 MP:52/52
+Equipo de Flynn (J2)
+A-Flynn HP:935/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Jueyuan
+2-Aleph
+3-Archangel
+4-Hokuto Seikun
+----------------------------------------
+Seleccione una acción para Jueyuan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Jueyuan
+1-Flynn HP:935/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Jueyuan ataca a Flynn
+Flynn recibe 11 de daño
+Flynn termina con HP:924/971
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:358/613
+B-Jueyuan HP:154/154 MP:68/68
+C-Hokuto Seikun HP:348/348 MP:337/337
+D-Archangel HP:265/265 MP:52/52
+Equipo de Flynn (J2)
+A-Flynn HP:924/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Archangel
+3-Hokuto Seikun
+4-Jueyuan
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Defender's Gaze MP:255
+2-Recarm MP:20
+3-Ragnarok MP:35
+4-Megidola MP:40
+5-Damascus Claw MP:7
+6-Media MP:12
+7-Judgement MP:45
+8-Recarmdra MP:2
+9-Cancelar
+INPUT: 9
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Seth HP:898/898 MP:179/179
+2-Pales HP:390/390 MP:378/378
+3-Ammut HP:709/709 MP:140/140
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Jueyuan HP:154/154 MP:68/68 (Puesto 2)
+2-Hokuto Seikun HP:348/348 MP:337/337 (Puesto 3)
+3-Archangel HP:265/265 MP:52/52 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Pales ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:358/613
+B-Jueyuan HP:154/154 MP:68/68
+C-Hokuto Seikun HP:348/348 MP:337/337
+D-Pales HP:390/390 MP:378/378
+Equipo de Flynn (J2)
+A-Flynn HP:924/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pales
+2-Hokuto Seikun
+3-Jueyuan
+4-Aleph
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:358/613
+B-Jueyuan HP:154/154 MP:68/68
+C-Hokuto Seikun HP:348/348 MP:337/337
+D-Pales HP:390/390 MP:378/378
+Equipo de Flynn (J2)
+A-Flynn HP:924/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hokuto Seikun
+2-Jueyuan
+3-Aleph
+4-Pales
+----------------------------------------
+Seleccione una acción para Hokuto Seikun
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hokuto Seikun
+1-Flynn HP:924/971 MP:527/527
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hokuto Seikun
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:358/613
+B-Jueyuan HP:154/154 MP:68/68
+C-Hokuto Seikun HP:348/348 MP:337/337
+D-Pales HP:390/390 MP:378/378
+Equipo de Flynn (J2)
+A-Flynn HP:924/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Jueyuan
+2-Aleph
+3-Pales
+4-Hokuto Seikun
+----------------------------------------
+Seleccione una acción para Jueyuan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Jueyuan
+1-Flynn HP:924/971 MP:527/527
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Jueyuan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Jueyuan use
+1-Poison Claw MP:9
+2-Agi MP:5
+3-Posumudi MP:5
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Jueyuan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Jueyuan
+1-Flynn HP:924/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Jueyuan ataca a Flynn
+Flynn recibe 11 de daño
+Flynn termina con HP:913/971
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:358/613
+B-Jueyuan HP:154/154 MP:68/68
+C-Hokuto Seikun HP:348/348 MP:337/337
+D-Pales HP:390/390 MP:378/378
+Equipo de Flynn (J2)
+A-Flynn HP:913/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Pales
+3-Hokuto Seikun
+4-Jueyuan
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Defender's Gaze MP:255
+2-Recarm MP:20
+3-Ragnarok MP:35
+4-Megidola MP:40
+5-Damascus Claw MP:7
+6-Media MP:12
+7-Judgement MP:45
+8-Recarmdra MP:2
+9-Cancelar
+INPUT: 7
+----------------------------------------
+Aleph lanza un ataque todo poderoso a Flynn
+Flynn recibe 110 de daño
+Flynn termina con HP:803/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:313/613
+B-Jueyuan HP:154/154 MP:68/68
+C-Hokuto Seikun HP:348/348 MP:337/337
+D-Pales HP:390/390 MP:378/378
+Equipo de Flynn (J2)
+A-Flynn HP:803/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Aleph HP:1309/1309 MP:313/613
+2-Jueyuan HP:154/154 MP:68/68
+3-Hokuto Seikun HP:348/348 MP:337/337
+4-Pales HP:390/390 MP:378/378
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Aleph
+Aleph bloquea el ataque de Flynn
+Aleph termina con HP:1309/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:313/613
+B-Jueyuan HP:154/154 MP:68/68
+C-Hokuto Seikun HP:348/348 MP:337/337
+D-Pales HP:390/390 MP:378/378
+Equipo de Flynn (J2)
+A-Flynn HP:803/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Pales
+3-Hokuto Seikun
+4-Jueyuan
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Defender's Gaze MP:255
+2-Recarm MP:20
+3-Ragnarok MP:35
+4-Megidola MP:40
+5-Damascus Claw MP:7
+6-Media MP:12
+7-Judgement MP:45
+8-Recarmdra MP:2
+9-Cancelar
+INPUT: 3
+----------------------------------------
+Aleph lanza fuego a Flynn
+Flynn recibe 154 de daño
+Aleph lanza fuego a Flynn
+Flynn recibe 154 de daño
+Aleph lanza fuego a Flynn
+Flynn recibe 154 de daño
+Flynn termina con HP:341/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:278/613
+B-Jueyuan HP:154/154 MP:68/68
+C-Hokuto Seikun HP:348/348 MP:337/337
+D-Pales HP:390/390 MP:378/378
+Equipo de Flynn (J2)
+A-Flynn HP:341/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pales
+2-Hokuto Seikun
+3-Jueyuan
+4-Aleph
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pales use
+1-Mamudoon MP:30
+2-Pandemic Bomb MP:11
+3-Dekaja MP:10
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Pales ataca con oscuridad a Flynn
+Flynn bloquea el ataque de Pales
+Flynn termina con HP:341/971
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:278/613
+B-Jueyuan HP:154/154 MP:68/68
+C-Hokuto Seikun HP:348/348 MP:337/337
+D-Pales HP:390/390 MP:348/378
+Equipo de Flynn (J2)
+A-Flynn HP:341/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hokuto Seikun
+2-Jueyuan
+3-Aleph
+4-Pales
+----------------------------------------
+Seleccione una acción para Hokuto Seikun
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hokuto Seikun
+1-Flynn HP:341/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Hokuto Seikun ataca a Flynn
+Flynn recibe 36 de daño
+Flynn termina con HP:305/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:278/613
+B-Jueyuan HP:154/154 MP:68/68
+C-Hokuto Seikun HP:348/348 MP:337/337
+D-Pales HP:390/390 MP:348/378
+Equipo de Flynn (J2)
+A-Flynn HP:305/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Aleph HP:1309/1309 MP:278/613
+2-Jueyuan HP:154/154 MP:68/68
+3-Hokuto Seikun HP:348/348 MP:337/337
+4-Pales HP:390/390 MP:348/378
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Flynn dispara a Hokuto Seikun
+Hokuto Seikun recibe 110 de daño
+Hokuto Seikun termina con HP:238/348
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:278/613
+B-Jueyuan HP:154/154 MP:68/68
+C-Hokuto Seikun HP:238/348 MP:337/337
+D-Pales HP:390/390 MP:348/378
+Equipo de Flynn (J2)
+A-Flynn HP:305/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Pales
+3-Hokuto Seikun
+4-Jueyuan
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Defender's Gaze MP:255
+2-Recarm MP:20
+3-Ragnarok MP:35
+4-Megidola MP:40
+5-Damascus Claw MP:7
+6-Media MP:12
+7-Judgement MP:45
+8-Recarmdra MP:2
+9-Cancelar
+INPUT: 7
+----------------------------------------
+Aleph lanza un ataque todo poderoso a Flynn
+Flynn recibe 110 de daño
+Flynn termina con HP:195/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:233/613
+B-Jueyuan HP:154/154 MP:68/68
+C-Hokuto Seikun HP:238/348 MP:337/337
+D-Pales HP:390/390 MP:348/378
+Equipo de Flynn (J2)
+A-Flynn HP:195/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pales
+2-Hokuto Seikun
+3-Jueyuan
+4-Aleph
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pales
+1-Flynn HP:195/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Pales ataca a Flynn
+Flynn recibe 41 de daño
+Flynn termina con HP:154/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:233/613
+B-Jueyuan HP:154/154 MP:68/68
+C-Hokuto Seikun HP:238/348 MP:337/337
+D-Pales HP:390/390 MP:348/378
+Equipo de Flynn (J2)
+A-Flynn HP:154/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hokuto Seikun
+2-Jueyuan
+3-Aleph
+4-Pales
+----------------------------------------
+Seleccione una acción para Hokuto Seikun
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:233/613
+B-Jueyuan HP:154/154 MP:68/68
+C-Hokuto Seikun HP:238/348 MP:337/337
+D-Pales HP:390/390 MP:348/378
+Equipo de Flynn (J2)
+A-Flynn HP:154/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Jueyuan
+2-Aleph
+3-Pales
+4-Hokuto Seikun
+----------------------------------------
+Seleccione una acción para Jueyuan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Seth HP:898/898 MP:179/179
+2-Archangel HP:265/265 MP:52/52
+3-Ammut HP:709/709 MP:140/140
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Ammut ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:233/613
+B-Ammut HP:709/709 MP:140/140
+C-Hokuto Seikun HP:238/348 MP:337/337
+D-Pales HP:390/390 MP:348/378
+Equipo de Flynn (J2)
+A-Flynn HP:154/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Pales
+3-Hokuto Seikun
+4-Ammut
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Jueyuan HP:154/154 MP:68/68
+2-Seth HP:898/898 MP:179/179
+3-Archangel HP:265/265 MP:52/52
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Ammut HP:709/709 MP:140/140 (Puesto 2)
+2-Hokuto Seikun HP:238/348 MP:337/337 (Puesto 3)
+3-Pales HP:390/390 MP:348/378 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seth ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:233/613
+B-Seth HP:898/898 MP:179/179
+C-Hokuto Seikun HP:238/348 MP:337/337
+D-Pales HP:390/390 MP:348/378
+Equipo de Flynn (J2)
+A-Flynn HP:154/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pales
+2-Hokuto Seikun
+3-Seth
+4-Aleph
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pales
+1-Flynn HP:154/971 MP:527/527
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pales
+1-Flynn HP:154/971 MP:527/527
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pales use
+1-Mamudoon MP:30
+2-Pandemic Bomb MP:11
+3-Dekaja MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:233/613
+B-Seth HP:898/898 MP:179/179
+C-Hokuto Seikun HP:238/348 MP:337/337
+D-Pales HP:390/390 MP:348/378
+Equipo de Flynn (J2)
+A-Flynn HP:154/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Aleph HP:1309/1309 MP:233/613
+2-Seth HP:898/898 MP:179/179
+3-Hokuto Seikun HP:238/348 MP:337/337
+4-Pales HP:390/390 MP:348/378
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn ataca a Seth
+Seth recibe 88 de daño
+Seth termina con HP:810/898
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:233/613
+B-Seth HP:810/898 MP:179/179
+C-Hokuto Seikun HP:238/348 MP:337/337
+D-Pales HP:390/390 MP:348/378
+Equipo de Flynn (J2)
+A-Flynn HP:154/971 MP:527/527
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Seth
+3-Pales
+4-Hokuto Seikun
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Flynn HP:154/971 MP:527/527
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph dispara a Flynn
+Flynn recibe 276 de daño
+Flynn termina con HP:0/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Aleph (J1)

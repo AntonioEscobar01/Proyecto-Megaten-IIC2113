@@ -1,0 +1,4833 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 18
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Apis HP:265/265 MP:52/52
+C-Peri HP:483/483 MP:216/216
+D-Chupacabra HP:217/217 MP:97/97
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Magatsuhi HP:851/851 MP:170/170
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Makoto
+3-Chupacabra
+4-Apis
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Itsuki HP:1136/1136 MP:413/413
+2-Magatsuhi HP:851/851 MP:170/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Peri ataca a Itsuki
+Itsuki recibe 40 de daño
+Itsuki termina con HP:1096/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Apis HP:265/265 MP:52/52
+C-Peri HP:483/483 MP:216/216
+D-Chupacabra HP:217/217 MP:97/97
+Equipo de Itsuki (J2)
+A-Itsuki HP:1096/1136 MP:413/413
+B-Magatsuhi HP:851/851 MP:170/170
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Chupacabra
+3-Apis
+4-Peri
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:1096/1136 MP:413/413
+2-Magatsuhi HP:851/851 MP:170/170
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Makoto dispara a Magatsuhi
+Magatsuhi recibe 57 de daño
+Magatsuhi termina con HP:794/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Apis HP:265/265 MP:52/52
+C-Peri HP:483/483 MP:216/216
+D-Chupacabra HP:217/217 MP:97/97
+Equipo de Itsuki (J2)
+A-Itsuki HP:1096/1136 MP:413/413
+B-Magatsuhi HP:794/851 MP:170/170
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chupacabra
+2-Apis
+3-Peri
+4-Makoto
+----------------------------------------
+Seleccione una acción para Chupacabra
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mushussu HP:399/399 MP:179/179
+2-Strix HP:189/189 MP:85/85
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Strix ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Apis HP:265/265 MP:52/52
+C-Peri HP:483/483 MP:216/216
+D-Strix HP:189/189 MP:85/85
+Equipo de Itsuki (J2)
+A-Itsuki HP:1096/1136 MP:413/413
+B-Magatsuhi HP:794/851 MP:170/170
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Apis
+2-Peri
+3-Makoto
+4-Strix
+----------------------------------------
+Seleccione una acción para Apis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chupacabra HP:217/217 MP:97/97
+2-Mushussu HP:399/399 MP:179/179
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Apis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Apis HP:265/265 MP:52/52
+C-Peri HP:483/483 MP:216/216
+D-Strix HP:189/189 MP:85/85
+Equipo de Itsuki (J2)
+A-Itsuki HP:1096/1136 MP:413/413
+B-Magatsuhi HP:794/851 MP:170/170
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Makoto
+3-Strix
+4-Apis
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Peri use
+1-Diarahan MP:16
+2-Me Patra MP:15
+3-Panic Voice MP:15
+4-Maragidyne MP:32
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Peri lanza fuego a Itsuki
+Itsuki es débil contra el ataque de Peri
+Itsuki recibe 162 de daño
+Itsuki termina con HP:934/1136
+Peri lanza fuego a Magatsuhi
+Magatsuhi es débil contra el ataque de Peri
+Magatsuhi recibe 162 de daño
+Magatsuhi termina con HP:632/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Apis HP:265/265 MP:52/52
+C-Peri HP:483/483 MP:184/216
+D-Strix HP:189/189 MP:85/85
+Equipo de Itsuki (J2)
+A-Itsuki HP:934/1136 MP:413/413
+B-Magatsuhi HP:632/851 MP:170/170
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Strix
+3-Apis
+4-Peri
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Apis HP:265/265 MP:52/52
+C-Peri HP:483/483 MP:184/216
+D-Strix HP:189/189 MP:85/85
+Equipo de Itsuki (J2)
+A-Itsuki HP:934/1136 MP:413/413
+B-Magatsuhi HP:632/851 MP:170/170
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Makoto HP:597/597 MP:347/347
+2-Apis HP:265/265 MP:52/52
+3-Peri HP:483/483 MP:184/216
+4-Strix HP:189/189 MP:85/85
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Magatsuhi lanza hielo a Apis
+Apis recibe 124 de daño
+Apis termina con HP:141/265
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Apis HP:141/265 MP:52/52
+C-Peri HP:483/483 MP:184/216
+D-Strix HP:189/189 MP:85/85
+Equipo de Itsuki (J2)
+A-Itsuki HP:934/1136 MP:413/413
+B-Magatsuhi HP:632/851 MP:156/170
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Defender's Gaze MP:255
+2-Concentrate MP:11
+3-Refrigerate MP:26
+4-Hama MP:6
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki ha cargado su siguiente ataque mágico a más del doble
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Apis HP:141/265 MP:52/52
+C-Peri HP:483/483 MP:184/216
+D-Strix HP:189/189 MP:85/85
+Equipo de Itsuki (J2)
+A-Itsuki HP:934/1136 MP:402/413
+B-Magatsuhi HP:632/851 MP:156/170
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Makoto
+3-Apis
+4-Strix
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chupacabra HP:217/217 MP:97/97
+2-Mushussu HP:399/399 MP:179/179
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Mushussu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Apis HP:141/265 MP:52/52
+C-Mushussu HP:399/399 MP:179/179
+D-Strix HP:189/189 MP:85/85
+Equipo de Itsuki (J2)
+A-Itsuki HP:934/1136 MP:402/413
+B-Magatsuhi HP:632/851 MP:156/170
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Apis
+3-Strix
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:934/1136 MP:402/413
+2-Magatsuhi HP:632/851 MP:156/170
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Makoto dispara a Magatsuhi
+Magatsuhi recibe 57 de daño
+Magatsuhi termina con HP:575/851
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Apis HP:141/265 MP:52/52
+C-Mushussu HP:399/399 MP:179/179
+D-Strix HP:189/189 MP:85/85
+Equipo de Itsuki (J2)
+A-Itsuki HP:934/1136 MP:402/413
+B-Magatsuhi HP:575/851 MP:156/170
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Apis
+2-Strix
+3-Mushussu
+4-Makoto
+----------------------------------------
+Seleccione una acción para Apis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Apis use
+1-Tetraja MP:15
+2-Media MP:12
+3-Mazio MP:11
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Apis cura a Makoto
+Makoto recibe 149 de HP
+Makoto termina con HP:597/597
+Apis cura a Mushussu
+Mushussu recibe 99 de HP
+Mushussu termina con HP:399/399
+Apis cura a Strix
+Strix recibe 47 de HP
+Strix termina con HP:189/189
+Apis cura a Apis
+Apis recibe 66 de HP
+Apis termina con HP:207/265
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Apis HP:207/265 MP:40/52
+C-Mushussu HP:399/399 MP:179/179
+D-Strix HP:189/189 MP:85/85
+Equipo de Itsuki (J2)
+A-Itsuki HP:934/1136 MP:402/413
+B-Magatsuhi HP:575/851 MP:156/170
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Strix
+2-Mushussu
+3-Makoto
+4-Apis
+----------------------------------------
+Seleccione una acción para Strix
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Strix
+1-Itsuki HP:934/1136 MP:402/413
+2-Magatsuhi HP:575/851 MP:156/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Strix ataca a Itsuki
+Itsuki recibe 14 de daño
+Itsuki termina con HP:920/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Apis HP:207/265 MP:40/52
+C-Mushussu HP:399/399 MP:179/179
+D-Strix HP:189/189 MP:85/85
+Equipo de Itsuki (J2)
+A-Itsuki HP:920/1136 MP:402/413
+B-Magatsuhi HP:575/851 MP:156/170
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Makoto
+3-Apis
+4-Strix
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mushussu use
+1-Ziodyne MP:14
+2-Posumudi MP:5
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Itsuki HP:920/1136 MP:402/413
+2-Magatsuhi HP:575/851 MP:156/170
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Mushussu ataca a Magatsuhi
+Magatsuhi recibe 107 de daño
+Mushussu ataca a Magatsuhi
+Magatsuhi recibe 107 de daño
+Mushussu ataca a Magatsuhi
+Magatsuhi recibe 107 de daño
+Magatsuhi termina con HP:254/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Apis HP:207/265 MP:40/52
+C-Mushussu HP:399/399 MP:164/179
+D-Strix HP:189/189 MP:85/85
+Equipo de Itsuki (J2)
+A-Itsuki HP:920/1136 MP:402/413
+B-Magatsuhi HP:254/851 MP:156/170
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Makoto HP:597/597 MP:347/347
+2-Apis HP:207/265 MP:40/52
+3-Mushussu HP:399/399 MP:164/179
+4-Strix HP:189/189 MP:85/85
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Magatsuhi ataca a Apis
+Apis recibe 65 de daño
+Apis termina con HP:142/265
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Apis HP:142/265 MP:40/52
+C-Mushussu HP:399/399 MP:164/179
+D-Strix HP:189/189 MP:85/85
+Equipo de Itsuki (J2)
+A-Itsuki HP:920/1136 MP:402/413
+B-Magatsuhi HP:254/851 MP:156/170
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Apis HP:142/265 MP:40/52
+C-Mushussu HP:399/399 MP:164/179
+D-Strix HP:189/189 MP:85/85
+Equipo de Itsuki (J2)
+A-Itsuki HP:920/1136 MP:402/413
+B-Magatsuhi HP:254/851 MP:156/170
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Makoto HP:597/597 MP:347/347
+2-Apis HP:142/265 MP:40/52
+3-Mushussu HP:399/399 MP:164/179
+4-Strix HP:189/189 MP:85/85
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Magatsuhi ataca a Strix
+Strix recibe 65 de daño
+Strix termina con HP:124/189
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Apis HP:142/265 MP:40/52
+C-Mushussu HP:399/399 MP:164/179
+D-Strix HP:124/189 MP:85/85
+Equipo de Itsuki (J2)
+A-Itsuki HP:920/1136 MP:402/413
+B-Magatsuhi HP:254/851 MP:156/170
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Mushussu
+3-Apis
+4-Strix
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:920/1136 MP:402/413
+2-Magatsuhi HP:254/851 MP:156/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca a Itsuki
+Itsuki recibe 38 de daño
+Itsuki termina con HP:882/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Apis HP:142/265 MP:40/52
+C-Mushussu HP:399/399 MP:164/179
+D-Strix HP:124/189 MP:85/85
+Equipo de Itsuki (J2)
+A-Itsuki HP:882/1136 MP:402/413
+B-Magatsuhi HP:254/851 MP:156/170
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Apis
+3-Strix
+4-Makoto
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Peri HP:483/483 MP:184/216
+2-Chupacabra HP:217/217 MP:97/97
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Chupacabra ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Apis HP:142/265 MP:40/52
+C-Chupacabra HP:217/217 MP:97/97
+D-Strix HP:124/189 MP:85/85
+Equipo de Itsuki (J2)
+A-Itsuki HP:882/1136 MP:402/413
+B-Magatsuhi HP:254/851 MP:156/170
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Apis
+2-Strix
+3-Makoto
+4-Chupacabra
+----------------------------------------
+Seleccione una acción para Apis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Apis
+1-Itsuki HP:882/1136 MP:402/413
+2-Magatsuhi HP:254/851 MP:156/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Apis ataca a Itsuki
+Itsuki recibe 18 de daño
+Itsuki termina con HP:864/1136
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Apis HP:142/265 MP:40/52
+C-Chupacabra HP:217/217 MP:97/97
+D-Strix HP:124/189 MP:85/85
+Equipo de Itsuki (J2)
+A-Itsuki HP:864/1136 MP:402/413
+B-Magatsuhi HP:254/851 MP:156/170
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Strix
+2-Makoto
+3-Chupacabra
+4-Apis
+----------------------------------------
+Seleccione una acción para Strix
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Strix
+1-Itsuki HP:864/1136 MP:402/413
+2-Magatsuhi HP:254/851 MP:156/170
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Strix
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Strix use
+1-Spirit Drain MP:5
+2-Bouncing Claw MP:4
+3-Tarunda MP:15
+4-Mabufu MP:11
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Strix lanza hielo a Itsuki
+Itsuki recibe 37 de daño
+Itsuki termina con HP:827/1136
+Strix lanza hielo a Magatsuhi
+Magatsuhi devuelve 37 daño a Strix
+Strix termina con HP:87/189
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Apis HP:142/265 MP:40/52
+C-Chupacabra HP:217/217 MP:97/97
+D-Strix HP:87/189 MP:74/85
+Equipo de Itsuki (J2)
+A-Itsuki HP:827/1136 MP:402/413
+B-Magatsuhi HP:254/851 MP:156/170
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Makoto HP:597/597 MP:347/347
+2-Apis HP:142/265 MP:40/52
+3-Chupacabra HP:217/217 MP:97/97
+4-Strix HP:87/189 MP:74/85
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Magatsuhi ataca a Makoto
+Makoto es resistente el ataque de Magatsuhi
+Makoto recibe 32 de daño
+Makoto termina con HP:565/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:347/347
+B-Apis HP:142/265 MP:40/52
+C-Chupacabra HP:217/217 MP:97/97
+D-Strix HP:87/189 MP:74/85
+Equipo de Itsuki (J2)
+A-Itsuki HP:827/1136 MP:402/413
+B-Magatsuhi HP:254/851 MP:156/170
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Defender's Gaze MP:255
+2-Concentrate MP:11
+3-Refrigerate MP:26
+4-Hama MP:6
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki ha cargado su siguiente ataque mágico a más del doble
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:347/347
+B-Apis HP:142/265 MP:40/52
+C-Chupacabra HP:217/217 MP:97/97
+D-Strix HP:87/189 MP:74/85
+Equipo de Itsuki (J2)
+A-Itsuki HP:827/1136 MP:391/413
+B-Magatsuhi HP:254/851 MP:156/170
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Chupacabra
+3-Apis
+4-Strix
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:827/1136 MP:391/413
+2-Magatsuhi HP:254/851 MP:156/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca a Itsuki
+Itsuki recibe 38 de daño
+Itsuki termina con HP:789/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:347/347
+B-Apis HP:142/265 MP:40/52
+C-Chupacabra HP:217/217 MP:97/97
+D-Strix HP:87/189 MP:74/85
+Equipo de Itsuki (J2)
+A-Itsuki HP:789/1136 MP:391/413
+B-Magatsuhi HP:254/851 MP:156/170
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chupacabra
+2-Apis
+3-Strix
+4-Makoto
+----------------------------------------
+Seleccione una acción para Chupacabra
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chupacabra
+1-Itsuki HP:789/1136 MP:391/413
+2-Magatsuhi HP:254/851 MP:156/170
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Chupacabra
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chupacabra
+1-Itsuki HP:789/1136 MP:391/413
+2-Magatsuhi HP:254/851 MP:156/170
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Chupacabra ataca a Magatsuhi
+Magatsuhi recibe 16 de daño
+Magatsuhi termina con HP:238/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:347/347
+B-Apis HP:142/265 MP:40/52
+C-Chupacabra HP:217/217 MP:97/97
+D-Strix HP:87/189 MP:74/85
+Equipo de Itsuki (J2)
+A-Itsuki HP:789/1136 MP:391/413
+B-Magatsuhi HP:238/851 MP:156/170
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Apis
+2-Strix
+3-Makoto
+4-Chupacabra
+----------------------------------------
+Seleccione una acción para Apis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Apis use
+1-Tetraja MP:15
+2-Media MP:12
+3-Mazio MP:11
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Apis lanza electricidad a Itsuki
+Itsuki absorbe 35 daño
+Itsuki termina con HP:824/1136
+Apis lanza electricidad a Magatsuhi
+Magatsuhi bloquea el ataque de Apis
+Magatsuhi termina con HP:238/851
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:347/347
+B-Apis HP:142/265 MP:29/52
+C-Chupacabra HP:217/217 MP:97/97
+D-Strix HP:87/189 MP:74/85
+Equipo de Itsuki (J2)
+A-Itsuki HP:824/1136 MP:391/413
+B-Magatsuhi HP:238/851 MP:156/170
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Makoto HP:565/597 MP:347/347
+2-Apis HP:142/265 MP:29/52
+3-Chupacabra HP:217/217 MP:97/97
+4-Strix HP:87/189 MP:74/85
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:347/347
+B-Apis HP:142/265 MP:29/52
+C-Chupacabra HP:217/217 MP:97/97
+D-Strix HP:87/189 MP:74/85
+Equipo de Itsuki (J2)
+A-Itsuki HP:824/1136 MP:391/413
+B-Magatsuhi HP:238/851 MP:156/170
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:347/347
+B-Apis HP:142/265 MP:29/52
+C-Chupacabra HP:217/217 MP:97/97
+D-Strix HP:87/189 MP:74/85
+Equipo de Itsuki (J2)
+A-Itsuki HP:824/1136 MP:391/413
+B-Magatsuhi HP:238/851 MP:156/170
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Makoto HP:565/597 MP:347/347
+2-Apis HP:142/265 MP:29/52
+3-Chupacabra HP:217/217 MP:97/97
+4-Strix HP:87/189 MP:74/85
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Magatsuhi ataca a Chupacabra
+Chupacabra recibe 65 de daño
+Chupacabra termina con HP:152/217
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:347/347
+B-Apis HP:142/265 MP:29/52
+C-Chupacabra HP:152/217 MP:97/97
+D-Strix HP:87/189 MP:74/85
+Equipo de Itsuki (J2)
+A-Itsuki HP:824/1136 MP:391/413
+B-Magatsuhi HP:238/851 MP:156/170
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Chupacabra
+3-Apis
+4-Strix
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Defender's Gaze MP:255
+2-Needle Shot MP:4
+3-Ziodyne MP:14
+4-Hades Blast MP:32
+5-Charge MP:9
+6-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:824/1136 MP:391/413
+2-Magatsuhi HP:238/851 MP:156/170
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Makoto lanza electricidad a Magatsuhi
+Magatsuhi bloquea el ataque de Makoto
+Magatsuhi termina con HP:238/851
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:333/347
+B-Apis HP:142/265 MP:29/52
+C-Chupacabra HP:152/217 MP:97/97
+D-Strix HP:87/189 MP:74/85
+Equipo de Itsuki (J2)
+A-Itsuki HP:824/1136 MP:391/413
+B-Magatsuhi HP:238/851 MP:156/170
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chupacabra
+2-Apis
+3-Strix
+4-Makoto
+----------------------------------------
+Seleccione una acción para Chupacabra
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:333/347
+B-Apis HP:142/265 MP:29/52
+C-Chupacabra HP:152/217 MP:97/97
+D-Strix HP:87/189 MP:74/85
+Equipo de Itsuki (J2)
+A-Itsuki HP:824/1136 MP:391/413
+B-Magatsuhi HP:238/851 MP:156/170
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Apis
+2-Strix
+3-Makoto
+4-Chupacabra
+----------------------------------------
+Seleccione una acción para Apis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Apis use
+1-Tetraja MP:15
+2-Media MP:12
+3-Mazio MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Apis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Apis use
+1-Tetraja MP:15
+2-Media MP:12
+3-Mazio MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Apis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Peri HP:483/483 MP:184/216
+2-Mushussu HP:399/399 MP:164/179
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Peri ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:333/347
+B-Peri HP:483/483 MP:184/216
+C-Chupacabra HP:152/217 MP:97/97
+D-Strix HP:87/189 MP:74/85
+Equipo de Itsuki (J2)
+A-Itsuki HP:824/1136 MP:391/413
+B-Magatsuhi HP:238/851 MP:156/170
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Strix
+2-Makoto
+3-Chupacabra
+4-Peri
+----------------------------------------
+Seleccione una acción para Strix
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Apis HP:142/265 MP:29/52
+2-Mushussu HP:399/399 MP:164/179
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Apis ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:333/347
+B-Peri HP:483/483 MP:184/216
+C-Chupacabra HP:152/217 MP:97/97
+D-Apis HP:142/265 MP:29/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:824/1136 MP:391/413
+B-Magatsuhi HP:238/851 MP:156/170
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Chupacabra
+3-Peri
+4-Apis
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mushussu HP:399/399 MP:164/179
+2-Strix HP:87/189 MP:74/85
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:824/1136 MP:391/413
+2-Magatsuhi HP:238/851 MP:156/170
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mushussu HP:399/399 MP:164/179
+2-Strix HP:87/189 MP:74/85
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mushussu HP:399/399 MP:164/179
+2-Strix HP:87/189 MP:74/85
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Peri HP:483/483 MP:184/216 (Puesto 2)
+2-Chupacabra HP:152/217 MP:97/97 (Puesto 3)
+3-Apis HP:142/265 MP:29/52 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:333/347
+B-Mushussu HP:399/399 MP:164/179
+C-Chupacabra HP:152/217 MP:97/97
+D-Apis HP:142/265 MP:29/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:824/1136 MP:391/413
+B-Magatsuhi HP:238/851 MP:156/170
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Makoto HP:565/597 MP:333/347
+2-Mushussu HP:399/399 MP:164/179
+3-Chupacabra HP:152/217 MP:97/97
+4-Apis HP:142/265 MP:29/52
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Magatsuhi lanza hielo a Chupacabra
+Chupacabra recibe 124 de daño
+Chupacabra termina con HP:28/217
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:333/347
+B-Mushussu HP:399/399 MP:164/179
+C-Chupacabra HP:28/217 MP:97/97
+D-Apis HP:142/265 MP:29/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:824/1136 MP:391/413
+B-Magatsuhi HP:238/851 MP:142/170
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:333/347
+B-Mushussu HP:399/399 MP:164/179
+C-Chupacabra HP:28/217 MP:97/97
+D-Apis HP:142/265 MP:29/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:824/1136 MP:391/413
+B-Magatsuhi HP:238/851 MP:142/170
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:333/347
+B-Mushussu HP:399/399 MP:164/179
+C-Chupacabra HP:28/217 MP:97/97
+D-Apis HP:142/265 MP:29/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:824/1136 MP:391/413
+B-Magatsuhi HP:238/851 MP:142/170
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Mushussu
+3-Chupacabra
+4-Apis
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:824/1136 MP:391/413
+2-Magatsuhi HP:238/851 MP:142/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca a Itsuki
+Itsuki recibe 38 de daño
+Itsuki termina con HP:786/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:333/347
+B-Mushussu HP:399/399 MP:164/179
+C-Chupacabra HP:28/217 MP:97/97
+D-Apis HP:142/265 MP:29/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:786/1136 MP:391/413
+B-Magatsuhi HP:238/851 MP:142/170
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Chupacabra
+3-Apis
+4-Makoto
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Peri HP:483/483 MP:184/216
+2-Strix HP:87/189 MP:74/85
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Strix ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:333/347
+B-Strix HP:87/189 MP:74/85
+C-Chupacabra HP:28/217 MP:97/97
+D-Apis HP:142/265 MP:29/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:786/1136 MP:391/413
+B-Magatsuhi HP:238/851 MP:142/170
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Chupacabra
+2-Apis
+3-Makoto
+4-Strix
+----------------------------------------
+Seleccione una acción para Chupacabra
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:333/347
+B-Strix HP:87/189 MP:74/85
+C-Chupacabra HP:28/217 MP:97/97
+D-Apis HP:142/265 MP:29/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:786/1136 MP:391/413
+B-Magatsuhi HP:238/851 MP:142/170
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Apis
+2-Makoto
+3-Strix
+4-Chupacabra
+----------------------------------------
+Seleccione una acción para Apis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Apis
+1-Itsuki HP:786/1136 MP:391/413
+2-Magatsuhi HP:238/851 MP:142/170
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Apis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Apis use
+1-Tetraja MP:15
+2-Media MP:12
+3-Mazio MP:11
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Apis lanza electricidad a Itsuki
+Itsuki absorbe 35 daño
+Itsuki termina con HP:821/1136
+Apis lanza electricidad a Magatsuhi
+Magatsuhi bloquea el ataque de Apis
+Magatsuhi termina con HP:238/851
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:333/347
+B-Strix HP:87/189 MP:74/85
+C-Chupacabra HP:28/217 MP:97/97
+D-Apis HP:142/265 MP:18/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:821/1136 MP:391/413
+B-Magatsuhi HP:238/851 MP:142/170
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:333/347
+B-Strix HP:87/189 MP:74/85
+C-Chupacabra HP:28/217 MP:97/97
+D-Apis HP:142/265 MP:18/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:821/1136 MP:391/413
+B-Magatsuhi HP:238/851 MP:142/170
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Defender's Gaze MP:255
+2-Concentrate MP:11
+3-Refrigerate MP:26
+4-Hama MP:6
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Defender's Gaze MP:255
+2-Concentrate MP:11
+3-Refrigerate MP:26
+4-Hama MP:6
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki ha cargado su siguiente ataque mágico a más del doble
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:333/347
+B-Strix HP:87/189 MP:74/85
+C-Chupacabra HP:28/217 MP:97/97
+D-Apis HP:142/265 MP:18/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:821/1136 MP:380/413
+B-Magatsuhi HP:238/851 MP:142/170
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Makoto HP:565/597 MP:333/347
+2-Strix HP:87/189 MP:74/85
+3-Chupacabra HP:28/217 MP:97/97
+4-Apis HP:142/265 MP:18/52
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Magatsuhi lanza hielo a Strix
+Strix devuelve 124 daño a Magatsuhi
+Magatsuhi termina con HP:114/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:333/347
+B-Strix HP:87/189 MP:74/85
+C-Chupacabra HP:28/217 MP:97/97
+D-Apis HP:142/265 MP:18/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:821/1136 MP:380/413
+B-Magatsuhi HP:114/851 MP:128/170
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Chupacabra
+3-Apis
+4-Strix
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Defender's Gaze MP:255
+2-Needle Shot MP:4
+3-Ziodyne MP:14
+4-Hades Blast MP:32
+5-Charge MP:9
+6-Cancelar
+INPUT: 1
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 3 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:78/347
+B-Strix HP:87/189 MP:74/85
+C-Chupacabra HP:28/217 MP:97/97
+D-Apis HP:142/265 MP:18/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:821/1136 MP:380/413
+B-Magatsuhi HP:114/851 MP:128/170
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 3
+----------------------------------------
+Orden:
+1-Chupacabra
+2-Apis
+3-Strix
+4-Makoto
+----------------------------------------
+Seleccione una acción para Chupacabra
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chupacabra use
+1-Spirit Drain MP:5
+2-Life Drain MP:5
+3-Energy Drain MP:10
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chupacabra
+1-Itsuki HP:821/1136 MP:380/413
+2-Magatsuhi HP:114/851 MP:128/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Chupacabra lanza un ataque todo poderoso a Itsuki
+El ataque drena 27 MP de Itsuki
+Itsuki termina con MP:353/413
+Chupacabra termina con MP:97/97
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:78/347
+B-Strix HP:87/189 MP:74/85
+C-Chupacabra HP:28/217 MP:97/97
+D-Apis HP:142/265 MP:18/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:821/1136 MP:353/413
+B-Magatsuhi HP:114/851 MP:128/170
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Apis
+2-Strix
+3-Makoto
+4-Chupacabra
+----------------------------------------
+Seleccione una acción para Apis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Apis use
+1-Tetraja MP:15
+2-Media MP:12
+3-Mazio MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Apis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:78/347
+B-Strix HP:87/189 MP:74/85
+C-Chupacabra HP:28/217 MP:97/97
+D-Apis HP:142/265 MP:18/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:821/1136 MP:353/413
+B-Magatsuhi HP:114/851 MP:128/170
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Strix
+2-Makoto
+3-Chupacabra
+4-Apis
+----------------------------------------
+Seleccione una acción para Strix
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Strix use
+1-Spirit Drain MP:5
+2-Bouncing Claw MP:4
+3-Tarunda MP:15
+4-Mabufu MP:11
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Strix
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Strix use
+1-Spirit Drain MP:5
+2-Bouncing Claw MP:4
+3-Tarunda MP:15
+4-Mabufu MP:11
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Strix
+1-Itsuki HP:821/1136 MP:353/413
+2-Magatsuhi HP:114/851 MP:128/170
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Strix
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Peri HP:483/483 MP:184/216
+2-Mushussu HP:399/399 MP:164/179
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Strix
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:78/347
+B-Strix HP:87/189 MP:74/85
+C-Chupacabra HP:28/217 MP:97/97
+D-Apis HP:142/265 MP:18/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:821/1136 MP:353/413
+B-Magatsuhi HP:114/851 MP:128/170
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Chupacabra
+3-Apis
+4-Strix
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:821/1136 MP:353/413
+2-Magatsuhi HP:114/851 MP:128/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca a Itsuki
+Itsuki recibe 38 de daño
+Itsuki termina con HP:783/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:78/347
+B-Strix HP:87/189 MP:74/85
+C-Chupacabra HP:28/217 MP:97/97
+D-Apis HP:142/265 MP:18/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:783/1136 MP:353/413
+B-Magatsuhi HP:114/851 MP:128/170
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chupacabra
+2-Apis
+3-Strix
+4-Makoto
+----------------------------------------
+Seleccione una acción para Chupacabra
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chupacabra use
+1-Spirit Drain MP:5
+2-Life Drain MP:5
+3-Energy Drain MP:10
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Chupacabra
+1-Itsuki HP:783/1136 MP:353/413
+2-Magatsuhi HP:114/851 MP:128/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Chupacabra lanza un ataque todo poderoso a Itsuki
+El ataque drena 27 HP de Itsuki
+Itsuki termina con HP:756/1136
+Chupacabra termina con HP:55/217
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:78/347
+B-Strix HP:87/189 MP:74/85
+C-Chupacabra HP:55/217 MP:92/97
+D-Apis HP:142/265 MP:18/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:756/1136 MP:353/413
+B-Magatsuhi HP:114/851 MP:128/170
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Apis
+2-Strix
+3-Makoto
+4-Chupacabra
+----------------------------------------
+Seleccione una acción para Apis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Apis
+1-Itsuki HP:756/1136 MP:353/413
+2-Magatsuhi HP:114/851 MP:128/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Apis ataca a Itsuki
+Itsuki recibe 18 de daño
+Itsuki termina con HP:738/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:78/347
+B-Strix HP:87/189 MP:74/85
+C-Chupacabra HP:55/217 MP:92/97
+D-Apis HP:142/265 MP:18/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:738/1136 MP:353/413
+B-Magatsuhi HP:114/851 MP:128/170
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Makoto HP:565/597 MP:78/347
+2-Strix HP:87/189 MP:74/85
+3-Chupacabra HP:55/217 MP:92/97
+4-Apis HP:142/265 MP:18/52
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Magatsuhi ataca a Strix
+Strix recibe 65 de daño
+Strix termina con HP:22/189
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:78/347
+B-Strix HP:22/189 MP:74/85
+C-Chupacabra HP:55/217 MP:92/97
+D-Apis HP:142/265 MP:18/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:738/1136 MP:353/413
+B-Magatsuhi HP:114/851 MP:128/170
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Defender's Gaze MP:255
+2-Concentrate MP:11
+3-Refrigerate MP:26
+4-Hama MP:6
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:78/347
+B-Strix HP:22/189 MP:74/85
+C-Chupacabra HP:55/217 MP:92/97
+D-Apis HP:142/265 MP:18/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:738/1136 MP:353/413
+B-Magatsuhi HP:114/851 MP:128/170
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Makoto HP:565/597 MP:78/347
+2-Strix HP:22/189 MP:74/85
+3-Chupacabra HP:55/217 MP:92/97
+4-Apis HP:142/265 MP:18/52
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Magatsuhi ataca a Strix
+Strix recibe 65 de daño
+Strix termina con HP:0/189
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:78/347
+B-
+C-Chupacabra HP:55/217 MP:92/97
+D-Apis HP:142/265 MP:18/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:738/1136 MP:353/413
+B-Magatsuhi HP:114/851 MP:128/170
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Chupacabra
+3-Apis
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Needle Shot MP:4
+2-Ziodyne MP:14
+3-Hades Blast MP:32
+4-Charge MP:9
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:738/1136 MP:353/413
+2-Magatsuhi HP:114/851 MP:128/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto dispara a Itsuki
+Itsuki recibe 57 de daño
+Itsuki termina con HP:681/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:78/347
+B-
+C-Chupacabra HP:55/217 MP:92/97
+D-Apis HP:142/265 MP:18/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:681/1136 MP:353/413
+B-Magatsuhi HP:114/851 MP:128/170
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chupacabra
+2-Apis
+3-Makoto
+----------------------------------------
+Seleccione una acción para Chupacabra
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Chupacabra use
+1-Spirit Drain MP:5
+2-Life Drain MP:5
+3-Energy Drain MP:10
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chupacabra
+1-Itsuki HP:681/1136 MP:353/413
+2-Magatsuhi HP:114/851 MP:128/170
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Chupacabra lanza un ataque todo poderoso a Magatsuhi
+El ataque drena 27 MP de Magatsuhi
+Magatsuhi termina con MP:101/170
+Chupacabra termina con MP:97/97
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:78/347
+B-
+C-Chupacabra HP:55/217 MP:97/97
+D-Apis HP:142/265 MP:18/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:681/1136 MP:353/413
+B-Magatsuhi HP:114/851 MP:101/170
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Apis
+2-Makoto
+3-Chupacabra
+----------------------------------------
+Seleccione una acción para Apis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Peri HP:483/483 MP:184/216
+2-Mushussu HP:399/399 MP:164/179
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Peri ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:78/347
+B-
+C-Chupacabra HP:55/217 MP:97/97
+D-Peri HP:483/483 MP:184/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:681/1136 MP:353/413
+B-Magatsuhi HP:114/851 MP:101/170
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Chupacabra
+3-Peri
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:78/347
+B-
+C-Chupacabra HP:55/217 MP:97/97
+D-Peri HP:483/483 MP:184/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:681/1136 MP:353/413
+B-Magatsuhi HP:114/851 MP:101/170
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Makoto HP:565/597 MP:78/347
+2-Chupacabra HP:55/217 MP:97/97
+3-Peri HP:483/483 MP:184/216
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Makoto HP:565/597 MP:78/347
+2-Chupacabra HP:55/217 MP:97/97
+3-Peri HP:483/483 MP:184/216
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Magatsuhi lanza hielo a Peri
+Peri es débil contra el ataque de Magatsuhi
+Peri recibe 186 de daño
+Peri termina con HP:297/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:78/347
+B-
+C-Chupacabra HP:55/217 MP:97/97
+D-Peri HP:297/483 MP:184/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:681/1136 MP:353/413
+B-Magatsuhi HP:114/851 MP:87/170
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:565/597 MP:78/347
+B-
+C-Chupacabra HP:55/217 MP:97/97
+D-Peri HP:297/483 MP:184/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:681/1136 MP:353/413
+B-Magatsuhi HP:114/851 MP:87/170
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Makoto HP:565/597 MP:78/347
+2-Chupacabra HP:55/217 MP:97/97
+3-Peri HP:297/483 MP:184/216
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Magatsuhi ataca a Makoto
+Makoto es resistente el ataque de Magatsuhi
+Makoto recibe 32 de daño
+Makoto termina con HP:533/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:533/597 MP:78/347
+B-
+C-Chupacabra HP:55/217 MP:97/97
+D-Peri HP:297/483 MP:184/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:681/1136 MP:353/413
+B-Magatsuhi HP:114/851 MP:87/170
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Makoto
+3-Chupacabra
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:533/597 MP:78/347
+B-
+C-Chupacabra HP:55/217 MP:97/97
+D-Peri HP:297/483 MP:184/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:681/1136 MP:353/413
+B-Magatsuhi HP:114/851 MP:87/170
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Chupacabra
+3-Peri
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:681/1136 MP:353/413
+2-Magatsuhi HP:114/851 MP:87/170
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca a Itsuki
+Itsuki recibe 38 de daño
+Itsuki termina con HP:643/1136
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:533/597 MP:78/347
+B-
+C-Chupacabra HP:55/217 MP:97/97
+D-Peri HP:297/483 MP:184/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:643/1136 MP:353/413
+B-Magatsuhi HP:114/851 MP:87/170
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chupacabra
+2-Peri
+3-Makoto
+----------------------------------------
+Seleccione una acción para Chupacabra
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Apis HP:142/265 MP:18/52
+2-Mushussu HP:399/399 MP:164/179
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Mushussu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:533/597 MP:78/347
+B-
+C-Mushussu HP:399/399 MP:164/179
+D-Peri HP:297/483 MP:184/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:643/1136 MP:353/413
+B-Magatsuhi HP:114/851 MP:87/170
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Peri
+2-Makoto
+3-Mushussu
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Itsuki HP:643/1136 MP:353/413
+2-Magatsuhi HP:114/851 MP:87/170
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:533/597 MP:78/347
+B-
+C-Mushussu HP:399/399 MP:164/179
+D-Peri HP:297/483 MP:184/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:643/1136 MP:353/413
+B-Magatsuhi HP:114/851 MP:87/170
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Mushussu
+3-Peri
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:533/597 MP:78/347
+B-
+C-Mushussu HP:399/399 MP:164/179
+D-Peri HP:297/483 MP:184/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:643/1136 MP:353/413
+B-Magatsuhi HP:114/851 MP:87/170
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Peri
+3-Makoto
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:533/597 MP:78/347
+B-
+C-Mushussu HP:399/399 MP:164/179
+D-Peri HP:297/483 MP:184/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:643/1136 MP:353/413
+B-Magatsuhi HP:114/851 MP:87/170
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Makoto HP:533/597 MP:78/347
+2-Mushussu HP:399/399 MP:164/179
+3-Peri HP:297/483 MP:184/216
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Magatsuhi ataca a Makoto
+Makoto es resistente el ataque de Magatsuhi
+Makoto recibe 32 de daño
+Makoto termina con HP:501/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:78/347
+B-
+C-Mushussu HP:399/399 MP:164/179
+D-Peri HP:297/483 MP:184/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:643/1136 MP:353/413
+B-Magatsuhi HP:114/851 MP:87/170
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Magatsuhi
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:501/597 MP:78/347
+2-Mushussu HP:399/399 MP:164/179
+3-Peri HP:297/483 MP:184/216
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki dispara a Mushussu
+Mushussu recibe 61 de daño
+Mushussu termina con HP:338/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:78/347
+B-
+C-Mushussu HP:338/399 MP:164/179
+D-Peri HP:297/483 MP:184/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:643/1136 MP:353/413
+B-Magatsuhi HP:114/851 MP:87/170
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Makoto
+3-Mushussu
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Peri use
+1-Diarahan MP:16
+2-Me Patra MP:15
+3-Panic Voice MP:15
+4-Maragidyne MP:32
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Peri lanza fuego a Itsuki
+Itsuki es débil contra el ataque de Peri
+Itsuki recibe 162 de daño
+Itsuki termina con HP:481/1136
+Peri lanza fuego a Magatsuhi
+Magatsuhi es débil contra el ataque de Peri
+Magatsuhi recibe 162 de daño
+Magatsuhi termina con HP:0/851
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:78/347
+B-
+C-Mushussu HP:338/399 MP:164/179
+D-Peri HP:297/483 MP:152/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:481/1136 MP:353/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Mushussu
+3-Peri
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Needle Shot MP:4
+2-Ziodyne MP:14
+3-Hades Blast MP:32
+4-Charge MP:9
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:481/1136 MP:353/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto dispara a Itsuki
+Itsuki recibe 68 de daño
+Itsuki termina con HP:413/1136
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:74/347
+B-
+C-Mushussu HP:338/399 MP:164/179
+D-Peri HP:297/483 MP:152/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:413/1136 MP:353/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Peri
+3-Makoto
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Itsuki HP:413/1136 MP:353/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ataca a Itsuki
+Itsuki recibe 32 de daño
+Itsuki termina con HP:381/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:74/347
+B-
+C-Mushussu HP:338/399 MP:164/179
+D-Peri HP:297/483 MP:152/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:381/1136 MP:353/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Makoto
+3-Mushussu
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Itsuki HP:381/1136 MP:353/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:74/347
+B-
+C-Mushussu HP:338/399 MP:164/179
+D-Peri HP:297/483 MP:152/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:381/1136 MP:353/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Mushussu
+3-Peri
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:74/347
+B-
+C-Mushussu HP:338/399 MP:164/179
+D-Peri HP:297/483 MP:152/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:381/1136 MP:353/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:501/597 MP:74/347
+2-Mushussu HP:338/399 MP:164/179
+3-Peri HP:297/483 MP:152/216
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki ataca a Peri
+Peri recibe 45 de daño
+Peri termina con HP:252/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:74/347
+B-
+C-Mushussu HP:338/399 MP:164/179
+D-Peri HP:252/483 MP:152/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:381/1136 MP:353/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Makoto
+3-Mushussu
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Itsuki HP:381/1136 MP:353/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Peri ataca a Itsuki
+Itsuki recibe 40 de daño
+Itsuki termina con HP:341/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:74/347
+B-
+C-Mushussu HP:338/399 MP:164/179
+D-Peri HP:252/483 MP:152/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:341/1136 MP:353/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Mushussu
+3-Peri
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:74/347
+B-
+C-Mushussu HP:338/399 MP:164/179
+D-Peri HP:252/483 MP:152/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:341/1136 MP:353/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Peri
+3-Makoto
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:74/347
+B-
+C-Mushussu HP:338/399 MP:164/179
+D-Peri HP:252/483 MP:152/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:341/1136 MP:353/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Makoto
+3-Mushussu
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Peri use
+1-Diarahan MP:16
+2-Me Patra MP:15
+3-Panic Voice MP:15
+4-Maragidyne MP:32
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Peri lanza fuego a Itsuki
+Itsuki es débil contra el ataque de Peri
+Itsuki recibe 162 de daño
+Itsuki termina con HP:179/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:74/347
+B-
+C-Mushussu HP:338/399 MP:164/179
+D-Peri HP:252/483 MP:120/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:179/1136 MP:353/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Mushussu
+3-Peri
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:179/1136 MP:353/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:74/347
+B-
+C-Mushussu HP:338/399 MP:164/179
+D-Peri HP:252/483 MP:120/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:179/1136 MP:353/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:501/597 MP:74/347
+2-Mushussu HP:338/399 MP:164/179
+3-Peri HP:252/483 MP:120/216
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki dispara a Peri
+Peri recibe 61 de daño
+Peri termina con HP:191/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:74/347
+B-
+C-Mushussu HP:338/399 MP:164/179
+D-Peri HP:191/483 MP:120/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:179/1136 MP:353/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Makoto
+3-Mushussu
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:74/347
+B-
+C-Mushussu HP:338/399 MP:164/179
+D-Peri HP:191/483 MP:120/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:179/1136 MP:353/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Mushussu
+3-Peri
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:74/347
+B-
+C-Mushussu HP:338/399 MP:164/179
+D-Peri HP:191/483 MP:120/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:179/1136 MP:353/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Peri
+3-Makoto
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:74/347
+B-
+C-Mushussu HP:338/399 MP:164/179
+D-Peri HP:191/483 MP:120/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:179/1136 MP:353/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Peri
+2-Makoto
+3-Mushussu
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Itsuki HP:179/1136 MP:353/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Peri use
+1-Diarahan MP:16
+2-Me Patra MP:15
+3-Panic Voice MP:15
+4-Maragidyne MP:32
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Peri
+1-Makoto HP:501/597 MP:74/347
+2-Mushussu HP:338/399 MP:164/179
+3-Peri HP:191/483 MP:120/216
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Peri cura a Mushussu
+Mushussu recibe 399 de HP
+Mushussu termina con HP:399/399
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:74/347
+B-
+C-Mushussu HP:399/399 MP:164/179
+D-Peri HP:191/483 MP:104/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:179/1136 MP:353/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Mushussu
+3-Peri
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:74/347
+B-
+C-Mushussu HP:399/399 MP:164/179
+D-Peri HP:191/483 MP:104/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:179/1136 MP:353/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mushussu
+2-Peri
+3-Makoto
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Itsuki HP:179/1136 MP:353/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu ataca a Itsuki
+Itsuki recibe 32 de daño
+Itsuki termina con HP:147/1136
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:74/347
+B-
+C-Mushussu HP:399/399 MP:164/179
+D-Peri HP:191/483 MP:104/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:147/1136 MP:353/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:501/597 MP:74/347
+2-Mushussu HP:399/399 MP:164/179
+3-Peri HP:191/483 MP:104/216
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki ataca a Peri
+Peri recibe 45 de daño
+Peri termina con HP:146/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:74/347
+B-
+C-Mushussu HP:399/399 MP:164/179
+D-Peri HP:146/483 MP:104/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:147/1136 MP:353/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Peri
+2-Makoto
+3-Mushussu
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Apis HP:142/265 MP:18/52
+2-Chupacabra HP:55/217 MP:97/97
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:74/347
+B-
+C-Mushussu HP:399/399 MP:164/179
+D-Peri HP:146/483 MP:104/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:147/1136 MP:353/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Mushussu
+3-Peri
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:147/1136 MP:353/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca a Itsuki
+Itsuki recibe 38 de daño
+Itsuki termina con HP:109/1136
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:74/347
+B-
+C-Mushussu HP:399/399 MP:164/179
+D-Peri HP:146/483 MP:104/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:109/1136 MP:353/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Peri
+3-Makoto
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Apis HP:142/265 MP:18/52
+2-Chupacabra HP:55/217 MP:97/97
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:74/347
+B-
+C-Mushussu HP:399/399 MP:164/179
+D-Peri HP:146/483 MP:104/216
+Equipo de Itsuki (J2)
+A-Itsuki HP:109/1136 MP:353/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Peri
+2-Makoto
+3-Mushussu
+----------------------------------------
+Seleccione una acción para Peri
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Apis HP:142/265 MP:18/52
+2-Chupacabra HP:55/217 MP:97/97
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Apis ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:74/347
+B-
+C-Mushussu HP:399/399 MP:164/179
+D-Apis HP:142/265 MP:18/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:109/1136 MP:353/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Mushussu
+3-Apis
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:109/1136 MP:353/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Peri HP:146/483 MP:104/216
+2-Chupacabra HP:55/217 MP:97/97
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Mushussu HP:399/399 MP:164/179 (Puesto 3)
+3-Apis HP:142/265 MP:18/52 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Chupacabra ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:74/347
+B-
+C-Chupacabra HP:55/217 MP:97/97
+D-Apis HP:142/265 MP:18/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:109/1136 MP:353/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Chupacabra
+2-Apis
+3-Makoto
+----------------------------------------
+Seleccione una acción para Chupacabra
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Peri HP:146/483 MP:104/216
+2-Mushussu HP:399/399 MP:164/179
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Mushussu ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:74/347
+B-
+C-Mushussu HP:399/399 MP:164/179
+D-Apis HP:142/265 MP:18/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:109/1136 MP:353/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:501/597 MP:74/347
+2-Mushussu HP:399/399 MP:164/179
+3-Apis HP:142/265 MP:18/52
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki ataca a Mushussu
+Mushussu recibe 45 de daño
+Mushussu termina con HP:354/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:74/347
+B-
+C-Mushussu HP:354/399 MP:164/179
+D-Apis HP:142/265 MP:18/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:109/1136 MP:353/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Mushussu
+3-Apis
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:109/1136 MP:353/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca a Itsuki
+Itsuki recibe 38 de daño
+Itsuki termina con HP:71/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:74/347
+B-
+C-Mushussu HP:354/399 MP:164/179
+D-Apis HP:142/265 MP:18/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:71/1136 MP:353/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Apis
+3-Makoto
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mushussu use
+1-Ziodyne MP:14
+2-Posumudi MP:5
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Itsuki HP:71/1136 MP:353/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Itsuki HP:71/1136 MP:353/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Peri HP:146/483 MP:104/216
+2-Chupacabra HP:55/217 MP:97/97
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Chupacabra ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:74/347
+B-
+C-Chupacabra HP:55/217 MP:97/97
+D-Apis HP:142/265 MP:18/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:71/1136 MP:353/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Apis
+2-Makoto
+3-Chupacabra
+----------------------------------------
+Seleccione una acción para Apis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Apis
+1-Itsuki HP:71/1136 MP:353/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Apis ataca a Itsuki
+Itsuki recibe 18 de daño
+Itsuki termina con HP:53/1136
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:74/347
+B-
+C-Chupacabra HP:55/217 MP:97/97
+D-Apis HP:142/265 MP:18/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:53/1136 MP:353/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Chupacabra
+3-Apis
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Needle Shot MP:4
+2-Ziodyne MP:14
+3-Hades Blast MP:32
+4-Charge MP:9
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:53/1136 MP:353/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto lanza electricidad a Itsuki
+Itsuki absorbe 115 daño
+Itsuki termina con HP:168/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:60/347
+B-
+C-Chupacabra HP:55/217 MP:97/97
+D-Apis HP:142/265 MP:18/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:168/1136 MP:353/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:60/347
+B-
+C-Chupacabra HP:55/217 MP:97/97
+D-Apis HP:142/265 MP:18/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:168/1136 MP:353/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:501/597 MP:60/347
+2-Chupacabra HP:55/217 MP:97/97
+3-Apis HP:142/265 MP:18/52
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki ataca a Apis
+Apis recibe 45 de daño
+Apis termina con HP:97/265
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:60/347
+B-
+C-Chupacabra HP:55/217 MP:97/97
+D-Apis HP:97/265 MP:18/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:168/1136 MP:353/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Chupacabra
+3-Apis
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Needle Shot MP:4
+2-Ziodyne MP:14
+3-Hades Blast MP:32
+4-Charge MP:9
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:168/1136 MP:353/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto dispara a Itsuki
+Itsuki recibe 68 de daño
+Itsuki termina con HP:100/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:56/347
+B-
+C-Chupacabra HP:55/217 MP:97/97
+D-Apis HP:97/265 MP:18/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:100/1136 MP:353/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chupacabra
+2-Apis
+3-Makoto
+----------------------------------------
+Seleccione una acción para Chupacabra
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Peri HP:146/483 MP:104/216
+2-Mushussu HP:354/399 MP:164/179
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Mushussu ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:56/347
+B-
+C-Mushussu HP:354/399 MP:164/179
+D-Apis HP:97/265 MP:18/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:100/1136 MP:353/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Apis
+2-Makoto
+3-Mushussu
+----------------------------------------
+Seleccione una acción para Apis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:56/347
+B-
+C-Mushussu HP:354/399 MP:164/179
+D-Apis HP:97/265 MP:18/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:100/1136 MP:353/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Mushussu
+3-Apis
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:100/1136 MP:353/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto ataca a Itsuki
+Itsuki recibe 38 de daño
+Itsuki termina con HP:62/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:501/597 MP:56/347
+B-
+C-Mushussu HP:354/399 MP:164/179
+D-Apis HP:97/265 MP:18/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:62/1136 MP:353/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Makoto HP:501/597 MP:56/347
+2-Mushussu HP:354/399 MP:164/179
+3-Apis HP:97/265 MP:18/52
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Makoto
+Makoto es resistente el ataque de Itsuki
+Makoto recibe 22 de daño
+Makoto termina con HP:479/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:479/597 MP:56/347
+B-
+C-Mushussu HP:354/399 MP:164/179
+D-Apis HP:97/265 MP:18/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:62/1136 MP:353/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Mushussu
+3-Apis
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Itsuki HP:62/1136 MP:353/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto dispara a Itsuki
+Itsuki recibe 57 de daño
+Itsuki termina con HP:5/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:479/597 MP:56/347
+B-
+C-Mushussu HP:354/399 MP:164/179
+D-Apis HP:97/265 MP:18/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:5/1136 MP:353/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Apis
+3-Makoto
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:479/597 MP:56/347
+B-
+C-Mushussu HP:354/399 MP:164/179
+D-Apis HP:97/265 MP:18/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:5/1136 MP:353/413
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Apis
+2-Makoto
+3-Mushussu
+----------------------------------------
+Seleccione una acción para Apis
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Apis
+1-Itsuki HP:5/1136 MP:353/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Apis ataca a Itsuki
+Itsuki recibe 18 de daño
+Itsuki termina con HP:0/1136
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Makoto (J1)

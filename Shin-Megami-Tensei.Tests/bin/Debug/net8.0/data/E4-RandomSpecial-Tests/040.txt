@@ -1,0 +1,1271 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 39
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Taown HP:709/709 MP:140/140
+C-Apsu HP:399/399 MP:387/387
+D-Ancient of Days HP:498/498 MP:484/484
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Taown HP:709/709 MP:140/140
+3-Apsu HP:399/399 MP:387/387
+4-Ancient of Days HP:498/498 MP:484/484
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Joker dispara a Apsu
+Apsu recibe 39 de daño
+Apsu termina con HP:360/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Taown HP:709/709 MP:140/140
+C-Apsu HP:360/399 MP:387/387
+D-Ancient of Days HP:498/498 MP:484/484
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Ancient of Days
+3-Taown
+4-Apsu
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Glacial Blast MP:22
+2-Bad Company MP:15
+3-Bar Toss MP:35
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Demi-Fiend ataca a Joker
+Joker recibe 63 de daño
+Joker termina con HP:534/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:534/597 MP:347/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:799/834
+B-Taown HP:709/709 MP:140/140
+C-Apsu HP:360/399 MP:387/387
+D-Ancient of Days HP:498/498 MP:484/484
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ancient of Days
+2-Taown
+3-Apsu
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Ancient of Days
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cabracan HP:483/483 MP:216/216
+2-Makara HP:161/161 MP:72/72
+3-Master Therion HP:497/497 MP:223/223
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Makara ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:534/597 MP:347/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:799/834
+B-Taown HP:709/709 MP:140/140
+C-Apsu HP:360/399 MP:387/387
+D-Makara HP:161/161 MP:72/72
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Taown
+2-Apsu
+3-Demi-Fiend
+4-Makara
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Joker HP:534/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Taown use
+1-Ziodyne MP:14
+2-Madness Needle MP:11
+3-Nihil Claw MP:11
+4-Mediarama MP:22
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Joker HP:534/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Taown use
+1-Ziodyne MP:14
+2-Madness Needle MP:11
+3-Nihil Claw MP:11
+4-Mediarama MP:22
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Joker HP:534/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:534/597 MP:347/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:799/834
+B-Taown HP:709/709 MP:140/140
+C-Apsu HP:360/399 MP:387/387
+D-Makara HP:161/161 MP:72/72
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Apsu
+2-Demi-Fiend
+3-Makara
+4-Taown
+----------------------------------------
+Seleccione una acción para Apsu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Apsu use
+1-Titanomachia MP:30
+2-Mabufudyne MP:32
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Apsu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ancient of Days HP:498/498 MP:484/484
+2-Cabracan HP:483/483 MP:216/216
+3-Master Therion HP:497/497 MP:223/223
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Cabracan ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:534/597 MP:347/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:799/834
+B-Taown HP:709/709 MP:140/140
+C-Cabracan HP:483/483 MP:216/216
+D-Makara HP:161/161 MP:72/72
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Makara
+3-Taown
+4-Cabracan
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Joker HP:534/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend dispara a Joker
+Joker recibe 114 de daño
+Joker termina con HP:420/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:420/597 MP:347/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:799/834
+B-Taown HP:709/709 MP:140/140
+C-Cabracan HP:483/483 MP:216/216
+D-Makara HP:161/161 MP:72/72
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makara
+2-Taown
+3-Cabracan
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Makara
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Makara use
+1-Bufu MP:5
+2-Zio MP:5
+3-Tarunda MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makara
+1-Joker HP:420/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Makara
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Makara use
+1-Bufu MP:5
+2-Zio MP:5
+3-Tarunda MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Makara
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Apsu HP:360/399 MP:387/387
+2-Ancient of Days HP:498/498 MP:484/484
+3-Master Therion HP:497/497 MP:223/223
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Master Therion ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:420/597 MP:347/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:799/834
+B-Taown HP:709/709 MP:140/140
+C-Cabracan HP:483/483 MP:216/216
+D-Master Therion HP:497/497 MP:223/223
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Taown
+2-Cabracan
+3-Demi-Fiend
+4-Master Therion
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:420/597 MP:347/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:799/834
+B-Taown HP:709/709 MP:140/140
+C-Cabracan HP:483/483 MP:216/216
+D-Master Therion HP:497/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:420/597 MP:347/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:799/834
+B-Taown HP:709/709 MP:140/140
+C-Cabracan HP:483/483 MP:216/216
+D-Master Therion HP:497/497 MP:223/223
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Demi-Fiend HP:1227/1227 MP:799/834
+2-Taown HP:709/709 MP:140/140
+3-Cabracan HP:483/483 MP:216/216
+4-Master Therion HP:497/497 MP:223/223
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Demi-Fiend HP:1227/1227 MP:799/834
+2-Taown HP:709/709 MP:140/140
+3-Cabracan HP:483/483 MP:216/216
+4-Master Therion HP:497/497 MP:223/223
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Joker dispara a Master Therion
+Master Therion recibe 39 de daño
+Master Therion termina con HP:458/497
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:420/597 MP:347/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:799/834
+B-Taown HP:709/709 MP:140/140
+C-Cabracan HP:483/483 MP:216/216
+D-Master Therion HP:458/497 MP:223/223
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Taown
+3-Master Therion
+4-Cabracan
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Glacial Blast MP:22
+2-Bad Company MP:15
+3-Bar Toss MP:35
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Taown HP:709/709 MP:140/140 (Puesto 2)
+2-Cabracan HP:483/483 MP:216/216 (Puesto 3)
+3-Master Therion HP:458/497 MP:223/223 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Joker HP:420/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend dispara a Joker
+Joker recibe 114 de daño
+Joker termina con HP:306/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:306/597 MP:347/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:799/834
+B-Taown HP:709/709 MP:140/140
+C-Cabracan HP:483/483 MP:216/216
+D-Master Therion HP:458/497 MP:223/223
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Master Therion
+3-Cabracan
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Joker HP:306/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Taown ataca a Joker
+Joker recibe 54 de daño
+Joker termina con HP:252/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:252/597 MP:347/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:799/834
+B-Taown HP:709/709 MP:140/140
+C-Cabracan HP:483/483 MP:216/216
+D-Master Therion HP:458/497 MP:223/223
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Master Therion
+2-Cabracan
+3-Demi-Fiend
+4-Taown
+----------------------------------------
+Seleccione una acción para Master Therion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Apsu HP:360/399 MP:387/387
+2-Ancient of Days HP:498/498 MP:484/484
+3-Makara HP:161/161 MP:72/72
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Master Therion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:252/597 MP:347/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:799/834
+B-Taown HP:709/709 MP:140/140
+C-Cabracan HP:483/483 MP:216/216
+D-Master Therion HP:458/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Cabracan
+2-Demi-Fiend
+3-Taown
+4-Master Therion
+----------------------------------------
+Seleccione una acción para Cabracan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:252/597 MP:347/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:799/834
+B-Taown HP:709/709 MP:140/140
+C-Cabracan HP:483/483 MP:216/216
+D-Master Therion HP:458/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Taown
+3-Master Therion
+4-Cabracan
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Joker HP:252/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Joker
+Joker recibe 168 de daño
+Joker termina con HP:84/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:84/597 MP:347/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:799/834
+B-Taown HP:709/709 MP:140/140
+C-Cabracan HP:483/483 MP:216/216
+D-Master Therion HP:458/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Demi-Fiend HP:1227/1227 MP:799/834
+2-Taown HP:709/709 MP:140/140
+3-Cabracan HP:483/483 MP:216/216
+4-Master Therion HP:458/497 MP:223/223
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Joker dispara a Cabracan
+Cabracan recibe 39 de daño
+Cabracan termina con HP:444/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:84/597 MP:347/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:799/834
+B-Taown HP:709/709 MP:140/140
+C-Cabracan HP:444/483 MP:216/216
+D-Master Therion HP:458/497 MP:223/223
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Taown
+3-Master Therion
+4-Cabracan
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Glacial Blast MP:22
+2-Bad Company MP:15
+3-Bar Toss MP:35
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Taown HP:709/709 MP:140/140 (Puesto 2)
+2-Cabracan HP:444/483 MP:216/216 (Puesto 3)
+3-Master Therion HP:458/497 MP:223/223 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Ancient of Days ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:84/597 MP:347/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:784/834
+B-Taown HP:709/709 MP:140/140
+C-Ancient of Days HP:498/498 MP:484/484
+D-Master Therion HP:458/497 MP:223/223
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Master Therion
+3-Ancient of Days
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Taown use
+1-Ziodyne MP:14
+2-Madness Needle MP:11
+3-Nihil Claw MP:11
+4-Mediarama MP:22
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Taown cura a Demi-Fiend
+Demi-Fiend recibe 613 de HP
+Demi-Fiend termina con HP:1227/1227
+Taown cura a Ancient of Days
+Ancient of Days recibe 249 de HP
+Ancient of Days termina con HP:498/498
+Taown cura a Master Therion
+Master Therion recibe 248 de HP
+Master Therion termina con HP:497/497
+Taown cura a Taown
+Taown recibe 354 de HP
+Taown termina con HP:709/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:84/597 MP:347/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:784/834
+B-Taown HP:709/709 MP:118/140
+C-Ancient of Days HP:498/498 MP:484/484
+D-Master Therion HP:497/497 MP:223/223
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Master Therion
+2-Ancient of Days
+3-Demi-Fiend
+4-Taown
+----------------------------------------
+Seleccione una acción para Master Therion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:84/597 MP:347/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:784/834
+B-Taown HP:709/709 MP:118/140
+C-Ancient of Days HP:498/498 MP:484/484
+D-Master Therion HP:497/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ancient of Days
+2-Demi-Fiend
+3-Taown
+4-Master Therion
+----------------------------------------
+Seleccione una acción para Ancient of Days
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Apsu HP:360/399 MP:387/387
+2-Cabracan HP:444/483 MP:216/216
+3-Makara HP:161/161 MP:72/72
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Cabracan ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:84/597 MP:347/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:784/834
+B-Taown HP:709/709 MP:118/140
+C-Cabracan HP:444/483 MP:216/216
+D-Master Therion HP:497/497 MP:223/223
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Taown
+3-Master Therion
+4-Cabracan
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Joker HP:84/597 MP:347/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Apsu HP:360/399 MP:387/387
+2-Ancient of Days HP:498/498 MP:484/484
+3-Makara HP:161/161 MP:72/72
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Taown HP:709/709 MP:118/140 (Puesto 2)
+2-Cabracan HP:444/483 MP:216/216 (Puesto 3)
+3-Master Therion HP:497/497 MP:223/223 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Apsu HP:360/399 MP:387/387
+2-Ancient of Days HP:498/498 MP:484/484
+3-Makara HP:161/161 MP:72/72
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Apsu HP:360/399 MP:387/387
+2-Ancient of Days HP:498/498 MP:484/484
+3-Makara HP:161/161 MP:72/72
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Taown HP:709/709 MP:118/140 (Puesto 2)
+2-Cabracan HP:444/483 MP:216/216 (Puesto 3)
+3-Master Therion HP:497/497 MP:223/223 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Ancient of Days ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:84/597 MP:347/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:784/834
+B-Taown HP:709/709 MP:118/140
+C-Cabracan HP:444/483 MP:216/216
+D-Ancient of Days HP:498/498 MP:484/484
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Taown
+2-Ancient of Days
+3-Cabracan
+4-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Taown use
+1-Ziodyne MP:14
+2-Madness Needle MP:11
+3-Nihil Claw MP:11
+4-Mediarama MP:22
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:84/597 MP:347/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:784/834
+B-Taown HP:709/709 MP:118/140
+C-Cabracan HP:444/483 MP:216/216
+D-Ancient of Days HP:498/498 MP:484/484
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:84/597 MP:347/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:784/834
+B-Taown HP:709/709 MP:118/140
+C-Cabracan HP:444/483 MP:216/216
+D-Ancient of Days HP:498/498 MP:484/484
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Titanomachia MP:30
+2-Axel Claw MP:15
+3-Bad Company MP:15
+4-Mahama MP:18
+5-Agi MP:5
+6-Holy Wrath MP:45
+7-Dia MP:5
+8-Madness Nails MP:26
+9-Cancelar
+INPUT: 8
+----------------------------------------
+Joker ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Joker
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:84/597 MP:321/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:784/834
+B-Taown HP:709/709 MP:118/140
+C-Cabracan HP:444/483 MP:216/216
+D-Ancient of Days HP:498/498 MP:484/484
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Ancient of Days
+3-Taown
+4-Cabracan
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Joker HP:84/597 MP:321/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend dispara a Joker
+Joker recibe 114 de daño
+Joker termina con HP:0/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Demi-Fiend (J2)

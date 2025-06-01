@@ -1,0 +1,1967 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 4
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Yurlungur HP:202/202 MP:196/196
+C-Pendragon HP:719/719 MP:143/143
+D-Zhu Tun She HP:180/180 MP:35/35
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Mother Harlot HP:484/484 MP:469/469
+C-Mokoi HP:74/74 MP:36/36
+D-Lord Nan Dou HP:549/549 MP:108/108
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pendragon
+2-Joker
+3-Yurlungur
+4-Zhu Tun She
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pendragon
+1-Yu HP:597/597 MP:347/347
+2-Mother Harlot HP:484/484 MP:469/469
+3-Mokoi HP:74/74 MP:36/36
+4-Lord Nan Dou HP:549/549 MP:108/108
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Pendragon ataca a Yu
+Yu es resistente el ataque de Pendragon
+Yu recibe 27 de daño
+Yu termina con HP:570/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Yurlungur HP:202/202 MP:196/196
+C-Pendragon HP:719/719 MP:143/143
+D-Zhu Tun She HP:180/180 MP:35/35
+Equipo de Yu (J2)
+A-Yu HP:570/597 MP:347/347
+B-Mother Harlot HP:484/484 MP:469/469
+C-Mokoi HP:74/74 MP:36/36
+D-Lord Nan Dou HP:549/549 MP:108/108
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Yurlungur
+3-Zhu Tun She
+4-Pendragon
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Bad Company MP:15
+2-Mahama MP:18
+3-Glacial Blast MP:22
+4-Media MP:12
+5-Mabufu MP:11
+6-Axel Claw MP:15
+7-Bufula MP:8
+8-Cancelar
+INPUT: 7
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Yu HP:570/597 MP:347/347
+2-Mother Harlot HP:484/484 MP:469/469
+3-Mokoi HP:74/74 MP:36/36
+4-Lord Nan Dou HP:549/549 MP:108/108
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Joker lanza hielo a Yu
+Yu es resistente el ataque de Joker
+Yu recibe 41 de daño
+Yu termina con HP:529/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:339/347
+B-Yurlungur HP:202/202 MP:196/196
+C-Pendragon HP:719/719 MP:143/143
+D-Zhu Tun She HP:180/180 MP:35/35
+Equipo de Yu (J2)
+A-Yu HP:529/597 MP:347/347
+B-Mother Harlot HP:484/484 MP:469/469
+C-Mokoi HP:74/74 MP:36/36
+D-Lord Nan Dou HP:549/549 MP:108/108
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Zhu Tun She
+3-Pendragon
+4-Joker
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Yurlungur use
+1-Blast Arrow MP:16
+2-Ice Breath MP:21
+3-Dekaja MP:10
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Yurlungur dispara a Yu
+Yu recibe 67 de daño
+Yu termina con HP:462/597
+Yurlungur dispara a Mother Harlot
+Mother Harlot recibe 67 de daño
+Mother Harlot termina con HP:417/484
+Yurlungur dispara a Mokoi
+Mokoi recibe 67 de daño
+Mokoi termina con HP:7/74
+Yurlungur dispara a Lord Nan Dou
+Lord Nan Dou recibe 67 de daño
+Lord Nan Dou termina con HP:482/549
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:339/347
+B-Yurlungur HP:202/202 MP:180/196
+C-Pendragon HP:719/719 MP:143/143
+D-Zhu Tun She HP:180/180 MP:35/35
+Equipo de Yu (J2)
+A-Yu HP:462/597 MP:347/347
+B-Mother Harlot HP:417/484 MP:469/469
+C-Mokoi HP:7/74 MP:36/36
+D-Lord Nan Dou HP:482/549 MP:108/108
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Zhu Tun She
+2-Pendragon
+3-Joker
+4-Yurlungur
+----------------------------------------
+Seleccione una acción para Zhu Tun She
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Zhu Tun She
+1-Yu HP:462/597 MP:347/347
+2-Mother Harlot HP:417/484 MP:469/469
+3-Mokoi HP:7/74 MP:36/36
+4-Lord Nan Dou HP:482/549 MP:108/108
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Zhu Tun She
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:339/347
+B-Yurlungur HP:202/202 MP:180/196
+C-Pendragon HP:719/719 MP:143/143
+D-Zhu Tun She HP:180/180 MP:35/35
+Equipo de Yu (J2)
+A-Yu HP:462/597 MP:347/347
+B-Mother Harlot HP:417/484 MP:469/469
+C-Mokoi HP:7/74 MP:36/36
+D-Lord Nan Dou HP:482/549 MP:108/108
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pendragon
+2-Joker
+3-Yurlungur
+4-Zhu Tun She
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Mithra HP:441/441 MP:198/198
+2-Michizane HP:658/658 MP:296/296
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Mithra ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:339/347
+B-Yurlungur HP:202/202 MP:180/196
+C-Mithra HP:441/441 MP:198/198
+D-Zhu Tun She HP:180/180 MP:35/35
+Equipo de Yu (J2)
+A-Yu HP:462/597 MP:347/347
+B-Mother Harlot HP:417/484 MP:469/469
+C-Mokoi HP:7/74 MP:36/36
+D-Lord Nan Dou HP:482/549 MP:108/108
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Mother Harlot
+3-Lord Nan Dou
+4-Mokoi
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Churel HP:197/197 MP:190/190
+2-Halphas HP:275/275 MP:54/54
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Trafuri MP:5
+2-Fire Breath MP:21
+3-Sea of Chaos MP:45
+4-Iron Judgement MP:8
+5-Mamudo MP:18
+6-Recarmdra MP:2
+7-Mortal Jihad MP:13
+8-Cancelar
+INPUT: 2
+----------------------------------------
+Yu lanza fuego a Joker
+Joker recibe 123 de daño
+Joker termina con HP:474/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:474/597 MP:339/347
+B-Yurlungur HP:202/202 MP:180/196
+C-Mithra HP:441/441 MP:198/198
+D-Zhu Tun She HP:180/180 MP:35/35
+Equipo de Yu (J2)
+A-Yu HP:462/597 MP:326/347
+B-Mother Harlot HP:417/484 MP:469/469
+C-Mokoi HP:7/74 MP:36/36
+D-Lord Nan Dou HP:482/549 MP:108/108
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mother Harlot
+2-Lord Nan Dou
+3-Mokoi
+4-Yu
+----------------------------------------
+Seleccione una acción para Mother Harlot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mother Harlot use
+1-Cup of Babylon MP:65
+2-Maziodyne MP:32
+3-Invitation MP:45
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Mother Harlot lanza electricidad a Joker
+Joker recibe 148 de daño
+Joker termina con HP:326/597
+Mother Harlot lanza electricidad a Yurlungur
+Yurlungur es resistente el ataque de Mother Harlot
+Yurlungur recibe 74 de daño
+Yurlungur termina con HP:128/202
+Mother Harlot lanza electricidad a Mithra
+Mithra recibe 148 de daño
+Mithra termina con HP:293/441
+Mother Harlot lanza electricidad a Zhu Tun She
+Zhu Tun She recibe 148 de daño
+Zhu Tun She termina con HP:32/180
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:326/597 MP:339/347
+B-Yurlungur HP:128/202 MP:180/196
+C-Mithra HP:293/441 MP:198/198
+D-Zhu Tun She HP:32/180 MP:35/35
+Equipo de Yu (J2)
+A-Yu HP:462/597 MP:326/347
+B-Mother Harlot HP:417/484 MP:437/469
+C-Mokoi HP:7/74 MP:36/36
+D-Lord Nan Dou HP:482/549 MP:108/108
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+2-Mokoi
+3-Yu
+4-Mother Harlot
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Churel HP:197/197 MP:190/190
+2-Halphas HP:275/275 MP:54/54
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Halphas ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:326/597 MP:339/347
+B-Yurlungur HP:128/202 MP:180/196
+C-Mithra HP:293/441 MP:198/198
+D-Zhu Tun She HP:32/180 MP:35/35
+Equipo de Yu (J2)
+A-Yu HP:462/597 MP:326/347
+B-Mother Harlot HP:417/484 MP:437/469
+C-Mokoi HP:7/74 MP:36/36
+D-Halphas HP:275/275 MP:54/54
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mokoi
+2-Yu
+3-Mother Harlot
+4-Halphas
+----------------------------------------
+Seleccione una acción para Mokoi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mokoi
+1-Joker HP:326/597 MP:339/347
+2-Yurlungur HP:128/202 MP:180/196
+3-Mithra HP:293/441 MP:198/198
+4-Zhu Tun She HP:32/180 MP:35/35
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Mokoi ataca a Zhu Tun She
+Zhu Tun She recibe 3 de daño
+Zhu Tun She termina con HP:29/180
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:326/597 MP:339/347
+B-Yurlungur HP:128/202 MP:180/196
+C-Mithra HP:293/441 MP:198/198
+D-Zhu Tun She HP:29/180 MP:35/35
+Equipo de Yu (J2)
+A-Yu HP:462/597 MP:326/347
+B-Mother Harlot HP:417/484 MP:437/469
+C-Mokoi HP:7/74 MP:36/36
+D-Halphas HP:275/275 MP:54/54
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Mother Harlot
+3-Halphas
+4-Mokoi
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:326/597 MP:339/347
+B-Yurlungur HP:128/202 MP:180/196
+C-Mithra HP:293/441 MP:198/198
+D-Zhu Tun She HP:29/180 MP:35/35
+Equipo de Yu (J2)
+A-Yu HP:462/597 MP:326/347
+B-Mother Harlot HP:417/484 MP:437/469
+C-Mokoi HP:7/74 MP:36/36
+D-Halphas HP:275/275 MP:54/54
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mother Harlot
+2-Halphas
+3-Mokoi
+4-Yu
+----------------------------------------
+Seleccione una acción para Mother Harlot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mother Harlot
+1-Joker HP:326/597 MP:339/347
+2-Yurlungur HP:128/202 MP:180/196
+3-Mithra HP:293/441 MP:198/198
+4-Zhu Tun She HP:29/180 MP:35/35
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Mother Harlot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:326/597 MP:339/347
+B-Yurlungur HP:128/202 MP:180/196
+C-Mithra HP:293/441 MP:198/198
+D-Zhu Tun She HP:29/180 MP:35/35
+Equipo de Yu (J2)
+A-Yu HP:462/597 MP:326/347
+B-Mother Harlot HP:417/484 MP:437/469
+C-Mokoi HP:7/74 MP:36/36
+D-Halphas HP:275/275 MP:54/54
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mithra
+2-Joker
+3-Yurlungur
+4-Zhu Tun She
+----------------------------------------
+Seleccione una acción para Mithra
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:326/597 MP:339/347
+B-Yurlungur HP:128/202 MP:180/196
+C-Mithra HP:293/441 MP:198/198
+D-Zhu Tun She HP:29/180 MP:35/35
+Equipo de Yu (J2)
+A-Yu HP:462/597 MP:326/347
+B-Mother Harlot HP:417/484 MP:437/469
+C-Mokoi HP:7/74 MP:36/36
+D-Halphas HP:275/275 MP:54/54
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Yurlungur
+3-Zhu Tun She
+4-Mithra
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Bad Company MP:15
+2-Mahama MP:18
+3-Glacial Blast MP:22
+4-Media MP:12
+5-Mabufu MP:11
+6-Axel Claw MP:15
+7-Bufula MP:8
+8-Cancelar
+INPUT: 2
+----------------------------------------
+Joker ataca con luz a Yu
+Joker ha fallado el ataque
+Yu termina con HP:462/597
+Joker ataca con luz a Mother Harlot
+Mother Harlot bloquea el ataque de Joker
+Mother Harlot termina con HP:417/484
+Joker ataca con luz a Mokoi
+Mokoi ha sido eliminado
+Mokoi termina con HP:0/74
+Joker ataca con luz a Halphas
+Halphas ha sido eliminado
+Halphas termina con HP:0/275
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:326/597 MP:321/347
+B-Yurlungur HP:128/202 MP:180/196
+C-Mithra HP:293/441 MP:198/198
+D-Zhu Tun She HP:29/180 MP:35/35
+Equipo de Yu (J2)
+A-Yu HP:462/597 MP:326/347
+B-Mother Harlot HP:417/484 MP:437/469
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yurlungur
+2-Zhu Tun She
+3-Mithra
+4-Joker
+----------------------------------------
+Seleccione una acción para Yurlungur
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:326/597 MP:321/347
+B-Yurlungur HP:128/202 MP:180/196
+C-Mithra HP:293/441 MP:198/198
+D-Zhu Tun She HP:29/180 MP:35/35
+Equipo de Yu (J2)
+A-Yu HP:462/597 MP:326/347
+B-Mother Harlot HP:417/484 MP:437/469
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Zhu Tun She
+2-Mithra
+3-Joker
+4-Yurlungur
+----------------------------------------
+Seleccione una acción para Zhu Tun She
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:326/597 MP:321/347
+B-Yurlungur HP:128/202 MP:180/196
+C-Mithra HP:293/441 MP:198/198
+D-Zhu Tun She HP:29/180 MP:35/35
+Equipo de Yu (J2)
+A-Yu HP:462/597 MP:326/347
+B-Mother Harlot HP:417/484 MP:437/469
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mithra
+2-Joker
+3-Yurlungur
+4-Zhu Tun She
+----------------------------------------
+Seleccione una acción para Mithra
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mithra use
+1-Hamaon MP:10
+2-Mortal Jihad MP:13
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Mithra
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:326/597 MP:321/347
+B-Yurlungur HP:128/202 MP:180/196
+C-Mithra HP:293/441 MP:198/198
+D-Zhu Tun She HP:29/180 MP:35/35
+Equipo de Yu (J2)
+A-Yu HP:462/597 MP:326/347
+B-Mother Harlot HP:417/484 MP:437/469
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Yurlungur
+3-Zhu Tun She
+4-Mithra
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Yu HP:462/597 MP:326/347
+2-Mother Harlot HP:417/484 MP:437/469
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Yu
+Yu es resistente el ataque de Joker
+Yu recibe 14 de daño
+Yu termina con HP:448/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:326/597 MP:321/347
+B-Yurlungur HP:128/202 MP:180/196
+C-Mithra HP:293/441 MP:198/198
+D-Zhu Tun She HP:29/180 MP:35/35
+Equipo de Yu (J2)
+A-Yu HP:448/597 MP:326/347
+B-Mother Harlot HP:417/484 MP:437/469
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Mother Harlot
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Joker HP:326/597 MP:321/347
+2-Yurlungur HP:128/202 MP:180/196
+3-Mithra HP:293/441 MP:198/198
+4-Zhu Tun She HP:29/180 MP:35/35
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Yu dispara a Yurlungur
+Yurlungur recibe 72 de daño
+Yurlungur termina con HP:56/202
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:326/597 MP:321/347
+B-Yurlungur HP:56/202 MP:180/196
+C-Mithra HP:293/441 MP:198/198
+D-Zhu Tun She HP:29/180 MP:35/35
+Equipo de Yu (J2)
+A-Yu HP:448/597 MP:326/347
+B-Mother Harlot HP:417/484 MP:437/469
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mother Harlot
+2-Yu
+----------------------------------------
+Seleccione una acción para Mother Harlot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mother Harlot use
+1-Cup of Babylon MP:65
+2-Maziodyne MP:32
+3-Invitation MP:45
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Mother Harlot lanza electricidad a Joker
+Joker recibe 148 de daño
+Joker termina con HP:178/597
+Mother Harlot lanza electricidad a Yurlungur
+Yurlungur es resistente el ataque de Mother Harlot
+Yurlungur recibe 74 de daño
+Yurlungur termina con HP:0/202
+Mother Harlot lanza electricidad a Mithra
+Mithra recibe 148 de daño
+Mithra termina con HP:145/441
+Mother Harlot lanza electricidad a Zhu Tun She
+Zhu Tun She recibe 148 de daño
+Zhu Tun She termina con HP:0/180
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:178/597 MP:321/347
+B-
+C-Mithra HP:145/441 MP:198/198
+D-
+Equipo de Yu (J2)
+A-Yu HP:448/597 MP:326/347
+B-Mother Harlot HP:417/484 MP:405/469
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mithra
+2-Joker
+----------------------------------------
+Seleccione una acción para Mithra
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:178/597 MP:321/347
+B-
+C-Mithra HP:145/441 MP:198/198
+D-
+Equipo de Yu (J2)
+A-Yu HP:448/597 MP:326/347
+B-Mother Harlot HP:417/484 MP:405/469
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Mithra
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Yu HP:448/597 MP:326/347
+2-Mother Harlot HP:417/484 MP:405/469
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Joker dispara a Yu
+Yu recibe 39 de daño
+Yu termina con HP:409/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:178/597 MP:321/347
+B-
+C-Mithra HP:145/441 MP:198/198
+D-
+Equipo de Yu (J2)
+A-Yu HP:409/597 MP:326/347
+B-Mother Harlot HP:417/484 MP:405/469
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mithra
+2-Joker
+----------------------------------------
+Seleccione una acción para Mithra
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:178/597 MP:321/347
+B-
+C-Mithra HP:145/441 MP:198/198
+D-
+Equipo de Yu (J2)
+A-Yu HP:409/597 MP:326/347
+B-Mother Harlot HP:417/484 MP:405/469
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Mithra
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Pendragon HP:719/719 MP:143/143
+2-Michizane HP:658/658 MP:296/296
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:178/597 MP:321/347
+B-
+C-Mithra HP:145/441 MP:198/198
+D-
+Equipo de Yu (J2)
+A-Yu HP:409/597 MP:326/347
+B-Mother Harlot HP:417/484 MP:405/469
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Mother Harlot
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Trafuri MP:5
+2-Fire Breath MP:21
+3-Sea of Chaos MP:45
+4-Iron Judgement MP:8
+5-Mamudo MP:18
+6-Recarmdra MP:2
+7-Mortal Jihad MP:13
+8-Cancelar
+INPUT: 5
+----------------------------------------
+Yu ataca con oscuridad a Joker
+Joker bloquea el ataque de Yu
+Joker termina con HP:178/597
+Yu ataca con oscuridad a Mithra
+Mithra bloquea el ataque de Yu
+Mithra termina con HP:145/441
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:178/597 MP:321/347
+B-
+C-Mithra HP:145/441 MP:198/198
+D-
+Equipo de Yu (J2)
+A-Yu HP:409/597 MP:308/347
+B-Mother Harlot HP:417/484 MP:405/469
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mithra
+2-Joker
+----------------------------------------
+Seleccione una acción para Mithra
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mithra
+1-Yu HP:409/597 MP:308/347
+2-Mother Harlot HP:417/484 MP:405/469
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Mithra
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mithra use
+1-Hamaon MP:10
+2-Mortal Jihad MP:13
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mithra
+1-Yu HP:409/597 MP:308/347
+2-Mother Harlot HP:417/484 MP:405/469
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Mithra ataca con luz a Yu
+Yu ha sido eliminado
+Yu termina con HP:0/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:178/597 MP:321/347
+B-
+C-Mithra HP:145/441 MP:188/198
+D-
+Equipo de Yu (J2)
+A-Yu HP:0/597 MP:308/347
+B-Mother Harlot HP:417/484 MP:405/469
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Mithra
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Bad Company MP:15
+2-Mahama MP:18
+3-Glacial Blast MP:22
+4-Media MP:12
+5-Mabufu MP:11
+6-Axel Claw MP:15
+7-Bufula MP:8
+8-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Mother Harlot HP:417/484 MP:405/469
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Mother Harlot HP:417/484 MP:405/469
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Bad Company MP:15
+2-Mahama MP:18
+3-Glacial Blast MP:22
+4-Media MP:12
+5-Mabufu MP:11
+6-Axel Claw MP:15
+7-Bufula MP:8
+8-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Mithra HP:145/441 MP:188/198 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Pendragon ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:178/597 MP:306/347
+B-
+C-Mithra HP:145/441 MP:188/198
+D-Pendragon HP:719/719 MP:143/143
+Equipo de Yu (J2)
+A-Yu HP:0/597 MP:308/347
+B-Mother Harlot HP:417/484 MP:405/469
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mother Harlot
+----------------------------------------
+Seleccione una acción para Mother Harlot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lord Nan Dou HP:482/549 MP:108/108
+2-Churel HP:197/197 MP:190/190
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Lord Nan Dou ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:178/597 MP:306/347
+B-
+C-Mithra HP:145/441 MP:188/198
+D-Pendragon HP:719/719 MP:143/143
+Equipo de Yu (J2)
+A-Yu HP:0/597 MP:308/347
+B-Lord Nan Dou HP:482/549 MP:108/108
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lord Nan Dou use
+1-Maragidyne MP:32
+2-Berserker God MP:12
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Joker HP:178/597 MP:306/347
+2-Mithra HP:145/441 MP:188/198
+3-Pendragon HP:719/719 MP:143/143
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Lord Nan Dou ataca a Mithra
+Mithra recibe 41 de daño
+Mithra termina con HP:104/441
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:178/597 MP:306/347
+B-
+C-Mithra HP:104/441 MP:188/198
+D-Pendragon HP:719/719 MP:143/143
+Equipo de Yu (J2)
+A-Yu HP:0/597 MP:308/347
+B-Lord Nan Dou HP:482/549 MP:108/108
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pendragon
+2-Mithra
+3-Joker
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pendragon use
+1-Ice Breath MP:21
+2-Titanomachia MP:30
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Pendragon ataca a Lord Nan Dou
+Lord Nan Dou recibe 132 de daño
+Lord Nan Dou termina con HP:350/549
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:178/597 MP:306/347
+B-
+C-Mithra HP:104/441 MP:188/198
+D-Pendragon HP:719/719 MP:113/143
+Equipo de Yu (J2)
+A-Yu HP:0/597 MP:308/347
+B-Lord Nan Dou HP:350/549 MP:108/108
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mithra
+2-Joker
+3-Pendragon
+----------------------------------------
+Seleccione una acción para Mithra
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mithra use
+1-Hamaon MP:10
+2-Mortal Jihad MP:13
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Mithra
+1-Lord Nan Dou HP:350/549 MP:108/108
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Mithra ataca a Lord Nan Dou
+Lord Nan Dou recibe 118 de daño
+Lord Nan Dou termina con HP:232/549
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:178/597 MP:306/347
+B-
+C-Mithra HP:104/441 MP:175/198
+D-Pendragon HP:719/719 MP:113/143
+Equipo de Yu (J2)
+A-Yu HP:0/597 MP:308/347
+B-Lord Nan Dou HP:232/549 MP:108/108
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Pendragon
+3-Mithra
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Lord Nan Dou HP:232/549 MP:108/108
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Lord Nan Dou HP:232/549 MP:108/108
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Lord Nan Dou HP:232/549 MP:108/108
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Joker ataca a Lord Nan Dou
+Lord Nan Dou recibe 28 de daño
+Lord Nan Dou termina con HP:204/549
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:178/597 MP:306/347
+B-
+C-Mithra HP:104/441 MP:175/198
+D-Pendragon HP:719/719 MP:113/143
+Equipo de Yu (J2)
+A-Yu HP:0/597 MP:308/347
+B-Lord Nan Dou HP:204/549 MP:108/108
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lord Nan Dou
+1-Joker HP:178/597 MP:306/347
+2-Mithra HP:104/441 MP:175/198
+3-Pendragon HP:719/719 MP:113/143
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:178/597 MP:306/347
+B-
+C-Mithra HP:104/441 MP:175/198
+D-Pendragon HP:719/719 MP:113/143
+Equipo de Yu (J2)
+A-Yu HP:0/597 MP:308/347
+B-Lord Nan Dou HP:204/549 MP:108/108
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:178/597 MP:306/347
+B-
+C-Mithra HP:104/441 MP:175/198
+D-Pendragon HP:719/719 MP:113/143
+Equipo de Yu (J2)
+A-Yu HP:0/597 MP:308/347
+B-Lord Nan Dou HP:204/549 MP:108/108
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pendragon
+2-Mithra
+3-Joker
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pendragon use
+1-Ice Breath MP:21
+2-Titanomachia MP:30
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pendragon
+1-Lord Nan Dou HP:204/549 MP:108/108
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Pendragon ataca a Lord Nan Dou
+Lord Nan Dou recibe 55 de daño
+Lord Nan Dou termina con HP:149/549
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:178/597 MP:306/347
+B-
+C-Mithra HP:104/441 MP:175/198
+D-Pendragon HP:719/719 MP:113/143
+Equipo de Yu (J2)
+A-Yu HP:0/597 MP:308/347
+B-Lord Nan Dou HP:149/549 MP:108/108
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mithra
+2-Joker
+3-Pendragon
+----------------------------------------
+Seleccione una acción para Mithra
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mithra use
+1-Hamaon MP:10
+2-Mortal Jihad MP:13
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Mithra
+1-Lord Nan Dou HP:149/549 MP:108/108
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Mithra
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mithra use
+1-Hamaon MP:10
+2-Mortal Jihad MP:13
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Mithra
+1-Lord Nan Dou HP:149/549 MP:108/108
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Mithra ataca a Lord Nan Dou
+Lord Nan Dou recibe 118 de daño
+Lord Nan Dou termina con HP:31/549
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:178/597 MP:306/347
+B-
+C-Mithra HP:104/441 MP:162/198
+D-Pendragon HP:719/719 MP:113/143
+Equipo de Yu (J2)
+A-Yu HP:0/597 MP:308/347
+B-Lord Nan Dou HP:31/549 MP:108/108
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Pendragon
+3-Mithra
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Lord Nan Dou HP:31/549 MP:108/108
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Lord Nan Dou HP:31/549 MP:108/108
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Lord Nan Dou HP:31/549 MP:108/108
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Michizane HP:658/658 MP:296/296
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Lord Nan Dou HP:31/549 MP:108/108
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:178/597 MP:306/347
+B-
+C-Mithra HP:104/441 MP:162/198
+D-Pendragon HP:719/719 MP:113/143
+Equipo de Yu (J2)
+A-Yu HP:0/597 MP:308/347
+B-Lord Nan Dou HP:31/549 MP:108/108
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pendragon
+2-Mithra
+3-Joker
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:178/597 MP:306/347
+B-
+C-Mithra HP:104/441 MP:162/198
+D-Pendragon HP:719/719 MP:113/143
+Equipo de Yu (J2)
+A-Yu HP:0/597 MP:308/347
+B-Lord Nan Dou HP:31/549 MP:108/108
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lord Nan Dou
+----------------------------------------
+Seleccione una acción para Lord Nan Dou
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lord Nan Dou use
+1-Maragidyne MP:32
+2-Berserker God MP:12
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Lord Nan Dou lanza fuego a Joker
+Joker recibe 91 de daño
+Joker termina con HP:87/597
+Lord Nan Dou lanza fuego a Mithra
+Mithra es resistente el ataque de Lord Nan Dou
+Mithra recibe 45 de daño
+Mithra termina con HP:59/441
+Lord Nan Dou lanza fuego a Pendragon
+Pendragon recibe 91 de daño
+Pendragon termina con HP:628/719
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:87/597 MP:306/347
+B-
+C-Mithra HP:59/441 MP:162/198
+D-Pendragon HP:628/719 MP:113/143
+Equipo de Yu (J2)
+A-Yu HP:0/597 MP:308/347
+B-Lord Nan Dou HP:31/549 MP:76/108
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pendragon
+2-Mithra
+3-Joker
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pendragon
+1-Lord Nan Dou HP:31/549 MP:76/108
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Michizane HP:658/658 MP:296/296
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Pendragon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:87/597 MP:306/347
+B-
+C-Mithra HP:59/441 MP:162/198
+D-Pendragon HP:628/719 MP:113/143
+Equipo de Yu (J2)
+A-Yu HP:0/597 MP:308/347
+B-Lord Nan Dou HP:31/549 MP:76/108
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mithra
+2-Joker
+3-Pendragon
+----------------------------------------
+Seleccione una acción para Mithra
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Michizane HP:658/658 MP:296/296
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Mithra
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Michizane HP:658/658 MP:296/296
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Mithra
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mithra
+1-Lord Nan Dou HP:31/549 MP:76/108
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Mithra
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mithra use
+1-Hamaon MP:10
+2-Mortal Jihad MP:13
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Mithra
+1-Lord Nan Dou HP:31/549 MP:76/108
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Mithra ataca a Lord Nan Dou
+Lord Nan Dou recibe 118 de daño
+Lord Nan Dou termina con HP:0/549
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Joker (J1)

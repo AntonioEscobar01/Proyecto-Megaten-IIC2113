@@ -246,11 +246,11 @@ public class UnitActionController
         {
             return HandleOffensiveSkillExecution(currentUnit, skillData);
         }
-        else if (IsHealingSkill(skillData.type))
+        if (IsHealingSkill(skillData.type))
         {
             return WasHealingSkillCancelled(currentUnit, skillData);
         }
-        else if (IsSpecialSkill(skillData.type))
+        if (IsSpecialSkill(skillData.type))
         {
             return WasSpecialSkillCancelled(currentUnit, skillData);
         }

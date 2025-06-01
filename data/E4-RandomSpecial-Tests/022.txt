@@ -1,0 +1,2091 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 21
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Tlazolteotl HP:315/315 MP:306/306
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Taown HP:709/709 MP:140/140
+C-Hokuto Seikun HP:348/348 MP:337/337
+D-Nue HP:341/341 MP:67/67
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tlazolteotl
+2-Tadano
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tlazolteotl
+1-Yu HP:597/597 MP:347/347
+2-Taown HP:709/709 MP:140/140
+3-Hokuto Seikun HP:348/348 MP:337/337
+4-Nue HP:341/341 MP:67/67
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tlazolteotl
+1-Yu HP:597/597 MP:347/347
+2-Taown HP:709/709 MP:140/140
+3-Hokuto Seikun HP:348/348 MP:337/337
+4-Nue HP:341/341 MP:67/67
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Tlazolteotl ataca a Hokuto Seikun
+Hokuto Seikun recibe 33 de daño
+Hokuto Seikun termina con HP:315/348
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Tlazolteotl HP:315/315 MP:306/306
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Taown HP:709/709 MP:140/140
+C-Hokuto Seikun HP:315/348 MP:337/337
+D-Nue HP:341/341 MP:67/67
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Tlazolteotl
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:597/597 MP:347/347
+2-Taown HP:709/709 MP:140/140
+3-Hokuto Seikun HP:315/348 MP:337/337
+4-Nue HP:341/341 MP:67/67
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tadano ataca a Taown
+Taown recibe 16 de daño
+Taown termina con HP:693/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Tlazolteotl HP:315/315 MP:306/306
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Taown HP:693/709 MP:140/140
+C-Hokuto Seikun HP:315/348 MP:337/337
+D-Nue HP:341/341 MP:67/67
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Taown
+3-Hokuto Seikun
+4-Nue
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tadano HP:388/388 MP:193/193
+2-Tlazolteotl HP:315/315 MP:306/306
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Yu ataca a Tlazolteotl
+Tlazolteotl recibe 49 de daño
+Tlazolteotl termina con HP:266/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Tlazolteotl HP:266/315 MP:306/306
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Taown HP:693/709 MP:140/140
+C-Hokuto Seikun HP:315/348 MP:337/337
+D-Nue HP:341/341 MP:67/67
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Hokuto Seikun
+3-Nue
+4-Yu
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Taown use
+1-Ziodyne MP:14
+2-Madness Needle MP:11
+3-Nihil Claw MP:11
+4-Mediarama MP:22
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Tadano HP:388/388 MP:193/193
+2-Tlazolteotl HP:266/315 MP:306/306
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Taown use
+1-Ziodyne MP:14
+2-Madness Needle MP:11
+3-Nihil Claw MP:11
+4-Mediarama MP:22
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Tadano HP:388/388 MP:193/193
+2-Tlazolteotl HP:266/315 MP:306/306
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Tlazolteotl HP:266/315 MP:306/306
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Taown HP:693/709 MP:140/140
+C-Hokuto Seikun HP:315/348 MP:337/337
+D-Nue HP:341/341 MP:67/67
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hokuto Seikun
+2-Nue
+3-Yu
+4-Taown
+----------------------------------------
+Seleccione una acción para Hokuto Seikun
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hokuto Seikun
+1-Tadano HP:388/388 MP:193/193
+2-Tlazolteotl HP:266/315 MP:306/306
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Hokuto Seikun ataca a Tlazolteotl
+Tlazolteotl recibe 36 de daño
+Tlazolteotl termina con HP:230/315
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Tlazolteotl HP:230/315 MP:306/306
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Taown HP:693/709 MP:140/140
+C-Hokuto Seikun HP:315/348 MP:337/337
+D-Nue HP:341/341 MP:67/67
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nue
+2-Yu
+3-Taown
+4-Hokuto Seikun
+----------------------------------------
+Seleccione una acción para Nue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nue
+1-Tadano HP:388/388 MP:193/193
+2-Tlazolteotl HP:230/315 MP:306/306
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Nue ataca a Tlazolteotl
+Tlazolteotl recibe 24 de daño
+Tlazolteotl termina con HP:206/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Tlazolteotl HP:206/315 MP:306/306
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Taown HP:693/709 MP:140/140
+C-Hokuto Seikun HP:315/348 MP:337/337
+D-Nue HP:341/341 MP:67/67
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Taown
+3-Hokuto Seikun
+4-Nue
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Tlazolteotl HP:206/315 MP:306/306
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Taown HP:693/709 MP:140/140
+C-Hokuto Seikun HP:315/348 MP:337/337
+D-Nue HP:341/341 MP:67/67
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Taown
+2-Hokuto Seikun
+3-Nue
+4-Yu
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Taown use
+1-Ziodyne MP:14
+2-Madness Needle MP:11
+3-Nihil Claw MP:11
+4-Mediarama MP:22
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Taown cura a Yu
+Yu recibe 298 de HP
+Yu termina con HP:597/597
+Taown cura a Hokuto Seikun
+Hokuto Seikun recibe 174 de HP
+Hokuto Seikun termina con HP:348/348
+Taown cura a Nue
+Nue recibe 170 de HP
+Nue termina con HP:341/341
+Taown cura a Taown
+Taown recibe 354 de HP
+Taown termina con HP:709/709
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Tlazolteotl HP:206/315 MP:306/306
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:597/597 MP:347/347
+B-Taown HP:709/709 MP:118/140
+C-Hokuto Seikun HP:348/348 MP:337/337
+D-Nue HP:341/341 MP:67/67
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tlazolteotl
+2-Tadano
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tlazolteotl use
+1-Mabufula MP:20
+2-Posumudi MP:5
+3-Recarmdra MP:2
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Tlazolteotl lanza hielo a Yu
+Yu es resistente el ataque de Tlazolteotl
+Yu recibe 48 de daño
+Yu termina con HP:549/597
+Tlazolteotl lanza hielo a Taown
+Taown recibe 96 de daño
+Taown termina con HP:613/709
+Tlazolteotl lanza hielo a Hokuto Seikun
+Hokuto Seikun es resistente el ataque de Tlazolteotl
+Hokuto Seikun recibe 48 de daño
+Hokuto Seikun termina con HP:300/348
+Tlazolteotl lanza hielo a Nue
+Nue recibe 96 de daño
+Nue termina con HP:245/341
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Tlazolteotl HP:206/315 MP:286/306
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:549/597 MP:347/347
+B-Taown HP:613/709 MP:118/140
+C-Hokuto Seikun HP:300/348 MP:337/337
+D-Nue HP:245/341 MP:67/67
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Tlazolteotl
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:549/597 MP:347/347
+2-Taown HP:613/709 MP:118/140
+3-Hokuto Seikun HP:300/348 MP:337/337
+4-Nue HP:245/341 MP:67/67
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Tadano ataca a Hokuto Seikun
+Hokuto Seikun recibe 16 de daño
+Hokuto Seikun termina con HP:284/348
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Tlazolteotl HP:206/315 MP:286/306
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:549/597 MP:347/347
+B-Taown HP:613/709 MP:118/140
+C-Hokuto Seikun HP:284/348 MP:337/337
+D-Nue HP:245/341 MP:67/67
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Taown
+3-Hokuto Seikun
+4-Nue
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Tlazolteotl HP:206/315 MP:286/306
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:549/597 MP:347/347
+B-Taown HP:613/709 MP:118/140
+C-Hokuto Seikun HP:284/348 MP:337/337
+D-Nue HP:245/341 MP:67/67
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Taown
+2-Hokuto Seikun
+3-Nue
+4-Yu
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Tadano HP:388/388 MP:193/193
+2-Tlazolteotl HP:206/315 MP:286/306
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Taown ataca a Tlazolteotl
+Tlazolteotl recibe 54 de daño
+Tlazolteotl termina con HP:152/315
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-Tlazolteotl HP:152/315 MP:286/306
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:549/597 MP:347/347
+B-Taown HP:613/709 MP:118/140
+C-Hokuto Seikun HP:284/348 MP:337/337
+D-Nue HP:245/341 MP:67/67
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hokuto Seikun
+2-Nue
+3-Yu
+4-Taown
+----------------------------------------
+Seleccione una acción para Hokuto Seikun
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hokuto Seikun use
+1-Glacial Blast MP:22
+2-Samarecarm MP:40
+3-Bufudyne MP:14
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Hokuto Seikun lanza hielo a Tadano
+Tadano recibe 164 de daño
+Tadano termina con HP:224/388
+Hokuto Seikun lanza hielo a Tlazolteotl
+Tlazolteotl absorbe 164 daño
+Tlazolteotl termina con HP:315/315
+----------------------------------------
+Se han consumido 3 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:224/388 MP:193/193
+B-Tlazolteotl HP:315/315 MP:286/306
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:549/597 MP:347/347
+B-Taown HP:613/709 MP:118/140
+C-Hokuto Seikun HP:284/348 MP:315/337
+D-Nue HP:245/341 MP:67/67
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tlazolteotl
+2-Tadano
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tlazolteotl
+1-Yu HP:549/597 MP:347/347
+2-Taown HP:613/709 MP:118/140
+3-Hokuto Seikun HP:284/348 MP:315/337
+4-Nue HP:245/341 MP:67/67
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Tlazolteotl ataca a Hokuto Seikun
+Hokuto Seikun recibe 33 de daño
+Hokuto Seikun termina con HP:251/348
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:224/388 MP:193/193
+B-Tlazolteotl HP:315/315 MP:286/306
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:549/597 MP:347/347
+B-Taown HP:613/709 MP:118/140
+C-Hokuto Seikun HP:251/348 MP:315/337
+D-Nue HP:245/341 MP:67/67
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+2-Tlazolteotl
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:549/597 MP:347/347
+2-Taown HP:613/709 MP:118/140
+3-Hokuto Seikun HP:251/348 MP:315/337
+4-Nue HP:245/341 MP:67/67
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Tadano ataca a Nue
+Nue recibe 16 de daño
+Nue termina con HP:229/341
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:224/388 MP:193/193
+B-Tlazolteotl HP:315/315 MP:286/306
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:549/597 MP:347/347
+B-Taown HP:613/709 MP:118/140
+C-Hokuto Seikun HP:251/348 MP:315/337
+D-Nue HP:229/341 MP:67/67
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Taown
+3-Hokuto Seikun
+4-Nue
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:224/388 MP:193/193
+B-Tlazolteotl HP:315/315 MP:286/306
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:549/597 MP:347/347
+B-Taown HP:613/709 MP:118/140
+C-Hokuto Seikun HP:251/348 MP:315/337
+D-Nue HP:229/341 MP:67/67
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Taown
+2-Hokuto Seikun
+3-Nue
+4-Yu
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Taown use
+1-Ziodyne MP:14
+2-Madness Needle MP:11
+3-Nihil Claw MP:11
+4-Mediarama MP:22
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Taown
+1-Tadano HP:224/388 MP:193/193
+2-Tlazolteotl HP:315/315 MP:286/306
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Taown lanza electricidad a Tlazolteotl
+Tlazolteotl recibe 113 de daño
+Tlazolteotl termina con HP:202/315
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:224/388 MP:193/193
+B-Tlazolteotl HP:202/315 MP:286/306
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:549/597 MP:347/347
+B-Taown HP:613/709 MP:104/140
+C-Hokuto Seikun HP:251/348 MP:315/337
+D-Nue HP:229/341 MP:67/67
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hokuto Seikun
+2-Nue
+3-Yu
+4-Taown
+----------------------------------------
+Seleccione una acción para Hokuto Seikun
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hokuto Seikun
+1-Tadano HP:224/388 MP:193/193
+2-Tlazolteotl HP:202/315 MP:286/306
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Hokuto Seikun ataca a Tlazolteotl
+Tlazolteotl recibe 36 de daño
+Tlazolteotl termina con HP:166/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:224/388 MP:193/193
+B-Tlazolteotl HP:166/315 MP:286/306
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:549/597 MP:347/347
+B-Taown HP:613/709 MP:104/140
+C-Hokuto Seikun HP:251/348 MP:315/337
+D-Nue HP:229/341 MP:67/67
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nue
+2-Yu
+3-Taown
+4-Hokuto Seikun
+----------------------------------------
+Seleccione una acción para Nue
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Vivian HP:319/319 MP:310/310
+2-Hamsa HP:91/91 MP:40/40
+3-Pallas Athena HP:577/577 MP:115/115
+4-Churel HP:197/197 MP:190/190
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Pallas Athena ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:224/388 MP:193/193
+B-Tlazolteotl HP:166/315 MP:286/306
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:549/597 MP:347/347
+B-Taown HP:613/709 MP:104/140
+C-Hokuto Seikun HP:251/348 MP:315/337
+D-Pallas Athena HP:577/577 MP:115/115
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Taown
+3-Hokuto Seikun
+4-Pallas Athena
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:224/388 MP:193/193
+B-Tlazolteotl HP:166/315 MP:286/306
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:549/597 MP:347/347
+B-Taown HP:613/709 MP:104/140
+C-Hokuto Seikun HP:251/348 MP:315/337
+D-Pallas Athena HP:577/577 MP:115/115
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Hokuto Seikun
+3-Pallas Athena
+4-Yu
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nue HP:229/341 MP:67/67
+2-Vivian HP:319/319 MP:310/310
+3-Hamsa HP:91/91 MP:40/40
+4-Churel HP:197/197 MP:190/190
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Hamsa ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:224/388 MP:193/193
+B-Tlazolteotl HP:166/315 MP:286/306
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:549/597 MP:347/347
+B-Hamsa HP:91/91 MP:40/40
+C-Hokuto Seikun HP:251/348 MP:315/337
+D-Pallas Athena HP:577/577 MP:115/115
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hokuto Seikun
+2-Pallas Athena
+3-Yu
+4-Hamsa
+----------------------------------------
+Seleccione una acción para Hokuto Seikun
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Taown HP:613/709 MP:104/140
+2-Nue HP:229/341 MP:67/67
+3-Vivian HP:319/319 MP:310/310
+4-Churel HP:197/197 MP:190/190
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Hokuto Seikun
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Taown HP:613/709 MP:104/140
+2-Nue HP:229/341 MP:67/67
+3-Vivian HP:319/319 MP:310/310
+4-Churel HP:197/197 MP:190/190
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Hokuto Seikun
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hokuto Seikun
+1-Tadano HP:224/388 MP:193/193
+2-Tlazolteotl HP:166/315 MP:286/306
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Hokuto Seikun ataca a Tlazolteotl
+Tlazolteotl recibe 36 de daño
+Tlazolteotl termina con HP:130/315
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:224/388 MP:193/193
+B-Tlazolteotl HP:130/315 MP:286/306
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:549/597 MP:347/347
+B-Hamsa HP:91/91 MP:40/40
+C-Hokuto Seikun HP:251/348 MP:315/337
+D-Pallas Athena HP:577/577 MP:115/115
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tlazolteotl
+2-Tadano
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:224/388 MP:193/193
+B-Tlazolteotl HP:130/315 MP:286/306
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:549/597 MP:347/347
+B-Hamsa HP:91/91 MP:40/40
+C-Hokuto Seikun HP:251/348 MP:315/337
+D-Pallas Athena HP:577/577 MP:115/115
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Tlazolteotl
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:549/597 MP:347/347
+2-Hamsa HP:91/91 MP:40/40
+3-Hokuto Seikun HP:251/348 MP:315/337
+4-Pallas Athena HP:577/577 MP:115/115
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tadano dispara a Hamsa
+Hamsa es débil contra el ataque de Tadano
+Hamsa recibe 31 de daño
+Hamsa termina con HP:60/91
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:224/388 MP:193/193
+B-Tlazolteotl HP:130/315 MP:286/306
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:549/597 MP:347/347
+B-Hamsa HP:60/91 MP:40/40
+C-Hokuto Seikun HP:251/348 MP:315/337
+D-Pallas Athena HP:577/577 MP:115/115
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Tlazolteotl
+2-Tadano
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tlazolteotl
+1-Yu HP:549/597 MP:347/347
+2-Hamsa HP:60/91 MP:40/40
+3-Hokuto Seikun HP:251/348 MP:315/337
+4-Pallas Athena HP:577/577 MP:115/115
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Tlazolteotl ataca a Pallas Athena
+Pallas Athena es resistente el ataque de Tlazolteotl
+Pallas Athena recibe 16 de daño
+Pallas Athena termina con HP:561/577
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:224/388 MP:193/193
+B-Tlazolteotl HP:130/315 MP:286/306
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:549/597 MP:347/347
+B-Hamsa HP:60/91 MP:40/40
+C-Hokuto Seikun HP:251/348 MP:315/337
+D-Pallas Athena HP:561/577 MP:115/115
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+2-Tlazolteotl
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tadano use
+1-Trafuri MP:5
+2-Bufudyne MP:14
+3-Concentrate MP:11
+4-Zionga MP:8
+5-Thunder Reign MP:22
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Yu HP:549/597 MP:347/347
+2-Hamsa HP:60/91 MP:40/40
+3-Hokuto Seikun HP:251/348 MP:315/337
+4-Pallas Athena HP:561/577 MP:115/115
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Tadano lanza electricidad a Pallas Athena
+Pallas Athena recibe 62 de daño
+Pallas Athena termina con HP:499/577
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:224/388 MP:185/193
+B-Tlazolteotl HP:130/315 MP:286/306
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:549/597 MP:347/347
+B-Hamsa HP:60/91 MP:40/40
+C-Hokuto Seikun HP:251/348 MP:315/337
+D-Pallas Athena HP:499/577 MP:115/115
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Hokuto Seikun
+3-Pallas Athena
+4-Hamsa
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:224/388 MP:185/193
+B-Tlazolteotl HP:130/315 MP:286/306
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:549/597 MP:347/347
+B-Hamsa HP:60/91 MP:40/40
+C-Hokuto Seikun HP:251/348 MP:315/337
+D-Pallas Athena HP:499/577 MP:115/115
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hokuto Seikun
+2-Pallas Athena
+3-Hamsa
+4-Yu
+----------------------------------------
+Seleccione una acción para Hokuto Seikun
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hokuto Seikun use
+1-Glacial Blast MP:22
+2-Samarecarm MP:40
+3-Bufudyne MP:14
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Hokuto Seikun lanza hielo a Tadano
+Tadano recibe 164 de daño
+Hokuto Seikun lanza hielo a Tadano
+Tadano recibe 164 de daño
+Tadano termina con HP:0/388
+Hokuto Seikun lanza hielo a Tlazolteotl
+Tlazolteotl absorbe 164 daño
+Hokuto Seikun lanza hielo a Tlazolteotl
+Tlazolteotl absorbe 164 daño
+Tlazolteotl termina con HP:315/315
+----------------------------------------
+Se han consumido 3 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:185/193
+B-Tlazolteotl HP:315/315 MP:286/306
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:549/597 MP:347/347
+B-Hamsa HP:60/91 MP:40/40
+C-Hokuto Seikun HP:251/348 MP:293/337
+D-Pallas Athena HP:499/577 MP:115/115
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tlazolteotl
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tlazolteotl
+1-Yu HP:549/597 MP:347/347
+2-Hamsa HP:60/91 MP:40/40
+3-Hokuto Seikun HP:251/348 MP:293/337
+4-Pallas Athena HP:499/577 MP:115/115
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Tlazolteotl ataca a Pallas Athena
+Pallas Athena es resistente el ataque de Tlazolteotl
+Pallas Athena recibe 16 de daño
+Pallas Athena termina con HP:483/577
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:185/193
+B-Tlazolteotl HP:315/315 MP:286/306
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:549/597 MP:347/347
+B-Hamsa HP:60/91 MP:40/40
+C-Hokuto Seikun HP:251/348 MP:293/337
+D-Pallas Athena HP:483/577 MP:115/115
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Hokuto Seikun
+3-Pallas Athena
+4-Hamsa
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:185/193
+B-Tlazolteotl HP:315/315 MP:286/306
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:549/597 MP:347/347
+B-Hamsa HP:60/91 MP:40/40
+C-Hokuto Seikun HP:251/348 MP:293/337
+D-Pallas Athena HP:483/577 MP:115/115
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hokuto Seikun
+2-Pallas Athena
+3-Hamsa
+4-Yu
+----------------------------------------
+Seleccione una acción para Hokuto Seikun
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:185/193
+B-Tlazolteotl HP:315/315 MP:286/306
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:549/597 MP:347/347
+B-Hamsa HP:60/91 MP:40/40
+C-Hokuto Seikun HP:251/348 MP:293/337
+D-Pallas Athena HP:483/577 MP:115/115
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pallas Athena
+2-Hamsa
+3-Yu
+4-Hokuto Seikun
+----------------------------------------
+Seleccione una acción para Pallas Athena
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Taown HP:613/709 MP:104/140
+2-Nue HP:229/341 MP:67/67
+3-Vivian HP:319/319 MP:310/310
+4-Churel HP:197/197 MP:190/190
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Pallas Athena
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pallas Athena use
+1-Makarakarn MP:50
+2-Mortal Jihad MP:13
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Pallas Athena
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pallas Athena use
+1-Makarakarn MP:50
+2-Mortal Jihad MP:13
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Pallas Athena
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Taown HP:613/709 MP:104/140
+2-Nue HP:229/341 MP:67/67
+3-Vivian HP:319/319 MP:310/310
+4-Churel HP:197/197 MP:190/190
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Vivian ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:185/193
+B-Tlazolteotl HP:315/315 MP:286/306
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:549/597 MP:347/347
+B-Hamsa HP:60/91 MP:40/40
+C-Hokuto Seikun HP:251/348 MP:293/337
+D-Vivian HP:319/319 MP:310/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hamsa
+2-Yu
+3-Hokuto Seikun
+4-Vivian
+----------------------------------------
+Seleccione una acción para Hamsa
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:185/193
+B-Tlazolteotl HP:315/315 MP:286/306
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:549/597 MP:347/347
+B-Hamsa HP:60/91 MP:40/40
+C-Hokuto Seikun HP:251/348 MP:293/337
+D-Vivian HP:319/319 MP:310/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Hokuto Seikun
+3-Vivian
+4-Hamsa
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tlazolteotl HP:315/315 MP:286/306
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tlazolteotl HP:315/315 MP:286/306
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu dispara a Tlazolteotl
+Tlazolteotl recibe 72 de daño
+Tlazolteotl termina con HP:243/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:185/193
+B-Tlazolteotl HP:243/315 MP:286/306
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:549/597 MP:347/347
+B-Hamsa HP:60/91 MP:40/40
+C-Hokuto Seikun HP:251/348 MP:293/337
+D-Vivian HP:319/319 MP:310/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hokuto Seikun
+2-Vivian
+3-Hamsa
+4-Yu
+----------------------------------------
+Seleccione una acción para Hokuto Seikun
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hokuto Seikun
+1-Tlazolteotl HP:243/315 MP:286/306
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hokuto Seikun
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:185/193
+B-Tlazolteotl HP:243/315 MP:286/306
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:549/597 MP:347/347
+B-Hamsa HP:60/91 MP:40/40
+C-Hokuto Seikun HP:251/348 MP:293/337
+D-Vivian HP:319/319 MP:310/310
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Vivian
+2-Hamsa
+3-Yu
+4-Hokuto Seikun
+----------------------------------------
+Seleccione una acción para Vivian
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Taown HP:613/709 MP:104/140
+2-Nue HP:229/341 MP:67/67
+3-Pallas Athena HP:483/577 MP:115/115
+4-Churel HP:197/197 MP:190/190
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Vivian
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Taown HP:613/709 MP:104/140
+2-Nue HP:229/341 MP:67/67
+3-Pallas Athena HP:483/577 MP:115/115
+4-Churel HP:197/197 MP:190/190
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Taown ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:185/193
+B-Tlazolteotl HP:243/315 MP:286/306
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:549/597 MP:347/347
+B-Hamsa HP:60/91 MP:40/40
+C-Hokuto Seikun HP:251/348 MP:293/337
+D-Taown HP:613/709 MP:104/140
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tlazolteotl
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:0/388 MP:185/193
+B-Tlazolteotl HP:243/315 MP:286/306
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:549/597 MP:347/347
+B-Hamsa HP:60/91 MP:40/40
+C-Hokuto Seikun HP:251/348 MP:293/337
+D-Taown HP:613/709 MP:104/140
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tlazolteotl
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tlazolteotl use
+1-Mabufula MP:20
+2-Posumudi MP:5
+3-Recarmdra MP:2
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Tlazolteotl revive a Tadano
+Tadano recibe 194 de HP
+Tadano termina con HP:194/388
+Tlazolteotl termina con HP:0/315
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:194/388 MP:185/193
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:549/597 MP:347/347
+B-Hamsa HP:60/91 MP:40/40
+C-Hokuto Seikun HP:251/348 MP:293/337
+D-Taown HP:613/709 MP:104/140
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Taown
+3-Hokuto Seikun
+4-Hamsa
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Tadano HP:194/388 MP:185/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu dispara a Tadano
+Tadano recibe 72 de daño
+Tadano termina con HP:122/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:122/388 MP:185/193
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:549/597 MP:347/347
+B-Hamsa HP:60/91 MP:40/40
+C-Hokuto Seikun HP:251/348 MP:293/337
+D-Taown HP:613/709 MP:104/140
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Taown
+2-Hokuto Seikun
+3-Hamsa
+4-Yu
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:122/388 MP:185/193
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:549/597 MP:347/347
+B-Hamsa HP:60/91 MP:40/40
+C-Hokuto Seikun HP:251/348 MP:293/337
+D-Taown HP:613/709 MP:104/140
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hokuto Seikun
+2-Hamsa
+3-Yu
+4-Taown
+----------------------------------------
+Seleccione una acción para Hokuto Seikun
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:122/388 MP:185/193
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:549/597 MP:347/347
+B-Hamsa HP:60/91 MP:40/40
+C-Hokuto Seikun HP:251/348 MP:293/337
+D-Taown HP:613/709 MP:104/140
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hamsa
+2-Yu
+3-Taown
+4-Hokuto Seikun
+----------------------------------------
+Seleccione una acción para Hamsa
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hamsa
+1-Tadano HP:122/388 MP:185/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Hamsa ataca a Tadano
+Tadano es resistente el ataque de Hamsa
+Tadano recibe 2 de daño
+Tadano termina con HP:120/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:120/388 MP:185/193
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:549/597 MP:347/347
+B-Hamsa HP:60/91 MP:40/40
+C-Hokuto Seikun HP:251/348 MP:293/337
+D-Taown HP:613/709 MP:104/140
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Taown
+3-Hokuto Seikun
+4-Hamsa
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:120/388 MP:185/193
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:549/597 MP:347/347
+B-Hamsa HP:60/91 MP:40/40
+C-Hokuto Seikun HP:251/348 MP:293/337
+D-Taown HP:613/709 MP:104/140
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Taown
+2-Hokuto Seikun
+3-Hamsa
+4-Yu
+----------------------------------------
+Seleccione una acción para Taown
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nue HP:229/341 MP:67/67
+2-Vivian HP:319/319 MP:310/310
+3-Pallas Athena HP:483/577 MP:115/115
+4-Churel HP:197/197 MP:190/190
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Vivian ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:120/388 MP:185/193
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:549/597 MP:347/347
+B-Hamsa HP:60/91 MP:40/40
+C-Hokuto Seikun HP:251/348 MP:293/337
+D-Vivian HP:319/319 MP:310/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:120/388 MP:185/193
+B-
+C-
+D-
+Equipo de Yu (J2)
+A-Yu HP:549/597 MP:347/347
+B-Hamsa HP:60/91 MP:40/40
+C-Hokuto Seikun HP:251/348 MP:293/337
+D-Vivian HP:319/319 MP:310/310
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tadano use
+1-Trafuri MP:5
+2-Bufudyne MP:14
+3-Concentrate MP:11
+4-Zionga MP:8
+5-Thunder Reign MP:22
+6-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano (J1) se rinde
+----------------------------------------
+Ganador: Yu (J2)

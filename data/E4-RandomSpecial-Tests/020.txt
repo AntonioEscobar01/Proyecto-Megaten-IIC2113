@@ -1,0 +1,2706 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 19
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Alraune HP:427/427 MP:192/192
+C-Poltergeist HP:108/108 MP:104/104
+D-Astaroth HP:406/406 MP:181/181
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Okuninushi HP:416/416 MP:82/82
+C-Berserker HP:690/690 MP:136/136
+D-Enku HP:235/235 MP:228/228
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Astaroth
+2-Makoto
+3-Alraune
+4-Poltergeist
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Astaroth use
+1-Hades Blast MP:32
+2-Mabufudyne MP:32
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Astaroth ataca a Joker
+Joker recibe 103 de daño
+Joker termina con HP:494/597
+Astaroth ataca a Okuninushi
+Okuninushi recibe 103 de daño
+Okuninushi termina con HP:313/416
+Astaroth ataca a Berserker
+Berserker bloquea el ataque de Astaroth
+Berserker termina con HP:690/690
+Astaroth ataca a Enku
+Enku recibe 103 de daño
+Enku termina con HP:132/235
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Alraune HP:427/427 MP:192/192
+C-Poltergeist HP:108/108 MP:104/104
+D-Astaroth HP:406/406 MP:149/181
+Equipo de Joker (J2)
+A-Joker HP:494/597 MP:347/347
+B-Okuninushi HP:313/416 MP:82/82
+C-Berserker HP:690/690 MP:136/136
+D-Enku HP:132/235 MP:228/228
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Alraune
+3-Poltergeist
+4-Astaroth
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Joker HP:494/597 MP:347/347
+2-Okuninushi HP:313/416 MP:82/82
+3-Berserker HP:690/690 MP:136/136
+4-Enku HP:132/235 MP:228/228
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto dispara a Joker
+Joker recibe 57 de daño
+Joker termina con HP:437/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Alraune HP:427/427 MP:192/192
+C-Poltergeist HP:108/108 MP:104/104
+D-Astaroth HP:406/406 MP:149/181
+Equipo de Joker (J2)
+A-Joker HP:437/597 MP:347/347
+B-Okuninushi HP:313/416 MP:82/82
+C-Berserker HP:690/690 MP:136/136
+D-Enku HP:132/235 MP:228/228
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alraune
+2-Poltergeist
+3-Astaroth
+4-Makoto
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Alraune HP:427/427 MP:192/192
+C-Poltergeist HP:108/108 MP:104/104
+D-Astaroth HP:406/406 MP:149/181
+Equipo de Joker (J2)
+A-Joker HP:437/597 MP:347/347
+B-Okuninushi HP:313/416 MP:82/82
+C-Berserker HP:690/690 MP:136/136
+D-Enku HP:132/235 MP:228/228
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Poltergeist
+2-Astaroth
+3-Makoto
+4-Alraune
+----------------------------------------
+Seleccione una acción para Poltergeist
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Poltergeist
+1-Joker HP:437/597 MP:347/347
+2-Okuninushi HP:313/416 MP:82/82
+3-Berserker HP:690/690 MP:136/136
+4-Enku HP:132/235 MP:228/228
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Poltergeist ataca a Berserker
+Berserker bloquea el ataque de Poltergeist
+Berserker termina con HP:690/690
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Alraune HP:427/427 MP:192/192
+C-Poltergeist HP:108/108 MP:104/104
+D-Astaroth HP:406/406 MP:149/181
+Equipo de Joker (J2)
+A-Joker HP:437/597 MP:347/347
+B-Okuninushi HP:313/416 MP:82/82
+C-Berserker HP:690/690 MP:136/136
+D-Enku HP:132/235 MP:228/228
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Berserker
+2-Joker
+3-Okuninushi
+4-Enku
+----------------------------------------
+Seleccione una acción para Berserker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Berserker
+1-Makoto HP:597/597 MP:347/347
+2-Alraune HP:427/427 MP:192/192
+3-Poltergeist HP:108/108 MP:104/104
+4-Astaroth HP:406/406 MP:149/181
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Berserker ataca a Poltergeist
+Poltergeist recibe 52 de daño
+Poltergeist termina con HP:56/108
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Alraune HP:427/427 MP:192/192
+C-Poltergeist HP:56/108 MP:104/104
+D-Astaroth HP:406/406 MP:149/181
+Equipo de Joker (J2)
+A-Joker HP:437/597 MP:347/347
+B-Okuninushi HP:313/416 MP:82/82
+C-Berserker HP:690/690 MP:136/136
+D-Enku HP:132/235 MP:228/228
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Okuninushi
+3-Enku
+4-Berserker
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Alraune HP:427/427 MP:192/192
+C-Poltergeist HP:56/108 MP:104/104
+D-Astaroth HP:406/406 MP:149/181
+Equipo de Joker (J2)
+A-Joker HP:437/597 MP:347/347
+B-Okuninushi HP:313/416 MP:82/82
+C-Berserker HP:690/690 MP:136/136
+D-Enku HP:132/235 MP:228/228
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Okuninushi
+2-Enku
+3-Berserker
+4-Joker
+----------------------------------------
+Seleccione una acción para Okuninushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Okuninushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Alraune HP:427/427 MP:192/192
+C-Poltergeist HP:56/108 MP:104/104
+D-Astaroth HP:406/406 MP:149/181
+Equipo de Joker (J2)
+A-Joker HP:437/597 MP:347/347
+B-Okuninushi HP:313/416 MP:82/82
+C-Berserker HP:690/690 MP:136/136
+D-Enku HP:132/235 MP:228/228
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Berserker
+3-Joker
+4-Okuninushi
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Makoto HP:597/597 MP:347/347
+2-Alraune HP:427/427 MP:192/192
+3-Poltergeist HP:56/108 MP:104/104
+4-Astaroth HP:406/406 MP:149/181
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Enku ataca a Alraune
+Alraune recibe 24 de daño
+Alraune termina con HP:403/427
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Alraune HP:403/427 MP:192/192
+C-Poltergeist HP:56/108 MP:104/104
+D-Astaroth HP:406/406 MP:149/181
+Equipo de Joker (J2)
+A-Joker HP:437/597 MP:347/347
+B-Okuninushi HP:313/416 MP:82/82
+C-Berserker HP:690/690 MP:136/136
+D-Enku HP:132/235 MP:228/228
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Berserker
+2-Joker
+3-Okuninushi
+4-Enku
+----------------------------------------
+Seleccione una acción para Berserker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Alraune HP:403/427 MP:192/192
+C-Poltergeist HP:56/108 MP:104/104
+D-Astaroth HP:406/406 MP:149/181
+Equipo de Joker (J2)
+A-Joker HP:437/597 MP:347/347
+B-Okuninushi HP:313/416 MP:82/82
+C-Berserker HP:690/690 MP:136/136
+D-Enku HP:132/235 MP:228/228
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Okuninushi
+3-Enku
+4-Berserker
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Makoto HP:597/597 MP:347/347
+2-Alraune HP:403/427 MP:192/192
+3-Poltergeist HP:56/108 MP:104/104
+4-Astaroth HP:406/406 MP:149/181
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Joker ataca a Poltergeist
+Poltergeist recibe 28 de daño
+Poltergeist termina con HP:28/108
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Alraune HP:403/427 MP:192/192
+C-Poltergeist HP:28/108 MP:104/104
+D-Astaroth HP:406/406 MP:149/181
+Equipo de Joker (J2)
+A-Joker HP:437/597 MP:347/347
+B-Okuninushi HP:313/416 MP:82/82
+C-Berserker HP:690/690 MP:136/136
+D-Enku HP:132/235 MP:228/228
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Astaroth
+2-Makoto
+3-Alraune
+4-Poltergeist
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Persephone HP:315/315 MP:306/306
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Persephone ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Alraune HP:403/427 MP:192/192
+C-Poltergeist HP:28/108 MP:104/104
+D-Persephone HP:315/315 MP:306/306
+Equipo de Joker (J2)
+A-Joker HP:437/597 MP:347/347
+B-Okuninushi HP:313/416 MP:82/82
+C-Berserker HP:690/690 MP:136/136
+D-Enku HP:132/235 MP:228/228
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+2-Alraune
+3-Poltergeist
+4-Persephone
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Joker HP:437/597 MP:347/347
+2-Okuninushi HP:313/416 MP:82/82
+3-Berserker HP:690/690 MP:136/136
+4-Enku HP:132/235 MP:228/228
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Makoto dispara a Enku
+Enku recibe 57 de daño
+Enku termina con HP:75/235
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Alraune HP:403/427 MP:192/192
+C-Poltergeist HP:28/108 MP:104/104
+D-Persephone HP:315/315 MP:306/306
+Equipo de Joker (J2)
+A-Joker HP:437/597 MP:347/347
+B-Okuninushi HP:313/416 MP:82/82
+C-Berserker HP:690/690 MP:136/136
+D-Enku HP:75/235 MP:228/228
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alraune
+2-Poltergeist
+3-Persephone
+4-Makoto
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alraune use
+1-Madness Needle MP:11
+2-Life Drain MP:5
+3-Stun Needles MP:14
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alraune use
+1-Madness Needle MP:11
+2-Life Drain MP:5
+3-Stun Needles MP:14
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Astaroth HP:406/406 MP:149/181
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alraune
+1-Joker HP:437/597 MP:347/347
+2-Okuninushi HP:313/416 MP:82/82
+3-Berserker HP:690/690 MP:136/136
+4-Enku HP:75/235 MP:228/228
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Alraune ataca a Enku
+Enku recibe 35 de daño
+Enku termina con HP:40/235
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Alraune HP:403/427 MP:192/192
+C-Poltergeist HP:28/108 MP:104/104
+D-Persephone HP:315/315 MP:306/306
+Equipo de Joker (J2)
+A-Joker HP:437/597 MP:347/347
+B-Okuninushi HP:313/416 MP:82/82
+C-Berserker HP:690/690 MP:136/136
+D-Enku HP:40/235 MP:228/228
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Poltergeist
+2-Persephone
+3-Makoto
+4-Alraune
+----------------------------------------
+Seleccione una acción para Poltergeist
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Alraune HP:403/427 MP:192/192
+C-Poltergeist HP:28/108 MP:104/104
+D-Persephone HP:315/315 MP:306/306
+Equipo de Joker (J2)
+A-Joker HP:437/597 MP:347/347
+B-Okuninushi HP:313/416 MP:82/82
+C-Berserker HP:690/690 MP:136/136
+D-Enku HP:40/235 MP:228/228
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Persephone
+2-Makoto
+3-Alraune
+4-Poltergeist
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Alraune HP:403/427 MP:192/192
+C-Poltergeist HP:28/108 MP:104/104
+D-Persephone HP:315/315 MP:306/306
+Equipo de Joker (J2)
+A-Joker HP:437/597 MP:347/347
+B-Okuninushi HP:313/416 MP:82/82
+C-Berserker HP:690/690 MP:136/136
+D-Enku HP:40/235 MP:228/228
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Alraune
+3-Poltergeist
+4-Persephone
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Joker HP:437/597 MP:347/347
+2-Okuninushi HP:313/416 MP:82/82
+3-Berserker HP:690/690 MP:136/136
+4-Enku HP:40/235 MP:228/228
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Makoto ataca a Berserker
+Berserker bloquea el ataque de Makoto
+Berserker termina con HP:690/690
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Alraune HP:403/427 MP:192/192
+C-Poltergeist HP:28/108 MP:104/104
+D-Persephone HP:315/315 MP:306/306
+Equipo de Joker (J2)
+A-Joker HP:437/597 MP:347/347
+B-Okuninushi HP:313/416 MP:82/82
+C-Berserker HP:690/690 MP:136/136
+D-Enku HP:40/235 MP:228/228
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Berserker
+2-Joker
+3-Okuninushi
+4-Enku
+----------------------------------------
+Seleccione una acción para Berserker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Alraune HP:403/427 MP:192/192
+C-Poltergeist HP:28/108 MP:104/104
+D-Persephone HP:315/315 MP:306/306
+Equipo de Joker (J2)
+A-Joker HP:437/597 MP:347/347
+B-Okuninushi HP:313/416 MP:82/82
+C-Berserker HP:690/690 MP:136/136
+D-Enku HP:40/235 MP:228/228
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Okuninushi
+3-Enku
+4-Berserker
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Alraune HP:403/427 MP:192/192
+C-Poltergeist HP:28/108 MP:104/104
+D-Persephone HP:315/315 MP:306/306
+Equipo de Joker (J2)
+A-Joker HP:437/597 MP:347/347
+B-Okuninushi HP:313/416 MP:82/82
+C-Berserker HP:690/690 MP:136/136
+D-Enku HP:40/235 MP:228/228
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Okuninushi
+2-Enku
+3-Berserker
+4-Joker
+----------------------------------------
+Seleccione una acción para Okuninushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Okuninushi
+1-Makoto HP:597/597 MP:347/347
+2-Alraune HP:403/427 MP:192/192
+3-Poltergeist HP:28/108 MP:104/104
+4-Persephone HP:315/315 MP:306/306
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Okuninushi ataca a Alraune
+Alraune recibe 30 de daño
+Alraune termina con HP:373/427
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Alraune HP:373/427 MP:192/192
+C-Poltergeist HP:28/108 MP:104/104
+D-Persephone HP:315/315 MP:306/306
+Equipo de Joker (J2)
+A-Joker HP:437/597 MP:347/347
+B-Okuninushi HP:313/416 MP:82/82
+C-Berserker HP:690/690 MP:136/136
+D-Enku HP:40/235 MP:228/228
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Berserker
+3-Joker
+4-Okuninushi
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Enku use
+1-Fire Breath MP:21
+2-Damascus Claw MP:7
+3-Energy Drain MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Makoto HP:597/597 MP:347/347
+2-Alraune HP:373/427 MP:192/192
+3-Poltergeist HP:28/108 MP:104/104
+4-Persephone HP:315/315 MP:306/306
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Enku ataca a Alraune
+Alraune recibe 24 de daño
+Alraune termina con HP:349/427
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:597/597 MP:347/347
+B-Alraune HP:349/427 MP:192/192
+C-Poltergeist HP:28/108 MP:104/104
+D-Persephone HP:315/315 MP:306/306
+Equipo de Joker (J2)
+A-Joker HP:437/597 MP:347/347
+B-Okuninushi HP:313/416 MP:82/82
+C-Berserker HP:690/690 MP:136/136
+D-Enku HP:40/235 MP:228/228
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Berserker
+2-Joker
+3-Okuninushi
+4-Enku
+----------------------------------------
+Seleccione una acción para Berserker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Berserker use
+1-Charge MP:9
+2-Hades Blast MP:32
+3-Tarukaja MP:15
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Berserker ataca a Makoto
+Makoto es resistente el ataque de Berserker
+Makoto recibe 65 de daño
+Makoto termina con HP:532/597
+Berserker ataca a Alraune
+Alraune recibe 131 de daño
+Alraune termina con HP:218/427
+Berserker ataca a Poltergeist
+Poltergeist recibe 131 de daño
+Poltergeist termina con HP:0/108
+Berserker ataca a Persephone
+Persephone recibe 131 de daño
+Persephone termina con HP:184/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:347/347
+B-Alraune HP:218/427 MP:192/192
+C-
+D-Persephone HP:184/315 MP:306/306
+Equipo de Joker (J2)
+A-Joker HP:437/597 MP:347/347
+B-Okuninushi HP:313/416 MP:82/82
+C-Berserker HP:690/690 MP:104/136
+D-Enku HP:40/235 MP:228/228
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Alraune
+3-Persephone
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Joker HP:437/597 MP:347/347
+2-Okuninushi HP:313/416 MP:82/82
+3-Berserker HP:690/690 MP:104/136
+4-Enku HP:40/235 MP:228/228
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Makoto ataca a Okuninushi
+Okuninushi recibe 38 de daño
+Okuninushi termina con HP:275/416
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:347/347
+B-Alraune HP:218/427 MP:192/192
+C-
+D-Persephone HP:184/315 MP:306/306
+Equipo de Joker (J2)
+A-Joker HP:437/597 MP:347/347
+B-Okuninushi HP:275/416 MP:82/82
+C-Berserker HP:690/690 MP:104/136
+D-Enku HP:40/235 MP:228/228
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alraune
+2-Persephone
+3-Makoto
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alraune use
+1-Madness Needle MP:11
+2-Life Drain MP:5
+3-Stun Needles MP:14
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Alraune
+1-Joker HP:437/597 MP:347/347
+2-Okuninushi HP:275/416 MP:82/82
+3-Berserker HP:690/690 MP:104/136
+4-Enku HP:40/235 MP:228/228
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Alraune lanza un ataque todo poderoso a Joker
+El ataque drena 41 HP de Joker
+Joker termina con HP:396/597
+Alraune termina con HP:259/427
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:347/347
+B-Alraune HP:259/427 MP:187/192
+C-
+D-Persephone HP:184/315 MP:306/306
+Equipo de Joker (J2)
+A-Joker HP:396/597 MP:347/347
+B-Okuninushi HP:275/416 MP:82/82
+C-Berserker HP:690/690 MP:104/136
+D-Enku HP:40/235 MP:228/228
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Makoto
+3-Alraune
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Astaroth HP:406/406 MP:149/181
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Persephone use
+1-Bufudyne MP:14
+2-Death's Door MP:10
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Joker HP:396/597 MP:347/347
+2-Okuninushi HP:275/416 MP:82/82
+3-Berserker HP:690/690 MP:104/136
+4-Enku HP:40/235 MP:228/228
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Persephone lanza hielo a Joker
+Joker recibe 112 de daño
+Joker termina con HP:284/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:347/347
+B-Alraune HP:259/427 MP:187/192
+C-
+D-Persephone HP:184/315 MP:292/306
+Equipo de Joker (J2)
+A-Joker HP:284/597 MP:347/347
+B-Okuninushi HP:275/416 MP:82/82
+C-Berserker HP:690/690 MP:104/136
+D-Enku HP:40/235 MP:228/228
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Berserker
+2-Joker
+3-Okuninushi
+4-Enku
+----------------------------------------
+Seleccione una acción para Berserker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Berserker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Berserker
+1-Makoto HP:532/597 MP:347/347
+2-Alraune HP:259/427 MP:187/192
+3-Persephone HP:184/315 MP:292/306
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Berserker ataca a Alraune
+Alraune recibe 52 de daño
+Alraune termina con HP:207/427
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:347/347
+B-Alraune HP:207/427 MP:187/192
+C-
+D-Persephone HP:184/315 MP:292/306
+Equipo de Joker (J2)
+A-Joker HP:284/597 MP:347/347
+B-Okuninushi HP:275/416 MP:82/82
+C-Berserker HP:690/690 MP:104/136
+D-Enku HP:40/235 MP:228/228
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Okuninushi
+3-Enku
+4-Berserker
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:347/347
+B-Alraune HP:207/427 MP:187/192
+C-
+D-Persephone HP:184/315 MP:292/306
+Equipo de Joker (J2)
+A-Joker HP:284/597 MP:347/347
+B-Okuninushi HP:275/416 MP:82/82
+C-Berserker HP:690/690 MP:104/136
+D-Enku HP:40/235 MP:228/228
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Okuninushi
+2-Enku
+3-Berserker
+4-Joker
+----------------------------------------
+Seleccione una acción para Okuninushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Okuninushi use
+1-Dream Fist MP:9
+2-Diarama MP:9
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Okuninushi
+1-Joker HP:284/597 MP:347/347
+2-Okuninushi HP:275/416 MP:82/82
+3-Berserker HP:690/690 MP:104/136
+4-Enku HP:40/235 MP:228/228
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Okuninushi cura a Okuninushi
+Okuninushi recibe 208 de HP
+Okuninushi termina con HP:416/416
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:347/347
+B-Alraune HP:207/427 MP:187/192
+C-
+D-Persephone HP:184/315 MP:292/306
+Equipo de Joker (J2)
+A-Joker HP:284/597 MP:347/347
+B-Okuninushi HP:416/416 MP:73/82
+C-Berserker HP:690/690 MP:104/136
+D-Enku HP:40/235 MP:228/228
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Berserker
+3-Joker
+4-Okuninushi
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:347/347
+B-Alraune HP:207/427 MP:187/192
+C-
+D-Persephone HP:184/315 MP:292/306
+Equipo de Joker (J2)
+A-Joker HP:284/597 MP:347/347
+B-Okuninushi HP:416/416 MP:73/82
+C-Berserker HP:690/690 MP:104/136
+D-Enku HP:40/235 MP:228/228
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Berserker
+2-Joker
+3-Okuninushi
+4-Enku
+----------------------------------------
+Seleccione una acción para Berserker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Berserker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Berserker use
+1-Charge MP:9
+2-Hades Blast MP:32
+3-Tarukaja MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Berserker ha cargado su siguiente ataque físico o disparo a más del doble
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:347/347
+B-Alraune HP:207/427 MP:187/192
+C-
+D-Persephone HP:184/315 MP:292/306
+Equipo de Joker (J2)
+A-Joker HP:284/597 MP:347/347
+B-Okuninushi HP:416/416 MP:73/82
+C-Berserker HP:690/690 MP:95/136
+D-Enku HP:40/235 MP:228/228
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Okuninushi
+3-Enku
+4-Berserker
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Makoto HP:532/597 MP:347/347
+2-Alraune HP:207/427 MP:187/192
+3-Persephone HP:184/315 MP:292/306
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Makoto HP:532/597 MP:347/347
+2-Alraune HP:207/427 MP:187/192
+3-Persephone HP:184/315 MP:292/306
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Joker ataca a Alraune
+Alraune recibe 28 de daño
+Alraune termina con HP:179/427
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:347/347
+B-Alraune HP:179/427 MP:187/192
+C-
+D-Persephone HP:184/315 MP:292/306
+Equipo de Joker (J2)
+A-Joker HP:284/597 MP:347/347
+B-Okuninushi HP:416/416 MP:73/82
+C-Berserker HP:690/690 MP:95/136
+D-Enku HP:40/235 MP:228/228
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Alraune
+3-Persephone
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:347/347
+B-Alraune HP:179/427 MP:187/192
+C-
+D-Persephone HP:184/315 MP:292/306
+Equipo de Joker (J2)
+A-Joker HP:284/597 MP:347/347
+B-Okuninushi HP:416/416 MP:73/82
+C-Berserker HP:690/690 MP:95/136
+D-Enku HP:40/235 MP:228/228
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Alraune
+2-Persephone
+3-Makoto
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:347/347
+B-Alraune HP:179/427 MP:187/192
+C-
+D-Persephone HP:184/315 MP:292/306
+Equipo de Joker (J2)
+A-Joker HP:284/597 MP:347/347
+B-Okuninushi HP:416/416 MP:73/82
+C-Berserker HP:690/690 MP:95/136
+D-Enku HP:40/235 MP:228/228
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Makoto
+3-Alraune
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Joker HP:284/597 MP:347/347
+2-Okuninushi HP:416/416 MP:73/82
+3-Berserker HP:690/690 MP:95/136
+4-Enku HP:40/235 MP:228/228
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Persephone ataca a Enku
+Enku recibe 33 de daño
+Enku termina con HP:7/235
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:347/347
+B-Alraune HP:179/427 MP:187/192
+C-
+D-Persephone HP:184/315 MP:292/306
+Equipo de Joker (J2)
+A-Joker HP:284/597 MP:347/347
+B-Okuninushi HP:416/416 MP:73/82
+C-Berserker HP:690/690 MP:95/136
+D-Enku HP:7/235 MP:228/228
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Alraune
+3-Persephone
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Joker HP:284/597 MP:347/347
+2-Okuninushi HP:416/416 MP:73/82
+3-Berserker HP:690/690 MP:95/136
+4-Enku HP:7/235 MP:228/228
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto dispara a Joker
+Joker recibe 57 de daño
+Joker termina con HP:227/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:347/347
+B-Alraune HP:179/427 MP:187/192
+C-
+D-Persephone HP:184/315 MP:292/306
+Equipo de Joker (J2)
+A-Joker HP:227/597 MP:347/347
+B-Okuninushi HP:416/416 MP:73/82
+C-Berserker HP:690/690 MP:95/136
+D-Enku HP:7/235 MP:228/228
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Berserker
+2-Joker
+3-Okuninushi
+4-Enku
+----------------------------------------
+Seleccione una acción para Berserker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Berserker use
+1-Charge MP:9
+2-Hades Blast MP:32
+3-Tarukaja MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Berserker ha cargado su siguiente ataque físico o disparo a más del doble
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:347/347
+B-Alraune HP:179/427 MP:187/192
+C-
+D-Persephone HP:184/315 MP:292/306
+Equipo de Joker (J2)
+A-Joker HP:227/597 MP:347/347
+B-Okuninushi HP:416/416 MP:73/82
+C-Berserker HP:690/690 MP:86/136
+D-Enku HP:7/235 MP:228/228
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Okuninushi
+3-Enku
+4-Berserker
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Makoto HP:532/597 MP:347/347
+2-Alraune HP:179/427 MP:187/192
+3-Persephone HP:184/315 MP:292/306
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Joker dispara a Alraune
+Alraune es resistente el ataque de Joker
+Alraune recibe 19 de daño
+Alraune termina con HP:160/427
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:347/347
+B-Alraune HP:160/427 MP:187/192
+C-
+D-Persephone HP:184/315 MP:292/306
+Equipo de Joker (J2)
+A-Joker HP:227/597 MP:347/347
+B-Okuninushi HP:416/416 MP:73/82
+C-Berserker HP:690/690 MP:86/136
+D-Enku HP:7/235 MP:228/228
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Okuninushi
+2-Enku
+3-Berserker
+4-Joker
+----------------------------------------
+Seleccione una acción para Okuninushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Okuninushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Okuninushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Okuninushi
+1-Makoto HP:532/597 MP:347/347
+2-Alraune HP:160/427 MP:187/192
+3-Persephone HP:184/315 MP:292/306
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Okuninushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:347/347
+B-Alraune HP:160/427 MP:187/192
+C-
+D-Persephone HP:184/315 MP:292/306
+Equipo de Joker (J2)
+A-Joker HP:227/597 MP:347/347
+B-Okuninushi HP:416/416 MP:73/82
+C-Berserker HP:690/690 MP:86/136
+D-Enku HP:7/235 MP:228/228
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Enku
+2-Berserker
+3-Joker
+4-Okuninushi
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Enku use
+1-Fire Breath MP:21
+2-Damascus Claw MP:7
+3-Energy Drain MP:10
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Makoto HP:532/597 MP:347/347
+2-Alraune HP:160/427 MP:187/192
+3-Persephone HP:184/315 MP:292/306
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Enku ataca a Persephone
+Persephone recibe 74 de daño
+Enku ataca a Persephone
+Persephone recibe 74 de daño
+Persephone termina con HP:36/315
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:347/347
+B-Alraune HP:160/427 MP:187/192
+C-
+D-Persephone HP:36/315 MP:292/306
+Equipo de Joker (J2)
+A-Joker HP:227/597 MP:347/347
+B-Okuninushi HP:416/416 MP:73/82
+C-Berserker HP:690/690 MP:86/136
+D-Enku HP:7/235 MP:221/228
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Berserker
+2-Joker
+3-Okuninushi
+4-Enku
+----------------------------------------
+Seleccione una acción para Berserker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:347/347
+B-Alraune HP:160/427 MP:187/192
+C-
+D-Persephone HP:36/315 MP:292/306
+Equipo de Joker (J2)
+A-Joker HP:227/597 MP:347/347
+B-Okuninushi HP:416/416 MP:73/82
+C-Berserker HP:690/690 MP:86/136
+D-Enku HP:7/235 MP:221/228
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Okuninushi
+3-Enku
+4-Berserker
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Makoto HP:532/597 MP:347/347
+2-Alraune HP:160/427 MP:187/192
+3-Persephone HP:36/315 MP:292/306
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Joker dispara a Alraune
+Alraune es resistente el ataque de Joker
+Alraune recibe 19 de daño
+Alraune termina con HP:141/427
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:347/347
+B-Alraune HP:141/427 MP:187/192
+C-
+D-Persephone HP:36/315 MP:292/306
+Equipo de Joker (J2)
+A-Joker HP:227/597 MP:347/347
+B-Okuninushi HP:416/416 MP:73/82
+C-Berserker HP:690/690 MP:86/136
+D-Enku HP:7/235 MP:221/228
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Alraune
+3-Persephone
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Joker HP:227/597 MP:347/347
+2-Okuninushi HP:416/416 MP:73/82
+3-Berserker HP:690/690 MP:86/136
+4-Enku HP:7/235 MP:221/228
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Makoto ataca a Enku
+Enku recibe 38 de daño
+Enku termina con HP:0/235
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:347/347
+B-Alraune HP:141/427 MP:187/192
+C-
+D-Persephone HP:36/315 MP:292/306
+Equipo de Joker (J2)
+A-Joker HP:227/597 MP:347/347
+B-Okuninushi HP:416/416 MP:73/82
+C-Berserker HP:690/690 MP:86/136
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alraune
+2-Persephone
+3-Makoto
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Alraune use
+1-Madness Needle MP:11
+2-Life Drain MP:5
+3-Stun Needles MP:14
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Alraune
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:347/347
+B-Alraune HP:141/427 MP:187/192
+C-
+D-Persephone HP:36/315 MP:292/306
+Equipo de Joker (J2)
+A-Joker HP:227/597 MP:347/347
+B-Okuninushi HP:416/416 MP:73/82
+C-Berserker HP:690/690 MP:86/136
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Persephone
+2-Makoto
+3-Alraune
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Joker HP:227/597 MP:347/347
+2-Okuninushi HP:416/416 MP:73/82
+3-Berserker HP:690/690 MP:86/136
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Joker HP:227/597 MP:347/347
+2-Okuninushi HP:416/416 MP:73/82
+3-Berserker HP:690/690 MP:86/136
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:347/347
+B-Alraune HP:141/427 MP:187/192
+C-
+D-Persephone HP:36/315 MP:292/306
+Equipo de Joker (J2)
+A-Joker HP:227/597 MP:347/347
+B-Okuninushi HP:416/416 MP:73/82
+C-Berserker HP:690/690 MP:86/136
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Alraune
+3-Persephone
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Trafuri MP:5
+2-Maragion MP:20
+3-Agi MP:5
+4-Holy Wrath MP:45
+5-Bufula MP:8
+6-Megaton Press MP:17
+7-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione un objetivo para Makoto
+1-Joker HP:227/597 MP:347/347
+2-Okuninushi HP:416/416 MP:73/82
+3-Berserker HP:690/690 MP:86/136
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Makoto lanza hielo a Joker
+Joker recibe 93 de daño
+Joker termina con HP:134/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:339/347
+B-Alraune HP:141/427 MP:187/192
+C-
+D-Persephone HP:36/315 MP:292/306
+Equipo de Joker (J2)
+A-Joker HP:134/597 MP:347/347
+B-Okuninushi HP:416/416 MP:73/82
+C-Berserker HP:690/690 MP:86/136
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Berserker
+2-Joker
+3-Okuninushi
+----------------------------------------
+Seleccione una acción para Berserker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Berserker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Berserker
+1-Makoto HP:532/597 MP:339/347
+2-Alraune HP:141/427 MP:187/192
+3-Persephone HP:36/315 MP:292/306
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Berserker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:339/347
+B-Alraune HP:141/427 MP:187/192
+C-
+D-Persephone HP:36/315 MP:292/306
+Equipo de Joker (J2)
+A-Joker HP:134/597 MP:347/347
+B-Okuninushi HP:416/416 MP:73/82
+C-Berserker HP:690/690 MP:86/136
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+2-Okuninushi
+3-Berserker
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Makoto HP:532/597 MP:339/347
+2-Alraune HP:141/427 MP:187/192
+3-Persephone HP:36/315 MP:292/306
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:339/347
+B-Alraune HP:141/427 MP:187/192
+C-
+D-Persephone HP:36/315 MP:292/306
+Equipo de Joker (J2)
+A-Joker HP:134/597 MP:347/347
+B-Okuninushi HP:416/416 MP:73/82
+C-Berserker HP:690/690 MP:86/136
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Okuninushi
+2-Berserker
+3-Joker
+----------------------------------------
+Seleccione una acción para Okuninushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:339/347
+B-Alraune HP:141/427 MP:187/192
+C-
+D-Persephone HP:36/315 MP:292/306
+Equipo de Joker (J2)
+A-Joker HP:134/597 MP:347/347
+B-Okuninushi HP:416/416 MP:73/82
+C-Berserker HP:690/690 MP:86/136
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Berserker
+2-Joker
+3-Okuninushi
+----------------------------------------
+Seleccione una acción para Berserker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:339/347
+B-Alraune HP:141/427 MP:187/192
+C-
+D-Persephone HP:36/315 MP:292/306
+Equipo de Joker (J2)
+A-Joker HP:134/597 MP:347/347
+B-Okuninushi HP:416/416 MP:73/82
+C-Berserker HP:690/690 MP:86/136
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Okuninushi
+3-Berserker
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Makoto HP:532/597 MP:339/347
+2-Alraune HP:141/427 MP:187/192
+3-Persephone HP:36/315 MP:292/306
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Joker dispara a Persephone
+Persephone recibe 39 de daño
+Persephone termina con HP:0/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:339/347
+B-Alraune HP:141/427 MP:187/192
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:134/597 MP:347/347
+B-Okuninushi HP:416/416 MP:73/82
+C-Berserker HP:690/690 MP:86/136
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Alraune
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Astaroth HP:406/406 MP:149/181
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Alraune HP:141/427 MP:187/192 (Puesto 2)
+2-Vacío (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Astaroth ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:339/347
+B-Astaroth HP:406/406 MP:149/181
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:134/597 MP:347/347
+B-Okuninushi HP:416/416 MP:73/82
+C-Berserker HP:690/690 MP:86/136
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Astaroth
+2-Makoto
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:339/347
+B-Astaroth HP:406/406 MP:149/181
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:134/597 MP:347/347
+B-Okuninushi HP:416/416 MP:73/82
+C-Berserker HP:690/690 MP:86/136
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+2-Astaroth
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:339/347
+B-Astaroth HP:406/406 MP:149/181
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:134/597 MP:347/347
+B-Okuninushi HP:416/416 MP:73/82
+C-Berserker HP:690/690 MP:86/136
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Astaroth
+2-Makoto
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Alraune HP:141/427 MP:187/192
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Alraune ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:339/347
+B-Alraune HP:141/427 MP:187/192
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:134/597 MP:347/347
+B-Okuninushi HP:416/416 MP:73/82
+C-Berserker HP:690/690 MP:86/136
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Berserker
+2-Joker
+3-Okuninushi
+----------------------------------------
+Seleccione una acción para Berserker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Berserker
+1-Makoto HP:532/597 MP:339/347
+2-Alraune HP:141/427 MP:187/192
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Berserker ataca a Alraune
+Alraune recibe 132 de daño
+Alraune termina con HP:9/427
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:339/347
+B-Alraune HP:9/427 MP:187/192
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:134/597 MP:347/347
+B-Okuninushi HP:416/416 MP:73/82
+C-Berserker HP:690/690 MP:86/136
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Okuninushi
+3-Berserker
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Makoto HP:532/597 MP:339/347
+2-Alraune HP:9/427 MP:187/192
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Joker dispara a Alraune
+Alraune es resistente el ataque de Joker
+Alraune recibe 19 de daño
+Alraune termina con HP:0/427
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:339/347
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:134/597 MP:347/347
+B-Okuninushi HP:416/416 MP:73/82
+C-Berserker HP:690/690 MP:86/136
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Okuninushi
+2-Berserker
+3-Joker
+----------------------------------------
+Seleccione una acción para Okuninushi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Okuninushi use
+1-Dream Fist MP:9
+2-Diarama MP:9
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Okuninushi
+1-Joker HP:134/597 MP:347/347
+2-Okuninushi HP:416/416 MP:73/82
+3-Berserker HP:690/690 MP:86/136
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Okuninushi cura a Okuninushi
+Okuninushi recibe 208 de HP
+Okuninushi termina con HP:416/416
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Makoto (J1)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:339/347
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:134/597 MP:347/347
+B-Okuninushi HP:416/416 MP:64/82
+C-Berserker HP:690/690 MP:86/136
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Makoto use
+1-Trafuri MP:5
+2-Maragion MP:20
+3-Agi MP:5
+4-Holy Wrath MP:45
+5-Bufula MP:8
+6-Megaton Press MP:17
+7-Cancelar
+INPUT: 2
+----------------------------------------
+Makoto lanza fuego a Joker
+Joker recibe 86 de daño
+Joker termina con HP:48/597
+Makoto lanza fuego a Okuninushi
+Okuninushi recibe 86 de daño
+Okuninushi termina con HP:330/416
+Makoto lanza fuego a Berserker
+Berserker es débil contra el ataque de Makoto
+Berserker recibe 130 de daño
+Berserker termina con HP:560/690
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:319/347
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:48/597 MP:347/347
+B-Okuninushi HP:330/416 MP:64/82
+C-Berserker HP:560/690 MP:86/136
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Makoto
+----------------------------------------
+Seleccione una acción para Makoto
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:532/597 MP:319/347
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:48/597 MP:347/347
+B-Okuninushi HP:330/416 MP:64/82
+C-Berserker HP:560/690 MP:86/136
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Berserker
+2-Joker
+3-Okuninushi
+----------------------------------------
+Seleccione una acción para Berserker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Berserker
+1-Makoto HP:532/597 MP:319/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Berserker ataca a Makoto
+Makoto es resistente el ataque de Berserker
+Makoto recibe 26 de daño
+Makoto termina con HP:506/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Makoto (J1)
+A-Makoto HP:506/597 MP:319/347
+B-
+C-
+D-
+Equipo de Joker (J2)
+A-Joker HP:48/597 MP:347/347
+B-Okuninushi HP:330/416 MP:64/82
+C-Berserker HP:560/690 MP:86/136
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Okuninushi
+3-Berserker
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Trafuri MP:5
+2-Mudo MP:6
+3-Plasma Discharge MP:22
+4-Wind Breath MP:21
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Joker (J2) se rinde
+----------------------------------------
+Ganador: Makoto (J1)

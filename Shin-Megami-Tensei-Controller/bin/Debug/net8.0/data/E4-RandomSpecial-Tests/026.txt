@@ -1,0 +1,1305 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 25
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:597/597 MP:347/347
+B-Wicker Man HP:126/126 MP:55/55
+C-Ghoul HP:558/558 MP:111/111
+D-Vetala HP:794/794 MP:157/157
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Kotone HP:597/597 MP:347/347
+2-Wicker Man HP:126/126 MP:55/55
+3-Ghoul HP:558/558 MP:111/111
+4-Vetala HP:794/794 MP:157/157
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano dispara a Kotone
+Kotone es resistente el ataque de Tadano
+Kotone recibe 10 de daño
+Kotone termina con HP:587/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:587/597 MP:347/347
+B-Wicker Man HP:126/126 MP:55/55
+C-Ghoul HP:558/558 MP:111/111
+D-Vetala HP:794/794 MP:157/157
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Kotone
+3-Ghoul
+4-Wicker Man
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Vetala use
+1-Nihil Claw MP:11
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Tadano HP:388/388 MP:193/193
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:587/597 MP:347/347
+B-Wicker Man HP:126/126 MP:55/55
+C-Ghoul HP:558/558 MP:111/111
+D-Vetala HP:794/794 MP:157/157
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Ghoul
+3-Wicker Man
+4-Vetala
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Tadano HP:388/388 MP:193/193
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hel HP:254/254 MP:246/246
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:388/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:587/597 MP:347/347
+B-Wicker Man HP:126/126 MP:55/55
+C-Ghoul HP:558/558 MP:111/111
+D-Vetala HP:794/794 MP:157/157
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ghoul
+2-Wicker Man
+3-Vetala
+4-Kotone
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Tadano HP:388/388 MP:193/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ghoul ataca a Tadano
+Tadano es resistente el ataque de Ghoul
+Tadano recibe 20 de daño
+Tadano termina con HP:368/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:368/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:587/597 MP:347/347
+B-Wicker Man HP:126/126 MP:55/55
+C-Ghoul HP:558/558 MP:111/111
+D-Vetala HP:794/794 MP:157/157
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wicker Man
+2-Vetala
+3-Kotone
+4-Ghoul
+----------------------------------------
+Seleccione una acción para Wicker Man
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:368/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:587/597 MP:347/347
+B-Wicker Man HP:126/126 MP:55/55
+C-Ghoul HP:558/558 MP:111/111
+D-Vetala HP:794/794 MP:157/157
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Vetala
+2-Kotone
+3-Ghoul
+4-Wicker Man
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:368/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:587/597 MP:347/347
+B-Wicker Man HP:126/126 MP:55/55
+C-Ghoul HP:558/558 MP:111/111
+D-Vetala HP:794/794 MP:157/157
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Ghoul
+3-Wicker Man
+4-Vetala
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Tadano HP:368/388 MP:193/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kotone dispara a Tadano
+Tadano recibe 57 de daño
+Tadano termina con HP:311/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:311/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:587/597 MP:347/347
+B-Wicker Man HP:126/126 MP:55/55
+C-Ghoul HP:558/558 MP:111/111
+D-Vetala HP:794/794 MP:157/157
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Kotone HP:587/597 MP:347/347
+2-Wicker Man HP:126/126 MP:55/55
+3-Ghoul HP:558/558 MP:111/111
+4-Vetala HP:794/794 MP:157/157
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tadano ataca a Wicker Man
+Wicker Man recibe 16 de daño
+Wicker Man termina con HP:110/126
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:311/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:587/597 MP:347/347
+B-Wicker Man HP:110/126 MP:55/55
+C-Ghoul HP:558/558 MP:111/111
+D-Vetala HP:794/794 MP:157/157
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Kotone
+3-Ghoul
+4-Wicker Man
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:311/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:587/597 MP:347/347
+B-Wicker Man HP:110/126 MP:55/55
+C-Ghoul HP:558/558 MP:111/111
+D-Vetala HP:794/794 MP:157/157
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Ghoul
+3-Wicker Man
+4-Vetala
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hel HP:254/254 MP:246/246
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Wicker Man HP:110/126 MP:55/55 (Puesto 2)
+2-Ghoul HP:558/558 MP:111/111 (Puesto 3)
+3-Vetala HP:794/794 MP:157/157 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Defender's Gaze MP:255
+2-Blast Arrow MP:16
+3-Great Logos MP:70
+4-Mabufu MP:11
+5-Oni-Kagura MP:9
+6-Cancelar
+INPUT: 1
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 3 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:311/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:587/597 MP:92/347
+B-Wicker Man HP:110/126 MP:55/55
+C-Ghoul HP:558/558 MP:111/111
+D-Vetala HP:794/794 MP:157/157
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 3
+----------------------------------------
+Orden:
+1-Ghoul
+2-Wicker Man
+3-Vetala
+4-Kotone
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ghoul use
+1-Energy Drain MP:10
+2-Tetanus Cut MP:11
+3-Damascus Claw MP:7
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:311/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:587/597 MP:92/347
+B-Wicker Man HP:110/126 MP:55/55
+C-Ghoul HP:558/558 MP:111/111
+D-Vetala HP:794/794 MP:157/157
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Wicker Man
+2-Vetala
+3-Kotone
+4-Ghoul
+----------------------------------------
+Seleccione una acción para Wicker Man
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:311/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:587/597 MP:92/347
+B-Wicker Man HP:110/126 MP:55/55
+C-Ghoul HP:558/558 MP:111/111
+D-Vetala HP:794/794 MP:157/157
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Vetala
+2-Kotone
+3-Ghoul
+4-Wicker Man
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Vetala use
+1-Nihil Claw MP:11
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Tadano HP:311/388 MP:193/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Vetala ataca a Tadano
+Tadano es resistente el ataque de Vetala
+Tadano recibe 75 de daño
+Vetala ataca a Tadano
+Tadano es resistente el ataque de Vetala
+Tadano recibe 75 de daño
+Tadano termina con HP:161/388
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:161/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:587/597 MP:92/347
+B-Wicker Man HP:110/126 MP:55/55
+C-Ghoul HP:558/558 MP:111/111
+D-Vetala HP:794/794 MP:146/157
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Ghoul
+3-Wicker Man
+4-Vetala
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hel HP:254/254 MP:246/246
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Wicker Man HP:110/126 MP:55/55 (Puesto 2)
+2-Ghoul HP:558/558 MP:111/111 (Puesto 3)
+3-Vetala HP:794/794 MP:146/157 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Hel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:161/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:587/597 MP:92/347
+B-Wicker Man HP:110/126 MP:55/55
+C-Hel HP:254/254 MP:246/246
+D-Vetala HP:794/794 MP:146/157
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hel
+2-Wicker Man
+3-Vetala
+4-Kotone
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hel use
+1-Mamudo MP:18
+2-Sabbatma MP:20
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Hel lanza hielo a Tadano
+Tadano recibe 86 de daño
+Tadano termina con HP:75/388
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:75/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:587/597 MP:92/347
+B-Wicker Man HP:110/126 MP:55/55
+C-Hel HP:254/254 MP:226/246
+D-Vetala HP:794/794 MP:146/157
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wicker Man
+2-Vetala
+3-Kotone
+4-Hel
+----------------------------------------
+Seleccione una acción para Wicker Man
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wicker Man
+1-Tadano HP:75/388 MP:193/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Wicker Man ataca a Tadano
+Tadano es resistente el ataque de Wicker Man
+Tadano recibe 4 de daño
+Tadano termina con HP:71/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:71/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:587/597 MP:92/347
+B-Wicker Man HP:110/126 MP:55/55
+C-Hel HP:254/254 MP:226/246
+D-Vetala HP:794/794 MP:146/157
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Kotone
+3-Hel
+4-Wicker Man
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ghoul HP:558/558 MP:111/111
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:71/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:587/597 MP:92/347
+B-Wicker Man HP:110/126 MP:55/55
+C-Hel HP:254/254 MP:226/246
+D-Vetala HP:794/794 MP:146/157
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Hel
+3-Wicker Man
+4-Vetala
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ghoul HP:558/558 MP:111/111
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Wicker Man HP:110/126 MP:55/55 (Puesto 2)
+2-Hel HP:254/254 MP:226/246 (Puesto 3)
+3-Vetala HP:794/794 MP:146/157 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ghoul HP:558/558 MP:111/111
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Tadano HP:71/388 MP:193/193
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Tadano HP:71/388 MP:193/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kotone ataca a Tadano
+Tadano es resistente el ataque de Kotone
+Tadano recibe 19 de daño
+Tadano termina con HP:52/388
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J1)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:52/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:587/597 MP:92/347
+B-Wicker Man HP:110/126 MP:55/55
+C-Hel HP:254/254 MP:226/246
+D-Vetala HP:794/794 MP:146/157
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tadano use
+1-Life Drain MP:5
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:52/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:587/597 MP:92/347
+B-Wicker Man HP:110/126 MP:55/55
+C-Hel HP:254/254 MP:226/246
+D-Vetala HP:794/794 MP:146/157
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tadano
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J2)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:52/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:587/597 MP:92/347
+B-Wicker Man HP:110/126 MP:55/55
+C-Hel HP:254/254 MP:226/246
+D-Vetala HP:794/794 MP:146/157
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Vetala
+2-Kotone
+3-Hel
+4-Wicker Man
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ghoul HP:558/558 MP:111/111
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ghoul HP:558/558 MP:111/111
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Vetala use
+1-Nihil Claw MP:11
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ghoul HP:558/558 MP:111/111
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Vetala use
+1-Nihil Claw MP:11
+2-Fog Breath MP:45
+3-Acid Breath MP:45
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:52/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:587/597 MP:92/347
+B-Wicker Man HP:110/126 MP:55/55
+C-Hel HP:254/254 MP:226/246
+D-Vetala HP:794/794 MP:146/157
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Hel
+3-Wicker Man
+4-Vetala
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:52/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:587/597 MP:92/347
+B-Wicker Man HP:110/126 MP:55/55
+C-Hel HP:254/254 MP:226/246
+D-Vetala HP:794/794 MP:146/157
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hel
+2-Wicker Man
+3-Vetala
+4-Kotone
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ghoul HP:558/558 MP:111/111
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Hel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hel
+1-Tadano HP:52/388 MP:193/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Hel ataca a Tadano
+Tadano es resistente el ataque de Hel
+Tadano recibe 13 de daño
+Tadano termina con HP:39/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:39/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:587/597 MP:92/347
+B-Wicker Man HP:110/126 MP:55/55
+C-Hel HP:254/254 MP:226/246
+D-Vetala HP:794/794 MP:146/157
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wicker Man
+2-Vetala
+3-Kotone
+4-Hel
+----------------------------------------
+Seleccione una acción para Wicker Man
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Wicker Man use
+1-Zan MP:5
+2-Pandemic Bomb MP:11
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wicker Man
+1-Tadano HP:39/388 MP:193/193
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Wicker Man
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Wicker Man use
+1-Zan MP:5
+2-Pandemic Bomb MP:11
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Wicker Man
+1-Tadano HP:39/388 MP:193/193
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Wicker Man
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ghoul HP:558/558 MP:111/111
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ghoul ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:39/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:587/597 MP:92/347
+B-Ghoul HP:558/558 MP:111/111
+C-Hel HP:254/254 MP:226/246
+D-Vetala HP:794/794 MP:146/157
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Vetala
+2-Kotone
+3-Hel
+4-Ghoul
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Tadano HP:39/388 MP:193/193
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Vetala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Vetala
+1-Tadano HP:39/388 MP:193/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Vetala ataca a Tadano
+Tadano es resistente el ataque de Vetala
+Tadano recibe 30 de daño
+Tadano termina con HP:9/388
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tadano (J1)
+A-Tadano HP:9/388 MP:193/193
+B-
+C-
+D-
+Equipo de Kotone (J2)
+A-Kotone HP:587/597 MP:92/347
+B-Ghoul HP:558/558 MP:111/111
+C-Hel HP:254/254 MP:226/246
+D-Vetala HP:794/794 MP:146/157
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Hel
+3-Ghoul
+4-Vetala
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Tadano HP:9/388 MP:193/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kotone ataca a Tadano
+Tadano es resistente el ataque de Kotone
+Tadano recibe 19 de daño
+Tadano termina con HP:0/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Kotone (J2)

@@ -1,0 +1,2169 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 38
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Persephone HP:315/315 MP:306/306
+C-Kwancha HP:160/160 MP:154/154
+D-Pabilsag HP:241/241 MP:67/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Tenkai HP:409/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Pabilsag
+3-Kwancha
+4-Kei
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:804/804 MP:160/160
+2-Tsuchigumo HP:280/280 MP:126/126
+3-Mokoi HP:74/74 MP:36/36
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Demonee-Ho ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Kwancha HP:160/160 MP:154/154
+D-Pabilsag HP:241/241 MP:67/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Tenkai HP:409/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pabilsag
+2-Kwancha
+3-Kei
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Pabilsag
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pabilsag
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Tenkai HP:409/409 MP:396/396
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Pabilsag ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Pabilsag
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Kwancha HP:160/160 MP:154/154
+D-Pabilsag HP:241/241 MP:67/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Tenkai HP:409/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kwancha
+2-Kei
+3-Demonee-Ho
+4-Pabilsag
+----------------------------------------
+Seleccione una acción para Kwancha
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Kwancha HP:160/160 MP:154/154
+D-Pabilsag HP:241/241 MP:67/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Tenkai HP:409/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Demonee-Ho
+3-Pabilsag
+4-Kwancha
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Bad Company MP:15
+2-Mazio MP:11
+3-Ice Breath MP:21
+4-Tathlum Shot MP:7
+5-Zan MP:5
+6-Mahama MP:18
+7-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Tenkai HP:409/409 MP:396/396
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Demonee-Ho HP:804/804 MP:160/160
+C-Kwancha HP:160/160 MP:154/154
+D-Pabilsag HP:241/241 MP:67/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Tenkai HP:409/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Pabilsag
+3-Kwancha
+4-Kei
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Persephone HP:315/315 MP:306/306
+2-Tsuchigumo HP:280/280 MP:126/126
+3-Mokoi HP:74/74 MP:36/36
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Persephone ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Persephone HP:315/315 MP:306/306
+C-Kwancha HP:160/160 MP:154/154
+D-Pabilsag HP:241/241 MP:67/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Tenkai HP:409/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pabilsag
+2-Kwancha
+3-Kei
+4-Persephone
+----------------------------------------
+Seleccione una acción para Pabilsag
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:804/804 MP:160/160
+2-Tsuchigumo HP:280/280 MP:126/126
+3-Mokoi HP:74/74 MP:36/36
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Pabilsag
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:804/804 MP:160/160
+2-Tsuchigumo HP:280/280 MP:126/126
+3-Mokoi HP:74/74 MP:36/36
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Pabilsag
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pabilsag use
+1-Toxic Sting MP:9
+2-Posumudi MP:5
+3-Blast Arrow MP:16
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Pabilsag dispara a Demi-Fiend
+Demi-Fiend recibe 64 de daño
+Demi-Fiend termina con HP:1163/1227
+Pabilsag dispara a Tenkai
+Tenkai es débil contra el ataque de Pabilsag
+Tenkai recibe 97 de daño
+Tenkai termina con HP:312/409
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Persephone HP:315/315 MP:306/306
+C-Kwancha HP:160/160 MP:154/154
+D-Pabilsag HP:241/241 MP:51/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1163/1227 MP:834/834
+B-Tenkai HP:312/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Tenkai
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Trafuri MP:5
+2-Wind Breath MP:21
+3-Bufu MP:5
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Demi-Fiend lanza viento a Kei
+Kei es resistente el ataque de Demi-Fiend
+Kei recibe 119 de daño
+Kei termina con HP:641/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:641/760 MP:398/398
+B-Persephone HP:315/315 MP:306/306
+C-Kwancha HP:160/160 MP:154/154
+D-Pabilsag HP:241/241 MP:51/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1163/1227 MP:813/834
+B-Tenkai HP:312/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tenkai
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tenkai
+1-Kei HP:641/760 MP:398/398
+2-Persephone HP:315/315 MP:306/306
+3-Kwancha HP:160/160 MP:154/154
+4-Pabilsag HP:241/241 MP:51/67
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tenkai
+1-Kei HP:641/760 MP:398/398
+2-Persephone HP:315/315 MP:306/306
+3-Kwancha HP:160/160 MP:154/154
+4-Pabilsag HP:241/241 MP:51/67
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Tenkai ataca a Kwancha
+Kwancha recibe 43 de daño
+Kwancha termina con HP:117/160
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:641/760 MP:398/398
+B-Persephone HP:315/315 MP:306/306
+C-Kwancha HP:117/160 MP:154/154
+D-Pabilsag HP:241/241 MP:51/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1163/1227 MP:813/834
+B-Tenkai HP:312/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Pabilsag
+3-Kwancha
+4-Kei
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:641/760 MP:398/398
+B-Persephone HP:315/315 MP:306/306
+C-Kwancha HP:117/160 MP:154/154
+D-Pabilsag HP:241/241 MP:51/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1163/1227 MP:813/834
+B-Tenkai HP:312/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pabilsag
+2-Kwancha
+3-Kei
+4-Persephone
+----------------------------------------
+Seleccione una acción para Pabilsag
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:641/760 MP:398/398
+B-Persephone HP:315/315 MP:306/306
+C-Kwancha HP:117/160 MP:154/154
+D-Pabilsag HP:241/241 MP:51/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1163/1227 MP:813/834
+B-Tenkai HP:312/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kwancha
+2-Kei
+3-Persephone
+4-Pabilsag
+----------------------------------------
+Seleccione una acción para Kwancha
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Demonee-Ho HP:804/804 MP:160/160
+2-Tsuchigumo HP:280/280 MP:126/126
+3-Mokoi HP:74/74 MP:36/36
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Demonee-Ho ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:641/760 MP:398/398
+B-Persephone HP:315/315 MP:306/306
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Pabilsag HP:241/241 MP:51/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1163/1227 MP:813/834
+B-Tenkai HP:312/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Persephone
+3-Pabilsag
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Demi-Fiend HP:1163/1227 MP:813/834
+2-Tenkai HP:312/409 MP:396/396
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kwancha HP:117/160 MP:154/154
+2-Tsuchigumo HP:280/280 MP:126/126
+3-Mokoi HP:74/74 MP:36/36
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:641/760 MP:398/398
+B-Persephone HP:315/315 MP:306/306
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Pabilsag HP:241/241 MP:51/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1163/1227 MP:813/834
+B-Tenkai HP:312/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Pabilsag
+3-Demonee-Ho
+4-Kei
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Demi-Fiend HP:1163/1227 MP:813/834
+2-Tenkai HP:312/409 MP:396/396
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Persephone ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Persephone
+Demi-Fiend termina con HP:1163/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:641/760 MP:398/398
+B-Persephone HP:315/315 MP:306/306
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Pabilsag HP:241/241 MP:51/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1163/1227 MP:813/834
+B-Tenkai HP:312/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Tenkai
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:641/760 MP:398/398
+B-Persephone HP:315/315 MP:306/306
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Pabilsag HP:241/241 MP:51/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1163/1227 MP:813/834
+B-Tenkai HP:312/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tenkai
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tenkai
+1-Kei HP:641/760 MP:398/398
+2-Persephone HP:315/315 MP:306/306
+3-Demonee-Ho HP:804/804 MP:160/160
+4-Pabilsag HP:241/241 MP:51/67
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:641/760 MP:398/398
+B-Persephone HP:315/315 MP:306/306
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Pabilsag HP:241/241 MP:51/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1163/1227 MP:813/834
+B-Tenkai HP:312/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Tenkai
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:641/760 MP:398/398
+B-Persephone HP:315/315 MP:306/306
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Pabilsag HP:241/241 MP:51/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1163/1227 MP:813/834
+B-Tenkai HP:312/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tenkai
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tenkai use
+1-Hamaon MP:10
+2-Megidola MP:40
+3-Blood Ritual MP:25
+4-Titanomachia MP:30
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tenkai use
+1-Hamaon MP:10
+2-Megidola MP:40
+3-Blood Ritual MP:25
+4-Titanomachia MP:30
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:641/760 MP:398/398
+B-Persephone HP:315/315 MP:306/306
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Pabilsag HP:241/241 MP:51/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1163/1227 MP:813/834
+B-Tenkai HP:312/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Persephone
+3-Pabilsag
+4-Kei
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Demonee-Ho use
+1-Iron Judgement MP:8
+2-Desperate Hit MP:40
+3-Breath MP:24
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demonee-Ho
+1-Demi-Fiend HP:1163/1227 MP:813/834
+2-Tenkai HP:312/409 MP:396/396
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Demonee-Ho use
+1-Iron Judgement MP:8
+2-Desperate Hit MP:40
+3-Breath MP:24
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:641/760 MP:398/398
+B-Persephone HP:315/315 MP:306/306
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Pabilsag HP:241/241 MP:51/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1163/1227 MP:813/834
+B-Tenkai HP:312/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Persephone
+2-Pabilsag
+3-Kei
+4-Demonee-Ho
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:641/760 MP:398/398
+B-Persephone HP:315/315 MP:306/306
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Pabilsag HP:241/241 MP:51/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1163/1227 MP:813/834
+B-Tenkai HP:312/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pabilsag
+2-Kei
+3-Demonee-Ho
+4-Persephone
+----------------------------------------
+Seleccione una acción para Pabilsag
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pabilsag
+1-Demi-Fiend HP:1163/1227 MP:813/834
+2-Tenkai HP:312/409 MP:396/396
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Pabilsag
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pabilsag
+1-Demi-Fiend HP:1163/1227 MP:813/834
+2-Tenkai HP:312/409 MP:396/396
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Pabilsag ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Pabilsag
+Demi-Fiend termina con HP:1163/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:641/760 MP:398/398
+B-Persephone HP:315/315 MP:306/306
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Pabilsag HP:241/241 MP:51/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1163/1227 MP:813/834
+B-Tenkai HP:312/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Demonee-Ho
+3-Persephone
+4-Pabilsag
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Demi-Fiend HP:1163/1227 MP:813/834
+2-Tenkai HP:312/409 MP:396/396
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Demi-Fiend HP:1163/1227 MP:813/834
+2-Tenkai HP:312/409 MP:396/396
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kei dispara a Demi-Fiend
+Demi-Fiend recibe 15 de daño
+Demi-Fiend termina con HP:1148/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:641/760 MP:398/398
+B-Persephone HP:315/315 MP:306/306
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Pabilsag HP:241/241 MP:51/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1148/1227 MP:813/834
+B-Tenkai HP:312/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Tenkai
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:641/760 MP:398/398
+B-Persephone HP:315/315 MP:306/306
+C-Demonee-Ho HP:804/804 MP:160/160
+D-Pabilsag HP:241/241 MP:51/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1148/1227 MP:813/834
+B-Tenkai HP:312/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tenkai
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tenkai
+1-Kei HP:641/760 MP:398/398
+2-Persephone HP:315/315 MP:306/306
+3-Demonee-Ho HP:804/804 MP:160/160
+4-Pabilsag HP:241/241 MP:51/67
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Tenkai ataca a Demonee-Ho
+Demonee-Ho es resistente el ataque de Tenkai
+Demonee-Ho recibe 21 de daño
+Demonee-Ho termina con HP:783/804
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:641/760 MP:398/398
+B-Persephone HP:315/315 MP:306/306
+C-Demonee-Ho HP:783/804 MP:160/160
+D-Pabilsag HP:241/241 MP:51/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1148/1227 MP:813/834
+B-Tenkai HP:312/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Tenkai
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Kei HP:641/760 MP:398/398
+2-Persephone HP:315/315 MP:306/306
+3-Demonee-Ho HP:783/804 MP:160/160
+4-Pabilsag HP:241/241 MP:51/67
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Demi-Fiend dispara a Demonee-Ho
+Demonee-Ho es resistente el ataque de Demi-Fiend
+Demonee-Ho recibe 57 de daño
+Demonee-Ho termina con HP:726/804
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:641/760 MP:398/398
+B-Persephone HP:315/315 MP:306/306
+C-Demonee-Ho HP:726/804 MP:160/160
+D-Pabilsag HP:241/241 MP:51/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1148/1227 MP:813/834
+B-Tenkai HP:312/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demonee-Ho
+2-Persephone
+3-Pabilsag
+4-Kei
+----------------------------------------
+Seleccione una acción para Demonee-Ho
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kwancha HP:117/160 MP:154/154
+2-Tsuchigumo HP:280/280 MP:126/126
+3-Mokoi HP:74/74 MP:36/36
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Mokoi ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:641/760 MP:398/398
+B-Persephone HP:315/315 MP:306/306
+C-Mokoi HP:74/74 MP:36/36
+D-Pabilsag HP:241/241 MP:51/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1148/1227 MP:813/834
+B-Tenkai HP:312/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Persephone
+2-Pabilsag
+3-Kei
+4-Mokoi
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Persephone use
+1-Bufudyne MP:14
+2-Death's Door MP:10
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Persephone ataca con oscuridad a Demi-Fiend
+Demi-Fiend bloquea el ataque de Persephone
+Demi-Fiend termina con HP:1148/1227
+Persephone ataca con oscuridad a Tenkai
+Tenkai bloquea el ataque de Persephone
+Tenkai termina con HP:312/409
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:641/760 MP:398/398
+B-Persephone HP:315/315 MP:276/306
+C-Mokoi HP:74/74 MP:36/36
+D-Pabilsag HP:241/241 MP:51/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1148/1227 MP:813/834
+B-Tenkai HP:312/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pabilsag
+2-Kei
+3-Mokoi
+4-Persephone
+----------------------------------------
+Seleccione una acción para Pabilsag
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pabilsag use
+1-Toxic Sting MP:9
+2-Posumudi MP:5
+3-Blast Arrow MP:16
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Pabilsag dispara a Demi-Fiend
+Demi-Fiend recibe 64 de daño
+Demi-Fiend termina con HP:1084/1227
+Pabilsag dispara a Tenkai
+Tenkai es débil contra el ataque de Pabilsag
+Tenkai recibe 97 de daño
+Tenkai termina con HP:215/409
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:641/760 MP:398/398
+B-Persephone HP:315/315 MP:276/306
+C-Mokoi HP:74/74 MP:36/36
+D-Pabilsag HP:241/241 MP:35/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1084/1227 MP:813/834
+B-Tenkai HP:215/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Mokoi
+3-Persephone
+4-Pabilsag
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Demi-Fiend HP:1084/1227 MP:813/834
+2-Tenkai HP:215/409 MP:396/396
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kei ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Kei
+Demi-Fiend termina con HP:1084/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:641/760 MP:398/398
+B-Persephone HP:315/315 MP:276/306
+C-Mokoi HP:74/74 MP:36/36
+D-Pabilsag HP:241/241 MP:35/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1084/1227 MP:813/834
+B-Tenkai HP:215/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Tenkai
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Kei HP:641/760 MP:398/398
+2-Persephone HP:315/315 MP:276/306
+3-Mokoi HP:74/74 MP:36/36
+4-Pabilsag HP:241/241 MP:35/67
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Kei HP:641/760 MP:398/398
+2-Persephone HP:315/315 MP:276/306
+3-Mokoi HP:74/74 MP:36/36
+4-Pabilsag HP:241/241 MP:35/67
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Kei
+Kei es resistente el ataque de Demi-Fiend
+Kei recibe 84 de daño
+Kei termina con HP:557/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:557/760 MP:398/398
+B-Persephone HP:315/315 MP:276/306
+C-Mokoi HP:74/74 MP:36/36
+D-Pabilsag HP:241/241 MP:35/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1084/1227 MP:813/834
+B-Tenkai HP:215/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tenkai
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tenkai
+1-Kei HP:557/760 MP:398/398
+2-Persephone HP:315/315 MP:276/306
+3-Mokoi HP:74/74 MP:36/36
+4-Pabilsag HP:241/241 MP:35/67
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tenkai ataca a Persephone
+Persephone recibe 43 de daño
+Persephone termina con HP:272/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:557/760 MP:398/398
+B-Persephone HP:272/315 MP:276/306
+C-Mokoi HP:74/74 MP:36/36
+D-Pabilsag HP:241/241 MP:35/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1084/1227 MP:813/834
+B-Tenkai HP:215/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Pabilsag
+3-Kei
+4-Mokoi
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Persephone use
+1-Bufudyne MP:14
+2-Death's Door MP:10
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Demi-Fiend HP:1084/1227 MP:813/834
+2-Tenkai HP:215/409 MP:396/396
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Persephone ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Persephone
+Demi-Fiend termina con HP:1084/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:557/760 MP:398/398
+B-Persephone HP:272/315 MP:276/306
+C-Mokoi HP:74/74 MP:36/36
+D-Pabilsag HP:241/241 MP:35/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1084/1227 MP:813/834
+B-Tenkai HP:215/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pabilsag
+2-Kei
+3-Mokoi
+4-Persephone
+----------------------------------------
+Seleccione una acción para Pabilsag
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pabilsag use
+1-Toxic Sting MP:9
+2-Posumudi MP:5
+3-Blast Arrow MP:16
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Pabilsag
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pabilsag
+1-Demi-Fiend HP:1084/1227 MP:813/834
+2-Tenkai HP:215/409 MP:396/396
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Pabilsag ataca a Tenkai
+Tenkai es resistente el ataque de Pabilsag
+Tenkai recibe 12 de daño
+Tenkai termina con HP:203/409
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:557/760 MP:398/398
+B-Persephone HP:272/315 MP:276/306
+C-Mokoi HP:74/74 MP:36/36
+D-Pabilsag HP:241/241 MP:35/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1084/1227 MP:813/834
+B-Tenkai HP:203/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Mokoi
+3-Persephone
+4-Pabilsag
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:557/760 MP:398/398
+B-Persephone HP:272/315 MP:276/306
+C-Mokoi HP:74/74 MP:36/36
+D-Pabilsag HP:241/241 MP:35/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1084/1227 MP:813/834
+B-Tenkai HP:203/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mokoi
+2-Persephone
+3-Pabilsag
+4-Kei
+----------------------------------------
+Seleccione una acción para Mokoi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mokoi
+1-Demi-Fiend HP:1084/1227 MP:813/834
+2-Tenkai HP:203/409 MP:396/396
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Mokoi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mokoi use
+1-Zio MP:5
+2-Dream Fist MP:9
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mokoi
+1-Demi-Fiend HP:1084/1227 MP:813/834
+2-Tenkai HP:203/409 MP:396/396
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Mokoi lanza electricidad a Demi-Fiend
+Demi-Fiend bloquea el ataque de Mokoi
+Demi-Fiend termina con HP:1084/1227
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:557/760 MP:398/398
+B-Persephone HP:272/315 MP:276/306
+C-Mokoi HP:74/74 MP:31/36
+D-Pabilsag HP:241/241 MP:35/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1084/1227 MP:813/834
+B-Tenkai HP:203/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Tenkai
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Kei HP:557/760 MP:398/398
+2-Persephone HP:272/315 MP:276/306
+3-Mokoi HP:74/74 MP:31/36
+4-Pabilsag HP:241/241 MP:35/67
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Demi-Fiend ataca a Persephone
+Persephone recibe 168 de daño
+Persephone termina con HP:104/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:557/760 MP:398/398
+B-Persephone HP:104/315 MP:276/306
+C-Mokoi HP:74/74 MP:31/36
+D-Pabilsag HP:241/241 MP:35/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1084/1227 MP:813/834
+B-Tenkai HP:203/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tenkai
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:557/760 MP:398/398
+B-Persephone HP:104/315 MP:276/306
+C-Mokoi HP:74/74 MP:31/36
+D-Pabilsag HP:241/241 MP:35/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1084/1227 MP:813/834
+B-Tenkai HP:203/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Tenkai
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Kei HP:557/760 MP:398/398
+2-Persephone HP:104/315 MP:276/306
+3-Mokoi HP:74/74 MP:31/36
+4-Pabilsag HP:241/241 MP:35/67
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend ataca a Kei
+Kei es resistente el ataque de Demi-Fiend
+Kei recibe 84 de daño
+Kei termina con HP:473/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:473/760 MP:398/398
+B-Persephone HP:104/315 MP:276/306
+C-Mokoi HP:74/74 MP:31/36
+D-Pabilsag HP:241/241 MP:35/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1084/1227 MP:813/834
+B-Tenkai HP:203/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Pabilsag
+3-Kei
+4-Mokoi
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:473/760 MP:398/398
+B-Persephone HP:104/315 MP:276/306
+C-Mokoi HP:74/74 MP:31/36
+D-Pabilsag HP:241/241 MP:35/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1084/1227 MP:813/834
+B-Tenkai HP:203/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pabilsag
+2-Kei
+3-Mokoi
+4-Persephone
+----------------------------------------
+Seleccione una acción para Pabilsag
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:473/760 MP:398/398
+B-Persephone HP:104/315 MP:276/306
+C-Mokoi HP:74/74 MP:31/36
+D-Pabilsag HP:241/241 MP:35/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1084/1227 MP:813/834
+B-Tenkai HP:203/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Mokoi
+3-Persephone
+4-Pabilsag
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Demi-Fiend HP:1084/1227 MP:813/834
+2-Tenkai HP:203/409 MP:396/396
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kei dispara a Tenkai
+Tenkai es débil contra el ataque de Kei
+Tenkai recibe 23 de daño
+Tenkai termina con HP:180/409
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:473/760 MP:398/398
+B-Persephone HP:104/315 MP:276/306
+C-Mokoi HP:74/74 MP:31/36
+D-Pabilsag HP:241/241 MP:35/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1084/1227 MP:813/834
+B-Tenkai HP:180/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mokoi
+2-Persephone
+3-Pabilsag
+4-Kei
+----------------------------------------
+Seleccione una acción para Mokoi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kwancha HP:117/160 MP:154/154
+2-Demonee-Ho HP:726/804 MP:160/160
+3-Tsuchigumo HP:280/280 MP:126/126
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Mokoi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mokoi use
+1-Zio MP:5
+2-Dream Fist MP:9
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mokoi
+1-Demi-Fiend HP:1084/1227 MP:813/834
+2-Tenkai HP:180/409 MP:396/396
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Mokoi lanza electricidad a Demi-Fiend
+Demi-Fiend bloquea el ataque de Mokoi
+Demi-Fiend termina con HP:1084/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:473/760 MP:398/398
+B-Persephone HP:104/315 MP:276/306
+C-Mokoi HP:74/74 MP:26/36
+D-Pabilsag HP:241/241 MP:35/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1084/1227 MP:813/834
+B-Tenkai HP:180/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Pabilsag
+3-Kei
+4-Mokoi
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Demi-Fiend HP:1084/1227 MP:813/834
+2-Tenkai HP:180/409 MP:396/396
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Persephone ataca a Tenkai
+Tenkai es resistente el ataque de Persephone
+Tenkai recibe 16 de daño
+Tenkai termina con HP:164/409
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:473/760 MP:398/398
+B-Persephone HP:104/315 MP:276/306
+C-Mokoi HP:74/74 MP:26/36
+D-Pabilsag HP:241/241 MP:35/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1084/1227 MP:813/834
+B-Tenkai HP:164/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Tenkai
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Trafuri MP:5
+2-Wind Breath MP:21
+3-Bufu MP:5
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Kei HP:473/760 MP:398/398
+2-Persephone HP:104/315 MP:276/306
+3-Mokoi HP:74/74 MP:26/36
+4-Pabilsag HP:241/241 MP:35/67
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:473/760 MP:398/398
+B-Persephone HP:104/315 MP:276/306
+C-Mokoi HP:74/74 MP:26/36
+D-Pabilsag HP:241/241 MP:35/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1084/1227 MP:813/834
+B-Tenkai HP:164/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tenkai
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Tenkai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tenkai
+1-Kei HP:473/760 MP:398/398
+2-Persephone HP:104/315 MP:276/306
+3-Mokoi HP:74/74 MP:26/36
+4-Pabilsag HP:241/241 MP:35/67
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tenkai ataca a Persephone
+Persephone recibe 43 de daño
+Persephone termina con HP:61/315
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:473/760 MP:398/398
+B-Persephone HP:61/315 MP:276/306
+C-Mokoi HP:74/74 MP:26/36
+D-Pabilsag HP:241/241 MP:35/67
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1084/1227 MP:813/834
+B-Tenkai HP:164/409 MP:396/396
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Tenkai
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Kei HP:473/760 MP:398/398
+2-Persephone HP:61/315 MP:276/306
+3-Mokoi HP:74/74 MP:26/36
+4-Pabilsag HP:241/241 MP:35/67
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Trafuri MP:5
+2-Wind Breath MP:21
+3-Bufu MP:5
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend (J2) se rinde
+----------------------------------------
+Ganador: Kei (J1)

@@ -1,0 +1,356 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+INPUT: 7
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Bishamonten HP:700/700 MP:139/139
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Bishamonten
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Defender's Gaze MP:255
+2-Needle Shot MP:4
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 3 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:579/834
+B-Bishamonten HP:700/700 MP:139/139
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 3
+----------------------------------------
+Orden:
+1-Bishamonten
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Tadano HP:388/388 MP:193/193
+2-Girimekhala HP:653/653 MP:130/130
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Bishamonten ataca a Tadano
+Tadano es resistente el ataque de Bishamonten
+Tadano recibe 26 de daño
+Tadano termina con HP:362/388
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:579/834
+B-Bishamonten HP:700/700 MP:139/139
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:362/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Bishamonten
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Defender's Gaze MP:255
+2-Needle Shot MP:4
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 3 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:324/834
+B-Bishamonten HP:700/700 MP:139/139
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:362/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 4
+----------------------------------------
+Orden:
+1-Bishamonten
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Tadano HP:362/388 MP:193/193
+2-Girimekhala HP:653/653 MP:130/130
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Bishamonten ataca a Tadano
+Tadano es resistente el ataque de Bishamonten
+Tadano recibe 26 de daño
+Tadano termina con HP:336/388
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:324/834
+B-Bishamonten HP:700/700 MP:139/139
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:336/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 3
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Bishamonten
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Defender's Gaze MP:255
+2-Needle Shot MP:4
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 3 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:69/834
+B-Bishamonten HP:700/700 MP:139/139
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:336/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 5
+----------------------------------------
+Orden:
+1-Bishamonten
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Bishamonten
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Bishamonten
+1-Tadano HP:336/388 MP:193/193
+2-Girimekhala HP:653/653 MP:130/130
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Bishamonten ataca a Tadano
+Tadano es resistente el ataque de Bishamonten
+Tadano recibe 26 de daño
+Tadano termina con HP:310/388
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:69/834
+B-Bishamonten HP:700/700 MP:139/139
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:310/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 4
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Bishamonten
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Needle Shot MP:4
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Tadano HP:310/388 MP:193/193
+2-Girimekhala HP:653/653 MP:130/130
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Demi-Fiend dispara a Girimekhala
+Girimekhala absorbe 96 daño
+Girimekhala termina con HP:653/653
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 4 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:65/834
+B-Bishamonten HP:700/700 MP:139/139
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:310/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Tadano
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Girimekhala
+1-Demi-Fiend HP:1227/1227 MP:65/834
+2-Bishamonten HP:700/700 MP:139/139
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Girimekhala ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Girimekhala
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:65/834
+B-Bishamonten HP:700/700 MP:139/139
+C-
+D-
+Equipo de Tadano (J2)
+A-Tadano HP:310/388 MP:193/193
+B-Girimekhala HP:653/653 MP:130/130
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Bishamonten
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 6
+----------------------------------------
+Demi-Fiend (J1) se rinde
+----------------------------------------
+Ganador: Tadano (J2)

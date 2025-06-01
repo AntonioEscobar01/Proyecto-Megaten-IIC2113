@@ -1,0 +1,4688 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 45
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Caladrius HP:155/155 MP:149/149
+C-Hecatoncheires HP:756/756 MP:151/151
+D-Plasma HP:179/179 MP:172/172
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Tsuchigumo HP:280/280 MP:126/126
+C-Mokoi HP:74/74 MP:36/36
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hecatoncheires
+2-Itsuki
+3-Caladrius
+4-Plasma
+----------------------------------------
+Seleccione una acción para Hecatoncheires
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Caladrius HP:155/155 MP:149/149
+C-Hecatoncheires HP:756/756 MP:151/151
+D-Plasma HP:179/179 MP:172/172
+Equipo de Nanashi (J2)
+A-Nanashi HP:140/140 MP:411/411
+B-Tsuchigumo HP:280/280 MP:126/126
+C-Mokoi HP:74/74 MP:36/36
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Caladrius
+3-Plasma
+4-Hecatoncheires
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Poltergeist HP:108/108 MP:104/104
+2-Kama HP:574/574 MP:257/257
+3-Tlazolteotl HP:315/315 MP:306/306
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nanashi HP:140/140 MP:411/411
+2-Tsuchigumo HP:280/280 MP:126/126
+3-Mokoi HP:74/74 MP:36/36
+4-Anzu HP:596/596 MP:118/118
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Nanashi
+Nanashi recibe 45 de daño
+Nanashi termina con HP:95/140
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Caladrius HP:155/155 MP:149/149
+C-Hecatoncheires HP:756/756 MP:151/151
+D-Plasma HP:179/179 MP:172/172
+Equipo de Nanashi (J2)
+A-Nanashi HP:95/140 MP:411/411
+B-Tsuchigumo HP:280/280 MP:126/126
+C-Mokoi HP:74/74 MP:36/36
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Caladrius
+2-Plasma
+3-Hecatoncheires
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Caladrius
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Caladrius
+1-Nanashi HP:95/140 MP:411/411
+2-Tsuchigumo HP:280/280 MP:126/126
+3-Mokoi HP:74/74 MP:36/36
+4-Anzu HP:596/596 MP:118/118
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Caladrius
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Caladrius use
+1-Me Patra MP:15
+2-Media MP:12
+3-Posumudi MP:5
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Caladrius cura a Itsuki
+Itsuki recibe 284 de HP
+Itsuki termina con HP:1136/1136
+Caladrius cura a Hecatoncheires
+Hecatoncheires recibe 189 de HP
+Hecatoncheires termina con HP:756/756
+Caladrius cura a Plasma
+Plasma recibe 44 de HP
+Plasma termina con HP:179/179
+Caladrius cura a Caladrius
+Caladrius recibe 38 de HP
+Caladrius termina con HP:155/155
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Caladrius HP:155/155 MP:137/149
+C-Hecatoncheires HP:756/756 MP:151/151
+D-Plasma HP:179/179 MP:172/172
+Equipo de Nanashi (J2)
+A-Nanashi HP:95/140 MP:411/411
+B-Tsuchigumo HP:280/280 MP:126/126
+C-Mokoi HP:74/74 MP:36/36
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Plasma
+2-Hecatoncheires
+3-Itsuki
+4-Caladrius
+----------------------------------------
+Seleccione una acción para Plasma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Caladrius HP:155/155 MP:137/149
+C-Hecatoncheires HP:756/756 MP:151/151
+D-Plasma HP:179/179 MP:172/172
+Equipo de Nanashi (J2)
+A-Nanashi HP:95/140 MP:411/411
+B-Tsuchigumo HP:280/280 MP:126/126
+C-Mokoi HP:74/74 MP:36/36
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hecatoncheires
+2-Itsuki
+3-Caladrius
+4-Plasma
+----------------------------------------
+Seleccione una acción para Hecatoncheires
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hecatoncheires
+1-Nanashi HP:95/140 MP:411/411
+2-Tsuchigumo HP:280/280 MP:126/126
+3-Mokoi HP:74/74 MP:36/36
+4-Anzu HP:596/596 MP:118/118
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Hecatoncheires ataca a Nanashi
+Nanashi recibe 58 de daño
+Nanashi termina con HP:37/140
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Caladrius HP:155/155 MP:137/149
+C-Hecatoncheires HP:756/756 MP:151/151
+D-Plasma HP:179/179 MP:172/172
+Equipo de Nanashi (J2)
+A-Nanashi HP:37/140 MP:411/411
+B-Tsuchigumo HP:280/280 MP:126/126
+C-Mokoi HP:74/74 MP:36/36
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Caladrius
+3-Plasma
+4-Hecatoncheires
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Poltergeist HP:108/108 MP:104/104
+2-Kama HP:574/574 MP:257/257
+3-Tlazolteotl HP:315/315 MP:306/306
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Caladrius HP:155/155 MP:137/149 (Puesto 2)
+2-Hecatoncheires HP:756/756 MP:151/151 (Puesto 3)
+3-Plasma HP:179/179 MP:172/172 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Kama ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Caladrius HP:155/155 MP:137/149
+C-Hecatoncheires HP:756/756 MP:151/151
+D-Kama HP:574/574 MP:257/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:37/140 MP:411/411
+B-Tsuchigumo HP:280/280 MP:126/126
+C-Mokoi HP:74/74 MP:36/36
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Caladrius
+2-Kama
+3-Hecatoncheires
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Caladrius
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Plasma HP:179/179 MP:172/172
+2-Poltergeist HP:108/108 MP:104/104
+3-Tlazolteotl HP:315/315 MP:306/306
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Poltergeist ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Poltergeist HP:108/108 MP:104/104
+C-Hecatoncheires HP:756/756 MP:151/151
+D-Kama HP:574/574 MP:257/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:37/140 MP:411/411
+B-Tsuchigumo HP:280/280 MP:126/126
+C-Mokoi HP:74/74 MP:36/36
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Nanashi
+3-Tsuchigumo
+4-Mokoi
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Anzu use
+1-Zionga MP:8
+2-Nihil Claw MP:11
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Itsuki HP:1136/1136 MP:413/413
+2-Poltergeist HP:108/108 MP:104/104
+3-Hecatoncheires HP:756/756 MP:151/151
+4-Kama HP:574/574 MP:257/257
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Anzu ataca a Itsuki
+Itsuki recibe 44 de daño
+Itsuki termina con HP:1092/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1092/1136 MP:413/413
+B-Poltergeist HP:108/108 MP:104/104
+C-Hecatoncheires HP:756/756 MP:151/151
+D-Kama HP:574/574 MP:257/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:37/140 MP:411/411
+B-Tsuchigumo HP:280/280 MP:126/126
+C-Mokoi HP:74/74 MP:36/36
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Tsuchigumo
+3-Mokoi
+4-Anzu
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Itsuki HP:1092/1136 MP:413/413
+2-Poltergeist HP:108/108 MP:104/104
+3-Hecatoncheires HP:756/756 MP:151/151
+4-Kama HP:574/574 MP:257/257
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi dispara a Itsuki
+Itsuki recibe 31 de daño
+Itsuki termina con HP:1061/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1061/1136 MP:413/413
+B-Poltergeist HP:108/108 MP:104/104
+C-Hecatoncheires HP:756/756 MP:151/151
+D-Kama HP:574/574 MP:257/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:37/140 MP:411/411
+B-Tsuchigumo HP:280/280 MP:126/126
+C-Mokoi HP:74/74 MP:36/36
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Mokoi
+3-Anzu
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tsuchigumo use
+1-Poison Claw MP:9
+2-Zionga MP:8
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tsuchigumo use
+1-Poison Claw MP:9
+2-Zionga MP:8
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Itsuki HP:1061/1136 MP:413/413
+2-Poltergeist HP:108/108 MP:104/104
+3-Hecatoncheires HP:756/756 MP:151/151
+4-Kama HP:574/574 MP:257/257
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tsuchigumo lanza electricidad a Itsuki
+Itsuki absorbe 70 daño
+Itsuki termina con HP:1131/1136
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1131/1136 MP:413/413
+B-Poltergeist HP:108/108 MP:104/104
+C-Hecatoncheires HP:756/756 MP:151/151
+D-Kama HP:574/574 MP:257/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:37/140 MP:411/411
+B-Tsuchigumo HP:280/280 MP:118/126
+C-Mokoi HP:74/74 MP:36/36
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Hecatoncheires
+3-Itsuki
+4-Poltergeist
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1131/1136 MP:413/413
+B-Poltergeist HP:108/108 MP:104/104
+C-Hecatoncheires HP:756/756 MP:151/151
+D-Kama HP:574/574 MP:257/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:37/140 MP:411/411
+B-Tsuchigumo HP:280/280 MP:118/126
+C-Mokoi HP:74/74 MP:36/36
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hecatoncheires
+2-Itsuki
+3-Poltergeist
+4-Kama
+----------------------------------------
+Seleccione una acción para Hecatoncheires
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1131/1136 MP:413/413
+B-Poltergeist HP:108/108 MP:104/104
+C-Hecatoncheires HP:756/756 MP:151/151
+D-Kama HP:574/574 MP:257/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:37/140 MP:411/411
+B-Tsuchigumo HP:280/280 MP:118/126
+C-Mokoi HP:74/74 MP:36/36
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Poltergeist
+3-Kama
+4-Hecatoncheires
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nanashi HP:37/140 MP:411/411
+2-Tsuchigumo HP:280/280 MP:118/126
+3-Mokoi HP:74/74 MP:36/36
+4-Anzu HP:596/596 MP:118/118
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki ataca a Tsuchigumo
+Tsuchigumo recibe 45 de daño
+Tsuchigumo termina con HP:235/280
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1131/1136 MP:413/413
+B-Poltergeist HP:108/108 MP:104/104
+C-Hecatoncheires HP:756/756 MP:151/151
+D-Kama HP:574/574 MP:257/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:37/140 MP:411/411
+B-Tsuchigumo HP:235/280 MP:118/126
+C-Mokoi HP:74/74 MP:36/36
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Poltergeist
+2-Kama
+3-Hecatoncheires
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Poltergeist
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Caladrius HP:155/155 MP:137/149
+2-Plasma HP:179/179 MP:172/172
+3-Tlazolteotl HP:315/315 MP:306/306
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Plasma ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1131/1136 MP:413/413
+B-Plasma HP:179/179 MP:172/172
+C-Hecatoncheires HP:756/756 MP:151/151
+D-Kama HP:574/574 MP:257/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:37/140 MP:411/411
+B-Tsuchigumo HP:235/280 MP:118/126
+C-Mokoi HP:74/74 MP:36/36
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kama
+2-Hecatoncheires
+3-Itsuki
+4-Plasma
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Nanashi HP:37/140 MP:411/411
+2-Tsuchigumo HP:235/280 MP:118/126
+3-Mokoi HP:74/74 MP:36/36
+4-Anzu HP:596/596 MP:118/118
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kama ataca a Mokoi
+Mokoi recibe 48 de daño
+Mokoi termina con HP:26/74
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1131/1136 MP:413/413
+B-Plasma HP:179/179 MP:172/172
+C-Hecatoncheires HP:756/756 MP:151/151
+D-Kama HP:574/574 MP:257/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:37/140 MP:411/411
+B-Tsuchigumo HP:235/280 MP:118/126
+C-Mokoi HP:26/74 MP:36/36
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hecatoncheires
+2-Itsuki
+3-Plasma
+4-Kama
+----------------------------------------
+Seleccione una acción para Hecatoncheires
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1131/1136 MP:413/413
+B-Plasma HP:179/179 MP:172/172
+C-Hecatoncheires HP:756/756 MP:151/151
+D-Kama HP:574/574 MP:257/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:37/140 MP:411/411
+B-Tsuchigumo HP:235/280 MP:118/126
+C-Mokoi HP:26/74 MP:36/36
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Plasma
+3-Kama
+4-Hecatoncheires
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Caladrius HP:155/155 MP:137/149
+2-Poltergeist HP:108/108 MP:104/104
+3-Tlazolteotl HP:315/315 MP:306/306
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Plasma HP:179/179 MP:172/172 (Puesto 2)
+2-Hecatoncheires HP:756/756 MP:151/151 (Puesto 3)
+3-Kama HP:574/574 MP:257/257 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Tlazolteotl ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1131/1136 MP:413/413
+B-Plasma HP:179/179 MP:172/172
+C-Hecatoncheires HP:756/756 MP:151/151
+D-Tlazolteotl HP:315/315 MP:306/306
+Equipo de Nanashi (J2)
+A-Nanashi HP:37/140 MP:411/411
+B-Tsuchigumo HP:235/280 MP:118/126
+C-Mokoi HP:26/74 MP:36/36
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Nanashi
+3-Tsuchigumo
+4-Mokoi
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Itsuki HP:1131/1136 MP:413/413
+2-Plasma HP:179/179 MP:172/172
+3-Hecatoncheires HP:756/756 MP:151/151
+4-Tlazolteotl HP:315/315 MP:306/306
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Anzu ataca a Tlazolteotl
+Tlazolteotl recibe 44 de daño
+Tlazolteotl termina con HP:271/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1131/1136 MP:413/413
+B-Plasma HP:179/179 MP:172/172
+C-Hecatoncheires HP:756/756 MP:151/151
+D-Tlazolteotl HP:271/315 MP:306/306
+Equipo de Nanashi (J2)
+A-Nanashi HP:37/140 MP:411/411
+B-Tsuchigumo HP:235/280 MP:118/126
+C-Mokoi HP:26/74 MP:36/36
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Tsuchigumo
+3-Mokoi
+4-Anzu
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Itsuki HP:1131/1136 MP:413/413
+2-Plasma HP:179/179 MP:172/172
+3-Hecatoncheires HP:756/756 MP:151/151
+4-Tlazolteotl HP:271/315 MP:306/306
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi ataca a Itsuki
+Itsuki recibe 92 de daño
+Itsuki termina con HP:1039/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1039/1136 MP:413/413
+B-Plasma HP:179/179 MP:172/172
+C-Hecatoncheires HP:756/756 MP:151/151
+D-Tlazolteotl HP:271/315 MP:306/306
+Equipo de Nanashi (J2)
+A-Nanashi HP:37/140 MP:411/411
+B-Tsuchigumo HP:235/280 MP:118/126
+C-Mokoi HP:26/74 MP:36/36
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Mokoi
+3-Anzu
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tsuchigumo use
+1-Poison Claw MP:9
+2-Zionga MP:8
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Itsuki HP:1039/1136 MP:413/413
+2-Plasma HP:179/179 MP:172/172
+3-Hecatoncheires HP:756/756 MP:151/151
+4-Tlazolteotl HP:271/315 MP:306/306
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Tsuchigumo lanza electricidad a Tlazolteotl
+Tlazolteotl recibe 70 de daño
+Tlazolteotl termina con HP:201/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1039/1136 MP:413/413
+B-Plasma HP:179/179 MP:172/172
+C-Hecatoncheires HP:756/756 MP:151/151
+D-Tlazolteotl HP:201/315 MP:306/306
+Equipo de Nanashi (J2)
+A-Nanashi HP:37/140 MP:411/411
+B-Tsuchigumo HP:235/280 MP:110/126
+C-Mokoi HP:26/74 MP:36/36
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mokoi
+2-Anzu
+3-Nanashi
+4-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Mokoi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Mokoi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1039/1136 MP:413/413
+B-Plasma HP:179/179 MP:172/172
+C-Hecatoncheires HP:756/756 MP:151/151
+D-Tlazolteotl HP:201/315 MP:306/306
+Equipo de Nanashi (J2)
+A-Nanashi HP:37/140 MP:411/411
+B-Tsuchigumo HP:235/280 MP:110/126
+C-Mokoi HP:26/74 MP:36/36
+D-Anzu HP:596/596 MP:118/118
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Anzu
+2-Nanashi
+3-Tsuchigumo
+4-Mokoi
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Anzu use
+1-Zionga MP:8
+2-Nihil Claw MP:11
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Itsuki HP:1039/1136 MP:413/413
+2-Plasma HP:179/179 MP:172/172
+3-Hecatoncheires HP:756/756 MP:151/151
+4-Tlazolteotl HP:201/315 MP:306/306
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Anzu lanza electricidad a Plasma
+Plasma absorbe 84 daño
+Plasma termina con HP:179/179
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1039/1136 MP:413/413
+B-Plasma HP:179/179 MP:172/172
+C-Hecatoncheires HP:756/756 MP:151/151
+D-Tlazolteotl HP:201/315 MP:306/306
+Equipo de Nanashi (J2)
+A-Nanashi HP:37/140 MP:411/411
+B-Tsuchigumo HP:235/280 MP:110/126
+C-Mokoi HP:26/74 MP:36/36
+D-Anzu HP:596/596 MP:110/118
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hecatoncheires
+2-Itsuki
+3-Tlazolteotl
+4-Plasma
+----------------------------------------
+Seleccione una acción para Hecatoncheires
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Caladrius HP:155/155 MP:137/149
+2-Poltergeist HP:108/108 MP:104/104
+3-Kama HP:574/574 MP:257/257
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Caladrius ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1039/1136 MP:413/413
+B-Plasma HP:179/179 MP:172/172
+C-Caladrius HP:155/155 MP:137/149
+D-Tlazolteotl HP:201/315 MP:306/306
+Equipo de Nanashi (J2)
+A-Nanashi HP:37/140 MP:411/411
+B-Tsuchigumo HP:235/280 MP:110/126
+C-Mokoi HP:26/74 MP:36/36
+D-Anzu HP:596/596 MP:110/118
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Tlazolteotl
+3-Plasma
+4-Caladrius
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Bad Company MP:15
+2-Rapid Needle MP:9
+3-Grand Tack MP:11
+4-Gather Spirit Energy MP:25
+5-Mortal Jihad MP:13
+6-Mabufudyne MP:32
+7-Glacial Blast MP:22
+8-Serpent of Sheol MP:45
+9-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nanashi HP:37/140 MP:411/411
+2-Tsuchigumo HP:235/280 MP:110/126
+3-Mokoi HP:26/74 MP:36/36
+4-Anzu HP:596/596 MP:110/118
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nanashi HP:37/140 MP:411/411
+2-Tsuchigumo HP:235/280 MP:110/126
+3-Mokoi HP:26/74 MP:36/36
+4-Anzu HP:596/596 MP:110/118
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki dispara a Anzu
+Anzu recibe 61 de daño
+Anzu termina con HP:535/596
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1039/1136 MP:413/413
+B-Plasma HP:179/179 MP:172/172
+C-Caladrius HP:155/155 MP:137/149
+D-Tlazolteotl HP:201/315 MP:306/306
+Equipo de Nanashi (J2)
+A-Nanashi HP:37/140 MP:411/411
+B-Tsuchigumo HP:235/280 MP:110/126
+C-Mokoi HP:26/74 MP:36/36
+D-Anzu HP:535/596 MP:110/118
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tlazolteotl
+2-Plasma
+3-Caladrius
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hecatoncheires HP:756/756 MP:151/151
+2-Poltergeist HP:108/108 MP:104/104
+3-Kama HP:574/574 MP:257/257
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tlazolteotl
+1-Nanashi HP:37/140 MP:411/411
+2-Tsuchigumo HP:235/280 MP:110/126
+3-Mokoi HP:26/74 MP:36/36
+4-Anzu HP:535/596 MP:110/118
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Tlazolteotl ataca a Tsuchigumo
+Tsuchigumo recibe 33 de daño
+Tsuchigumo termina con HP:202/280
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1039/1136 MP:413/413
+B-Plasma HP:179/179 MP:172/172
+C-Caladrius HP:155/155 MP:137/149
+D-Tlazolteotl HP:201/315 MP:306/306
+Equipo de Nanashi (J2)
+A-Nanashi HP:37/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-Mokoi HP:26/74 MP:36/36
+D-Anzu HP:535/596 MP:110/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Plasma
+2-Caladrius
+3-Itsuki
+4-Tlazolteotl
+----------------------------------------
+Seleccione una acción para Plasma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1039/1136 MP:413/413
+B-Plasma HP:179/179 MP:172/172
+C-Caladrius HP:155/155 MP:137/149
+D-Tlazolteotl HP:201/315 MP:306/306
+Equipo de Nanashi (J2)
+A-Nanashi HP:37/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-Mokoi HP:26/74 MP:36/36
+D-Anzu HP:535/596 MP:110/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Caladrius
+2-Itsuki
+3-Tlazolteotl
+4-Plasma
+----------------------------------------
+Seleccione una acción para Caladrius
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Caladrius use
+1-Me Patra MP:15
+2-Media MP:12
+3-Posumudi MP:5
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Caladrius
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Caladrius
+1-Nanashi HP:37/140 MP:411/411
+2-Tsuchigumo HP:202/280 MP:110/126
+3-Mokoi HP:26/74 MP:36/36
+4-Anzu HP:535/596 MP:110/118
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Caladrius ataca a Nanashi
+Nanashi recibe 17 de daño
+Nanashi termina con HP:20/140
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1039/1136 MP:413/413
+B-Plasma HP:179/179 MP:172/172
+C-Caladrius HP:155/155 MP:137/149
+D-Tlazolteotl HP:201/315 MP:306/306
+Equipo de Nanashi (J2)
+A-Nanashi HP:20/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-Mokoi HP:26/74 MP:36/36
+D-Anzu HP:535/596 MP:110/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Tlazolteotl
+3-Plasma
+4-Caladrius
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Nanashi HP:20/140 MP:411/411
+2-Tsuchigumo HP:202/280 MP:110/126
+3-Mokoi HP:26/74 MP:36/36
+4-Anzu HP:535/596 MP:110/118
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Nanashi
+Nanashi recibe 45 de daño
+Nanashi termina con HP:0/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1039/1136 MP:413/413
+B-Plasma HP:179/179 MP:172/172
+C-Caladrius HP:155/155 MP:137/149
+D-Tlazolteotl HP:201/315 MP:306/306
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-Mokoi HP:26/74 MP:36/36
+D-Anzu HP:535/596 MP:110/118
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Tsuchigumo
+3-Mokoi
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Anzu use
+1-Zionga MP:8
+2-Nihil Claw MP:11
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Itsuki HP:1039/1136 MP:413/413
+2-Plasma HP:179/179 MP:172/172
+3-Caladrius HP:155/155 MP:137/149
+4-Tlazolteotl HP:201/315 MP:306/306
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Anzu ataca a Tlazolteotl
+Tlazolteotl recibe 129 de daño
+Tlazolteotl termina con HP:72/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1039/1136 MP:413/413
+B-Plasma HP:179/179 MP:172/172
+C-Caladrius HP:155/155 MP:137/149
+D-Tlazolteotl HP:72/315 MP:306/306
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-Mokoi HP:26/74 MP:36/36
+D-Anzu HP:535/596 MP:99/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Mokoi
+3-Anzu
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tsuchigumo use
+1-Poison Claw MP:9
+2-Zionga MP:8
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1039/1136 MP:413/413
+B-Plasma HP:179/179 MP:172/172
+C-Caladrius HP:155/155 MP:137/149
+D-Tlazolteotl HP:72/315 MP:306/306
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-Mokoi HP:26/74 MP:36/36
+D-Anzu HP:535/596 MP:99/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mokoi
+2-Anzu
+3-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Mokoi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Mokoi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1039/1136 MP:413/413
+B-Plasma HP:179/179 MP:172/172
+C-Caladrius HP:155/155 MP:137/149
+D-Tlazolteotl HP:72/315 MP:306/306
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-Mokoi HP:26/74 MP:36/36
+D-Anzu HP:535/596 MP:99/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Tsuchigumo
+3-Mokoi
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Anzu use
+1-Zionga MP:8
+2-Nihil Claw MP:11
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Itsuki HP:1039/1136 MP:413/413
+2-Plasma HP:179/179 MP:172/172
+3-Caladrius HP:155/155 MP:137/149
+4-Tlazolteotl HP:72/315 MP:306/306
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Anzu lanza electricidad a Itsuki
+Itsuki absorbe 84 daño
+Itsuki termina con HP:1123/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:413/413
+B-Plasma HP:179/179 MP:172/172
+C-Caladrius HP:155/155 MP:137/149
+D-Tlazolteotl HP:72/315 MP:306/306
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-Mokoi HP:26/74 MP:36/36
+D-Anzu HP:535/596 MP:91/118
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Tlazolteotl
+3-Caladrius
+4-Plasma
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Tsuchigumo HP:202/280 MP:110/126
+2-Mokoi HP:26/74 MP:36/36
+3-Anzu HP:535/596 MP:91/118
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Tsuchigumo HP:202/280 MP:110/126
+2-Mokoi HP:26/74 MP:36/36
+3-Anzu HP:535/596 MP:91/118
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki dispara a Anzu
+Anzu recibe 61 de daño
+Anzu termina con HP:474/596
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:413/413
+B-Plasma HP:179/179 MP:172/172
+C-Caladrius HP:155/155 MP:137/149
+D-Tlazolteotl HP:72/315 MP:306/306
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-Mokoi HP:26/74 MP:36/36
+D-Anzu HP:474/596 MP:91/118
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tlazolteotl
+2-Caladrius
+3-Plasma
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tlazolteotl
+1-Tsuchigumo HP:202/280 MP:110/126
+2-Mokoi HP:26/74 MP:36/36
+3-Anzu HP:474/596 MP:91/118
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:413/413
+B-Plasma HP:179/179 MP:172/172
+C-Caladrius HP:155/155 MP:137/149
+D-Tlazolteotl HP:72/315 MP:306/306
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-Mokoi HP:26/74 MP:36/36
+D-Anzu HP:474/596 MP:91/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Caladrius
+2-Plasma
+3-Itsuki
+4-Tlazolteotl
+----------------------------------------
+Seleccione una acción para Caladrius
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:413/413
+B-Plasma HP:179/179 MP:172/172
+C-Caladrius HP:155/155 MP:137/149
+D-Tlazolteotl HP:72/315 MP:306/306
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-Mokoi HP:26/74 MP:36/36
+D-Anzu HP:474/596 MP:91/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Plasma
+2-Itsuki
+3-Tlazolteotl
+4-Caladrius
+----------------------------------------
+Seleccione una acción para Plasma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:413/413
+B-Plasma HP:179/179 MP:172/172
+C-Caladrius HP:155/155 MP:137/149
+D-Tlazolteotl HP:72/315 MP:306/306
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-Mokoi HP:26/74 MP:36/36
+D-Anzu HP:474/596 MP:91/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Tlazolteotl
+3-Caladrius
+4-Plasma
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Tsuchigumo HP:202/280 MP:110/126
+2-Mokoi HP:26/74 MP:36/36
+3-Anzu HP:474/596 MP:91/118
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki dispara a Mokoi
+Mokoi recibe 61 de daño
+Mokoi termina con HP:0/74
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:413/413
+B-Plasma HP:179/179 MP:172/172
+C-Caladrius HP:155/155 MP:137/149
+D-Tlazolteotl HP:72/315 MP:306/306
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-
+D-Anzu HP:474/596 MP:91/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tlazolteotl
+2-Caladrius
+3-Plasma
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tlazolteotl use
+1-Mabufula MP:20
+2-Posumudi MP:5
+3-Recarmdra MP:2
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hecatoncheires HP:756/756 MP:151/151
+2-Poltergeist HP:108/108 MP:104/104
+3-Kama HP:574/574 MP:257/257
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Poltergeist ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:413/413
+B-Plasma HP:179/179 MP:172/172
+C-Caladrius HP:155/155 MP:137/149
+D-Poltergeist HP:108/108 MP:104/104
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-
+D-Anzu HP:474/596 MP:91/118
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Caladrius
+2-Plasma
+3-Itsuki
+4-Poltergeist
+----------------------------------------
+Seleccione una acción para Caladrius
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:413/413
+B-Plasma HP:179/179 MP:172/172
+C-Caladrius HP:155/155 MP:137/149
+D-Poltergeist HP:108/108 MP:104/104
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-
+D-Anzu HP:474/596 MP:91/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:413/413
+B-Plasma HP:179/179 MP:172/172
+C-Caladrius HP:155/155 MP:137/149
+D-Poltergeist HP:108/108 MP:104/104
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-
+D-Anzu HP:474/596 MP:91/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Anzu
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:413/413
+B-Plasma HP:179/179 MP:172/172
+C-Caladrius HP:155/155 MP:137/149
+D-Poltergeist HP:108/108 MP:104/104
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-
+D-Anzu HP:474/596 MP:91/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:413/413
+B-Plasma HP:179/179 MP:172/172
+C-Caladrius HP:155/155 MP:137/149
+D-Poltergeist HP:108/108 MP:104/104
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-
+D-Anzu HP:474/596 MP:91/118
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Anzu
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Itsuki HP:1123/1136 MP:413/413
+2-Plasma HP:179/179 MP:172/172
+3-Caladrius HP:155/155 MP:137/149
+4-Poltergeist HP:108/108 MP:104/104
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Tsuchigumo ataca a Caladrius
+Caladrius recibe 22 de daño
+Caladrius termina con HP:133/155
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:413/413
+B-Plasma HP:179/179 MP:172/172
+C-Caladrius HP:133/155 MP:137/149
+D-Poltergeist HP:108/108 MP:104/104
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-
+D-Anzu HP:474/596 MP:91/118
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Caladrius
+3-Plasma
+4-Poltergeist
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hecatoncheires HP:756/756 MP:151/151
+2-Kama HP:574/574 MP:257/257
+3-Tlazolteotl HP:72/315 MP:306/306
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Plasma HP:179/179 MP:172/172 (Puesto 2)
+2-Caladrius HP:133/155 MP:137/149 (Puesto 3)
+3-Poltergeist HP:108/108 MP:104/104 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Tlazolteotl ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:413/413
+B-Tlazolteotl HP:72/315 MP:306/306
+C-Caladrius HP:133/155 MP:137/149
+D-Poltergeist HP:108/108 MP:104/104
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-
+D-Anzu HP:474/596 MP:91/118
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Caladrius
+2-Tlazolteotl
+3-Poltergeist
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Caladrius
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hecatoncheires HP:756/756 MP:151/151
+2-Plasma HP:179/179 MP:172/172
+3-Kama HP:574/574 MP:257/257
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Plasma ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:413/413
+B-Tlazolteotl HP:72/315 MP:306/306
+C-Plasma HP:179/179 MP:172/172
+D-Poltergeist HP:108/108 MP:104/104
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-
+D-Anzu HP:474/596 MP:91/118
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tlazolteotl
+2-Poltergeist
+3-Itsuki
+4-Plasma
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Caladrius HP:133/155 MP:137/149
+2-Hecatoncheires HP:756/756 MP:151/151
+3-Kama HP:574/574 MP:257/257
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Hecatoncheires ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:413/413
+B-Hecatoncheires HP:756/756 MP:151/151
+C-Plasma HP:179/179 MP:172/172
+D-Poltergeist HP:108/108 MP:104/104
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-
+D-Anzu HP:474/596 MP:91/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Poltergeist
+2-Itsuki
+3-Plasma
+4-Hecatoncheires
+----------------------------------------
+Seleccione una acción para Poltergeist
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Poltergeist
+1-Tsuchigumo HP:202/280 MP:110/126
+2-Anzu HP:474/596 MP:91/118
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Poltergeist ataca a Anzu
+Anzu recibe 11 de daño
+Anzu termina con HP:463/596
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:413/413
+B-Hecatoncheires HP:756/756 MP:151/151
+C-Plasma HP:179/179 MP:172/172
+D-Poltergeist HP:108/108 MP:104/104
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-
+D-Anzu HP:463/596 MP:91/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Plasma
+3-Hecatoncheires
+4-Poltergeist
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Tsuchigumo HP:202/280 MP:110/126
+2-Anzu HP:463/596 MP:91/118
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki dispara a Anzu
+Anzu recibe 61 de daño
+Anzu termina con HP:402/596
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:413/413
+B-Hecatoncheires HP:756/756 MP:151/151
+C-Plasma HP:179/179 MP:172/172
+D-Poltergeist HP:108/108 MP:104/104
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-
+D-Anzu HP:402/596 MP:91/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Plasma
+2-Hecatoncheires
+3-Poltergeist
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Plasma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Plasma
+1-Tsuchigumo HP:202/280 MP:110/126
+2-Anzu HP:402/596 MP:91/118
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Plasma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Plasma use
+1-Plasma Discharge MP:22
+2-Fog Breath MP:45
+3-Megidoplasma MP:41
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Plasma lanza electricidad a Tsuchigumo
+Tsuchigumo devuelve 102 daño a Plasma
+Plasma termina con HP:77/179
+Plasma lanza electricidad a Anzu
+Anzu absorbe 102 daño
+Anzu termina con HP:504/596
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:413/413
+B-Hecatoncheires HP:756/756 MP:151/151
+C-Plasma HP:77/179 MP:150/172
+D-Poltergeist HP:108/108 MP:104/104
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-
+D-Anzu HP:504/596 MP:91/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Anzu use
+1-Zionga MP:8
+2-Nihil Claw MP:11
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Itsuki HP:1123/1136 MP:413/413
+2-Hecatoncheires HP:756/756 MP:151/151
+3-Plasma HP:77/179 MP:150/172
+4-Poltergeist HP:108/108 MP:104/104
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Anzu lanza electricidad a Poltergeist
+Poltergeist recibe 84 de daño
+Poltergeist termina con HP:24/108
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:413/413
+B-Hecatoncheires HP:756/756 MP:151/151
+C-Plasma HP:77/179 MP:150/172
+D-Poltergeist HP:24/108 MP:104/104
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-
+D-Anzu HP:504/596 MP:83/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Anzu
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Itsuki HP:1123/1136 MP:413/413
+2-Hecatoncheires HP:756/756 MP:151/151
+3-Plasma HP:77/179 MP:150/172
+4-Poltergeist HP:24/108 MP:104/104
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Itsuki HP:1123/1136 MP:413/413
+2-Hecatoncheires HP:756/756 MP:151/151
+3-Plasma HP:77/179 MP:150/172
+4-Poltergeist HP:24/108 MP:104/104
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Tsuchigumo ataca a Plasma
+Plasma es resistente el ataque de Tsuchigumo
+Plasma recibe 11 de daño
+Plasma termina con HP:66/179
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:413/413
+B-Hecatoncheires HP:756/756 MP:151/151
+C-Plasma HP:66/179 MP:150/172
+D-Poltergeist HP:24/108 MP:104/104
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-
+D-Anzu HP:504/596 MP:83/118
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hecatoncheires
+2-Itsuki
+3-Plasma
+4-Poltergeist
+----------------------------------------
+Seleccione una acción para Hecatoncheires
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Caladrius HP:133/155 MP:137/149
+2-Kama HP:574/574 MP:257/257
+3-Tlazolteotl HP:72/315 MP:306/306
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Kama ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:413/413
+B-Kama HP:574/574 MP:257/257
+C-Plasma HP:66/179 MP:150/172
+D-Poltergeist HP:24/108 MP:104/104
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-
+D-Anzu HP:504/596 MP:83/118
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Plasma
+3-Poltergeist
+4-Kama
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:413/413
+B-Kama HP:574/574 MP:257/257
+C-Plasma HP:66/179 MP:150/172
+D-Poltergeist HP:24/108 MP:104/104
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-
+D-Anzu HP:504/596 MP:83/118
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Plasma
+2-Poltergeist
+3-Kama
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Plasma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:413/413
+B-Kama HP:574/574 MP:257/257
+C-Plasma HP:66/179 MP:150/172
+D-Poltergeist HP:24/108 MP:104/104
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-
+D-Anzu HP:504/596 MP:83/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Poltergeist
+2-Kama
+3-Itsuki
+4-Plasma
+----------------------------------------
+Seleccione una acción para Poltergeist
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:413/413
+B-Kama HP:574/574 MP:257/257
+C-Plasma HP:66/179 MP:150/172
+D-Poltergeist HP:24/108 MP:104/104
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-
+D-Anzu HP:504/596 MP:83/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Itsuki
+3-Plasma
+4-Poltergeist
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Caladrius HP:133/155 MP:137/149
+2-Hecatoncheires HP:756/756 MP:151/151
+3-Tlazolteotl HP:72/315 MP:306/306
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Caladrius ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:413/413
+B-Caladrius HP:133/155 MP:137/149
+C-Plasma HP:66/179 MP:150/172
+D-Poltergeist HP:24/108 MP:104/104
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-
+D-Anzu HP:504/596 MP:83/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Plasma
+3-Poltergeist
+4-Caladrius
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Tsuchigumo HP:202/280 MP:110/126
+2-Anzu HP:504/596 MP:83/118
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hecatoncheires HP:756/756 MP:151/151
+2-Kama HP:574/574 MP:257/257
+3-Tlazolteotl HP:72/315 MP:306/306
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Caladrius HP:133/155 MP:137/149 (Puesto 2)
+2-Plasma HP:66/179 MP:150/172 (Puesto 3)
+3-Poltergeist HP:24/108 MP:104/104 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Tlazolteotl ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:413/413
+B-Tlazolteotl HP:72/315 MP:306/306
+C-Plasma HP:66/179 MP:150/172
+D-Poltergeist HP:24/108 MP:104/104
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-
+D-Anzu HP:504/596 MP:83/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Plasma
+2-Poltergeist
+3-Tlazolteotl
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Plasma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Caladrius HP:133/155 MP:137/149
+2-Hecatoncheires HP:756/756 MP:151/151
+3-Kama HP:574/574 MP:257/257
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Caladrius ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:413/413
+B-Tlazolteotl HP:72/315 MP:306/306
+C-Caladrius HP:133/155 MP:137/149
+D-Poltergeist HP:24/108 MP:104/104
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-
+D-Anzu HP:504/596 MP:83/118
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Poltergeist
+2-Tlazolteotl
+3-Itsuki
+4-Caladrius
+----------------------------------------
+Seleccione una acción para Poltergeist
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Poltergeist
+1-Tsuchigumo HP:202/280 MP:110/126
+2-Anzu HP:504/596 MP:83/118
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Poltergeist ataca a Anzu
+Anzu recibe 11 de daño
+Anzu termina con HP:493/596
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:413/413
+B-Tlazolteotl HP:72/315 MP:306/306
+C-Caladrius HP:133/155 MP:137/149
+D-Poltergeist HP:24/108 MP:104/104
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-
+D-Anzu HP:493/596 MP:83/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Anzu use
+1-Zionga MP:8
+2-Nihil Claw MP:11
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Anzu use
+1-Zionga MP:8
+2-Nihil Claw MP:11
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Itsuki HP:1123/1136 MP:413/413
+2-Tlazolteotl HP:72/315 MP:306/306
+3-Caladrius HP:133/155 MP:137/149
+4-Poltergeist HP:24/108 MP:104/104
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Anzu use
+1-Zionga MP:8
+2-Nihil Claw MP:11
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Itsuki HP:1123/1136 MP:413/413
+2-Tlazolteotl HP:72/315 MP:306/306
+3-Caladrius HP:133/155 MP:137/149
+4-Poltergeist HP:24/108 MP:104/104
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Anzu ataca a Caladrius
+Caladrius recibe 44 de daño
+Caladrius termina con HP:89/155
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:413/413
+B-Tlazolteotl HP:72/315 MP:306/306
+C-Caladrius HP:89/155 MP:137/149
+D-Poltergeist HP:24/108 MP:104/104
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-
+D-Anzu HP:493/596 MP:83/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Anzu
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Itsuki HP:1123/1136 MP:413/413
+2-Tlazolteotl HP:72/315 MP:306/306
+3-Caladrius HP:89/155 MP:137/149
+4-Poltergeist HP:24/108 MP:104/104
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Tsuchigumo ataca a Poltergeist
+Poltergeist recibe 22 de daño
+Poltergeist termina con HP:2/108
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:413/413
+B-Tlazolteotl HP:72/315 MP:306/306
+C-Caladrius HP:89/155 MP:137/149
+D-Poltergeist HP:2/108 MP:104/104
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-
+D-Anzu HP:493/596 MP:83/118
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Tlazolteotl
+3-Caladrius
+4-Poltergeist
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Bad Company MP:15
+2-Rapid Needle MP:9
+3-Grand Tack MP:11
+4-Gather Spirit Energy MP:25
+5-Mortal Jihad MP:13
+6-Mabufudyne MP:32
+7-Glacial Blast MP:22
+8-Serpent of Sheol MP:45
+9-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Tlazolteotl HP:72/315 MP:306/306 (Puesto 2)
+2-Caladrius HP:89/155 MP:137/149 (Puesto 3)
+3-Poltergeist HP:2/108 MP:104/104 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Hecatoncheires ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:398/413
+B-Tlazolteotl HP:72/315 MP:306/306
+C-Hecatoncheires HP:756/756 MP:151/151
+D-Poltergeist HP:2/108 MP:104/104
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-
+D-Anzu HP:493/596 MP:83/118
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tlazolteotl
+2-Hecatoncheires
+3-Poltergeist
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:398/413
+B-Tlazolteotl HP:72/315 MP:306/306
+C-Hecatoncheires HP:756/756 MP:151/151
+D-Poltergeist HP:2/108 MP:104/104
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-
+D-Anzu HP:493/596 MP:83/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hecatoncheires
+2-Poltergeist
+3-Itsuki
+4-Tlazolteotl
+----------------------------------------
+Seleccione una acción para Hecatoncheires
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hecatoncheires
+1-Tsuchigumo HP:202/280 MP:110/126
+2-Anzu HP:493/596 MP:83/118
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Hecatoncheires
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:398/413
+B-Tlazolteotl HP:72/315 MP:306/306
+C-Hecatoncheires HP:756/756 MP:151/151
+D-Poltergeist HP:2/108 MP:104/104
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-
+D-Anzu HP:493/596 MP:83/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Poltergeist
+2-Itsuki
+3-Tlazolteotl
+4-Hecatoncheires
+----------------------------------------
+Seleccione una acción para Poltergeist
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:398/413
+B-Tlazolteotl HP:72/315 MP:306/306
+C-Hecatoncheires HP:756/756 MP:151/151
+D-Poltergeist HP:2/108 MP:104/104
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-
+D-Anzu HP:493/596 MP:83/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Tlazolteotl
+3-Hecatoncheires
+4-Poltergeist
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:398/413
+B-Tlazolteotl HP:72/315 MP:306/306
+C-Hecatoncheires HP:756/756 MP:151/151
+D-Poltergeist HP:2/108 MP:104/104
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-
+D-Anzu HP:493/596 MP:83/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tlazolteotl
+2-Hecatoncheires
+3-Poltergeist
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Caladrius HP:89/155 MP:137/149
+2-Plasma HP:66/179 MP:150/172
+3-Kama HP:574/574 MP:257/257
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Plasma ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:398/413
+B-Plasma HP:66/179 MP:150/172
+C-Hecatoncheires HP:756/756 MP:151/151
+D-Poltergeist HP:2/108 MP:104/104
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-
+D-Anzu HP:493/596 MP:83/118
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hecatoncheires
+2-Poltergeist
+3-Itsuki
+4-Plasma
+----------------------------------------
+Seleccione una acción para Hecatoncheires
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Caladrius HP:89/155 MP:137/149
+2-Kama HP:574/574 MP:257/257
+3-Tlazolteotl HP:72/315 MP:306/306
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Caladrius ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:398/413
+B-Plasma HP:66/179 MP:150/172
+C-Caladrius HP:89/155 MP:137/149
+D-Poltergeist HP:2/108 MP:104/104
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-
+D-Anzu HP:493/596 MP:83/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:398/413
+B-Plasma HP:66/179 MP:150/172
+C-Caladrius HP:89/155 MP:137/149
+D-Poltergeist HP:2/108 MP:104/104
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-
+D-Anzu HP:493/596 MP:83/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Anzu
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Itsuki HP:1123/1136 MP:398/413
+2-Plasma HP:66/179 MP:150/172
+3-Caladrius HP:89/155 MP:137/149
+4-Poltergeist HP:2/108 MP:104/104
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Itsuki HP:1123/1136 MP:398/413
+2-Plasma HP:66/179 MP:150/172
+3-Caladrius HP:89/155 MP:137/149
+4-Poltergeist HP:2/108 MP:104/104
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Tsuchigumo ataca a Poltergeist
+Poltergeist recibe 22 de daño
+Poltergeist termina con HP:0/108
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:398/413
+B-Plasma HP:66/179 MP:150/172
+C-Caladrius HP:89/155 MP:137/149
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-
+D-Anzu HP:493/596 MP:83/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Anzu use
+1-Zionga MP:8
+2-Nihil Claw MP:11
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Itsuki HP:1123/1136 MP:398/413
+2-Plasma HP:66/179 MP:150/172
+3-Caladrius HP:89/155 MP:137/149
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Anzu ataca a Plasma
+Plasma es resistente el ataque de Anzu
+Plasma recibe 22 de daño
+Plasma termina con HP:44/179
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:398/413
+B-Plasma HP:44/179 MP:150/172
+C-Caladrius HP:89/155 MP:137/149
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:202/280 MP:110/126
+C-
+D-Anzu HP:493/596 MP:83/118
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Caladrius
+3-Plasma
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Tsuchigumo HP:202/280 MP:110/126
+2-Anzu HP:493/596 MP:83/118
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Tsuchigumo
+Tsuchigumo recibe 61 de daño
+Tsuchigumo termina con HP:141/280
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:398/413
+B-Plasma HP:44/179 MP:150/172
+C-Caladrius HP:89/155 MP:137/149
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:141/280 MP:110/126
+C-
+D-Anzu HP:493/596 MP:83/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Caladrius
+2-Plasma
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Caladrius
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hecatoncheires HP:756/756 MP:151/151
+2-Kama HP:574/574 MP:257/257
+3-Tlazolteotl HP:72/315 MP:306/306
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Hecatoncheires ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:398/413
+B-Plasma HP:44/179 MP:150/172
+C-Hecatoncheires HP:756/756 MP:151/151
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:141/280 MP:110/126
+C-
+D-Anzu HP:493/596 MP:83/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Plasma
+2-Itsuki
+3-Hecatoncheires
+----------------------------------------
+Seleccione una acción para Plasma
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Caladrius HP:89/155 MP:137/149
+2-Kama HP:574/574 MP:257/257
+3-Tlazolteotl HP:72/315 MP:306/306
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Kama ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:398/413
+B-Kama HP:574/574 MP:257/257
+C-Hecatoncheires HP:756/756 MP:151/151
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:141/280 MP:110/126
+C-
+D-Anzu HP:493/596 MP:83/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Hecatoncheires
+3-Kama
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Tsuchigumo HP:141/280 MP:110/126
+2-Anzu HP:493/596 MP:83/118
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Tsuchigumo
+Tsuchigumo recibe 45 de daño
+Tsuchigumo termina con HP:96/280
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:398/413
+B-Kama HP:574/574 MP:257/257
+C-Hecatoncheires HP:756/756 MP:151/151
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:96/280 MP:110/126
+C-
+D-Anzu HP:493/596 MP:83/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Anzu use
+1-Zionga MP:8
+2-Nihil Claw MP:11
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Anzu use
+1-Zionga MP:8
+2-Nihil Claw MP:11
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Itsuki HP:1123/1136 MP:398/413
+2-Kama HP:574/574 MP:257/257
+3-Hecatoncheires HP:756/756 MP:151/151
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Anzu use
+1-Zionga MP:8
+2-Nihil Claw MP:11
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Itsuki HP:1123/1136 MP:398/413
+2-Kama HP:574/574 MP:257/257
+3-Hecatoncheires HP:756/756 MP:151/151
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Anzu lanza electricidad a Kama
+Kama recibe 84 de daño
+Kama termina con HP:490/574
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1123/1136 MP:398/413
+B-Kama HP:490/574 MP:257/257
+C-Hecatoncheires HP:756/756 MP:151/151
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:96/280 MP:110/126
+C-
+D-Anzu HP:493/596 MP:75/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Anzu
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tsuchigumo use
+1-Poison Claw MP:9
+2-Zionga MP:8
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tsuchigumo use
+1-Poison Claw MP:9
+2-Zionga MP:8
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Itsuki HP:1123/1136 MP:398/413
+2-Kama HP:490/574 MP:257/257
+3-Hecatoncheires HP:756/756 MP:151/151
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Tsuchigumo lanza electricidad a Itsuki
+Itsuki absorbe 70 daño
+Itsuki termina con HP:1136/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:398/413
+B-Kama HP:490/574 MP:257/257
+C-Hecatoncheires HP:756/756 MP:151/151
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:96/280 MP:102/126
+C-
+D-Anzu HP:493/596 MP:75/118
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Hecatoncheires
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Caladrius HP:89/155 MP:137/149
+2-Plasma HP:44/179 MP:150/172
+3-Tlazolteotl HP:72/315 MP:306/306
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:398/413
+B-Kama HP:490/574 MP:257/257
+C-Hecatoncheires HP:756/756 MP:151/151
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:96/280 MP:102/126
+C-
+D-Anzu HP:493/596 MP:75/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hecatoncheires
+2-Itsuki
+3-Kama
+----------------------------------------
+Seleccione una acción para Hecatoncheires
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Caladrius HP:89/155 MP:137/149
+2-Plasma HP:44/179 MP:150/172
+3-Tlazolteotl HP:72/315 MP:306/306
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Tlazolteotl ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:398/413
+B-Kama HP:490/574 MP:257/257
+C-Tlazolteotl HP:72/315 MP:306/306
+D-
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:96/280 MP:102/126
+C-
+D-Anzu HP:493/596 MP:75/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Kama
+3-Tlazolteotl
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Caladrius HP:89/155 MP:137/149
+2-Hecatoncheires HP:756/756 MP:151/151
+3-Plasma HP:44/179 MP:150/172
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Kama HP:490/574 MP:257/257 (Puesto 2)
+2-Tlazolteotl HP:72/315 MP:306/306 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Caladrius ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:398/413
+B-Kama HP:490/574 MP:257/257
+C-Tlazolteotl HP:72/315 MP:306/306
+D-Caladrius HP:89/155 MP:137/149
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:96/280 MP:102/126
+C-
+D-Anzu HP:493/596 MP:75/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kama
+2-Tlazolteotl
+3-Caladrius
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:398/413
+B-Kama HP:490/574 MP:257/257
+C-Tlazolteotl HP:72/315 MP:306/306
+D-Caladrius HP:89/155 MP:137/149
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:96/280 MP:102/126
+C-
+D-Anzu HP:493/596 MP:75/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tlazolteotl
+2-Caladrius
+3-Itsuki
+4-Kama
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tlazolteotl use
+1-Mabufula MP:20
+2-Posumudi MP:5
+3-Recarmdra MP:2
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tlazolteotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tlazolteotl use
+1-Mabufula MP:20
+2-Posumudi MP:5
+3-Recarmdra MP:2
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Tlazolteotl cura a Itsuki
+Itsuki recibe 568 de HP
+Itsuki termina con HP:1136/1136
+Tlazolteotl cura a Kama
+Kama recibe 287 de HP
+Kama termina con HP:574/574
+Tlazolteotl cura a Caladrius
+Caladrius recibe 77 de HP
+Caladrius termina con HP:155/155
+Tlazolteotl cura a Hecatoncheires
+Hecatoncheires recibe 378 de HP
+Hecatoncheires termina con HP:756/756
+Tlazolteotl cura a Plasma
+Plasma recibe 89 de HP
+Plasma termina con HP:133/179
+Tlazolteotl revive a Poltergeist
+Poltergeist recibe 54 de HP
+Poltergeist termina con HP:54/108
+Tlazolteotl termina con HP:0/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:398/413
+B-Kama HP:574/574 MP:257/257
+C-
+D-Caladrius HP:155/155 MP:137/149
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:96/280 MP:102/126
+C-
+D-Anzu HP:493/596 MP:75/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+2-Tsuchigumo
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Itsuki HP:1136/1136 MP:398/413
+2-Kama HP:574/574 MP:257/257
+3-Caladrius HP:155/155 MP:137/149
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Anzu use
+1-Zionga MP:8
+2-Nihil Claw MP:11
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Itsuki HP:1136/1136 MP:398/413
+2-Kama HP:574/574 MP:257/257
+3-Caladrius HP:155/155 MP:137/149
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Anzu use
+1-Zionga MP:8
+2-Nihil Claw MP:11
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Itsuki HP:1136/1136 MP:398/413
+2-Kama HP:574/574 MP:257/257
+3-Caladrius HP:155/155 MP:137/149
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Anzu ataca a Kama
+Kama es resistente el ataque de Anzu
+Kama recibe 64 de daño
+Anzu ataca a Kama
+Kama es resistente el ataque de Anzu
+Kama recibe 64 de daño
+Anzu ataca a Kama
+Kama es resistente el ataque de Anzu
+Kama recibe 64 de daño
+Kama termina con HP:382/574
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:398/413
+B-Kama HP:382/574 MP:257/257
+C-
+D-Caladrius HP:155/155 MP:137/149
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:96/280 MP:102/126
+C-
+D-Anzu HP:493/596 MP:64/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tsuchigumo
+2-Anzu
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tsuchigumo use
+1-Poison Claw MP:9
+2-Zionga MP:8
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Itsuki HP:1136/1136 MP:398/413
+2-Kama HP:382/574 MP:257/257
+3-Caladrius HP:155/155 MP:137/149
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tsuchigumo use
+1-Poison Claw MP:9
+2-Zionga MP:8
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Tsuchigumo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tsuchigumo use
+1-Poison Claw MP:9
+2-Zionga MP:8
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tsuchigumo
+1-Itsuki HP:1136/1136 MP:398/413
+2-Kama HP:382/574 MP:257/257
+3-Caladrius HP:155/155 MP:137/149
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Tsuchigumo lanza electricidad a Itsuki
+Itsuki absorbe 70 daño
+Itsuki termina con HP:1136/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:398/413
+B-Kama HP:382/574 MP:257/257
+C-
+D-Caladrius HP:155/155 MP:137/149
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:96/280 MP:94/126
+C-
+D-Anzu HP:493/596 MP:64/118
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Itsuki
+3-Caladrius
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Hecatoncheires HP:756/756 MP:151/151
+2-Plasma HP:133/179 MP:150/172
+3-Poltergeist HP:54/108 MP:104/104
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Hecatoncheires ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:398/413
+B-Hecatoncheires HP:756/756 MP:151/151
+C-
+D-Caladrius HP:155/155 MP:137/149
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:96/280 MP:94/126
+C-
+D-Anzu HP:493/596 MP:64/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Caladrius
+3-Hecatoncheires
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Tsuchigumo HP:96/280 MP:94/126
+2-Anzu HP:493/596 MP:64/118
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki dispara a Anzu
+Anzu recibe 61 de daño
+Anzu termina con HP:432/596
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:398/413
+B-Hecatoncheires HP:756/756 MP:151/151
+C-
+D-Caladrius HP:155/155 MP:137/149
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:96/280 MP:94/126
+C-
+D-Anzu HP:432/596 MP:64/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Caladrius
+2-Hecatoncheires
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Caladrius
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Plasma HP:133/179 MP:150/172
+2-Poltergeist HP:54/108 MP:104/104
+3-Kama HP:382/574 MP:257/257
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Kama ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:398/413
+B-Hecatoncheires HP:756/756 MP:151/151
+C-
+D-Kama HP:382/574 MP:257/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-Tsuchigumo HP:96/280 MP:94/126
+C-
+D-Anzu HP:432/596 MP:64/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hecatoncheires
+2-Itsuki
+3-Kama
+----------------------------------------
+Seleccione una acción para Hecatoncheires
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hecatoncheires
+1-Tsuchigumo HP:96/280 MP:94/126
+2-Anzu HP:432/596 MP:64/118
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Hecatoncheires
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hecatoncheires
+1-Tsuchigumo HP:96/280 MP:94/126
+2-Anzu HP:432/596 MP:64/118
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Hecatoncheires
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hecatoncheires use
+1-Rakukaja MP:15
+2-Hades Blast MP:32
+3-War Cry MP:45
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hecatoncheires
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hecatoncheires use
+1-Rakukaja MP:15
+2-Hades Blast MP:32
+3-War Cry MP:45
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Hecatoncheires
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hecatoncheires use
+1-Rakukaja MP:15
+2-Hades Blast MP:32
+3-War Cry MP:45
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Hecatoncheires ataca a Tsuchigumo
+Tsuchigumo recibe 137 de daño
+Tsuchigumo termina con HP:0/280
+Hecatoncheires ataca a Anzu
+Anzu recibe 137 de daño
+Anzu termina con HP:295/596
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:398/413
+B-Hecatoncheires HP:756/756 MP:119/151
+C-
+D-Kama HP:382/574 MP:257/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-
+D-Anzu HP:295/596 MP:64/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Kama
+3-Hecatoncheires
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Anzu HP:295/596 MP:64/118
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Caladrius HP:155/155 MP:137/149
+2-Plasma HP:133/179 MP:150/172
+3-Poltergeist HP:54/108 MP:104/104
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Hecatoncheires HP:756/756 MP:119/151 (Puesto 2)
+2-Vacío (Puesto 3)
+3-Kama HP:382/574 MP:257/257 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Caladrius HP:155/155 MP:137/149
+2-Plasma HP:133/179 MP:150/172
+3-Poltergeist HP:54/108 MP:104/104
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Hecatoncheires HP:756/756 MP:119/151 (Puesto 2)
+2-Vacío (Puesto 3)
+3-Kama HP:382/574 MP:257/257 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Anzu HP:295/596 MP:64/118
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Anzu
+Anzu recibe 61 de daño
+Anzu termina con HP:234/596
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:398/413
+B-Hecatoncheires HP:756/756 MP:119/151
+C-
+D-Kama HP:382/574 MP:257/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-
+D-Anzu HP:234/596 MP:64/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:398/413
+B-Hecatoncheires HP:756/756 MP:119/151
+C-
+D-Kama HP:382/574 MP:257/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-
+D-Anzu HP:234/596 MP:64/118
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Anzu
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:398/413
+B-Hecatoncheires HP:756/756 MP:119/151
+C-
+D-Kama HP:382/574 MP:257/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-
+D-Anzu HP:234/596 MP:64/118
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Hecatoncheires
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kama use
+1-Tetraja MP:15
+2-Madness Needle MP:11
+3-Diarahan MP:16
+4-Heaven's Bow MP:26
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Kama dispara a Anzu
+Anzu recibe 113 de daño
+Anzu termina con HP:121/596
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:398/413
+B-Hecatoncheires HP:756/756 MP:119/151
+C-
+D-Kama HP:382/574 MP:231/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-
+D-Anzu HP:121/596 MP:64/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hecatoncheires
+2-Itsuki
+3-Kama
+----------------------------------------
+Seleccione una acción para Hecatoncheires
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:398/413
+B-Hecatoncheires HP:756/756 MP:119/151
+C-
+D-Kama HP:382/574 MP:231/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-
+D-Anzu HP:121/596 MP:64/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Kama
+3-Hecatoncheires
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:398/413
+B-Hecatoncheires HP:756/756 MP:119/151
+C-
+D-Kama HP:382/574 MP:231/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-
+D-Anzu HP:121/596 MP:64/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Hecatoncheires
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:398/413
+B-Hecatoncheires HP:756/756 MP:119/151
+C-
+D-Kama HP:382/574 MP:231/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-
+D-Anzu HP:121/596 MP:64/118
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hecatoncheires
+2-Itsuki
+3-Kama
+----------------------------------------
+Seleccione una acción para Hecatoncheires
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Caladrius HP:155/155 MP:137/149
+2-Plasma HP:133/179 MP:150/172
+3-Poltergeist HP:54/108 MP:104/104
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Caladrius ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:398/413
+B-Caladrius HP:155/155 MP:137/149
+C-
+D-Kama HP:382/574 MP:231/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-
+D-Anzu HP:121/596 MP:64/118
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Anzu
+----------------------------------------
+Seleccione una acción para Anzu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Anzu use
+1-Zionga MP:8
+2-Nihil Claw MP:11
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Anzu
+1-Itsuki HP:1136/1136 MP:398/413
+2-Caladrius HP:155/155 MP:137/149
+3-Kama HP:382/574 MP:231/257
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Anzu lanza electricidad a Kama
+Kama recibe 84 de daño
+Kama termina con HP:298/574
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:398/413
+B-Caladrius HP:155/155 MP:137/149
+C-
+D-Kama HP:298/574 MP:231/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-
+D-Anzu HP:121/596 MP:56/118
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Itsuki
+3-Caladrius
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:398/413
+B-Caladrius HP:155/155 MP:137/149
+C-
+D-Kama HP:298/574 MP:231/257
+Equipo de Nanashi (J2)
+A-Nanashi HP:0/140 MP:411/411
+B-
+C-
+D-Anzu HP:121/596 MP:56/118
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Caladrius
+3-Kama
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Bad Company MP:15
+2-Rapid Needle MP:9
+3-Grand Tack MP:11
+4-Gather Spirit Energy MP:25
+5-Mortal Jihad MP:13
+6-Mabufudyne MP:32
+7-Glacial Blast MP:22
+8-Serpent of Sheol MP:45
+9-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Anzu HP:121/596 MP:56/118
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Anzu
+Anzu recibe 122 de daño
+Anzu termina con HP:0/596
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Itsuki (J1)

@@ -12,4 +12,16 @@
       <ProjectReference Include="..\Shin-Megami-Tensei-View\Shin-Megami-Tensei-View.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Compile Remove="Models\AuxiliaryModels\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="Models\AuxiliaryModels\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="Models\AuxiliaryModels\**" />
+    </ItemGroup>
+
 </Project>

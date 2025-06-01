@@ -1,0 +1,508 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+INPUT: 1
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Kanbari HP:350/350 MP:68/68
+C-Kama HP:574/574 MP:257/257
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Tadano (J2)
+A-Tadano HP:388/388 MP:193/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Joker
+3-Dormarth
+4-Kanbari
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Tadano HP:388/388 MP:193/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kama ataca a Tadano
+Tadano es resistente el ataque de Kama
+Tadano recibe 24 de daño
+Tadano termina con HP:364/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:347/347
+B-Kanbari HP:350/350 MP:68/68
+C-Kama HP:574/574 MP:257/257
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Tadano (J2)
+A-Tadano HP:364/388 MP:193/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Dormarth
+3-Kanbari
+4-Kama
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Bad Company MP:15
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Kanbari HP:350/350 MP:68/68 (Puesto 2)
+2-Kama HP:574/574 MP:257/257 (Puesto 3)
+3-Dormarth HP:277/277 MP:269/269 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Inugami ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:332/347
+B-Kanbari HP:350/350 MP:68/68
+C-Inugami HP:214/214 MP:109/109
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Tadano (J2)
+A-Tadano HP:364/388 MP:193/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dormarth
+2-Kanbari
+3-Inugami
+4-Joker
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Tadano HP:364/388 MP:193/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Dormarth ataca a Tadano
+Tadano es resistente el ataque de Dormarth
+Tadano recibe 14 de daño
+Tadano termina con HP:350/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:332/347
+B-Kanbari HP:350/350 MP:68/68
+C-Inugami HP:214/214 MP:109/109
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Tadano (J2)
+A-Tadano HP:350/388 MP:193/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kanbari
+2-Inugami
+3-Joker
+4-Dormarth
+----------------------------------------
+Seleccione una acción para Kanbari
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kanbari
+1-Tadano HP:350/388 MP:193/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kanbari ataca a Tadano
+Tadano es resistente el ataque de Kanbari
+Tadano recibe 12 de daño
+Tadano termina con HP:338/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:597/597 MP:332/347
+B-Kanbari HP:350/350 MP:68/68
+C-Inugami HP:214/214 MP:109/109
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Tadano (J2)
+A-Tadano HP:338/388 MP:193/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Joker HP:597/597 MP:332/347
+2-Kanbari HP:350/350 MP:68/68
+3-Inugami HP:214/214 MP:109/109
+4-Dormarth HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Joker
+Joker recibe 16 de daño
+Joker termina con HP:581/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:581/597 MP:332/347
+B-Kanbari HP:350/350 MP:68/68
+C-Inugami HP:214/214 MP:109/109
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Tadano (J2)
+A-Tadano HP:338/388 MP:193/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Dormarth
+3-Inugami
+4-Kanbari
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Bad Company MP:15
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Kanbari HP:350/350 MP:68/68 (Puesto 2)
+2-Inugami HP:214/214 MP:109/109 (Puesto 3)
+3-Dormarth HP:277/277 MP:269/269 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Kama ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:581/597 MP:317/347
+B-Kanbari HP:350/350 MP:68/68
+C-Inugami HP:214/214 MP:109/109
+D-Kama HP:574/574 MP:257/257
+Equipo de Tadano (J2)
+A-Tadano HP:338/388 MP:193/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Inugami
+3-Kanbari
+4-Joker
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Tadano HP:338/388 MP:193/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kama ataca a Tadano
+Tadano es resistente el ataque de Kama
+Tadano recibe 24 de daño
+Tadano termina con HP:314/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:581/597 MP:317/347
+B-Kanbari HP:350/350 MP:68/68
+C-Inugami HP:214/214 MP:109/109
+D-Kama HP:574/574 MP:257/257
+Equipo de Tadano (J2)
+A-Tadano HP:314/388 MP:193/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Kanbari
+3-Joker
+4-Kama
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Tadano HP:314/388 MP:193/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Inugami ataca a Tadano
+Tadano es resistente el ataque de Inugami
+Tadano recibe 8 de daño
+Tadano termina con HP:306/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:581/597 MP:317/347
+B-Kanbari HP:350/350 MP:68/68
+C-Inugami HP:214/214 MP:109/109
+D-Kama HP:574/574 MP:257/257
+Equipo de Tadano (J2)
+A-Tadano HP:306/388 MP:193/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kanbari
+2-Joker
+3-Kama
+4-Inugami
+----------------------------------------
+Seleccione una acción para Kanbari
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kanbari
+1-Tadano HP:306/388 MP:193/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kanbari ataca a Tadano
+Tadano es resistente el ataque de Kanbari
+Tadano recibe 12 de daño
+Tadano termina con HP:294/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tadano (J2)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:581/597 MP:317/347
+B-Kanbari HP:350/350 MP:68/68
+C-Inugami HP:214/214 MP:109/109
+D-Kama HP:574/574 MP:257/257
+Equipo de Tadano (J2)
+A-Tadano HP:294/388 MP:193/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tadano
+----------------------------------------
+Seleccione una acción para Tadano
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tadano
+1-Joker HP:581/597 MP:317/347
+2-Kanbari HP:350/350 MP:68/68
+3-Inugami HP:214/214 MP:109/109
+4-Kama HP:574/574 MP:257/257
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Tadano ataca a Joker
+Joker recibe 16 de daño
+Joker termina con HP:565/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J1)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:565/597 MP:317/347
+B-Kanbari HP:350/350 MP:68/68
+C-Inugami HP:214/214 MP:109/109
+D-Kama HP:574/574 MP:257/257
+Equipo de Tadano (J2)
+A-Tadano HP:294/388 MP:193/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kama
+2-Joker
+3-Inugami
+4-Kanbari
+----------------------------------------
+Seleccione una acción para Kama
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kama
+1-Tadano HP:294/388 MP:193/193
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kama ataca a Tadano
+Tadano es resistente el ataque de Kama
+Tadano recibe 24 de daño
+Tadano termina con HP:270/388
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Joker (J1)
+A-Joker HP:565/597 MP:317/347
+B-Kanbari HP:350/350 MP:68/68
+C-Inugami HP:214/214 MP:109/109
+D-Kama HP:574/574 MP:257/257
+Equipo de Tadano (J2)
+A-Tadano HP:270/388 MP:193/193
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+2-Inugami
+3-Kanbari
+4-Kama
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 6
+----------------------------------------
+Joker (J1) se rinde
+----------------------------------------
+Ganador: Tadano (J2)

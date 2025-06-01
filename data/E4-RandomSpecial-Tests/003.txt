@@ -1,0 +1,1702 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 2
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Wendigo HP:331/331 MP:66/66
+C-Ammut HP:709/709 MP:140/140
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Lailah HP:212/212 MP:205/205
+C-Aniel HP:567/567 MP:255/255
+D-Pale Rider HP:693/693 MP:310/310
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Kotone
+3-Wendigo
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ammut use
+1-Megaton Press MP:17
+2-War Cry MP:45
+3-Nihil Claw MP:11
+4-Energy Drain MP:10
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Itsuki HP:1136/1136 MP:413/413
+2-Lailah HP:212/212 MP:205/205
+3-Aniel HP:567/567 MP:255/255
+4-Pale Rider HP:693/693 MP:310/310
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ammut use
+1-Megaton Press MP:17
+2-War Cry MP:45
+3-Nihil Claw MP:11
+4-Energy Drain MP:10
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Itsuki
+Itsuki recibe 108 de daño
+Itsuki termina con HP:1028/1136
+Ammut ataca a Lailah
+Lailah recibe 108 de daño
+Lailah termina con HP:104/212
+Ammut ataca a Aniel
+Aniel recibe 108 de daño
+Aniel termina con HP:459/567
+Ammut ataca a Pale Rider
+Pale Rider recibe 108 de daño
+Pale Rider termina con HP:585/693
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Wendigo HP:331/331 MP:66/66
+C-Ammut HP:709/709 MP:123/140
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1028/1136 MP:413/413
+B-Lailah HP:104/212 MP:205/205
+C-Aniel HP:459/567 MP:255/255
+D-Pale Rider HP:585/693 MP:310/310
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Wendigo
+3-Ammut
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Itsuki HP:1028/1136 MP:413/413
+2-Lailah HP:104/212 MP:205/205
+3-Aniel HP:459/567 MP:255/255
+4-Pale Rider HP:585/693 MP:310/310
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kotone dispara a Aniel
+Aniel recibe 57 de daño
+Aniel termina con HP:402/567
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Wendigo HP:331/331 MP:66/66
+C-Ammut HP:709/709 MP:123/140
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1028/1136 MP:413/413
+B-Lailah HP:104/212 MP:205/205
+C-Aniel HP:402/567 MP:255/255
+D-Pale Rider HP:585/693 MP:310/310
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Ammut
+3-Kotone
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Wendigo HP:331/331 MP:66/66
+C-Ammut HP:709/709 MP:123/140
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:1028/1136 MP:413/413
+B-Lailah HP:104/212 MP:205/205
+C-Aniel HP:402/567 MP:255/255
+D-Pale Rider HP:585/693 MP:310/310
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ammut
+2-Kotone
+3-Wendigo
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ammut use
+1-Megaton Press MP:17
+2-War Cry MP:45
+3-Nihil Claw MP:11
+4-Energy Drain MP:10
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Itsuki HP:1028/1136 MP:413/413
+2-Lailah HP:104/212 MP:205/205
+3-Aniel HP:402/567 MP:255/255
+4-Pale Rider HP:585/693 MP:310/310
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut lanza un ataque todo poderoso a Itsuki
+El ataque drena 42 HP de Itsuki
+Itsuki termina con HP:986/1136
+Ammut termina con HP:709/709
+El ataque drena 42 MP de Itsuki
+Itsuki termina con MP:371/413
+Ammut termina con MP:140/140
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Wendigo HP:331/331 MP:66/66
+C-Ammut HP:709/709 MP:140/140
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:986/1136 MP:371/413
+B-Lailah HP:104/212 MP:205/205
+C-Aniel HP:402/567 MP:255/255
+D-Pale Rider HP:585/693 MP:310/310
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pale Rider
+2-Aniel
+3-Itsuki
+4-Lailah
+----------------------------------------
+Seleccione una acción para Pale Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Angel HP:61/61 MP:58/58
+2-Asmodeus HP:427/427 MP:192/192
+3-Seth HP:898/898 MP:179/179
+4-Shax HP:371/371 MP:360/360
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Angel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Wendigo HP:331/331 MP:66/66
+C-Ammut HP:709/709 MP:140/140
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:986/1136 MP:371/413
+B-Lailah HP:104/212 MP:205/205
+C-Aniel HP:402/567 MP:255/255
+D-Angel HP:61/61 MP:58/58
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aniel
+2-Itsuki
+3-Lailah
+4-Angel
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Pale Rider HP:585/693 MP:310/310
+2-Asmodeus HP:427/427 MP:192/192
+3-Seth HP:898/898 MP:179/179
+4-Shax HP:371/371 MP:360/360
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Shax ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Wendigo HP:331/331 MP:66/66
+C-Ammut HP:709/709 MP:140/140
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:986/1136 MP:371/413
+B-Lailah HP:104/212 MP:205/205
+C-Shax HP:371/371 MP:360/360
+D-Angel HP:61/61 MP:58/58
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Lailah
+3-Angel
+4-Shax
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Wendigo HP:331/331 MP:66/66
+C-Ammut HP:709/709 MP:140/140
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:986/1136 MP:371/413
+B-Lailah HP:104/212 MP:205/205
+C-Shax HP:371/371 MP:360/360
+D-Angel HP:61/61 MP:58/58
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lailah
+2-Angel
+3-Shax
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lailah
+1-Kotone HP:597/597 MP:347/347
+2-Wendigo HP:331/331 MP:66/66
+3-Ammut HP:709/709 MP:140/140
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Lailah ataca a Wendigo
+Wendigo recibe 22 de daño
+Wendigo termina con HP:309/331
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Wendigo HP:309/331 MP:66/66
+C-Ammut HP:709/709 MP:140/140
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:986/1136 MP:371/413
+B-Lailah HP:104/212 MP:205/205
+C-Shax HP:371/371 MP:360/360
+D-Angel HP:61/61 MP:58/58
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Angel
+2-Shax
+3-Itsuki
+4-Lailah
+----------------------------------------
+Seleccione una acción para Angel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Aniel HP:402/567 MP:255/255
+2-Pale Rider HP:585/693 MP:310/310
+3-Asmodeus HP:427/427 MP:192/192
+4-Seth HP:898/898 MP:179/179
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Seth ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Wendigo HP:309/331 MP:66/66
+C-Ammut HP:709/709 MP:140/140
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:986/1136 MP:371/413
+B-Lailah HP:104/212 MP:205/205
+C-Shax HP:371/371 MP:360/360
+D-Seth HP:898/898 MP:179/179
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Shax
+2-Itsuki
+3-Lailah
+4-Seth
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Wendigo HP:309/331 MP:66/66
+C-Ammut HP:709/709 MP:140/140
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:986/1136 MP:371/413
+B-Lailah HP:104/212 MP:205/205
+C-Shax HP:371/371 MP:360/360
+D-Seth HP:898/898 MP:179/179
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Lailah
+3-Seth
+4-Shax
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Trafuri MP:5
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Kotone HP:597/597 MP:347/347
+2-Wendigo HP:309/331 MP:66/66
+3-Ammut HP:709/709 MP:140/140
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Kotone HP:597/597 MP:347/347
+2-Wendigo HP:309/331 MP:66/66
+3-Ammut HP:709/709 MP:140/140
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Kotone
+Kotone es resistente el ataque de Itsuki
+Kotone recibe 30 de daño
+Kotone termina con HP:567/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:567/597 MP:347/347
+B-Wendigo HP:309/331 MP:66/66
+C-Ammut HP:709/709 MP:140/140
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:986/1136 MP:371/413
+B-Lailah HP:104/212 MP:205/205
+C-Shax HP:371/371 MP:360/360
+D-Seth HP:898/898 MP:179/179
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Kotone
+3-Wendigo
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:567/597 MP:347/347
+B-Wendigo HP:309/331 MP:66/66
+C-Ammut HP:709/709 MP:140/140
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:986/1136 MP:371/413
+B-Lailah HP:104/212 MP:205/205
+C-Shax HP:371/371 MP:360/360
+D-Seth HP:898/898 MP:179/179
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Wendigo
+3-Ammut
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:567/597 MP:347/347
+B-Wendigo HP:309/331 MP:66/66
+C-Ammut HP:709/709 MP:140/140
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:986/1136 MP:371/413
+B-Lailah HP:104/212 MP:205/205
+C-Shax HP:371/371 MP:360/360
+D-Seth HP:898/898 MP:179/179
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Ammut
+3-Kotone
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Wendigo use
+1-Mabufu MP:11
+2-Poison Breath MP:11
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Wendigo lanza hielo a Itsuki
+Itsuki recibe 40 de daño
+Itsuki termina con HP:946/1136
+Wendigo lanza hielo a Lailah
+Lailah recibe 40 de daño
+Lailah termina con HP:64/212
+Wendigo lanza hielo a Shax
+Shax recibe 40 de daño
+Shax termina con HP:331/371
+Wendigo lanza hielo a Seth
+Seth es débil contra el ataque de Wendigo
+Seth recibe 60 de daño
+Seth termina con HP:838/898
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:567/597 MP:347/347
+B-Wendigo HP:309/331 MP:55/66
+C-Ammut HP:709/709 MP:140/140
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:946/1136 MP:371/413
+B-Lailah HP:64/212 MP:205/205
+C-Shax HP:331/371 MP:360/360
+D-Seth HP:838/898 MP:179/179
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ammut
+2-Kotone
+3-Wendigo
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:567/597 MP:347/347
+B-Wendigo HP:309/331 MP:55/66
+C-Ammut HP:709/709 MP:140/140
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:946/1136 MP:371/413
+B-Lailah HP:64/212 MP:205/205
+C-Shax HP:331/371 MP:360/360
+D-Seth HP:838/898 MP:179/179
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Wendigo
+3-Ammut
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Itsuki HP:946/1136 MP:371/413
+2-Lailah HP:64/212 MP:205/205
+3-Shax HP:331/371 MP:360/360
+4-Seth HP:838/898 MP:179/179
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Kotone dispara a Seth
+Seth recibe 57 de daño
+Seth termina con HP:781/898
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:567/597 MP:347/347
+B-Wendigo HP:309/331 MP:55/66
+C-Ammut HP:709/709 MP:140/140
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:946/1136 MP:371/413
+B-Lailah HP:64/212 MP:205/205
+C-Shax HP:331/371 MP:360/360
+D-Seth HP:781/898 MP:179/179
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Seth
+2-Itsuki
+3-Shax
+4-Lailah
+----------------------------------------
+Seleccione una acción para Seth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Seth
+1-Kotone HP:567/597 MP:347/347
+2-Wendigo HP:309/331 MP:55/66
+3-Ammut HP:709/709 MP:140/140
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seth ataca a Kotone
+Kotone es resistente el ataque de Seth
+Kotone recibe 34 de daño
+Kotone termina con HP:533/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:533/597 MP:347/347
+B-Wendigo HP:309/331 MP:55/66
+C-Ammut HP:709/709 MP:140/140
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:946/1136 MP:371/413
+B-Lailah HP:64/212 MP:205/205
+C-Shax HP:331/371 MP:360/360
+D-Seth HP:781/898 MP:179/179
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Shax
+3-Lailah
+4-Seth
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Aniel HP:402/567 MP:255/255
+2-Pale Rider HP:585/693 MP:310/310
+3-Angel HP:61/61 MP:58/58
+4-Asmodeus HP:427/427 MP:192/192
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Kotone HP:533/597 MP:347/347
+2-Wendigo HP:309/331 MP:55/66
+3-Ammut HP:709/709 MP:140/140
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki ataca a Wendigo
+Wendigo recibe 45 de daño
+Wendigo termina con HP:264/331
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:533/597 MP:347/347
+B-Wendigo HP:264/331 MP:55/66
+C-Ammut HP:709/709 MP:140/140
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:946/1136 MP:371/413
+B-Lailah HP:64/212 MP:205/205
+C-Shax HP:331/371 MP:360/360
+D-Seth HP:781/898 MP:179/179
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Lailah
+3-Seth
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Shax
+1-Kotone HP:533/597 MP:347/347
+2-Wendigo HP:264/331 MP:55/66
+3-Ammut HP:709/709 MP:140/140
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Shax ataca a Kotone
+Kotone es resistente el ataque de Shax
+Kotone recibe 20 de daño
+Kotone termina con HP:513/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:513/597 MP:347/347
+B-Wendigo HP:264/331 MP:55/66
+C-Ammut HP:709/709 MP:140/140
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:946/1136 MP:371/413
+B-Lailah HP:64/212 MP:205/205
+C-Shax HP:331/371 MP:360/360
+D-Seth HP:781/898 MP:179/179
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lailah
+2-Seth
+3-Itsuki
+4-Shax
+----------------------------------------
+Seleccione una acción para Lailah
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Aniel HP:402/567 MP:255/255
+2-Pale Rider HP:585/693 MP:310/310
+3-Angel HP:61/61 MP:58/58
+4-Asmodeus HP:427/427 MP:192/192
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Aniel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:513/597 MP:347/347
+B-Wendigo HP:264/331 MP:55/66
+C-Ammut HP:709/709 MP:140/140
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:946/1136 MP:371/413
+B-Aniel HP:402/567 MP:255/255
+C-Shax HP:331/371 MP:360/360
+D-Seth HP:781/898 MP:179/179
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Seth
+2-Itsuki
+3-Shax
+4-Aniel
+----------------------------------------
+Seleccione una acción para Seth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lailah HP:64/212 MP:205/205
+2-Pale Rider HP:585/693 MP:310/310
+3-Angel HP:61/61 MP:58/58
+4-Asmodeus HP:427/427 MP:192/192
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Angel ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:513/597 MP:347/347
+B-Wendigo HP:264/331 MP:55/66
+C-Ammut HP:709/709 MP:140/140
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:946/1136 MP:371/413
+B-Aniel HP:402/567 MP:255/255
+C-Shax HP:331/371 MP:360/360
+D-Angel HP:61/61 MP:58/58
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Kotone
+3-Wendigo
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Itsuki HP:946/1136 MP:371/413
+2-Aniel HP:402/567 MP:255/255
+3-Shax HP:331/371 MP:360/360
+4-Angel HP:61/61 MP:58/58
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Ammut ataca a Shax
+Shax recibe 54 de daño
+Shax termina con HP:277/371
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:513/597 MP:347/347
+B-Wendigo HP:264/331 MP:55/66
+C-Ammut HP:709/709 MP:140/140
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:946/1136 MP:371/413
+B-Aniel HP:402/567 MP:255/255
+C-Shax HP:277/371 MP:360/360
+D-Angel HP:61/61 MP:58/58
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Wendigo
+3-Ammut
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Defender's Gaze MP:255
+2-Megaton Press MP:17
+3-Judgement Light MP:45
+4-Mahamaon MP:30
+5-Megidoplasma MP:41
+6-Cancelar
+INPUT: 1
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 3 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:513/597 MP:92/347
+B-Wendigo HP:264/331 MP:55/66
+C-Ammut HP:709/709 MP:140/140
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:946/1136 MP:371/413
+B-Aniel HP:402/567 MP:255/255
+C-Shax HP:277/371 MP:360/360
+D-Angel HP:61/61 MP:58/58
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 3
+----------------------------------------
+Orden:
+1-Wendigo
+2-Ammut
+3-Kotone
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Wendigo use
+1-Mabufu MP:11
+2-Poison Breath MP:11
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Wendigo use
+1-Mabufu MP:11
+2-Poison Breath MP:11
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Wendigo lanza hielo a Itsuki
+Itsuki recibe 40 de daño
+Itsuki termina con HP:906/1136
+Wendigo lanza hielo a Aniel
+Aniel recibe 40 de daño
+Aniel termina con HP:362/567
+Wendigo lanza hielo a Shax
+Shax recibe 40 de daño
+Shax termina con HP:237/371
+Wendigo lanza hielo a Angel
+Angel recibe 40 de daño
+Angel termina con HP:21/61
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:513/597 MP:92/347
+B-Wendigo HP:264/331 MP:44/66
+C-Ammut HP:709/709 MP:140/140
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:906/1136 MP:371/413
+B-Aniel HP:362/567 MP:255/255
+C-Shax HP:237/371 MP:360/360
+D-Angel HP:21/61 MP:58/58
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Ammut
+2-Kotone
+3-Wendigo
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:513/597 MP:92/347
+B-Wendigo HP:264/331 MP:44/66
+C-Ammut HP:709/709 MP:140/140
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:906/1136 MP:371/413
+B-Aniel HP:362/567 MP:255/255
+C-Shax HP:237/371 MP:360/360
+D-Angel HP:21/61 MP:58/58
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Wendigo
+3-Ammut
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Itsuki HP:906/1136 MP:371/413
+2-Aniel HP:362/567 MP:255/255
+3-Shax HP:237/371 MP:360/360
+4-Angel HP:21/61 MP:58/58
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Kotone ataca a Angel
+Angel recibe 38 de daño
+Angel termina con HP:0/61
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:513/597 MP:92/347
+B-Wendigo HP:264/331 MP:44/66
+C-Ammut HP:709/709 MP:140/140
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:906/1136 MP:371/413
+B-Aniel HP:362/567 MP:255/255
+C-Shax HP:237/371 MP:360/360
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Ammut
+3-Kotone
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Wendigo use
+1-Mabufu MP:11
+2-Poison Breath MP:11
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Wendigo lanza hielo a Itsuki
+Itsuki recibe 40 de daño
+Itsuki termina con HP:866/1136
+Wendigo lanza hielo a Aniel
+Aniel recibe 40 de daño
+Aniel termina con HP:322/567
+Wendigo lanza hielo a Shax
+Shax recibe 40 de daño
+Shax termina con HP:197/371
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:513/597 MP:92/347
+B-Wendigo HP:264/331 MP:33/66
+C-Ammut HP:709/709 MP:140/140
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:866/1136 MP:371/413
+B-Aniel HP:322/567 MP:255/255
+C-Shax HP:197/371 MP:360/360
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aniel
+2-Itsuki
+3-Shax
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aniel
+1-Kotone HP:513/597 MP:92/347
+2-Wendigo HP:264/331 MP:33/66
+3-Ammut HP:709/709 MP:140/140
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Aniel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lailah HP:64/212 MP:205/205
+2-Pale Rider HP:585/693 MP:310/310
+3-Asmodeus HP:427/427 MP:192/192
+4-Seth HP:781/898 MP:179/179
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Asmodeus ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:513/597 MP:92/347
+B-Wendigo HP:264/331 MP:33/66
+C-Ammut HP:709/709 MP:140/140
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:866/1136 MP:371/413
+B-Asmodeus HP:427/427 MP:192/192
+C-Shax HP:197/371 MP:360/360
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Itsuki
+2-Shax
+3-Asmodeus
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Trafuri MP:5
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Kotone HP:513/597 MP:92/347
+2-Wendigo HP:264/331 MP:33/66
+3-Ammut HP:709/709 MP:140/140
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki dispara a Kotone
+Kotone es resistente el ataque de Itsuki
+Kotone recibe 30 de daño
+Kotone termina con HP:483/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:483/597 MP:92/347
+B-Wendigo HP:264/331 MP:33/66
+C-Ammut HP:709/709 MP:140/140
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:866/1136 MP:371/413
+B-Asmodeus HP:427/427 MP:192/192
+C-Shax HP:197/371 MP:360/360
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shax
+2-Asmodeus
+3-Itsuki
+----------------------------------------
+Seleccione una acción para Shax
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:483/597 MP:92/347
+B-Wendigo HP:264/331 MP:33/66
+C-Ammut HP:709/709 MP:140/140
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:866/1136 MP:371/413
+B-Asmodeus HP:427/427 MP:192/192
+C-Shax HP:197/371 MP:360/360
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Asmodeus
+2-Itsuki
+3-Shax
+----------------------------------------
+Seleccione una acción para Asmodeus
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Asmodeus
+1-Kotone HP:483/597 MP:92/347
+2-Wendigo HP:264/331 MP:33/66
+3-Ammut HP:709/709 MP:140/140
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Asmodeus ataca a Kotone
+Kotone es resistente el ataque de Asmodeus
+Kotone recibe 17 de daño
+Kotone termina con HP:466/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:466/597 MP:92/347
+B-Wendigo HP:264/331 MP:33/66
+C-Ammut HP:709/709 MP:140/140
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:866/1136 MP:371/413
+B-Asmodeus HP:427/427 MP:192/192
+C-Shax HP:197/371 MP:360/360
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Shax
+3-Asmodeus
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Kotone HP:466/597 MP:92/347
+2-Wendigo HP:264/331 MP:33/66
+3-Ammut HP:709/709 MP:140/140
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki ataca a Ammut
+Ammut recibe 45 de daño
+Ammut termina con HP:664/709
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:466/597 MP:92/347
+B-Wendigo HP:264/331 MP:33/66
+C-Ammut HP:664/709 MP:140/140
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:866/1136 MP:371/413
+B-Asmodeus HP:427/427 MP:192/192
+C-Shax HP:197/371 MP:360/360
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ammut
+2-Kotone
+3-Wendigo
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Itsuki HP:866/1136 MP:371/413
+2-Asmodeus HP:427/427 MP:192/192
+3-Shax HP:197/371 MP:360/360
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Ammut ataca a Itsuki
+Itsuki recibe 54 de daño
+Itsuki termina con HP:812/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:466/597 MP:92/347
+B-Wendigo HP:264/331 MP:33/66
+C-Ammut HP:664/709 MP:140/140
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:812/1136 MP:371/413
+B-Asmodeus HP:427/427 MP:192/192
+C-Shax HP:197/371 MP:360/360
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Wendigo
+3-Ammut
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Itsuki HP:812/1136 MP:371/413
+2-Asmodeus HP:427/427 MP:192/192
+3-Shax HP:197/371 MP:360/360
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Kotone ataca a Asmodeus
+Asmodeus recibe 38 de daño
+Asmodeus termina con HP:389/427
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:466/597 MP:92/347
+B-Wendigo HP:264/331 MP:33/66
+C-Ammut HP:664/709 MP:140/140
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:812/1136 MP:371/413
+B-Asmodeus HP:389/427 MP:192/192
+C-Shax HP:197/371 MP:360/360
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Wendigo
+2-Ammut
+3-Kotone
+----------------------------------------
+Seleccione una acción para Wendigo
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:466/597 MP:92/347
+B-Wendigo HP:264/331 MP:33/66
+C-Ammut HP:664/709 MP:140/140
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:812/1136 MP:371/413
+B-Asmodeus HP:389/427 MP:192/192
+C-Shax HP:197/371 MP:360/360
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ammut
+2-Kotone
+3-Wendigo
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Ammut
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ammut use
+1-Megaton Press MP:17
+2-War Cry MP:45
+3-Nihil Claw MP:11
+4-Energy Drain MP:10
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Ammut
+1-Itsuki HP:812/1136 MP:371/413
+2-Asmodeus HP:389/427 MP:192/192
+3-Shax HP:197/371 MP:360/360
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Ammut ataca a Asmodeus
+Asmodeus recibe 142 de daño
+Asmodeus termina con HP:247/427
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:466/597 MP:92/347
+B-Wendigo HP:264/331 MP:33/66
+C-Ammut HP:664/709 MP:129/140
+D-
+Equipo de Itsuki (J2)
+A-Itsuki HP:812/1136 MP:371/413
+B-Asmodeus HP:247/427 MP:192/192
+C-Shax HP:197/371 MP:360/360
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Shax
+3-Asmodeus
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Trafuri MP:5
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki (J2) se rinde
+----------------------------------------
+Ganador: Kotone (J1)

@@ -1,0 +1,396 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 37
+----------------------------------------
+Ronda de Aleph (J1)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:613/613
+B-Yomotsu-Ikusa HP:445/445 MP:88/88
+C-Pales HP:390/390 MP:378/378
+D-Mastema HP:399/399 MP:387/387
+Equipo de Shujinko (J2)
+A-Shujinko HP:1317/1317 MP:625/625
+B-Makara HP:161/161 MP:72/72
+C-Mushussu HP:399/399 MP:179/179
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Mastema
+3-Pales
+4-Yomotsu-Ikusa
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Shujinko HP:1317/1317 MP:625/625
+2-Makara HP:161/161 MP:72/72
+3-Mushussu HP:399/399 MP:179/179
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Shujinko HP:1317/1317 MP:625/625
+2-Makara HP:161/161 MP:72/72
+3-Mushussu HP:399/399 MP:179/179
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph dispara a Shujinko
+Shujinko es resistente el ataque de Aleph
+Shujinko recibe 138 de daño
+Shujinko termina con HP:1179/1317
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:613/613
+B-Yomotsu-Ikusa HP:445/445 MP:88/88
+C-Pales HP:390/390 MP:378/378
+D-Mastema HP:399/399 MP:387/387
+Equipo de Shujinko (J2)
+A-Shujinko HP:1179/1317 MP:625/625
+B-Makara HP:161/161 MP:72/72
+C-Mushussu HP:399/399 MP:179/179
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mastema
+2-Pales
+3-Yomotsu-Ikusa
+4-Aleph
+----------------------------------------
+Seleccione una acción para Mastema
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:613/613
+B-Yomotsu-Ikusa HP:445/445 MP:88/88
+C-Pales HP:390/390 MP:378/378
+D-Mastema HP:399/399 MP:387/387
+Equipo de Shujinko (J2)
+A-Shujinko HP:1179/1317 MP:625/625
+B-Makara HP:161/161 MP:72/72
+C-Mushussu HP:399/399 MP:179/179
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pales
+2-Yomotsu-Ikusa
+3-Aleph
+4-Mastema
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pales
+1-Shujinko HP:1179/1317 MP:625/625
+2-Makara HP:161/161 MP:72/72
+3-Mushussu HP:399/399 MP:179/179
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pales
+1-Shujinko HP:1179/1317 MP:625/625
+2-Makara HP:161/161 MP:72/72
+3-Mushussu HP:399/399 MP:179/179
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Pales ataca a Makara
+Makara recibe 41 de daño
+Makara termina con HP:120/161
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:613/613
+B-Yomotsu-Ikusa HP:445/445 MP:88/88
+C-Pales HP:390/390 MP:378/378
+D-Mastema HP:399/399 MP:387/387
+Equipo de Shujinko (J2)
+A-Shujinko HP:1179/1317 MP:625/625
+B-Makara HP:120/161 MP:72/72
+C-Mushussu HP:399/399 MP:179/179
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yomotsu-Ikusa
+2-Aleph
+3-Mastema
+4-Pales
+----------------------------------------
+Seleccione una acción para Yomotsu-Ikusa
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yomotsu-Ikusa
+1-Shujinko HP:1179/1317 MP:625/625
+2-Makara HP:120/161 MP:72/72
+3-Mushussu HP:399/399 MP:179/179
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Yomotsu-Ikusa ataca a Makara
+Makara recibe 32 de daño
+Makara termina con HP:88/161
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:613/613
+B-Yomotsu-Ikusa HP:445/445 MP:88/88
+C-Pales HP:390/390 MP:378/378
+D-Mastema HP:399/399 MP:387/387
+Equipo de Shujinko (J2)
+A-Shujinko HP:1179/1317 MP:625/625
+B-Makara HP:88/161 MP:72/72
+C-Mushussu HP:399/399 MP:179/179
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Mastema
+3-Pales
+4-Yomotsu-Ikusa
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:613/613
+B-Yomotsu-Ikusa HP:445/445 MP:88/88
+C-Pales HP:390/390 MP:378/378
+D-Mastema HP:399/399 MP:387/387
+Equipo de Shujinko (J2)
+A-Shujinko HP:1179/1317 MP:625/625
+B-Makara HP:88/161 MP:72/72
+C-Mushussu HP:399/399 MP:179/179
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Mastema
+2-Pales
+3-Yomotsu-Ikusa
+4-Aleph
+----------------------------------------
+Seleccione una acción para Mastema
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Mastema
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Mastema
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mastema use
+1-Megidolaon MP:60
+2-Pandemic Bomb MP:11
+3-Panic Voice MP:15
+4-Mahamaon MP:30
+5-Deadly Wind MP:22
+6-Cancelar
+INPUT: 4
+----------------------------------------
+Mastema ataca con luz a Shujinko
+Shujinko bloquea el ataque de Mastema
+Shujinko termina con HP:1179/1317
+Mastema ataca con luz a Makara
+Makara ha sido eliminado
+Makara termina con HP:0/161
+Mastema ataca con luz a Mushussu
+Mushussu ha sido eliminado
+Mushussu termina con HP:0/399
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Shujinko (J2)
+----------------------------------------
+Equipo de Aleph (J1)
+A-Aleph HP:1309/1309 MP:613/613
+B-Yomotsu-Ikusa HP:445/445 MP:88/88
+C-Pales HP:390/390 MP:378/378
+D-Mastema HP:399/399 MP:357/387
+Equipo de Shujinko (J2)
+A-Shujinko HP:1179/1317 MP:625/625
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Shujinko
+----------------------------------------
+Seleccione una acción para Shujinko
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Shujinko use
+1-Trafuri MP:5
+2-Riot Gun MP:30
+3-Bouncing Claw MP:4
+4-Mazanma MP:20
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Shujinko (J2) se rinde
+----------------------------------------
+Ganador: Aleph (J1)

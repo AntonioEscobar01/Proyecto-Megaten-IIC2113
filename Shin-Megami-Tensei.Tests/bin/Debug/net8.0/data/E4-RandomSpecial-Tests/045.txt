@@ -1,0 +1,2458 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 44
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Sarasvati HP:273/273 MP:264/264
+C-Azumi HP:137/137 MP:131/131
+D-Metatron HP:879/879 MP:175/175
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Magatsuhi HP:851/851 MP:170/170
+C-Astaroth HP:406/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Nanashi
+3-Sarasvati
+4-Azumi
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Metatron use
+1-Holy Wrath MP:45
+2-Megidolaon MP:60
+3-Tarukaja MP:15
+4-Judgement Light MP:45
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cabracan HP:483/483 MP:216/216
+2-Oni HP:218/218 MP:43/43
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Cabracan ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Sarasvati HP:273/273 MP:264/264
+C-Azumi HP:137/137 MP:131/131
+D-Cabracan HP:483/483 MP:216/216
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Magatsuhi HP:851/851 MP:170/170
+C-Astaroth HP:406/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nanashi
+2-Sarasvati
+3-Azumi
+4-Cabracan
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Sarasvati HP:273/273 MP:264/264
+C-Azumi HP:137/137 MP:131/131
+D-Cabracan HP:483/483 MP:216/216
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Magatsuhi HP:851/851 MP:170/170
+C-Astaroth HP:406/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Azumi
+3-Cabracan
+4-Nanashi
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Kyouji HP:999/999 MP:0/0
+2-Magatsuhi HP:851/851 MP:170/170
+3-Astaroth HP:406/406 MP:181/181
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sarasvati use
+1-Bufudyne MP:14
+2-Rakunda MP:15
+3-Mabufudyne MP:32
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Sarasvati lanza hielo a Kyouji
+Kyouji es resistente el ataque de Sarasvati
+Kyouji recibe 54 de daño
+Kyouji termina con HP:945/999
+Sarasvati lanza hielo a Magatsuhi
+Magatsuhi devuelve 109 daño a Sarasvati
+Sarasvati lanza hielo a Astaroth
+Astaroth devuelve 109 daño a Sarasvati
+Sarasvati termina con HP:55/273
+----------------------------------------
+Se han consumido 3 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Sarasvati HP:55/273 MP:232/264
+C-Azumi HP:137/137 MP:131/131
+D-Cabracan HP:483/483 MP:216/216
+Equipo de Kyouji (J2)
+A-Kyouji HP:945/999 MP:0/0
+B-Magatsuhi HP:851/851 MP:170/170
+C-Astaroth HP:406/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Astaroth
+3-Kyouji
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Sarasvati HP:55/273 MP:232/264
+C-Azumi HP:137/137 MP:131/131
+D-Cabracan HP:483/483 MP:216/216
+Equipo de Kyouji (J2)
+A-Kyouji HP:945/999 MP:0/0
+B-Magatsuhi HP:851/851 MP:170/170
+C-Astaroth HP:406/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Astaroth
+2-Kyouji
+3-Magatsuhi
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Sarasvati HP:55/273 MP:232/264
+C-Azumi HP:137/137 MP:131/131
+D-Cabracan HP:483/483 MP:216/216
+Equipo de Kyouji (J2)
+A-Kyouji HP:945/999 MP:0/0
+B-Magatsuhi HP:851/851 MP:170/170
+C-Astaroth HP:406/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+2-Magatsuhi
+3-Astaroth
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Nanashi HP:140/140 MP:411/411
+2-Sarasvati HP:55/273 MP:232/264
+3-Azumi HP:137/137 MP:131/131
+4-Cabracan HP:483/483 MP:216/216
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Kyouji ataca a Cabracan
+Cabracan recibe 614 de daño
+Cabracan termina con HP:0/483
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:140/140 MP:411/411
+B-Sarasvati HP:55/273 MP:232/264
+C-Azumi HP:137/137 MP:131/131
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:945/999 MP:0/0
+B-Magatsuhi HP:851/851 MP:170/170
+C-Astaroth HP:406/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Astaroth
+3-Kyouji
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Magatsuhi
+1-Nanashi HP:140/140 MP:411/411
+2-Sarasvati HP:55/273 MP:232/264
+3-Azumi HP:137/137 MP:131/131
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Magatsuhi ataca a Nanashi
+Nanashi recibe 65 de daño
+Nanashi termina con HP:75/140
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:75/140 MP:411/411
+B-Sarasvati HP:55/273 MP:232/264
+C-Azumi HP:137/137 MP:131/131
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:945/999 MP:0/0
+B-Magatsuhi HP:851/851 MP:170/170
+C-Astaroth HP:406/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Sarasvati
+3-Azumi
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kyouji HP:945/999 MP:0/0
+2-Magatsuhi HP:851/851 MP:170/170
+3-Astaroth HP:406/406 MP:181/181
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nanashi dispara a Astaroth
+Astaroth recibe 31 de daño
+Astaroth termina con HP:375/406
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:75/140 MP:411/411
+B-Sarasvati HP:55/273 MP:232/264
+C-Azumi HP:137/137 MP:131/131
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:945/999 MP:0/0
+B-Magatsuhi HP:851/851 MP:170/170
+C-Astaroth HP:375/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Azumi
+3-Nanashi
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:75/140 MP:411/411
+B-Sarasvati HP:55/273 MP:232/264
+C-Azumi HP:137/137 MP:131/131
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:945/999 MP:0/0
+B-Magatsuhi HP:851/851 MP:170/170
+C-Astaroth HP:375/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Azumi
+2-Nanashi
+3-Sarasvati
+----------------------------------------
+Seleccione una acción para Azumi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:75/140 MP:411/411
+B-Sarasvati HP:55/273 MP:232/264
+C-Azumi HP:137/137 MP:131/131
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:945/999 MP:0/0
+B-Magatsuhi HP:851/851 MP:170/170
+C-Astaroth HP:375/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Sarasvati
+3-Azumi
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kyouji HP:945/999 MP:0/0
+2-Magatsuhi HP:851/851 MP:170/170
+3-Astaroth HP:375/406 MP:181/181
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nanashi ataca a Astaroth
+Astaroth recibe 92 de daño
+Astaroth termina con HP:283/406
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:75/140 MP:411/411
+B-Sarasvati HP:55/273 MP:232/264
+C-Azumi HP:137/137 MP:131/131
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:945/999 MP:0/0
+B-Magatsuhi HP:851/851 MP:170/170
+C-Astaroth HP:283/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Astaroth
+3-Kyouji
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:75/140 MP:411/411
+B-Sarasvati HP:55/273 MP:232/264
+C-Azumi HP:137/137 MP:131/131
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:945/999 MP:0/0
+B-Magatsuhi HP:851/851 MP:170/170
+C-Astaroth HP:283/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Astaroth
+2-Kyouji
+3-Magatsuhi
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:75/140 MP:411/411
+B-Sarasvati HP:55/273 MP:232/264
+C-Azumi HP:137/137 MP:131/131
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:945/999 MP:0/0
+B-Magatsuhi HP:851/851 MP:170/170
+C-Astaroth HP:283/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+2-Magatsuhi
+3-Astaroth
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Nanashi HP:75/140 MP:411/411
+2-Sarasvati HP:55/273 MP:232/264
+3-Azumi HP:137/137 MP:131/131
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kyouji use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:75/140 MP:411/411
+B-Sarasvati HP:55/273 MP:232/264
+C-Azumi HP:137/137 MP:131/131
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:945/999 MP:0/0
+B-Magatsuhi HP:851/851 MP:170/170
+C-Astaroth HP:283/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Astaroth
+3-Kyouji
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:75/140 MP:411/411
+B-Sarasvati HP:55/273 MP:232/264
+C-Azumi HP:137/137 MP:131/131
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:945/999 MP:0/0
+B-Magatsuhi HP:851/851 MP:170/170
+C-Astaroth HP:283/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Astaroth
+2-Kyouji
+3-Magatsuhi
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Astaroth use
+1-Hades Blast MP:32
+2-Mabufudyne MP:32
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:75/140 MP:411/411
+B-Sarasvati HP:55/273 MP:232/264
+C-Azumi HP:137/137 MP:131/131
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:945/999 MP:0/0
+B-Magatsuhi HP:851/851 MP:170/170
+C-Astaroth HP:283/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kyouji
+2-Magatsuhi
+3-Astaroth
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:75/140 MP:411/411
+B-Sarasvati HP:55/273 MP:232/264
+C-Azumi HP:137/137 MP:131/131
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:945/999 MP:0/0
+B-Magatsuhi HP:851/851 MP:170/170
+C-Astaroth HP:283/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Sarasvati
+3-Azumi
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Metatron HP:879/879 MP:175/175
+2-Oni HP:218/218 MP:43/43
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nanashi use
+1-Bad Company MP:15
+2-Berserker God MP:12
+3-Ragnarok MP:35
+4-Invitation MP:45
+5-Maragi MP:11
+6-Sabbatma MP:20
+7-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Metatron HP:879/879 MP:175/175
+2-Cabracan HP:0/483 MP:216/216
+3-Oni HP:218/218 MP:43/43
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nanashi use
+1-Bad Company MP:15
+2-Berserker God MP:12
+3-Ragnarok MP:35
+4-Invitation MP:45
+5-Maragi MP:11
+6-Sabbatma MP:20
+7-Cancelar
+INPUT: 7
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:75/140 MP:411/411
+B-Sarasvati HP:55/273 MP:232/264
+C-Azumi HP:137/137 MP:131/131
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:945/999 MP:0/0
+B-Magatsuhi HP:851/851 MP:170/170
+C-Astaroth HP:283/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Azumi
+3-Nanashi
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sarasvati use
+1-Bufudyne MP:14
+2-Rakunda MP:15
+3-Mabufudyne MP:32
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:75/140 MP:411/411
+B-Sarasvati HP:55/273 MP:232/264
+C-Azumi HP:137/137 MP:131/131
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:945/999 MP:0/0
+B-Magatsuhi HP:851/851 MP:170/170
+C-Astaroth HP:283/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Azumi
+2-Nanashi
+3-Sarasvati
+----------------------------------------
+Seleccione una acción para Azumi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Azumi
+1-Kyouji HP:945/999 MP:0/0
+2-Magatsuhi HP:851/851 MP:170/170
+3-Astaroth HP:283/406 MP:181/181
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Azumi ataca a Kyouji
+Kyouji recibe 15 de daño
+Kyouji termina con HP:930/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:75/140 MP:411/411
+B-Sarasvati HP:55/273 MP:232/264
+C-Azumi HP:137/137 MP:131/131
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:930/999 MP:0/0
+B-Magatsuhi HP:851/851 MP:170/170
+C-Astaroth HP:283/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Sarasvati
+3-Azumi
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Metatron HP:879/879 MP:175/175
+2-Oni HP:218/218 MP:43/43
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Sarasvati HP:55/273 MP:232/264 (Puesto 2)
+2-Azumi HP:137/137 MP:131/131 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Metatron ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:75/140 MP:411/411
+B-Metatron HP:879/879 MP:175/175
+C-Azumi HP:137/137 MP:131/131
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:930/999 MP:0/0
+B-Magatsuhi HP:851/851 MP:170/170
+C-Astaroth HP:283/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Metatron
+2-Azumi
+3-Nanashi
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Metatron use
+1-Holy Wrath MP:45
+2-Megidolaon MP:60
+3-Tarukaja MP:15
+4-Judgement Light MP:45
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:75/140 MP:411/411
+B-Metatron HP:879/879 MP:175/175
+C-Azumi HP:137/137 MP:131/131
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:930/999 MP:0/0
+B-Magatsuhi HP:851/851 MP:170/170
+C-Astaroth HP:283/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Astaroth
+3-Kyouji
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Magatsuhi use
+1-Acid Breath MP:45
+2-Shivering Taboo MP:40
+3-Poison Breath MP:11
+4-Bufudyne MP:14
+5-Death's Door MP:10
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:75/140 MP:411/411
+B-Metatron HP:879/879 MP:175/175
+C-Azumi HP:137/137 MP:131/131
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:930/999 MP:0/0
+B-Magatsuhi HP:851/851 MP:170/170
+C-Astaroth HP:283/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Astaroth
+2-Kyouji
+3-Magatsuhi
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Astaroth
+1-Nanashi HP:75/140 MP:411/411
+2-Metatron HP:879/879 MP:175/175
+3-Azumi HP:137/137 MP:131/131
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Astaroth ataca a Metatron
+Metatron recibe 33 de daño
+Metatron termina con HP:846/879
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:75/140 MP:411/411
+B-Metatron HP:846/879 MP:175/175
+C-Azumi HP:137/137 MP:131/131
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:930/999 MP:0/0
+B-Magatsuhi HP:851/851 MP:170/170
+C-Astaroth HP:283/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+2-Magatsuhi
+3-Astaroth
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kyouji use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Nanashi HP:75/140 MP:411/411
+2-Metatron HP:846/879 MP:175/175
+3-Azumi HP:137/137 MP:131/131
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Kyouji ataca a Metatron
+Metatron recibe 614 de daño
+Metatron termina con HP:232/879
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:75/140 MP:411/411
+B-Metatron HP:232/879 MP:175/175
+C-Azumi HP:137/137 MP:131/131
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:930/999 MP:0/0
+B-Magatsuhi HP:851/851 MP:170/170
+C-Astaroth HP:283/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Magatsuhi
+2-Astaroth
+3-Kyouji
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Magatsuhi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:75/140 MP:411/411
+B-Metatron HP:232/879 MP:175/175
+C-Azumi HP:137/137 MP:131/131
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:930/999 MP:0/0
+B-Magatsuhi HP:851/851 MP:170/170
+C-Astaroth HP:283/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Astaroth
+2-Kyouji
+3-Magatsuhi
+----------------------------------------
+Seleccione una acción para Astaroth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Astaroth
+1-Nanashi HP:75/140 MP:411/411
+2-Metatron HP:232/879 MP:175/175
+3-Azumi HP:137/137 MP:131/131
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Astaroth ataca a Metatron
+Metatron recibe 33 de daño
+Metatron termina con HP:199/879
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:75/140 MP:411/411
+B-Metatron HP:199/879 MP:175/175
+C-Azumi HP:137/137 MP:131/131
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:930/999 MP:0/0
+B-Magatsuhi HP:851/851 MP:170/170
+C-Astaroth HP:283/406 MP:181/181
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Metatron
+2-Nanashi
+3-Azumi
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Metatron use
+1-Holy Wrath MP:45
+2-Megidolaon MP:60
+3-Tarukaja MP:15
+4-Judgement Light MP:45
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Metatron
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Metatron use
+1-Holy Wrath MP:45
+2-Megidolaon MP:60
+3-Tarukaja MP:15
+4-Judgement Light MP:45
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Metatron ataca con luz a Kyouji
+Kyouji bloquea el ataque de Metatron
+Kyouji termina con HP:930/999
+Metatron ataca con luz a Magatsuhi
+Magatsuhi ha sido eliminado
+Magatsuhi termina con HP:0/851
+Metatron ataca con luz a Astaroth
+Astaroth ha sido eliminado
+Astaroth termina con HP:0/406
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:75/140 MP:411/411
+B-Metatron HP:199/879 MP:130/175
+C-Azumi HP:137/137 MP:131/131
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:930/999 MP:0/0
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Azumi
+3-Metatron
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kyouji HP:930/999 MP:0/0
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Nanashi
+1-Kyouji HP:930/999 MP:0/0
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nanashi dispara a Kyouji
+Kyouji bloquea el ataque de Nanashi
+Kyouji termina con HP:930/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:75/140 MP:411/411
+B-Metatron HP:199/879 MP:130/175
+C-Azumi HP:137/137 MP:131/131
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:930/999 MP:0/0
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Nanashi HP:75/140 MP:411/411
+2-Metatron HP:199/879 MP:130/175
+3-Azumi HP:137/137 MP:131/131
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kyouji use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kyouji use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:75/140 MP:411/411
+B-Metatron HP:199/879 MP:130/175
+C-Azumi HP:137/137 MP:131/131
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:930/999 MP:0/0
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kyouji
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Nanashi HP:75/140 MP:411/411
+2-Metatron HP:199/879 MP:130/175
+3-Azumi HP:137/137 MP:131/131
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Kyouji ataca a Metatron
+Metatron recibe 614 de daño
+Metatron termina con HP:0/879
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:75/140 MP:411/411
+B-
+C-Azumi HP:137/137 MP:131/131
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:930/999 MP:0/0
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Azumi
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nanashi use
+1-Bad Company MP:15
+2-Berserker God MP:12
+3-Ragnarok MP:35
+4-Invitation MP:45
+5-Maragi MP:11
+6-Sabbatma MP:20
+7-Cancelar
+INPUT: 7
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:75/140 MP:411/411
+B-
+C-Azumi HP:137/137 MP:131/131
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:930/999 MP:0/0
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Azumi
+2-Nanashi
+----------------------------------------
+Seleccione una acción para Azumi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:75/140 MP:411/411
+B-
+C-Azumi HP:137/137 MP:131/131
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:930/999 MP:0/0
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Azumi
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Nanashi use
+1-Bad Company MP:15
+2-Berserker God MP:12
+3-Ragnarok MP:35
+4-Invitation MP:45
+5-Maragi MP:11
+6-Sabbatma MP:20
+7-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Azumi HP:137/137 MP:131/131 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Sarasvati ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:75/140 MP:396/411
+B-
+C-Sarasvati HP:55/273 MP:232/264
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:930/999 MP:0/0
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kyouji use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kyouji use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:75/140 MP:396/411
+B-
+C-Sarasvati HP:55/273 MP:232/264
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:930/999 MP:0/0
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kyouji
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:75/140 MP:396/411
+B-
+C-Sarasvati HP:55/273 MP:232/264
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:930/999 MP:0/0
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nanashi
+2-Sarasvati
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azumi HP:137/137 MP:131/131
+2-Oni HP:218/218 MP:43/43
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Nanashi
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azumi HP:137/137 MP:131/131
+2-Oni HP:218/218 MP:43/43
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Sarasvati HP:55/273 MP:232/264 (Puesto 3)
+3-Vacío (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Oni ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:75/140 MP:396/411
+B-Oni HP:218/218 MP:43/43
+C-Sarasvati HP:55/273 MP:232/264
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:930/999 MP:0/0
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Oni
+3-Nanashi
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sarasvati use
+1-Bufudyne MP:14
+2-Rakunda MP:15
+3-Mabufudyne MP:32
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Kyouji HP:930/999 MP:0/0
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Sarasvati lanza hielo a Kyouji
+Kyouji es resistente el ataque de Sarasvati
+Kyouji recibe 59 de daño
+Kyouji termina con HP:871/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:75/140 MP:396/411
+B-Oni HP:218/218 MP:43/43
+C-Sarasvati HP:55/273 MP:218/264
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:871/999 MP:0/0
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Oni
+2-Nanashi
+3-Sarasvati
+----------------------------------------
+Seleccione una acción para Oni
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Oni
+1-Kyouji HP:871/999 MP:0/0
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Oni ataca a Kyouji
+Kyouji recibe 14 de daño
+Kyouji termina con HP:857/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:75/140 MP:396/411
+B-Oni HP:218/218 MP:43/43
+C-Sarasvati HP:55/273 MP:218/264
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:857/999 MP:0/0
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kyouji use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:75/140 MP:396/411
+B-Oni HP:218/218 MP:43/43
+C-Sarasvati HP:55/273 MP:218/264
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:857/999 MP:0/0
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kyouji
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Nanashi HP:75/140 MP:396/411
+2-Oni HP:218/218 MP:43/43
+3-Sarasvati HP:55/273 MP:218/264
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kyouji ataca a Nanashi
+Nanashi recibe 614 de daño
+Nanashi termina con HP:0/140
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:396/411
+B-Oni HP:218/218 MP:43/43
+C-Sarasvati HP:55/273 MP:218/264
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:857/999 MP:0/0
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Oni
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Kyouji HP:857/999 MP:0/0
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sarasvati use
+1-Bufudyne MP:14
+2-Rakunda MP:15
+3-Mabufudyne MP:32
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sarasvati
+1-Kyouji HP:857/999 MP:0/0
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:396/411
+B-Oni HP:218/218 MP:43/43
+C-Sarasvati HP:55/273 MP:218/264
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:857/999 MP:0/0
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Oni
+2-Sarasvati
+----------------------------------------
+Seleccione una acción para Oni
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:396/411
+B-Oni HP:218/218 MP:43/43
+C-Sarasvati HP:55/273 MP:218/264
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:857/999 MP:0/0
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sarasvati
+2-Oni
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sarasvati use
+1-Bufudyne MP:14
+2-Rakunda MP:15
+3-Mabufudyne MP:32
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Sarasvati lanza hielo a Kyouji
+Kyouji es resistente el ataque de Sarasvati
+Kyouji recibe 54 de daño
+Kyouji termina con HP:803/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:396/411
+B-Oni HP:218/218 MP:43/43
+C-Sarasvati HP:55/273 MP:186/264
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:803/999 MP:0/0
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kyouji use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Oni HP:218/218 MP:43/43
+2-Sarasvati HP:55/273 MP:186/264
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kyouji dispara a Oni
+Oni recibe 911 de daño
+Oni termina con HP:0/218
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:396/411
+B-
+C-Sarasvati HP:55/273 MP:186/264
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:803/999 MP:0/0
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sarasvati
+----------------------------------------
+Seleccione una acción para Sarasvati
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Azumi HP:137/137 MP:131/131
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Azumi ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:396/411
+B-
+C-Azumi HP:137/137 MP:131/131
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:803/999 MP:0/0
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Azumi
+----------------------------------------
+Seleccione una acción para Azumi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:396/411
+B-
+C-Azumi HP:137/137 MP:131/131
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:803/999 MP:0/0
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kyouji use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:396/411
+B-
+C-Azumi HP:137/137 MP:131/131
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:803/999 MP:0/0
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kyouji
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Nanashi (J1)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:396/411
+B-
+C-Azumi HP:137/137 MP:131/131
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:803/999 MP:0/0
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Azumi
+----------------------------------------
+Seleccione una acción para Azumi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Azumi use
+1-Ice Breath MP:21
+2-Posumudi MP:5
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Azumi lanza hielo a Kyouji
+Kyouji es resistente el ataque de Azumi
+Kyouji recibe 33 de daño
+Azumi lanza hielo a Kyouji
+Kyouji es resistente el ataque de Azumi
+Kyouji recibe 33 de daño
+Kyouji termina con HP:737/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J2)
+----------------------------------------
+Equipo de Nanashi (J1)
+A-Nanashi HP:0/140 MP:396/411
+B-
+C-Azumi HP:137/137 MP:110/131
+D-
+Equipo de Kyouji (J2)
+A-Kyouji HP:737/999 MP:0/0
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kyouji use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kyouji
+1-Azumi HP:137/137 MP:110/131
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Kyouji ataca a Azumi
+Azumi recibe 614 de daño
+Azumi termina con HP:0/137
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Kyouji (J2)

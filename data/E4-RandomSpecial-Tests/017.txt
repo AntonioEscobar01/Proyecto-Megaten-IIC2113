@@ -1,0 +1,853 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 16
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Xi Wangmu HP:418/418 MP:405/405
+C-Orias HP:252/252 MP:112/112
+D-Patriot HP:511/511 MP:102/102
+Equipo de Joker (J2)
+A-Joker HP:597/597 MP:347/347
+B-Kazfiel HP:469/469 MP:211/211
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Xi Wangmu
+3-Patriot
+4-Orias
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Defender's Gaze MP:255
+2-Ice Breath MP:21
+3-Fire Breath MP:21
+4-Die for Me! MP:45
+5-Maziodyne MP:32
+6-Shining Seal MP:75
+7-Hades Blast MP:32
+8-Cancelar
+INPUT: 8
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Defender's Gaze MP:255
+2-Ice Breath MP:21
+3-Fire Breath MP:21
+4-Die for Me! MP:45
+5-Maziodyne MP:32
+6-Shining Seal MP:75
+7-Hades Blast MP:32
+8-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki lanza fuego a Joker
+Joker recibe 108 de daño
+Joker termina con HP:489/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:392/413
+B-Xi Wangmu HP:418/418 MP:405/405
+C-Orias HP:252/252 MP:112/112
+D-Patriot HP:511/511 MP:102/102
+Equipo de Joker (J2)
+A-Joker HP:489/597 MP:347/347
+B-Kazfiel HP:469/469 MP:211/211
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Patriot
+3-Orias
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Xi Wangmu use
+1-Makarakarn MP:50
+2-Myriad Arrows MP:30
+3-Invitation MP:45
+4-Megaton Press MP:17
+5-Doping MP:45
+6-Cancelar
+INPUT: 2
+----------------------------------------
+Xi Wangmu dispara a Joker
+Joker recibe 150 de daño
+Joker termina con HP:339/597
+Xi Wangmu dispara a Kazfiel
+Kazfiel recibe 150 de daño
+Xi Wangmu dispara a Kazfiel
+Kazfiel recibe 150 de daño
+Kazfiel termina con HP:169/469
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:392/413
+B-Xi Wangmu HP:418/418 MP:375/405
+C-Orias HP:252/252 MP:112/112
+D-Patriot HP:511/511 MP:102/102
+Equipo de Joker (J2)
+A-Joker HP:339/597 MP:347/347
+B-Kazfiel HP:169/469 MP:211/211
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Patriot
+2-Orias
+3-Itsuki
+4-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Patriot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Patriot use
+1-Taunt MP:20
+2-Mudoon MP:10
+3-Blast Arrow MP:16
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Patriot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Patriot
+1-Joker HP:339/597 MP:347/347
+2-Kazfiel HP:169/469 MP:211/211
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Patriot
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Goblin HP:322/322 MP:63/63
+2-White Rider HP:672/672 MP:301/301
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Goblin ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:392/413
+B-Xi Wangmu HP:418/418 MP:375/405
+C-Orias HP:252/252 MP:112/112
+D-Goblin HP:322/322 MP:63/63
+Equipo de Joker (J2)
+A-Joker HP:339/597 MP:347/347
+B-Kazfiel HP:169/469 MP:211/211
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Orias
+2-Itsuki
+3-Xi Wangmu
+4-Goblin
+----------------------------------------
+Seleccione una acción para Orias
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Orias
+1-Joker HP:339/597 MP:347/347
+2-Kazfiel HP:169/469 MP:211/211
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Orias
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Orias
+1-Joker HP:339/597 MP:347/347
+2-Kazfiel HP:169/469 MP:211/211
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Orias ataca a Joker
+Joker recibe 19 de daño
+Joker termina con HP:320/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:392/413
+B-Xi Wangmu HP:418/418 MP:375/405
+C-Orias HP:252/252 MP:112/112
+D-Goblin HP:322/322 MP:63/63
+Equipo de Joker (J2)
+A-Joker HP:320/597 MP:347/347
+B-Kazfiel HP:169/469 MP:211/211
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Xi Wangmu
+3-Goblin
+4-Orias
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Defender's Gaze MP:255
+2-Ice Breath MP:21
+3-Fire Breath MP:21
+4-Die for Me! MP:45
+5-Maziodyne MP:32
+6-Shining Seal MP:75
+7-Hades Blast MP:32
+8-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki ataca con oscuridad a Joker
+Joker bloquea el ataque de Itsuki
+Joker termina con HP:320/597
+Itsuki ataca con oscuridad a Kazfiel
+Kazfiel es resistente el ataque de Itsuki
+Kazfiel ha sido eliminado
+Kazfiel termina con HP:0/469
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:347/413
+B-Xi Wangmu HP:418/418 MP:375/405
+C-Orias HP:252/252 MP:112/112
+D-Goblin HP:322/322 MP:63/63
+Equipo de Joker (J2)
+A-Joker HP:320/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:347/413
+B-Xi Wangmu HP:418/418 MP:375/405
+C-Orias HP:252/252 MP:112/112
+D-Goblin HP:322/322 MP:63/63
+Equipo de Joker (J2)
+A-Joker HP:320/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:347/413
+B-Xi Wangmu HP:418/418 MP:375/405
+C-Orias HP:252/252 MP:112/112
+D-Goblin HP:322/322 MP:63/63
+Equipo de Joker (J2)
+A-Joker HP:320/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Xi Wangmu
+3-Orias
+4-Goblin
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Patriot HP:511/511 MP:102/102
+2-White Rider HP:672/672 MP:301/301
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:347/413
+B-Xi Wangmu HP:418/418 MP:375/405
+C-Orias HP:252/252 MP:112/112
+D-Goblin HP:322/322 MP:63/63
+Equipo de Joker (J2)
+A-Joker HP:320/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Xi Wangmu
+2-Orias
+3-Goblin
+4-Itsuki
+----------------------------------------
+Seleccione una acción para Xi Wangmu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:347/413
+B-Xi Wangmu HP:418/418 MP:375/405
+C-Orias HP:252/252 MP:112/112
+D-Goblin HP:322/322 MP:63/63
+Equipo de Joker (J2)
+A-Joker HP:320/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Orias
+2-Goblin
+3-Itsuki
+4-Xi Wangmu
+----------------------------------------
+Seleccione una acción para Orias
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Orias use
+1-Pandemic Bomb MP:11
+2-Me Patra MP:15
+3-Maragion MP:20
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Orias lanza fuego a Joker
+Joker recibe 61 de daño
+Joker termina con HP:259/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:347/413
+B-Xi Wangmu HP:418/418 MP:375/405
+C-Orias HP:252/252 MP:92/112
+D-Goblin HP:322/322 MP:63/63
+Equipo de Joker (J2)
+A-Joker HP:259/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Goblin
+2-Itsuki
+3-Xi Wangmu
+4-Orias
+----------------------------------------
+Seleccione una acción para Goblin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Goblin use
+1-Oni-Kagura MP:9
+2-Tarukaja MP:15
+3-Bad Company MP:15
+4-Charge MP:9
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una posición para invocar
+1-Xi Wangmu HP:418/418 MP:375/405 (Puesto 2)
+2-Orias HP:252/252 MP:92/112 (Puesto 3)
+3-Goblin HP:322/322 MP:63/63 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+White Rider ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:347/413
+B-Xi Wangmu HP:418/418 MP:375/405
+C-White Rider HP:672/672 MP:301/301
+D-Goblin HP:322/322 MP:48/63
+Equipo de Joker (J2)
+A-Joker HP:259/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Xi Wangmu
+3-White Rider
+4-Goblin
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Defender's Gaze MP:255
+2-Ice Breath MP:21
+3-Fire Breath MP:21
+4-Die for Me! MP:45
+5-Maziodyne MP:32
+6-Shining Seal MP:75
+7-Hades Blast MP:32
+8-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki lanza fuego a Joker
+Joker recibe 108 de daño
+Itsuki lanza fuego a Joker
+Joker recibe 108 de daño
+Joker termina con HP:43/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Joker (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:326/413
+B-Xi Wangmu HP:418/418 MP:375/405
+C-White Rider HP:672/672 MP:301/301
+D-Goblin HP:322/322 MP:48/63
+Equipo de Joker (J2)
+A-Joker HP:43/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Joker
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:326/413
+B-Xi Wangmu HP:418/418 MP:375/405
+C-White Rider HP:672/672 MP:301/301
+D-Goblin HP:322/322 MP:48/63
+Equipo de Joker (J2)
+A-Joker HP:43/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Joker
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Bad Company MP:15
+2-Shock MP:21
+3-Sea of Chaos MP:45
+4-Life Drain MP:5
+5-Scratch Dance MP:9
+6-Blast Arrow MP:16
+7-Deadly Wind MP:22
+8-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Joker
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Joker use
+1-Bad Company MP:15
+2-Shock MP:21
+3-Sea of Chaos MP:45
+4-Life Drain MP:5
+5-Scratch Dance MP:9
+6-Blast Arrow MP:16
+7-Deadly Wind MP:22
+8-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione un objetivo para Joker
+1-Itsuki HP:1136/1136 MP:326/413
+2-Xi Wangmu HP:418/418 MP:375/405
+3-White Rider HP:672/672 MP:301/301
+4-Goblin HP:322/322 MP:48/63
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Joker lanza un ataque todo poderoso a Xi Wangmu
+El ataque drena 38 HP de Xi Wangmu
+Xi Wangmu termina con HP:380/418
+Joker termina con HP:81/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:326/413
+B-Xi Wangmu HP:380/418 MP:375/405
+C-White Rider HP:672/672 MP:301/301
+D-Goblin HP:322/322 MP:48/63
+Equipo de Joker (J2)
+A-Joker HP:81/597 MP:342/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-White Rider
+2-Itsuki
+3-Xi Wangmu
+4-Goblin
+----------------------------------------
+Seleccione una acción para White Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para White Rider
+1-Joker HP:81/597 MP:342/347
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para White Rider
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para White Rider
+1-Joker HP:81/597 MP:342/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+White Rider ataca a Joker
+Joker recibe 56 de daño
+Joker termina con HP:25/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:326/413
+B-Xi Wangmu HP:380/418 MP:375/405
+C-White Rider HP:672/672 MP:301/301
+D-Goblin HP:322/322 MP:48/63
+Equipo de Joker (J2)
+A-Joker HP:25/597 MP:342/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Xi Wangmu
+3-Goblin
+4-White Rider
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Joker HP:25/597 MP:342/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Joker
+Joker recibe 45 de daño
+Joker termina con HP:0/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Itsuki (J1)

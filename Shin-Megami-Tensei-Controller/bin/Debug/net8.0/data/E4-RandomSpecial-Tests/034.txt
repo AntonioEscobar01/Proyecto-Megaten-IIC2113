@@ -1,0 +1,1645 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 33
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Tiamat HP:305/305 MP:296/296
+C-Archangel HP:265/265 MP:52/52
+D-Da Peng HP:634/634 MP:126/126
+Equipo de Itsuki (J2)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Gurulu HP:371/371 MP:166/166
+C-Chagrin HP:67/67 MP:72/72
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Tiamat
+3-Archangel
+4-Kei
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Da Peng use
+1-Zandyne MP:14
+2-Panic Voice MP:15
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Da Peng lanza hielo a Itsuki
+Itsuki recibe 80 de daño
+Itsuki termina con HP:1056/1136
+Da Peng lanza hielo a Gurulu
+Gurulu recibe 80 de daño
+Gurulu termina con HP:291/371
+Da Peng lanza hielo a Chagrin
+Chagrin recibe 80 de daño
+Chagrin termina con HP:0/67
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Tiamat HP:305/305 MP:296/296
+C-Archangel HP:265/265 MP:52/52
+D-Da Peng HP:634/634 MP:106/126
+Equipo de Itsuki (J2)
+A-Itsuki HP:1056/1136 MP:413/413
+B-Gurulu HP:291/371 MP:166/166
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tiamat
+2-Archangel
+3-Kei
+4-Da Peng
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Tiamat HP:305/305 MP:296/296
+C-Archangel HP:265/265 MP:52/52
+D-Da Peng HP:634/634 MP:106/126
+Equipo de Itsuki (J2)
+A-Itsuki HP:1056/1136 MP:413/413
+B-Gurulu HP:291/371 MP:166/166
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Archangel
+2-Kei
+3-Da Peng
+4-Tiamat
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Pellaidh HP:202/202 MP:196/196
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Tiamat HP:305/305 MP:296/296
+C-Archangel HP:265/265 MP:52/52
+D-Da Peng HP:634/634 MP:106/126
+Equipo de Itsuki (J2)
+A-Itsuki HP:1056/1136 MP:413/413
+B-Gurulu HP:291/371 MP:166/166
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Da Peng
+3-Tiamat
+4-Archangel
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Itsuki HP:1056/1136 MP:413/413
+2-Gurulu HP:291/371 MP:166/166
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Kei dispara a Itsuki
+Itsuki recibe 15 de daño
+Itsuki termina con HP:1041/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Tiamat HP:305/305 MP:296/296
+C-Archangel HP:265/265 MP:52/52
+D-Da Peng HP:634/634 MP:106/126
+Equipo de Itsuki (J2)
+A-Itsuki HP:1041/1136 MP:413/413
+B-Gurulu HP:291/371 MP:166/166
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Tiamat
+3-Archangel
+4-Kei
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Da Peng
+1-Itsuki HP:1041/1136 MP:413/413
+2-Gurulu HP:291/371 MP:166/166
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Da Peng ataca a Itsuki
+Itsuki recibe 48 de daño
+Itsuki termina con HP:993/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Tiamat HP:305/305 MP:296/296
+C-Archangel HP:265/265 MP:52/52
+D-Da Peng HP:634/634 MP:106/126
+Equipo de Itsuki (J2)
+A-Itsuki HP:993/1136 MP:413/413
+B-Gurulu HP:291/371 MP:166/166
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Gurulu
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Kei HP:760/760 MP:398/398
+2-Tiamat HP:305/305 MP:296/296
+3-Archangel HP:265/265 MP:52/52
+4-Da Peng HP:634/634 MP:106/126
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki dispara a Archangel
+Archangel recibe 61 de daño
+Archangel termina con HP:204/265
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Tiamat HP:305/305 MP:296/296
+C-Archangel HP:204/265 MP:52/52
+D-Da Peng HP:634/634 MP:106/126
+Equipo de Itsuki (J2)
+A-Itsuki HP:993/1136 MP:413/413
+B-Gurulu HP:291/371 MP:166/166
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gurulu
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gurulu
+1-Kei HP:760/760 MP:398/398
+2-Tiamat HP:305/305 MP:296/296
+3-Archangel HP:204/265 MP:52/52
+4-Da Peng HP:634/634 MP:106/126
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Gurulu use
+1-Mazanma MP:20
+2-Axel Claw MP:15
+3-Nihil Claw MP:11
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Gurulu lanza viento a Kei
+Kei es resistente el ataque de Gurulu
+Kei recibe 36 de daño
+Kei termina con HP:724/760
+Gurulu lanza viento a Tiamat
+Tiamat recibe 73 de daño
+Tiamat termina con HP:232/305
+Gurulu lanza viento a Archangel
+Archangel recibe 73 de daño
+Archangel termina con HP:131/265
+Gurulu lanza viento a Da Peng
+Da Peng absorbe 73 daño
+Da Peng termina con HP:634/634
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:724/760 MP:398/398
+B-Tiamat HP:232/305 MP:296/296
+C-Archangel HP:131/265 MP:52/52
+D-Da Peng HP:634/634 MP:106/126
+Equipo de Itsuki (J2)
+A-Itsuki HP:993/1136 MP:413/413
+B-Gurulu HP:291/371 MP:146/166
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Tiamat
+3-Archangel
+4-Kei
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Pellaidh HP:202/202 MP:196/196
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Da Peng use
+1-Zandyne MP:14
+2-Panic Voice MP:15
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Da Peng
+1-Itsuki HP:993/1136 MP:413/413
+2-Gurulu HP:291/371 MP:146/166
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Da Peng use
+1-Zandyne MP:14
+2-Panic Voice MP:15
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Pellaidh HP:202/202 MP:196/196
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Da Peng
+1-Itsuki HP:993/1136 MP:413/413
+2-Gurulu HP:291/371 MP:146/166
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Da Peng ataca a Itsuki
+Itsuki recibe 48 de daño
+Itsuki termina con HP:945/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:724/760 MP:398/398
+B-Tiamat HP:232/305 MP:296/296
+C-Archangel HP:131/265 MP:52/52
+D-Da Peng HP:634/634 MP:106/126
+Equipo de Itsuki (J2)
+A-Itsuki HP:945/1136 MP:413/413
+B-Gurulu HP:291/371 MP:146/166
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tiamat
+2-Archangel
+3-Kei
+4-Da Peng
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Pellaidh HP:202/202 MP:196/196
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tiamat use
+1-Ice Breath MP:21
+2-Sea of Chaos MP:45
+3-Silent Prayer MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Pellaidh HP:202/202 MP:196/196
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Pellaidh ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:724/760 MP:398/398
+B-Pellaidh HP:202/202 MP:196/196
+C-Archangel HP:131/265 MP:52/52
+D-Da Peng HP:634/634 MP:106/126
+Equipo de Itsuki (J2)
+A-Itsuki HP:945/1136 MP:413/413
+B-Gurulu HP:291/371 MP:146/166
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Archangel
+2-Kei
+3-Da Peng
+4-Pellaidh
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tiamat HP:232/305 MP:296/296
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tiamat ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:724/760 MP:398/398
+B-Pellaidh HP:202/202 MP:196/196
+C-Tiamat HP:232/305 MP:296/296
+D-Da Peng HP:634/634 MP:106/126
+Equipo de Itsuki (J2)
+A-Itsuki HP:945/1136 MP:413/413
+B-Gurulu HP:291/371 MP:146/166
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Da Peng
+3-Pellaidh
+4-Tiamat
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Itsuki HP:945/1136 MP:413/413
+2-Gurulu HP:291/371 MP:146/166
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Kei ataca a Gurulu
+Gurulu recibe 19 de daño
+Gurulu termina con HP:272/371
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:724/760 MP:398/398
+B-Pellaidh HP:202/202 MP:196/196
+C-Tiamat HP:232/305 MP:296/296
+D-Da Peng HP:634/634 MP:106/126
+Equipo de Itsuki (J2)
+A-Itsuki HP:945/1136 MP:413/413
+B-Gurulu HP:272/371 MP:146/166
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Pellaidh
+3-Tiamat
+4-Kei
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Archangel HP:131/265 MP:52/52
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Archangel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:724/760 MP:398/398
+B-Pellaidh HP:202/202 MP:196/196
+C-Tiamat HP:232/305 MP:296/296
+D-Archangel HP:131/265 MP:52/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:945/1136 MP:413/413
+B-Gurulu HP:272/371 MP:146/166
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pellaidh
+2-Tiamat
+3-Kei
+4-Archangel
+----------------------------------------
+Seleccione una acción para Pellaidh
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:724/760 MP:398/398
+B-Pellaidh HP:202/202 MP:196/196
+C-Tiamat HP:232/305 MP:296/296
+D-Archangel HP:131/265 MP:52/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:945/1136 MP:413/413
+B-Gurulu HP:272/371 MP:146/166
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Gurulu
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Bad Company MP:15
+2-Mabufu MP:11
+3-Recarmdra MP:2
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Itsuki cura a Gurulu
+Gurulu recibe 185 de HP
+Gurulu termina con HP:371/371
+Itsuki revive a Chagrin
+Chagrin recibe 33 de HP
+Chagrin termina con HP:33/67
+Itsuki termina con HP:0/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:724/760 MP:398/398
+B-Pellaidh HP:202/202 MP:196/196
+C-Tiamat HP:232/305 MP:296/296
+D-Archangel HP:131/265 MP:52/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:411/413
+B-Gurulu HP:371/371 MP:146/166
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gurulu
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Gurulu
+1-Kei HP:724/760 MP:398/398
+2-Pellaidh HP:202/202 MP:196/196
+3-Tiamat HP:232/305 MP:296/296
+4-Archangel HP:131/265 MP:52/52
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Gurulu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Chagrin HP:33/67 MP:72/72
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Chagrin ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:724/760 MP:398/398
+B-Pellaidh HP:202/202 MP:196/196
+C-Tiamat HP:232/305 MP:296/296
+D-Archangel HP:131/265 MP:52/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:411/413
+B-Chagrin HP:33/67 MP:72/72
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Chagrin
+----------------------------------------
+Seleccione una acción para Chagrin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:724/760 MP:398/398
+B-Pellaidh HP:202/202 MP:196/196
+C-Tiamat HP:232/305 MP:296/296
+D-Archangel HP:131/265 MP:52/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:411/413
+B-Chagrin HP:33/67 MP:72/72
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tiamat
+2-Pellaidh
+3-Archangel
+4-Kei
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Da Peng HP:634/634 MP:106/126
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Da Peng ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:724/760 MP:398/398
+B-Pellaidh HP:202/202 MP:196/196
+C-Da Peng HP:634/634 MP:106/126
+D-Archangel HP:131/265 MP:52/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:411/413
+B-Chagrin HP:33/67 MP:72/72
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pellaidh
+2-Archangel
+3-Kei
+4-Da Peng
+----------------------------------------
+Seleccione una acción para Pellaidh
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:724/760 MP:398/398
+B-Pellaidh HP:202/202 MP:196/196
+C-Da Peng HP:634/634 MP:106/126
+D-Archangel HP:131/265 MP:52/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:411/413
+B-Chagrin HP:33/67 MP:72/72
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Archangel
+2-Kei
+3-Da Peng
+4-Pellaidh
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tiamat HP:232/305 MP:296/296
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tiamat ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:724/760 MP:398/398
+B-Pellaidh HP:202/202 MP:196/196
+C-Da Peng HP:634/634 MP:106/126
+D-Tiamat HP:232/305 MP:296/296
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:411/413
+B-Chagrin HP:33/67 MP:72/72
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Da Peng
+3-Pellaidh
+4-Tiamat
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Archangel HP:131/265 MP:52/52
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Pellaidh HP:202/202 MP:196/196 (Puesto 2)
+2-Da Peng HP:634/634 MP:106/126 (Puesto 3)
+3-Tiamat HP:232/305 MP:296/296 (Puesto 4)
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Defender's Gaze MP:255
+2-Wind Breath MP:21
+3-Zan MP:5
+4-Mahama MP:18
+5-Ice Breath MP:21
+6-Maragi MP:11
+7-Cancelar
+INPUT: 2
+----------------------------------------
+Kei lanza viento a Chagrin
+Chagrin devuelve 66 daño a Kei
+Kei lanza viento a Chagrin
+Chagrin devuelve 66 daño a Kei
+Kei termina con HP:592/760
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:592/760 MP:377/398
+B-Pellaidh HP:202/202 MP:196/196
+C-Da Peng HP:634/634 MP:106/126
+D-Tiamat HP:232/305 MP:296/296
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:411/413
+B-Chagrin HP:33/67 MP:72/72
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chagrin
+----------------------------------------
+Seleccione una acción para Chagrin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chagrin
+1-Kei HP:592/760 MP:377/398
+2-Pellaidh HP:202/202 MP:196/196
+3-Da Peng HP:634/634 MP:106/126
+4-Tiamat HP:232/305 MP:296/296
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Chagrin ataca a Tiamat
+Tiamat recibe 5 de daño
+Tiamat termina con HP:227/305
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:592/760 MP:377/398
+B-Pellaidh HP:202/202 MP:196/196
+C-Da Peng HP:634/634 MP:106/126
+D-Tiamat HP:227/305 MP:296/296
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:411/413
+B-Chagrin HP:33/67 MP:72/72
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Tiamat
+3-Pellaidh
+4-Kei
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Archangel HP:131/265 MP:52/52
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:592/760 MP:377/398
+B-Pellaidh HP:202/202 MP:196/196
+C-Da Peng HP:634/634 MP:106/126
+D-Tiamat HP:227/305 MP:296/296
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:411/413
+B-Chagrin HP:33/67 MP:72/72
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tiamat
+2-Pellaidh
+3-Kei
+4-Da Peng
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Archangel HP:131/265 MP:52/52
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Archangel HP:131/265 MP:52/52
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Archangel ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:592/760 MP:377/398
+B-Pellaidh HP:202/202 MP:196/196
+C-Da Peng HP:634/634 MP:106/126
+D-Archangel HP:131/265 MP:52/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:411/413
+B-Chagrin HP:33/67 MP:72/72
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pellaidh
+2-Kei
+3-Da Peng
+4-Archangel
+----------------------------------------
+Seleccione una acción para Pellaidh
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:592/760 MP:377/398
+B-Pellaidh HP:202/202 MP:196/196
+C-Da Peng HP:634/634 MP:106/126
+D-Archangel HP:131/265 MP:52/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:411/413
+B-Chagrin HP:33/67 MP:72/72
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Da Peng
+3-Archangel
+4-Pellaidh
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Defender's Gaze MP:255
+2-Wind Breath MP:21
+3-Zan MP:5
+4-Mahama MP:18
+5-Ice Breath MP:21
+6-Maragi MP:11
+7-Cancelar
+INPUT: 1
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 3 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:592/760 MP:122/398
+B-Pellaidh HP:202/202 MP:196/196
+C-Da Peng HP:634/634 MP:106/126
+D-Archangel HP:131/265 MP:52/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:411/413
+B-Chagrin HP:33/67 MP:72/72
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 3
+----------------------------------------
+Orden:
+1-Da Peng
+2-Archangel
+3-Pellaidh
+4-Kei
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:592/760 MP:122/398
+B-Pellaidh HP:202/202 MP:196/196
+C-Da Peng HP:634/634 MP:106/126
+D-Archangel HP:131/265 MP:52/52
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:411/413
+B-Chagrin HP:33/67 MP:72/72
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Archangel
+2-Pellaidh
+3-Kei
+4-Da Peng
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Tiamat HP:227/305 MP:296/296
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tiamat ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:592/760 MP:122/398
+B-Pellaidh HP:202/202 MP:196/196
+C-Da Peng HP:634/634 MP:106/126
+D-Tiamat HP:227/305 MP:296/296
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:411/413
+B-Chagrin HP:33/67 MP:72/72
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pellaidh
+2-Kei
+3-Da Peng
+4-Tiamat
+----------------------------------------
+Seleccione una acción para Pellaidh
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Archangel HP:131/265 MP:52/52
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Pellaidh
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Archangel HP:131/265 MP:52/52
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Archangel ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:592/760 MP:122/398
+B-Archangel HP:131/265 MP:52/52
+C-Da Peng HP:634/634 MP:106/126
+D-Tiamat HP:227/305 MP:296/296
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:411/413
+B-Chagrin HP:33/67 MP:72/72
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Da Peng
+3-Tiamat
+4-Archangel
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Pellaidh HP:202/202 MP:196/196
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Wind Breath MP:21
+2-Zan MP:5
+3-Mahama MP:18
+4-Ice Breath MP:21
+5-Maragi MP:11
+6-Cancelar
+INPUT: 1
+----------------------------------------
+Kei lanza viento a Chagrin
+Chagrin devuelve 66 daño a Kei
+Kei lanza viento a Chagrin
+Chagrin devuelve 66 daño a Kei
+Kei lanza viento a Chagrin
+Chagrin devuelve 66 daño a Kei
+Kei lanza viento a Chagrin
+Chagrin devuelve 66 daño a Kei
+Kei termina con HP:328/760
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:328/760 MP:101/398
+B-Archangel HP:131/265 MP:52/52
+C-Da Peng HP:634/634 MP:106/126
+D-Tiamat HP:227/305 MP:296/296
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:411/413
+B-Chagrin HP:33/67 MP:72/72
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Chagrin
+----------------------------------------
+Seleccione una acción para Chagrin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:328/760 MP:101/398
+B-Archangel HP:131/265 MP:52/52
+C-Da Peng HP:634/634 MP:106/126
+D-Tiamat HP:227/305 MP:296/296
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:411/413
+B-Chagrin HP:33/67 MP:72/72
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Chagrin
+----------------------------------------
+Seleccione una acción para Chagrin
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Chagrin
+1-Kei HP:328/760 MP:101/398
+2-Archangel HP:131/265 MP:52/52
+3-Da Peng HP:634/634 MP:106/126
+4-Tiamat HP:227/305 MP:296/296
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Chagrin ataca a Tiamat
+Tiamat recibe 5 de daño
+Tiamat termina con HP:222/305
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:328/760 MP:101/398
+B-Archangel HP:131/265 MP:52/52
+C-Da Peng HP:634/634 MP:106/126
+D-Tiamat HP:222/305 MP:296/296
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:411/413
+B-Chagrin HP:33/67 MP:72/72
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Tiamat
+3-Archangel
+4-Kei
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Da Peng use
+1-Zandyne MP:14
+2-Panic Voice MP:15
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Da Peng
+1-Chagrin HP:33/67 MP:72/72
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:328/760 MP:101/398
+B-Archangel HP:131/265 MP:52/52
+C-Da Peng HP:634/634 MP:106/126
+D-Tiamat HP:222/305 MP:296/296
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:411/413
+B-Chagrin HP:33/67 MP:72/72
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tiamat
+2-Archangel
+3-Kei
+4-Da Peng
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Tiamat use
+1-Ice Breath MP:21
+2-Sea of Chaos MP:45
+3-Silent Prayer MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:328/760 MP:101/398
+B-Archangel HP:131/265 MP:52/52
+C-Da Peng HP:634/634 MP:106/126
+D-Tiamat HP:222/305 MP:296/296
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:411/413
+B-Chagrin HP:33/67 MP:72/72
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Archangel
+2-Kei
+3-Da Peng
+4-Tiamat
+----------------------------------------
+Seleccione una acción para Archangel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Pellaidh HP:202/202 MP:196/196
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Pellaidh ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:328/760 MP:101/398
+B-Pellaidh HP:202/202 MP:196/196
+C-Da Peng HP:634/634 MP:106/126
+D-Tiamat HP:222/305 MP:296/296
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:411/413
+B-Chagrin HP:33/67 MP:72/72
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Da Peng
+3-Tiamat
+4-Pellaidh
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:328/760 MP:101/398
+B-Pellaidh HP:202/202 MP:196/196
+C-Da Peng HP:634/634 MP:106/126
+D-Tiamat HP:222/305 MP:296/296
+Equipo de Itsuki (J2)
+A-Itsuki HP:0/1136 MP:411/413
+B-Chagrin HP:33/67 MP:72/72
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Da Peng
+2-Tiamat
+3-Pellaidh
+4-Kei
+----------------------------------------
+Seleccione una acción para Da Peng
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Da Peng use
+1-Zandyne MP:14
+2-Panic Voice MP:15
+3-Mabufula MP:20
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Da Peng lanza hielo a Chagrin
+Chagrin recibe 80 de daño
+Chagrin termina con HP:0/67
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Kei (J1)

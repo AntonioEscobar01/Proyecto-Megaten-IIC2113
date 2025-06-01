@@ -1,0 +1,1655 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 29
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Valkyrie HP:455/455 MP:103/103
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Ishtar HP:258/258 MP:251/251
+C-Hecatoncheires HP:756/756 MP:151/151
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Valkyrie
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Aleph HP:1309/1309 MP:613/613
+2-Ishtar HP:258/258 MP:251/251
+3-Hecatoncheires HP:756/756 MP:151/151
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Demi-Fiend ataca a Hecatoncheires
+Hecatoncheires es resistente el ataque de Demi-Fiend
+Hecatoncheires recibe 84 de daño
+Hecatoncheires termina con HP:672/756
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Valkyrie HP:455/455 MP:103/103
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Ishtar HP:258/258 MP:251/251
+C-Hecatoncheires HP:672/756 MP:151/151
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Valkyrie
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Valkyrie
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Valkyrie HP:455/455 MP:103/103
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Ishtar HP:258/258 MP:251/251
+C-Hecatoncheires HP:672/756 MP:151/151
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Valkyrie
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Aleph HP:1309/1309 MP:613/613
+2-Ishtar HP:258/258 MP:251/251
+3-Hecatoncheires HP:672/756 MP:151/151
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Bad Company MP:15
+2-Megido MP:25
+3-Media MP:12
+4-Hama MP:6
+5-Mediarama MP:22
+6-Bufula MP:8
+7-Mahama MP:18
+8-Cancelar
+INPUT: 2
+----------------------------------------
+Demi-Fiend lanza un ataque todo poderoso a Aleph
+Aleph recibe 219 de daño
+Aleph termina con HP:1090/1309
+Demi-Fiend lanza un ataque todo poderoso a Ishtar
+Ishtar recibe 219 de daño
+Ishtar termina con HP:39/258
+Demi-Fiend lanza un ataque todo poderoso a Hecatoncheires
+Hecatoncheires recibe 219 de daño
+Hecatoncheires termina con HP:453/756
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:809/834
+B-Valkyrie HP:455/455 MP:103/103
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1090/1309 MP:613/613
+B-Ishtar HP:39/258 MP:251/251
+C-Hecatoncheires HP:453/756 MP:151/151
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Hecatoncheires
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Demi-Fiend HP:1227/1227 MP:809/834
+2-Valkyrie HP:455/455 MP:103/103
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph dispara a Demi-Fiend
+Demi-Fiend recibe 276 de daño
+Demi-Fiend termina con HP:951/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:951/1227 MP:809/834
+B-Valkyrie HP:455/455 MP:103/103
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1090/1309 MP:613/613
+B-Ishtar HP:39/258 MP:251/251
+C-Hecatoncheires HP:453/756 MP:151/151
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hecatoncheires
+2-Ishtar
+3-Aleph
+----------------------------------------
+Seleccione una acción para Hecatoncheires
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hecatoncheires
+1-Demi-Fiend HP:951/1227 MP:809/834
+2-Valkyrie HP:455/455 MP:103/103
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Hecatoncheires ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Hecatoncheires
+Demi-Fiend termina con HP:951/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:951/1227 MP:809/834
+B-Valkyrie HP:455/455 MP:103/103
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1090/1309 MP:613/613
+B-Ishtar HP:39/258 MP:251/251
+C-Hecatoncheires HP:453/756 MP:151/151
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Valkyrie
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Aleph HP:1090/1309 MP:613/613
+2-Ishtar HP:39/258 MP:251/251
+3-Hecatoncheires HP:453/756 MP:151/151
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend dispara a Aleph
+Aleph bloquea el ataque de Demi-Fiend
+Aleph termina con HP:1090/1309
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:951/1227 MP:809/834
+B-Valkyrie HP:455/455 MP:103/103
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1090/1309 MP:613/613
+B-Ishtar HP:39/258 MP:251/251
+C-Hecatoncheires HP:453/756 MP:151/151
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Hecatoncheires
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Bad Company MP:15
+2-Shock MP:21
+3-Mazanma MP:20
+4-Maziodyne MP:32
+5-Mabufudyne MP:32
+6-Cancelar
+INPUT: 2
+----------------------------------------
+Aleph lanza electricidad a Demi-Fiend
+Demi-Fiend bloquea el ataque de Aleph
+Demi-Fiend termina con HP:951/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:951/1227 MP:809/834
+B-Valkyrie HP:455/455 MP:103/103
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1090/1309 MP:592/613
+B-Ishtar HP:39/258 MP:251/251
+C-Hecatoncheires HP:453/756 MP:151/151
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hecatoncheires
+2-Ishtar
+3-Aleph
+----------------------------------------
+Seleccione una acción para Hecatoncheires
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hecatoncheires
+1-Demi-Fiend HP:951/1227 MP:809/834
+2-Valkyrie HP:455/455 MP:103/103
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Hecatoncheires ataca a Valkyrie
+Valkyrie es resistente el ataque de Hecatoncheires
+Valkyrie recibe 29 de daño
+Valkyrie termina con HP:426/455
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:951/1227 MP:809/834
+B-Valkyrie HP:426/455 MP:103/103
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1090/1309 MP:592/613
+B-Ishtar HP:39/258 MP:251/251
+C-Hecatoncheires HP:453/756 MP:151/151
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Valkyrie
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:951/1227 MP:809/834
+B-Valkyrie HP:426/455 MP:103/103
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1090/1309 MP:592/613
+B-Ishtar HP:39/258 MP:251/251
+C-Hecatoncheires HP:453/756 MP:151/151
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Valkyrie
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Valkyrie
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:951/1227 MP:809/834
+B-Valkyrie HP:426/455 MP:103/103
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1090/1309 MP:592/613
+B-Ishtar HP:39/258 MP:251/251
+C-Hecatoncheires HP:453/756 MP:151/151
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Valkyrie
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Bad Company MP:15
+2-Megido MP:25
+3-Media MP:12
+4-Hama MP:6
+5-Mediarama MP:22
+6-Bufula MP:8
+7-Mahama MP:18
+8-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Aleph HP:1090/1309 MP:592/613
+2-Ishtar HP:39/258 MP:251/251
+3-Hecatoncheires HP:453/756 MP:151/151
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Bad Company MP:15
+2-Megido MP:25
+3-Media MP:12
+4-Hama MP:6
+5-Mediarama MP:22
+6-Bufula MP:8
+7-Mahama MP:18
+8-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Aleph HP:1090/1309 MP:592/613
+2-Ishtar HP:39/258 MP:251/251
+3-Hecatoncheires HP:453/756 MP:151/151
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Bad Company MP:15
+2-Megido MP:25
+3-Media MP:12
+4-Hama MP:6
+5-Mediarama MP:22
+6-Bufula MP:8
+7-Mahama MP:18
+8-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Aleph HP:1090/1309 MP:592/613
+2-Ishtar HP:39/258 MP:251/251
+3-Hecatoncheires HP:453/756 MP:151/151
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:951/1227 MP:809/834
+B-Valkyrie HP:426/455 MP:103/103
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1090/1309 MP:592/613
+B-Ishtar HP:39/258 MP:251/251
+C-Hecatoncheires HP:453/756 MP:151/151
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Valkyrie
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Valkyrie
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Valkyrie
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:951/1227 MP:809/834
+B-Valkyrie HP:426/455 MP:103/103
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1090/1309 MP:592/613
+B-Ishtar HP:39/258 MP:251/251
+C-Hecatoncheires HP:453/756 MP:151/151
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Hecatoncheires
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Demi-Fiend HP:951/1227 MP:809/834
+2-Valkyrie HP:426/455 MP:103/103
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Aleph ataca a Valkyrie
+Valkyrie es resistente el ataque de Aleph
+Valkyrie recibe 78 de daño
+Valkyrie termina con HP:348/455
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:951/1227 MP:809/834
+B-Valkyrie HP:348/455 MP:103/103
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1090/1309 MP:592/613
+B-Ishtar HP:39/258 MP:251/251
+C-Hecatoncheires HP:453/756 MP:151/151
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hecatoncheires
+2-Ishtar
+3-Aleph
+----------------------------------------
+Seleccione una acción para Hecatoncheires
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Hecatoncheires
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hecatoncheires use
+1-Rakukaja MP:15
+2-Hades Blast MP:32
+3-War Cry MP:45
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Hecatoncheires ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Hecatoncheires
+Demi-Fiend termina con HP:951/1227
+Hecatoncheires ataca a Valkyrie
+Valkyrie es resistente el ataque de Hecatoncheires
+Valkyrie recibe 68 de daño
+Valkyrie termina con HP:280/455
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:951/1227 MP:809/834
+B-Valkyrie HP:280/455 MP:103/103
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1090/1309 MP:592/613
+B-Ishtar HP:39/258 MP:251/251
+C-Hecatoncheires HP:453/756 MP:119/151
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Valkyrie
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Bad Company MP:15
+2-Megido MP:25
+3-Media MP:12
+4-Hama MP:6
+5-Mediarama MP:22
+6-Bufula MP:8
+7-Mahama MP:18
+8-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:951/1227 MP:809/834
+B-Valkyrie HP:280/455 MP:103/103
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1090/1309 MP:592/613
+B-Ishtar HP:39/258 MP:251/251
+C-Hecatoncheires HP:453/756 MP:119/151
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Valkyrie
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Valkyrie
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:951/1227 MP:809/834
+B-Valkyrie HP:280/455 MP:103/103
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1090/1309 MP:592/613
+B-Ishtar HP:39/258 MP:251/251
+C-Hecatoncheires HP:453/756 MP:119/151
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Valkyrie
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Aleph HP:1090/1309 MP:592/613
+2-Ishtar HP:39/258 MP:251/251
+3-Hecatoncheires HP:453/756 MP:119/151
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend dispara a Aleph
+Aleph bloquea el ataque de Demi-Fiend
+Aleph termina con HP:1090/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:951/1227 MP:809/834
+B-Valkyrie HP:280/455 MP:103/103
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1090/1309 MP:592/613
+B-Ishtar HP:39/258 MP:251/251
+C-Hecatoncheires HP:453/756 MP:119/151
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Hecatoncheires
+3-Ishtar
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Demi-Fiend HP:951/1227 MP:809/834
+2-Valkyrie HP:280/455 MP:103/103
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Aleph
+Demi-Fiend termina con HP:951/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:951/1227 MP:809/834
+B-Valkyrie HP:280/455 MP:103/103
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1090/1309 MP:592/613
+B-Ishtar HP:39/258 MP:251/251
+C-Hecatoncheires HP:453/756 MP:119/151
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hecatoncheires
+2-Ishtar
+3-Aleph
+----------------------------------------
+Seleccione una acción para Hecatoncheires
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hecatoncheires
+1-Demi-Fiend HP:951/1227 MP:809/834
+2-Valkyrie HP:280/455 MP:103/103
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Hecatoncheires
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:951/1227 MP:809/834
+B-Valkyrie HP:280/455 MP:103/103
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1090/1309 MP:592/613
+B-Ishtar HP:39/258 MP:251/251
+C-Hecatoncheires HP:453/756 MP:119/151
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ishtar
+2-Aleph
+3-Hecatoncheires
+----------------------------------------
+Seleccione una acción para Ishtar
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:951/1227 MP:809/834
+B-Valkyrie HP:280/455 MP:103/103
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1090/1309 MP:592/613
+B-Ishtar HP:39/258 MP:251/251
+C-Hecatoncheires HP:453/756 MP:119/151
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Valkyrie
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:951/1227 MP:809/834
+B-Valkyrie HP:280/455 MP:103/103
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1090/1309 MP:592/613
+B-Ishtar HP:39/258 MP:251/251
+C-Hecatoncheires HP:453/756 MP:119/151
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Valkyrie
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Valkyrie
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Valkyrie use
+1-Tetrakarn MP:50
+2-Javelin Rain MP:21
+3-Mortal Jihad MP:13
+4-Blood Ritual MP:25
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Valkyrie ataca a Aleph
+Aleph es resistente el ataque de Valkyrie
+Aleph recibe 45 de daño
+Aleph termina con HP:1045/1309
+Valkyrie ataca a Ishtar
+Ishtar recibe 91 de daño
+Ishtar termina con HP:0/258
+Valkyrie ataca a Hecatoncheires
+Hecatoncheires es resistente el ataque de Valkyrie
+Hecatoncheires recibe 45 de daño
+Hecatoncheires termina con HP:408/756
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:951/1227 MP:809/834
+B-Valkyrie HP:280/455 MP:82/103
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1045/1309 MP:592/613
+B-
+C-Hecatoncheires HP:408/756 MP:119/151
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Valkyrie
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Bad Company MP:15
+2-Megido MP:25
+3-Media MP:12
+4-Hama MP:6
+5-Mediarama MP:22
+6-Bufula MP:8
+7-Mahama MP:18
+8-Cancelar
+INPUT: 3
+----------------------------------------
+Demi-Fiend cura a Valkyrie
+Valkyrie recibe 113 de HP
+Valkyrie termina con HP:393/455
+Demi-Fiend cura a Demi-Fiend
+Demi-Fiend recibe 306 de HP
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:797/834
+B-Valkyrie HP:393/455 MP:82/103
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1045/1309 MP:592/613
+B-
+C-Hecatoncheires HP:408/756 MP:119/151
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Hecatoncheires
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Demi-Fiend HP:1227/1227 MP:797/834
+2-Valkyrie HP:393/455 MP:82/103
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Demi-Fiend HP:1227/1227 MP:797/834
+2-Valkyrie HP:393/455 MP:82/103
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Aleph dispara a Valkyrie
+Valkyrie recibe 276 de daño
+Valkyrie termina con HP:117/455
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:797/834
+B-Valkyrie HP:117/455 MP:82/103
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1045/1309 MP:592/613
+B-
+C-Hecatoncheires HP:408/756 MP:119/151
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Hecatoncheires
+2-Aleph
+----------------------------------------
+Seleccione una acción para Hecatoncheires
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:797/834
+B-Valkyrie HP:117/455 MP:82/103
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1045/1309 MP:592/613
+B-
+C-Hecatoncheires HP:408/756 MP:119/151
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aleph
+2-Hecatoncheires
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Bad Company MP:15
+2-Shock MP:21
+3-Mazanma MP:20
+4-Maziodyne MP:32
+5-Mabufudyne MP:32
+6-Cancelar
+INPUT: 3
+----------------------------------------
+Aleph lanza viento a Demi-Fiend
+Demi-Fiend bloquea el ataque de Aleph
+Demi-Fiend termina con HP:1227/1227
+Aleph lanza viento a Valkyrie
+Valkyrie recibe 96 de daño
+Valkyrie termina con HP:21/455
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:797/834
+B-Valkyrie HP:21/455 MP:82/103
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1045/1309 MP:572/613
+B-
+C-Hecatoncheires HP:408/756 MP:119/151
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Valkyrie
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Aleph HP:1045/1309 MP:572/613
+2-Hecatoncheires HP:408/756 MP:119/151
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Bad Company MP:15
+2-Megido MP:25
+3-Media MP:12
+4-Hama MP:6
+5-Mediarama MP:22
+6-Bufula MP:8
+7-Mahama MP:18
+8-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Aleph HP:1045/1309 MP:572/613
+2-Hecatoncheires HP:408/756 MP:119/151
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Demi-Fiend lanza hielo a Aleph
+Aleph recibe 204 de daño
+Aleph termina con HP:841/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:789/834
+B-Valkyrie HP:21/455 MP:82/103
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:841/1309 MP:572/613
+B-
+C-Hecatoncheires HP:408/756 MP:119/151
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Valkyrie
+2-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Valkyrie
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Valkyrie use
+1-Tetrakarn MP:50
+2-Javelin Rain MP:21
+3-Mortal Jihad MP:13
+4-Blood Ritual MP:25
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Valkyrie
+1-Aleph HP:841/1309 MP:572/613
+2-Hecatoncheires HP:408/756 MP:119/151
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Valkyrie ataca a Aleph
+Aleph es resistente el ataque de Valkyrie
+Aleph recibe 60 de daño
+Aleph termina con HP:781/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:789/834
+B-Valkyrie HP:21/455 MP:69/103
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:781/1309 MP:572/613
+B-
+C-Hecatoncheires HP:408/756 MP:119/151
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Hecatoncheires
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:789/834
+B-Valkyrie HP:21/455 MP:69/103
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:781/1309 MP:572/613
+B-
+C-Hecatoncheires HP:408/756 MP:119/151
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Hecatoncheires
+2-Aleph
+----------------------------------------
+Seleccione una acción para Hecatoncheires
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Hecatoncheires use
+1-Rakukaja MP:15
+2-Hades Blast MP:32
+3-War Cry MP:45
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Hecatoncheires ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Hecatoncheires
+Demi-Fiend termina con HP:1227/1227
+Hecatoncheires ataca a Valkyrie
+Valkyrie es resistente el ataque de Hecatoncheires
+Valkyrie recibe 68 de daño
+Valkyrie termina con HP:0/455
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:789/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:781/1309 MP:572/613
+B-
+C-Hecatoncheires HP:408/756 MP:87/151
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Aleph HP:781/1309 MP:572/613
+2-Hecatoncheires HP:408/756 MP:87/151
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Demi-Fiend dispara a Hecatoncheires
+Hecatoncheires es resistente el ataque de Demi-Fiend
+Hecatoncheires recibe 57 de daño
+Hecatoncheires termina con HP:351/756
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:789/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:781/1309 MP:572/613
+B-
+C-Hecatoncheires HP:351/756 MP:87/151
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Hecatoncheires
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Demi-Fiend HP:1227/1227 MP:789/834
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Aleph
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J1)
+----------------------------------------
+Equipo de Demi-Fiend (J1)
+A-Demi-Fiend HP:1227/1227 MP:789/834
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:781/1309 MP:572/613
+B-
+C-Hecatoncheires HP:351/756 MP:87/151
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Demi-Fiend use
+1-Bad Company MP:15
+2-Megido MP:25
+3-Media MP:12
+4-Hama MP:6
+5-Mediarama MP:22
+6-Bufula MP:8
+7-Mahama MP:18
+8-Cancelar
+INPUT: 7
+----------------------------------------
+Demi-Fiend ataca con luz a Aleph
+Aleph ha sido eliminado
+Aleph termina con HP:0/1309
+Demi-Fiend ataca con luz a Hecatoncheires
+Hecatoncheires ha sido eliminado
+Hecatoncheires termina con HP:0/756
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Demi-Fiend (J1)

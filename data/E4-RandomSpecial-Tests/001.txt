@@ -1,0 +1,1069 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 0
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Mushussu HP:399/399 MP:179/179
+C-Gryphon HP:123/123 MP:23/23
+D-Sraosha HP:362/362 MP:351/351
+Equipo de Flynn (J2)
+A-Flynn HP:971/971 MP:527/527
+B-Spriggan HP:147/147 MP:66/66
+C-Enku HP:235/235 MP:228/228
+D-Sraosha HP:362/362 MP:351/351
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Sraosha
+3-Kei
+4-Gryphon
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Flynn HP:971/971 MP:527/527
+2-Spriggan HP:147/147 MP:66/66
+3-Enku HP:235/235 MP:228/228
+4-Sraosha HP:362/362 MP:351/351
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mushussu use
+1-Ziodyne MP:14
+2-Posumudi MP:5
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Flynn HP:971/971 MP:527/527
+2-Spriggan HP:147/147 MP:66/66
+3-Enku HP:235/235 MP:228/228
+4-Sraosha HP:362/362 MP:351/351
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Mushussu lanza electricidad a Flynn
+Flynn recibe 100 de daño
+Flynn termina con HP:871/971
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Mushussu HP:399/399 MP:165/179
+C-Gryphon HP:123/123 MP:23/23
+D-Sraosha HP:362/362 MP:351/351
+Equipo de Flynn (J2)
+A-Flynn HP:871/971 MP:527/527
+B-Spriggan HP:147/147 MP:66/66
+C-Enku HP:235/235 MP:228/228
+D-Sraosha HP:362/362 MP:351/351
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sraosha
+2-Kei
+3-Gryphon
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Sraosha
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:398/398
+B-Mushussu HP:399/399 MP:165/179
+C-Gryphon HP:123/123 MP:23/23
+D-Sraosha HP:362/362 MP:351/351
+Equipo de Flynn (J2)
+A-Flynn HP:871/971 MP:527/527
+B-Spriggan HP:147/147 MP:66/66
+C-Enku HP:235/235 MP:228/228
+D-Sraosha HP:362/362 MP:351/351
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Gryphon
+3-Mushussu
+4-Sraosha
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Trafuri MP:5
+2-Stigma Attack MP:20
+3-Bufu MP:5
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Flynn HP:871/971 MP:527/527
+2-Spriggan HP:147/147 MP:66/66
+3-Enku HP:235/235 MP:228/228
+4-Sraosha HP:362/362 MP:351/351
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Trafuri MP:5
+2-Stigma Attack MP:20
+3-Bufu MP:5
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Flynn HP:871/971 MP:527/527
+2-Spriggan HP:147/147 MP:66/66
+3-Enku HP:235/235 MP:228/228
+4-Sraosha HP:362/362 MP:351/351
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kei ataca a Flynn
+Flynn recibe 99 de daño
+Flynn termina con HP:772/971
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:378/398
+B-Mushussu HP:399/399 MP:165/179
+C-Gryphon HP:123/123 MP:23/23
+D-Sraosha HP:362/362 MP:351/351
+Equipo de Flynn (J2)
+A-Flynn HP:772/971 MP:527/527
+B-Spriggan HP:147/147 MP:66/66
+C-Enku HP:235/235 MP:228/228
+D-Sraosha HP:362/362 MP:351/351
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gryphon
+2-Mushussu
+3-Sraosha
+4-Kei
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Gryphon use
+1-Bouncing Claw MP:4
+2-Lunge MP:6
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Gryphon
+1-Flynn HP:772/971 MP:527/527
+2-Spriggan HP:147/147 MP:66/66
+3-Enku HP:235/235 MP:228/228
+4-Sraosha HP:362/362 MP:351/351
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Gryphon use
+1-Bouncing Claw MP:4
+2-Lunge MP:6
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Gryphon
+1-Flynn HP:772/971 MP:527/527
+2-Spriggan HP:147/147 MP:66/66
+3-Enku HP:235/235 MP:228/228
+4-Sraosha HP:362/362 MP:351/351
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Gryphon ataca a Spriggan
+Spriggan es resistente el ataque de Gryphon
+Spriggan recibe 14 de daño
+Spriggan termina con HP:133/147
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:378/398
+B-Mushussu HP:399/399 MP:165/179
+C-Gryphon HP:123/123 MP:17/23
+D-Sraosha HP:362/362 MP:351/351
+Equipo de Flynn (J2)
+A-Flynn HP:772/971 MP:527/527
+B-Spriggan HP:133/147 MP:66/66
+C-Enku HP:235/235 MP:228/228
+D-Sraosha HP:362/362 MP:351/351
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Sraosha
+3-Kei
+4-Gryphon
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Mushussu use
+1-Ziodyne MP:14
+2-Posumudi MP:5
+3-Axel Claw MP:15
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Flynn HP:772/971 MP:527/527
+2-Spriggan HP:133/147 MP:66/66
+3-Enku HP:235/235 MP:228/228
+4-Sraosha HP:362/362 MP:351/351
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Mushussu ataca a Spriggan
+Spriggan es resistente el ataque de Mushussu
+Spriggan recibe 53 de daño
+Spriggan termina con HP:80/147
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:378/398
+B-Mushussu HP:399/399 MP:150/179
+C-Gryphon HP:123/123 MP:17/23
+D-Sraosha HP:362/362 MP:351/351
+Equipo de Flynn (J2)
+A-Flynn HP:772/971 MP:527/527
+B-Spriggan HP:80/147 MP:66/66
+C-Enku HP:235/235 MP:228/228
+D-Sraosha HP:362/362 MP:351/351
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Sraosha
+3-Enku
+4-Spriggan
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Gu Huo Niao HP:122/122 MP:117/117
+2-Succubus HP:268/268 MP:260/260
+3-Bilwis HP:161/161 MP:31/31
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Spriggan HP:80/147 MP:66/66 (Puesto 2)
+2-Enku HP:235/235 MP:228/228 (Puesto 3)
+3-Sraosha HP:362/362 MP:351/351 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Succubus ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:378/398
+B-Mushussu HP:399/399 MP:150/179
+C-Gryphon HP:123/123 MP:17/23
+D-Sraosha HP:362/362 MP:351/351
+Equipo de Flynn (J2)
+A-Flynn HP:772/971 MP:527/527
+B-Spriggan HP:80/147 MP:66/66
+C-Enku HP:235/235 MP:228/228
+D-Succubus HP:268/268 MP:260/260
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Succubus
+2-Enku
+3-Spriggan
+4-Flynn
+----------------------------------------
+Seleccione una acción para Succubus
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Succubus use
+1-Energy Drain MP:10
+2-Lullaby MP:11
+3-Me Patra MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Succubus
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Sraosha HP:362/362 MP:351/351
+2-Gu Huo Niao HP:122/122 MP:117/117
+3-Bilwis HP:161/161 MP:31/31
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Bilwis ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:760/760 MP:378/398
+B-Mushussu HP:399/399 MP:150/179
+C-Gryphon HP:123/123 MP:17/23
+D-Sraosha HP:362/362 MP:351/351
+Equipo de Flynn (J2)
+A-Flynn HP:772/971 MP:527/527
+B-Spriggan HP:80/147 MP:66/66
+C-Enku HP:235/235 MP:228/228
+D-Bilwis HP:161/161 MP:31/31
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Spriggan
+3-Flynn
+4-Bilwis
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Enku use
+1-Fire Breath MP:21
+2-Damascus Claw MP:7
+3-Energy Drain MP:10
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Enku
+1-Kei HP:760/760 MP:378/398
+2-Mushussu HP:399/399 MP:150/179
+3-Gryphon HP:123/123 MP:17/23
+4-Sraosha HP:362/362 MP:351/351
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Enku lanza un ataque todo poderoso a Kei
+El ataque drena 41 HP de Kei
+Kei termina con HP:719/760
+Enku termina con HP:235/235
+El ataque drena 41 MP de Kei
+Kei termina con MP:337/398
+Enku termina con MP:228/228
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:719/760 MP:337/398
+B-Mushussu HP:399/399 MP:150/179
+C-Gryphon HP:123/123 MP:17/23
+D-Sraosha HP:362/362 MP:351/351
+Equipo de Flynn (J2)
+A-Flynn HP:772/971 MP:527/527
+B-Spriggan HP:80/147 MP:66/66
+C-Enku HP:235/235 MP:228/228
+D-Bilwis HP:161/161 MP:31/31
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Spriggan
+2-Flynn
+3-Bilwis
+4-Enku
+----------------------------------------
+Seleccione una acción para Spriggan
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Spriggan use
+1-Agi MP:5
+2-Dormina MP:4
+3-Maragi MP:11
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Spriggan lanza fuego a Kei
+Kei es resistente el ataque de Spriggan
+Kei recibe 15 de daño
+Kei termina con HP:704/760
+Spriggan lanza fuego a Mushussu
+Mushussu recibe 31 de daño
+Mushussu termina con HP:368/399
+Spriggan lanza fuego a Gryphon
+Gryphon recibe 31 de daño
+Gryphon termina con HP:92/123
+Spriggan lanza fuego a Sraosha
+Sraosha recibe 31 de daño
+Sraosha termina con HP:331/362
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:704/760 MP:337/398
+B-Mushussu HP:368/399 MP:150/179
+C-Gryphon HP:92/123 MP:17/23
+D-Sraosha HP:331/362 MP:351/351
+Equipo de Flynn (J2)
+A-Flynn HP:772/971 MP:527/527
+B-Spriggan HP:80/147 MP:55/66
+C-Enku HP:235/235 MP:228/228
+D-Bilwis HP:161/161 MP:31/31
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Bilwis
+3-Enku
+4-Spriggan
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:704/760 MP:337/398
+2-Mushussu HP:368/399 MP:150/179
+3-Gryphon HP:92/123 MP:17/23
+4-Sraosha HP:331/362 MP:351/351
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Kei
+Kei es resistente el ataque de Flynn
+Kei recibe 55 de daño
+Kei termina con HP:649/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:649/760 MP:337/398
+B-Mushussu HP:368/399 MP:150/179
+C-Gryphon HP:92/123 MP:17/23
+D-Sraosha HP:331/362 MP:351/351
+Equipo de Flynn (J2)
+A-Flynn HP:772/971 MP:527/527
+B-Spriggan HP:80/147 MP:55/66
+C-Enku HP:235/235 MP:228/228
+D-Bilwis HP:161/161 MP:31/31
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Sraosha
+3-Kei
+4-Gryphon
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Mushussu
+1-Flynn HP:772/971 MP:527/527
+2-Spriggan HP:80/147 MP:55/66
+3-Enku HP:235/235 MP:228/228
+4-Bilwis HP:161/161 MP:31/31
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Mushussu ataca a Bilwis
+Bilwis recibe 32 de daño
+Bilwis termina con HP:129/161
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:649/760 MP:337/398
+B-Mushussu HP:368/399 MP:150/179
+C-Gryphon HP:92/123 MP:17/23
+D-Sraosha HP:331/362 MP:351/351
+Equipo de Flynn (J2)
+A-Flynn HP:772/971 MP:527/527
+B-Spriggan HP:80/147 MP:55/66
+C-Enku HP:235/235 MP:228/228
+D-Bilwis HP:129/161 MP:31/31
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Sraosha
+2-Kei
+3-Gryphon
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Sraosha
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sraosha use
+1-Holy Wrath MP:45
+2-Diarahan MP:16
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Sraosha lanza un ataque todo poderoso a Flynn
+Flynn recibe 120 de daño
+Flynn termina con HP:652/971
+Sraosha lanza un ataque todo poderoso a Spriggan
+Spriggan recibe 120 de daño
+Spriggan termina con HP:0/147
+Sraosha lanza un ataque todo poderoso a Enku
+Enku recibe 120 de daño
+Enku termina con HP:115/235
+Sraosha lanza un ataque todo poderoso a Bilwis
+Bilwis recibe 120 de daño
+Bilwis termina con HP:9/161
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:649/760 MP:337/398
+B-Mushussu HP:368/399 MP:150/179
+C-Gryphon HP:92/123 MP:17/23
+D-Sraosha HP:331/362 MP:306/351
+Equipo de Flynn (J2)
+A-Flynn HP:652/971 MP:527/527
+B-
+C-Enku HP:115/235 MP:228/228
+D-Bilwis HP:9/161 MP:31/31
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Gryphon
+3-Mushussu
+4-Sraosha
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Flynn HP:652/971 MP:527/527
+2-Enku HP:115/235 MP:228/228
+3-Bilwis HP:9/161 MP:31/31
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Flynn HP:652/971 MP:527/527
+2-Enku HP:115/235 MP:228/228
+3-Bilwis HP:9/161 MP:31/31
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Kei ataca a Bilwis
+Bilwis recibe 19 de daño
+Bilwis termina con HP:0/161
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:649/760 MP:337/398
+B-Mushussu HP:368/399 MP:150/179
+C-Gryphon HP:92/123 MP:17/23
+D-Sraosha HP:331/362 MP:306/351
+Equipo de Flynn (J2)
+A-Flynn HP:652/971 MP:527/527
+B-
+C-Enku HP:115/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Gryphon
+2-Mushussu
+3-Sraosha
+4-Kei
+----------------------------------------
+Seleccione una acción para Gryphon
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Gryphon use
+1-Bouncing Claw MP:4
+2-Lunge MP:6
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Gryphon
+1-Flynn HP:652/971 MP:527/527
+2-Enku HP:115/235 MP:228/228
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Gryphon ataca a Enku
+Enku recibe 28 de daño
+Enku termina con HP:87/235
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Flynn (J2)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:649/760 MP:337/398
+B-Mushussu HP:368/399 MP:150/179
+C-Gryphon HP:92/123 MP:11/23
+D-Sraosha HP:331/362 MP:306/351
+Equipo de Flynn (J2)
+A-Flynn HP:652/971 MP:527/527
+B-
+C-Enku HP:87/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Flynn
+2-Enku
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:649/760 MP:337/398
+2-Mushussu HP:368/399 MP:150/179
+3-Gryphon HP:92/123 MP:11/23
+4-Sraosha HP:331/362 MP:306/351
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Flynn ataca a Mushussu
+Mushussu recibe 88 de daño
+Mushussu termina con HP:280/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:649/760 MP:337/398
+B-Mushussu HP:280/399 MP:150/179
+C-Gryphon HP:92/123 MP:11/23
+D-Sraosha HP:331/362 MP:306/351
+Equipo de Flynn (J2)
+A-Flynn HP:652/971 MP:527/527
+B-
+C-Enku HP:87/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Enku
+2-Flynn
+----------------------------------------
+Seleccione una acción para Enku
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:649/760 MP:337/398
+B-Mushussu HP:280/399 MP:150/179
+C-Gryphon HP:92/123 MP:11/23
+D-Sraosha HP:331/362 MP:306/351
+Equipo de Flynn (J2)
+A-Flynn HP:652/971 MP:527/527
+B-
+C-Enku HP:87/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Flynn
+2-Enku
+----------------------------------------
+Seleccione una acción para Flynn
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Flynn
+1-Kei HP:649/760 MP:337/398
+2-Mushussu HP:280/399 MP:150/179
+3-Gryphon HP:92/123 MP:11/23
+4-Sraosha HP:331/362 MP:306/351
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Flynn dispara a Kei
+Kei es resistente el ataque de Flynn
+Kei recibe 55 de daño
+Kei termina con HP:594/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J1)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:594/760 MP:337/398
+B-Mushussu HP:280/399 MP:150/179
+C-Gryphon HP:92/123 MP:11/23
+D-Sraosha HP:331/362 MP:306/351
+Equipo de Flynn (J2)
+A-Flynn HP:652/971 MP:527/527
+B-
+C-Enku HP:87/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Mushussu
+2-Sraosha
+3-Kei
+4-Gryphon
+----------------------------------------
+Seleccione una acción para Mushussu
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:594/760 MP:337/398
+B-Mushussu HP:280/399 MP:150/179
+C-Gryphon HP:92/123 MP:11/23
+D-Sraosha HP:331/362 MP:306/351
+Equipo de Flynn (J2)
+A-Flynn HP:652/971 MP:527/527
+B-
+C-Enku HP:87/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Sraosha
+2-Kei
+3-Gryphon
+4-Mushussu
+----------------------------------------
+Seleccione una acción para Sraosha
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Sraosha
+1-Flynn HP:652/971 MP:527/527
+2-Enku HP:87/235 MP:228/228
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Sraosha
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Sraosha use
+1-Holy Wrath MP:45
+2-Diarahan MP:16
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Sraosha
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Sraosha
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kei (J1)
+A-Kei HP:594/760 MP:337/398
+B-Mushussu HP:280/399 MP:150/179
+C-Gryphon HP:92/123 MP:11/23
+D-Sraosha HP:331/362 MP:306/351
+Equipo de Flynn (J2)
+A-Flynn HP:652/971 MP:527/527
+B-
+C-Enku HP:87/235 MP:228/228
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Gryphon
+3-Mushussu
+4-Sraosha
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Trafuri MP:5
+2-Stigma Attack MP:20
+3-Bufu MP:5
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kei (J1) se rinde
+----------------------------------------
+Ganador: Flynn (J2)

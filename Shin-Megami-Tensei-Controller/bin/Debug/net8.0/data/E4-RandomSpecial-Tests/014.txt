@@ -1,0 +1,3170 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 13
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Lorelei HP:291/291 MP:283/283
+C-Huang Di HP:672/672 MP:301/301
+D-Qing Niuguai HP:407/407 MP:81/81
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Ometeotl HP:324/324 MP:315/315
+C-Inugami HP:214/214 MP:109/109
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Huang Di
+2-Lorelei
+3-Qing Niuguai
+4-Tamaki
+----------------------------------------
+Seleccione una acción para Huang Di
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Girimekhala HP:653/653 MP:130/130
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Girimekhala ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Lorelei HP:291/291 MP:283/283
+C-Girimekhala HP:653/653 MP:130/130
+D-Qing Niuguai HP:407/407 MP:81/81
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Ometeotl HP:324/324 MP:315/315
+C-Inugami HP:214/214 MP:109/109
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lorelei
+2-Qing Niuguai
+3-Tamaki
+4-Girimekhala
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lorelei use
+1-Mediarama MP:22
+2-Mabufula MP:20
+3-Panic Voice MP:15
+4-Makarakarn MP:50
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lorelei
+1-Kei HP:760/760 MP:398/398
+2-Ometeotl HP:324/324 MP:315/315
+3-Inugami HP:214/214 MP:109/109
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Lorelei ataca a Inugami
+Inugami recibe 30 de daño
+Inugami termina con HP:184/214
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Lorelei HP:291/291 MP:283/283
+C-Girimekhala HP:653/653 MP:130/130
+D-Qing Niuguai HP:407/407 MP:81/81
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Ometeotl HP:324/324 MP:315/315
+C-Inugami HP:184/214 MP:109/109
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Qing Niuguai
+2-Tamaki
+3-Girimekhala
+4-Lorelei
+----------------------------------------
+Seleccione una acción para Qing Niuguai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Huang Di HP:672/672 MP:301/301
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Huang Di ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Lorelei HP:291/291 MP:283/283
+C-Girimekhala HP:653/653 MP:130/130
+D-Huang Di HP:672/672 MP:301/301
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Ometeotl HP:324/324 MP:315/315
+C-Inugami HP:184/214 MP:109/109
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Girimekhala
+3-Lorelei
+4-Huang Di
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Lorelei HP:291/291 MP:283/283
+C-Girimekhala HP:653/653 MP:130/130
+D-Huang Di HP:672/672 MP:301/301
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Ometeotl HP:324/324 MP:315/315
+C-Inugami HP:184/214 MP:109/109
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Lorelei
+3-Huang Di
+4-Tamaki
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Qing Niuguai HP:407/407 MP:81/81
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Qing Niuguai ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Lorelei HP:291/291 MP:283/283
+C-Qing Niuguai HP:407/407 MP:81/81
+D-Huang Di HP:672/672 MP:301/301
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Ometeotl HP:324/324 MP:315/315
+C-Inugami HP:184/214 MP:109/109
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lorelei
+2-Huang Di
+3-Tamaki
+4-Qing Niuguai
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Lorelei HP:291/291 MP:283/283
+C-Qing Niuguai HP:407/407 MP:81/81
+D-Huang Di HP:672/672 MP:301/301
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Ometeotl HP:324/324 MP:315/315
+C-Inugami HP:184/214 MP:109/109
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Huang Di
+2-Tamaki
+3-Qing Niuguai
+4-Lorelei
+----------------------------------------
+Seleccione una acción para Huang Di
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Girimekhala HP:653/653 MP:130/130
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Huang Di
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Huang Di
+1-Kei HP:760/760 MP:398/398
+2-Ometeotl HP:324/324 MP:315/315
+3-Inugami HP:184/214 MP:109/109
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Huang Di ataca a Ometeotl
+Ometeotl recibe 56 de daño
+Ometeotl termina con HP:268/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Lorelei HP:291/291 MP:283/283
+C-Qing Niuguai HP:407/407 MP:81/81
+D-Huang Di HP:672/672 MP:301/301
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Ometeotl HP:268/324 MP:315/315
+C-Inugami HP:184/214 MP:109/109
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Inugami
+3-Kei
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Tamaki HP:999/999 MP:542/542
+2-Lorelei HP:291/291 MP:283/283
+3-Qing Niuguai HP:407/407 MP:81/81
+4-Huang Di HP:672/672 MP:301/301
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Ometeotl ataca a Huang Di
+Huang Di recibe 34 de daño
+Huang Di termina con HP:638/672
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Lorelei HP:291/291 MP:283/283
+C-Qing Niuguai HP:407/407 MP:81/81
+D-Huang Di HP:638/672 MP:301/301
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Ometeotl HP:268/324 MP:315/315
+C-Inugami HP:184/214 MP:109/109
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Kei
+3-Ometeotl
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Tamaki HP:999/999 MP:542/542
+2-Lorelei HP:291/291 MP:283/283
+3-Qing Niuguai HP:407/407 MP:81/81
+4-Huang Di HP:638/672 MP:301/301
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Inugami ataca a Huang Di
+Huang Di recibe 17 de daño
+Huang Di termina con HP:621/672
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Lorelei HP:291/291 MP:283/283
+C-Qing Niuguai HP:407/407 MP:81/81
+D-Huang Di HP:621/672 MP:301/301
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Ometeotl HP:268/324 MP:315/315
+C-Inugami HP:184/214 MP:109/109
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Ometeotl
+3-Inugami
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Tamaki HP:999/999 MP:542/542
+2-Lorelei HP:291/291 MP:283/283
+3-Qing Niuguai HP:407/407 MP:81/81
+4-Huang Di HP:621/672 MP:301/301
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kei ataca a Qing Niuguai
+Qing Niuguai es resistente el ataque de Kei
+Qing Niuguai recibe 9 de daño
+Qing Niuguai termina con HP:398/407
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Lorelei HP:291/291 MP:283/283
+C-Qing Niuguai HP:398/407 MP:81/81
+D-Huang Di HP:621/672 MP:301/301
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Ometeotl HP:268/324 MP:315/315
+C-Inugami HP:184/214 MP:109/109
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Huang Di
+2-Lorelei
+3-Qing Niuguai
+4-Tamaki
+----------------------------------------
+Seleccione una acción para Huang Di
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Girimekhala HP:653/653 MP:130/130
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Girimekhala ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Lorelei HP:291/291 MP:283/283
+C-Qing Niuguai HP:398/407 MP:81/81
+D-Girimekhala HP:653/653 MP:130/130
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Ometeotl HP:268/324 MP:315/315
+C-Inugami HP:184/214 MP:109/109
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lorelei
+2-Qing Niuguai
+3-Tamaki
+4-Girimekhala
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Lorelei HP:291/291 MP:283/283
+C-Qing Niuguai HP:398/407 MP:81/81
+D-Girimekhala HP:653/653 MP:130/130
+Equipo de Kei (J2)
+A-Kei HP:760/760 MP:398/398
+B-Ometeotl HP:268/324 MP:315/315
+C-Inugami HP:184/214 MP:109/109
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Qing Niuguai
+2-Tamaki
+3-Girimekhala
+4-Lorelei
+----------------------------------------
+Seleccione una acción para Qing Niuguai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Qing Niuguai use
+1-Rakukaja MP:15
+2-Megaton Press MP:17
+3-Silent Prayer MP:15
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Qing Niuguai ataca a Kei
+Kei es resistente el ataque de Qing Niuguai
+Kei recibe 40 de daño
+Kei termina con HP:720/760
+Qing Niuguai ataca a Ometeotl
+Ometeotl recibe 80 de daño
+Ometeotl termina con HP:188/324
+Qing Niuguai ataca a Inugami
+Inugami recibe 80 de daño
+Inugami termina con HP:104/214
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Lorelei HP:291/291 MP:283/283
+C-Qing Niuguai HP:398/407 MP:64/81
+D-Girimekhala HP:653/653 MP:130/130
+Equipo de Kei (J2)
+A-Kei HP:720/760 MP:398/398
+B-Ometeotl HP:188/324 MP:315/315
+C-Inugami HP:104/214 MP:109/109
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+2-Girimekhala
+3-Lorelei
+4-Qing Niuguai
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Kei HP:720/760 MP:398/398
+2-Ometeotl HP:188/324 MP:315/315
+3-Inugami HP:104/214 MP:109/109
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Kei HP:720/760 MP:398/398
+2-Ometeotl HP:188/324 MP:315/315
+3-Inugami HP:104/214 MP:109/109
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Tamaki ataca a Ometeotl
+Ometeotl recibe 18 de daño
+Ometeotl termina con HP:170/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Lorelei HP:291/291 MP:283/283
+C-Qing Niuguai HP:398/407 MP:64/81
+D-Girimekhala HP:653/653 MP:130/130
+Equipo de Kei (J2)
+A-Kei HP:720/760 MP:398/398
+B-Ometeotl HP:170/324 MP:315/315
+C-Inugami HP:104/214 MP:109/109
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Lorelei
+3-Qing Niuguai
+4-Tamaki
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Lorelei HP:291/291 MP:283/283
+C-Qing Niuguai HP:398/407 MP:64/81
+D-Girimekhala HP:653/653 MP:130/130
+Equipo de Kei (J2)
+A-Kei HP:720/760 MP:398/398
+B-Ometeotl HP:170/324 MP:315/315
+C-Inugami HP:104/214 MP:109/109
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lorelei
+2-Qing Niuguai
+3-Tamaki
+4-Girimekhala
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lorelei use
+1-Mediarama MP:22
+2-Mabufula MP:20
+3-Panic Voice MP:15
+4-Makarakarn MP:50
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Lorelei cura a Tamaki
+Tamaki recibe 499 de HP
+Tamaki termina con HP:999/999
+Lorelei cura a Qing Niuguai
+Qing Niuguai recibe 203 de HP
+Qing Niuguai termina con HP:407/407
+Lorelei cura a Girimekhala
+Girimekhala recibe 326 de HP
+Girimekhala termina con HP:653/653
+Lorelei cura a Lorelei
+Lorelei recibe 145 de HP
+Lorelei termina con HP:291/291
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Lorelei HP:291/291 MP:261/283
+C-Qing Niuguai HP:407/407 MP:64/81
+D-Girimekhala HP:653/653 MP:130/130
+Equipo de Kei (J2)
+A-Kei HP:720/760 MP:398/398
+B-Ometeotl HP:170/324 MP:315/315
+C-Inugami HP:104/214 MP:109/109
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Inugami
+3-Kei
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Lorelei HP:291/291 MP:261/283
+C-Qing Niuguai HP:407/407 MP:64/81
+D-Girimekhala HP:653/653 MP:130/130
+Equipo de Kei (J2)
+A-Kei HP:720/760 MP:398/398
+B-Ometeotl HP:170/324 MP:315/315
+C-Inugami HP:104/214 MP:109/109
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Inugami
+2-Kei
+3-Ometeotl
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Tamaki HP:999/999 MP:542/542
+2-Lorelei HP:291/291 MP:261/283
+3-Qing Niuguai HP:407/407 MP:64/81
+4-Girimekhala HP:653/653 MP:130/130
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Inugami ataca a Tamaki
+Tamaki es resistente el ataque de Inugami
+Tamaki recibe 8 de daño
+Tamaki termina con HP:991/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:991/999 MP:542/542
+B-Lorelei HP:291/291 MP:261/283
+C-Qing Niuguai HP:407/407 MP:64/81
+D-Girimekhala HP:653/653 MP:130/130
+Equipo de Kei (J2)
+A-Kei HP:720/760 MP:398/398
+B-Ometeotl HP:170/324 MP:315/315
+C-Inugami HP:104/214 MP:109/109
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Ometeotl
+3-Inugami
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:991/999 MP:542/542
+B-Lorelei HP:291/291 MP:261/283
+C-Qing Niuguai HP:407/407 MP:64/81
+D-Girimekhala HP:653/653 MP:130/130
+Equipo de Kei (J2)
+A-Kei HP:720/760 MP:398/398
+B-Ometeotl HP:170/324 MP:315/315
+C-Inugami HP:104/214 MP:109/109
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Inugami
+3-Kei
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ometeotl use
+1-Agidyne MP:14
+2-Recarmdra MP:2
+3-Bufudyne MP:14
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ometeotl
+1-Tamaki HP:991/999 MP:542/542
+2-Lorelei HP:291/291 MP:261/283
+3-Qing Niuguai HP:407/407 MP:64/81
+4-Girimekhala HP:653/653 MP:130/130
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Ometeotl lanza fuego a Lorelei
+Lorelei es débil contra el ataque de Ometeotl
+Lorelei recibe 195 de daño
+Lorelei termina con HP:96/291
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:991/999 MP:542/542
+B-Lorelei HP:96/291 MP:261/283
+C-Qing Niuguai HP:407/407 MP:64/81
+D-Girimekhala HP:653/653 MP:130/130
+Equipo de Kei (J2)
+A-Kei HP:720/760 MP:398/398
+B-Ometeotl HP:170/324 MP:301/315
+C-Inugami HP:104/214 MP:109/109
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Inugami
+2-Kei
+3-Ometeotl
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:991/999 MP:542/542
+B-Lorelei HP:96/291 MP:261/283
+C-Qing Niuguai HP:407/407 MP:64/81
+D-Girimekhala HP:653/653 MP:130/130
+Equipo de Kei (J2)
+A-Kei HP:720/760 MP:398/398
+B-Ometeotl HP:170/324 MP:301/315
+C-Inugami HP:104/214 MP:109/109
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kei
+2-Ometeotl
+3-Inugami
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Tamaki HP:991/999 MP:542/542
+2-Lorelei HP:96/291 MP:261/283
+3-Qing Niuguai HP:407/407 MP:64/81
+4-Girimekhala HP:653/653 MP:130/130
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kei dispara a Qing Niuguai
+Qing Niuguai recibe 15 de daño
+Qing Niuguai termina con HP:392/407
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:991/999 MP:542/542
+B-Lorelei HP:96/291 MP:261/283
+C-Qing Niuguai HP:392/407 MP:64/81
+D-Girimekhala HP:653/653 MP:130/130
+Equipo de Kei (J2)
+A-Kei HP:720/760 MP:398/398
+B-Ometeotl HP:170/324 MP:301/315
+C-Inugami HP:104/214 MP:109/109
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Lorelei
+3-Qing Niuguai
+4-Tamaki
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Girimekhala use
+1-Poison Breath MP:11
+2-Titanomachia MP:30
+3-Mabufudyne MP:32
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Girimekhala lanza hielo a Kei
+Kei es resistente el ataque de Girimekhala
+Kei recibe 50 de daño
+Kei termina con HP:670/760
+Girimekhala lanza hielo a Ometeotl
+Ometeotl es resistente el ataque de Girimekhala
+Ometeotl recibe 50 de daño
+Ometeotl termina con HP:120/324
+Girimekhala lanza hielo a Inugami
+Inugami recibe 100 de daño
+Inugami termina con HP:4/214
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:991/999 MP:542/542
+B-Lorelei HP:96/291 MP:261/283
+C-Qing Niuguai HP:392/407 MP:64/81
+D-Girimekhala HP:653/653 MP:98/130
+Equipo de Kei (J2)
+A-Kei HP:670/760 MP:398/398
+B-Ometeotl HP:120/324 MP:301/315
+C-Inugami HP:4/214 MP:109/109
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Lorelei
+2-Qing Niuguai
+3-Tamaki
+4-Girimekhala
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Huang Di HP:621/672 MP:301/301
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Huang Di ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:991/999 MP:542/542
+B-Huang Di HP:621/672 MP:301/301
+C-Qing Niuguai HP:392/407 MP:64/81
+D-Girimekhala HP:653/653 MP:98/130
+Equipo de Kei (J2)
+A-Kei HP:670/760 MP:398/398
+B-Ometeotl HP:120/324 MP:301/315
+C-Inugami HP:4/214 MP:109/109
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Qing Niuguai
+2-Tamaki
+3-Girimekhala
+4-Huang Di
+----------------------------------------
+Seleccione una acción para Qing Niuguai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:991/999 MP:542/542
+B-Huang Di HP:621/672 MP:301/301
+C-Qing Niuguai HP:392/407 MP:64/81
+D-Girimekhala HP:653/653 MP:98/130
+Equipo de Kei (J2)
+A-Kei HP:670/760 MP:398/398
+B-Ometeotl HP:120/324 MP:301/315
+C-Inugami HP:4/214 MP:109/109
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+2-Girimekhala
+3-Huang Di
+4-Qing Niuguai
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Kei HP:670/760 MP:398/398
+2-Ometeotl HP:120/324 MP:301/315
+3-Inugami HP:4/214 MP:109/109
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Kei HP:670/760 MP:398/398
+2-Ometeotl HP:120/324 MP:301/315
+3-Inugami HP:4/214 MP:109/109
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Tamaki dispara a Ometeotl
+Ometeotl recibe 15 de daño
+Ometeotl termina con HP:105/324
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:991/999 MP:542/542
+B-Huang Di HP:621/672 MP:301/301
+C-Qing Niuguai HP:392/407 MP:64/81
+D-Girimekhala HP:653/653 MP:98/130
+Equipo de Kei (J2)
+A-Kei HP:670/760 MP:398/398
+B-Ometeotl HP:105/324 MP:301/315
+C-Inugami HP:4/214 MP:109/109
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Huang Di
+3-Qing Niuguai
+4-Tamaki
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Girimekhala
+1-Kei HP:670/760 MP:398/398
+2-Ometeotl HP:105/324 MP:301/315
+3-Inugami HP:4/214 MP:109/109
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Girimekhala ataca a Kei
+Kei es resistente el ataque de Girimekhala
+Kei recibe 24 de daño
+Kei termina con HP:646/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:991/999 MP:542/542
+B-Huang Di HP:621/672 MP:301/301
+C-Qing Niuguai HP:392/407 MP:64/81
+D-Girimekhala HP:653/653 MP:98/130
+Equipo de Kei (J2)
+A-Kei HP:646/760 MP:398/398
+B-Ometeotl HP:105/324 MP:301/315
+C-Inugami HP:4/214 MP:109/109
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Inugami
+3-Kei
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:991/999 MP:542/542
+B-Huang Di HP:621/672 MP:301/301
+C-Qing Niuguai HP:392/407 MP:64/81
+D-Girimekhala HP:653/653 MP:98/130
+Equipo de Kei (J2)
+A-Kei HP:646/760 MP:398/398
+B-Ometeotl HP:105/324 MP:301/315
+C-Inugami HP:4/214 MP:109/109
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Inugami
+2-Kei
+3-Ometeotl
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Tamaki HP:991/999 MP:542/542
+2-Huang Di HP:621/672 MP:301/301
+3-Qing Niuguai HP:392/407 MP:64/81
+4-Girimekhala HP:653/653 MP:98/130
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Inugami ataca a Tamaki
+Tamaki es resistente el ataque de Inugami
+Tamaki recibe 8 de daño
+Tamaki termina con HP:983/999
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:983/999 MP:542/542
+B-Huang Di HP:621/672 MP:301/301
+C-Qing Niuguai HP:392/407 MP:64/81
+D-Girimekhala HP:653/653 MP:98/130
+Equipo de Kei (J2)
+A-Kei HP:646/760 MP:398/398
+B-Ometeotl HP:105/324 MP:301/315
+C-Inugami HP:4/214 MP:109/109
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+2-Ometeotl
+3-Inugami
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Tamaki HP:983/999 MP:542/542
+2-Huang Di HP:621/672 MP:301/301
+3-Qing Niuguai HP:392/407 MP:64/81
+4-Girimekhala HP:653/653 MP:98/130
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Kei dispara a Huang Di
+Huang Di recibe 15 de daño
+Huang Di termina con HP:606/672
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:983/999 MP:542/542
+B-Huang Di HP:606/672 MP:301/301
+C-Qing Niuguai HP:392/407 MP:64/81
+D-Girimekhala HP:653/653 MP:98/130
+Equipo de Kei (J2)
+A-Kei HP:646/760 MP:398/398
+B-Ometeotl HP:105/324 MP:301/315
+C-Inugami HP:4/214 MP:109/109
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ometeotl
+2-Inugami
+3-Kei
+----------------------------------------
+Seleccione una acción para Ometeotl
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:983/999 MP:542/542
+B-Huang Di HP:606/672 MP:301/301
+C-Qing Niuguai HP:392/407 MP:64/81
+D-Girimekhala HP:653/653 MP:98/130
+Equipo de Kei (J2)
+A-Kei HP:646/760 MP:398/398
+B-Ometeotl HP:105/324 MP:301/315
+C-Inugami HP:4/214 MP:109/109
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Inugami
+2-Kei
+3-Ometeotl
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:983/999 MP:542/542
+B-Huang Di HP:606/672 MP:301/301
+C-Qing Niuguai HP:392/407 MP:64/81
+D-Girimekhala HP:653/653 MP:98/130
+Equipo de Kei (J2)
+A-Kei HP:646/760 MP:398/398
+B-Ometeotl HP:105/324 MP:301/315
+C-Inugami HP:4/214 MP:109/109
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Huang Di
+2-Girimekhala
+3-Qing Niuguai
+4-Tamaki
+----------------------------------------
+Seleccione una acción para Huang Di
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:983/999 MP:542/542
+B-Huang Di HP:606/672 MP:301/301
+C-Qing Niuguai HP:392/407 MP:64/81
+D-Girimekhala HP:653/653 MP:98/130
+Equipo de Kei (J2)
+A-Kei HP:646/760 MP:398/398
+B-Ometeotl HP:105/324 MP:301/315
+C-Inugami HP:4/214 MP:109/109
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Qing Niuguai
+3-Tamaki
+4-Huang Di
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Girimekhala use
+1-Poison Breath MP:11
+2-Titanomachia MP:30
+3-Mabufudyne MP:32
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Girimekhala ataca a Kei
+Kei es resistente el ataque de Girimekhala
+Kei recibe 62 de daño
+Kei termina con HP:584/760
+Girimekhala ataca a Ometeotl
+Ometeotl recibe 125 de daño
+Ometeotl termina con HP:0/324
+Girimekhala ataca a Inugami
+Inugami recibe 125 de daño
+Inugami termina con HP:0/214
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:983/999 MP:542/542
+B-Huang Di HP:606/672 MP:301/301
+C-Qing Niuguai HP:392/407 MP:64/81
+D-Girimekhala HP:653/653 MP:68/130
+Equipo de Kei (J2)
+A-Kei HP:584/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Qing Niuguai
+2-Tamaki
+3-Huang Di
+4-Girimekhala
+----------------------------------------
+Seleccione una acción para Qing Niuguai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Qing Niuguai use
+1-Rakukaja MP:15
+2-Megaton Press MP:17
+3-Silent Prayer MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Qing Niuguai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lorelei HP:96/291 MP:261/283
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Qing Niuguai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Qing Niuguai use
+1-Rakukaja MP:15
+2-Megaton Press MP:17
+3-Silent Prayer MP:15
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Qing Niuguai ataca a Kei
+Kei es resistente el ataque de Qing Niuguai
+Kei recibe 40 de daño
+Kei termina con HP:544/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:983/999 MP:542/542
+B-Huang Di HP:606/672 MP:301/301
+C-Qing Niuguai HP:392/407 MP:47/81
+D-Girimekhala HP:653/653 MP:68/130
+Equipo de Kei (J2)
+A-Kei HP:544/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+2-Huang Di
+3-Girimekhala
+4-Qing Niuguai
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Trafuri MP:5
+2-Agi MP:5
+3-Zandyne MP:14
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Kei HP:544/760 MP:398/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lorelei HP:96/291 MP:261/283
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Trafuri MP:5
+2-Agi MP:5
+3-Zandyne MP:14
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Kei HP:544/760 MP:398/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lorelei HP:96/291 MP:261/283
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Kei HP:544/760 MP:398/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tamaki dispara a Kei
+Kei es resistente el ataque de Tamaki
+Kei recibe 7 de daño
+Kei termina con HP:537/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:983/999 MP:542/542
+B-Huang Di HP:606/672 MP:301/301
+C-Qing Niuguai HP:392/407 MP:47/81
+D-Girimekhala HP:653/653 MP:68/130
+Equipo de Kei (J2)
+A-Kei HP:537/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Huang Di
+2-Girimekhala
+3-Qing Niuguai
+4-Tamaki
+----------------------------------------
+Seleccione una acción para Huang Di
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Huang Di
+1-Kei HP:537/760 MP:398/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Huang Di ataca a Kei
+Kei es resistente el ataque de Huang Di
+Kei recibe 28 de daño
+Kei termina con HP:509/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:983/999 MP:542/542
+B-Huang Di HP:606/672 MP:301/301
+C-Qing Niuguai HP:392/407 MP:47/81
+D-Girimekhala HP:653/653 MP:68/130
+Equipo de Kei (J2)
+A-Kei HP:509/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Tamaki HP:983/999 MP:542/542
+2-Huang Di HP:606/672 MP:301/301
+3-Qing Niuguai HP:392/407 MP:47/81
+4-Girimekhala HP:653/653 MP:68/130
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Kei dispara a Tamaki
+Tamaki es resistente el ataque de Kei
+Tamaki recibe 7 de daño
+Tamaki termina con HP:976/999
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:976/999 MP:542/542
+B-Huang Di HP:606/672 MP:301/301
+C-Qing Niuguai HP:392/407 MP:47/81
+D-Girimekhala HP:653/653 MP:68/130
+Equipo de Kei (J2)
+A-Kei HP:509/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Huang Di
+2-Girimekhala
+3-Qing Niuguai
+4-Tamaki
+----------------------------------------
+Seleccione una acción para Huang Di
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:976/999 MP:542/542
+B-Huang Di HP:606/672 MP:301/301
+C-Qing Niuguai HP:392/407 MP:47/81
+D-Girimekhala HP:653/653 MP:68/130
+Equipo de Kei (J2)
+A-Kei HP:509/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Qing Niuguai
+3-Tamaki
+4-Huang Di
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Girimekhala
+1-Kei HP:509/760 MP:398/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Girimekhala ataca a Kei
+Kei es resistente el ataque de Girimekhala
+Kei recibe 24 de daño
+Kei termina con HP:485/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:976/999 MP:542/542
+B-Huang Di HP:606/672 MP:301/301
+C-Qing Niuguai HP:392/407 MP:47/81
+D-Girimekhala HP:653/653 MP:68/130
+Equipo de Kei (J2)
+A-Kei HP:485/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Qing Niuguai
+2-Tamaki
+3-Huang Di
+4-Girimekhala
+----------------------------------------
+Seleccione una acción para Qing Niuguai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lorelei HP:96/291 MP:261/283
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Qing Niuguai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:976/999 MP:542/542
+B-Huang Di HP:606/672 MP:301/301
+C-Qing Niuguai HP:392/407 MP:47/81
+D-Girimekhala HP:653/653 MP:68/130
+Equipo de Kei (J2)
+A-Kei HP:485/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Huang Di
+3-Girimekhala
+4-Qing Niuguai
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Kei HP:485/760 MP:398/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Tamaki dispara a Kei
+Kei es resistente el ataque de Tamaki
+Kei recibe 7 de daño
+Kei termina con HP:478/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:976/999 MP:542/542
+B-Huang Di HP:606/672 MP:301/301
+C-Qing Niuguai HP:392/407 MP:47/81
+D-Girimekhala HP:653/653 MP:68/130
+Equipo de Kei (J2)
+A-Kei HP:478/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Huang Di
+2-Girimekhala
+3-Qing Niuguai
+4-Tamaki
+----------------------------------------
+Seleccione una acción para Huang Di
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lorelei HP:96/291 MP:261/283
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Huang Di
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Huang Di use
+1-Judgement MP:45
+2-Mediarahan MP:40
+3-Amrita MP:20
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Huang Di lanza un ataque todo poderoso a Kei
+Kei recibe 121 de daño
+Kei termina con HP:357/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:976/999 MP:542/542
+B-Huang Di HP:606/672 MP:256/301
+C-Qing Niuguai HP:392/407 MP:47/81
+D-Girimekhala HP:653/653 MP:68/130
+Equipo de Kei (J2)
+A-Kei HP:357/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Qing Niuguai
+3-Tamaki
+4-Huang Di
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Girimekhala
+1-Kei HP:357/760 MP:398/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Girimekhala ataca a Kei
+Kei es resistente el ataque de Girimekhala
+Kei recibe 24 de daño
+Kei termina con HP:333/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:976/999 MP:542/542
+B-Huang Di HP:606/672 MP:256/301
+C-Qing Niuguai HP:392/407 MP:47/81
+D-Girimekhala HP:653/653 MP:68/130
+Equipo de Kei (J2)
+A-Kei HP:333/760 MP:398/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Tamaki HP:976/999 MP:542/542
+2-Huang Di HP:606/672 MP:256/301
+3-Qing Niuguai HP:392/407 MP:47/81
+4-Girimekhala HP:653/653 MP:68/130
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Defender's Gaze MP:255
+2-Iron Judgement MP:8
+3-Ragnarok MP:35
+4-Mudo MP:6
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kei use
+1-Defender's Gaze MP:255
+2-Iron Judgement MP:8
+3-Ragnarok MP:35
+4-Mudo MP:6
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kei lanza fuego a Tamaki
+Tamaki es resistente el ataque de Kei
+Tamaki recibe 42 de daño
+Tamaki termina con HP:934/999
+Kei lanza fuego a Huang Di
+Huang Di es resistente el ataque de Kei
+Huang Di recibe 42 de daño
+Huang Di termina con HP:564/672
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:934/999 MP:542/542
+B-Huang Di HP:564/672 MP:256/301
+C-Qing Niuguai HP:392/407 MP:47/81
+D-Girimekhala HP:653/653 MP:68/130
+Equipo de Kei (J2)
+A-Kei HP:333/760 MP:363/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Huang Di
+2-Girimekhala
+3-Qing Niuguai
+4-Tamaki
+----------------------------------------
+Seleccione una acción para Huang Di
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Huang Di use
+1-Judgement MP:45
+2-Mediarahan MP:40
+3-Amrita MP:20
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Huang Di
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lorelei HP:96/291 MP:261/283
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Huang Di
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Huang Di
+1-Kei HP:333/760 MP:363/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Huang Di ataca a Kei
+Kei es resistente el ataque de Huang Di
+Kei recibe 28 de daño
+Kei termina con HP:305/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:934/999 MP:542/542
+B-Huang Di HP:564/672 MP:256/301
+C-Qing Niuguai HP:392/407 MP:47/81
+D-Girimekhala HP:653/653 MP:68/130
+Equipo de Kei (J2)
+A-Kei HP:305/760 MP:363/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Qing Niuguai
+3-Tamaki
+4-Huang Di
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Girimekhala
+1-Kei HP:305/760 MP:363/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Girimekhala ataca a Kei
+Kei es resistente el ataque de Girimekhala
+Kei recibe 24 de daño
+Kei termina con HP:281/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:934/999 MP:542/542
+B-Huang Di HP:564/672 MP:256/301
+C-Qing Niuguai HP:392/407 MP:47/81
+D-Girimekhala HP:653/653 MP:68/130
+Equipo de Kei (J2)
+A-Kei HP:281/760 MP:363/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Qing Niuguai
+2-Tamaki
+3-Huang Di
+4-Girimekhala
+----------------------------------------
+Seleccione una acción para Qing Niuguai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:934/999 MP:542/542
+B-Huang Di HP:564/672 MP:256/301
+C-Qing Niuguai HP:392/407 MP:47/81
+D-Girimekhala HP:653/653 MP:68/130
+Equipo de Kei (J2)
+A-Kei HP:281/760 MP:363/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tamaki
+2-Huang Di
+3-Girimekhala
+4-Qing Niuguai
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tamaki
+1-Kei HP:281/760 MP:363/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:934/999 MP:542/542
+B-Huang Di HP:564/672 MP:256/301
+C-Qing Niuguai HP:392/407 MP:47/81
+D-Girimekhala HP:653/653 MP:68/130
+Equipo de Kei (J2)
+A-Kei HP:281/760 MP:363/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Huang Di
+2-Girimekhala
+3-Qing Niuguai
+4-Tamaki
+----------------------------------------
+Seleccione una acción para Huang Di
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Huang Di
+1-Kei HP:281/760 MP:363/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Huang Di ataca a Kei
+Kei es resistente el ataque de Huang Di
+Kei recibe 28 de daño
+Kei termina con HP:253/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:934/999 MP:542/542
+B-Huang Di HP:564/672 MP:256/301
+C-Qing Niuguai HP:392/407 MP:47/81
+D-Girimekhala HP:653/653 MP:68/130
+Equipo de Kei (J2)
+A-Kei HP:253/760 MP:363/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Tamaki HP:934/999 MP:542/542
+2-Huang Di HP:564/672 MP:256/301
+3-Qing Niuguai HP:392/407 MP:47/81
+4-Girimekhala HP:653/653 MP:68/130
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kei dispara a Qing Niuguai
+Qing Niuguai recibe 15 de daño
+Qing Niuguai termina con HP:377/407
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:934/999 MP:542/542
+B-Huang Di HP:564/672 MP:256/301
+C-Qing Niuguai HP:377/407 MP:47/81
+D-Girimekhala HP:653/653 MP:68/130
+Equipo de Kei (J2)
+A-Kei HP:253/760 MP:363/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Huang Di
+2-Girimekhala
+3-Qing Niuguai
+4-Tamaki
+----------------------------------------
+Seleccione una acción para Huang Di
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Huang Di
+1-Kei HP:253/760 MP:363/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Huang Di ataca a Kei
+Kei es resistente el ataque de Huang Di
+Kei recibe 28 de daño
+Kei termina con HP:225/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:934/999 MP:542/542
+B-Huang Di HP:564/672 MP:256/301
+C-Qing Niuguai HP:377/407 MP:47/81
+D-Girimekhala HP:653/653 MP:68/130
+Equipo de Kei (J2)
+A-Kei HP:225/760 MP:363/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Qing Niuguai
+3-Tamaki
+4-Huang Di
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:934/999 MP:542/542
+B-Huang Di HP:564/672 MP:256/301
+C-Qing Niuguai HP:377/407 MP:47/81
+D-Girimekhala HP:653/653 MP:68/130
+Equipo de Kei (J2)
+A-Kei HP:225/760 MP:363/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Qing Niuguai
+2-Tamaki
+3-Huang Di
+4-Girimekhala
+----------------------------------------
+Seleccione una acción para Qing Niuguai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:934/999 MP:542/542
+B-Huang Di HP:564/672 MP:256/301
+C-Qing Niuguai HP:377/407 MP:47/81
+D-Girimekhala HP:653/653 MP:68/130
+Equipo de Kei (J2)
+A-Kei HP:225/760 MP:363/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+2-Huang Di
+3-Girimekhala
+4-Qing Niuguai
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Lorelei HP:96/291 MP:261/283
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Huang Di HP:564/672 MP:256/301 (Puesto 2)
+2-Qing Niuguai HP:377/407 MP:47/81 (Puesto 3)
+3-Girimekhala HP:653/653 MP:68/130 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Lorelei ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:934/999 MP:542/542
+B-Huang Di HP:564/672 MP:256/301
+C-Lorelei HP:96/291 MP:261/283
+D-Girimekhala HP:653/653 MP:68/130
+Equipo de Kei (J2)
+A-Kei HP:225/760 MP:363/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Huang Di
+2-Girimekhala
+3-Lorelei
+4-Tamaki
+----------------------------------------
+Seleccione una acción para Huang Di
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:934/999 MP:542/542
+B-Huang Di HP:564/672 MP:256/301
+C-Lorelei HP:96/291 MP:261/283
+D-Girimekhala HP:653/653 MP:68/130
+Equipo de Kei (J2)
+A-Kei HP:225/760 MP:363/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Lorelei
+3-Tamaki
+4-Huang Di
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Girimekhala use
+1-Poison Breath MP:11
+2-Titanomachia MP:30
+3-Mabufudyne MP:32
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Girimekhala ataca a Kei
+Kei es resistente el ataque de Girimekhala
+Kei recibe 62 de daño
+Kei termina con HP:163/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:934/999 MP:542/542
+B-Huang Di HP:564/672 MP:256/301
+C-Lorelei HP:96/291 MP:261/283
+D-Girimekhala HP:653/653 MP:38/130
+Equipo de Kei (J2)
+A-Kei HP:163/760 MP:363/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Tamaki HP:934/999 MP:542/542
+2-Huang Di HP:564/672 MP:256/301
+3-Lorelei HP:96/291 MP:261/283
+4-Girimekhala HP:653/653 MP:38/130
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Kei dispara a Girimekhala
+Girimekhala absorbe 15 daño
+Girimekhala termina con HP:653/653
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:934/999 MP:542/542
+B-Huang Di HP:564/672 MP:256/301
+C-Lorelei HP:96/291 MP:261/283
+D-Girimekhala HP:653/653 MP:38/130
+Equipo de Kei (J2)
+A-Kei HP:163/760 MP:363/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Huang Di
+2-Girimekhala
+3-Lorelei
+4-Tamaki
+----------------------------------------
+Seleccione una acción para Huang Di
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Huang Di use
+1-Judgement MP:45
+2-Mediarahan MP:40
+3-Amrita MP:20
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Huang Di cura a Tamaki
+Tamaki recibe 999 de HP
+Tamaki termina con HP:999/999
+Huang Di cura a Lorelei
+Lorelei recibe 291 de HP
+Lorelei termina con HP:291/291
+Huang Di cura a Girimekhala
+Girimekhala recibe 653 de HP
+Girimekhala termina con HP:653/653
+Huang Di cura a Huang Di
+Huang Di recibe 672 de HP
+Huang Di termina con HP:672/672
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Huang Di HP:672/672 MP:216/301
+C-Lorelei HP:291/291 MP:261/283
+D-Girimekhala HP:653/653 MP:38/130
+Equipo de Kei (J2)
+A-Kei HP:163/760 MP:363/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Lorelei
+3-Tamaki
+4-Huang Di
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Girimekhala
+1-Kei HP:163/760 MP:363/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Huang Di HP:672/672 MP:216/301
+C-Lorelei HP:291/291 MP:261/283
+D-Girimekhala HP:653/653 MP:38/130
+Equipo de Kei (J2)
+A-Kei HP:163/760 MP:363/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lorelei
+2-Tamaki
+3-Huang Di
+4-Girimekhala
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lorelei
+1-Kei HP:163/760 MP:363/398
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Lorelei ataca a Kei
+Kei es resistente el ataque de Lorelei
+Kei recibe 15 de daño
+Kei termina con HP:148/760
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Huang Di HP:672/672 MP:216/301
+C-Lorelei HP:291/291 MP:261/283
+D-Girimekhala HP:653/653 MP:38/130
+Equipo de Kei (J2)
+A-Kei HP:148/760 MP:363/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+2-Huang Di
+3-Girimekhala
+4-Lorelei
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Huang Di HP:672/672 MP:216/301
+C-Lorelei HP:291/291 MP:261/283
+D-Girimekhala HP:653/653 MP:38/130
+Equipo de Kei (J2)
+A-Kei HP:148/760 MP:363/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Huang Di
+2-Girimekhala
+3-Lorelei
+4-Tamaki
+----------------------------------------
+Seleccione una acción para Huang Di
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Huang Di
+1-Kei HP:148/760 MP:363/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Huang Di
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Qing Niuguai HP:377/407 MP:47/81
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Qing Niuguai ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Qing Niuguai HP:377/407 MP:47/81
+C-Lorelei HP:291/291 MP:261/283
+D-Girimekhala HP:653/653 MP:38/130
+Equipo de Kei (J2)
+A-Kei HP:148/760 MP:363/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Girimekhala
+2-Lorelei
+3-Tamaki
+4-Qing Niuguai
+----------------------------------------
+Seleccione una acción para Girimekhala
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Huang Di HP:672/672 MP:216/301
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Huang Di ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Qing Niuguai HP:377/407 MP:47/81
+C-Lorelei HP:291/291 MP:261/283
+D-Huang Di HP:672/672 MP:216/301
+Equipo de Kei (J2)
+A-Kei HP:148/760 MP:363/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lorelei
+2-Tamaki
+3-Qing Niuguai
+4-Huang Di
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Girimekhala HP:653/653 MP:38/130
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kei (J2)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Qing Niuguai HP:377/407 MP:47/81
+C-Lorelei HP:291/291 MP:261/283
+D-Huang Di HP:672/672 MP:216/301
+Equipo de Kei (J2)
+A-Kei HP:148/760 MP:363/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kei
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Tamaki HP:999/999 MP:542/542
+2-Qing Niuguai HP:377/407 MP:47/81
+3-Lorelei HP:291/291 MP:261/283
+4-Huang Di HP:672/672 MP:216/301
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Kei
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Kei
+1-Tamaki HP:999/999 MP:542/542
+2-Qing Niuguai HP:377/407 MP:47/81
+3-Lorelei HP:291/291 MP:261/283
+4-Huang Di HP:672/672 MP:216/301
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kei dispara a Lorelei
+Lorelei recibe 15 de daño
+Lorelei termina con HP:276/291
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Tamaki (J1)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Qing Niuguai HP:377/407 MP:47/81
+C-Lorelei HP:276/291 MP:261/283
+D-Huang Di HP:672/672 MP:216/301
+Equipo de Kei (J2)
+A-Kei HP:148/760 MP:363/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Huang Di
+2-Lorelei
+3-Qing Niuguai
+4-Tamaki
+----------------------------------------
+Seleccione una acción para Huang Di
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Qing Niuguai HP:377/407 MP:47/81
+C-Lorelei HP:276/291 MP:261/283
+D-Huang Di HP:672/672 MP:216/301
+Equipo de Kei (J2)
+A-Kei HP:148/760 MP:363/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Lorelei
+2-Qing Niuguai
+3-Tamaki
+4-Huang Di
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Girimekhala HP:653/653 MP:38/130
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Lorelei
+1-Kei HP:148/760 MP:363/398
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Girimekhala HP:653/653 MP:38/130
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Lorelei
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Lorelei use
+1-Mediarama MP:22
+2-Mabufula MP:20
+3-Panic Voice MP:15
+4-Makarakarn MP:50
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Lorelei cura a Tamaki
+Tamaki recibe 499 de HP
+Tamaki termina con HP:999/999
+Lorelei cura a Qing Niuguai
+Qing Niuguai recibe 203 de HP
+Qing Niuguai termina con HP:407/407
+Lorelei cura a Huang Di
+Huang Di recibe 336 de HP
+Huang Di termina con HP:672/672
+Lorelei cura a Lorelei
+Lorelei recibe 145 de HP
+Lorelei termina con HP:291/291
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Qing Niuguai HP:407/407 MP:47/81
+C-Lorelei HP:291/291 MP:239/283
+D-Huang Di HP:672/672 MP:216/301
+Equipo de Kei (J2)
+A-Kei HP:148/760 MP:363/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Qing Niuguai
+2-Tamaki
+3-Huang Di
+4-Lorelei
+----------------------------------------
+Seleccione una acción para Qing Niuguai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Qing Niuguai use
+1-Rakukaja MP:15
+2-Megaton Press MP:17
+3-Silent Prayer MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Qing Niuguai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Qing Niuguai use
+1-Rakukaja MP:15
+2-Megaton Press MP:17
+3-Silent Prayer MP:15
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Qing Niuguai ataca a Kei
+Kei es resistente el ataque de Qing Niuguai
+Kei recibe 40 de daño
+Kei termina con HP:108/760
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Tamaki (J1)
+A-Tamaki HP:999/999 MP:542/542
+B-Qing Niuguai HP:407/407 MP:30/81
+C-Lorelei HP:291/291 MP:239/283
+D-Huang Di HP:672/672 MP:216/301
+Equipo de Kei (J2)
+A-Kei HP:108/760 MP:363/398
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Tamaki
+2-Huang Di
+3-Lorelei
+4-Qing Niuguai
+----------------------------------------
+Seleccione una acción para Tamaki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Tamaki use
+1-Trafuri MP:5
+2-Agi MP:5
+3-Zandyne MP:14
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Tamaki (J1) se rinde
+----------------------------------------
+Ganador: Kei (J2)

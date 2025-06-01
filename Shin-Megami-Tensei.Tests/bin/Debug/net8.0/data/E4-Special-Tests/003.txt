@@ -1,0 +1,936 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+INPUT: 2
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Kanbari HP:350/350 MP:68/68
+C-Alciel HP:719/719 MP:143/143
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Nebiros HP:249/249 MP:242/242
+C-Berserker HP:690/690 MP:136/136
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alciel
+2-Kotone
+3-Dormarth
+4-Kanbari
+----------------------------------------
+Seleccione una acción para Alciel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alciel
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Nebiros HP:249/249 MP:242/242
+3-Berserker HP:690/690 MP:136/136
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Alciel ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Alciel
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Kanbari HP:350/350 MP:68/68
+C-Alciel HP:719/719 MP:143/143
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Nebiros HP:249/249 MP:242/242
+C-Berserker HP:690/690 MP:136/136
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Dormarth
+3-Kanbari
+4-Alciel
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Nebiros HP:249/249 MP:242/242
+3-Berserker HP:690/690 MP:136/136
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kotone ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Kotone
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Kanbari HP:350/350 MP:68/68
+C-Alciel HP:719/719 MP:143/143
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Nebiros HP:249/249 MP:242/242
+C-Berserker HP:690/690 MP:136/136
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Berserker
+3-Nebiros
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Kotone HP:597/597 MP:347/347
+2-Kanbari HP:350/350 MP:68/68
+3-Alciel HP:719/719 MP:143/143
+4-Dormarth HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Demi-Fiend ataca a Kanbari
+Kanbari es débil contra el ataque de Demi-Fiend
+Kanbari recibe 252 de daño
+Kanbari termina con HP:98/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Kanbari HP:98/350 MP:68/68
+C-Alciel HP:719/719 MP:143/143
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Nebiros HP:249/249 MP:242/242
+C-Berserker HP:690/690 MP:136/136
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Berserker
+2-Nebiros
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Berserker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Berserker
+1-Kotone HP:597/597 MP:347/347
+2-Kanbari HP:98/350 MP:68/68
+3-Alciel HP:719/719 MP:143/143
+4-Dormarth HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Berserker ataca a Kanbari
+Kanbari es débil contra el ataque de Berserker
+Kanbari recibe 79 de daño
+Kanbari termina con HP:19/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Kanbari HP:19/350 MP:68/68
+C-Alciel HP:719/719 MP:143/143
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Nebiros HP:249/249 MP:242/242
+C-Berserker HP:690/690 MP:136/136
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Nebiros
+2-Demi-Fiend
+3-Berserker
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Kotone HP:597/597 MP:347/347
+2-Kanbari HP:19/350 MP:68/68
+3-Alciel HP:719/719 MP:143/143
+4-Dormarth HP:277/277 MP:269/269
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Nebiros ataca a Kanbari
+Kanbari es débil contra el ataque de Nebiros
+Kanbari recibe 39 de daño
+Kanbari termina con HP:0/350
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-
+C-Alciel HP:719/719 MP:143/143
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Nebiros HP:249/249 MP:242/242
+C-Berserker HP:690/690 MP:136/136
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 3
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Berserker
+3-Nebiros
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Kotone HP:597/597 MP:347/347
+2-Alciel HP:719/719 MP:143/143
+3-Dormarth HP:277/277 MP:269/269
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Demi-Fiend ataca a Alciel
+Alciel es débil contra el ataque de Demi-Fiend
+Alciel recibe 252 de daño
+Alciel termina con HP:467/719
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-
+C-Alciel HP:467/719 MP:143/143
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Nebiros HP:249/249 MP:242/242
+C-Berserker HP:690/690 MP:136/136
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Berserker
+2-Nebiros
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Berserker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Berserker
+1-Kotone HP:597/597 MP:347/347
+2-Alciel HP:467/719 MP:143/143
+3-Dormarth HP:277/277 MP:269/269
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Berserker ataca a Alciel
+Alciel es débil contra el ataque de Berserker
+Alciel recibe 79 de daño
+Alciel termina con HP:388/719
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-
+C-Alciel HP:388/719 MP:143/143
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Nebiros HP:249/249 MP:242/242
+C-Berserker HP:690/690 MP:136/136
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nebiros
+2-Demi-Fiend
+3-Berserker
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Kotone HP:597/597 MP:347/347
+2-Alciel HP:388/719 MP:143/143
+3-Dormarth HP:277/277 MP:269/269
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nebiros ataca a Alciel
+Alciel es débil contra el ataque de Nebiros
+Alciel recibe 39 de daño
+Alciel termina con HP:349/719
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-
+C-Alciel HP:349/719 MP:143/143
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Nebiros HP:249/249 MP:242/242
+C-Berserker HP:690/690 MP:136/136
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Alciel
+2-Kotone
+3-Dormarth
+----------------------------------------
+Seleccione una acción para Alciel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alciel
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Nebiros HP:249/249 MP:242/242
+3-Berserker HP:690/690 MP:136/136
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Alciel ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Alciel
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-
+C-Alciel HP:349/719 MP:143/143
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Nebiros HP:249/249 MP:242/242
+C-Berserker HP:690/690 MP:136/136
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Dormarth
+3-Alciel
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kotone
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Nebiros HP:249/249 MP:242/242
+3-Berserker HP:690/690 MP:136/136
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kotone ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Kotone
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-
+C-Alciel HP:349/719 MP:143/143
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Nebiros HP:249/249 MP:242/242
+C-Berserker HP:690/690 MP:136/136
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Berserker
+3-Nebiros
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Kotone HP:597/597 MP:347/347
+2-Alciel HP:349/719 MP:143/143
+3-Dormarth HP:277/277 MP:269/269
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Demi-Fiend ataca a Alciel
+Alciel es débil contra el ataque de Demi-Fiend
+Alciel recibe 252 de daño
+Alciel termina con HP:97/719
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-
+C-Alciel HP:97/719 MP:143/143
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Nebiros HP:249/249 MP:242/242
+C-Berserker HP:690/690 MP:136/136
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Berserker
+2-Nebiros
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Berserker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Berserker
+1-Kotone HP:597/597 MP:347/347
+2-Alciel HP:97/719 MP:143/143
+3-Dormarth HP:277/277 MP:269/269
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Berserker ataca a Alciel
+Alciel es débil contra el ataque de Berserker
+Alciel recibe 79 de daño
+Alciel termina con HP:18/719
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-
+C-Alciel HP:18/719 MP:143/143
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Nebiros HP:249/249 MP:242/242
+C-Berserker HP:690/690 MP:136/136
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Nebiros
+2-Demi-Fiend
+3-Berserker
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Kotone HP:597/597 MP:347/347
+2-Alciel HP:18/719 MP:143/143
+3-Dormarth HP:277/277 MP:269/269
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nebiros ataca a Alciel
+Alciel es débil contra el ataque de Nebiros
+Alciel recibe 39 de daño
+Alciel termina con HP:0/719
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-
+C-
+D-Dormarth HP:277/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Nebiros HP:249/249 MP:242/242
+C-Berserker HP:690/690 MP:136/136
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 3
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Berserker
+3-Nebiros
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Kotone HP:597/597 MP:347/347
+2-Dormarth HP:277/277 MP:269/269
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Demi-Fiend ataca a Dormarth
+Dormarth recibe 168 de daño
+Dormarth termina con HP:109/277
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-
+C-
+D-Dormarth HP:109/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Nebiros HP:249/249 MP:242/242
+C-Berserker HP:690/690 MP:136/136
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Berserker
+2-Nebiros
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Berserker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Berserker
+1-Kotone HP:597/597 MP:347/347
+2-Dormarth HP:109/277 MP:269/269
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Berserker ataca a Dormarth
+Dormarth recibe 52 de daño
+Dormarth termina con HP:57/277
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-
+C-
+D-Dormarth HP:57/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Nebiros HP:249/249 MP:242/242
+C-Berserker HP:690/690 MP:136/136
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nebiros
+2-Demi-Fiend
+3-Berserker
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Kotone HP:597/597 MP:347/347
+2-Dormarth HP:57/277 MP:269/269
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Nebiros ataca a Dormarth
+Dormarth recibe 26 de daño
+Dormarth termina con HP:31/277
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-
+C-
+D-Dormarth HP:31/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Nebiros HP:249/249 MP:242/242
+C-Berserker HP:690/690 MP:136/136
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Dormarth
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Kabuso HP:137/137 MP:131/131
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Vacío (Puesto 3)
+3-Dormarth HP:31/277 MP:269/269 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kabuso ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Kabuso HP:137/137 MP:131/131
+C-
+D-Dormarth HP:31/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Nebiros HP:249/249 MP:242/242
+C-Berserker HP:690/690 MP:136/136
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Dormarth
+2-Kabuso
+3-Kotone
+----------------------------------------
+Seleccione una acción para Dormarth
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dormarth
+1-Demi-Fiend HP:1227/1227 MP:834/834
+2-Nebiros HP:249/249 MP:242/242
+3-Berserker HP:690/690 MP:136/136
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Dormarth ataca a Demi-Fiend
+Demi-Fiend bloquea el ataque de Dormarth
+Demi-Fiend termina con HP:1227/1227
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Demi-Fiend (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Kabuso HP:137/137 MP:131/131
+C-
+D-Dormarth HP:31/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Nebiros HP:249/249 MP:242/242
+C-Berserker HP:690/690 MP:136/136
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Demi-Fiend
+2-Berserker
+3-Nebiros
+----------------------------------------
+Seleccione una acción para Demi-Fiend
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Demi-Fiend
+1-Kotone HP:597/597 MP:347/347
+2-Kabuso HP:137/137 MP:131/131
+3-Dormarth HP:31/277 MP:269/269
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Demi-Fiend ataca a Kabuso
+Kabuso recibe 168 de daño
+Kabuso termina con HP:0/137
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-
+C-
+D-Dormarth HP:31/277 MP:269/269
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Nebiros HP:249/249 MP:242/242
+C-Berserker HP:690/690 MP:136/136
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Berserker
+2-Nebiros
+3-Demi-Fiend
+----------------------------------------
+Seleccione una acción para Berserker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Berserker
+1-Kotone HP:597/597 MP:347/347
+2-Dormarth HP:31/277 MP:269/269
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Berserker ataca a Dormarth
+Dormarth recibe 52 de daño
+Dormarth termina con HP:0/277
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Nebiros HP:249/249 MP:242/242
+C-Berserker HP:690/690 MP:136/136
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nebiros
+2-Demi-Fiend
+3-Berserker
+----------------------------------------
+Seleccione una acción para Nebiros
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nebiros
+1-Kotone HP:597/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nebiros ataca a Kotone
+Kotone es resistente el ataque de Nebiros
+Kotone recibe 13 de daño
+Kotone termina con HP:584/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:584/597 MP:347/347
+B-
+C-
+D-
+Equipo de Demi-Fiend (J2)
+A-Demi-Fiend HP:1227/1227 MP:834/834
+B-Nebiros HP:249/249 MP:242/242
+C-Berserker HP:690/690 MP:136/136
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Bad Company MP:15
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 6
+----------------------------------------
+Kotone (J1) se rinde
+----------------------------------------
+Ganador: Demi-Fiend (J2)

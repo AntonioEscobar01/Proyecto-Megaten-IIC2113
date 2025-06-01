@@ -1,0 +1,1496 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 30
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:413/413
+B-Dominion HP:287/287 MP:278/278
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Knocker HP:126/126 MP:55/55
+C-Arachne HP:350/350 MP:157/157
+D-Persephone HP:315/315 MP:306/306
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Dominion
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Damascus Claw MP:7
+2-Mazan MP:11
+3-Zionga MP:8
+4-Plasma Discharge MP:22
+5-Bad Company MP:15
+6-Maragion MP:20
+7-Gather Spirit Energy MP:25
+8-Cancelar
+INPUT: 6
+----------------------------------------
+Itsuki lanza fuego a Aleph
+Aleph recibe 86 de daño
+Aleph termina con HP:1223/1309
+Itsuki lanza fuego a Knocker
+Knocker recibe 86 de daño
+Knocker termina con HP:40/126
+Itsuki lanza fuego a Arachne
+Arachne recibe 86 de daño
+Arachne termina con HP:264/350
+Itsuki lanza fuego a Persephone
+Persephone recibe 86 de daño
+Persephone termina con HP:229/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:393/413
+B-Dominion HP:287/287 MP:278/278
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1223/1309 MP:613/613
+B-Knocker HP:40/126 MP:55/55
+C-Arachne HP:264/350 MP:157/157
+D-Persephone HP:229/315 MP:306/306
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Dominion
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Dominion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Dominion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Dominion
+1-Aleph HP:1223/1309 MP:613/613
+2-Knocker HP:40/126 MP:55/55
+3-Arachne HP:264/350 MP:157/157
+4-Persephone HP:229/315 MP:306/306
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Dominion ataca a Persephone
+Persephone recibe 30 de daño
+Persephone termina con HP:199/315
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:393/413
+B-Dominion HP:287/287 MP:278/278
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1223/1309 MP:613/613
+B-Knocker HP:40/126 MP:55/55
+C-Arachne HP:264/350 MP:157/157
+D-Persephone HP:199/315 MP:306/306
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Arachne
+3-Persephone
+4-Knocker
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Defender's Gaze MP:255
+2-Hades Blast MP:32
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 3 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:393/413
+B-Dominion HP:287/287 MP:278/278
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1223/1309 MP:358/613
+B-Knocker HP:40/126 MP:55/55
+C-Arachne HP:264/350 MP:157/157
+D-Persephone HP:199/315 MP:306/306
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 3
+----------------------------------------
+Orden:
+1-Arachne
+2-Persephone
+3-Knocker
+4-Aleph
+----------------------------------------
+Seleccione una acción para Arachne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Arachne
+1-Itsuki HP:1136/1136 MP:393/413
+2-Dominion HP:287/287 MP:278/278
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Arachne ataca a Dominion
+Dominion recibe 28 de daño
+Dominion termina con HP:259/287
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:393/413
+B-Dominion HP:259/287 MP:278/278
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1223/1309 MP:358/613
+B-Knocker HP:40/126 MP:55/55
+C-Arachne HP:264/350 MP:157/157
+D-Persephone HP:199/315 MP:306/306
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Persephone
+2-Knocker
+3-Aleph
+4-Arachne
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Itsuki HP:1136/1136 MP:393/413
+2-Dominion HP:259/287 MP:278/278
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Persephone ataca a Itsuki
+Itsuki recibe 33 de daño
+Itsuki termina con HP:1103/1136
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1103/1136 MP:393/413
+B-Dominion HP:259/287 MP:278/278
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1223/1309 MP:358/613
+B-Knocker HP:40/126 MP:55/55
+C-Arachne HP:264/350 MP:157/157
+D-Persephone HP:199/315 MP:306/306
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Knocker
+2-Aleph
+3-Arachne
+4-Persephone
+----------------------------------------
+Seleccione una acción para Knocker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Knocker
+1-Itsuki HP:1103/1136 MP:393/413
+2-Dominion HP:259/287 MP:278/278
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Knocker ataca a Dominion
+Dominion recibe 8 de daño
+Dominion termina con HP:251/287
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1103/1136 MP:393/413
+B-Dominion HP:251/287 MP:278/278
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1223/1309 MP:358/613
+B-Knocker HP:40/126 MP:55/55
+C-Arachne HP:264/350 MP:157/157
+D-Persephone HP:199/315 MP:306/306
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Arachne
+3-Persephone
+4-Knocker
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Qing Niuguai HP:407/407 MP:81/81
+2-Ghoul HP:558/558 MP:111/111
+3-Dantalion HP:197/197 MP:190/190
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Knocker HP:40/126 MP:55/55 (Puesto 2)
+2-Arachne HP:264/350 MP:157/157 (Puesto 3)
+3-Persephone HP:199/315 MP:306/306 (Puesto 4)
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Ghoul ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1103/1136 MP:393/413
+B-Dominion HP:251/287 MP:278/278
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1223/1309 MP:358/613
+B-Knocker HP:40/126 MP:55/55
+C-Arachne HP:264/350 MP:157/157
+D-Ghoul HP:558/558 MP:111/111
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Arachne
+2-Ghoul
+3-Knocker
+4-Aleph
+----------------------------------------
+Seleccione una acción para Arachne
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Persephone HP:199/315 MP:306/306
+2-Qing Niuguai HP:407/407 MP:81/81
+3-Dantalion HP:197/197 MP:190/190
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Qing Niuguai ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1103/1136 MP:393/413
+B-Dominion HP:251/287 MP:278/278
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1223/1309 MP:358/613
+B-Knocker HP:40/126 MP:55/55
+C-Qing Niuguai HP:407/407 MP:81/81
+D-Ghoul HP:558/558 MP:111/111
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ghoul
+2-Knocker
+3-Aleph
+4-Qing Niuguai
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1103/1136 MP:393/413
+B-Dominion HP:251/287 MP:278/278
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1223/1309 MP:358/613
+B-Knocker HP:40/126 MP:55/55
+C-Qing Niuguai HP:407/407 MP:81/81
+D-Ghoul HP:558/558 MP:111/111
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Knocker
+2-Aleph
+3-Qing Niuguai
+4-Ghoul
+----------------------------------------
+Seleccione una acción para Knocker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Knocker
+1-Itsuki HP:1103/1136 MP:393/413
+2-Dominion HP:251/287 MP:278/278
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Knocker ataca a Itsuki
+Itsuki recibe 8 de daño
+Itsuki termina con HP:1095/1136
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1095/1136 MP:393/413
+B-Dominion HP:251/287 MP:278/278
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1223/1309 MP:358/613
+B-Knocker HP:40/126 MP:55/55
+C-Qing Niuguai HP:407/407 MP:81/81
+D-Ghoul HP:558/558 MP:111/111
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Qing Niuguai
+3-Ghoul
+4-Knocker
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Itsuki HP:1095/1136 MP:393/413
+2-Dominion HP:251/287 MP:278/278
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Itsuki HP:1095/1136 MP:393/413
+2-Dominion HP:251/287 MP:278/278
+3-Cancelar
+INPUT: 2
+----------------------------------------
+Aleph ataca a Dominion
+Dominion recibe 157 de daño
+Dominion termina con HP:94/287
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1095/1136 MP:393/413
+B-Dominion HP:94/287 MP:278/278
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1223/1309 MP:358/613
+B-Knocker HP:40/126 MP:55/55
+C-Qing Niuguai HP:407/407 MP:81/81
+D-Ghoul HP:558/558 MP:111/111
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+2-Dominion
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1095/1136 MP:393/413
+B-Dominion HP:94/287 MP:278/278
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1223/1309 MP:358/613
+B-Knocker HP:40/126 MP:55/55
+C-Qing Niuguai HP:407/407 MP:81/81
+D-Ghoul HP:558/558 MP:111/111
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Dominion
+2-Itsuki
+----------------------------------------
+Seleccione una acción para Dominion
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Dominion use
+1-Mazionga MP:20
+2-Megido MP:25
+3-Recarmdra MP:2
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Dominion cura a Itsuki
+Itsuki recibe 568 de HP
+Itsuki termina con HP:1136/1136
+Dominion termina con HP:0/287
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:393/413
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1223/1309 MP:358/613
+B-Knocker HP:40/126 MP:55/55
+C-Qing Niuguai HP:407/407 MP:81/81
+D-Ghoul HP:558/558 MP:111/111
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Damascus Claw MP:7
+2-Mazan MP:11
+3-Zionga MP:8
+4-Plasma Discharge MP:22
+5-Bad Company MP:15
+6-Maragion MP:20
+7-Gather Spirit Energy MP:25
+8-Cancelar
+INPUT: 4
+----------------------------------------
+Itsuki lanza electricidad a Aleph
+Aleph recibe 124 de daño
+Aleph termina con HP:1099/1309
+Itsuki lanza electricidad a Qing Niuguai
+Qing Niuguai recibe 124 de daño
+Qing Niuguai termina con HP:283/407
+Itsuki lanza electricidad a Ghoul
+Ghoul recibe 124 de daño
+Ghoul termina con HP:434/558
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:1136/1136 MP:371/413
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1099/1309 MP:358/613
+B-Knocker HP:40/126 MP:55/55
+C-Qing Niuguai HP:283/407 MP:81/81
+D-Ghoul HP:434/558 MP:111/111
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Ghoul
+3-Qing Niuguai
+4-Knocker
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Itsuki HP:1136/1136 MP:371/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Aleph ataca a Itsuki
+Itsuki recibe 157 de daño
+Itsuki termina con HP:979/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:979/1136 MP:371/413
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1099/1309 MP:358/613
+B-Knocker HP:40/126 MP:55/55
+C-Qing Niuguai HP:283/407 MP:81/81
+D-Ghoul HP:434/558 MP:111/111
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ghoul
+2-Qing Niuguai
+3-Knocker
+4-Aleph
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Itsuki HP:979/1136 MP:371/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ghoul ataca a Itsuki
+Itsuki recibe 41 de daño
+Itsuki termina con HP:938/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:938/1136 MP:371/413
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1099/1309 MP:358/613
+B-Knocker HP:40/126 MP:55/55
+C-Qing Niuguai HP:283/407 MP:81/81
+D-Ghoul HP:434/558 MP:111/111
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Qing Niuguai
+2-Knocker
+3-Aleph
+4-Ghoul
+----------------------------------------
+Seleccione una acción para Qing Niuguai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:938/1136 MP:371/413
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1099/1309 MP:358/613
+B-Knocker HP:40/126 MP:55/55
+C-Qing Niuguai HP:283/407 MP:81/81
+D-Ghoul HP:434/558 MP:111/111
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Knocker
+2-Aleph
+3-Ghoul
+4-Qing Niuguai
+----------------------------------------
+Seleccione una acción para Knocker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Arachne HP:264/350 MP:157/157
+2-Persephone HP:199/315 MP:306/306
+3-Dantalion HP:197/197 MP:190/190
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Knocker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Knocker use
+1-Bufu MP:5
+2-Rakukaja MP:15
+3-Taunt MP:20
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Knocker
+1-Itsuki HP:938/1136 MP:371/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Knocker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:938/1136 MP:371/413
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1099/1309 MP:358/613
+B-Knocker HP:40/126 MP:55/55
+C-Qing Niuguai HP:283/407 MP:81/81
+D-Ghoul HP:434/558 MP:111/111
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Ghoul
+3-Qing Niuguai
+4-Knocker
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Aleph use
+1-Defender's Gaze MP:255
+2-Hades Blast MP:32
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 3 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:938/1136 MP:371/413
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1099/1309 MP:103/613
+B-Knocker HP:40/126 MP:55/55
+C-Qing Niuguai HP:283/407 MP:81/81
+D-Ghoul HP:434/558 MP:111/111
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 3
+----------------------------------------
+Orden:
+1-Ghoul
+2-Qing Niuguai
+3-Knocker
+4-Aleph
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:938/1136 MP:371/413
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1099/1309 MP:103/613
+B-Knocker HP:40/126 MP:55/55
+C-Qing Niuguai HP:283/407 MP:81/81
+D-Ghoul HP:434/558 MP:111/111
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 2
+----------------------------------------
+Orden:
+1-Qing Niuguai
+2-Knocker
+3-Aleph
+4-Ghoul
+----------------------------------------
+Seleccione una acción para Qing Niuguai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Arachne HP:264/350 MP:157/157
+2-Persephone HP:199/315 MP:306/306
+3-Dantalion HP:197/197 MP:190/190
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Arachne ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:938/1136 MP:371/413
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1099/1309 MP:103/613
+B-Knocker HP:40/126 MP:55/55
+C-Arachne HP:264/350 MP:157/157
+D-Ghoul HP:434/558 MP:111/111
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Knocker
+2-Aleph
+3-Ghoul
+4-Arachne
+----------------------------------------
+Seleccione una acción para Knocker
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:938/1136 MP:371/413
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1099/1309 MP:103/613
+B-Knocker HP:40/126 MP:55/55
+C-Arachne HP:264/350 MP:157/157
+D-Ghoul HP:434/558 MP:111/111
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Itsuki use
+1-Damascus Claw MP:7
+2-Mazan MP:11
+3-Zionga MP:8
+4-Plasma Discharge MP:22
+5-Bad Company MP:15
+6-Maragion MP:20
+7-Gather Spirit Energy MP:25
+8-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Aleph HP:1099/1309 MP:103/613
+2-Knocker HP:40/126 MP:55/55
+3-Arachne HP:264/350 MP:157/157
+4-Ghoul HP:434/558 MP:111/111
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Itsuki ataca a Knocker
+Knocker recibe 101 de daño
+Knocker termina con HP:0/126
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:938/1136 MP:364/413
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1099/1309 MP:103/613
+B-
+C-Arachne HP:264/350 MP:157/157
+D-Ghoul HP:434/558 MP:111/111
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Arachne
+3-Ghoul
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Persephone HP:199/315 MP:306/306
+2-Qing Niuguai HP:283/407 MP:81/81
+3-Dantalion HP:197/197 MP:190/190
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Arachne HP:264/350 MP:157/157 (Puesto 3)
+3-Ghoul HP:434/558 MP:111/111 (Puesto 4)
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Qing Niuguai ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:938/1136 MP:364/413
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1099/1309 MP:103/613
+B-
+C-Qing Niuguai HP:283/407 MP:81/81
+D-Ghoul HP:434/558 MP:111/111
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Qing Niuguai
+2-Ghoul
+3-Aleph
+----------------------------------------
+Seleccione una acción para Qing Niuguai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Qing Niuguai use
+1-Rakukaja MP:15
+2-Megaton Press MP:17
+3-Silent Prayer MP:15
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Qing Niuguai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Qing Niuguai
+1-Itsuki HP:938/1136 MP:364/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Qing Niuguai ataca a Itsuki
+Itsuki recibe 29 de daño
+Itsuki termina con HP:909/1136
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:909/1136 MP:364/413
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1099/1309 MP:103/613
+B-
+C-Qing Niuguai HP:283/407 MP:81/81
+D-Ghoul HP:434/558 MP:111/111
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ghoul
+2-Aleph
+3-Qing Niuguai
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:909/1136 MP:364/413
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1099/1309 MP:103/613
+B-
+C-Qing Niuguai HP:283/407 MP:81/81
+D-Ghoul HP:434/558 MP:111/111
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aleph
+2-Qing Niuguai
+3-Ghoul
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Itsuki HP:909/1136 MP:364/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Itsuki HP:909/1136 MP:364/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:909/1136 MP:364/413
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1099/1309 MP:103/613
+B-
+C-Qing Niuguai HP:283/407 MP:81/81
+D-Ghoul HP:434/558 MP:111/111
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Qing Niuguai
+2-Ghoul
+3-Aleph
+----------------------------------------
+Seleccione una acción para Qing Niuguai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Arachne HP:264/350 MP:157/157
+2-Persephone HP:199/315 MP:306/306
+3-Dantalion HP:197/197 MP:190/190
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Persephone ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:909/1136 MP:364/413
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1099/1309 MP:103/613
+B-
+C-Persephone HP:199/315 MP:306/306
+D-Ghoul HP:434/558 MP:111/111
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ghoul
+2-Aleph
+3-Persephone
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ghoul use
+1-Energy Drain MP:10
+2-Tetanus Cut MP:11
+3-Damascus Claw MP:7
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Itsuki HP:909/1136 MP:364/413
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ghoul lanza un ataque todo poderoso a Itsuki
+El ataque drena 37 HP de Itsuki
+Itsuki termina con HP:872/1136
+Ghoul termina con HP:471/558
+El ataque drena 37 MP de Itsuki
+Itsuki termina con MP:327/413
+Ghoul termina con MP:111/111
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Itsuki (J1)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:872/1136 MP:327/413
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1099/1309 MP:103/613
+B-
+C-Persephone HP:199/315 MP:306/306
+D-Ghoul HP:471/558 MP:111/111
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Itsuki
+----------------------------------------
+Seleccione una acción para Itsuki
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Itsuki
+1-Aleph HP:1099/1309 MP:103/613
+2-Persephone HP:199/315 MP:306/306
+3-Ghoul HP:471/558 MP:111/111
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Itsuki ataca a Aleph
+Aleph es resistente el ataque de Itsuki
+Aleph recibe 22 de daño
+Aleph termina con HP:1077/1309
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:872/1136 MP:327/413
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1077/1309 MP:103/613
+B-
+C-Persephone HP:199/315 MP:306/306
+D-Ghoul HP:471/558 MP:111/111
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Ghoul
+3-Persephone
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:872/1136 MP:327/413
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1077/1309 MP:103/613
+B-
+C-Persephone HP:199/315 MP:306/306
+D-Ghoul HP:471/558 MP:111/111
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ghoul
+2-Persephone
+3-Aleph
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Itsuki HP:872/1136 MP:327/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ghoul
+1-Itsuki HP:872/1136 MP:327/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ghoul
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Arachne HP:264/350 MP:157/157
+2-Qing Niuguai HP:283/407 MP:81/81
+3-Dantalion HP:197/197 MP:190/190
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Arachne ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Itsuki (J1)
+A-Itsuki HP:872/1136 MP:327/413
+B-
+C-
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:1077/1309 MP:103/613
+B-
+C-Persephone HP:199/315 MP:306/306
+D-Arachne HP:264/350 MP:157/157
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Persephone
+2-Aleph
+3-Arachne
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Persephone use
+1-Bufudyne MP:14
+2-Death's Door MP:10
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Persephone
+1-Itsuki HP:872/1136 MP:327/413
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Persephone
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Persephone use
+1-Bufudyne MP:14
+2-Death's Door MP:10
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Persephone ataca con oscuridad a Itsuki
+Itsuki ha sido eliminado
+Itsuki termina con HP:0/1136
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Aleph (J2)

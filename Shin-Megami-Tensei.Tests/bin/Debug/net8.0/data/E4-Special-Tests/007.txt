@@ -1,0 +1,89 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+INPUT: 6
+----------------------------------------
+Ronda de Nahobino (J1)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Kelpie HP:322/322 MP:144/144
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:597/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nahobino
+2-Kelpie
+----------------------------------------
+Seleccione una acción para Nahobino
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nahobino
+1-Makoto HP:597/597 MP:347/347
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nahobino ataca a Makoto
+Makoto es resistente el ataque de Nahobino
+Makoto recibe 14 de daño
+Makoto termina con HP:583/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Nahobino (J1)
+A-Nahobino HP:453/453 MP:389/389
+B-Kelpie HP:322/322 MP:144/144
+C-
+D-
+Equipo de Makoto (J2)
+A-Makoto HP:583/597 MP:347/347
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kelpie
+2-Nahobino
+----------------------------------------
+Seleccione una acción para Kelpie
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Kelpie use
+1-Diarama MP:9
+2-Tarunda MP:15
+3-Trafuri MP:5
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Nahobino (J1) se rinde
+----------------------------------------
+Ganador: Makoto (J2)

@@ -1,0 +1,474 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 34
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Kelpie HP:322/322 MP:144/144
+C-Nidhoggr HP:681/681 MP:135/135
+D-Tiamat HP:305/305 MP:296/296
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Alraune HP:427/427 MP:192/192
+C-Hecatoncheires HP:756/756 MP:151/151
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Kotone
+3-Kelpie
+4-Tiamat
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Anubis HP:497/497 MP:223/223
+2-Poltergeist HP:108/108 MP:104/104
+3-Fuxi HP:52/52 MP:49/49
+4-Naga HP:199/199 MP:39/39
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Fuxi ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Kelpie HP:322/322 MP:144/144
+C-Fuxi HP:52/52 MP:49/49
+D-Tiamat HP:305/305 MP:296/296
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Alraune HP:427/427 MP:192/192
+C-Hecatoncheires HP:756/756 MP:151/151
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Kelpie
+3-Tiamat
+4-Fuxi
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Kelpie HP:322/322 MP:144/144
+C-Fuxi HP:52/52 MP:49/49
+D-Tiamat HP:305/305 MP:296/296
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Alraune HP:427/427 MP:192/192
+C-Hecatoncheires HP:756/756 MP:151/151
+D-
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kelpie
+2-Tiamat
+3-Fuxi
+4-Kotone
+----------------------------------------
+Seleccione una acción para Kelpie
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Kelpie
+1-Kyouji HP:999/999 MP:0/0
+2-Alraune HP:427/427 MP:192/192
+3-Hecatoncheires HP:756/756 MP:151/151
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Kelpie
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Kelpie HP:322/322 MP:144/144
+C-Fuxi HP:52/52 MP:49/49
+D-Tiamat HP:305/305 MP:296/296
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Alraune HP:427/427 MP:192/192
+C-Hecatoncheires HP:756/756 MP:151/151
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Tiamat
+2-Fuxi
+3-Kotone
+4-Kelpie
+----------------------------------------
+Seleccione una acción para Tiamat
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tiamat
+1-Kyouji HP:999/999 MP:0/0
+2-Alraune HP:427/427 MP:192/192
+3-Hecatoncheires HP:756/756 MP:151/151
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Tiamat ataca a Alraune
+Alraune recibe 32 de daño
+Alraune termina con HP:395/427
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Kelpie HP:322/322 MP:144/144
+C-Fuxi HP:52/52 MP:49/49
+D-Tiamat HP:305/305 MP:296/296
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Alraune HP:395/427 MP:192/192
+C-Hecatoncheires HP:756/756 MP:151/151
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Fuxi
+2-Kotone
+3-Kelpie
+4-Tiamat
+----------------------------------------
+Seleccione una acción para Fuxi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Nidhoggr HP:681/681 MP:135/135
+2-Anubis HP:497/497 MP:223/223
+3-Poltergeist HP:108/108 MP:104/104
+4-Naga HP:199/199 MP:39/39
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Nidhoggr ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:347/347
+B-Kelpie HP:322/322 MP:144/144
+C-Nidhoggr HP:681/681 MP:135/135
+D-Tiamat HP:305/305 MP:296/296
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-Alraune HP:395/427 MP:192/192
+C-Hecatoncheires HP:756/756 MP:151/151
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kotone
+2-Kelpie
+3-Tiamat
+4-Nidhoggr
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Trafuri MP:5
+2-Stigma Attack MP:20
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Kotone ataca con oscuridad a Kyouji
+Kyouji bloquea el ataque de Kotone
+Kyouji termina con HP:999/999
+Kotone ataca con oscuridad a Alraune
+Alraune ha sido eliminado
+Alraune termina con HP:0/427
+Kotone ataca con oscuridad a Hecatoncheires
+Hecatoncheires ha sido eliminado
+Hecatoncheires termina con HP:0/756
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kyouji (J2)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:317/347
+B-Kelpie HP:322/322 MP:144/144
+C-Nidhoggr HP:681/681 MP:135/135
+D-Tiamat HP:305/305 MP:296/296
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kyouji
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:317/347
+B-Kelpie HP:322/322 MP:144/144
+C-Nidhoggr HP:681/681 MP:135/135
+D-Tiamat HP:305/305 MP:296/296
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Kyouji
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kyouji use
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Kyouji
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Kotone (J1)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:317/347
+B-Kelpie HP:322/322 MP:144/144
+C-Nidhoggr HP:681/681 MP:135/135
+D-Tiamat HP:305/305 MP:296/296
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nidhoggr
+2-Kotone
+3-Kelpie
+4-Tiamat
+----------------------------------------
+Seleccione una acción para Nidhoggr
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nidhoggr use
+1-Grand Tack MP:11
+2-Life Drain MP:5
+3-Madness Nails MP:26
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nidhoggr
+1-Kyouji HP:999/999 MP:0/0
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nidhoggr dispara a Kyouji
+Kyouji bloquea el ataque de Nidhoggr
+Kyouji termina con HP:999/999
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Kotone (J1)
+A-Kotone HP:597/597 MP:317/347
+B-Kelpie HP:322/322 MP:144/144
+C-Nidhoggr HP:681/681 MP:124/135
+D-Tiamat HP:305/305 MP:296/296
+Equipo de Kyouji (J2)
+A-Kyouji HP:999/999 MP:0/0
+B-
+C-
+D-
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Kotone
+2-Kelpie
+3-Tiamat
+4-Nidhoggr
+----------------------------------------
+Seleccione una acción para Kotone
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Kotone use
+1-Trafuri MP:5
+2-Stigma Attack MP:20
+3-Mamudoon MP:30
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Kotone (J1) se rinde
+----------------------------------------
+Ganador: Kyouji (J2)

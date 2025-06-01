@@ -1,0 +1,4812 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+INPUT: 27
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Ippon-Datara HP:256/256 MP:56/56
+C-Pales HP:390/390 MP:378/378
+D-Nadja HP:399/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Churel HP:197/197 MP:190/190
+C-Nozuchi HP:232/232 MP:52/52
+D-Samael HP:945/945 MP:189/189
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Pales
+3-Nadja
+4-Ippon-Datara
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Ippon-Datara HP:256/256 MP:56/56
+C-Pales HP:390/390 MP:378/378
+D-Nadja HP:399/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Churel HP:197/197 MP:190/190
+C-Nozuchi HP:232/232 MP:52/52
+D-Samael HP:945/945 MP:189/189
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pales
+2-Nadja
+3-Ippon-Datara
+4-Yu
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pales
+1-Aleph HP:1309/1309 MP:613/613
+2-Churel HP:197/197 MP:190/190
+3-Nozuchi HP:232/232 MP:52/52
+4-Samael HP:945/945 MP:189/189
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Pales ataca a Samael
+Samael recibe 41 de daño
+Samael termina con HP:904/945
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Ippon-Datara HP:256/256 MP:56/56
+C-Pales HP:390/390 MP:378/378
+D-Nadja HP:399/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Churel HP:197/197 MP:190/190
+C-Nozuchi HP:232/232 MP:52/52
+D-Samael HP:904/945 MP:189/189
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Ippon-Datara
+3-Yu
+4-Pales
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Ippon-Datara HP:256/256 MP:56/56
+C-Pales HP:390/390 MP:378/378
+D-Nadja HP:399/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Churel HP:197/197 MP:190/190
+C-Nozuchi HP:232/232 MP:52/52
+D-Samael HP:904/945 MP:189/189
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ippon-Datara
+2-Yu
+3-Pales
+4-Nadja
+----------------------------------------
+Seleccione una acción para Ippon-Datara
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ippon-Datara use
+1-Fang Breaker MP:12
+2-Tarukaja MP:15
+3-Maragi MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ippon-Datara
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Ippon-Datara HP:256/256 MP:56/56
+C-Pales HP:390/390 MP:378/378
+D-Nadja HP:399/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Churel HP:197/197 MP:190/190
+C-Nozuchi HP:232/232 MP:52/52
+D-Samael HP:904/945 MP:189/189
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Pales
+3-Nadja
+4-Ippon-Datara
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Aleph HP:1309/1309 MP:613/613
+2-Churel HP:197/197 MP:190/190
+3-Nozuchi HP:232/232 MP:52/52
+4-Samael HP:904/945 MP:189/189
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Yu ataca a Nozuchi
+Nozuchi es resistente el ataque de Yu
+Nozuchi recibe 24 de daño
+Nozuchi termina con HP:208/232
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Ippon-Datara HP:256/256 MP:56/56
+C-Pales HP:390/390 MP:378/378
+D-Nadja HP:399/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Churel HP:197/197 MP:190/190
+C-Nozuchi HP:208/232 MP:52/52
+D-Samael HP:904/945 MP:189/189
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pales
+2-Nadja
+3-Ippon-Datara
+4-Yu
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pales use
+1-Mamudoon MP:30
+2-Pandemic Bomb MP:11
+3-Dekaja MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pales
+1-Aleph HP:1309/1309 MP:613/613
+2-Churel HP:197/197 MP:190/190
+3-Nozuchi HP:208/232 MP:52/52
+4-Samael HP:904/945 MP:189/189
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Ippon-Datara HP:256/256 MP:56/56
+C-Pales HP:390/390 MP:378/378
+D-Nadja HP:399/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Churel HP:197/197 MP:190/190
+C-Nozuchi HP:208/232 MP:52/52
+D-Samael HP:904/945 MP:189/189
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nadja
+2-Ippon-Datara
+3-Yu
+4-Pales
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nadja use
+1-Pulinpa MP:5
+2-Concentrate MP:11
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Ippon-Datara HP:256/256 MP:56/56
+C-Pales HP:390/390 MP:378/378
+D-Nadja HP:399/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Churel HP:197/197 MP:190/190
+C-Nozuchi HP:208/232 MP:52/52
+D-Samael HP:904/945 MP:189/189
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Aleph
+2-Samael
+3-Churel
+4-Nozuchi
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Ippon-Datara HP:256/256 MP:56/56
+C-Pales HP:390/390 MP:378/378
+D-Nadja HP:399/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Churel HP:197/197 MP:190/190
+C-Nozuchi HP:208/232 MP:52/52
+D-Samael HP:904/945 MP:189/189
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Samael
+2-Churel
+3-Nozuchi
+4-Aleph
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Ippon-Datara HP:256/256 MP:56/56
+C-Pales HP:390/390 MP:378/378
+D-Nadja HP:399/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Churel HP:197/197 MP:190/190
+C-Nozuchi HP:208/232 MP:52/52
+D-Samael HP:904/945 MP:189/189
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Churel
+2-Nozuchi
+3-Aleph
+4-Samael
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Churel use
+1-Energy Drain MP:10
+2-Shibaboo MP:5
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Churel
+1-Yu HP:597/597 MP:347/347
+2-Ippon-Datara HP:256/256 MP:56/56
+3-Pales HP:390/390 MP:378/378
+4-Nadja HP:399/399 MP:179/179
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Churel lanza un ataque todo poderoso a Pales
+El ataque drena 33 HP de Pales
+Pales termina con HP:357/390
+Churel termina con HP:197/197
+El ataque drena 33 MP de Pales
+Pales termina con MP:345/378
+Churel termina con MP:190/190
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Ippon-Datara HP:256/256 MP:56/56
+C-Pales HP:357/390 MP:345/378
+D-Nadja HP:399/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Churel HP:197/197 MP:190/190
+C-Nozuchi HP:208/232 MP:52/52
+D-Samael HP:904/945 MP:189/189
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nozuchi
+2-Aleph
+3-Samael
+4-Churel
+----------------------------------------
+Seleccione una acción para Nozuchi
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-Ippon-Datara HP:256/256 MP:56/56
+C-Pales HP:357/390 MP:345/378
+D-Nadja HP:399/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Churel HP:197/197 MP:190/190
+C-Nozuchi HP:208/232 MP:52/52
+D-Samael HP:904/945 MP:189/189
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Aleph
+2-Samael
+3-Churel
+4-Nozuchi
+----------------------------------------
+Seleccione una acción para Aleph
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Aleph
+1-Yu HP:597/597 MP:347/347
+2-Ippon-Datara HP:256/256 MP:56/56
+3-Pales HP:357/390 MP:345/378
+4-Nadja HP:399/399 MP:179/179
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Aleph dispara a Ippon-Datara
+Ippon-Datara recibe 276 de daño
+Ippon-Datara termina con HP:0/256
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-
+C-Pales HP:357/390 MP:345/378
+D-Nadja HP:399/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Churel HP:197/197 MP:190/190
+C-Nozuchi HP:208/232 MP:52/52
+D-Samael HP:904/945 MP:189/189
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Samael
+2-Churel
+3-Nozuchi
+4-Aleph
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Samael
+1-Yu HP:597/597 MP:347/347
+2-Pales HP:357/390 MP:345/378
+3-Nadja HP:399/399 MP:179/179
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Samael ataca a Nadja
+Nadja recibe 73 de daño
+Nadja termina con HP:326/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-
+C-Pales HP:357/390 MP:345/378
+D-Nadja HP:326/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Churel HP:197/197 MP:190/190
+C-Nozuchi HP:208/232 MP:52/52
+D-Samael HP:904/945 MP:189/189
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Pales
+3-Nadja
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Aleph HP:1309/1309 MP:613/613
+2-Churel HP:197/197 MP:190/190
+3-Nozuchi HP:208/232 MP:52/52
+4-Samael HP:904/945 MP:189/189
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Yu ataca a Nozuchi
+Nozuchi es resistente el ataque de Yu
+Nozuchi recibe 24 de daño
+Nozuchi termina con HP:184/232
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-
+C-Pales HP:357/390 MP:345/378
+D-Nadja HP:326/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:1309/1309 MP:613/613
+B-Churel HP:197/197 MP:190/190
+C-Nozuchi HP:184/232 MP:52/52
+D-Samael HP:904/945 MP:189/189
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pales
+2-Nadja
+3-Yu
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pales use
+1-Mamudoon MP:30
+2-Pandemic Bomb MP:11
+3-Dekaja MP:10
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Pales ataca con oscuridad a Aleph
+Aleph ha sido eliminado
+Aleph termina con HP:0/1309
+Pales ataca con oscuridad a Churel
+Churel bloquea el ataque de Pales
+Churel termina con HP:197/197
+Pales ataca con oscuridad a Nozuchi
+Nozuchi ha sido eliminado
+Nozuchi termina con HP:0/232
+Pales ataca con oscuridad a Samael
+Samael bloquea el ataque de Pales
+Samael termina con HP:904/945
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-
+C-Pales HP:357/390 MP:315/378
+D-Nadja HP:326/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-Churel HP:197/197 MP:190/190
+C-
+D-Samael HP:904/945 MP:189/189
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Samael
+2-Churel
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Succubus HP:268/268 MP:260/260
+2-Kukunochi HP:254/254 MP:246/246
+3-Inugami HP:214/214 MP:109/109
+4-Qing Niuguai HP:407/407 MP:81/81
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Inugami ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-
+C-Pales HP:357/390 MP:315/378
+D-Nadja HP:326/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-Churel HP:197/197 MP:190/190
+C-
+D-Inugami HP:214/214 MP:109/109
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Churel
+2-Inugami
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Churel use
+1-Energy Drain MP:10
+2-Shibaboo MP:5
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Churel use
+1-Energy Drain MP:10
+2-Shibaboo MP:5
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Churel
+1-Yu HP:597/597 MP:347/347
+2-Pales HP:357/390 MP:315/378
+3-Nadja HP:326/399 MP:179/179
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Churel ataca con oscuridad a Yu
+Yu ha sido eliminado
+Yu termina con HP:0/597
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:357/390 MP:315/378
+D-Nadja HP:326/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-Churel HP:197/197 MP:180/190
+C-
+D-Inugami HP:214/214 MP:109/109
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+2-Churel
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:357/390 MP:315/378
+D-Nadja HP:326/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-Churel HP:197/197 MP:180/190
+C-
+D-Inugami HP:214/214 MP:109/109
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Churel
+2-Inugami
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Samael HP:904/945 MP:189/189
+2-Succubus HP:268/268 MP:260/260
+3-Kukunochi HP:254/254 MP:246/246
+4-Qing Niuguai HP:407/407 MP:81/81
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Succubus ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:357/390 MP:315/378
+D-Nadja HP:326/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-Succubus HP:268/268 MP:260/260
+C-
+D-Inugami HP:214/214 MP:109/109
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pales
+2-Nadja
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pales use
+1-Mamudoon MP:30
+2-Pandemic Bomb MP:11
+3-Dekaja MP:10
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Pales ataca con oscuridad a Succubus
+Succubus bloquea el ataque de Pales
+Succubus termina con HP:268/268
+Pales ataca con oscuridad a Inugami
+Inugami bloquea el ataque de Pales
+Inugami termina con HP:214/214
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:357/390 MP:285/378
+D-Nadja HP:326/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-Succubus HP:268/268 MP:260/260
+C-
+D-Inugami HP:214/214 MP:109/109
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Succubus
+2-Inugami
+----------------------------------------
+Seleccione una acción para Succubus
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Churel HP:197/197 MP:180/190
+2-Samael HP:904/945 MP:189/189
+3-Kukunochi HP:254/254 MP:246/246
+4-Qing Niuguai HP:407/407 MP:81/81
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Samael ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:357/390 MP:285/378
+D-Nadja HP:326/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-Samael HP:904/945 MP:189/189
+C-
+D-Inugami HP:214/214 MP:109/109
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Inugami
+2-Samael
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:357/390 MP:285/378
+D-Nadja HP:326/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-Samael HP:904/945 MP:189/189
+C-
+D-Inugami HP:214/214 MP:109/109
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Samael
+2-Inugami
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Churel HP:197/197 MP:180/190
+2-Succubus HP:268/268 MP:260/260
+3-Kukunochi HP:254/254 MP:246/246
+4-Qing Niuguai HP:407/407 MP:81/81
+5-Cancelar
+INPUT: 3
+----------------------------------------
+Kukunochi ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:357/390 MP:285/378
+D-Nadja HP:326/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-Kukunochi HP:254/254 MP:246/246
+C-
+D-Inugami HP:214/214 MP:109/109
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Inugami
+2-Kukunochi
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Pales HP:357/390 MP:285/378
+2-Nadja HP:326/399 MP:179/179
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:357/390 MP:285/378
+D-Nadja HP:326/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-Kukunochi HP:254/254 MP:246/246
+C-
+D-Inugami HP:214/214 MP:109/109
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pales
+2-Nadja
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pales use
+1-Mamudoon MP:30
+2-Pandemic Bomb MP:11
+3-Dekaja MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pales use
+1-Mamudoon MP:30
+2-Pandemic Bomb MP:11
+3-Dekaja MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pales use
+1-Mamudoon MP:30
+2-Pandemic Bomb MP:11
+3-Dekaja MP:10
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Pales ataca con oscuridad a Kukunochi
+Kukunochi es resistente el ataque de Pales
+Kukunochi ha sido eliminado
+Kukunochi termina con HP:0/254
+Pales ataca con oscuridad a Inugami
+Inugami bloquea el ataque de Pales
+Inugami termina con HP:214/214
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:357/390 MP:255/378
+D-Nadja HP:326/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Inugami HP:214/214 MP:109/109
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Inugami
+1-Pales HP:357/390 MP:255/378
+2-Nadja HP:326/399 MP:179/179
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Inugami ataca a Pales
+Pales recibe 17 de daño
+Pales termina con HP:340/390
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:340/390 MP:255/378
+D-Nadja HP:326/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Inugami HP:214/214 MP:109/109
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pales
+2-Nadja
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pales use
+1-Mamudoon MP:30
+2-Pandemic Bomb MP:11
+3-Dekaja MP:10
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Pales ataca con oscuridad a Inugami
+Inugami bloquea el ataque de Pales
+Inugami termina con HP:214/214
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:340/390 MP:225/378
+D-Nadja HP:326/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Inugami HP:214/214 MP:109/109
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Inugami
+----------------------------------------
+Seleccione una acción para Inugami
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Churel HP:197/197 MP:180/190
+2-Samael HP:904/945 MP:189/189
+3-Succubus HP:268/268 MP:260/260
+4-Qing Niuguai HP:407/407 MP:81/81
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Samael ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:340/390 MP:225/378
+D-Nadja HP:326/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Samael HP:904/945 MP:189/189
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Samael
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Churel HP:197/197 MP:180/190
+2-Succubus HP:268/268 MP:260/260
+3-Inugami HP:214/214 MP:109/109
+4-Qing Niuguai HP:407/407 MP:81/81
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Succubus ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:340/390 MP:225/378
+D-Nadja HP:326/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Succubus HP:268/268 MP:260/260
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pales
+2-Nadja
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pales
+1-Succubus HP:268/268 MP:260/260
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Pales ataca a Succubus
+Succubus recibe 41 de daño
+Succubus termina con HP:227/268
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:340/390 MP:225/378
+D-Nadja HP:326/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Succubus HP:227/268 MP:260/260
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Pales
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nadja use
+1-Pulinpa MP:5
+2-Concentrate MP:11
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:340/390 MP:225/378
+D-Nadja HP:326/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Succubus HP:227/268 MP:260/260
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pales
+2-Nadja
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pales
+1-Succubus HP:227/268 MP:260/260
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pales
+1-Succubus HP:227/268 MP:260/260
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pales use
+1-Mamudoon MP:30
+2-Pandemic Bomb MP:11
+3-Dekaja MP:10
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Pales ataca con oscuridad a Succubus
+Succubus bloquea el ataque de Pales
+Succubus termina con HP:227/268
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:340/390 MP:195/378
+D-Nadja HP:326/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Succubus HP:227/268 MP:260/260
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Succubus
+----------------------------------------
+Seleccione una acción para Succubus
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Churel HP:197/197 MP:180/190
+2-Samael HP:904/945 MP:189/189
+3-Inugami HP:214/214 MP:109/109
+4-Qing Niuguai HP:407/407 MP:81/81
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Qing Niuguai ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:340/390 MP:195/378
+D-Nadja HP:326/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Qing Niuguai HP:407/407 MP:81/81
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Qing Niuguai
+----------------------------------------
+Seleccione una acción para Qing Niuguai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Churel HP:197/197 MP:180/190
+2-Samael HP:904/945 MP:189/189
+3-Succubus HP:227/268 MP:260/260
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 2
+----------------------------------------
+Samael ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:340/390 MP:195/378
+D-Nadja HP:326/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Samael HP:904/945 MP:189/189
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pales
+2-Nadja
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pales use
+1-Mamudoon MP:30
+2-Pandemic Bomb MP:11
+3-Dekaja MP:10
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Pales ataca con oscuridad a Samael
+Samael bloquea el ataque de Pales
+Samael termina con HP:904/945
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:340/390 MP:165/378
+D-Nadja HP:326/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Samael HP:904/945 MP:189/189
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Samael
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Samael use
+1-Diarahan MP:16
+2-Sea of Chaos MP:45
+3-Pandemic Bomb MP:11
+4-Poison Breath MP:11
+5-Doping MP:45
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Samael use
+1-Diarahan MP:16
+2-Sea of Chaos MP:45
+3-Pandemic Bomb MP:11
+4-Poison Breath MP:11
+5-Doping MP:45
+6-Cancelar
+INPUT: 2
+----------------------------------------
+Samael lanza un ataque todo poderoso a Pales
+Pales recibe 115 de daño
+Pales termina con HP:225/390
+Samael lanza un ataque todo poderoso a Nadja
+Nadja recibe 115 de daño
+Nadja termina con HP:211/399
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:225/390 MP:165/378
+D-Nadja HP:211/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Samael HP:904/945 MP:144/189
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pales
+2-Nadja
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:225/390 MP:165/378
+D-Nadja HP:211/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Samael HP:904/945 MP:144/189
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nadja
+2-Pales
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:225/390 MP:165/378
+D-Nadja HP:211/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Samael HP:904/945 MP:144/189
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pales
+2-Nadja
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pales use
+1-Mamudoon MP:30
+2-Pandemic Bomb MP:11
+3-Dekaja MP:10
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Pales ataca con oscuridad a Samael
+Samael bloquea el ataque de Pales
+Samael termina con HP:904/945
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:225/390 MP:135/378
+D-Nadja HP:211/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Samael HP:904/945 MP:144/189
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Samael
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Churel HP:197/197 MP:180/190
+2-Succubus HP:227/268 MP:260/260
+3-Inugami HP:214/214 MP:109/109
+4-Qing Niuguai HP:407/407 MP:81/81
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Churel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:225/390 MP:135/378
+D-Nadja HP:211/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:197/197 MP:180/190
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Churel
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:225/390 MP:135/378
+D-Nadja HP:211/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:197/197 MP:180/190
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pales
+2-Nadja
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pales use
+1-Mamudoon MP:30
+2-Pandemic Bomb MP:11
+3-Dekaja MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pales use
+1-Mamudoon MP:30
+2-Pandemic Bomb MP:11
+3-Dekaja MP:10
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Pales ataca con oscuridad a Churel
+Churel bloquea el ataque de Pales
+Churel termina con HP:197/197
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:225/390 MP:105/378
+D-Nadja HP:211/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:197/197 MP:180/190
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Churel
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Samael HP:904/945 MP:144/189
+2-Succubus HP:227/268 MP:260/260
+3-Inugami HP:214/214 MP:109/109
+4-Qing Niuguai HP:407/407 MP:81/81
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Samael HP:904/945 MP:144/189
+2-Succubus HP:227/268 MP:260/260
+3-Inugami HP:214/214 MP:109/109
+4-Qing Niuguai HP:407/407 MP:81/81
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Qing Niuguai ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:225/390 MP:105/378
+D-Nadja HP:211/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Qing Niuguai HP:407/407 MP:81/81
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Qing Niuguai
+----------------------------------------
+Seleccione una acción para Qing Niuguai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Churel HP:197/197 MP:180/190
+2-Samael HP:904/945 MP:144/189
+3-Succubus HP:227/268 MP:260/260
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Churel ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:225/390 MP:105/378
+D-Nadja HP:211/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:197/197 MP:180/190
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pales
+2-Nadja
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:225/390 MP:105/378
+D-Nadja HP:211/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:197/197 MP:180/190
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nadja
+2-Pales
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Churel HP:197/197 MP:180/190
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:225/390 MP:105/378
+D-Nadja HP:211/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:197/197 MP:180/190
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pales
+2-Nadja
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pales use
+1-Mamudoon MP:30
+2-Pandemic Bomb MP:11
+3-Dekaja MP:10
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Pales ataca con oscuridad a Churel
+Churel bloquea el ataque de Pales
+Churel termina con HP:197/197
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:225/390 MP:75/378
+D-Nadja HP:211/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:197/197 MP:180/190
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Churel
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Churel use
+1-Energy Drain MP:10
+2-Shibaboo MP:5
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Churel
+1-Pales HP:225/390 MP:75/378
+2-Nadja HP:211/399 MP:179/179
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Samael HP:904/945 MP:144/189
+2-Succubus HP:227/268 MP:260/260
+3-Inugami HP:214/214 MP:109/109
+4-Qing Niuguai HP:407/407 MP:81/81
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Samael ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:225/390 MP:75/378
+D-Nadja HP:211/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Samael HP:904/945 MP:144/189
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Samael
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Samael
+1-Pales HP:225/390 MP:75/378
+2-Nadja HP:211/399 MP:179/179
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:225/390 MP:75/378
+D-Nadja HP:211/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Samael HP:904/945 MP:144/189
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pales
+2-Nadja
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pales use
+1-Mamudoon MP:30
+2-Pandemic Bomb MP:11
+3-Dekaja MP:10
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Pales ataca con oscuridad a Samael
+Samael bloquea el ataque de Pales
+Samael termina con HP:904/945
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:225/390 MP:45/378
+D-Nadja HP:211/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Samael HP:904/945 MP:144/189
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Samael
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Churel HP:197/197 MP:180/190
+2-Succubus HP:227/268 MP:260/260
+3-Inugami HP:214/214 MP:109/109
+4-Qing Niuguai HP:407/407 MP:81/81
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Samael use
+1-Diarahan MP:16
+2-Sea of Chaos MP:45
+3-Pandemic Bomb MP:11
+4-Poison Breath MP:11
+5-Doping MP:45
+6-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Samael
+1-Samael HP:904/945 MP:144/189
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:225/390 MP:45/378
+D-Nadja HP:211/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Samael HP:904/945 MP:144/189
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Samael
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:225/390 MP:45/378
+D-Nadja HP:211/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Samael HP:904/945 MP:144/189
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pales
+2-Nadja
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pales use
+1-Mamudoon MP:30
+2-Pandemic Bomb MP:11
+3-Dekaja MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pales
+1-Samael HP:904/945 MP:144/189
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pales
+1-Samael HP:904/945 MP:144/189
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Pales ataca a Samael
+Samael recibe 41 de daño
+Samael termina con HP:863/945
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:225/390 MP:45/378
+D-Nadja HP:211/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Samael HP:863/945 MP:144/189
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Pales
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:225/390 MP:45/378
+D-Nadja HP:211/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Samael HP:863/945 MP:144/189
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pales
+2-Nadja
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:225/390 MP:45/378
+D-Nadja HP:211/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Samael HP:863/945 MP:144/189
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Samael
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Samael use
+1-Diarahan MP:16
+2-Sea of Chaos MP:45
+3-Pandemic Bomb MP:11
+4-Poison Breath MP:11
+5-Doping MP:45
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:225/390 MP:45/378
+D-Nadja HP:211/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Samael HP:863/945 MP:144/189
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Samael
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Samael
+1-Pales HP:225/390 MP:45/378
+2-Nadja HP:211/399 MP:179/179
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Samael ataca a Pales
+Pales recibe 73 de daño
+Pales termina con HP:152/390
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:152/390 MP:45/378
+D-Nadja HP:211/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Samael HP:863/945 MP:144/189
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pales
+2-Nadja
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pales
+1-Samael HP:863/945 MP:144/189
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pales use
+1-Mamudoon MP:30
+2-Pandemic Bomb MP:11
+3-Dekaja MP:10
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Pales ataca con oscuridad a Samael
+Samael bloquea el ataque de Pales
+Samael termina con HP:863/945
+----------------------------------------
+Se han consumido 2 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:152/390 MP:15/378
+D-Nadja HP:211/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Samael HP:863/945 MP:144/189
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Samael
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Samael
+1-Pales HP:152/390 MP:15/378
+2-Nadja HP:211/399 MP:179/179
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Samael ataca a Pales
+Pales recibe 73 de daño
+Pales termina con HP:79/390
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:79/390 MP:15/378
+D-Nadja HP:211/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Samael HP:863/945 MP:144/189
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pales
+2-Nadja
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pales
+1-Samael HP:863/945 MP:144/189
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pales use
+1-Pandemic Bomb MP:11
+2-Dekaja MP:10
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pales use
+1-Pandemic Bomb MP:11
+2-Dekaja MP:10
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pales
+1-Samael HP:863/945 MP:144/189
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Pales ataca a Samael
+Samael recibe 41 de daño
+Samael termina con HP:822/945
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:79/390 MP:15/378
+D-Nadja HP:211/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Samael HP:822/945 MP:144/189
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Pales
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Samael HP:822/945 MP:144/189
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nadja ataca a Samael
+Samael recibe 32 de daño
+Samael termina con HP:790/945
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:79/390 MP:15/378
+D-Nadja HP:211/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Samael HP:790/945 MP:144/189
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Samael
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Samael
+1-Pales HP:79/390 MP:15/378
+2-Nadja HP:211/399 MP:179/179
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Samael use
+1-Diarahan MP:16
+2-Sea of Chaos MP:45
+3-Pandemic Bomb MP:11
+4-Poison Breath MP:11
+5-Doping MP:45
+6-Cancelar
+INPUT: 6
+----------------------------------------
+Seleccione una acción para Samael
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Churel HP:197/197 MP:180/190
+2-Succubus HP:227/268 MP:260/260
+3-Inugami HP:214/214 MP:109/109
+4-Qing Niuguai HP:407/407 MP:81/81
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Qing Niuguai ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:79/390 MP:15/378
+D-Nadja HP:211/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Qing Niuguai HP:407/407 MP:81/81
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Qing Niuguai
+----------------------------------------
+Seleccione una acción para Qing Niuguai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:79/390 MP:15/378
+D-Nadja HP:211/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Qing Niuguai HP:407/407 MP:81/81
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pales
+2-Nadja
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pales
+1-Qing Niuguai HP:407/407 MP:81/81
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Pales ataca a Qing Niuguai
+Qing Niuguai es resistente el ataque de Pales
+Qing Niuguai recibe 20 de daño
+Qing Niuguai termina con HP:387/407
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:0/597 MP:347/347
+B-
+C-Pales HP:79/390 MP:15/378
+D-Nadja HP:211/399 MP:179/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Qing Niuguai HP:387/407 MP:81/81
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Pales
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Qing Niuguai HP:387/407 MP:81/81
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nadja use
+1-Pulinpa MP:5
+2-Concentrate MP:11
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Yu HP:0/597 MP:347/347
+2-Ippon-Datara HP:0/256 MP:56/56
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Nadja revive a Yu
+Yu recibe 597 de HP
+Yu termina con HP:597/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-
+C-Pales HP:79/390 MP:15/378
+D-Nadja HP:211/399 MP:139/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Qing Niuguai HP:387/407 MP:81/81
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Qing Niuguai
+----------------------------------------
+Seleccione una acción para Qing Niuguai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Churel HP:197/197 MP:180/190
+2-Samael HP:790/945 MP:144/189
+3-Succubus HP:227/268 MP:260/260
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Churel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-
+C-Pales HP:79/390 MP:15/378
+D-Nadja HP:211/399 MP:139/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:197/197 MP:180/190
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Churel
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-
+C-Pales HP:79/390 MP:15/378
+D-Nadja HP:211/399 MP:139/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:197/197 MP:180/190
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Pales
+3-Nadja
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-
+C-Pales HP:79/390 MP:15/378
+D-Nadja HP:211/399 MP:139/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:197/197 MP:180/190
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pales
+2-Nadja
+3-Yu
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-
+C-Pales HP:79/390 MP:15/378
+D-Nadja HP:211/399 MP:139/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:197/197 MP:180/190
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Yu
+3-Pales
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nadja use
+1-Pulinpa MP:5
+2-Concentrate MP:11
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Ippon-Datara HP:0/256 MP:56/56
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Nadja revive a Ippon-Datara
+Ippon-Datara recibe 256 de HP
+Ippon-Datara termina con HP:256/256
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-
+C-Pales HP:79/390 MP:15/378
+D-Nadja HP:211/399 MP:99/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:197/197 MP:180/190
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Pales
+3-Nadja
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Churel HP:197/197 MP:180/190
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Churel
+Churel recibe 49 de daño
+Churel termina con HP:148/197
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:597/597 MP:347/347
+B-
+C-Pales HP:79/390 MP:15/378
+D-Nadja HP:211/399 MP:99/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:148/197 MP:180/190
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Churel
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Churel use
+1-Energy Drain MP:10
+2-Shibaboo MP:5
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Churel
+1-Yu HP:597/597 MP:347/347
+2-Pales HP:79/390 MP:15/378
+3-Nadja HP:211/399 MP:99/179
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Churel ataca a Yu
+Yu es resistente el ataque de Churel
+Yu recibe 10 de daño
+Yu termina con HP:587/597
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:587/597 MP:347/347
+B-
+C-Pales HP:79/390 MP:15/378
+D-Nadja HP:211/399 MP:99/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:148/197 MP:180/190
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Pales
+3-Nadja
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:587/597 MP:347/347
+B-
+C-Pales HP:79/390 MP:15/378
+D-Nadja HP:211/399 MP:99/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:148/197 MP:180/190
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pales
+2-Nadja
+3-Yu
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pales use
+1-Pandemic Bomb MP:11
+2-Dekaja MP:10
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pales use
+1-Pandemic Bomb MP:11
+2-Dekaja MP:10
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Ippon-Datara HP:256/256 MP:56/56
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Ippon-Datara ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:587/597 MP:347/347
+B-
+C-Ippon-Datara HP:256/256 MP:56/56
+D-Nadja HP:211/399 MP:99/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:148/197 MP:180/190
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Yu
+3-Ippon-Datara
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nadja use
+1-Pulinpa MP:5
+2-Concentrate MP:11
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:587/597 MP:347/347
+B-
+C-Ippon-Datara HP:256/256 MP:56/56
+D-Nadja HP:211/399 MP:99/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:148/197 MP:180/190
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Ippon-Datara
+3-Nadja
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:587/597 MP:347/347
+B-
+C-Ippon-Datara HP:256/256 MP:56/56
+D-Nadja HP:211/399 MP:99/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:148/197 MP:180/190
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ippon-Datara
+2-Nadja
+3-Yu
+----------------------------------------
+Seleccione una acción para Ippon-Datara
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:587/597 MP:347/347
+B-
+C-Ippon-Datara HP:256/256 MP:56/56
+D-Nadja HP:211/399 MP:99/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:148/197 MP:180/190
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nadja
+2-Yu
+3-Ippon-Datara
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Churel HP:148/197 MP:180/190
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Nadja
+1-Churel HP:148/197 MP:180/190
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nadja use
+1-Pulinpa MP:5
+2-Concentrate MP:11
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nadja ha cargado su siguiente ataque mágico a más del doble
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:587/597 MP:347/347
+B-
+C-Ippon-Datara HP:256/256 MP:56/56
+D-Nadja HP:211/399 MP:88/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:148/197 MP:180/190
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Churel
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:587/597 MP:347/347
+B-
+C-Ippon-Datara HP:256/256 MP:56/56
+D-Nadja HP:211/399 MP:88/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:148/197 MP:180/190
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Churel
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Churel use
+1-Energy Drain MP:10
+2-Shibaboo MP:5
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Samael HP:790/945 MP:144/189
+2-Succubus HP:227/268 MP:260/260
+3-Inugami HP:214/214 MP:109/109
+4-Qing Niuguai HP:387/407 MP:81/81
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Qing Niuguai ha sido invocado
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:587/597 MP:347/347
+B-
+C-Ippon-Datara HP:256/256 MP:56/56
+D-Nadja HP:211/399 MP:88/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Qing Niuguai HP:387/407 MP:81/81
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Nadja
+3-Ippon-Datara
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 3
+----------------------------------------
+Seleccione una habilidad para que Yu use
+1-Bad Company MP:15
+2-Hamaon MP:10
+3-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una posición para invocar
+1-Vacío (Puesto 2)
+2-Ippon-Datara HP:256/256 MP:56/56 (Puesto 3)
+3-Nadja HP:211/399 MP:88/179 (Puesto 4)
+4-Cancelar
+INPUT: 1
+----------------------------------------
+Pales ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:587/597 MP:332/347
+B-Pales HP:79/390 MP:15/378
+C-Ippon-Datara HP:256/256 MP:56/56
+D-Nadja HP:211/399 MP:88/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Qing Niuguai HP:387/407 MP:81/81
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Ippon-Datara
+3-Pales
+4-Yu
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:587/597 MP:332/347
+B-Pales HP:79/390 MP:15/378
+C-Ippon-Datara HP:256/256 MP:56/56
+D-Nadja HP:211/399 MP:88/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Qing Niuguai HP:387/407 MP:81/81
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Ippon-Datara
+2-Pales
+3-Yu
+4-Nadja
+----------------------------------------
+Seleccione una acción para Ippon-Datara
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:587/597 MP:332/347
+B-Pales HP:79/390 MP:15/378
+C-Ippon-Datara HP:256/256 MP:56/56
+D-Nadja HP:211/399 MP:88/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Qing Niuguai HP:387/407 MP:81/81
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pales
+2-Yu
+3-Nadja
+4-Ippon-Datara
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pales
+1-Qing Niuguai HP:387/407 MP:81/81
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Pales ataca a Qing Niuguai
+Qing Niuguai es resistente el ataque de Pales
+Qing Niuguai recibe 20 de daño
+Qing Niuguai termina con HP:367/407
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:587/597 MP:332/347
+B-Pales HP:79/390 MP:15/378
+C-Ippon-Datara HP:256/256 MP:56/56
+D-Nadja HP:211/399 MP:88/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Qing Niuguai HP:367/407 MP:81/81
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Qing Niuguai
+----------------------------------------
+Seleccione una acción para Qing Niuguai
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Churel HP:148/197 MP:180/190
+2-Samael HP:790/945 MP:144/189
+3-Succubus HP:227/268 MP:260/260
+4-Inugami HP:214/214 MP:109/109
+5-Cancelar
+INPUT: 1
+----------------------------------------
+Churel ha sido invocado
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:587/597 MP:332/347
+B-Pales HP:79/390 MP:15/378
+C-Ippon-Datara HP:256/256 MP:56/56
+D-Nadja HP:211/399 MP:88/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:148/197 MP:180/190
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Churel
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:587/597 MP:332/347
+B-Pales HP:79/390 MP:15/378
+C-Ippon-Datara HP:256/256 MP:56/56
+D-Nadja HP:211/399 MP:88/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:148/197 MP:180/190
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Pales
+3-Nadja
+4-Ippon-Datara
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:587/597 MP:332/347
+B-Pales HP:79/390 MP:15/378
+C-Ippon-Datara HP:256/256 MP:56/56
+D-Nadja HP:211/399 MP:88/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:148/197 MP:180/190
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pales
+2-Nadja
+3-Ippon-Datara
+4-Yu
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:587/597 MP:332/347
+B-Pales HP:79/390 MP:15/378
+C-Ippon-Datara HP:256/256 MP:56/56
+D-Nadja HP:211/399 MP:88/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:148/197 MP:180/190
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Nadja
+2-Ippon-Datara
+3-Yu
+4-Pales
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Nadja use
+1-Pulinpa MP:5
+2-Concentrate MP:11
+3-Samarecarm MP:40
+4-Cancelar
+INPUT: 2
+----------------------------------------
+Nadja ha cargado su siguiente ataque mágico a más del doble
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:587/597 MP:332/347
+B-Pales HP:79/390 MP:15/378
+C-Ippon-Datara HP:256/256 MP:56/56
+D-Nadja HP:211/399 MP:77/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:148/197 MP:180/190
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ippon-Datara
+2-Yu
+3-Pales
+4-Nadja
+----------------------------------------
+Seleccione una acción para Ippon-Datara
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ippon-Datara use
+1-Fang Breaker MP:12
+2-Tarukaja MP:15
+3-Maragi MP:11
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Ippon-Datara lanza fuego a Churel
+Churel recibe 34 de daño
+Churel termina con HP:114/197
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:587/597 MP:332/347
+B-Pales HP:79/390 MP:15/378
+C-Ippon-Datara HP:256/256 MP:45/56
+D-Nadja HP:211/399 MP:77/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:114/197 MP:180/190
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Pales
+3-Nadja
+4-Ippon-Datara
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Churel HP:114/197 MP:180/190
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:587/597 MP:332/347
+B-Pales HP:79/390 MP:15/378
+C-Ippon-Datara HP:256/256 MP:45/56
+D-Nadja HP:211/399 MP:77/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:114/197 MP:180/190
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Pales
+2-Nadja
+3-Ippon-Datara
+4-Yu
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:587/597 MP:332/347
+B-Pales HP:79/390 MP:15/378
+C-Ippon-Datara HP:256/256 MP:45/56
+D-Nadja HP:211/399 MP:77/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:114/197 MP:180/190
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Churel
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:587/597 MP:332/347
+B-Pales HP:79/390 MP:15/378
+C-Ippon-Datara HP:256/256 MP:45/56
+D-Nadja HP:211/399 MP:77/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:114/197 MP:180/190
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Churel
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:587/597 MP:332/347
+B-Pales HP:79/390 MP:15/378
+C-Ippon-Datara HP:256/256 MP:45/56
+D-Nadja HP:211/399 MP:77/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:114/197 MP:180/190
+----------------------------------------
+Full Turns: 4
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Pales
+3-Nadja
+4-Ippon-Datara
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Churel HP:114/197 MP:180/190
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 4
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Churel HP:114/197 MP:180/190
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Churel HP:114/197 MP:180/190
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Churel HP:114/197 MP:180/190
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Churel
+Churel recibe 49 de daño
+Churel termina con HP:65/197
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:587/597 MP:332/347
+B-Pales HP:79/390 MP:15/378
+C-Ippon-Datara HP:256/256 MP:45/56
+D-Nadja HP:211/399 MP:77/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:65/197 MP:180/190
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pales
+2-Nadja
+3-Ippon-Datara
+4-Yu
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pales use
+1-Pandemic Bomb MP:11
+2-Dekaja MP:10
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pales
+1-Churel HP:65/197 MP:180/190
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pales
+1-Churel HP:65/197 MP:180/190
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pales use
+1-Pandemic Bomb MP:11
+2-Dekaja MP:10
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 3
+----------------------------------------
+Seleccione un monstruo para invocar
+1-Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Pales use
+1-Pandemic Bomb MP:11
+2-Dekaja MP:10
+3-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:587/597 MP:332/347
+B-Pales HP:79/390 MP:15/378
+C-Ippon-Datara HP:256/256 MP:45/56
+D-Nadja HP:211/399 MP:77/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:65/197 MP:180/190
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nadja
+2-Ippon-Datara
+3-Yu
+4-Pales
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:587/597 MP:332/347
+B-Pales HP:79/390 MP:15/378
+C-Ippon-Datara HP:256/256 MP:45/56
+D-Nadja HP:211/399 MP:77/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:65/197 MP:180/190
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Ippon-Datara
+2-Yu
+3-Pales
+4-Nadja
+----------------------------------------
+Seleccione una acción para Ippon-Datara
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Ippon-Datara use
+1-Fang Breaker MP:12
+2-Tarukaja MP:15
+3-Maragi MP:11
+4-Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione una acción para Ippon-Datara
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ippon-Datara
+1-Churel HP:65/197 MP:180/190
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Ippon-Datara
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:587/597 MP:332/347
+B-Pales HP:79/390 MP:15/378
+C-Ippon-Datara HP:256/256 MP:45/56
+D-Nadja HP:211/399 MP:77/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:65/197 MP:180/190
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Yu
+2-Pales
+3-Nadja
+4-Ippon-Datara
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 5
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:587/597 MP:332/347
+B-Pales HP:79/390 MP:15/378
+C-Ippon-Datara HP:256/256 MP:45/56
+D-Nadja HP:211/399 MP:77/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:65/197 MP:180/190
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pales
+2-Nadja
+3-Ippon-Datara
+4-Yu
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:587/597 MP:332/347
+B-Pales HP:79/390 MP:15/378
+C-Ippon-Datara HP:256/256 MP:45/56
+D-Nadja HP:211/399 MP:77/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:65/197 MP:180/190
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Nadja
+2-Ippon-Datara
+3-Yu
+4-Pales
+----------------------------------------
+Seleccione una acción para Nadja
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Aleph (J2)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:587/597 MP:332/347
+B-Pales HP:79/390 MP:15/378
+C-Ippon-Datara HP:256/256 MP:45/56
+D-Nadja HP:211/399 MP:77/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:65/197 MP:180/190
+----------------------------------------
+Full Turns: 1
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Churel
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Churel
+1-Yu HP:587/597 MP:332/347
+2-Pales HP:79/390 MP:15/378
+3-Ippon-Datara HP:256/256 MP:45/56
+4-Nadja HP:211/399 MP:77/179
+5-Cancelar
+INPUT: 5
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 4
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 1 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:587/597 MP:332/347
+B-Pales HP:79/390 MP:15/378
+C-Ippon-Datara HP:256/256 MP:45/56
+D-Nadja HP:211/399 MP:77/179
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:65/197 MP:180/190
+----------------------------------------
+Full Turns: 0
+Blinking Turns: 1
+----------------------------------------
+Orden:
+1-Churel
+----------------------------------------
+Seleccione una acción para Churel
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para que Churel use
+1-Energy Drain MP:10
+2-Shibaboo MP:5
+3-Mudoon MP:10
+4-Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione un objetivo para Churel
+1-Yu HP:587/597 MP:332/347
+2-Pales HP:79/390 MP:15/378
+3-Ippon-Datara HP:256/256 MP:45/56
+4-Nadja HP:211/399 MP:77/179
+5-Cancelar
+INPUT: 4
+----------------------------------------
+Churel ataca con oscuridad a Nadja
+Nadja ha sido eliminado
+Nadja termina con HP:0/399
+----------------------------------------
+Se han consumido 0 Full Turn(s) y 1 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ronda de Yu (J1)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:587/597 MP:332/347
+B-Pales HP:79/390 MP:15/378
+C-Ippon-Datara HP:256/256 MP:45/56
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:65/197 MP:170/190
+----------------------------------------
+Full Turns: 3
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Yu
+2-Pales
+3-Ippon-Datara
+----------------------------------------
+Seleccione una acción para Yu
+1: Atacar
+2: Disparar
+3: Usar Habilidad
+4: Invocar
+5: Pasar Turno
+6: Rendirse
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Yu
+1-Churel HP:65/197 MP:170/190
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Yu ataca a Churel
+Churel recibe 49 de daño
+Churel termina con HP:16/197
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Equipo de Yu (J1)
+A-Yu HP:587/597 MP:332/347
+B-Pales HP:79/390 MP:15/378
+C-Ippon-Datara HP:256/256 MP:45/56
+D-
+Equipo de Aleph (J2)
+A-Aleph HP:0/1309 MP:613/613
+B-
+C-
+D-Churel HP:16/197 MP:170/190
+----------------------------------------
+Full Turns: 2
+Blinking Turns: 0
+----------------------------------------
+Orden:
+1-Pales
+2-Ippon-Datara
+3-Yu
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pales
+1-Churel HP:16/197 MP:170/190
+2-Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione una acción para Pales
+1: Atacar
+2: Usar Habilidad
+3: Invocar
+4: Pasar Turno
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Pales
+1-Churel HP:16/197 MP:170/190
+2-Cancelar
+INPUT: 1
+----------------------------------------
+Pales ataca a Churel
+Churel recibe 41 de daño
+Churel termina con HP:0/197
+----------------------------------------
+Se han consumido 1 Full Turn(s) y 0 Blinking Turn(s)
+Se han obtenido 0 Blinking Turn(s)
+----------------------------------------
+Ganador: Yu (J1)
