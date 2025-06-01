@@ -5,68 +5,110 @@ public class Team
     private const int MAX_SAMURAI_ALLOWED = 1;
     private const int MAX_ABILITIES_ALLOWED = 8;
     private const int MAX_VISIBLE_MONSTERS = 3;
+    
     private int _initialMaxFullTurns;
-    public string Player { get; private set; }
-    public List<Monster> Units { get; private set; }
-    public Samurai? Samurai { get; private set; }
-    public List<string> _originalMonstersOrder;
-    public List<IUnit> OrderList { get; private set; }
-    public int FullTurns { get; private set; }
-    public int BlinkingTurns { get; private set; }
-    public int MaxFullTurns { get; private set; } 
-    public int UsedSkillsCount { get; private set; }
+    private string _player;
+    private List<Monster> _units;
+    private Samurai _samurai;
+    private List<string> _originalMonstersOrder;
+    private List<IUnit> _orderList;
+    private int _fullTurns;
+    private int _blinkingTurns;
+    private int _maxFullTurns;
+    private int _usedSkillsCount;
 
     public Team(string player)
     {
-        Player = player;
-        Units = new List<Monster>();
-        OrderList = new List<IUnit>();
-        FullTurns = 0;
-        BlinkingTurns = 0;
-        UsedSkillsCount = 0;
+        _player = player;
+        _units = new List<Monster>();
+        _orderList = new List<IUnit>();
+        _fullTurns = 0;
+        _blinkingTurns = 0;
+        _usedSkillsCount = 0;
     }
+
+    public string GetPlayer() => _player;
+    public Samurai GetSamurai() => _samurai;
+    public List<Monster> GetUnits() => _units;
+    public List<IUnit> GetOrderList() => _orderList;
+    public int GetFullTurns() => _fullTurns;
+    public int GetBlinkingTurns() => _blinkingTurns;
+    public int GetMaxFullTurns() => _maxFullTurns;
+    public int GetUsedSkillsCount() => _usedSkillsCount;
+    public List<string> GetOriginalMonstersOrder() => new List<string>(_originalMonstersOrder ?? new List<string>());
 
     public void InitializeOrderList()
     {
-        OrderList.Clear();
+        _orderList.Clear();
         AddUnitsToOrderList();
         SortOrderListBySpeed();
     }
 
     private void AddUnitsToOrderList()
     {
-        if (Samurai != null)
-            OrderList.Add(Samurai);
-        for (int i = 0; i < Math.Min(Units.Count, MAX_VISIBLE_MONSTERS); i++)
-            OrderList.Add(Units[i]);
+        if (_samurai != null)
+            _orderList.Add(_samurai);
+        for (int i = 0; i < Math.Min(_units.Count, MAX_VISIBLE_MONSTERS); i++)
+            _orderList.Add(_units[i]);
     }
 
     private void SortOrderListBySpeed()
     {
-        if (HasMultipleUnitsInOrder())
-            OrderList = OrderList
-                .OrderByDescending(unit => unit.Spd)
-                .ToList();
+        if (!HasMultipleUnitsInOrder())
+            return;
+            
+        var sortedUnits = CreateSpeedSortedList();
+        _orderList = sortedUnits;
+    }
+
+    private List<IUnit> CreateSpeedSortedList()
+    {
+        var sortedUnits = new List<IUnit>();
+        var unitsBySpeed = GroupUnitsBySpeed();
+        
+        foreach (var speedGroup in unitsBySpeed.OrderByDescending(g => g.Key))
+        {
+            sortedUnits.AddRange(speedGroup.Value);
+        }
+        
+        return sortedUnits;
+    }
+
+    private Dictionary<int, List<IUnit>> GroupUnitsBySpeed()
+    {
+        var unitsBySpeed = new Dictionary<int, List<IUnit>>();
+        
+        foreach (IUnit unit in _orderList)
+        {
+            int speed = unit.GetSpd();
+            if (!unitsBySpeed.ContainsKey(speed))
+            {
+                unitsBySpeed[speed] = new List<IUnit>();
+            }
+            unitsBySpeed[speed].Add(unit);
+        }
+        
+        return unitsBySpeed;
     }
 
     private bool HasMultipleUnitsInOrder()
     {
-        return OrderList.Count > 1;
+        return _orderList.Count > 1;
     }
 
     public void RotateOrderList()
     {
         if (HasUnitsInOrder())
         {
-            var firstUnit = OrderList[0];
-            OrderList.RemoveAt(0);
-            OrderList.Add(firstUnit);
+            var firstUnit = _orderList[0];
+            _orderList.RemoveAt(0);
+            _orderList.Add(firstUnit);
         }
     }
 
     private bool HasUnitsInOrder()
     {
-        return OrderList.Count > 0;
+        return _orderList.Count > 0;
     }
 
     public bool IsValidTeam(List<string> possibleUnits)
@@ -82,9 +124,15 @@ public class Team
 
     private List<string> ExtractMonsterNames(List<string> possibleUnits)
     {
-        return possibleUnits
-            .Where(name => !name.Contains("[Samurai]"))
-            .ToList();
+        var monsterNames = new List<string>();
+        foreach (string unitName in possibleUnits)
+        {
+            if (!IsSamuraiUnit(unitName))
+            {
+                monsterNames.Add(unitName);
+            }
+        }
+        return monsterNames;
     }
 
     private bool IsTeamStructureValid(List<string> possibleUnits)
@@ -169,8 +217,15 @@ public class Team
     private void CreateAndAddSamurai(string unit)
     {
         List<string> abilities = ExtractAbilities(unit);
-        var samuraiName = unit.Replace("[Samurai]", "").Split('(')[0].Trim();
-        Samurai = new Samurai(samuraiName, abilities);
+        string samuraiName = ExtractSamuraiName(unit);
+        _samurai = new Samurai(samuraiName, abilities);
+    }
+
+    private string ExtractSamuraiName(string unit)
+    {
+        string withoutPrefix = unit.Replace("[Samurai]", "");
+        string[] parts = withoutPrefix.Split('(');
+        return parts[0].Trim();
     }
 
     private bool HasTooManyUnits(List<string> units)
@@ -200,38 +255,61 @@ public class Team
 
     private List<string> ExtractAbilities(string unit)
     {
-        if (unit.Contains("("))
-            return unit.Split('(')[1].TrimEnd(')').Split(',').Select(h => h.Trim()).ToList();
-    
-        return new List<string>();
+        if (!unit.Contains("("))
+            return new List<string>();
+            
+        string abilitiesSection = ExtractAbilitiesSection(unit);
+        string[] rawAbilities = SplitAbilities(abilitiesSection);
+        return CleanAbilities(rawAbilities);
+    }
+
+    private string ExtractAbilitiesSection(string unit)
+    {
+        string[] parts = unit.Split('(');
+        return parts[1].TrimEnd(')');
+    }
+
+    private string[] SplitAbilities(string abilitiesSection)
+    {
+        return abilitiesSection.Split(',');
+    }
+
+    private List<string> CleanAbilities(string[] rawAbilities)
+    {
+        var cleanedAbilities = new List<string>();
+        foreach (string ability in rawAbilities)
+        {
+            cleanedAbilities.Add(ability.Trim());
+        }
+        return cleanedAbilities;
     }
 
     private void AddMonsterToTeam(string unit)
     {
-        Units.Add(new Monster(unit));
+        _units.Add(new Monster(unit));
     }
 
     public void SetMaxFullTurns()
     {
         if (IsInitialTurnSetup())
         {
-            MaxFullTurns = OrderList.Count;
-            _initialMaxFullTurns = MaxFullTurns;
+            _maxFullTurns = _orderList.Count;
+            _initialMaxFullTurns = _maxFullTurns;
         }
         else 
         {
-            MaxFullTurns = _initialMaxFullTurns;
+            _maxFullTurns = _initialMaxFullTurns;
         }
     }
 
     private bool IsInitialTurnSetup()
     {
-        return FullTurns == 0;
+        return _fullTurns == 0;
     }
 
     public void ResetTurns()
     {
-        FullTurns = 0;
+        _fullTurns = 0;
     }
 
     public bool HasCompletedAllTurns()
@@ -241,76 +319,92 @@ public class Team
 
     private bool HasCompletedAllFullTurns()
     {
-        return FullTurns == MaxFullTurns;
+        return _fullTurns == _maxFullTurns;
     }
 
     private bool HasNoBlinkingTurns()
     {
-        return BlinkingTurns == 0;
+        return _blinkingTurns == 0;
     }
 
     public bool AreAllUnitsDead()
     {
-        return !OrderList.Any(unit => !unit.IsDead());
+        return !_orderList.Any(unit => !unit.IsDead());
     }
 
     public void RemoveDeadUnits()
     {
-        OrderList.RemoveAll(unit => unit.IsDead());
+        _orderList.RemoveAll(unit => unit.IsDead());
     }
 
     public void ConsumeFullTurn()
     {
-        FullTurns++;
+        _fullTurns++;
     }
 
     public void ConsumeBlinkingTurn()
     {
-        BlinkingTurns--;
+        _blinkingTurns--;
     }
 
     public void AddBlinkingTurn()
     {
-        BlinkingTurns++;
+        _blinkingTurns++;
     }
 
     public void IncrementUsedSkillsCount()
     {
-        UsedSkillsCount++;
+        _usedSkillsCount++;
     }
 
     public List<Monster> GetAvailableMonstersForSummon()
     {
         List<Monster> availableMonsters = new List<Monster>();
-        int frontLineCount = Math.Min(Units.Count, MAX_VISIBLE_MONSTERS);
+        int frontLineCount = Math.Min(_units.Count, MAX_VISIBLE_MONSTERS);
     
         if (!HasReserveMonsters(frontLineCount))
             return availableMonsters;
     
-        for (int i = frontLineCount; i < Units.Count; i++)
-        {
-            var monster = Units[i];
-            if (IsAvailableForSummon(monster))
-                availableMonsters.Add(monster);
-        }
-    
-        availableMonsters = availableMonsters.OrderBy(monster => 
-        {
-            int originalIndex = _originalMonstersOrder.IndexOf(monster.Name);
-            return originalIndex == -1 ? _originalMonstersOrder.Count : originalIndex;
-        }).ToList();
+        CollectAvailableReserveMonsters(availableMonsters, frontLineCount);
+        SortMonstersByOriginalOrder(availableMonsters);
     
         return availableMonsters;
     }
 
+    private void CollectAvailableReserveMonsters(List<Monster> availableMonsters, int frontLineCount)
+    {
+        for (int i = frontLineCount; i < _units.Count; i++)
+        {
+            var monster = _units[i];
+            if (IsAvailableForSummon(monster))
+                availableMonsters.Add(monster);
+        }
+    }
+
+    private void SortMonstersByOriginalOrder(List<Monster> monsters)
+    {
+        monsters.Sort((monster1, monster2) => 
+        {
+            int index1 = GetOriginalMonsterIndex(monster1);
+            int index2 = GetOriginalMonsterIndex(monster2);
+            return index1.CompareTo(index2);
+        });
+    }
+
+    private int GetOriginalMonsterIndex(Monster monster)
+    {
+        int originalIndex = _originalMonstersOrder.IndexOf(monster.GetName());
+        return originalIndex == -1 ? _originalMonstersOrder.Count : originalIndex;
+    }
+
     private bool HasReserveMonsters(int frontLineCount)
     {
-        return Units.Count > frontLineCount;
+        return _units.Count > frontLineCount;
     }
 
     private bool IsAvailableForSummon(Monster monster)
     {
-        return !monster.IsDead() && monster.Name != "Placeholder";
+        return !monster.IsDead() && monster.GetName() != "Placeholder";
     }
 
     public void PlaceMonsterInPosition(Monster summonedMonster, int position)
@@ -337,23 +431,23 @@ public class Team
 
     private bool IsSameMonsterAtPosition(Monster summonedMonster, int position)
     {
-        return IsValidPosition(position) && Units[position] == summonedMonster;
+        return IsValidPosition(position) && _units[position] == summonedMonster;
     }
 
     private bool IsValidPosition(int position)
     {
-        return position < Units.Count;
+        return position < _units.Count;
     }
 
     private void HandleSameMonsterPlacement(Monster summonedMonster)
     {
         RemoveMonsterFromOrderList(summonedMonster);
-        OrderList.Add(summonedMonster);
+        _orderList.Add(summonedMonster);
     }
 
     private void RemoveMonsterFromCurrentPosition(Monster summonedMonster)
     {
-        Units.Remove(summonedMonster);
+        _units.Remove(summonedMonster);
     }
 
     private bool IsPositionEmptyOrDeadMonster(int position)
@@ -363,12 +457,12 @@ public class Team
 
     private bool IsPositionBeyondUnits(int position)
     {
-        return position >= Units.Count;
+        return position >= _units.Count;
     }
 
     private bool IsPositionWithDeadMonster(int position)
     {
-        return IsValidPosition(position) && Units[position].IsDead();
+        return IsValidPosition(position) && _units[position].IsDead();
     }
 
     private void PlaceMonsterInEmptyPosition(Monster summonedMonster, int position)
@@ -376,7 +470,7 @@ public class Team
         if (IsPositionBeyondUnits(position))
         {
             FillGapsWithPlaceholders(position);
-            Units.Add(summonedMonster);
+            _units.Add(summonedMonster);
         }
         else
         {
@@ -388,56 +482,56 @@ public class Team
 
     private void FillGapsWithPlaceholders(int targetPosition)
     {
-        while (Units.Count < targetPosition)
+        while (_units.Count < targetPosition)
         {
             Monster placeholder = CreatePlaceholderMonster();
-            Units.Add(placeholder);
+            _units.Add(placeholder);
         }
     }
 
     private Monster CreatePlaceholderMonster()
     {
         Monster placeholder = new Monster("Placeholder");
-        placeholder.Hp = 0;
+        placeholder.TakeDamage(placeholder.GetCurrentHp());
         return placeholder;
     }
 
     private void ReplaceDeadMonsterAtPosition(Monster summonedMonster, int position)
     {
-        Monster deadMonster = Units[position];
+        Monster deadMonster = _units[position];
         PreserveDeadMonsterIfNeeded(deadMonster);
-        Units[position] = summonedMonster;
+        _units[position] = summonedMonster;
     }
 
     private void PreserveDeadMonsterIfNeeded(Monster deadMonster)
     {
         if (ShouldPreserveDeadMonster(deadMonster))
         {
-            Units.Add(deadMonster);
+            _units.Add(deadMonster);
         }
     }
     
     private bool ShouldPreserveDeadMonster(Monster deadMonster)
     {
-        return deadMonster.IsDead() && deadMonster.Name != "Placeholder";
+        return deadMonster.IsDead() && deadMonster.GetName() != "Placeholder";
     }
 
     private void UpdateOrderListForPlacement(Monster summonedMonster)
     {
         RemoveMonsterFromOrderList(summonedMonster);
-        OrderList.Add(summonedMonster);
+        _orderList.Add(summonedMonster);
     }
 
     private void RemoveMonsterFromOrderList(Monster monster)
     {
-        if (OrderList.Contains(monster))
-            OrderList.Remove(monster);
+        if (_orderList.Contains(monster))
+            _orderList.Remove(monster);
     }
 
     private void PlaceMonsterInOccupiedPosition(Monster summonedMonster, int position)
     {
-        Monster replacedMonster = Units[position];
-        Units[position] = summonedMonster;
+        Monster replacedMonster = _units[position];
+        _units[position] = summonedMonster;
         
         UpdateOrderListForReplacement(replacedMonster, summonedMonster);
         EnsureAllFrontlinePositionsExist();
@@ -452,19 +546,19 @@ public class Team
         }
         else if (!IsMonsterInOrderList(summonedMonster))
         {
-            OrderList.Add(summonedMonster);
+            _orderList.Add(summonedMonster);
         }
     }
     
     private bool IsMonsterInOrderList(Monster monster)
     {
-        return OrderList.Contains(monster);
+        return _orderList.Contains(monster);
     }
 
     private void ReplaceMonsterInOrderList(Monster oldMonster, Monster newMonster)
     {
-        int index = OrderList.IndexOf(oldMonster);
-        OrderList[index] = newMonster;
+        int index = _orderList.IndexOf(oldMonster);
+        _orderList[index] = newMonster;
     }
 
     private void EnsureAllFrontlinePositionsExist()
@@ -474,19 +568,19 @@ public class Team
             if (NeedsPlaceholderAtPosition(i))
             {
                 Monster placeholder = CreatePlaceholderMonster();
-                Units.Add(placeholder);
+                _units.Add(placeholder);
             }
         }
     }
     
     private bool NeedsPlaceholderAtPosition(int position)
     {
-        return Units.Count <= position;
+        return _units.Count <= position;
     }
 
     private void MoveReplacedMonsterToReserve(Monster replacedMonster)
     {
-        Units.Add(replacedMonster);
+        _units.Add(replacedMonster);
     }
 
     private void SortReserveMonsters()
@@ -494,46 +588,72 @@ public class Team
         if (!HasEnoughUnitsForReserve())
             return;
 
-        var reserveMonsters = Units.Skip(MAX_VISIBLE_MONSTERS).ToList();
-        reserveMonsters = reserveMonsters.OrderBy(monster => 
+        var reserveMonsters = ExtractReserveMonsters();
+        SortReserveMonstersByPriority(reserveMonsters);
+        ReplaceReserveMonsters(reserveMonsters);
+    }
+
+    private List<Monster> ExtractReserveMonsters()
+    {
+        return _units.Skip(MAX_VISIBLE_MONSTERS).ToList();
+    }
+
+    private void SortReserveMonstersByPriority(List<Monster> reserveMonsters)
+    {
+        reserveMonsters.Sort((monster1, monster2) => 
         {
-            int originalIndex = _originalMonstersOrder.IndexOf(monster.Name);
-            if (originalIndex == -1)
-            {
-                if (IsPlaceholderMonster(monster))
-                    return int.MaxValue;
-                return _originalMonstersOrder.Count + monster.Name.GetHashCode() % 1000;
-            }
+            int priority1 = GetMonsterSortPriority(monster1);
+            int priority2 = GetMonsterSortPriority(monster2);
+            return priority1.CompareTo(priority2);
+        });
+    }
+
+    private int GetMonsterSortPriority(Monster monster)
+    {
+        int originalIndex = _originalMonstersOrder.IndexOf(monster.GetName());
+        
+        if (originalIndex != -1)
             return originalIndex;
-        }).ToList();
-        Units.RemoveRange(MAX_VISIBLE_MONSTERS, Units.Count - MAX_VISIBLE_MONSTERS);
-        Units.AddRange(reserveMonsters);
+        
+        if (IsPlaceholderMonster(monster))
+            return int.MaxValue;
+            
+        return _originalMonstersOrder.Count + monster.GetName().GetHashCode() % 1000;
+    }
+
+    private void ReplaceReserveMonsters(List<Monster> sortedReserveMonsters)
+    {
+        int reserveStartIndex = MAX_VISIBLE_MONSTERS;
+        int reserveCount = _units.Count - reserveStartIndex;
+        
+        _units.RemoveRange(reserveStartIndex, reserveCount);
+        _units.AddRange(sortedReserveMonsters);
     }
 
     private bool HasEnoughUnitsForReserve()
     {
-        return Units.Count > MAX_VISIBLE_MONSTERS;
+        return _units.Count > MAX_VISIBLE_MONSTERS;
     }
     
     private bool IsPlaceholderMonster(Monster monster)
     {
-        return monster.Name == "Placeholder";
+        return monster.GetName() == "Placeholder";
     }
 
     public void SwapMonsters(Monster currentMonster, Monster summonedMonster)
     {
-        int currentIndex = Units.IndexOf(currentMonster);
-        int summonedIndex = Units.IndexOf(summonedMonster);
+        int currentIndex = _units.IndexOf(currentMonster);
+        int summonedIndex = _units.IndexOf(summonedMonster);
         
         if (AreIndicesValid(currentIndex, summonedIndex))
         {
-            Units[currentIndex] = summonedMonster;
-            Units[summonedIndex] = currentMonster;
+            _units[currentIndex] = summonedMonster;
+            _units[summonedIndex] = currentMonster;
         }
         
-        int orderIndex = OrderList.IndexOf(currentMonster);
+        int orderIndex = _orderList.IndexOf(currentMonster);
         if (IsValidOrderIndex(orderIndex))
-            OrderList[orderIndex] = summonedMonster;
+            _orderList[orderIndex] = summonedMonster;
         
         SortReserveMonsters();
     }
@@ -562,7 +682,7 @@ public class Team
     
     private bool HasBlinkingTurns()
     {
-        return BlinkingTurns > 0;
+        return _blinkingTurns > 0;
     }
     
     public void ConsumeNonOffensiveSkillsTurns()

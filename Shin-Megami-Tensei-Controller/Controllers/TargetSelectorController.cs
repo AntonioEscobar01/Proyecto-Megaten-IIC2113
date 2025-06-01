@@ -15,7 +15,7 @@ public class TargetSelectorController
 
     public int ChooseUnitToAttack(IUnit attacker)
     {
-        string attackerName = attacker.Name;
+        string attackerName = attacker.GetName();
         _gameUi.WriteLine($"Seleccione un objetivo para {attackerName}");
 
         _availableTargets = GetAvailableTargets();
@@ -28,9 +28,9 @@ public class TargetSelectorController
     {
         List<IUnit> targets = new List<IUnit>();
         
-        if (_enemyTeam.Samurai != null && !_enemyTeam.Samurai.IsDead())
+        if (_enemyTeam.GetSamurai() != null && !_enemyTeam.GetSamurai().IsDead())
         {
-            targets.Add(_enemyTeam.Samurai);
+            targets.Add(_enemyTeam.GetSamurai());
         }
 
         AddAvailableMonsters(targets);
@@ -39,11 +39,12 @@ public class TargetSelectorController
 
     private void AddAvailableMonsters(List<IUnit> targets)
     {
-        int maxVisibleMonsters = Math.Min(_enemyTeam.Units.Count, 3);
+        var units = _enemyTeam.GetUnits();
+        int maxVisibleMonsters = Math.Min(units.Count, 3);
     
         for (int monsterIndex = 0; monsterIndex < maxVisibleMonsters; monsterIndex++)
         {
-            var monster = _enemyTeam.Units[monsterIndex];
+            var monster = units[monsterIndex];
             if (!monster.IsDead())
                 targets.Add(monster);
         }
@@ -62,11 +63,11 @@ public class TargetSelectorController
     {
         if (target is Samurai samurai)
         {
-            _gameUi.WriteLine($"{targetIndex+1}-{samurai.Name} HP:{samurai.Hp}/{samurai.OriginalHp} MP:{samurai.Mp}/{samurai.OriginalMp}");
+            _gameUi.WriteLine($"{targetIndex+1}-{samurai.GetName()} HP:{samurai.GetCurrentHp()}/{samurai.GetMaxHp()} MP:{samurai.GetCurrentMp()}/{samurai.GetMaxMp()}");
         }
         else if (target is Monster monster)
         {
-            _gameUi.WriteLine($"{targetIndex+1}-{monster.Name} HP:{monster.Hp}/{monster.OriginalHp} MP:{monster.Mp}/{monster.OriginalMp}");
+            _gameUi.WriteLine($"{targetIndex+1}-{monster.GetName()} HP:{monster.GetCurrentHp()}/{monster.GetMaxHp()} MP:{monster.GetCurrentMp()}/{monster.GetMaxMp()}");
         }
     }
 
@@ -94,15 +95,19 @@ public class TargetSelectorController
         if (selectedTarget is Samurai)
             return 1;
         else
-            return _enemyTeam.Units.IndexOf((Monster)selectedTarget) + 2;
+        {
+            var units = _enemyTeam.GetUnits();
+            return units.IndexOf((Monster)selectedTarget) + 2;
+        }
     }
 
     public IUnit GetTarget(int targetIndex)
     {
+        var units = _enemyTeam.GetUnits();
         return targetIndex switch
         {
-            1 => _enemyTeam.Samurai,
-            var idx when idx > 1 && idx <= _enemyTeam.Units.Count + 1 => _enemyTeam.Units[targetIndex - 2],
+            1 => _enemyTeam.GetSamurai(),
+            var idx when idx > 1 && idx <= units.Count + 1 => units[targetIndex - 2],
             _ => null
         };
     }

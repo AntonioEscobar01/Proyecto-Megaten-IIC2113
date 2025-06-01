@@ -29,9 +29,15 @@ public class UnitActionController
 
     public void ExecuteUnitTurn()
     {
-        var currentUnit = _currentTeam.OrderList[0];
+        var currentUnit = GetCurrentUnit();
         int selectedAction = GetUnitAction(currentUnit);
         ProcessAction(currentUnit, selectedAction);
+    }
+
+    private IUnit GetCurrentUnit()
+    {
+        var orderList = _currentTeam.GetOrderList();
+        return orderList[0];
     }
     
     private int GetUnitAction(IUnit currentUnit)
@@ -84,7 +90,7 @@ public class UnitActionController
 
     private TurnState CaptureInitialTurnState()
     {
-        return new TurnState(_currentTeam.FullTurns, _currentTeam.BlinkingTurns);
+        return new TurnState(_currentTeam.GetFullTurns(), _currentTeam.GetBlinkingTurns());
     }
 
     private bool ExecuteActionByCode(IUnit currentUnit, int action, int actionCode)
@@ -143,7 +149,7 @@ public class UnitActionController
 
     private TurnConsumption CalculateTurnConsumption(TurnState initialState)
     {
-        int fullTurnsUsed = _currentTeam.FullTurns - initialState.FullTurns;
+        int fullTurnsUsed = _currentTeam.GetFullTurns() - initialState.FullTurns;
         int blinkingTurnsUsed = CalculateBlinkingTurnsUsed(initialState.BlinkingTurns);
         int blinkingTurnsGained = CalculateBlinkingTurnsGained(initialState, blinkingTurnsUsed);
         
@@ -152,13 +158,13 @@ public class UnitActionController
 
     private int CalculateBlinkingTurnsUsed(int initialBlinkingTurns)
     {
-        int blinkingTurnsUsed = initialBlinkingTurns - _currentTeam.BlinkingTurns;
+        int blinkingTurnsUsed = initialBlinkingTurns - _currentTeam.GetBlinkingTurns();
         return Math.Max(0, blinkingTurnsUsed);
     }
 
     private int CalculateBlinkingTurnsGained(TurnState initialState, int blinkingTurnsUsed)
     {
-        int blinkingTurnsGained = (_currentTeam.BlinkingTurns - initialState.BlinkingTurns) + blinkingTurnsUsed;
+        int blinkingTurnsGained = (_currentTeam.GetBlinkingTurns() - initialState.BlinkingTurns) + blinkingTurnsUsed;
         return Math.Max(0, blinkingTurnsGained);
     }
 
@@ -219,7 +225,8 @@ public class UnitActionController
             return true;
         }
 
-        string selectedSkillName = skillInfo.Abilities[skillInfo.SelectedIndex - 1];
+        var abilities = skillInfo.Abilities;
+        string selectedSkillName = abilities[skillInfo.SelectedIndex - 1];
         var skillData = _skillsManager.GetSkillByName(selectedSkillName);
 
         return ExecuteSelectedSkill(currentUnit, skillData);
@@ -290,7 +297,7 @@ public class UnitActionController
     private void ExecuteOffensiveSkill(IUnit currentUnit, IUnit targetUnit, SkillData skillData)
     {
         currentUnit.ConsumeMp(skillData.cost);
-        var skillInfo = new OffensiveSkillInfo(skillData, _currentTeam.UsedSkillsCount);
+        var skillInfo = new OffensiveSkillInfo(skillData, _currentTeam.GetUsedSkillsCount());
         string affinity = _attackProcessor.ApplyOffensiveSkill(currentUnit, targetUnit, skillInfo);
         _currentTeam.IncrementUsedSkillsCount();
         ConsumeSkillTurns(affinity);
@@ -389,7 +396,7 @@ public class UnitActionController
     private void ShowInvocationSuccess(Monster selectedMonster)
     {
         _gameUi.PrintLine();
-        _gameUi.DisplaySummonSuccess(selectedMonster.Name);
+        _gameUi.DisplaySummonSuccess(selectedMonster.GetName());
     }
 
     private void HandleMonsterInvocation(Monster currentMonster, Monster selectedMonster)
@@ -414,12 +421,12 @@ public class UnitActionController
     
     private bool HasBlinkingTurns()
     {
-        return _currentTeam.BlinkingTurns > 0;
+        return _currentTeam.GetBlinkingTurns() > 0;
     }
 
     private void ProcessSurrenderAction()
     {
-        _gameUi.ShowSurrenderMessage(_currentTeam.Samurai.Name, _currentTeam.Player);
+        _gameUi.ShowSurrenderMessage(_currentTeam.GetSamurai().GetName(), _currentTeam.GetPlayer());
         ShouldEndGame = true;
     }
     
@@ -503,8 +510,8 @@ public class UnitActionController
     private void ExecuteHealingSkill(IUnit currentUnit, IUnit targetUnit, HealingSkillInfo healingInfo)
     {
         currentUnit.ConsumeMp(healingInfo.SkillData.cost);
-        string healerName = currentUnit.Name;
-        string targetName = targetUnit.Name;
+        string healerName = currentUnit.GetName();
+        string targetName = targetUnit.GetName();
 
         if (IsReviveSkill(healingInfo.Classification))
         {
@@ -581,7 +588,7 @@ public class UnitActionController
     private void ExecuteInvitationSkill(IUnit currentUnit, Monster selectedMonster, int positionSelection)
     {
         _gameUi.PrintLine();
-        _gameUi.DisplaySummonSuccess(selectedMonster.Name);
+        _gameUi.DisplaySummonSuccess(selectedMonster.GetName());
         
         if (selectedMonster.IsDead())
         {
@@ -594,12 +601,12 @@ public class UnitActionController
 
     private void ReviveMonsterWithInvitation(IUnit currentUnit, Monster selectedMonster)
     {
-        string healerName = currentUnit.Name;
-        _gameUi.ShowReviveAction(healerName, selectedMonster.Name);
-        int healAmount = selectedMonster.OriginalHp;
-        selectedMonster.Hp = healAmount;
-        _gameUi.ShowHealAmountReceived(selectedMonster.Name, healAmount);
-        _gameUi.ShowHpResult(selectedMonster.Name, selectedMonster.Hp, selectedMonster.OriginalHp);
+        string healerName = currentUnit.GetName();
+        _gameUi.ShowReviveAction(healerName, selectedMonster.GetName());
+        int healAmount = selectedMonster.GetMaxHp();
+        selectedMonster.Heal(healAmount);
+        _gameUi.ShowHealAmountReceived(selectedMonster.GetName(), healAmount);
+        _gameUi.ShowHpResult(selectedMonster.GetName(), selectedMonster.GetCurrentHp(), selectedMonster.GetMaxHp());
     }
 
     private bool WasSpecialSkillCancelled(IUnit currentUnit, SkillData skillData)
@@ -675,7 +682,8 @@ public class UnitActionController
     private List<Monster> GetAllReserveMonsters()
     {
         List<Monster> reserveMonsters = new List<Monster>();
-        int frontLineCount = Math.Min(_currentTeam.Units.Count, 3);
+        var units = _currentTeam.GetUnits();
+        int frontLineCount = Math.Min(units.Count, 3);
 
         AddDeadFrontlineMonsters(reserveMonsters, frontLineCount);
         AddReserveMonsters(reserveMonsters, frontLineCount);
@@ -685,9 +693,10 @@ public class UnitActionController
 
     private void AddDeadFrontlineMonsters(List<Monster> reserveMonsters, int frontLineCount)
     {
+        var units = _currentTeam.GetUnits();
         for (int i = 0; i < frontLineCount; i++)
         {
-            var monster = _currentTeam.Units[i];
+            var monster = units[i];
             if (IsDeadFrontlineMonster(monster))
                 reserveMonsters.Add(monster);
         }
@@ -695,14 +704,15 @@ public class UnitActionController
     
     private bool IsDeadFrontlineMonster(Monster monster)
     {
-        return monster.IsDead() && monster.Name != "Placeholder";
+        return monster.IsDead() && monster.GetName() != "Placeholder";
     }
 
     private void AddReserveMonsters(List<Monster> reserveMonsters, int frontLineCount)
     {
-        for (int i = frontLineCount; i < _currentTeam.Units.Count; i++)
+        var units = _currentTeam.GetUnits();
+        for (int i = frontLineCount; i < units.Count; i++)
         {
-            var monster = _currentTeam.Units[i];
+            var monster = units[i];
             if (IsValidReserveMonster(monster))
                 reserveMonsters.Add(monster);
         }
@@ -710,16 +720,28 @@ public class UnitActionController
     
     private bool IsValidReserveMonster(Monster monster)
     {
-        return monster.Name != "Placeholder";
+        return monster.GetName() != "Placeholder";
     }
 
     private List<Monster> SortReserveMonstersByOriginalOrder(List<Monster> reserveMonsters)
     {
-        return reserveMonsters.OrderBy(monster => 
+        var sortedMonsters = new List<Monster>(reserveMonsters);
+        var originalOrder = _currentTeam.GetOriginalMonstersOrder();
+        
+        sortedMonsters.Sort((monster1, monster2) => 
         {
-            int originalIndex = _currentTeam._originalMonstersOrder.IndexOf(monster.Name);
-            return originalIndex == -1 ? _currentTeam._originalMonstersOrder.Count : originalIndex;
-        }).ToList();
+            int index1 = GetMonsterOriginalIndex(monster1, originalOrder);
+            int index2 = GetMonsterOriginalIndex(monster2, originalOrder);
+            return index1.CompareTo(index2);
+        });
+        
+        return sortedMonsters;
+    }
+
+    private int GetMonsterOriginalIndex(Monster monster, List<string> originalOrder)
+    {
+        int originalIndex = originalOrder.IndexOf(monster.GetName());
+        return originalIndex == -1 ? originalOrder.Count : originalIndex;
     }
     
     private SkillSelectionResult GetSkillSelection(IUnit attacker)
@@ -737,7 +759,7 @@ public class UnitActionController
 
     private UnitSkillInfo CreateUnitSkillInfo(IUnit attacker)
     {
-        return new UnitSkillInfo(attacker.Name, attacker.Abilities, attacker.Mp);
+        return new UnitSkillInfo(attacker.GetName(), attacker.GetAbilities(), attacker.GetCurrentMp());
     }
     
     private void ConsumeSkillTurns(string affinity)
@@ -800,7 +822,7 @@ public class UnitActionController
     
     private bool CanConsumeMoreFullTurns()
     {
-        return _currentTeam.FullTurns < _currentTeam.MaxFullTurns;
+        return _currentTeam.GetFullTurns() < _currentTeam.GetMaxFullTurns();
     }
 
     private void HandleNeutralOrResistAffinity()
@@ -830,7 +852,7 @@ public class UnitActionController
 
     private void ConsumeAllBlinkingTurns()
     {
-        int blinkingTurnsToConsume = _currentTeam.BlinkingTurns;
+        int blinkingTurnsToConsume = _currentTeam.GetBlinkingTurns();
         for (int i = 0; i < blinkingTurnsToConsume; i++)
         {
             _currentTeam.ConsumeBlinkingTurn();
@@ -859,7 +881,7 @@ public class UnitActionController
 
     private int CalculateBlinkingTurnsToConsume(int requestedCount)
     {
-        return Math.Min(requestedCount, _currentTeam.BlinkingTurns);
+        return Math.Min(requestedCount, _currentTeam.GetBlinkingTurns());
     }
 
     private void ConsumeBlinkingTurns(int count)
@@ -872,7 +894,7 @@ public class UnitActionController
 
     private void ConsumeRemainingTurnsAsFullTurns(int remainingTurnsNeeded)
     {
-        int fullTurnsAvailable = _currentTeam.MaxFullTurns - _currentTeam.FullTurns;
+        int fullTurnsAvailable = _currentTeam.GetMaxFullTurns() - _currentTeam.GetFullTurns();
         int fullTurnsToConsume = Math.Min(remainingTurnsNeeded, fullTurnsAvailable);
         
         for (int i = 0; i < fullTurnsToConsume; i++)
@@ -891,15 +913,15 @@ public class UnitActionController
 
     private int CalculateHealAmount(IUnit target, SkillData skillData)
     {
-        int maxHp = target.OriginalHp;
+        int maxHp = target.GetMaxHp();
         return (int)(maxHp * skillData.power / 100.0);
     }
 
     private void ShowHealingResult(IUnit target)
     {
-        string targetName = target.Name;
-        int currentHp = target.Hp;
-        int originalHp = target.OriginalHp;
+        string targetName = target.GetName();
+        int currentHp = target.GetCurrentHp();
+        int originalHp = target.GetMaxHp();
         _gameUi.ShowHpResult(targetName, currentHp, originalHp);
     }
 
@@ -921,9 +943,9 @@ public class UnitActionController
 
     private ReviveData PrepareReviveData(IUnit target, SkillData skill)
     {
-        string targetName = target.Name;
-        string reviverName = _currentTeam.OrderList[0].Name;
-        int maxHp = target.OriginalHp;
+        string targetName = target.GetName();
+        string reviverName = GetCurrentUnit().GetName();
+        int maxHp = target.GetMaxHp();
         float revivePercentage = skill.power / 100.0f;
         int healAmount = (int)(maxHp * revivePercentage);
         
@@ -932,25 +954,45 @@ public class UnitActionController
 
     private void ReviveSamurai(Samurai samurai, ReviveData reviveData)
     {
-        samurai.Hp = reviveData.HealAmount;
+        int currentHp = samurai.GetCurrentHp();
+        int damageToHeal = reviveData.HealAmount - currentHp;
+        samurai.Heal(damageToHeal);
         AddSamuraiToOrderListIfNeeded(samurai);
     }
 
     private void AddSamuraiToOrderListIfNeeded(Samurai samurai)
     {
-        if (!_currentTeam.OrderList.Contains(samurai))
-            _currentTeam.OrderList.Add(samurai);
+        var orderList = _currentTeam.GetOrderList();
+        if (!orderList.Contains(samurai))
+            orderList.Add(samurai);
     }
 
     private void ReviveMonster(Monster monster, ReviveData reviveData)
     {
-        monster.Hp = reviveData.HealAmount;
+        int currentHp = monster.GetCurrentHp();
+        if (currentHp <= 0)
+        {
+            monster.Heal(reviveData.HealAmount);
+        }
+        else
+        {
+            int targetHp = reviveData.HealAmount;
+            if (currentHp < targetHp)
+            {
+                monster.Heal(targetHp - currentHp);
+            }
+            else if (currentHp > targetHp)
+            {
+                monster.TakeDamage(currentHp - targetHp);
+            }
+        }
         HandleMonsterRevivalPositioning(monster);
     }
 
     private void HandleMonsterRevivalPositioning(Monster monster)
     {
-        int monsterIndex = _currentTeam.Units.IndexOf(monster);
+        var units = _currentTeam.GetUnits();
+        int monsterIndex = units.IndexOf(monster);
         if (IsMonsterInFrontline(monsterIndex))
         {
             ReplaceMonsterWithPlaceholder(monster, monsterIndex);
@@ -965,20 +1007,29 @@ public class UnitActionController
 
     private void ReplaceMonsterWithPlaceholder(Monster monster, int monsterIndex)
     {
-        Monster placeholderMonster = CreateDeadPlaceholder(monster.Name);
-        _currentTeam.Units[monsterIndex] = placeholderMonster;
+        Monster placeholderMonster = CreateDeadPlaceholder(monster.GetName());
+        var units = _currentTeam.GetUnits();
+        units[monsterIndex] = placeholderMonster;
     }
 
     private Monster CreateDeadPlaceholder(string monsterName)
     {
-        Monster placeholder = new Monster(monsterName);
-        placeholder.Hp = 0;
+        Monster placeholder = new Monster("Placeholder");
+        placeholder.TakeDamage(placeholder.GetCurrentHp());
         return placeholder;
     }
 
     private void MoveMonsterToReserve(Monster monster)
     {
-        _currentTeam.Units.Add(monster);
+        var units = _currentTeam.GetUnits();
+        units.Add(monster);
+    }
+
+    private void AddMonsterToOrderListIfNeeded(Monster monster)
+    {
+        var orderList = _currentTeam.GetOrderList();
+        if (!orderList.Contains(monster))
+            orderList.Add(monster);
     }
 
     private void ShowReviveMessages(ReviveData reviveData)

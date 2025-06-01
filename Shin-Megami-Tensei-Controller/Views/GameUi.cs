@@ -29,17 +29,17 @@ public class GameUi
 
     public void PrintPlayerRound(Team currentTeam)
     {
-        string playerInfo = $"Ronda de {currentTeam.Samurai.Name} ({currentTeam.Player})";
+        string playerInfo = $"Ronda de {currentTeam.GetSamurai().GetName()} ({currentTeam.GetPlayer()})";
         _view.WriteLine(playerInfo);
     }
 
     public void DisplayGameState(GameStateDisplayInfo gameStateInfo)
     {
-        PrintTeamsState(gameStateInfo.Team1, gameStateInfo.Team2);
+        PrintTeamsState(gameStateInfo.GetTeam1(), gameStateInfo.GetTeam2());
         PrintLine();
-        PrintTurnInfo(gameStateInfo.CurrentTeam);
+        PrintTurnInfo(gameStateInfo.GetCurrentTeam());
         PrintLine();
-        ShowTeamOrder(gameStateInfo.CurrentTeam);
+        ShowTeamOrder(gameStateInfo.GetCurrentTeam());
         PrintLine();
     }
 
@@ -58,14 +58,15 @@ public class GameUi
 
     private void PrintTeamHeader(Team team)
     {
-        _view.WriteLine($"Equipo de {team.Samurai?.Name} ({team.Player})");
+        _view.WriteLine($"Equipo de {team.GetSamurai()?.GetName()} ({team.GetPlayer()})");
     }
 
     private void PrintSamuraiState(Team team)
     {
-        if (team.Samurai != null)
+        if (team.GetSamurai() != null)
         {
-            _view.WriteLine($"A-{team.Samurai.Name} HP:{team.Samurai.Hp}/{team.Samurai.OriginalHp} MP:{team.Samurai.Mp}/{team.Samurai.OriginalMp}");
+            var samurai = team.GetSamurai();
+            _view.WriteLine($"A-{samurai.GetName()} HP:{samurai.GetCurrentHp()}/{samurai.GetMaxHp()} MP:{samurai.GetCurrentMp()}/{samurai.GetMaxMp()}");
         }
         else
         {
@@ -85,9 +86,10 @@ public class GameUi
 
     private void PrintMonsterState(Team team, int monsterIndex, char monsterLabel)
     {
-        if (IsMonsterIndexValid(team, monsterIndex))
+        var units = team.GetUnits();
+        if (IsMonsterIndexValid(units, monsterIndex))
         {
-            var monster = team.Units[monsterIndex];
+            var monster = units[monsterIndex];
             PrintMonsterInfo(monster, monsterLabel);
         }
         else
@@ -96,9 +98,9 @@ public class GameUi
         }
     }
 
-    private bool IsMonsterIndexValid(Team team, int monsterIndex)
+    private bool IsMonsterIndexValid(List<Monster> units, int monsterIndex)
     {
-        return monsterIndex < team.Units.Count;
+        return monsterIndex < units.Count;
     }
 
     private void PrintMonsterInfo(Monster monster, char monsterLabel)
@@ -116,7 +118,7 @@ public class GameUi
 
     private void PrintAliveMonster(Monster monster, char monsterLabel)
     {
-        _view.WriteLine($"{monsterLabel}-{monster.Name} HP:{monster.Hp}/{monster.OriginalHp} MP:{monster.Mp}/{monster.OriginalMp}");
+        _view.WriteLine($"{monsterLabel}-{monster.GetName()} HP:{monster.GetCurrentHp()}/{monster.GetMaxHp()} MP:{monster.GetCurrentMp()}/{monster.GetMaxMp()}");
     }
 
     private void PrintEmptyMonsterSlot(char monsterLabel)
@@ -126,8 +128,8 @@ public class GameUi
 
     public void PrintTurnInfo(Team currentTeam)
     {
-        _view.WriteLine($"Full Turns: {currentTeam.MaxFullTurns - currentTeam.FullTurns}");
-        _view.WriteLine($"Blinking Turns: {currentTeam.BlinkingTurns}");
+        _view.WriteLine($"Full Turns: {currentTeam.GetMaxFullTurns() - currentTeam.GetFullTurns()}");
+        _view.WriteLine($"Blinking Turns: {currentTeam.GetBlinkingTurns()}");
     }
 
     public void ShowTeamOrder(Team currentTeam)
@@ -138,9 +140,10 @@ public class GameUi
 
     private void DisplayOrderListUnits(Team currentTeam)
     {
-        for (int unitIndex = 0; unitIndex < currentTeam.OrderList.Count; unitIndex++)
+        var orderList = currentTeam.GetOrderList();
+        for (int unitIndex = 0; unitIndex < orderList.Count; unitIndex++)
         {
-            var unit = currentTeam.OrderList[unitIndex];
+            var unit = orderList[unitIndex];
             string unitName = GetUnitName(unit);
             _view.WriteLine($"{unitIndex + 1}-{unitName}");
         }
@@ -150,9 +153,14 @@ public class GameUi
     {
         for (int fileIndex = 0; fileIndex < files.Length; fileIndex++)
         {
-            string fileName = Path.GetFileName(files[fileIndex]);
+            string fileName = ExtractFileName(files[fileIndex]);
             _view.WriteLine($"{fileIndex}: {fileName}");
         }
+    }
+
+    private string ExtractFileName(string filePath)
+    {
+        return Path.GetFileName(filePath);
     }
 
     public void PrintTurnsUsed(TurnUsageInfo turnUsage)
@@ -165,7 +173,7 @@ public class GameUi
     public void DisplayWinner(Team team1, Team team2, int winnerTeam)
     {
         var winningTeam = GetWinningTeam(team1, team2, winnerTeam);
-        _view.WriteLine($"Ganador: {winningTeam.Samurai.Name} ({winningTeam.Player})");
+        _view.WriteLine($"Ganador: {winningTeam.GetSamurai().GetName()} ({winningTeam.GetPlayer()})");
     }
 
     private Team GetWinningTeam(Team team1, Team team2, int winnerTeam)
@@ -175,7 +183,7 @@ public class GameUi
 
     public string GetUnitName(IUnit unit)
     {
-        return unit.Name;
+        return unit.GetName();
     }
 
     public void ShowHpResult(string targetName, int remainingHp, int originalHp)
@@ -259,7 +267,7 @@ public class GameUi
 
     private void ShowSamuraiActionPrompt(Samurai samurai)
     {
-        _view.WriteLine($"Seleccione una acción para {samurai.Name}");
+        _view.WriteLine($"Seleccione una acción para {samurai.GetName()}");
     }
 
     private void DisplaySamuraiActionOptions()
@@ -281,7 +289,7 @@ public class GameUi
 
     private void ShowMonsterActionPrompt(Monster monster)
     {
-        _view.WriteLine($"Seleccione una acción para {monster.Name}");
+        _view.WriteLine($"Seleccione una acción para {monster.GetName()}");
     }
 
     private void DisplayMonsterActionOptions()
@@ -305,7 +313,7 @@ public class GameUi
         for (int i = 0; i < availableMonsters.Count; i++)
         {
             Monster monster = availableMonsters[i];
-            WriteLine($"{i + 1}-{monster.Name} HP:{monster.Hp}/{monster.OriginalHp} MP:{monster.Mp}/{monster.OriginalMp}");
+            WriteLine($"{i + 1}-{monster.GetName()} HP:{monster.GetCurrentHp()}/{monster.GetMaxHp()} MP:{monster.GetCurrentMp()}/{monster.GetMaxMp()}");
         }
     }
 
@@ -344,13 +352,15 @@ public class GameUi
 
     private bool IsPositionOccupiedByAliveMonster(Team currentTeam, int position)
     {
-        return position < currentTeam.Units.Count && !currentTeam.Units[position].IsDead();
+        var units = currentTeam.GetUnits();
+        return position < units.Count && !units[position].IsDead();
     }
 
     private void DisplayOccupiedPosition(Team currentTeam, int position)
     {
-        Monster monster = currentTeam.Units[position];
-        WriteLine($"{position+1}-{monster.Name} HP:{monster.Hp}/{monster.OriginalHp} MP:{monster.Mp}/{monster.OriginalMp} (Puesto {position+2})");
+        var units = currentTeam.GetUnits();
+        Monster monster = units[position];
+        WriteLine($"{position+1}-{monster.GetName()} HP:{monster.GetCurrentHp()}/{monster.GetMaxHp()} MP:{monster.GetCurrentMp()}/{monster.GetMaxMp()} (Puesto {position+2})");
     }
 
     private void DisplayEmptyPosition(int position)

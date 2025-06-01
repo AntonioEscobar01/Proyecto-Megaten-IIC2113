@@ -2,15 +2,17 @@
 
 public class TurnManager
 {
-    public int CurrentTurn { get; private set; }
+    private int _currentTurn;
 
     public TurnManager()
     {
-        CurrentTurn = 1;
+        _currentTurn = 1;
     }
+
+    public int GetCurrentTurn() => _currentTurn;
 
     public void AdvanceTurn()
     {
-        CurrentTurn++;
+        _currentTurn++;
     }
 }

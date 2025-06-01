@@ -71,7 +71,7 @@ public class GameController
         var currentTeam = GetCurrentTeam();
         currentTeam.SetMaxFullTurns();
 
-        var gameStateInfo = new GameStateDisplayInfo(currentTeam, _teamPlayer1, _teamPlayer2, _turnManager.CurrentTurn);
+        var gameStateInfo = new GameStateDisplayInfo(currentTeam, _teamPlayer1, _teamPlayer2, _turnManager.GetCurrentTurn());
         _gameUi.DisplayGameState(gameStateInfo);
     
         var enemyTeam = GetEnemyTeam();
@@ -81,7 +81,7 @@ public class GameController
         if (unitAction.ShouldEndGame)
         {
             _isGameOver = true;
-            _winnerTeam = (_turnManager.CurrentTurn % 2 != 0) ? 2 : 1;
+            _winnerTeam = (_turnManager.GetCurrentTurn() % 2 != 0) ? 2 : 1;
         }
     
         _gameUi.PrintLine();
@@ -124,11 +124,11 @@ public class GameController
 
     private Team GetCurrentTeam()
     {
-        return (_turnManager.CurrentTurn % 2 != 0) ? _teamPlayer1 : _teamPlayer2;
+        return (_turnManager.GetCurrentTurn() % 2 != 0) ? _teamPlayer1 : _teamPlayer2;
     }
 
     private Team GetEnemyTeam()
     {
-        return (_turnManager.CurrentTurn % 2 != 0) ? _teamPlayer2 : _teamPlayer1;
+        return (_turnManager.GetCurrentTurn() % 2 != 0) ? _teamPlayer2 : _teamPlayer1;
     }
 }

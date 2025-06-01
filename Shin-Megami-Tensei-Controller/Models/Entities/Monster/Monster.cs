@@ -24,7 +24,7 @@ public class Monster : UnitBase
 
     protected override void LoadStats()
     {
-        var monsterData = _statsRepository.GetMonsterData(Name);
+        var monsterData = _statsRepository.GetMonsterData(GetName());
     
         if (HasValidMonsterData(monsterData))
         {
@@ -43,13 +43,12 @@ public class Monster : UnitBase
         LoadMonsterAbilities(monsterData);
         LoadMonsterAffinities(monsterData);
     }
-    
 
     private void LoadMonsterAffinities(MonsterData monsterData)
     {
         if (HasValidAffinities(monsterData))
         {
-            Affinities = new Affinity(monsterData.affinity);
+            SetAffinities(new Affinity(monsterData.affinity));
         }
     }
 
@@ -70,32 +69,32 @@ public class Monster : UnitBase
 
     private void SetOriginalStatsFromData(MonsterData monsterData)
     {
-        OriginalHp = monsterData.stats.HP;
-        OriginalMp = monsterData.stats.MP;
-        OriginalStr = monsterData.stats.Str;
-        OriginalSkl = monsterData.stats.Skl;
-        OriginalMag = monsterData.stats.Mag;
-        OriginalSpd = monsterData.stats.Spd;
-        OriginalLck = monsterData.stats.Lck;
+        SetOriginalHp(monsterData.stats.HP);
+        SetOriginalMp(monsterData.stats.MP);
+        SetOriginalStr(monsterData.stats.Str);
+        SetOriginalSkl(monsterData.stats.Skl);
+        SetOriginalMag(monsterData.stats.Mag);
+        SetOriginalSpd(monsterData.stats.Spd);
+        SetOriginalLck(monsterData.stats.Lck);
     }
 
     private void LoadMonsterAbilities(MonsterData monsterData)
     {
         if (monsterData.skills != null)
         {
-            Abilities = monsterData.skills;
+            SetAbilities(monsterData.skills);
         }
     }
 
     private void ApplyDefaultStats()
     {
-        OriginalHp = DefaultHp;
-        OriginalMp = DefaultMp;
-        OriginalStr = DefaultStat;
-        OriginalSkl = DefaultStat;
-        OriginalMag = DefaultStat;
-        OriginalSpd = DefaultStat;
-        OriginalLck = DefaultStat;
+        SetOriginalHp(DefaultHp);
+        SetOriginalMp(DefaultMp);
+        SetOriginalStr(DefaultStat);
+        SetOriginalSkl(DefaultStat);
+        SetOriginalMag(DefaultStat);
+        SetOriginalSpd(DefaultStat);
+        SetOriginalLck(DefaultStat);
         CopyOriginalStatsToCurrent();
     }
 }

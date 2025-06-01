@@ -15,7 +15,7 @@ public class AllySelectorController
 
     public int ChooseAllyToHeal(IUnit healer)
     {
-        string healerName = healer.Name;
+        string healerName = healer.GetName();
         _gameUi.WriteLine($"Seleccione un objetivo para {healerName}");
 
         _availableAllies = GetAvailableAlliesForHealing();
@@ -26,7 +26,7 @@ public class AllySelectorController
     
     public int ChooseAllyToRevive(IUnit healer)
     {
-        string healerName = healer.Name;
+        string healerName = healer.GetName();
         _gameUi.WriteLine($"Seleccione un objetivo para {healerName}");
 
         _availableAllies = GetAvailableAlliesForReviving();
@@ -57,11 +57,12 @@ public class AllySelectorController
     
     private void AddDeadMonstersToList(List<IUnit> allies)
     {
-        int maxMonsters = _allyTeam.Units.Count;
+        var units = _allyTeam.GetUnits();
+        int maxMonsters = units.Count;
     
         for (int i = 0; i < maxMonsters; i++)
         {
-            var monster = _allyTeam.Units[i];
+            var monster = units[i];
             if (ShouldIncludeDeadMonster(monster))
                 allies.Add(monster);
         }
@@ -79,7 +80,7 @@ public class AllySelectorController
 
     private bool IsValidMonster(Monster monster)
     {
-        return monster.Name != "Placeholder";
+        return monster.GetName() != "Placeholder";
     }
 
     private bool IsMonsterAlive(Monster monster)
@@ -96,7 +97,7 @@ public class AllySelectorController
     {
         if (IsSamuraiAliveAndAvailable())
         {
-            allies.Add(_allyTeam.Samurai);
+            allies.Add(_allyTeam.GetSamurai());
         }
     }
 
@@ -104,27 +105,28 @@ public class AllySelectorController
     {
         if (IsSamuraiDeadAndAvailable())
         {
-            allies.Add(_allyTeam.Samurai);
+            allies.Add(_allyTeam.GetSamurai());
         }
     }
 
     private bool IsSamuraiAliveAndAvailable()
     {
-        return _allyTeam.Samurai != null && !_allyTeam.Samurai.IsDead();
+        return _allyTeam.GetSamurai() != null && !_allyTeam.GetSamurai().IsDead();
     }
 
     private bool IsSamuraiDeadAndAvailable()
     {
-        return _allyTeam.Samurai != null && _allyTeam.Samurai.IsDead();
+        return _allyTeam.GetSamurai() != null && _allyTeam.GetSamurai().IsDead();
     }
 
     private void AddLivingMonstersToList(List<IUnit> allies)
     {
-        int maxMonsters = Math.Min(_allyTeam.Units.Count, 3);
+        var units = _allyTeam.GetUnits();
+        int maxMonsters = Math.Min(units.Count, 3);
     
         for (int i = 0; i < maxMonsters; i++)
         {
-            var monster = _allyTeam.Units[i];
+            var monster = units[i];
             if (ShouldIncludeLivingMonster(monster))
                 allies.Add(monster);
         }
@@ -153,12 +155,12 @@ public class AllySelectorController
 
     private void DisplaySamuraiInfo(Samurai samurai, int allyIndex)
     {
-        _gameUi.WriteLine($"{allyIndex+1}-{samurai.Name} HP:{samurai.Hp}/{samurai.OriginalHp} MP:{samurai.Mp}/{samurai.OriginalMp}");
+        _gameUi.WriteLine($"{allyIndex+1}-{samurai.GetName()} HP:{samurai.GetCurrentHp()}/{samurai.GetMaxHp()} MP:{samurai.GetCurrentMp()}/{samurai.GetMaxMp()}");
     }
 
     private void DisplayMonsterInfo(Monster monster, int allyIndex)
     {
-        _gameUi.WriteLine($"{allyIndex+1}-{monster.Name} HP:{monster.Hp}/{monster.OriginalHp} MP:{monster.Mp}/{monster.OriginalMp}");
+        _gameUi.WriteLine($"{allyIndex+1}-{monster.GetName()} HP:{monster.GetCurrentHp()}/{monster.GetMaxHp()} MP:{monster.GetCurrentMp()}/{monster.GetMaxMp()}");
     }
 
     private int GetAllySelectionResult()

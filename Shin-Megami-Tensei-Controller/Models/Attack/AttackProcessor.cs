@@ -37,8 +37,8 @@ public class AttackProcessor
 
     private void ProcessAttackWithAffinity(AttackContext context)
     {
-        string attackerName = context.Attacker.Name;
-        string targetName = context.Target.Name;
+        string attackerName = context.Attacker.GetName();
+        string targetName = context.Target.GetName();
         string affinity = context.Target.GetAffinity(context.AttackType);
     
         _gameUi.ShowAttack(attackerName, context.ActionType, targetName);
@@ -96,8 +96,8 @@ public class AttackProcessor
 
     private void ApplyDamageBasedOnAffinity(DamageApplicationContext context)
     {
-        string attackerName = context.Attacker.Name;
-        string targetName = context.Target.Name;
+        string attackerName = context.Attacker.GetName();
+        string targetName = context.Target.GetName();
         
         switch (context.DamageResult.Type)
         {
@@ -138,7 +138,7 @@ public class AttackProcessor
 
     private void ShowUnitHealthStatus(IUnit unit, string unitName)
     {
-        _gameUi.ShowHpResult(unitName, unit.Hp, unit.OriginalHp);
+        _gameUi.ShowHpResult(unitName, unit.GetCurrentHp(), unit.GetMaxHp());
     }
 
     private double CalculateDamage(IUnit attacker, int modifier)
@@ -149,7 +149,7 @@ public class AttackProcessor
 
     private int GetAttackerBaseStat(IUnit attacker, int modifier)
     {
-        return IsAttackModifier(modifier) ? attacker.Str : attacker.Skl;
+        return IsAttackModifier(modifier) ? attacker.GetStr() : attacker.GetSkl();
     }
 
     private bool IsAttackModifier(int modifier)
@@ -189,16 +189,16 @@ public class AttackProcessor
 
     private void ShowSkillAttackMessage(IUnit attacker, IUnit target, SkillData skill)
     {
-        string attackerName = attacker.Name;
-        string targetName = target.Name;
+        string attackerName = attacker.GetName();
+        string targetName = target.GetName();
         string actionVerb = skill.GetSkillActionVerb(skill.type);
         _gameUi.WriteLine($"{attackerName} {actionVerb} {targetName}");
     }
 
     private void ShowFinalSkillResult(IUnit attacker, IUnit target, string affinity)
     {
-        string attackerName = attacker.Name;
-        string targetName = target.Name;
+        string attackerName = attacker.GetName();
+        string targetName = target.GetName();
 
         if (ShouldShowAttackerResult(affinity))
         {
@@ -220,7 +220,7 @@ public class AttackProcessor
     {
         return IsPhysicalOrGunSkill(skill.type)
             ? GetPhysicalSkillBaseStat(attacker, skill.type)
-            : attacker.Mag;
+            : attacker.GetMag();
     }
 
     private bool IsPhysicalOrGunSkill(string skillType)
@@ -230,7 +230,7 @@ public class AttackProcessor
 
     private int GetPhysicalSkillBaseStat(IUnit attacker, string skillType)
     {
-        return IsPhysicalSkill(skillType) ? attacker.Str : attacker.Skl;
+        return IsPhysicalSkill(skillType) ? attacker.GetStr() : attacker.GetSkl();
     }
 
     private bool IsPhysicalSkill(string skillType)

@@ -11,20 +11,20 @@ public class Samurai : UnitBase
 
     public Samurai(string name, List<string> abilities) : base(name)
     {
-        Abilities = abilities;
+        SetAbilities(abilities);
         LoadStats();
     }
 
     protected override void LoadStats()
     {
-        var stats = _statsManager.GetStatsByName(Name);
-        OriginalHp = stats.Hp;
-        OriginalMp = stats.Mp;
-        OriginalStr = stats.Str;
-        OriginalSkl = stats.Skl;
-        OriginalMag = stats.Mag;
-        OriginalSpd = stats.Spd;
-        OriginalLck = stats.Lck;
+        var stats = _statsManager.GetStatsByName(GetName());
+        SetOriginalHp(stats.Hp);
+        SetOriginalMp(stats.Mp);
+        SetOriginalStr(stats.Str);
+        SetOriginalSkl(stats.Skl);
+        SetOriginalMag(stats.Mag);
+        SetOriginalSpd(stats.Spd);
+        SetOriginalLck(stats.Lck);
         CopyOriginalStatsToCurrent();
         
         LoadAffinities();
@@ -32,11 +32,11 @@ public class Samurai : UnitBase
     
     private void LoadAffinities()
     {
-        var samuraiData = _statsManager.GetSamuraiData(Name);
+        var samuraiData = _statsManager.GetSamuraiData(GetName());
     
         if (HasValidAffinityData(samuraiData))
         {
-            Affinities = new Affinity(samuraiData.affinity);
+            SetAffinities(new Affinity(samuraiData.affinity));
         }
     }
 
