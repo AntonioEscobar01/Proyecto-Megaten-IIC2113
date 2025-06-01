@@ -69,17 +69,35 @@ public class AllySelectorController
 
     private bool ShouldIncludeLivingMonster(Monster monster)
     {
-        return monster.Name != "Placeholder" && !monster.IsDead();
+        return IsValidMonster(monster) && IsMonsterAlive(monster);
     }
 
     private bool ShouldIncludeDeadMonster(Monster monster)
     {
-        return monster.Name != "Placeholder" && monster.IsDead();
+        return IsValidMonster(monster) && IsMonsterDead(monster);
+    }
+
+    // ✅ CONDICIÓN ENCAPSULADA: Validación de monstruo válido (no placeholder)
+    private bool IsValidMonster(Monster monster)
+    {
+        return monster.Name != "Placeholder";
+    }
+
+    // ✅ CONDICIÓN ENCAPSULADA: Validación de monstruo vivo
+    private bool IsMonsterAlive(Monster monster)
+    {
+        return !monster.IsDead();
+    }
+
+    // ✅ CONDICIÓN ENCAPSULADA: Validación de monstruo muerto
+    private bool IsMonsterDead(Monster monster)
+    {
+        return monster.IsDead();
     }
     
     private void AddSamuraiIfAlive(List<object> allies)
     {
-        if (_allyTeam.Samurai != null && !_allyTeam.Samurai.IsDead())
+        if (IsSamuraiAliveAndAvailable())
         {
             allies.Add(_allyTeam.Samurai);
         }
@@ -87,10 +105,22 @@ public class AllySelectorController
 
     private void AddSamuraiIfDead(List<object> allies)
     {
-        if (_allyTeam.Samurai != null && _allyTeam.Samurai.IsDead())
+        if (IsSamuraiDeadAndAvailable())
         {
             allies.Add(_allyTeam.Samurai);
         }
+    }
+
+    // ✅ CONDICIÓN ENCAPSULADA: Validación de samurai vivo y disponible
+    private bool IsSamuraiAliveAndAvailable()
+    {
+        return _allyTeam.Samurai != null && !_allyTeam.Samurai.IsDead();
+    }
+
+    // ✅ CONDICIÓN ENCAPSULADA: Validación de samurai muerto y disponible
+    private bool IsSamuraiDeadAndAvailable()
+    {
+        return _allyTeam.Samurai != null && _allyTeam.Samurai.IsDead();
     }
 
     private void AddLivingMonstersToList(List<object> allies)
@@ -118,30 +148,50 @@ public class AllySelectorController
     {
         if (ally is Samurai samurai)
         {
-            _gameUi.WriteLine($"{allyIndex+1}-{samurai.Name} HP:{samurai.Hp}/{samurai.OriginalHp} MP:{samurai.Mp}/{samurai.OriginalMp}");
+            DisplaySamuraiInfo(samurai, allyIndex);
         }
         else if (ally is Monster monster)
         {
-            _gameUi.WriteLine($"{allyIndex+1}-{monster.Name} HP:{monster.Hp}/{monster.OriginalHp} MP:{monster.Mp}/{monster.OriginalMp}");
+            DisplayMonsterInfo(monster, allyIndex);
         }
+    }
+
+    private void DisplaySamuraiInfo(Samurai samurai, int allyIndex)
+    {
+        _gameUi.WriteLine($"{allyIndex+1}-{samurai.Name} HP:{samurai.Hp}/{samurai.OriginalHp} MP:{samurai.Mp}/{samurai.OriginalMp}");
+    }
+
+    private void DisplayMonsterInfo(Monster monster, int allyIndex)
+    {
+        _gameUi.WriteLine($"{allyIndex+1}-{monster.Name} HP:{monster.Hp}/{monster.OriginalHp} MP:{monster.Mp}/{monster.OriginalMp}");
     }
 
     private int GetAllySelectionResult()
     {
         int selection = int.Parse(_gameUi.ReadLine());
         
-        if (selection == _availableAllies.Count + 1)
+        if (IsCancelSelection(selection))
             return ActionConstantsData.CancelTargetSelection;
             
-        if (selection > 0 && selection <= _availableAllies.Count)
+        if (IsValidAllySelection(selection))
             return selection;
         
         return ActionConstantsData.CancelTargetSelection;
     }
 
+    private bool IsCancelSelection(int selection)
+    {
+        return selection == _availableAllies.Count + 1;
+    }
+    
+    private bool IsValidAllySelection(int selection)
+    {
+        return selection > 0 && selection <= _availableAllies.Count;
+    }
+
     public object GetAlly(int selection)
     {
-        if (selection > 0 && selection <= _availableAllies.Count)
+        if (IsValidAllySelection(selection))
             return _availableAllies[selection - 1];
         
         return null;

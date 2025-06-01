@@ -2,12 +2,10 @@
 
 public abstract class UnitBase : IUnit
 {
-    // Propiedades comunes
     public string Name { get; protected set; }
     public List<string> Abilities { get; protected set; }
     public Affinity Affinities { get; protected set; }
-
-    // Estadísticas originales (inmutables)
+    
     public int OriginalHp { get; protected set; }
     public int OriginalMp { get; protected set; }
     public int OriginalStr { get; protected set; }
@@ -15,8 +13,7 @@ public abstract class UnitBase : IUnit
     public int OriginalMag { get; protected set; }
     public int OriginalSpd { get; protected set; }
     public int OriginalLck { get; protected set; }
-
-    // Estadísticas actuales (mutables)
+    
     public int Hp { get; set; }
     public int Mp { get; set; }
     public int Str { get; set; }
@@ -45,10 +42,14 @@ public abstract class UnitBase : IUnit
 
     public bool IsDead()
     {
+        return IsHealthAtZero();
+    }
+    
+    private bool IsHealthAtZero()
+    {
         return Hp <= 0;
     }
-
-    // Método que deben implementar las clases derivadas
+    
     protected abstract void LoadStats();
     
     protected void CopyOriginalStatsToCurrent()

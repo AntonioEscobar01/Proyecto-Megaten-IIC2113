@@ -15,7 +15,12 @@ public class SkillsManager
 
     public SkillData GetSkillByName(string name)
     {
-        return _skills.FirstOrDefault(s => s.name.Equals(name, StringComparison.OrdinalIgnoreCase));
+        return _skills.FirstOrDefault(s => IsSkillNameMatch(s, name));
+    }
+    
+    private bool IsSkillNameMatch(SkillData skill, string name)
+    {
+        return skill.name.Equals(name, StringComparison.OrdinalIgnoreCase);
     }
 
     public int GetSkillCost(string name)
@@ -23,12 +28,7 @@ public class SkillsManager
         var skill = GetSkillByName(name);
         return skill?.cost ?? -1;
     }
-
-    public string GetSkillEffect(string name)
-    {
-        var skill = GetSkillByName(name);
-        return skill?.effect ?? "Skill not found";
-    }
+    
 
     private List<SkillData> LoadSkills(string jsonFilePath)
     {

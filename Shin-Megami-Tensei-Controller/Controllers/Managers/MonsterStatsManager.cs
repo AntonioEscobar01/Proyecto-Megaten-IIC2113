@@ -13,7 +13,12 @@ public class MonsterStatsManager
     
     public MonsterData GetMonsterData(string name)
     {
-        return _monstersData.FirstOrDefault(md => md.name.Equals(name, StringComparison.OrdinalIgnoreCase));
+        return _monstersData.FirstOrDefault(md => IsMonsterNameMatch(md, name));
+    }
+    
+    private bool IsMonsterNameMatch(MonsterData monsterData, string name)
+    {
+        return monsterData.name.Equals(name, StringComparison.OrdinalIgnoreCase);
     }
 
     private List<MonsterData> LoadMonsterData(string jsonFilePath)

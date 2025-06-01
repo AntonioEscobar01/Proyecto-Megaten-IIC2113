@@ -51,8 +51,18 @@ public class GameUi
 
     public void PrintTeamState(Team team)
     {
-        _view.WriteLine($"Equipo de {team.Samurai?.Name} ({team.Player})");
+        PrintTeamHeader(team);
+        PrintSamuraiState(team);
+        PrintTeamMonsters(team);
+    }
 
+    private void PrintTeamHeader(Team team)
+    {
+        _view.WriteLine($"Equipo de {team.Samurai?.Name} ({team.Player})");
+    }
+
+    private void PrintSamuraiState(Team team)
+    {
         if (team.Samurai != null)
         {
             _view.WriteLine($"A-{team.Samurai.Name} HP:{team.Samurai.Hp}/{team.Samurai.OriginalHp} MP:{team.Samurai.Mp}/{team.Samurai.OriginalMp}");
@@ -61,8 +71,6 @@ public class GameUi
         {
             _view.WriteLine("A-");
         }
-
-        PrintTeamMonsters(team);
     }
 
     private void PrintTeamMonsters(Team team)
@@ -77,18 +85,43 @@ public class GameUi
 
     private void PrintMonsterState(Team team, int monsterIndex, char monsterLabel)
     {
-        if (monsterIndex < team.Units.Count)
+        if (IsMonsterIndexValid(team, monsterIndex))
         {
             var monster = team.Units[monsterIndex];
-            if (monster.IsDead())
-                _view.WriteLine($"{monsterLabel}-");
-            else
-                _view.WriteLine($"{monsterLabel}-{monster.Name} HP:{monster.Hp}/{monster.OriginalHp} MP:{monster.Mp}/{monster.OriginalMp}");
+            PrintMonsterInfo(monster, monsterLabel);
         }
         else
         {
-            _view.WriteLine($"{monsterLabel}-");
+            PrintEmptyMonsterSlot(monsterLabel);
         }
+    }
+
+    private bool IsMonsterIndexValid(Team team, int monsterIndex)
+    {
+        return monsterIndex < team.Units.Count;
+    }
+
+    private void PrintMonsterInfo(Monster monster, char monsterLabel)
+    {
+        if (monster.IsDead())
+            PrintDeadMonster(monsterLabel);
+        else
+            PrintAliveMonster(monster, monsterLabel);
+    }
+
+    private void PrintDeadMonster(char monsterLabel)
+    {
+        _view.WriteLine($"{monsterLabel}-");
+    }
+
+    private void PrintAliveMonster(Monster monster, char monsterLabel)
+    {
+        _view.WriteLine($"{monsterLabel}-{monster.Name} HP:{monster.Hp}/{monster.OriginalHp} MP:{monster.Mp}/{monster.OriginalMp}");
+    }
+
+    private void PrintEmptyMonsterSlot(char monsterLabel)
+    {
+        _view.WriteLine($"{monsterLabel}-");
     }
 
     public void PrintTurnInfo(Team currentTeam)
@@ -100,7 +133,11 @@ public class GameUi
     public void ShowTeamOrder(Team currentTeam)
     {
         _view.WriteLine("Orden:");
+        DisplayOrderListUnits(currentTeam);
+    }
 
+    private void DisplayOrderListUnits(Team currentTeam)
+    {
         for (int unitIndex = 0; unitIndex < currentTeam.OrderList.Count; unitIndex++)
         {
             var unit = currentTeam.OrderList[unitIndex];
@@ -127,15 +164,23 @@ public class GameUi
 
     public void DisplayWinner(Team team1, Team team2, int winnerTeam)
     {
-        if (winnerTeam == 1)
-            _view.WriteLine($"Ganador: {team1.Samurai.Name} ({team1.Player})");
-        else
-            _view.WriteLine($"Ganador: {team2.Samurai.Name} ({team2.Player})");
+        var winningTeam = GetWinningTeam(team1, team2, winnerTeam);
+        _view.WriteLine($"Ganador: {winningTeam.Samurai.Name} ({winningTeam.Player})");
+    }
+
+    private Team GetWinningTeam(Team team1, Team team2, int winnerTeam)
+    {
+        return winnerTeam == 1 ? team1 : team2;
     }
 
     public string GetUnitName(object unit)
     {
-        return unit is Samurai samurai ? samurai.Name : ((Monster)unit).Name;
+        return unit switch
+        {
+            Samurai samurai => samurai.Name,
+            Monster monster => monster.Name,
+            _ => string.Empty
+        };
     }
 
     public void ShowHpResult(string targetName, int remainingHp, int originalHp)
@@ -212,57 +257,110 @@ public class GameUi
     
     public int GetSamuraiActionOptions(Samurai samurai)
     {
+        ShowSamuraiActionPrompt(samurai);
+        DisplaySamuraiActionOptions();
+        return int.Parse(_view.ReadLine());
+    }
+
+    private void ShowSamuraiActionPrompt(Samurai samurai)
+    {
         _view.WriteLine($"Seleccione una acción para {samurai.Name}");
+    }
+
+    private void DisplaySamuraiActionOptions()
+    {
         _view.WriteLine("1: Atacar");
         _view.WriteLine("2: Disparar");
         _view.WriteLine("3: Usar Habilidad");
         _view.WriteLine("4: Invocar");
         _view.WriteLine("5: Pasar Turno");
         _view.WriteLine("6: Rendirse");
-        return int.Parse(_view.ReadLine());
     }
 
     public int GetMonsterActionOptions(Monster monster)
     {
+        ShowMonsterActionPrompt(monster);
+        DisplayMonsterActionOptions();
+        return int.Parse(_view.ReadLine());
+    }
+
+    private void ShowMonsterActionPrompt(Monster monster)
+    {
         _view.WriteLine($"Seleccione una acción para {monster.Name}");
+    }
+
+    private void DisplayMonsterActionOptions()
+    {
         _view.WriteLine("1: Atacar");
         _view.WriteLine("2: Usar Habilidad");
         _view.WriteLine("3: Invocar");
         _view.WriteLine("4: Pasar Turno");
-        return int.Parse(_view.ReadLine());
     }
 
     public int DisplaySummonMenu(List<Monster> availableMonsters)
     {
         WriteLine("Seleccione un monstruo para invocar");
+        DisplayAvailableMonsters(availableMonsters);
+        DisplaySummonCancelOption(availableMonsters.Count);
+        return int.Parse(ReadLine());
+    }
+
+    private void DisplayAvailableMonsters(List<Monster> availableMonsters)
+    {
         for (int i = 0; i < availableMonsters.Count; i++)
         {
             Monster monster = availableMonsters[i];
             WriteLine($"{i + 1}-{monster.Name} HP:{monster.Hp}/{monster.OriginalHp} MP:{monster.Mp}/{monster.OriginalMp}");
         }
-        WriteLine($"{availableMonsters.Count + 1}-Cancelar");
-        return int.Parse(ReadLine());
+    }
+
+    private void DisplaySummonCancelOption(int monstersCount)
+    {
+        WriteLine($"{monstersCount + 1}-Cancelar");
     }
 
     public int DisplayPositionMenu(Team currentTeam)
     {
         WriteLine("Seleccione una posición para invocar");
-
-        for (int i = 0; i < 3; i++)
-        {
-            if (i < currentTeam.Units.Count && !currentTeam.Units[i].IsDead())
-            {
-                Monster monster = currentTeam.Units[i];
-                WriteLine($"{i+1}-{monster.Name} HP:{monster.Hp}/{monster.OriginalHp} MP:{monster.Mp}/{monster.OriginalMp} (Puesto {i+2})");
-            }
-            else
-            {
-                WriteLine($"{i+1}-Vacío (Puesto {i+2})");
-            }
-        }
-    
+        DisplayPositionOptions(currentTeam);
         WriteLine("4-Cancelar");
         return int.Parse(ReadLine());
+    }
+
+    private void DisplayPositionOptions(Team currentTeam)
+    {
+        for (int i = 0; i < 3; i++)
+        {
+            DisplayPositionSlot(currentTeam, i);
+        }
+    }
+
+    private void DisplayPositionSlot(Team currentTeam, int position)
+    {
+        if (IsPositionOccupiedByAliveMonster(currentTeam, position))
+        {
+            DisplayOccupiedPosition(currentTeam, position);
+        }
+        else
+        {
+            DisplayEmptyPosition(position);
+        }
+    }
+
+    private bool IsPositionOccupiedByAliveMonster(Team currentTeam, int position)
+    {
+        return position < currentTeam.Units.Count && !currentTeam.Units[position].IsDead();
+    }
+
+    private void DisplayOccupiedPosition(Team currentTeam, int position)
+    {
+        Monster monster = currentTeam.Units[position];
+        WriteLine($"{position+1}-{monster.Name} HP:{monster.Hp}/{monster.OriginalHp} MP:{monster.Mp}/{monster.OriginalMp} (Puesto {position+2})");
+    }
+
+    private void DisplayEmptyPosition(int position)
+    {
+        WriteLine($"{position+1}-Vacío (Puesto {position+2})");
     }
 
     public void DisplaySummonSuccess(string monsterName)
@@ -276,8 +374,6 @@ public class GameUi
         WriteLine($"{targetName} recibe {healAmount} de HP");
     }
     
-    // Métodos para UnitActionController - Seguir patrón MVC
-
     public void ShowHealingAction(string healerName, string targetName)
     {
         _view.WriteLine($"{healerName} cura a {targetName}");

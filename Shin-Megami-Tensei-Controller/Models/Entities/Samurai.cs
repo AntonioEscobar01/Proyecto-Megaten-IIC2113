@@ -33,9 +33,16 @@ public class Samurai : UnitBase
     private void LoadAffinities()
     {
         var samuraiData = _statsManager.GetSamuraiData(Name);
-        if (samuraiData != null && samuraiData.affinity != null)
+    
+        if (HasValidAffinityData(samuraiData))
         {
             Affinities = new Affinity(samuraiData.affinity);
         }
     }
+
+    private bool HasValidAffinityData(SamuraiData samuraiData)
+    {
+        return samuraiData != null && samuraiData.affinity != null;
+    }
+
 }

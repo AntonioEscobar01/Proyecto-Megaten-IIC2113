@@ -25,23 +25,47 @@ public class Monster : UnitBase
     protected override void LoadStats()
     {
         var monsterData = _statsRepository.GetMonsterData(Name);
-        
-        if (monsterData != null)
+    
+        if (HasValidMonsterData(monsterData))
         {
-            SetOriginalStatsFromData(monsterData);
-            CopyOriginalStatsToCurrent();
-            LoadMonsterAbilities(monsterData);
-            
-            // Cargar afinidades
-            if (monsterData.affinity != null)
-            {
-                Affinities = new Affinity(monsterData.affinity);
-            }
+            LoadStatsFromData(monsterData);
         }
         else
         {
             ApplyDefaultStats();
         }
+    }
+    
+    private void LoadStatsFromData(MonsterData monsterData)
+    {
+        SetOriginalStatsFromData(monsterData);
+        CopyOriginalStatsToCurrent();
+        LoadMonsterAbilities(monsterData);
+        LoadMonsterAffinities(monsterData);
+    }
+    
+
+    private void LoadMonsterAffinities(MonsterData monsterData)
+    {
+        if (HasValidAffinities(monsterData))
+        {
+            Affinities = new Affinity(monsterData.affinity);
+        }
+    }
+
+    private bool HasValidMonsterData(MonsterData monsterData)
+    {
+        return monsterData != null;
+    }
+
+    private bool HasValidSkills(MonsterData monsterData)
+    {
+        return monsterData.skills != null;
+    }
+
+    private bool HasValidAffinities(MonsterData monsterData)
+    {
+        return monsterData.affinity != null;
     }
 
     private void SetOriginalStatsFromData(MonsterData monsterData)

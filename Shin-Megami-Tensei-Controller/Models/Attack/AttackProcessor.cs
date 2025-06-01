@@ -5,19 +5,14 @@ public class AttackProcessor
     private const int ATTACK_DAMAGE_MODIFIER = 54;
     private const int SHOOT_DAMAGE_MODIFIER = 80;
     private readonly GameUi _gameUi;
-    
-    // Tipos de ataque
     private const string PHYS_TYPE = "Phys";
     private const string GUN_TYPE = "Gun";
-    
-    // Afinidades
     private const string RESIST_AFFINITY = "Rs";
     private const string WEAK_AFFINITY = "Wk";
     private const string NULL_AFFINITY = "Nu";
     private const string REPEL_AFFINITY = "Rp";
     private const string DRAIN_AFFINITY = "Dr";
     
-    // Multiplicadores de daño
     private const double RESIST_DAMAGE_FACTOR = 0.5;
     private const double WEAK_DAMAGE_FACTOR = 1.5;
 
@@ -60,31 +55,61 @@ public class AttackProcessor
     {
         return affinity switch
         {
-            RESIST_AFFINITY => new DamageResultData(Convert.ToInt32(Math.Floor(baseDamage * RESIST_DAMAGE_FACTOR)), DamageType.Resist),
-            WEAK_AFFINITY => new DamageResultData(Convert.ToInt32(Math.Floor(baseDamage * WEAK_DAMAGE_FACTOR)), DamageType.Weak),
-            NULL_AFFINITY => new DamageResultData(0, DamageType.Null),
-            REPEL_AFFINITY => new DamageResultData(Convert.ToInt32(Math.Floor(baseDamage)), DamageType.Repel),
-            DRAIN_AFFINITY => new DamageResultData(Convert.ToInt32(Math.Floor(baseDamage)), DamageType.Drain),
-            _ => new DamageResultData(Convert.ToInt32(Math.Floor(baseDamage)), DamageType.Normal)
+            RESIST_AFFINITY => CreateResistDamageResult(baseDamage),
+            WEAK_AFFINITY => CreateWeakDamageResult(baseDamage),
+            NULL_AFFINITY => CreateNullDamageResult(),
+            REPEL_AFFINITY => CreateRepelDamageResult(baseDamage),
+            DRAIN_AFFINITY => CreateDrainDamageResult(baseDamage),
+            _ => CreateNormalDamageResult(baseDamage)
         };
+    }
+
+    private DamageResultData CreateResistDamageResult(double baseDamage)
+    {
+        return new DamageResultData(Convert.ToInt32(Math.Floor(baseDamage * RESIST_DAMAGE_FACTOR)), DamageType.Resist);
+    }
+
+    private DamageResultData CreateWeakDamageResult(double baseDamage)
+    {
+        return new DamageResultData(Convert.ToInt32(Math.Floor(baseDamage * WEAK_DAMAGE_FACTOR)), DamageType.Weak);
+    }
+
+    private DamageResultData CreateNullDamageResult()
+    {
+        return new DamageResultData(0, DamageType.Null);
+    }
+
+    private DamageResultData CreateRepelDamageResult(double baseDamage)
+    {
+        return new DamageResultData(Convert.ToInt32(Math.Floor(baseDamage)), DamageType.Repel);
+    }
+
+    private DamageResultData CreateDrainDamageResult(double baseDamage)
+    {
+        return new DamageResultData(Convert.ToInt32(Math.Floor(baseDamage)), DamageType.Drain);
+    }
+
+    private DamageResultData CreateNormalDamageResult(double baseDamage)
+    {
+        return new DamageResultData(Convert.ToInt32(Math.Floor(baseDamage)), DamageType.Normal);
     }
 
     private void ApplyDamageBasedOnAffinity(DamageApplicationContext context)
     {
         string attackerName = _gameUi.GetUnitName(context.Attacker);
         string targetName = _gameUi.GetUnitName(context.Target);
+        
         switch (context.DamageResult.Type)
         {
             case DamageType.Resist:
             case DamageType.Weak:
             case DamageType.Normal:
-                UpdateTargetHealth(context.Target, context.DamageResult.Amount);
+                ApplyDamageToTarget(context.Target, context.DamageResult.Amount);
                 break;
             case DamageType.Null:
-                // No damage applied
                 break;
             case DamageType.Repel:
-                UpdateTargetHealth(context.Attacker, context.DamageResult.Amount);
+                ApplyDamageToTarget(context.Attacker, context.DamageResult.Amount);
                 break;
             case DamageType.Drain:
                 HealTarget(context.Target, context.DamageResult.Amount);
@@ -93,11 +118,15 @@ public class AttackProcessor
         var affinityInfo = new AffinityResponseInfo(attackerName, context.Affinity, targetName, context.DamageResult.Amount);
         _gameUi.ShowAffinityResponse(affinityInfo);
     }
-    
+
+    private void ApplyDamageToTarget(object target, int damage)
+    {
+        UpdateTargetHealth(target, damage);
+    }
 
     private void ShowDamageResultForAttack(AttackResultContext context)
     {
-        if (context.Affinity == REPEL_AFFINITY)
+        if (ShouldShowAttackerResult(context.Affinity))
         {
             ShowUnitHealthStatus(context.Attacker, context.AttackerName);
         }
@@ -105,6 +134,11 @@ public class AttackProcessor
         {
             ShowUnitHealthStatus(context.Target, context.TargetName);
         }
+    }
+
+    private bool ShouldShowAttackerResult(string affinity)
+    {
+        return affinity == REPEL_AFFINITY;
     }
 
     private void ShowUnitHealthStatus(object unit, string unitName)
@@ -116,55 +150,117 @@ public class AttackProcessor
 
     private string GetTargetAffinity(object target, string attackType)
     {
-        if (target is Samurai samurai)
+        return target switch
         {
-            return samurai.Affinities.GetAffinity(attackType);
-        }
-        else if (target is Monster monster)
-        {
-            return monster.Affinities.GetAffinity(attackType);
-        }
-        
-        return "-";
+            Samurai samurai => GetSamuraiAffinity(samurai, attackType),
+            Monster monster => GetMonsterAffinity(monster, attackType),
+            _ => "-"
+        };
+    }
+
+    private string GetSamuraiAffinity(Samurai samurai, string attackType)
+    {
+        return samurai.Affinities.GetAffinity(attackType);
+    }
+
+    private string GetMonsterAffinity(Monster monster, string attackType)
+    {
+        return monster.Affinities.GetAffinity(attackType);
     }
 
     private void UpdateTargetHealth(object target, int damage)
     {
-        if (target is Samurai samurai)
+        switch (target)
         {
-            samurai.Hp -= damage;
-            if (samurai.Hp < 0) samurai.Hp = 0;
+            case Samurai samurai:
+                ApplyDamageToSamurai(samurai, damage);
+                break;
+            case Monster monster:
+                ApplyDamageToMonster(monster, damage);
+                break;
         }
-        else if (target is Monster monster)
-        {
-            monster.Hp -= damage;
-            if (monster.Hp < 0) monster.Hp = 0;
-        }
+    }
+
+    private void ApplyDamageToSamurai(Samurai samurai, int damage)
+    {
+        samurai.Hp -= damage;
+        if (IsHealthBelowZero(samurai.Hp)) 
+            samurai.Hp = 0;
+    }
+
+    private void ApplyDamageToMonster(Monster monster, int damage)
+    {
+        monster.Hp -= damage;
+        if (IsHealthBelowZero(monster.Hp)) 
+            monster.Hp = 0;
+    }
+
+    private bool IsHealthBelowZero(int hp)
+    {
+        return hp < 0;
     }
     
     private void HealTarget(object target, int healAmount)
     {
-        if (target is Samurai samurai)
+        switch (target)
         {
-            samurai.Hp += healAmount;
-            if (samurai.Hp > samurai.OriginalHp) samurai.Hp = samurai.OriginalHp;
+            case Samurai samurai:
+                ApplyHealingToSamurai(samurai, healAmount);
+                break;
+            case Monster monster:
+                ApplyHealingToMonster(monster, healAmount);
+                break;
         }
-        else if (target is Monster monster)
-        {
-            monster.Hp += healAmount;
-            if (monster.Hp > monster.OriginalHp) monster.Hp = monster.OriginalHp;
-        }
+    }
+
+    private void ApplyHealingToSamurai(Samurai samurai, int healAmount)
+    {
+        samurai.Hp += healAmount;
+        if (ExceedsMaxHp(samurai.Hp, samurai.OriginalHp)) 
+            samurai.Hp = samurai.OriginalHp;
+    }
+
+    private void ApplyHealingToMonster(Monster monster, int healAmount)
+    {
+        monster.Hp += healAmount;
+        if (ExceedsMaxHp(monster.Hp, monster.OriginalHp)) 
+            monster.Hp = monster.OriginalHp;
+    }
+
+    private bool ExceedsMaxHp(int currentHp, int maxHp)
+    {
+        return currentHp > maxHp;
     }
 
     private double CalculateDamage(object attacker, int modifier)
     {
-        int baseStat = attacker switch
+        int baseStat = GetAttackerBaseStat(attacker, modifier);
+        return baseStat * modifier * 0.0114;
+    }
+
+    private int GetAttackerBaseStat(object attacker, int modifier)
+    {
+        return attacker switch
         {
-            Samurai samurai => modifier == ATTACK_DAMAGE_MODIFIER ? samurai.Str : samurai.Skl,
-            Monster monster => modifier == ATTACK_DAMAGE_MODIFIER ? monster.Str : monster.Skl,
+            Samurai samurai => GetSamuraiBaseStat(samurai, modifier),
+            Monster monster => GetMonsterBaseStat(monster, modifier),
             _ => 0
         };
-        return baseStat * modifier * 0.0114;
+    }
+
+    private int GetSamuraiBaseStat(Samurai samurai, int modifier)
+    {
+        return IsAttackModifier(modifier) ? samurai.Str : samurai.Skl;
+    }
+
+    private int GetMonsterBaseStat(Monster monster, int modifier)
+    {
+        return IsAttackModifier(modifier) ? monster.Str : monster.Skl;
+    }
+
+    private bool IsAttackModifier(int modifier)
+    {
+        return modifier == ATTACK_DAMAGE_MODIFIER;
     }
     
     private int GetUnitHp(object unit)
@@ -230,7 +326,7 @@ public class AttackProcessor
         string attackerName = _gameUi.GetUnitName(attacker);
         string targetName = _gameUi.GetUnitName(target);
 
-        if (affinity == REPEL_AFFINITY)
+        if (ShouldShowAttackerResult(affinity))
         {
             ShowUnitHealthStatus(attacker, attackerName);
         }
@@ -242,20 +338,15 @@ public class AttackProcessor
 
     private double CalculateSkillDamage(object attacker, SkillData skill)
     {
-        int baseStat = GetBaseStat(attacker, skill);
+        int baseStat = GetSkillBaseStat(attacker, skill);
         return Math.Sqrt(baseStat * skill.power);
     }
 
-    private int GetBaseStat(object attacker, SkillData skill)
+    private int GetSkillBaseStat(object attacker, SkillData skill)
     {
-        if (IsPhysicalOrGunSkill(skill.type))
-        {
-            return GetPhysicalBaseStat(attacker, skill.type);
-        }
-        else
-        {
-            return GetMagicalBaseStat(attacker);
-        }
+        return IsPhysicalOrGunSkill(skill.type)
+            ? GetPhysicalSkillBaseStat(attacker, skill.type)
+            : GetMagicalSkillBaseStat(attacker);
     }
 
     private bool IsPhysicalOrGunSkill(string skillType)
@@ -263,17 +354,32 @@ public class AttackProcessor
         return skillType == "Phys" || skillType == "Gun";
     }
 
-    private int GetPhysicalBaseStat(object attacker, string skillType)
+    private int GetPhysicalSkillBaseStat(object attacker, string skillType)
     {
         return attacker switch
         {
-            Samurai samurai => skillType == "Phys" ? samurai.Str : samurai.Skl,
-            Monster monster => skillType == "Phys" ? monster.Str : monster.Skl,
+            Samurai samurai => GetSamuraiPhysicalStat(samurai, skillType),
+            Monster monster => GetMonsterPhysicalStat(monster, skillType),
             _ => 0
         };
     }
 
-    private int GetMagicalBaseStat(object attacker)
+    private int GetSamuraiPhysicalStat(Samurai samurai, string skillType)
+    {
+        return IsPhysicalSkill(skillType) ? samurai.Str : samurai.Skl;
+    }
+
+    private int GetMonsterPhysicalStat(Monster monster, string skillType)
+    {
+        return IsPhysicalSkill(skillType) ? monster.Str : monster.Skl;
+    }
+
+    private bool IsPhysicalSkill(string skillType)
+    {
+        return skillType == "Phys";
+    }
+
+    private int GetMagicalSkillBaseStat(object attacker)
     {
         return attacker switch
         {

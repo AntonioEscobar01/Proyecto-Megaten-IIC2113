@@ -11,11 +11,11 @@ public class Affinity
 
     public string GetAffinity(string type)
     {
-        return _affinities.TryGetValue(type, out var value) ? value : "-";
+        return HasAffinityForType(type) ? _affinities[type] : "-";
     }
 
-    public Dictionary<string, string> GetAllAffinities()
+    private bool HasAffinityForType(string type)
     {
-        return new Dictionary<string, string>(_affinities);
+        return _affinities.TryGetValue(type, out _);
     }
 }

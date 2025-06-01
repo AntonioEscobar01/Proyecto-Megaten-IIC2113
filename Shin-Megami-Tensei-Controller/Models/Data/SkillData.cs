@@ -26,19 +26,55 @@ public class SkillData
     
     public int GetHitsCount(int usedSkillsCount)
     {
-        if (string.IsNullOrEmpty(hits))
+        if (IsHitsEmpty())
             return 1;
-        if (hits.Contains("-"))
+        
+        if (IsHitsRange())
         {
-            string[] range = hits.Split('-');
-            if (int.TryParse(range[0], out int min) && int.TryParse(range[1], out int max))
-            {
-                int offset = usedSkillsCount % (max - min + 1);
-                return min + offset;
-            }
+            return CalculateHitsFromRange(usedSkillsCount);
         }
-        if (int.TryParse(hits, out int fixedHits))
+    
+        if (IsFixedHitsNumber())
+        {
+            int.TryParse(hits, out int fixedHits);
             return fixedHits;
+        }
+    
         return 1;
+    }
+    
+    private bool IsHitsEmpty()
+    {
+        return string.IsNullOrEmpty(hits);
+    }
+
+    private bool IsHitsRange()
+    {
+        return hits.Contains("-");
+    }
+
+    private bool IsFixedHitsNumber()
+    {
+        return int.TryParse(hits, out _);
+    }
+
+    private int CalculateHitsFromRange(int usedSkillsCount)
+    {
+        string[] range = hits.Split('-');
+    
+        if (IsValidHitsRange(range))
+        {
+            int.TryParse(range[0], out int min);
+            int.TryParse(range[1], out int max);
+            int offset = usedSkillsCount % (max - min + 1);
+            return min + offset;
+        }
+    
+        return 1;
+    }
+
+    private bool IsValidHitsRange(string[] range)
+    {
+        return int.TryParse(range[0], out _) && int.TryParse(range[1], out _);
     }
 }
