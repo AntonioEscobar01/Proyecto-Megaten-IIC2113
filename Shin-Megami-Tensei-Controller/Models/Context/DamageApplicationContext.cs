@@ -2,16 +2,17 @@
 
 public class DamageApplicationContext
 {
-    public IUnit Attacker { get; }
-    public IUnit Target { get; }
-    public DamageResultData DamageResult { get; }
-    public string Affinity { get; }
+    public CombatParticipants Participants { get; }
+    public DamageContextInfo Info { get; }
     
-    public DamageApplicationContext(IUnit attacker, IUnit target, DamageResultData damageResult, string affinity)
+    public IUnit Attacker => Participants.Attacker;
+    public IUnit Target => Participants.Target;
+    public DamageResultData DamageResult => Info.DamageResult;
+    public string Affinity => Info.Affinity;
+    
+    public DamageApplicationContext(CombatParticipants participants, DamageContextInfo info)
     {
-        Attacker = attacker;
-        Target = target;
-        DamageResult = damageResult;
-        Affinity = affinity;
+        Participants = participants;
+        Info = info;
     }
 }

@@ -2,15 +2,13 @@
 
 public class ReviveData
 {
-    public string TargetName { get; }
-    public string ReviverName { get; }
+    public ReviveParticipants Participants { get; }
     public int MaxHp { get; }
     public int HealAmount { get; }
     
-    public ReviveData(string targetName, string reviverName, int maxHp, int healAmount)
+    public ReviveData(ReviveParticipants participants, int maxHp, int healAmount)
     {
-        TargetName = targetName;
-        ReviverName = reviverName;
+        Participants = participants;
         MaxHp = maxHp;
         HealAmount = healAmount;
     }

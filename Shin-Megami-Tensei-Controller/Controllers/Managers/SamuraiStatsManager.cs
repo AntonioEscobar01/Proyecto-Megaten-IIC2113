@@ -1,5 +1,4 @@
-﻿
-using System.Text.Json;
+﻿using System.Text.Json;
 
 namespace Shin_Megami_Tensei;
 
@@ -47,9 +46,8 @@ public class SamuraiStatsManager
                 
             return ConvertToStatsList(samuraiDataList);
         }
-        catch (Exception ex)
+        catch (Exception)
         {
-            Console.WriteLine($"Error loading samurai stats: {ex.Message}");
             return new List<Stats>();
         }
     }
@@ -71,9 +69,13 @@ public class SamuraiStatsManager
 
     private List<Stats> ConvertToStatsList(List<SamuraiData> samuraiDataList)
     {
-        return samuraiDataList.Select(samuraiData => new Stats(
-            samuraiData.name, samuraiData.stats.HP, samuraiData.stats.MP, samuraiData.stats.Str,
-            samuraiData.stats.Skl, samuraiData.stats.Mag, samuraiData.stats.Spd, samuraiData.stats.Lck
-        )).ToList();
+        return samuraiDataList.Select(samuraiData => 
+        {
+            var coreStats = new CoreStats(samuraiData.stats.HP, samuraiData.stats.MP);
+            var battleStats = new BattleStats(samuraiData.stats.Str, samuraiData.stats.Skl, samuraiData.stats.Mag);
+            var secondaryStats = new SecondaryStats(samuraiData.stats.Spd, samuraiData.stats.Lck);
+            var completeStats = new CompleteStats(coreStats, battleStats, secondaryStats);
+            return new Stats(samuraiData.name, completeStats);
+        }).ToList();
     }
 }

@@ -2,18 +2,18 @@
 
 public class AttackContext
 {
-    public IUnit Attacker { get; }
-    public IUnit Target { get; }
-    public double BaseDamage { get; }
-    public string AttackType { get; }
-    public string ActionType { get; }
+    public CombatParticipants Participants { get; }
+    public AttackInfo Info { get; }
     
-    public AttackContext(IUnit attacker, IUnit target, double baseDamage, string attackType, string actionType)
+    public IUnit Attacker => Participants.Attacker;
+    public IUnit Target => Participants.Target;
+    public double BaseDamage => Info.BaseDamage;
+    public string AttackType => Info.AttackType;
+    public string ActionType => Info.ActionType;
+    
+    public AttackContext(CombatParticipants participants, AttackInfo info)
     {
-        Attacker = attacker;
-        Target = target;
-        BaseDamage = baseDamage;
-        AttackType = attackType;
-        ActionType = actionType;
+        Participants = participants;
+        Info = info;
     }
 }

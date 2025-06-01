@@ -2,18 +2,17 @@
 
 public class AttackResultContext
 {
-    public IUnit Attacker { get; }
-    public IUnit Target { get; }
-    public string AttackerName { get; }
-    public string TargetName { get; }
+    public CombatParticipants Participants { get; }
     public string Affinity { get; }
     
-    public AttackResultContext(IUnit attacker, IUnit target, string attackerName, string targetName, string affinity)
+    public IUnit Attacker => Participants.Attacker;
+    public IUnit Target => Participants.Target;
+    public string AttackerName => Participants.Attacker.GetName();
+    public string TargetName => Participants.Target.GetName();
+    
+    public AttackResultContext(CombatParticipants participants, string affinity)
     {
-        Attacker = attacker;
-        Target = target;
-        AttackerName = attackerName;
-        TargetName = targetName;
+        Participants = participants;
         Affinity = affinity;
     }
 }

@@ -16,7 +16,7 @@ public class AllySelectorController
     public int ChooseAllyToHeal(IUnit healer)
     {
         string healerName = healer.GetName();
-        _gameUi.WriteLine($"Seleccione un objetivo para {healerName}");
+        _gameUi.ShowAllySelectionPrompt(healerName);
 
         _availableAllies = GetAvailableAlliesForHealing();
         DisplayAllies();
@@ -27,7 +27,7 @@ public class AllySelectorController
     public int ChooseAllyToRevive(IUnit healer)
     {
         string healerName = healer.GetName();
-        _gameUi.WriteLine($"Seleccione un objetivo para {healerName}");
+        _gameUi.ShowAllySelectionPrompt(healerName);
 
         _availableAllies = GetAvailableAlliesForReviving();
         DisplayAllies();
@@ -128,7 +128,7 @@ public class AllySelectorController
         {
             DisplayAlly(_availableAllies[allyIndex], allyIndex);
         }
-        _gameUi.WriteLine($"{_availableAllies.Count + 1}-Cancelar");
+        _gameUi.ShowAllyCancelOption(_availableAllies.Count);
     }
 
     private void DisplayAlly(IUnit ally, int allyIndex)
@@ -145,12 +145,18 @@ public class AllySelectorController
 
     private void DisplaySamuraiInfo(Samurai samurai, int allyIndex)
     {
-        _gameUi.WriteLine($"{allyIndex+1}-{samurai.GetName()} HP:{samurai.GetCurrentHp()}/{samurai.GetMaxHp()} MP:{samurai.GetCurrentMp()}/{samurai.GetMaxMp()}");
+        var healthInfo = new HealthInfo(samurai.GetCurrentHp(), samurai.GetMaxHp());
+        var manaInfo = new ManaInfo(samurai.GetCurrentMp(), samurai.GetMaxMp());
+        var unitInfo = new UnitDisplayInfo(samurai.GetName(), healthInfo, manaInfo);
+        _gameUi.ShowSamuraiAllyOption(allyIndex, unitInfo);
     }
 
     private void DisplayMonsterInfo(Monster monster, int allyIndex)
     {
-        _gameUi.WriteLine($"{allyIndex+1}-{monster.GetName()} HP:{monster.GetCurrentHp()}/{monster.GetMaxHp()} MP:{monster.GetCurrentMp()}/{monster.GetMaxMp()}");
+        var healthInfo = new HealthInfo(monster.GetCurrentHp(), monster.GetMaxHp());
+        var manaInfo = new ManaInfo(monster.GetCurrentMp(), monster.GetMaxMp());
+        var unitInfo = new UnitDisplayInfo(monster.GetName(), healthInfo, manaInfo);
+        _gameUi.ShowMonsterAllyOption(allyIndex, unitInfo);
     }
 
     private int GetAllySelectionResult()

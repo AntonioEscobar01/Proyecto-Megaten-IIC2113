@@ -1,6 +1,4 @@
-﻿using Shin_Megami_Tensei_View;
-
-namespace Shin_Megami_Tensei;
+﻿namespace Shin_Megami_Tensei;
 
 public class TeamLoadManager
 {
@@ -28,7 +26,7 @@ public class TeamLoadManager
 
         if (!areTeamsValid)
         {
-            _gameUi.WriteLine("Archivo de equipos inválido");
+            _gameUi.ShowInvalidTeamFileError();
         }
         
         return (team1, team2, areTeamsValid);
@@ -36,7 +34,7 @@ public class TeamLoadManager
 
     private string GetUserSelectedFile(string[] teamFiles)
     {
-        _gameUi.WriteLine("Elige un archivo para cargar los equipos");
+        _gameUi.ShowFileSelectionPrompt();
         _gameUi.ShowFiles(teamFiles);
         
         int chosenFileIndex = int.Parse(_gameUi.ReadLine());

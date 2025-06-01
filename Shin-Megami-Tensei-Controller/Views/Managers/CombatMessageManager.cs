@@ -14,6 +14,11 @@ public class CombatMessageManager
         _gameUi.WriteLine($"{attackerName} {actionType} a {targetName}");
     }
 
+    public void ShowSkillAttack(string attackerName, string actionVerb, string targetName)
+    {
+        _gameUi.WriteLine($"{attackerName} {actionVerb} {targetName}");
+    }
+
     public void ShowAffinityResponse(AffinityResponseInfo affinityInfo)
     {
         switch (affinityInfo.Affinity)

@@ -2,18 +2,18 @@
 
 public class SingleHitContext
 {
-    public IUnit Attacker { get; }
-    public IUnit Target { get; }
-    public SkillData Skill { get; }
-    public string Affinity { get; }
-    public double BaseDamage { get; }
+    public CombatParticipants Participants { get; }
+    public SkillExecutionInfo Info { get; }
     
-    public SingleHitContext(IUnit attacker, IUnit target, SkillData skill, string affinity, double baseDamage)
+    public IUnit Attacker => Participants.Attacker;
+    public IUnit Target => Participants.Target;
+    public SkillData Skill => Info.Skill;
+    public string Affinity => Info.Affinity;
+    public double BaseDamage => Info.BaseDamage;
+    
+    public SingleHitContext(CombatParticipants participants, SkillExecutionInfo info)
     {
-        Attacker = attacker;
-        Target = target;
-        Skill = skill;
-        Affinity = affinity;
-        BaseDamage = baseDamage;
+        Participants = participants;
+        Info = info;
     }
 }

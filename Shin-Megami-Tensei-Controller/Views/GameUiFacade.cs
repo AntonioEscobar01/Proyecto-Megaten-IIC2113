@@ -10,6 +10,9 @@ public class GameUiFacade
     private readonly SelectionMenuManager _selectionMenuManager;
     private readonly CombatMessageManager _combatMessageManager;
     private readonly SkillMessageManager _skillMessageManager;
+    private readonly ErrorMessageManager _errorMessageManager;
+    private readonly TargetSelectionMessageManager _targetSelectionMessageManager;
+    private readonly AllySelectionMessageManager _allySelectionMessageManager;
     private readonly GameUiUtilities _utilities;
 
     public GameUiFacade(View view)
@@ -20,12 +23,14 @@ public class GameUiFacade
         _selectionMenuManager = new SelectionMenuManager(_gameUi);
         _combatMessageManager = new CombatMessageManager(_gameUi);
         _skillMessageManager = new SkillMessageManager(_gameUi);
+        _errorMessageManager = new ErrorMessageManager(_gameUi);
+        _targetSelectionMessageManager = new TargetSelectionMessageManager(_gameUi);
+        _allySelectionMessageManager = new AllySelectionMessageManager(_gameUi);
         _utilities = new GameUiUtilities();
     }
 
     public void PrintLine() => _gameUi.PrintLine();
     public string ReadLine() => _gameUi.ReadLine();
-    public void WriteLine(string text) => _gameUi.WriteLine(text);
     public void ShowFiles(string[] files) => _gameUi.ShowFiles(files);
 
     public void DisplayGameState(GameStateDisplayInfo gameStateInfo) => _gameStateDisplayManager.DisplayGameState(gameStateInfo);
@@ -39,6 +44,7 @@ public class GameUiFacade
     public int DisplayPositionMenu(Team currentTeam) => _selectionMenuManager.DisplayPositionMenu(currentTeam);
 
     public void ShowAttack(string attackerName, string actionType, string targetName) => _combatMessageManager.ShowAttack(attackerName, actionType, targetName);
+    public void ShowSkillAttack(string attackerName, string actionVerb, string targetName) => _combatMessageManager.ShowSkillAttack(attackerName, actionVerb, targetName);
     public void ShowAffinityResponse(AffinityResponseInfo affinityInfo) => _combatMessageManager.ShowAffinityResponse(affinityInfo);
     public void ShowHpResult(string targetName, int remainingHp, int originalHp) => _combatMessageManager.ShowHpResult(targetName, remainingHp, originalHp);
     public void PrintTurnsUsed(TurnUsageInfo turnUsage) => _combatMessageManager.PrintTurnsUsed(turnUsage);
@@ -52,6 +58,21 @@ public class GameUiFacade
     public void ShowSkillCancelOption(int optionNumber) => _skillMessageManager.ShowSkillCancelOption(optionNumber);
     public void DisplaySummonSuccess(string monsterName) => _skillMessageManager.DisplaySummonSuccess(monsterName);
     public void ShowSurrenderMessage(string samuraiName, string playerName) => _skillMessageManager.ShowSurrenderMessage(samuraiName, playerName);
+
+    public void ShowInvalidTeamFileError() => _errorMessageManager.ShowInvalidTeamFileError();
+    public void ShowFileSelectionPrompt() => _errorMessageManager.ShowFileSelectionPrompt();
+
+    public void ShowTargetSelectionPrompt(string attackerName) => _targetSelectionMessageManager.ShowTargetSelectionPrompt(attackerName);
+    public void ShowTargetCancelOption(int targetCount) => _targetSelectionMessageManager.ShowTargetCancelOption(targetCount);
+    public void ShowSamuraiTargetOption(int index, UnitDisplayInfo unitInfo) => _targetSelectionMessageManager.ShowSamuraiTargetOption(index, unitInfo);
+    public void ShowMonsterTargetOption(int index, UnitDisplayInfo unitInfo) => _targetSelectionMessageManager.ShowMonsterTargetOption(index, unitInfo);
+    public void DisplayTargets(List<IUnit> availableTargets) => _targetSelectionMessageManager.DisplayTargets(availableTargets);
+
+    public void ShowAllySelectionPrompt(string healerName) => _allySelectionMessageManager.ShowAllySelectionPrompt(healerName);
+    public void ShowAllyCancelOption(int allyCount) => _allySelectionMessageManager.ShowAllyCancelOption(allyCount);
+    public void ShowSamuraiAllyOption(int index, UnitDisplayInfo unitInfo) => _allySelectionMessageManager.ShowSamuraiAllyOption(index, unitInfo);
+    public void ShowMonsterAllyOption(int index, UnitDisplayInfo unitInfo) => _allySelectionMessageManager.ShowMonsterAllyOption(index, unitInfo);
+    public void DisplayAllies(List<IUnit> availableAllies) => _allySelectionMessageManager.DisplayAllies(availableAllies);
 
     public string GetUnitName(IUnit unit) => _utilities.GetUnitName(unit);
 }

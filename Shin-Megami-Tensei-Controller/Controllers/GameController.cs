@@ -71,7 +71,8 @@ public class GameController
         var currentTeam = GetCurrentTeam();
         currentTeam.SetMaxFullTurns();
 
-        var gameStateInfo = new GameStateDisplayInfo(currentTeam, _teamPlayer1, _teamPlayer2, _turnManager.GetCurrentTurn());
+        var teamsInfo = new GameTeamsInfo(_teamPlayer1, _teamPlayer2);
+        var gameStateInfo = new GameStateDisplayInfo(currentTeam, teamsInfo, _turnManager.GetCurrentTurn());
         _gameUi.DisplayGameState(gameStateInfo);
     
         var enemyTeam = GetEnemyTeam();

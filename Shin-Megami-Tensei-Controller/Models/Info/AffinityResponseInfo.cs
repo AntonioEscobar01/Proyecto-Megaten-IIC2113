@@ -2,16 +2,17 @@
 
 public class AffinityResponseInfo
 {
-    public string AttackerName { get; }
-    public string Affinity { get; }
-    public string TargetName { get; }
-    public int Damage { get; }
+    public CombatNames Names { get; }
+    public AffinityResponseData Data { get; }
     
-    public AffinityResponseInfo(string attackerName, string affinity, string targetName, int damage)
+    public string AttackerName => Names.AttackerName;
+    public string TargetName => Names.TargetName;
+    public string Affinity => Data.Affinity;
+    public int Damage => Data.Damage;
+    
+    public AffinityResponseInfo(CombatNames names, AffinityResponseData data)
     {
-        AttackerName = attackerName;
-        Affinity = affinity;
-        TargetName = targetName;
-        Damage = damage;
+        Names = names;
+        Data = data;
     }
 }

@@ -948,7 +948,8 @@ public class UnitActionController
         float revivePercentage = skill.power / 100.0f;
         int healAmount = (int)(maxHp * revivePercentage);
         
-        return new ReviveData(targetName, reviverName, maxHp, healAmount);
+        var participants = new ReviveParticipants(targetName, reviverName);
+        return new ReviveData(participants, maxHp, healAmount);
     }
 
     private void ReviveSamurai(Samurai samurai, ReviveData reviveData)
@@ -1033,9 +1034,9 @@ public class UnitActionController
 
     private void ShowReviveMessages(ReviveData reviveData)
     {
-        _gameUi.ShowReviveAction(reviveData.ReviverName, reviveData.TargetName);
-        _gameUi.ShowHealAmountReceived(reviveData.TargetName, reviveData.HealAmount);
-        _gameUi.ShowHpResult(reviveData.TargetName, reviveData.HealAmount, reviveData.MaxHp);
+        _gameUi.ShowReviveAction(reviveData.Participants.ReviverName, reviveData.Participants.TargetName);
+        _gameUi.ShowHealAmountReceived(reviveData.Participants.TargetName, reviveData.HealAmount);
+        _gameUi.ShowHpResult(reviveData.Participants.TargetName, reviveData.HealAmount, reviveData.MaxHp);
     }
 
     private List<string> FilterAffordableAbilities(UnitSkillInfo skillInfo)

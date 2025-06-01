@@ -16,11 +16,10 @@ public class TargetSelectorController
     public int ChooseUnitToAttack(IUnit attacker)
     {
         string attackerName = attacker.GetName();
-        _gameUi.WriteLine($"Seleccione un objetivo para {attackerName}");
+        _gameUi.ShowTargetSelectionPrompt(attackerName);
 
         _availableTargets = GetAvailableTargets();
-        DisplayTargets();
-
+        _gameUi.DisplayTargets(_availableTargets);
         return GetTargetSelectionResult();
     }
 
@@ -47,27 +46,6 @@ public class TargetSelectorController
             var monster = units[monsterIndex];
             if (!monster.IsDead())
                 targets.Add(monster);
-        }
-    }
-
-    private void DisplayTargets()
-    {
-        for (int targetIndex = 0; targetIndex < _availableTargets.Count; targetIndex++)
-        {
-            DisplayTarget(_availableTargets[targetIndex], targetIndex);
-        }
-        _gameUi.WriteLine($"{_availableTargets.Count + 1}-Cancelar");
-    }
-
-    private void DisplayTarget(IUnit target, int targetIndex)
-    {
-        if (target is Samurai samurai)
-        {
-            _gameUi.WriteLine($"{targetIndex+1}-{samurai.GetName()} HP:{samurai.GetCurrentHp()}/{samurai.GetMaxHp()} MP:{samurai.GetCurrentMp()}/{samurai.GetMaxMp()}");
-        }
-        else if (target is Monster monster)
-        {
-            _gameUi.WriteLine($"{targetIndex+1}-{monster.GetName()} HP:{monster.GetCurrentHp()}/{monster.GetMaxHp()} MP:{monster.GetCurrentMp()}/{monster.GetMaxMp()}");
         }
     }
 

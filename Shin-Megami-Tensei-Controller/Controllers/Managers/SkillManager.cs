@@ -39,9 +39,8 @@ public class SkillsManager
             
             return skillsList ?? new List<SkillData>();
         }
-        catch (Exception ex)
+        catch (Exception)
         {
-            Console.WriteLine($"Error loading skills: {ex.Message}");
             return new List<SkillData>();
         }
     }

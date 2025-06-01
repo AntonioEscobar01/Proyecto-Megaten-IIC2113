@@ -1,26 +1,21 @@
 ﻿namespace Shin_Megami_Tensei;
 
-
 public class Stats
 {
-    public string Name;
-    public int Hp;
-    public int Mp;
-    public int Str;
-    public int Skl;
-    public int Mag;
-    public int Spd;
-    public int Lck;
+    public string Name { get; }
+    public CompleteStats AllStats { get; }
     
-    public Stats(string name, int hp, int mp, int str, int skl, int mag, int spd, int lck)
+    public int Hp => AllStats.Core.Hp;
+    public int Mp => AllStats.Core.Mp;
+    public int Str => AllStats.Battle.Str;
+    public int Skl => AllStats.Battle.Skl;
+    public int Mag => AllStats.Battle.Mag;
+    public int Spd => AllStats.Secondary.Spd;
+    public int Lck => AllStats.Secondary.Lck;
+    
+    public Stats(string name, CompleteStats allStats)
     {
         Name = name;
-        Hp = hp;
-        Mp = mp;
-        Str = str;
-        Skl = skl;
-        Mag = mag;
-        Spd = spd;
-        Lck = lck;
+        AllStats = allStats;
     }
 }
