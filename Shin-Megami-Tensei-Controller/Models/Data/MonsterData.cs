@@ -2,8 +2,8 @@
 
 public class MonsterData
 {
-    public string name { get; set; }
-    public StatData stats { get; set; }
-    public Dictionary<string, string> affinity { get; set; }
-    public List<string> skills { get; set; }
+    public required string name { get; set; }
+    public required StatData stats { get; set; }
+    public required Dictionary<string, string> affinity { get; set; }
+    public required List<string> skills { get; set; }
 }

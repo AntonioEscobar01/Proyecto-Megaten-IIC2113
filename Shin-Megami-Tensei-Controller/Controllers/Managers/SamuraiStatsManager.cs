@@ -14,12 +14,12 @@ public class SamuraiStatsManager
     }
     
 
-    public Stats GetStatsByName(string statName)
+    public Stats? GetStatsByName(string statName)
     {
         return _samuraiStats.FirstOrDefault(s => IsStatNameMatch(s, statName));
     }
 
-    public SamuraiData GetSamuraiData(string name)
+    public SamuraiData? GetSamuraiData(string name)
     {
         try
         {
@@ -62,7 +62,7 @@ public class SamuraiStatsManager
         return samuraiData.name.Equals(name, StringComparison.OrdinalIgnoreCase);
     }
 
-    private bool IsSamuraiDataNull(List<SamuraiData> samuraiDataList)
+    private bool IsSamuraiDataNull(List<SamuraiData>? samuraiDataList)
     {
         return samuraiDataList == null;
     }

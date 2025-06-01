@@ -8,8 +8,8 @@ public class GameController
     private readonly AttackProcessController _attackProcessController;
     private readonly TeamLoadManager _teamLoadManager;
     private SkillsManager _skillsManager;
-    private Team _teamPlayer1;
-    private Team _teamPlayer2;
+    private Team? _teamPlayer1;
+    private Team? _teamPlayer2;
     private bool _isGameOver;
     private int _winnerTeam;
 

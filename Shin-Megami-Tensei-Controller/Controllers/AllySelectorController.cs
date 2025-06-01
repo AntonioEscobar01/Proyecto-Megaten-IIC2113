@@ -182,11 +182,11 @@ public class AllySelectorController
         return selection > 0 && selection <= _availableAllies.Count;
     }
 
-    public IUnit GetAlly(int selection)
+    public IUnit? GetAlly(int selection) // Acepta devolver nulo
     {
         if (IsValidAllySelection(selection))
             return _availableAllies[selection - 1];
-        
+    
         return null;
     }
 }

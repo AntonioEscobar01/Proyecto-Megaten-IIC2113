@@ -2,13 +2,13 @@
 
 public class SkillData
 {
-    public string name { get; set; }
-    public string type { get; set; }
+    public required string name { get; set; }
+    public required string type { get; set; }
     public int cost { get; set; }
     public int power { get; set; }
-    public string target { get; set; }
-    public string hits { get; set; }
-    public string effect { get; set; }
+    public required string target { get; set; }
+    public required string hits { get; set; }
+    public required string effect { get; set; }
     
     public string GetSkillActionVerb(string skillType)
     {

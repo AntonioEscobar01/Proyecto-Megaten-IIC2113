@@ -79,7 +79,7 @@ public class TargetSelectorController
         }
     }
 
-    public IUnit GetTarget(int targetIndex)
+    public IUnit? GetTarget(int targetIndex)
     {
         var units = _enemyTeam.GetUnits();
         return targetIndex switch

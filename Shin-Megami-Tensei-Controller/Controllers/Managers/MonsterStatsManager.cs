@@ -11,7 +11,7 @@ public class MonsterStatsManager
         _monstersData = LoadMonsterData(jsonFilePath);
     }
     
-    public MonsterData GetMonsterData(string name)
+    public MonsterData? GetMonsterData(string name)
     {
         return _monstersData.FirstOrDefault(md => IsMonsterNameMatch(md, name));
     }
@@ -29,7 +29,7 @@ public class MonsterStatsManager
             var monsterDataList = JsonSerializer.Deserialize<List<MonsterData>>(jsonContent);
             return monsterDataList ?? new List<MonsterData>();
         }
-        catch (Exception ex)
+        catch (Exception)
         {
             return new List<MonsterData>();
         }

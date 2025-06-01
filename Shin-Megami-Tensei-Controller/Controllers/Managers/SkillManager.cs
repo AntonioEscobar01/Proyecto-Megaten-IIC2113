@@ -13,7 +13,7 @@ public class SkillsManager
 
     public List<SkillData> GetAllSkills() => _skills;
 
-    public SkillData GetSkillByName(string name)
+    public SkillData? GetSkillByName(string name)
     {
         return _skills.FirstOrDefault(s => IsSkillNameMatch(s, name));
     }

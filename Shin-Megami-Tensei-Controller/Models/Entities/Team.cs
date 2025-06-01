@@ -9,8 +9,8 @@ public class Team
     private int _initialMaxFullTurns;
     private string _player;
     private List<Monster> _units;
-    private Samurai _samurai;
-    private List<string> _originalMonstersOrder;
+    private Samurai? _samurai;
+    private List<string>? _originalMonstersOrder;
     private List<IUnit> _orderList;
     private int _fullTurns;
     private int _blinkingTurns;
@@ -25,10 +25,11 @@ public class Team
         _fullTurns = 0;
         _blinkingTurns = 0;
         _usedSkillsCount = 0;
+        _originalMonstersOrder = new List<string>();
     }
 
     public string GetPlayer() => _player;
-    public Samurai GetSamurai() => _samurai;
+    public Samurai? GetSamurai() => _samurai;
     public List<Monster> GetUnits() => _units;
     public List<IUnit> GetOrderList() => _orderList;
     public int GetFullTurns() => _fullTurns;
@@ -52,7 +53,7 @@ public class Team
         return _samurai != null;
     }
 
-    public IUnit GetCurrentUnit()
+    public IUnit? GetCurrentUnit()
     {
         return _orderList.Count > 0 ? _orderList[0] : null;
     }
