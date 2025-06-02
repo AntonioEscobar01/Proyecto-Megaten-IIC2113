@@ -40,14 +40,24 @@ public class AttackProcessController
     {
         string affinity = target.GetAffinity(skillInfo.Skill.type);
         int numberOfHits = skillInfo.Skill.GetHitsCount(skillInfo.UsedSkillsCount);
-        double baseDamage = _damageCalculator.CalculateSkillDamage(attacker, skillInfo.Skill);
-
+        
         var participants = new CombatParticipants(attacker, target);
-        var executionInfo = new SkillExecutionInfo(skillInfo.Skill, affinity, baseDamage);
-        var skillContext = new SkillExecutionContext(participants, executionInfo, numberOfHits);
-        ExecuteSkillHits(skillContext);
+        
+        if (IsInstantKillSkill(skillInfo.Skill.type))
+        {
+            var executionInfo = new SkillExecutionInfo(skillInfo.Skill, affinity, 0);
+            var skillContext = new SkillExecutionContext(participants, executionInfo, numberOfHits);
+            ExecuteInstantKillSkillHits(skillContext);
+        }
+        else
+        {
+            double baseDamage = _damageCalculator.CalculateSkillDamage(attacker, skillInfo.Skill);
+            var executionInfo = new SkillExecutionInfo(skillInfo.Skill, affinity, baseDamage);
+            var skillContext = new SkillExecutionContext(participants, executionInfo, numberOfHits);
+            ExecuteSkillHits(skillContext);
+        }
+        
         ShowFinalSkillResult(attacker, target, affinity);
-
         return affinity;
     }
 
@@ -77,6 +87,15 @@ public class AttackProcessController
         }
     }
 
+    private void ExecuteInstantKillSkillHits(SkillExecutionContext context)
+    {
+        for (int i = 0; i < context.NumberOfHits; i++)
+        {
+            var hitContext = new SingleHitContext(context.Participants, context.Info);
+            ExecuteSingleInstantKillHit(hitContext);
+        }
+    }
+
     private void ExecuteSingleSkillHit(SingleHitContext hitContext)
     {
         ShowSkillAttackMessage(hitContext.Attacker, hitContext.Target, hitContext.Skill);
@@ -85,6 +104,80 @@ public class AttackProcessController
         var participants = new CombatParticipants(hitContext.Attacker, hitContext.Target);
         var damageContext = new DamageApplicationContext(participants, damageInfo);
         _damageApplicator.ApplyDamageBasedOnAffinity(damageContext);
+    }
+
+    private void ExecuteSingleInstantKillHit(SingleHitContext hitContext)
+    {
+        ShowSkillAttackMessage(hitContext.Attacker, hitContext.Target, hitContext.Skill);
+        
+        bool instantKillSucceeded = DetermineInstantKillSuccess(hitContext.Attacker, hitContext.Target, hitContext.Skill, hitContext.Affinity);
+        
+        if (instantKillSucceeded)
+        {
+            ApplyInstantKillEffect(hitContext);
+        }
+        else
+        {
+            ShowInstantKillFailureMessage(hitContext);
+        }
+    }
+
+    private bool DetermineInstantKillSuccess(IUnit attacker, IUnit target, SkillData skill, string affinity)
+    {
+        int attackerLck = attacker.GetLck();
+        int targetLck = target.GetLck();
+        int skillPower = skill.power;
+        
+        return affinity switch
+        {
+            "Wk" => true,
+            "Nu" => false,
+            "Rs" => attackerLck + skillPower >= 2 * targetLck,
+            _ => attackerLck + skillPower >= targetLck
+        };
+    }
+
+    private void ApplyInstantKillEffect(SingleHitContext hitContext)
+    {
+        ShowInstantKillAffinityMessage(hitContext);
+        hitContext.Target.TakeDamage(hitContext.Target.GetCurrentHp());
+        _gameUi.ShowInstantKillSuccess(hitContext.Target.GetName());
+    }
+
+    private void ShowInstantKillAffinityMessage(SingleHitContext hitContext)
+    {
+        string attackerName = hitContext.Attacker.GetName();
+        string targetName = hitContext.Target.GetName();
+        
+        switch (hitContext.Affinity)
+        {
+            case "Wk":
+                _gameUi.ShowWeakInstantKillResponse(attackerName, targetName);
+                break;
+            case "Rs":
+                _gameUi.ShowResistInstantKillResponse(attackerName, targetName);
+                break;
+        }
+    }
+
+    private void ShowInstantKillFailureMessage(SingleHitContext hitContext)
+    {
+        string attackerName = hitContext.Attacker.GetName();
+        string targetName = hitContext.Target.GetName();
+        
+        if (hitContext.Affinity == "Nu")
+        {
+            _gameUi.ShowNullInstantKillResponse(attackerName, targetName);
+        }
+        else
+        {
+            _gameUi.ShowInstantKillFailure(attackerName);
+        }
+    }
+
+    private bool IsInstantKillSkill(string skillType)
+    {
+        return skillType == "Light" || skillType == "Dark";
     }
 
     private void ShowSkillAttackMessage(IUnit attacker, IUnit target, SkillData skill)

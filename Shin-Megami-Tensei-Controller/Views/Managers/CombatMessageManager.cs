@@ -56,6 +56,31 @@ public class CombatMessageManager
         _gameUi.WriteLine($"Se han obtenido {turnUsage.BlinkingTurnsGained} Blinking Turn(s)");
     }
 
+    public void ShowInstantKillSuccess(string targetName)
+    {
+        _gameUi.WriteLine($"{targetName} ha sido eliminado");
+    }
+
+    public void ShowInstantKillFailure(string attackerName)
+    {
+        _gameUi.WriteLine($"{attackerName} ha fallado el ataque");
+    }
+
+    public void ShowWeakInstantKillResponse(string attackerName, string targetName)
+    {
+        _gameUi.WriteLine($"{targetName} es débil contra el ataque de {attackerName}");
+    }
+
+    public void ShowResistInstantKillResponse(string attackerName, string targetName)
+    {
+        _gameUi.WriteLine($"{targetName} es resistente el ataque de {attackerName}");
+    }
+
+    public void ShowNullInstantKillResponse(string attackerName, string targetName)
+    {
+        _gameUi.WriteLine($"{targetName} bloquea el ataque de {attackerName}");
+    }
+
     private void ShowResistResponse(string attackerName, string targetName, int damage)
     {
         _gameUi.WriteLine($"{targetName} es resistente el ataque de {attackerName}");

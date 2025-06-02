@@ -20,6 +20,8 @@ public class SkillData
             "Ice" => "lanza hielo a",
             "Elec" => "lanza electricidad a",
             "Force" => "lanza viento a",
+            "Light" => "ataca con luz a",
+            "Dark" => "ataca con oscuridad a",
             _ => "usa una habilidad contra"
         };
     }

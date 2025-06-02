@@ -335,7 +335,8 @@ public class UnitActionController
     {
         return skillType == "Phys" || skillType == "Gun" || 
                skillType == "Fire" || skillType == "Ice" || 
-               skillType == "Elec" || skillType == "Force";
+               skillType == "Elec" || skillType == "Force" ||
+               skillType == "Light" || skillType == "Dark";
     }
     
     private bool WasInvokeActionCancelled(IUnit currentUnit)

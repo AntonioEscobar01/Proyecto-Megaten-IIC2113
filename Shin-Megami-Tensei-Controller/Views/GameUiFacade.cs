@@ -77,5 +77,11 @@ public class GameUiFacade
     public void ShowMonsterAllyOption(int index, UnitDisplayInfo unitInfo) => _allySelectionMessageManager.ShowMonsterAllyOption(index, unitInfo);
     public void DisplayAllies(List<IUnit> availableAllies) => _allySelectionMessageManager.DisplayAllies(availableAllies);
 
+    public void ShowInstantKillSuccess(string targetName) => _combatMessageManager.ShowInstantKillSuccess(targetName);
+    public void ShowInstantKillFailure(string attackerName) => _combatMessageManager.ShowInstantKillFailure(attackerName);
+    public void ShowWeakInstantKillResponse(string attackerName, string targetName) => _combatMessageManager.ShowWeakInstantKillResponse(attackerName, targetName);
+    public void ShowResistInstantKillResponse(string attackerName, string targetName) => _combatMessageManager.ShowResistInstantKillResponse(attackerName, targetName);
+    public void ShowNullInstantKillResponse(string attackerName, string targetName) => _combatMessageManager.ShowNullInstantKillResponse(attackerName, targetName);
+
     public string GetUnitName(IUnit unit) => _utilities.GetUnitName(unit);
 }
