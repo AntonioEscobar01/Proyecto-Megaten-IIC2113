@@ -13,6 +13,7 @@ public interface IUnit
     int GetSpd();
     int GetLck();
     List<string> GetAbilities();
+    SupportEffects GetSupportEffects();
     
     bool IsDead();
     void TakeDamage(int damage);

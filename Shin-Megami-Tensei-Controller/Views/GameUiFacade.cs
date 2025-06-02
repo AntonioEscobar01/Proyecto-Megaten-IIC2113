@@ -58,6 +58,9 @@ public class GameUiFacade
     public void ShowSkillCancelOption(int optionNumber) => _skillMessageManager.ShowSkillCancelOption(optionNumber);
     public void DisplaySummonSuccess(string monsterName) => _skillMessageManager.DisplaySummonSuccess(monsterName);
     public void ShowSurrenderMessage(string samuraiName, string playerName) => _skillMessageManager.ShowSurrenderMessage(samuraiName, playerName);
+    public void ShowChargeMessage(string casterName) => _skillMessageManager.ShowChargeMessage(casterName);
+    public void ShowConcentrateMessage(string casterName) => _skillMessageManager.ShowConcentrateMessage(casterName);
+    public void ShowBloodRitualMessage(string casterName) => _skillMessageManager.ShowBloodRitualMessage(casterName);
 
     public void ShowInvalidTeamFileError() => _errorMessageManager.ShowInvalidTeamFileError();
     public void ShowFileSelectionPrompt() => _errorMessageManager.ShowFileSelectionPrompt();

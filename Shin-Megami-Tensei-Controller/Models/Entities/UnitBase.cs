@@ -5,6 +5,7 @@ public abstract class UnitBase : IUnit
     private string _name;
     private List<string> _abilities;
     private Affinity _affinities;
+    private SupportEffects _supportEffects;
     
     private int _originalHp;
     private int _originalMp;
@@ -27,6 +28,7 @@ public abstract class UnitBase : IUnit
         _name = name;
         _abilities = new List<string>();
         _affinities = new Affinity(new Dictionary<string, string>());
+        _supportEffects = new SupportEffects();
     }
 
     public string GetName() => _name;
@@ -40,6 +42,7 @@ public abstract class UnitBase : IUnit
     public int GetSpd() => _spd;
     public int GetLck() => _lck;
     public List<string> GetAbilities() => new List<string>(_abilities);
+    public SupportEffects GetSupportEffects() => _supportEffects;
 
     public virtual void ResetStats()
     {

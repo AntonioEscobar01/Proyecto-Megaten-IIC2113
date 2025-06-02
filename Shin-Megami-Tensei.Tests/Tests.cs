@@ -39,45 +39,45 @@ public class Tests
     public void TestE2_Random(string teamsFolder, string testFile)
         => RunTest(teamsFolder, testFile);
     
-    // [Theory]
-    // [MemberData(nameof(GetTestsAssociatedWithThisFolder), parameters: "E3-MultiTargetHeal")]
-    // public void TestE3_MultiTargetHeal(string teamsFolder, string testFile)
-    //     => RunTest(teamsFolder, testFile);
-    //
-    // [Theory]
-    // [MemberData(nameof(GetTestsAssociatedWithThisFolder), parameters: "E3-MultiTargetInstaKill")]
-    // public void TestE3_MultiTargetInstaKill(string teamsFolder, string testFile)
-    //     => RunTest(teamsFolder, testFile);
-    //
-    // [Theory]
-    // [MemberData(nameof(GetTestsAssociatedWithThisFolder), parameters: "E3-MultiTargetOffensive")]
-    // public void TestE3_MultiTargetOffensive(string teamsFolder, string testFile)
-    //     => RunTest(teamsFolder, testFile);
-    //
-    // [Theory]
-    // [MemberData(nameof(GetTestsAssociatedWithThisFolder), parameters: "E3-SingleTargetInstaKill")]
-    // public void TestE3_SingleTargetInstaKill(string teamsFolder, string testFile)
-    //     => RunTest(teamsFolder, testFile);
-    //
-    // [Theory]
-    // [MemberData(nameof(GetTestsAssociatedWithThisFolder), parameters: "E3-SingleTargetSupport")]
-    // public void TestE3_SingleTargetSupport(string teamsFolder, string testFile)
-    //     => RunTest(teamsFolder, testFile);
-    //
-    // [Theory]
-    // [MemberData(nameof(GetTestsAssociatedWithThisFolder), parameters: "E3-StatDrain")]
-    // public void TestE3_StatDrain(string teamsFolder, string testFile)
-    //     => RunTest(teamsFolder, testFile);
-    //
-    // [Theory]
-    // [MemberData(nameof(GetTestsAssociatedWithThisFolder), parameters: "E3-RandomSingleTargetInstaKill")]
-    // public void TestE3_RandomSingleTargetInstaKill(string teamsFolder, string testFile)
-    //     => RunTest(teamsFolder, testFile);
-    //
-    // [Theory]
-    // [MemberData(nameof(GetTestsAssociatedWithThisFolder), parameters: "E3-Random")]
-    // public void TestE3_Random(string teamsFolder, string testFile)
-    //     => RunTest(teamsFolder, testFile);
+    [Theory]
+    [MemberData(nameof(GetTestsAssociatedWithThisFolder), parameters: "E3-MultiTargetHeal")]
+    public void TestE3_MultiTargetHeal(string teamsFolder, string testFile)
+        => RunTest(teamsFolder, testFile);
+    
+    [Theory]
+    [MemberData(nameof(GetTestsAssociatedWithThisFolder), parameters: "E3-MultiTargetInstaKill")]
+    public void TestE3_MultiTargetInstaKill(string teamsFolder, string testFile)
+        => RunTest(teamsFolder, testFile);
+    
+    [Theory]
+    [MemberData(nameof(GetTestsAssociatedWithThisFolder), parameters: "E3-MultiTargetOffensive")]
+    public void TestE3_MultiTargetOffensive(string teamsFolder, string testFile)
+        => RunTest(teamsFolder, testFile);
+    
+    [Theory]
+    [MemberData(nameof(GetTestsAssociatedWithThisFolder), parameters: "E3-SingleTargetInstaKill")]
+    public void TestE3_SingleTargetInstaKill(string teamsFolder, string testFile)
+        => RunTest(teamsFolder, testFile);
+    
+    [Theory]
+    [MemberData(nameof(GetTestsAssociatedWithThisFolder), parameters: "E3-SingleTargetSupport")]
+    public void TestE3_SingleTargetSupport(string teamsFolder, string testFile)
+        => RunTest(teamsFolder, testFile);
+    
+    [Theory]
+    [MemberData(nameof(GetTestsAssociatedWithThisFolder), parameters: "E3-StatDrain")]
+    public void TestE3_StatDrain(string teamsFolder, string testFile)
+        => RunTest(teamsFolder, testFile);
+    
+    [Theory]
+    [MemberData(nameof(GetTestsAssociatedWithThisFolder), parameters: "E3-RandomSingleTargetInstaKill")]
+    public void TestE3_RandomSingleTargetInstaKill(string teamsFolder, string testFile)
+        => RunTest(teamsFolder, testFile);
+    
+    [Theory]
+    [MemberData(nameof(GetTestsAssociatedWithThisFolder), parameters: "E3-Random")]
+    public void TestE3_Random(string teamsFolder, string testFile)
+        => RunTest(teamsFolder, testFile);
 
     // [Theory]
     // [MemberData(nameof(GetTestsAssociatedWithThisFolder), parameters: "E4-Special")]

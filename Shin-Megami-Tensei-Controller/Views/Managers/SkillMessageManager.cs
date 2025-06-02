@@ -56,4 +56,20 @@ public class SkillMessageManager
     {
         _gameUi.WriteLine($"{samuraiName} ({playerName}) se rinde");
     }
+
+    public void ShowChargeMessage(string casterName)
+    {
+        _gameUi.WriteLine($"{casterName} ha cargado su siguiente ataque físico o disparo a más del doble");
+    }
+
+    public void ShowConcentrateMessage(string casterName)
+    {
+        _gameUi.WriteLine($"{casterName} ha cargado su siguiente ataque mágico a más del doble");
+    }
+
+    public void ShowBloodRitualMessage(string casterName)
+    {
+        _gameUi.WriteLine($"El ataque de {casterName} ha aumentado");
+        _gameUi.WriteLine($"La defensa de {casterName} ha aumentado");
+    }
 }

@@ -10,6 +10,7 @@ public class UnitActionController
     private readonly TargetSelectorController _targetSelectorController;
     private readonly ActionConstantsData _actionConstantsData;
     private readonly AllySelectorController _allySelectorController;
+    private readonly SupportSkillController _supportSkillController;
     
     public bool ShouldEndGame { get; private set; }
 
@@ -23,6 +24,7 @@ public class UnitActionController
         _attackProcessController = attackProcessController;
         _targetSelectorController = new TargetSelectorController(gameUi, enemyTeam);
         _allySelectorController = new AllySelectorController(gameUi, currentTeam);
+        _supportSkillController = new SupportSkillController(gameUi);
         _actionConstantsData = new ActionConstantsData();
         ShouldEndGame = false;
     }
@@ -250,6 +252,10 @@ public class UnitActionController
         {
             return WasSpecialSkillCancelled(currentUnit, skillData);
         }
+        else if (IsSupportSkill(skillData.type))
+        {
+            return WasSupportSkillCancelled(currentUnit, skillData);
+        }
 
         _currentTeam.RotateOrderList();
         return false;
@@ -263,6 +269,29 @@ public class UnitActionController
     private bool IsSpecialSkill(string skillType)
     {
         return skillType == "Special";
+    }
+
+    private bool IsSupportSkill(string skillType)
+    {
+        return skillType == "Support";
+    }
+
+    private bool WasSupportSkillCancelled(IUnit currentUnit, SkillData skillData)
+    {
+        if (!_supportSkillController.CanUseSupportSkill(currentUnit, skillData))
+        {
+            CancelAndReturnToMenu();
+            return true;
+        }
+
+        currentUnit.ConsumeMp(skillData.cost);
+        _supportSkillController.ExecuteSupportSkill(currentUnit, skillData);
+        
+        _currentTeam.ConsumeNonOffensiveSkillsTurns();
+        _currentTeam.RotateOrderList();
+        _currentTeam.IncrementUsedSkillsCount();
+        
+        return false;
     }
 
     private bool HandleOffensiveSkillExecution(IUnit currentUnit, SkillData skillData)
